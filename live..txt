@@ -358,17 +358,6 @@ TVB星河,http://113.117.74.12:8081/hls/135/index.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 凤凰香港,http://gwtv.cnv8.tv:8097/hkphoenix_twn/playlist.m3u8?tid=MD0D2495250724952507&ct=19249&tsum=b1c0a577a7f4aaa9af143d124ba24a40
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
-TVBS,http://gwtv.cnv8.tv:8097/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
-TVBS新闻,http://gwtv.cnv8.tv:8097/tvbs_n/playlist.m3u8?tid=MA4A2233260122332601&ct=19249&tsum=513a9dcb42fa8b98e1792d513dd3e2ee
-TVBS新闻,http://gwtv.cnv8.tv:8097/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733&ct=19193&tsum=38970ab977b9e318cbead37db4134eb8
-TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
-TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
-TVBS新闻,http://194.87.101.118:9501/live.m3u8?c=5
-TVBS欢乐,http://gwtv.cnv8.tv:8097/tvbshuanle_twn/playlist.m3u8?tid=MA5A9262292692622926&ct=19254&tsum=cd369d68a5d2c1a2fa04df748cda142c
-TVBS欢乐,http://gwtv.cnv8.tv:8097/tvbshuanle_twn/playlist.m3u8?ct=19193&tid=MC8C2318787923187879&tsum=394d2b9af3df7846e2cdc60d69dd4219
-TVBS欢乐,http://gwtv.cnv8.tv:8097/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111409641114096&ct=19225&tsum=600f3056bba6413dec3155efd19e2d20
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 澳门卫视,http://61.244.22.5/ch3/ch3.live/index.m3u8
 澳门卫视,http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
 澳门资讯,http://61.244.22.5/ch5/info_ch5.live/index.m3u8
@@ -393,6 +382,17 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 东森新闻,http://194.87.101.118:9501/live.m3u8?c=9
 镜新闻,http://194.87.101.118:9501/live.m3u8?c=10
 三立新闻,http://194.87.101.118:9501/live.m3u8?c=12
+TVBS,http://gwtv.cnv8.tv:8097/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
+TVBS新闻,http://gwtv.cnv8.tv:8097/tvbs_n/playlist.m3u8?tid=MA4A2233260122332601&ct=19249&tsum=513a9dcb42fa8b98e1792d513dd3e2ee
+TVBS新闻,http://gwtv.cnv8.tv:8097/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733&ct=19193&tsum=38970ab977b9e318cbead37db4134eb8
+TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
+TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
+TVBS新闻,http://194.87.101.118:9501/live.m3u8?c=5
+TVBS欢乐,http://gwtv.cnv8.tv:8097/tvbshuanle_twn/playlist.m3u8?tid=MA5A9262292692622926&ct=19254&tsum=cd369d68a5d2c1a2fa04df748cda142c
+TVBS欢乐,http://gwtv.cnv8.tv:8097/tvbshuanle_twn/playlist.m3u8?ct=19193&tid=MC8C2318787923187879&tsum=394d2b9af3df7846e2cdc60d69dd4219
+TVBS欢乐,http://gwtv.cnv8.tv:8097/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111409641114096&ct=19225&tsum=600f3056bba6413dec3155efd19e2d20
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 
 北京,#genre#
 BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
@@ -410,6 +410,7 @@ BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
 东方影视,http://[2409:8087:1e03:21::34]:6610/cms001/ch00000090990000001016/index.m3u8?IASHttpSessionId=RR8275420230310002030000839
 纪实人文,http://r.wylc.top:8888/rtp/239.93.1.137:5140
 纪实人文,http://222.71.90.218:8888/newlive/live/hls/54/live.m3u8
+上海纪实,http://www.icancloud.top:8888/udp/239.3.1.212:8060
 纪实人文,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001330/index.m3u8?virtualDomain=yinhe.live_hls.zte.com五星体育,http://222.71.90.218:8888/newlive/live/hls/56/live.m3u8
 生活时尚,http://r.wylc.top:8888/rtp/239.93.42.29:5140
 五星体育,https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
@@ -526,12 +527,17 @@ BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
 钱江新闻,http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?zzhed
 钱江都市,http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
 钱江都市,http://hw-m-l.cztv.com/channels/lantian/channel02/720p.m3u8?zzhed
+宁波新闻综合,http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
+宁波新闻综合,http://www.372583307.top:4022/udp/233.50.201.168:5140
+宁波经济生活,http://www.372583307.top:4022/udp/233.50.201.178:5140
+宁波经济生活,http://www.372583307.top:4022/udp/233.50.201.178:5140
+宁波都市文体,http://www.372583307.top:4022/udp/233.50.201.179:5140
+宁波影视,http://www.372583307.top:4022/udp/233.50.201.180:5140
+宁波少儿,http://www.372583307.top:4022/udp/233.50.201.181:5140
 绍兴新闻综合,http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8?zzhed
 绍兴公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
 绍兴文化影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed
 义乌新闻综合,https://44911.hlsplay.aodianyun.com/tv_radio_44911/tv_channel_1796.m3u8?auth_key=4830573978-0-0-92824c2c03f95906a3c49a4aa28f1709&extra_key=Yc1XsmxOKy2UBoPM4Wy5vCPsEYqnj06taCR2SRB2Xrg2w28NPilH03KdIbbM5wgSql-VBohSnoO9AOKl94q2t2DWMftz-XB-2qUX-UjXcS80StcSZahBFjrKLivXaRjiY5r2NOMKWMKFbv-S0Bz2G6iEXgCK8yGjtrFHDcPfAQEE0pvXq0Bwy34b7We8zARN&ali_ffmpeg_version=mpengine
-宁波经济,http://www.372583307.top:4022/udp/233.50.201.178:5140
-宁波影视,http://www.372583307.top:4022/udp/233.50.201.180:5140
 舟山新闻,http://live1.plus.wifizs.cn/xwzh/sd/live.m3u8?zzhed
 舟山公共,http://live1.plus.wifizs.cn/ggsh/sd/live.m3u8?zzhed
 嵊泗综合,http://l.cztvcloud.com/channels/lantian/SXshengsi1/720p.m3u8
@@ -579,6 +585,7 @@ BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
 磐安新闻综合,http://hlsv2.quklive.com/live/1626400915947070/index.m3u8
 磐安文化生活,http://hlsv2.quklive.com/live/1626401163709056/index.m3u8
 开化综合,http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8
+鄞州1,http://play-a2.quklive.com/live/1668501533304136.m3u8
 衢江综合,http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8
 普陀新闻综合,http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
 和合频道,http://hlsv2.quklive.com/live/1617072208961931/index.m3u8
@@ -804,6 +811,13 @@ BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
 赣州教育,http://wb.jxgztv.com/live/gztv3.flv
 
 福建,#genre#
+福建综合,http://36.249.151.144:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+福建新闻,http://36.249.151.144:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+福建经济,http://36.249.151.144:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+福建公共,http://36.249.151.144:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+福建电视剧,http://36.249.151.144:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+福建文体,http://36.249.151.144:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+福建少儿,http://36.249.151.144:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 平潭新闻综合,http://39.135.55.7:6610/PLTV/88888888/224/3221227218/index.m3u8?servicetype=1&IASHttpSessionId=OTT?zfud
 南平新闻综合,http://39.135.55.7:6610/PLTV/88888888/224/3221227066/index.m3u8?servicetype=1&IASHttpSessionId=OTT?zfud
 南平公共影院,http://39.135.55.7:6610/PLTV/88888888/224/3221226956/index.m3u8?servicetype=1&IASHttpSessionId=OTT?zfud
@@ -1020,8 +1034,47 @@ BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
 伊犁经济法制,http://110.153.180.106:55555/out_4/index.m3u8
 伊犁维吾尔,http://110.153.180.106:55555/out_2/index.m3u8
 
-求索,#genre#
-房车之家,http://159.75.85.63:35455/douyu/9613554
+海外,#genre#
+Fox News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+Fox News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
+CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8?blog.ntnas.top
+CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+CNN,https://rakuten-cnninternational-1-de.lg.wurl.tv/playlist.m3u8
+BloombergTV,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
+ABC NEWS,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+BBC earth,http://typicamn.russtv.net/iptv/349W3XS8ENP64A/6855/index.m3u8
+BBC World News,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+BBC World News,http://typicamn.russtv.net/iptv/349W3XS8ENP64A/545/index.m3u8
+BBC America,https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
+NewsmaxTV,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+i24news,https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/profile_0/chunklist.m3u8
+Global News, https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
+Channel NewsAsia,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+Channel NewsAsia,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+NHKWorld,https://nhkwlive-burnin2.webcdn.stream.ne.jp/live/index_1M.m3u8
+NHKWorld,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+National Geographic HD Bangla,http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+Nippon TV News24 Japan,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+Tastemade Travelᴴᴰ,https://tastemadetravel-vizio.amagi.tv/playlist720_p.m3u8
+LoveNature4K,http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8?checkedby:iptvcat.com
+Discoveryᴴᴰ,http://typicamn.russtv.net/iptv/349W3XS8ENP64A/9011/index.m3u8
+Travel XP,https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
+NASA TV Media,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
+NASA TV Public,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+France 24 ENG,http://n1.klowdtv.net/live2/france24_720p/chunks.m3u8
+Wild EARTH,https://wildearth-roku.amagi.tv/masterR720P.m3u8
+Известия (720p) （俄罗斯）,https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+俄罗斯中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+越南 | Da Nang TV1 (1080p) [Not 24/7],http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
+越南 | Da Nang TV2 (1080p) [Not 24/7],http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
+韩联社,https://wms211-kortv.akamaized.net/a_live/34402987/smil:20ch211.smil/chunklist_b2500000.m3u8
+KBS WORLD,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
+MTV音乐频道,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
+HBO,http://208.115.225.174:14136
+BBC Travel,https://ab96b349d4d14d80a1f8530a0bce4488.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-de_BBCTravel/playlist.m3u8?ads.wurl_channel=985&ads.wurl_name=BBCTravel&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
 
 影院,#genre#
 华语影院,https://live.goodiptv.club/api/bestv.php?id=hyyy8m/8000000
