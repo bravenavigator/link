@@ -587,18 +587,26 @@ BTV卡酷少儿,http://api.52tb.xyz/info?id=360&token=20230314vyrzsx
 灵璧综合,http://live.cms.anhuinews.com/video/s10003-lbtv/index.m3u8?zanhd
 
 山东,#genre#
+山东新闻,http://api.52tb.xyz/info?id=522&token=20230314vyrzsx
 山东新闻,http://livealone.iqilu.com/iqilu/ggpdhjOF03kn.flv
+山东齐鲁,http://api.52tb.xyz/info?id=521&token=20230314vyrzsx
 山东齐鲁,rtmp://livealone.iqilu.com/iqilu/qlpdhjOF03kn
+山东文旅,http://api.52tb.xyz/info?id=526&token=20230314vyrzsx
 山东齐鲁,http://livealone.iqilu.com/iqilu/qlpdhjOF03kn.flv
 山东文旅,rtmp://livealone.iqilu.com/iqilu/yspdhjOF03kn
+山东综艺,http://api.52tb.xyz/info?id=525&token=20230314vyrzsx
 山东综艺,rtmp://livealone.iqilu.com/iqilu/zypdhjOF03kn
 山东综艺,http://livealone.iqilu.com/iqilu/zypdhjOF03kn.flv
+山东生活,http://api.52tb.xyz/info?id=527&token=20230314vyrzsx
 山东生活,rtmp://livealone.iqilu.com/iqilu/shpdhjOF03kn
 山东生活,http://livealone.iqilu.com/iqilu/shpdhjOF03kn.flv
+山东农科,http://api.52tb.xyz/info?id=528&token=20230314vyrzsx
 山东农科,rtmp://livealone.iqilu.com/iqilu/nkpdhjOF03kn
 山东农科,http://livealone.iqilu.com/iqilu/nkpdhjOF03kn.flv
+山东体育,http://api.52tb.xyz/info?id=523&token=20230314vyrzsx
 山东体育,rtmp://livealone.iqilu.com/iqilu/typdhjOF03kn
 山东体育,http://livealone.iqilu.com/iqilu/typdhjOF03kn.flv
+山东少儿,http://api.52tb.xyz/info?id=524&token=20230314vyrzsx
 山东少儿,rtmp://livealone.iqilu.com/iqilu/sepdhjOF03kn
 山东少儿,http://livealone.iqilu.com/iqilu/sepdhjOF03kn.flv
 山东教育,http://livewai.sdetv.com.cn/live/da4ebbb91ee8468db5a9d230a535391f_transios/playlist.m3u8
@@ -682,6 +690,12 @@ JZ生活,rtmp://alivealone.litenews.cn/305/6b3c364e18a348ed865f67eaf2cdb724
 
 四川,#genre#
 四川新闻,http://r.wylc.top:8888/rtp/239.93.0.47:5140
+四川新闻,http://api.52tb.xyz/info?id=602&token=20230314vyrzsx
+四川经济,http://api.52tb.xyz/info?id=605&token=20230314vyrzsx
+四川乡村,http://api.52tb.xyz/info?id=606&token=20230314vyrzsx
+四川文旅,http://api.52tb.xyz/info?id=603&token=20230314vyrzsx
+四川影视,http://api.52tb.xyz/info?id=601&token=20230314vyrzsx
+四川儿童,http://api.52tb.xyz/info?id=604&token=20230314vyrzsx
 自贡综合,http://110.189.153.160:1001/zhpd.flv?zsicd
 自贡公共,http://110.189.153.160:1002/ggpd.flv?zsicd
 眉山综合,http://live1.scmstv.cn/gqpd/sd/live.m3u8?zsicd
@@ -755,8 +769,15 @@ JZ生活,rtmp://alivealone.litenews.cn/305/6b3c364e18a348ed865f67eaf2cdb724
 夹江新闻综合,http://tvfile.jjrm.org.cn/nmip-media/channellive/channel106282/playlist.m3u8?zsicd
 马边电视台,http://tvfile.mb.lsrm.org.cn/nmip-media/channellive/channel104860/playlist.m3u8?zsicd
 沐川综合,http://tvfile.mcrm.org.cn/nmip-media/channellive/channel103064/playlist.m3u8?zsicd
+洪雅新闻综合,http://api.52tb.xyz/info?id=607&token=20230314vyrzsx
 
 湖北,#genre#
+湖北经视,http://api.52tb.xyz/info?id=541&token=20230314vyrzsx
+湖北综合,http://api.52tb.xyz/info?id=542&token=20230314vyrzsx
+湖北公共,http://api.52tb.xyz/info?id=543&token=20230314vyrzsx
+湖北生活,http://api.52tb.xyz/info?id=544&token=20230314vyrzsx
+湖北教育,http://api.52tb.xyz/info?id=545&token=20230314vyrzsx
+湖北垄上,http://api.52tb.xyz/info?id=546&token=20230314vyrzsx
 武汉新闻综合,http://stream.appwuhan.com/1tzb/sd/live.m3u8
 武汉经济,http://stream.appwuhan.com/4tzb/sd/live.m3u8
 武汉生活,http://stream.appwuhan.com/3tzb/sd/live.m3u8
@@ -798,6 +819,16 @@ JZ生活,rtmp://alivealone.litenews.cn/305/6b3c364e18a348ed865f67eaf2cdb724
 江夏新闻综合,http://59.175.226.142:280/gb28181/xwzh.m3u8
 
 湖南,#genre#
+湖南都市,http://api.52tb.xyz/info?id=567&token=20230314vyrzsx
+湖南经视,http://api.52tb.xyz/info?id=566&token=20230314vyrzsx
+湖南国际,http://api.52tb.xyz/info?id=562&token=20230314vyrzsx
+湖南娱乐,http://api.52tb.xyz/info?id=563&token=20230314vyrzsx
+湖南电影,http://api.52tb.xyz/info?id=564&token=20230314vyrzsx
+湖南电视剧,http://api.52tb.xyz/info?id=565&token=20230314vyrzsx
+金鹰卡通,http://api.52tb.xyz/info?id=568&token=20230314vyrzsx
+金鹰纪实,http://api.52tb.xyz/info?id=569&token=20230314vyrzsx
+湖南爱晚,http://api.52tb.xyz/info?id=561&token=20230314vyrzsx
+湘潭综合,http://api.52tb.xyz/info?id=570&token=20230314vyrzsx
 长沙新闻,rtmp://35848.lssplay.aodianyun.com/guangdianyun_35848/tv_channel_346?auth_key=1936692784-0-0-9042421539d8424068f7e575f090dbca
 湘潭综合,http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
 湘潭公共,http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
@@ -856,16 +887,20 @@ JZ生活,rtmp://alivealone.litenews.cn/305/6b3c364e18a348ed865f67eaf2cdb724
 广西新闻,http://116.9.204.242:9901/tsfile/live/1001_1.m3u8
 广西都市,http://116.9.204.242:9901/tsfile/live/1002_1.m3u8
 广西影视,http://111.59.63.32:9901/tsfile/live/1006_1.m3u8
+南宁新闻综合,http://api.52tb.xyz/info?id=721&token=20230314vyrzsx
 南宁新闻综合,http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
 南宁新闻综合,http://api2.52tb.xyz/info?id=721&token=20230331czbpek
 南宁新闻综合,http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8?zguangxd
 南宁都市生活,http://api2.52tb.xyz/info?id=722&token=20230331czbpek
 南宁都市生活,http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8
+南宁都市,http://api.52tb.xyz/info?id=722&token=20230314vyrzsx
 南宁公共,http://hls.nntv.cn/nnlive/NNTV_PUB_A.m3u8
+南宁公共,http://api.52tb.xyz/info?id=724&token=20230314vyrzsx
 南宁公共,http://api2.52tb.xyz/info?id=724&token=20230331czbpek
 南宁影视娱乐,http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
 南宁影视娱乐,http://api2.52tb.xyz/info?id=723&token=20230331czbpek
 南宁影视娱乐,http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8?zguangxd
+南宁影视娱乐,http://api.52tb.xyz/info?id=723&token=20230314vyrzsx
 桂林新闻,https://pull.gltvs.com/live/glxw/playlist.m3u8?v=b0528684bf934e120e1c30fc808e6576&t=1796868188
 北海新闻,http://rtmp.gdlive.gdmain.com/live/09em4xbl.m3u8
 钦州综合,http://stream.gxqzxw.com/qztv/zhhd/live.m3u8
@@ -943,13 +978,17 @@ JZ生活,rtmp://alivealone.litenews.cn/305/6b3c364e18a348ed865f67eaf2cdb724
 安康公共,http://mmitv.top/test/tianma.php?id=akgg
 安康教育,http://mmitv.top/test/tianma.php?id=akjy
 
-
 山西,#genre#
+山西经济,http://api.52tb.xyz/info?id=643&token=20230314vyrzsx
 山西经济,http://liveflash.sxrtv.com/live/sxfinance.m3u8?sub_m3u8=true&edge_slice=true
 山西社会与法治,http://liveflash.sxrtv.com/live/sxedu.m3u8?sub_m3u8=true&edge_slice=true
 山西文体生活,http://liveflash.sxrtv.com/live/sxpublic.m3u8?sub_m3u8=true&edge_slice=true
+山西文体生活,http://api.52tb.xyz/info?id=644&token=20230314vyrzsx
+山西法治,http://api.52tb.xyz/info?id=642&token=20230314vyrzsx
+山西影视,http://api.52tb.xyz/info?id=641&token=20230314vyrzsx
 山西影视,http://liveflash.sxrtv.com/live/sxfilm.m3u8?sub_m3u8=true&edge_slice=true
 山西黄河,http://liveflash.sxrtv.com/live/huanghe.m3u8?sub_m3u8=true&edge_slice=true
+黄河电视台,http://api.52tb.xyz/info?id=645&token=20230314vyrzsx
 高平综合,http://live.gprmt.cn/gpnews/hd/live.m3u8
 晋中新闻频道,http://jzlive.jztvnews.com:90/live/jzzh.m3u8
 晋中公共频道,http://jzlive.jztvnews.com:90/live/jzgg.m3u8
@@ -1006,6 +1045,12 @@ JZ生活,rtmp://alivealone.litenews.cn/305/6b3c364e18a348ed865f67eaf2cdb724
 滨海影院,http://traffic.jbh.tjbh.com/live/bhtv3/playlist.m3u8?ztianjd
 
 黑龙江,#genre#
+黑龙江新闻法治,http://api.52tb.xyz/info?id=761&token=20230314vyrzsx
+黑龙江公共农业,http://api.52tb.xyz/info?id=762&token=20230314vyrzsx
+黑龙江都市频道,http://api.52tb.xyz/info?id=763&token=20230314vyrzsx
+黑龙江文体频道,http://api.52tb.xyz/info?id=764&token=20230314vyrzsx
+黑龙江影视频道,http://api.52tb.xyz/info?id=765&token=20230314vyrzsx
+黑龙江少儿频道,http://api.52tb.xyz/info?id=766&token=20230314vyrzsx
 哈尔滨新闻综合,http://stream.hrbtv.net/xwzh/sd/live.m3u8?zheild
 哈尔滨影,http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild
 哈尔滨生活,http://stream.hrbtv.net/shpd/sd/live.m3u8?zheild
@@ -1044,6 +1089,13 @@ JZ生活,rtmp://alivealone.litenews.cn/305/6b3c364e18a348ed865f67eaf2cdb724
 化隆综合,http://livecdn.dmqhyadmin.com/hls/xjhualong.m3u8
 
 内蒙古,#genre#
+内蒙新闻,http://api.52tb.xyz/info?id=781&token=20230314vyrzsx
+蒙古语文化,http://api.52tb.xyz/info?id=782&token=20230314vyrzsx
+蒙古语卫视,http://api.52tb.xyz/info?id=783&token=20230314vyrzsx
+内蒙少儿,http://api.52tb.xyz/info?id=784&token=20230314vyrzsx
+内蒙文体,http://api.52tb.xyz/info?id=785&token=20230314vyrzsx
+农牧频道,http://api.52tb.xyz/info?id=886&token=20230314vyrzsx
+内蒙生活,http://api.52tb.xyz/info?id=787&token=20230314vyrzsx
 鄂尔多斯新闻综合,http://live.erdszs.org.cn/lsdream/h2mxgj4/1000/live.m3u8?zneimd
 鄂尔多斯经济服务,http://live.erdszs.org.cn/lsdream/ogvfqcp/1000/live.m3u8?zneimd
 鄂尔多斯蒙语综合,http://live.erdszs.org.cn/lsdream/3lZr8dK/1000/live.m3u8?zneimd
