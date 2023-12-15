@@ -1045,6 +1045,7 @@ CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 CNN,https://rakuten-cnninternational-1-de.lg.wurl.tv/playlist.m3u8
 BloombergTV,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
 ABC NEWS,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+ABC NEWS,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
 BBC earth,http://typicamn.russtv.net/iptv/349W3XS8ENP64A/6855/index.m3u8
 BBC World News,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 BBC World News,http://typicamn.russtv.net/iptv/349W3XS8ENP64A/545/index.m3u8
@@ -1055,8 +1056,8 @@ Reuters TV,https://reuters-reutersnow-1-us.plex.wurl.tv/c0c0829237382f291cc46a03
 Global News, https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
 Channel NewsAsia,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 Channel NewsAsia,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-NHKWorld,https://nhkwlive-burnin2.webcdn.stream.ne.jp/live/index_1M.m3u8
-NHKWorld,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+NHK World,https://nhkwlive-burnin2.webcdn.stream.ne.jp/live/index_1M.m3u8
+NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 National Geographic HD Bangla,http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 Nippon TV News24 Japan,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 Tastemade Travelᴴᴰ,https://tastemadetravel-vizio.amagi.tv/playlist720_p.m3u8
@@ -1076,6 +1077,7 @@ Wild EARTH,https://wildearth-roku.amagi.tv/masterR720P.m3u8
 越南 | Da Nang TV1 (1080p) [Not 24/7],http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
 越南 | Da Nang TV2 (1080p) [Not 24/7],http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 Quốc Hội (720p),http://113.164.225.140:1935/live/quochoitvlive.stream_720p/playlist.m3u8
+AL Jazeera，https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
 TN - Truyền hình Thái Nguyên HD,https://streaming.thainguyentv.vn/hls/livestream.m3u8
 Hải Phòng,https://live.thhp.vn/thp/index.m3u8
