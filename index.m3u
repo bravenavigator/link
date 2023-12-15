@@ -1,0 +1,1008 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://159.75.166.157/CCTV/CCTV1.png" group-title="央视(线路1)",CCTV1
+http://api.52tb.xyz/info?id=2&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://159.75.166.157/CCTV/CCTV2.png" group-title="央视(线路1)",CCTV2
+http://api.52tb.xyz/info?id=3&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="http://159.75.166.157/CCTV/CCTV3.png" group-title="央视(线路1)",CCTV3
+http://api.52tb.xyz/info?id=4&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="http://159.75.166.157/CCTV/CCTV4.png" group-title="央视(线路1)",CCTV4
+http://api.52tb.xyz/info?id=5&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://159.75.166.157/CCTV/CCTV5.png" group-title="央视(线路1)",CCTV5
+http://api.52tb.xyz/info?id=6&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="http://159.75.166.157/CCTV/CCTV55.png" group-title="央视(线路1)",CCTV5+
+http://api.52tb.xyz/info?id=7&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="http://159.75.166.157/CCTV/CCTV6.png" group-title="央视(线路1)",CCTV6
+http://api.52tb.xyz/info?id=8&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="http://159.75.166.157/CCTV/CCTV7.png" group-title="央视(线路1)",CCTV7
+http://api.52tb.xyz/info?id=9&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="http://159.75.166.157/CCTV/CCTV8.png" group-title="央视(线路1)",CCTV8
+http://api.52tb.xyz/info?id=10&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="http://159.75.166.157/CCTV/CCTV9.png" group-title="央视(线路1)",CCTV9
+http://api.52tb.xyz/info?id=11&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="http://159.75.166.157/CCTV/CCTV10.png" group-title="央视(线路1)",CCTV10
+http://api.52tb.xyz/info?id=12&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="http://159.75.166.157/CCTV/CCTV11.png" group-title="央视(线路1)",CCTV11
+http://api.52tb.xyz/info?id=13&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="http://159.75.166.157/CCTV/CCTV12.png" group-title="央视(线路1)",CCTV12
+http://api.52tb.xyz/info?id=14&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="http://159.75.166.157/CCTV/CCTV13.png" group-title="央视(线路1)",CCTV13
+http://api.52tb.xyz/info?id=15&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="http://159.75.166.157/CCTV/CCTV14.png" group-title="央视(线路1)",CCTV14
+http://api.52tb.xyz/info?id=16&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="http://159.75.166.157/CCTV/CCTV15.png" group-title="央视(线路1)",CCTV15
+http://api.52tb.xyz/info?id=17&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://159.75.166.157/CCTV/CCTV16.png" group-title="央视(线路1)",CCTV16
+http://api.52tb.xyz/info?id=18&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="http://159.75.166.157/CCTV/CCTV17.png" group-title="央视(线路1)",CCTV17
+http://api.52tb.xyz/info?id=19&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="风云足球" tvg-logo="http://159.75.166.157/CCTV/CCTVfengyunzuqiu.png" group-title="央视(线路1)",风云足球
+http://api.52tb.xyz/info?id=20&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="http://159.75.166.157/ws/hunan.png" group-title="卫视(线路1)",湖南卫视
+http://api.52tb.xyz/info?id=21&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="http://159.75.166.157/ws/zhejiang.png" group-title="卫视(线路1)",浙江卫视
+http://api.52tb.xyz/info?id=22&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="http://159.75.166.157/ws/jiangsu.png" group-title="卫视(线路1)",江苏卫视
+http://api.52tb.xyz/info?id=23&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="http://159.75.166.157/ws/dongfang.png" group-title="卫视(线路1)",东方卫视
+http://api.52tb.xyz/info?id=24&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="http://159.75.166.157/ws/beijing.png" group-title="卫视(线路1)",北京卫视
+http://api.52tb.xyz/info?id=25&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="http://159.75.166.157/ws/tianjin.png" group-title="卫视(线路1)",天津卫视
+http://api.52tb.xyz/info?id=26&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="http://159.75.166.157/ws/guangdong.png" group-title="卫视(线路1)",广东卫视
+http://api.52tb.xyz/info?id=27&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="http://159.75.166.157/ws/shenzhen.png" group-title="卫视(线路1)",深圳卫视
+http://api.52tb.xyz/info?id=28&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="http://159.75.166.157/ws/dongnan.png" group-title="卫视(线路1)",东南卫视
+http://api.52tb.xyz/info?id=29&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="http://159.75.166.157/ws/shandong.png" group-title="卫视(线路1)",山东卫视
+http://api.52tb.xyz/info?id=30&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="http://159.75.166.157/ws/henan.png" group-title="卫视(线路1)",河南卫视
+http://api.52tb.xyz/info?id=31&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="http://159.75.166.157/ws/hebei.png" group-title="卫视(线路1)",河北卫视
+http://api.52tb.xyz/info?id=32&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="http://159.75.166.157/ws/anhui.png" group-title="卫视(线路1)",安徽卫视
+http://api.52tb.xyz/info?id=33&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="http://159.75.166.157/ws/hubei.png" group-title="卫视(线路1)",湖北卫视
+http://api.52tb.xyz/info?id=34&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="http://159.75.166.157/ws/jiangxi.png" group-title="卫视(线路1)",江西卫视
+http://api.52tb.xyz/info?id=35&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="http://159.75.166.157/ws/guizhou.png" group-title="卫视(线路1)",贵州卫视
+http://api.52tb.xyz/info?id=36&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="http://159.75.166.157/ws/chongqing.png" group-title="卫视(线路1)",重庆卫视
+http://api.52tb.xyz/info?id=37&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="http://159.75.166.157/ws/lvyou.png" group-title="卫视(线路1)",海南卫视
+http://api.52tb.xyz/info?id=38&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="http://159.75.166.157/ws/sichuan.png" group-title="卫视(线路1)",四川卫视
+http://api.52tb.xyz/info?id=39&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="http://159.75.166.157/ws/jilin.png" group-title="卫视(线路1)",吉林卫视
+http://api.52tb.xyz/info?id=40&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="http://159.75.166.157/ws/heilongjiang.png" group-title="卫视(线路1)",黑龙江卫视
+http://api.52tb.xyz/info?id=41&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="http://159.75.166.157/ws/yunnan.png" group-title="卫视(线路1)",云南卫视
+http://api.52tb.xyz/info?id=42&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="http://159.75.166.157/ws/liaoning.png" group-title="卫视(线路1)",辽宁卫视
+http://api.52tb.xyz/info?id=43&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="http://159.75.166.157/ws/neimeng.png" group-title="卫视(线路1)",内蒙古卫视
+http://api.52tb.xyz/info?id=44&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="http://159.75.166.157/ws/guangxi.png" group-title="卫视(线路1)",广西卫视
+http://api.52tb.xyz/info?id=45&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="http://159.75.166.157/ws/gansu.png" group-title="卫视(线路1)",甘肃卫视
+http://api.52tb.xyz/info?id=46&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="http://159.75.166.157/ws/shanxi.png" group-title="卫视(线路1)",陕西卫视
+http://api.52tb.xyz/info?id=47&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="http://159.75.166.157/ws/shanxi_.png" group-title="卫视(线路1)",山西卫视
+http://api.52tb.xyz/info?id=48&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="http://159.75.166.157/ws/ningxia.png" group-title="卫视(线路1)",宁夏卫视
+http://api.52tb.xyz/info?id=49&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="http://159.75.166.157/ws/qinghai.png" group-title="卫视(线路1)",青海卫视
+http://api.52tb.xyz/info?id=50&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="http://159.75.166.157/ws/xinjiang.png" group-title="卫视(线路1)",新疆卫视
+http://api.52tb.xyz/info?id=51&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="http://159.75.166.157/ws/xizang.png" group-title="卫视(线路1)",西藏卫视
+http://api.52tb.xyz/info?id=52&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://159.75.166.157/CCTV/CCTV1.png" group-title="央视(线路2)",CCTV1
+http://api.52tb.xyz/info?id=53&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://159.75.166.157/CCTV/CCTV2.png" group-title="央视(线路2)",CCTV2
+http://api.52tb.xyz/info?id=54&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="http://159.75.166.157/CCTV/CCTV3.png" group-title="央视(线路2)",CCTV3
+http://api.52tb.xyz/info?id=55&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="http://159.75.166.157/CCTV/CCTV4.png" group-title="央视(线路2)",CCTV4
+http://api.52tb.xyz/info?id=56&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://159.75.166.157/CCTV/CCTV5.png" group-title="央视(线路2)",CCTV5
+http://api.52tb.xyz/info?id=57&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="http://159.75.166.157/CCTV/CCTV55.png" group-title="央视(线路2)",CCTV5+
+http://api.52tb.xyz/info?id=58&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="http://159.75.166.157/CCTV/CCTV6.png" group-title="央视(线路2)",CCTV6
+http://api.52tb.xyz/info?id=59&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="http://159.75.166.157/CCTV/CCTV7.png" group-title="央视(线路2)",CCTV7
+http://api.52tb.xyz/info?id=60&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="http://159.75.166.157/CCTV/CCTV8.png" group-title="央视(线路2)",CCTV8
+http://api.52tb.xyz/info?id=61&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="http://159.75.166.157/CCTV/CCTV9.png" group-title="央视(线路2)",CCTV9
+http://api.52tb.xyz/info?id=62&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="http://159.75.166.157/CCTV/CCTV10.png" group-title="央视(线路2)",CCTV10
+http://api.52tb.xyz/info?id=63&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="http://159.75.166.157/CCTV/CCTV11.png" group-title="央视(线路2)",CCTV11
+http://api.52tb.xyz/info?id=64&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="http://159.75.166.157/CCTV/CCTV12.png" group-title="央视(线路2)",CCTV12
+http://api.52tb.xyz/info?id=65&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="http://159.75.166.157/CCTV/CCTV13.png" group-title="央视(线路2)",CCTV13
+http://api.52tb.xyz/info?id=66&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="http://159.75.166.157/CCTV/CCTV14.png" group-title="央视(线路2)",CCTV14
+http://api.52tb.xyz/info?id=67&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="http://159.75.166.157/CCTV/CCTV15.png" group-title="央视(线路2)",CCTV15
+http://api.52tb.xyz/info?id=68&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://159.75.166.157/CCTV/CCTV16.png" group-title="央视(线路2)",CCTV16
+http://api.52tb.xyz/info?id=69&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="http://159.75.166.157/CCTV/CCTV17.png" group-title="央视(线路2)",CCTV17
+http://api.52tb.xyz/info?id=70&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="风云足球" tvg-logo="http://159.75.166.157/CCTV/CCTVfengyunzuqiu.png" group-title="央视(线路2)",风云足球
+http://api.52tb.xyz/info?id=71&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="http://159.75.166.157/ws/hunan.png" group-title="卫视(线路2)",湖南卫视
+http://api.52tb.xyz/info?id=72&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="http://159.75.166.157/ws/zhejiang.png" group-title="卫视(线路2)",浙江卫视
+http://api.52tb.xyz/info?id=73&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="http://159.75.166.157/ws/jiangsu.png" group-title="卫视(线路2)",江苏卫视
+http://api.52tb.xyz/info?id=74&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="http://159.75.166.157/ws/dongfang.png" group-title="卫视(线路2)",东方卫视
+http://api.52tb.xyz/info?id=75&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="http://159.75.166.157/ws/beijing.png" group-title="卫视(线路2)",北京卫视
+http://api.52tb.xyz/info?id=76&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="http://159.75.166.157/ws/tianjin.png" group-title="卫视(线路2)",天津卫视
+http://api.52tb.xyz/info?id=77&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="http://159.75.166.157/ws/guangdong.png" group-title="卫视(线路2)",广东卫视
+http://api.52tb.xyz/info?id=78&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="http://159.75.166.157/ws/shenzhen.png" group-title="卫视(线路2)",深圳卫视
+http://api.52tb.xyz/info?id=79&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="http://159.75.166.157/ws/dongnan.png" group-title="卫视(线路2)",东南卫视
+http://api.52tb.xyz/info?id=80&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="http://159.75.166.157/ws/shandong.png" group-title="卫视(线路2)",山东卫视
+http://api.52tb.xyz/info?id=81&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="http://159.75.166.157/ws/henan.png" group-title="卫视(线路2)",河南卫视
+http://api.52tb.xyz/info?id=82&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="http://159.75.166.157/ws/hebei.png" group-title="卫视(线路2)",河北卫视
+http://api.52tb.xyz/info?id=83&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="http://159.75.166.157/ws/anhui.png" group-title="卫视(线路2)",安徽卫视
+http://api.52tb.xyz/info?id=84&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="http://159.75.166.157/ws/hubei.png" group-title="卫视(线路2)",湖北卫视
+http://api.52tb.xyz/info?id=85&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="http://159.75.166.157/ws/jiangxi.png" group-title="卫视(线路2)",江西卫视
+http://api.52tb.xyz/info?id=86&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="http://159.75.166.157/ws/guizhou.png" group-title="卫视(线路2)",贵州卫视
+http://api.52tb.xyz/info?id=87&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="http://159.75.166.157/ws/chongqing.png" group-title="卫视(线路2)",重庆卫视
+http://api.52tb.xyz/info?id=88&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="http://159.75.166.157/ws/lvyou.png" group-title="卫视(线路2)",海南卫视
+http://api.52tb.xyz/info?id=89&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="http://159.75.166.157/ws/sichuan.png" group-title="卫视(线路2)",四川卫视
+http://api.52tb.xyz/info?id=90&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="http://159.75.166.157/ws/jilin.png" group-title="卫视(线路2)",吉林卫视
+http://api.52tb.xyz/info?id=91&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="http://159.75.166.157/ws/heilongjiang.png" group-title="卫视(线路2)",黑龙江卫视
+http://api.52tb.xyz/info?id=92&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="http://159.75.166.157/ws/yunnan.png" group-title="卫视(线路2)",云南卫视
+http://api.52tb.xyz/info?id=93&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="http://159.75.166.157/ws/liaoning.png" group-title="卫视(线路2)",辽宁卫视
+http://api.52tb.xyz/info?id=94&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="http://159.75.166.157/ws/neimeng.png" group-title="卫视(线路2)",内蒙古卫视
+http://api.52tb.xyz/info?id=95&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="http://159.75.166.157/ws/guangxi.png" group-title="卫视(线路2)",广西卫视
+http://api.52tb.xyz/info?id=96&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="http://159.75.166.157/ws/gansu.png" group-title="卫视(线路2)",甘肃卫视
+http://api.52tb.xyz/info?id=97&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="http://159.75.166.157/ws/shanxi.png" group-title="卫视(线路2)",陕西卫视
+http://api.52tb.xyz/info?id=98&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="http://159.75.166.157/ws/shanxi_.png" group-title="卫视(线路2)",山西卫视
+http://api.52tb.xyz/info?id=99&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="http://159.75.166.157/ws/ningxia.png" group-title="卫视(线路2)",宁夏卫视
+http://api.52tb.xyz/info?id=100&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="http://159.75.166.157/ws/qinghai.png" group-title="卫视(线路2)",青海卫视
+http://api.52tb.xyz/info?id=101&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="http://159.75.166.157/ws/xinjiang.png" group-title="卫视(线路2)",新疆卫视
+http://api.52tb.xyz/info?id=102&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="http://159.75.166.157/ws/xizang.png" group-title="卫视(线路2)",西藏卫视
+http://api.52tb.xyz/info?id=103&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://159.75.166.157/CCTV/CCTV1.png" group-title="央视(线路3)",CCTV1
+http://api.52tb.xyz/info?id=104&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://159.75.166.157/CCTV/CCTV2.png" group-title="央视(线路3)",CCTV2
+http://api.52tb.xyz/info?id=105&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="http://159.75.166.157/CCTV/CCTV3.png" group-title="央视(线路3)",CCTV3
+http://api.52tb.xyz/info?id=106&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="http://159.75.166.157/CCTV/CCTV4.png" group-title="央视(线路3)",CCTV4
+http://api.52tb.xyz/info?id=107&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://159.75.166.157/CCTV/CCTV5.png" group-title="央视(线路3)",CCTV5
+http://api.52tb.xyz/info?id=108&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="http://159.75.166.157/CCTV/CCTV55.png" group-title="央视(线路3)",CCTV5+
+http://api.52tb.xyz/info?id=109&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="http://159.75.166.157/CCTV/CCTV6.png" group-title="央视(线路3)",CCTV6
+http://api.52tb.xyz/info?id=110&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="http://159.75.166.157/CCTV/CCTV7.png" group-title="央视(线路3)",CCTV7
+http://api.52tb.xyz/info?id=111&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="http://159.75.166.157/CCTV/CCTV8.png" group-title="央视(线路3)",CCTV8
+http://api.52tb.xyz/info?id=112&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="http://159.75.166.157/CCTV/CCTV9.png" group-title="央视(线路3)",CCTV9
+http://api.52tb.xyz/info?id=113&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="http://159.75.166.157/CCTV/CCTV10.png" group-title="央视(线路3)",CCTV10
+http://api.52tb.xyz/info?id=114&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="http://159.75.166.157/CCTV/CCTV11.png" group-title="央视(线路3)",CCTV11
+http://api.52tb.xyz/info?id=115&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="http://159.75.166.157/CCTV/CCTV12.png" group-title="央视(线路3)",CCTV12
+http://api.52tb.xyz/info?id=116&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="http://159.75.166.157/CCTV/CCTV13.png" group-title="央视(线路3)",CCTV13
+http://api.52tb.xyz/info?id=117&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="http://159.75.166.157/CCTV/CCTV14.png" group-title="央视(线路3)",CCTV14
+http://api.52tb.xyz/info?id=118&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="http://159.75.166.157/CCTV/CCTV15.png" group-title="央视(线路3)",CCTV15
+http://api.52tb.xyz/info?id=119&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://159.75.166.157/CCTV/CCTV16.png" group-title="央视(线路3)",CCTV16
+http://api.52tb.xyz/info?id=120&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="http://159.75.166.157/CCTV/CCTV17.png" group-title="央视(线路3)",CCTV17
+http://api.52tb.xyz/info?id=121&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="风云足球" tvg-logo="http://159.75.166.157/CCTV/CCTVfengyunzuqiu.png" group-title="央视(线路3)",风云足球
+http://api.52tb.xyz/info?id=122&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="http://159.75.166.157/ws/hunan.png" group-title="卫视(线路3)",湖南卫视
+http://api.52tb.xyz/info?id=123&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="http://159.75.166.157/ws/zhejiang.png" group-title="卫视(线路3)",浙江卫视
+http://api.52tb.xyz/info?id=124&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="http://159.75.166.157/ws/jiangsu.png" group-title="卫视(线路3)",江苏卫视
+http://api.52tb.xyz/info?id=125&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="http://159.75.166.157/ws/dongfang.png" group-title="卫视(线路3)",东方卫视
+http://api.52tb.xyz/info?id=126&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="http://159.75.166.157/ws/beijing.png" group-title="卫视(线路3)",北京卫视
+http://api.52tb.xyz/info?id=127&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="http://159.75.166.157/ws/tianjin.png" group-title="卫视(线路3)",天津卫视
+http://api.52tb.xyz/info?id=128&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="http://159.75.166.157/ws/guangdong.png" group-title="卫视(线路3)",广东卫视
+http://api.52tb.xyz/info?id=129&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="http://159.75.166.157/ws/shenzhen.png" group-title="卫视(线路3)",深圳卫视
+http://api.52tb.xyz/info?id=130&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="http://159.75.166.157/ws/dongnan.png" group-title="卫视(线路3)",东南卫视
+http://api.52tb.xyz/info?id=131&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="http://159.75.166.157/ws/shandong.png" group-title="卫视(线路3)",山东卫视
+http://api.52tb.xyz/info?id=132&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="http://159.75.166.157/ws/henan.png" group-title="卫视(线路3)",河南卫视
+http://api.52tb.xyz/info?id=133&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="http://159.75.166.157/ws/hebei.png" group-title="卫视(线路3)",河北卫视
+http://api.52tb.xyz/info?id=134&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="http://159.75.166.157/ws/anhui.png" group-title="卫视(线路3)",安徽卫视
+http://api.52tb.xyz/info?id=135&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="http://159.75.166.157/ws/hubei.png" group-title="卫视(线路3)",湖北卫视
+http://api.52tb.xyz/info?id=136&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="http://159.75.166.157/ws/jiangxi.png" group-title="卫视(线路3)",江西卫视
+http://api.52tb.xyz/info?id=137&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="http://159.75.166.157/ws/guizhou.png" group-title="卫视(线路3)",贵州卫视
+http://api.52tb.xyz/info?id=138&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="http://159.75.166.157/ws/chongqing.png" group-title="卫视(线路3)",重庆卫视
+http://api.52tb.xyz/info?id=139&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="http://159.75.166.157/ws/lvyou.png" group-title="卫视(线路3)",海南卫视
+http://api.52tb.xyz/info?id=140&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="http://159.75.166.157/ws/sichuan.png" group-title="卫视(线路3)",四川卫视
+http://api.52tb.xyz/info?id=141&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="http://159.75.166.157/ws/jilin.png" group-title="卫视(线路3)",吉林卫视
+http://api.52tb.xyz/info?id=142&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="http://159.75.166.157/ws/heilongjiang.png" group-title="卫视(线路3)",黑龙江卫视
+http://api.52tb.xyz/info?id=143&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="http://159.75.166.157/ws/yunnan.png" group-title="卫视(线路3)",云南卫视
+http://api.52tb.xyz/info?id=144&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="http://159.75.166.157/ws/liaoning.png" group-title="卫视(线路3)",辽宁卫视
+http://api.52tb.xyz/info?id=145&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="http://159.75.166.157/ws/neimeng.png" group-title="卫视(线路3)",内蒙古卫视
+http://api.52tb.xyz/info?id=146&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="http://159.75.166.157/ws/guangxi.png" group-title="卫视(线路3)",广西卫视
+http://api.52tb.xyz/info?id=147&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="http://159.75.166.157/ws/gansu.png" group-title="卫视(线路3)",甘肃卫视
+http://api.52tb.xyz/info?id=148&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="http://159.75.166.157/ws/shanxi.png" group-title="卫视(线路3)",陕西卫视
+http://api.52tb.xyz/info?id=149&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="http://159.75.166.157/ws/shanxi_.png" group-title="卫视(线路3)",山西卫视
+http://api.52tb.xyz/info?id=150&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="http://159.75.166.157/ws/ningxia.png" group-title="卫视(线路3)",宁夏卫视
+http://api.52tb.xyz/info?id=151&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="http://159.75.166.157/ws/qinghai.png" group-title="卫视(线路3)",青海卫视
+http://api.52tb.xyz/info?id=152&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="http://159.75.166.157/ws/xinjiang.png" group-title="卫视(线路3)",新疆卫视
+http://api.52tb.xyz/info?id=153&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="http://159.75.166.157/ws/xizang.png" group-title="卫视(线路3)",西藏卫视
+http://api.52tb.xyz/info?id=154&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="" group-title="4K频道",欢笑剧场4K
+http://api.52tb.xyz/info?id=155&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="CCTV16-4K" tvg-logo="" group-title="4K频道",CCTV16-4K
+http://api.52tb.xyz/info?id=156&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="" group-title="4K频道",CCTV4K
+http://api.52tb.xyz/info?id=157&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="4K-UHD" tvg-logo="0" group-title="4K频道",4K-UHD
+http://api.52tb.xyz/info?id=158&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="4K影视1" tvg-logo="0" group-title="4K频道",4K影视1
+http://api.52tb.xyz/info?id=159&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="4K影视2" tvg-logo="0" group-title="4K频道",4K影视2
+http://api.52tb.xyz/info?id=160&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="江苏4K" tvg-logo="" group-title="4K频道",江苏4K
+http://api.52tb.xyz/info?id=902&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="Fashion4K" tvg-logo="0" group-title="4K频道",Fashion4K
+http://api.52tb.xyz/info?id=161&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="Clarity4K" tvg-logo="0" group-title="4K频道",Clarity4K
+http://api.52tb.xyz/info?id=162&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="爱自然" tvg-logo="0" group-title="4K频道",爱自然
+http://api.52tb.xyz/info?id=163&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="咪咕4K(1)" tvg-logo="0" group-title="4K频道",咪咕4K(1)
+http://api.52tb.xyz/info?id=164&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="咪咕4K(2)" tvg-logo="0" group-title="4K频道",咪咕4K(2)
+http://api.52tb.xyz/info?id=165&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="斗鱼4K电影" tvg-logo="" group-title="4K频道",斗鱼4K电影
+http://api.52tb.xyz/info?id=1037&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="http://159.75.166.157/fh/fenghuangzhongwen.png" group-title="凤凰",凤凰中文
+http://api.52tb.xyz/info?id=166&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="http://159.75.166.157/fh/fenghuangzixun.png" group-title="凤凰",凤凰资讯
+http://api.52tb.xyz/info?id=168&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="科幻系列" tvg-logo="" group-title="轮播电影",科幻系列
+http://api.52tb.xyz/info?id=1023&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="恐怖经典" tvg-logo="" group-title="轮播电影",恐怖经典
+http://api.52tb.xyz/info?id=1024&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="变种人电影" tvg-logo="" group-title="轮播电影",变种人电影
+http://api.52tb.xyz/info?id=1025&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="小宇60帧" tvg-logo="" group-title="轮播电影",小宇60帧
+http://api.52tb.xyz/info?id=1026&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="华语电影" tvg-logo="" group-title="轮播电影",华语电影
+http://api.52tb.xyz/info?id=1027&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="华语动作电影" tvg-logo="" group-title="轮播电影",华语动作电影
+http://api.52tb.xyz/info?id=1028&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="恐怖电影" tvg-logo="" group-title="轮播电影",恐怖电影
+http://api.52tb.xyz/info?id=1029&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="喜剧电影" tvg-logo="" group-title="轮播电影",喜剧电影
+http://api.52tb.xyz/info?id=1030&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="欧美大片" tvg-logo="" group-title="轮播电影",欧美大片
+http://api.52tb.xyz/info?id=1031&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="怀旧90" tvg-logo="" group-title="轮播电影",怀旧90
+http://api.52tb.xyz/info?id=1032&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="国产影片" tvg-logo="" group-title="轮播电影",国产影片
+http://api.52tb.xyz/info?id=1033&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="麓山迷踪" tvg-logo="" group-title="轮播电影",麓山迷踪
+http://api.52tb.xyz/info?id=1034&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="译制影片" tvg-logo="" group-title="轮播电影",译制影片
+http://api.52tb.xyz/info?id=1035&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="周星驰" tvg-logo="" group-title="轮播电影",周星驰
+http://api.52tb.xyz/info?id=1036&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="华语经典" tvg-logo="" group-title="轮播电影",华语经典
+http://api.52tb.xyz/info?id=1001&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="吃米滴虫" tvg-logo="" group-title="轮播电影",吃米滴虫
+http://api.52tb.xyz/info?id=1002&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="神乐影片1" tvg-logo="" group-title="轮播电影",神乐影片1
+http://api.52tb.xyz/info?id=1003&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="神乐影片2" tvg-logo="" group-title="轮播电影",神乐影片2
+http://api.52tb.xyz/info?id=1004&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="特辑影院" tvg-logo="" group-title="轮播电影",特辑影院
+http://api.52tb.xyz/info?id=1005&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="贝爷MAX厅" tvg-logo="" group-title="轮播电影",贝爷MAX厅
+http://api.52tb.xyz/info?id=1006&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="漫威影片" tvg-logo="" group-title="轮播电影",漫威影片
+http://api.52tb.xyz/info?id=1007&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="刘德华电影1" tvg-logo="" group-title="轮播电影",刘德华电影1
+http://api.52tb.xyz/info?id=1008&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="刘德华电影2" tvg-logo="" group-title="轮播电影",刘德华电影2
+http://api.52tb.xyz/info?id=1009&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="豆瓣高分" tvg-logo="" group-title="轮播电影",豆瓣高分
+http://api.52tb.xyz/info?id=1010&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="林正英电影1" tvg-logo="" group-title="轮播电影",林正英电影1
+http://api.52tb.xyz/info?id=1011&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="林正英电影2" tvg-logo="" group-title="轮播电影",林正英电影2
+http://api.52tb.xyz/info?id=1012&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="宇哥电影" tvg-logo="" group-title="轮播电影",宇哥电影
+http://api.52tb.xyz/info?id=1013&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="女神金电影" tvg-logo="" group-title="轮播电影",女神金电影
+http://api.52tb.xyz/info?id=1014&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="北京大蜜" tvg-logo="" group-title="轮播电影",北京大蜜
+http://api.52tb.xyz/info?id=1015&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="贝爷影厅1" tvg-logo="" group-title="轮播电影",贝爷影厅1
+http://api.52tb.xyz/info?id=1016&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="贝爷影厅2" tvg-logo="" group-title="轮播电影",贝爷影厅2
+http://api.52tb.xyz/info?id=1017&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="霍格影片" tvg-logo="" group-title="轮播电影",霍格影片
+http://api.52tb.xyz/info?id=1018&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="可乐电影" tvg-logo="" group-title="轮播电影",可乐电影
+http://api.52tb.xyz/info?id=1019&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="冰冰经典电影" tvg-logo="" group-title="轮播电影",冰冰经典电影
+http://api.52tb.xyz/info?id=1020&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="奶虫恐怖电影" tvg-logo="" group-title="轮播电影",奶虫恐怖电影
+http://api.52tb.xyz/info?id=1021&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="避风港影院" tvg-logo="" group-title="轮播电影",避风港影院
+http://api.52tb.xyz/info?id=1022&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="哒啵赛事" tvg-logo="0" group-title="电竞赛事",哒啵赛事
+http://api.52tb.xyz/info?id=170&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="电竞比赛" tvg-logo="0" group-title="电竞赛事",电竞比赛
+http://api.52tb.xyz/info?id=171&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="黑莓电影" tvg-logo="http://159.75.166.157/fh/heimei1.png" group-title="黑莓系列",黑莓电影
+http://api.52tb.xyz/info?id=172&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="黑莓动画" tvg-logo="http://159.75.166.157/fh/heimei2.png" group-title="黑莓系列",黑莓动画
+http://api.52tb.xyz/info?id=173&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="精彩影视" tvg-logo="0" group-title="Hot系列",精彩影视
+http://api.52tb.xyz/info?id=174&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="求索动物" tvg-logo="0" group-title="Hot系列",求索动物
+http://api.52tb.xyz/info?id=175&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="求索记录" tvg-logo="0" group-title="Hot系列",求索记录
+http://api.52tb.xyz/info?id=176&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="求索科学" tvg-logo="0" group-title="Hot系列",求索科学
+http://api.52tb.xyz/info?id=177&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="求索生活" tvg-logo="0" group-title="Hot系列",求索生活
+http://api.52tb.xyz/info?id=178&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="探索纪实" tvg-logo="0" group-title="Hot系列",探索纪实
+http://api.52tb.xyz/info?id=179&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="少儿动漫" tvg-logo="0" group-title="Hot系列",少儿动漫
+http://api.52tb.xyz/info?id=180&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="风尚音乐" tvg-logo="0" group-title="Hot系列",风尚音乐
+http://api.52tb.xyz/info?id=181&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="精品剧场" tvg-logo="0" group-title="Hot系列",精品剧场
+http://api.52tb.xyz/info?id=182&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="欧美影院" tvg-logo="0" group-title="Hot系列",欧美影院
+http://api.52tb.xyz/info?id=183&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="亚洲影院" tvg-logo="0" group-title="Hot系列",亚洲影院
+http://api.52tb.xyz/info?id=184&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="iHOT爱电竞" tvg-logo="0" group-title="Hot系列",iHOT爱电竞
+http://api.52tb.xyz/info?id=185&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="iHOT爱院线" tvg-logo="http://159.75.166.157/ai/ayx.png" group-title="Hot系列",iHOT爱院线
+http://api.52tb.xyz/info?id=186&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="iHOT爱科幻" tvg-logo="http://159.75.166.157/ai/akh.png" group-title="Hot系列",iHOT爱科幻
+http://api.52tb.xyz/info?id=187&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="iHOT爱浪漫" tvg-logo="http://159.75.166.157/ai/alm.png" group-title="Hot系列",iHOT爱浪漫
+http://api.52tb.xyz/info?id=188&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="iHOT爱喜剧" tvg-logo="http://159.75.166.157/ai/axj.png" group-title="Hot系列",iHOT爱喜剧
+http://api.52tb.xyz/info?id=189&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="iHOT爱娱乐" tvg-logo="http://159.75.166.157/ai/ayl.png" group-title="Hot系列",iHOT爱娱乐
+http://api.52tb.xyz/info?id=190&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="iHOT爱悬疑" tvg-logo="http://159.75.166.157/ai/axy.png" group-title="Hot系列",iHOT爱悬疑
+http://api.52tb.xyz/info?id=191&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="iHOT爱经典" tvg-logo="http://159.75.166.157/ai/ajd.png" group-title="Hot系列",iHOT爱经典
+http://api.52tb.xyz/info?id=192&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="iHOT爱江湖" tvg-logo="http://159.75.166.157/ai/ajh.png" group-title="Hot系列",iHOT爱江湖
+http://api.52tb.xyz/info?id=193&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="iHOT爱赛车" tvg-logo="http://159.75.166.157/ai/asc.png" group-title="Hot系列",iHOT爱赛车
+http://api.52tb.xyz/info?id=194&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="iHOT爱体育" tvg-logo="http://159.75.166.157/ai/aty.png" group-title="Hot系列",iHOT爱体育
+http://api.52tb.xyz/info?id=195&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="iHOT爱探索" tvg-logo="http://159.75.166.157/ai/ats.png" group-title="Hot系列",iHOT爱探索
+http://api.52tb.xyz/info?id=196&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="iHOT爱奇谈" tvg-logo="http://159.75.166.157/ai/aqt.png" group-title="Hot系列",iHOT爱奇谈
+http://api.52tb.xyz/info?id=197&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="iHOT爱玩具" tvg-logo="http://159.75.166.157/ai/awj.png" group-title="Hot系列",iHOT爱玩具
+http://api.52tb.xyz/info?id=198&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="iHOT爱世界" tvg-logo="http://159.75.166.157/ai/asj.png" group-title="Hot系列",iHOT爱世界
+http://api.52tb.xyz/info?id=199&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="iHOT爱怀旧" tvg-logo="http://159.75.166.157/ai/ahj.png" group-title="Hot系列",iHOT爱怀旧
+http://api.52tb.xyz/info?id=200&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="iHOT爱旅行" tvg-logo="http://159.75.166.157/ai/alx.png" group-title="Hot系列",iHOT爱旅行
+http://api.52tb.xyz/info?id=201&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="iHOT爱极限" tvg-logo="http://159.75.166.157/ai/ajx.png" group-title="Hot系列",iHOT爱极限
+http://api.52tb.xyz/info?id=202&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="iHOT爱幼教" tvg-logo="http://159.75.166.157/ai/ayj.png" group-title="Hot系列",iHOT爱幼教
+http://api.52tb.xyz/info?id=203&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="iHOT爱解密" tvg-logo="http://159.75.166.157/ai/ajm.png" group-title="Hot系列",iHOT爱解密
+http://api.52tb.xyz/info?id=204&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="iHOT爱谍战" tvg-logo="http://159.75.166.157/ai/adz.png" group-title="Hot系列",iHOT爱谍战
+http://api.52tb.xyz/info?id=205&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="iHOT爱历史" tvg-logo="http://159.75.166.157/ai/als.png" group-title="Hot系列",iHOT爱历史
+http://api.52tb.xyz/info?id=206&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="iHOT爱猎奇" tvg-logo="http://159.75.166.157/ai/alq.png" group-title="Hot系列",iHOT爱猎奇
+http://api.52tb.xyz/info?id=207&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="iHOT爱都市" tvg-logo="http://159.75.166.157/ai/ads.png" group-title="Hot系列",iHOT爱都市
+http://api.52tb.xyz/info?id=208&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="iHOT爱科学" tvg-logo="http://159.75.166.157/ai/akx.png" group-title="Hot系列",iHOT爱科学
+http://api.52tb.xyz/info?id=209&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="iHOT爱美食" tvg-logo="http://159.75.166.157/ai/ams.png" group-title="Hot系列",iHOT爱美食
+http://api.52tb.xyz/info?id=210&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="iHOT爱时尚" tvg-logo="http://159.75.166.157/ai/ass.png" group-title="Hot系列",iHOT爱时尚
+http://api.52tb.xyz/info?id=211&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="iHOT爱青春" tvg-logo="http://159.75.166.157/ai/aqc.png" group-title="Hot系列",iHOT爱青春
+http://api.52tb.xyz/info?id=212&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="iHOT爱家庭" tvg-logo="http://159.75.166.157/ai/ajt.png" group-title="Hot系列",iHOT爱家庭
+http://api.52tb.xyz/info?id=213&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="iHOT爱动漫" tvg-logo="http://159.75.166.157/ai/alm.png" group-title="Hot系列",iHOT爱动漫
+http://api.52tb.xyz/info?id=214&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="http://159.75.166.157/fh/KUAILECHUIDIAO.jpg" group-title="钓鱼系列",快乐垂钓
+http://api.52tb.xyz/info?id=215&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="http://159.75.166.157/fh/BAMC4.jpg" group-title="钓鱼系列",四海钓鱼
+http://api.52tb.xyz/info?id=216&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="书画频道" tvg-logo="http://159.75.166.157/fh/CCTVPAYFEE37.jpg" group-title="钓鱼系列",书画频道
+http://api.52tb.xyz/info?id=217&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="高尔夫" tvg-logo="" group-title="钓鱼系列",高尔夫
+http://api.52tb.xyz/info?id=218&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="http://159.75.166.157/cctv/CHC1.png" group-title="CHC系列",CHC动作电影
+http://api.52tb.xyz/info?id=219&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="http://159.75.166.157/cctv/CHC2.png" group-title="CHC系列",CHC家庭影院
+http://api.52tb.xyz/info?id=220&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="http://159.75.166.157/cctv/CHC3.png" group-title="CHC系列",CHC高清电影
+http://api.52tb.xyz/info?id=221&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="SiTV游戏风云" tvg-logo="http://159.75.166.157/qt/youxifengyun.png" group-title="SiTV系列",SiTV游戏风云
+http://api.52tb.xyz/info?id=222&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="SiTV劲爆体育" tvg-logo="http://159.75.166.157/qt/jinbaotiyu.jpg" group-title="SiTV系列",SiTV劲爆体育
+http://api.52tb.xyz/info?id=223&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="SiTV新视觉" tvg-logo="http://159.75.166.157/qt/xinshijue.png" group-title="SiTV系列",SiTV新视觉
+http://api.52tb.xyz/info?id=224&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="SiTV魅力足球" tvg-logo="http://159.75.166.157/qt/meilizuqiu.png" group-title="SiTV系列",SiTV魅力足球
+http://api.52tb.xyz/info?id=225&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="SiTV全纪实" tvg-logo="http://159.75.166.157/qt/quanjishi.png" group-title="SiTV系列",SiTV全纪实
+http://api.52tb.xyz/info?id=226&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="SiTV都市剧场" tvg-logo="http://159.75.166.157/qt/SITVdushijuchang.png" group-title="SiTV系列",SiTV都市剧场
+http://api.52tb.xyz/info?id=228&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="SiTV生活时尚" tvg-logo="http://159.75.166.157/qt/shenghuoshishang.png" group-title="SiTV系列",SiTV生活时尚
+http://api.52tb.xyz/info?id=229&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="SiTV动漫秀场" tvg-logo="http://159.75.166.157/qt/dongmanxiuchang.png" group-title="SiTV系列",SiTV动漫秀场
+http://api.52tb.xyz/info?id=230&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="SiTV欢笑剧场HD" tvg-logo="http://159.75.166.157/qt/huanxiao.png" group-title="SiTV系列",SiTV欢笑剧场HD
+http://api.52tb.xyz/info?id=232&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="咪咕视频_1" tvg-logo="0" group-title="咪咕视频IPV6",咪咕视频_1
+http://api.52tb.xyz/info?id=251&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="咪咕视频_2" tvg-logo="0" group-title="咪咕视频IPV6",咪咕视频_2
+http://api.52tb.xyz/info?id=252&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="咪咕视频_3" tvg-logo="0" group-title="咪咕视频IPV6",咪咕视频_3
+http://api.52tb.xyz/info?id=253&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="咪咕视频_4" tvg-logo="0" group-title="咪咕视频IPV6",咪咕视频_4
+http://api.52tb.xyz/info?id=254&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="咪咕视频_5" tvg-logo="0" group-title="咪咕视频IPV6",咪咕视频_5
+http://api.52tb.xyz/info?id=255&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="咪咕视频_6" tvg-logo="0" group-title="咪咕视频IPV6",咪咕视频_6
+http://api.52tb.xyz/info?id=256&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="咪咕视频_7" tvg-logo="0" group-title="咪咕视频IPV6",咪咕视频_7
+http://api.52tb.xyz/info?id=257&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="咪咕视频_8" tvg-logo="0" group-title="咪咕视频IPV6",咪咕视频_8
+http://api.52tb.xyz/info?id=258&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="咪咕视频_9" tvg-logo="0" group-title="咪咕视频IPV6",咪咕视频_9
+http://api.52tb.xyz/info?id=259&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="咪咕视频_10" tvg-logo="0" group-title="咪咕视频IPV6",咪咕视频_10
+http://api.52tb.xyz/info?id=260&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="咪咕视频_11" tvg-logo="0" group-title="咪咕视频IPV6",咪咕视频_11
+http://api.52tb.xyz/info?id=261&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="咪咕视频_12" tvg-logo="0" group-title="咪咕视频IPV6",咪咕视频_12
+http://api.52tb.xyz/info?id=262&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="咪咕视频_13" tvg-logo="0" group-title="咪咕视频IPV6",咪咕视频_13
+http://api.52tb.xyz/info?id=263&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="咪咕视频_14" tvg-logo="0" group-title="咪咕视频IPV6",咪咕视频_14
+http://api.52tb.xyz/info?id=264&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="咪咕视频_15" tvg-logo="0" group-title="咪咕视频IPV6",咪咕视频_15
+http://api.52tb.xyz/info?id=265&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="咪咕视频_16" tvg-logo="0" group-title="咪咕视频IPV6",咪咕视频_16
+http://api.52tb.xyz/info?id=266&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="咪咕视频_17" tvg-logo="0" group-title="咪咕视频IPV6",咪咕视频_17
+http://api.52tb.xyz/info?id=267&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="咪咕视频_18" tvg-logo="0" group-title="咪咕视频IPV6",咪咕视频_18
+http://api.52tb.xyz/info?id=268&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="咪咕视频_19" tvg-logo="0" group-title="咪咕视频IPV6",咪咕视频_19
+http://api.52tb.xyz/info?id=269&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="咪咕视频_20" tvg-logo="0" group-title="咪咕视频IPV6",咪咕视频_20
+http://api.52tb.xyz/info?id=270&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="咪咕视频_21" tvg-logo="0" group-title="咪咕视频IPV6",咪咕视频_21
+http://api.52tb.xyz/info?id=271&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="咪咕视频_22" tvg-logo="0" group-title="咪咕视频IPV6",咪咕视频_22
+http://api.52tb.xyz/info?id=272&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="咪咕视频_23" tvg-logo="0" group-title="咪咕视频IPV6",咪咕视频_23
+http://api.52tb.xyz/info?id=273&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="咪咕视频_24" tvg-logo="0" group-title="咪咕视频IPV6",咪咕视频_24
+http://api.52tb.xyz/info?id=274&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="咪咕视频_25" tvg-logo="0" group-title="咪咕视频IPV6",咪咕视频_25
+http://api.52tb.xyz/info?id=275&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="NewTV动作电影" tvg-logo="http://159.75.166.157/newtv/dongzuodianying.png" group-title="NewTV",NewTV动作电影
+http://api.52tb.xyz/info?id=301&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="NewTV明星大片" tvg-logo="http://159.75.166.157/newtv/mingxingdapian.png" group-title="NewTV",NewTV明星大片
+http://api.52tb.xyz/info?id=302&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="NewTV金牌综艺" tvg-logo="http://159.75.166.157/newtv/jinpaizongyi.png" group-title="NewTV",NewTV金牌综艺
+http://api.52tb.xyz/info?id=303&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="NewTV惊悚悬疑" tvg-logo="http://159.75.166.157/newtv/jingsongxuanyi.png" group-title="NewTV",NewTV惊悚悬疑
+http://api.52tb.xyz/info?id=304&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="NewTV爱情喜剧" tvg-logo="http://159.75.166.157/newtv/aiqingxiju.png" group-title="NewTV",NewTV爱情喜剧
+http://api.52tb.xyz/info?id=305&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="NewTV古装剧场" tvg-logo="http://159.75.166.157/newtv/guzhuangjuchang.png" group-title="NewTV",NewTV古装剧场
+http://api.52tb.xyz/info?id=306&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="NewTV家庭剧场" tvg-logo="http://159.75.166.157/newtv/jiatingjuchang.png" group-title="NewTV",NewTV家庭剧场
+http://api.52tb.xyz/info?id=307&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="NewTV精品大剧" tvg-logo="http://159.75.166.157/newtv/jingpindaju.png" group-title="NewTV",NewTV精品大剧
+http://api.52tb.xyz/info?id=308&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="NewTV军旅剧场" tvg-logo="http://159.75.166.157/newtv/junlvjuchang.png" group-title="NewTV",NewTV军旅剧场
+http://api.52tb.xyz/info?id=309&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="NewTV精品体育" tvg-logo="http://159.75.166.157/newtv/jingpintiyu.png" group-title="NewTV",NewTV精品体育
+http://api.52tb.xyz/info?id=310&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="NewTV精品纪录" tvg-logo="http://159.75.166.157/newtv/jingpinjilu.png" group-title="NewTV",NewTV精品纪录
+http://api.52tb.xyz/info?id=311&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="NewTV农业致富" tvg-logo="http://159.75.166.157/newtv/nongyezhifu.png" group-title="NewTV",NewTV农业致富
+http://api.52tb.xyz/info?id=312&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="NewTV武博世界" tvg-logo="http://159.75.166.157/newtv/wuboshijie.png" group-title="NewTV",NewTV武博世界
+http://api.52tb.xyz/info?id=313&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="NewTV潮妈辣婆" tvg-logo="http://159.75.166.157/newtv/chaomalapo.png" group-title="NewTV",NewTV潮妈辣婆
+http://api.52tb.xyz/info?id=314&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="NewTV炫舞未来" tvg-logo="http://159.75.166.157/newtv/xuanwuweilai.png" group-title="NewTV",NewTV炫舞未来
+http://api.52tb.xyz/info?id=315&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="NewTV健康有约" tvg-logo="http://159.75.166.157/newtv/jiiankangyouyue.png" group-title="NewTV",NewTV健康有约
+http://api.52tb.xyz/info?id=316&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="NewTV中国功夫" tvg-logo="http://159.75.166.157/newtv/zhongguogongfu.png" group-title="NewTV",NewTV中国功夫
+http://api.52tb.xyz/info?id=317&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="NewTV军事评论" tvg-logo="http://159.75.166.157/newtv/junshipinglun.png" group-title="NewTV",NewTV军事评论
+http://api.52tb.xyz/info?id=318&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="NewTV海外剧场" tvg-logo="http://159.75.166.157/newtv/huanlejuchang.png" group-title="NewTV",NewTV海外剧场
+http://api.52tb.xyz/info?id=319&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="NewTV魅力潇湘" tvg-logo="http://159.75.166.157/newtv/jingpinmengchong.png" group-title="NewTV",NewTV魅力潇湘
+http://api.52tb.xyz/info?id=320&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="BTV文艺" tvg-logo="http://159.75.166.157/beijing/bjwy.png" group-title="北京",BTV文艺
+http://api.52tb.xyz/info?id=351&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="BTV科教" tvg-logo="http://159.75.166.157/beijing/bjkj.png" group-title="北京",BTV科教
+http://api.52tb.xyz/info?id=352&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="BTV影视" tvg-logo="http://159.75.166.157/beijing/bjys.png" group-title="北京",BTV影视
+http://api.52tb.xyz/info?id=353&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="BTV财经" tvg-logo="http://159.75.166.157/beijing/bjcj.png" group-title="北京",BTV财经
+http://api.52tb.xyz/info?id=354&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="BTV体育" tvg-logo="http://159.75.166.157/beijing/bjjs.png" group-title="北京",BTV体育
+http://api.52tb.xyz/info?id=355&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="BTV体育(备)" tvg-logo="http://159.75.166.157/beijing/bjjs.png" group-title="北京",BTV体育(备)
+http://api.52tb.xyz/info?id=356&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="BTV生活" tvg-logo="http://159.75.166.157/beijing/bjsh.png" group-title="北京",BTV生活
+http://api.52tb.xyz/info?id=357&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="BTV新闻" tvg-logo="http://159.75.166.157/beijing/bjxw.png" group-title="北京",BTV新闻
+http://api.52tb.xyz/info?id=359&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="BTV卡酷少儿" tvg-logo="http://159.75.166.157/beijing/kkse.png" group-title="北京",BTV卡酷少儿
+http://api.52tb.xyz/info?id=360&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="上海新闻频道" tvg-logo="http://159.75.166.157/qshanghai/shangshixinwen.png" group-title="上海",上海新闻频道
+http://api.52tb.xyz/info?id=371&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="上海都市频道" tvg-logo="http://159.75.166.157/shanghai/shanghaidushi.jpg" group-title="上海",上海都市频道
+http://api.52tb.xyz/info?id=372&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="上视外语" tvg-logo="http://159.75.166.157/shanghai/shanghaiwaiyu.png" group-title="上海",上视外语
+http://api.52tb.xyz/info?id=373&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="上海东方影视" tvg-logo="http://159.75.166.157/shanghai/shanghaidongfangyingshi.png" group-title="上海",上海东方影视
+http://api.52tb.xyz/info?id=374&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="上海五星体育" tvg-logo="http://159.75.166.157/shanghai/wuxingtiyu.png" group-title="上海",上海五星体育
+http://api.52tb.xyz/info?id=375&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="上海五星体育" tvg-logo="http://159.75.166.157/shanghai/wuxingtiyu.png" group-title="上海",上海五星体育
+http://api.52tb.xyz/info?id=399&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="上海五星体育（备1）" tvg-logo="http://159.75.166.157/shanghai/wuxingtiyu.png" group-title="上海",上海五星体育（备1）
+http://api.52tb.xyz/info?id=376&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="上海第一财经" tvg-logo="http://159.75.166.157/shanghai/diyicaijing.png" group-title="上海",上海第一财经
+http://api.52tb.xyz/info?id=377&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="上海纪实人文" tvg-logo="http://159.75.166.157/shanghai/shanghaijishi.png" group-title="上海",上海纪实人文
+http://api.52tb.xyz/info?id=378&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="http://159.75.166.157/shanghai/xuandong.png" group-title="上海",哈哈炫动
+http://api.52tb.xyz/info?id=379&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="百视通1" tvg-logo="0" group-title="上海",百视通1
+http://api.52tb.xyz/info?id=380&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="百视通2" tvg-logo="0" group-title="上海",百视通2
+http://api.52tb.xyz/info?id=381&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="百视通3" tvg-logo="0" group-title="上海",百视通3
+http://api.52tb.xyz/info?id=382&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="百视通4" tvg-logo="0" group-title="上海",百视通4
+http://api.52tb.xyz/info?id=383&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="百视通5" tvg-logo="0" group-title="上海",百视通5
+http://api.52tb.xyz/info?id=384&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="百视通6" tvg-logo="0" group-title="上海",百视通6
+http://api.52tb.xyz/info?id=385&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="百视通7" tvg-logo="0" group-title="上海",百视通7
+http://api.52tb.xyz/info?id=386&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="百视通8" tvg-logo="0" group-title="上海",百视通8
+http://api.52tb.xyz/info?id=387&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="百视通9" tvg-logo="0" group-title="上海",百视通9
+http://api.52tb.xyz/info?id=388&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="百视通10" tvg-logo="0" group-title="上海",百视通10
+http://api.52tb.xyz/info?id=389&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="广东综艺" tvg-logo="http://159.75.166.157/guangdong/GDTVENT.png" group-title="广东",广东综艺
+http://api.52tb.xyz/info?id=401&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="广东综艺（备）" tvg-logo="http://159.75.166.157/guangdong/GDTVENT.png" group-title="广东",广东综艺（备）
+http://api.52tb.xyz/info?id=402&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="广东新闻" tvg-logo="http://159.75.166.157/guangdong/GDTV6.png" group-title="广东",广东新闻
+http://api.52tb.xyz/info?id=403&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="广东新闻（备）" tvg-logo="http://159.75.166.157/guangdong/GDTV6.png" group-title="广东",广东新闻（备）
+http://api.52tb.xyz/info?id=404&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="广东影视" tvg-logo="http://159.75.166.157/guangdong/GDTVMOV.png" group-title="广东",广东影视
+http://api.52tb.xyz/info?id=405&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="广东影视（备）" tvg-logo="http://159.75.166.157/guangdong/GDTVMOV.png" group-title="广东",广东影视（备）
+http://api.52tb.xyz/info?id=406&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="广东公共" tvg-logo="http://159.75.166.157/guangdong/GDTV4.png" group-title="广东",广东公共
+http://api.52tb.xyz/info?id=407&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="广东公共（备）" tvg-logo="http://159.75.166.157/guangdong/GDTV4.png" group-title="广东",广东公共（备）
+http://api.52tb.xyz/info?id=408&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="广东珠江" tvg-logo="http://159.75.166.157/guangdong/zhujiang.png" group-title="广东",广东珠江
+http://api.52tb.xyz/info?id=409&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="广东珠江（备）" tvg-logo="http://159.75.166.157/guangdong/zhujiang.png" group-title="广东",广东珠江（备）
+http://api.52tb.xyz/info?id=410&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="广东珠江[限广东联通]" tvg-logo="http://159.75.166.157/guangdong/zhujiang.png" group-title="广东",广东珠江[限广东联通]
+http://api.52tb.xyz/info?id=2003&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="广东珠江[限广东电信]" tvg-logo="http://159.75.166.157/guangdong/zhujiang.png" group-title="广东",广东珠江[限广东电信]
+http://api.52tb.xyz/info?id=2004&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="http://159.75.166.157/guangdong/dawanqu.png" group-title="广东",大湾区卫视
+http://api.52tb.xyz/info?id=411&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="大湾区卫视（备）" tvg-logo="http://159.75.166.157/guangdong/dawanqu.png" group-title="广东",大湾区卫视（备）
+http://api.52tb.xyz/info?id=412&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="http://159.75.166.157/guangdong/GDTV3.png" group-title="广东",广东体育
+http://api.52tb.xyz/info?id=413&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="广东体育[备]" tvg-logo="http://159.75.166.157/guangdong/GDTV3.png" group-title="广东",广东体育[备]
+http://api.52tb.xyz/info?id=414&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="广东体育[限广东联通]" tvg-logo="http://159.75.166.157/guangdong/GDTV3.png" group-title="广东",广东体育[限广东联通]
+http://api.52tb.xyz/info?id=415&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="南国都市" tvg-logo="0" group-title="广东",南国都市
+http://api.52tb.xyz/info?id=419&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="福州综合" tvg-logo="0" group-title="福建",福州综合
+http://api.52tb.xyz/info?id=421&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="福州生活" tvg-logo="0" group-title="福建",福州生活
+http://api.52tb.xyz/info?id=422&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="福州少儿" tvg-logo="0" group-title="福建",福州少儿
+http://api.52tb.xyz/info?id=423&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="浙江民生休闲" tvg-logo="0" group-title="浙江",浙江民生休闲
+http://api.52tb.xyz/info?id=431&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="浙江教科频道" tvg-logo="0" group-title="浙江",浙江教科频道
+http://api.52tb.xyz/info?id=432&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="浙江少儿频道" tvg-logo="0" group-title="浙江",浙江少儿频道
+http://api.52tb.xyz/info?id=433&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="浙江新闻" tvg-logo="0" group-title="浙江",浙江新闻
+http://api.52tb.xyz/info?id=434&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="浙江国际频道" tvg-logo="0" group-title="浙江",浙江国际频道
+http://api.52tb.xyz/info?id=435&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="浙江钱江都市" tvg-logo="0" group-title="浙江",浙江钱江都市
+http://api.52tb.xyz/info?id=436&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="浙江经视频道" tvg-logo="0" group-title="浙江",浙江经视频道
+http://api.52tb.xyz/info?id=437&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="留学世界" tvg-logo="0" group-title="浙江",留学世界
+http://api.52tb.xyz/info?id=438&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="新昌新闻综合" tvg-logo="0" group-title="浙江",新昌新闻综合
+http://api.52tb.xyz/info?id=439&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="新昌生活频道" tvg-logo="0" group-title="浙江",新昌生活频道
+http://api.52tb.xyz/info?id=440&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="杭州综合" tvg-logo="" group-title="浙江",杭州综合
+http://api.52tb.xyz/info?id=441&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="杭州明珠" tvg-logo="" group-title="浙江",杭州明珠
+http://api.52tb.xyz/info?id=442&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="杭州生活" tvg-logo="" group-title="浙江",杭州生活
+http://api.52tb.xyz/info?id=443&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="江苏城市" tvg-logo="0" group-title="江苏",江苏城市
+http://api.52tb.xyz/info?id=451&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="江苏综艺" tvg-logo="0" group-title="江苏",江苏综艺
+http://api.52tb.xyz/info?id=452&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="江苏影视" tvg-logo="0" group-title="江苏",江苏影视
+http://api.52tb.xyz/info?id=453&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="江苏公共" tvg-logo="0" group-title="江苏",江苏公共
+http://api.52tb.xyz/info?id=454&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="江苏体育" tvg-logo="0" group-title="江苏",江苏体育
+http://api.52tb.xyz/info?id=455&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="江苏国际" tvg-logo="0" group-title="江苏",江苏国际
+http://api.52tb.xyz/info?id=457&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="江苏教育" tvg-logo="0" group-title="江苏",江苏教育
+http://api.52tb.xyz/info?id=459&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="优曼卡通" tvg-logo="0" group-title="江苏",优曼卡通
+http://api.52tb.xyz/info?id=460&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="南京新闻综合" tvg-logo="0" group-title="江苏",南京新闻综合
+http://api.52tb.xyz/info?id=466&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="南京教科" tvg-logo="0" group-title="江苏",南京教科
+http://api.52tb.xyz/info?id=467&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="南京生活" tvg-logo="0" group-title="江苏",南京生活
+http://api.52tb.xyz/info?id=468&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="南京娱乐" tvg-logo="0" group-title="江苏",南京娱乐
+http://api.52tb.xyz/info?id=469&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="南京十八" tvg-logo="0" group-title="江苏",南京十八
+http://api.52tb.xyz/info?id=470&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="南京信息" tvg-logo="0" group-title="江苏",南京信息
+http://api.52tb.xyz/info?id=471&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="河北都市" tvg-logo="0" group-title="河北",河北都市
+http://api.52tb.xyz/info?id=481&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="河北经济" tvg-logo="0" group-title="河北",河北经济
+http://api.52tb.xyz/info?id=482&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="河北影视" tvg-logo="0" group-title="河北",河北影视
+http://api.52tb.xyz/info?id=483&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="河北少儿" tvg-logo="0" group-title="河北",河北少儿
+http://api.52tb.xyz/info?id=484&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="河北公共" tvg-logo="0" group-title="河北",河北公共
+http://api.52tb.xyz/info?id=485&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="农民频道" tvg-logo="0" group-title="河北",农民频道
+http://api.52tb.xyz/info?id=486&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="石家庄新闻" tvg-logo="0" group-title="河北",石家庄新闻
+http://api.52tb.xyz/info?id=487&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="石家庄娱乐" tvg-logo="0" group-title="河北",石家庄娱乐
+http://api.52tb.xyz/info?id=488&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="石家庄生活" tvg-logo="0" group-title="河北",石家庄生活
+http://api.52tb.xyz/info?id=489&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="石家庄都市" tvg-logo="0" group-title="河北",石家庄都市
+http://api.52tb.xyz/info?id=490&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="河南新闻" tvg-logo="0" group-title="河南",河南新闻
+http://api.52tb.xyz/info?id=501&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="河南都市" tvg-logo="0" group-title="河南",河南都市
+http://api.52tb.xyz/info?id=502&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="河南民生" tvg-logo="0" group-title="河南",河南民生
+http://api.52tb.xyz/info?id=503&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="河南公共" tvg-logo="0" group-title="河南",河南公共
+http://api.52tb.xyz/info?id=504&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="河南法治" tvg-logo="0" group-title="河南",河南法治
+http://api.52tb.xyz/info?id=505&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="河南乡村" tvg-logo="0" group-title="河南",河南乡村
+http://api.52tb.xyz/info?id=506&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="河南国际" tvg-logo="0" group-title="河南",河南国际
+http://api.52tb.xyz/info?id=507&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="河南电视剧" tvg-logo="0" group-title="河南",河南电视剧
+http://api.52tb.xyz/info?id=508&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="山东齐鲁" tvg-logo="0" group-title="山东",山东齐鲁
+http://api.52tb.xyz/info?id=521&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="山东新闻" tvg-logo="0" group-title="山东",山东新闻
+http://api.52tb.xyz/info?id=522&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="山东体育" tvg-logo="0" group-title="山东",山东体育
+http://api.52tb.xyz/info?id=523&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="山东少儿" tvg-logo="0" group-title="山东",山东少儿
+http://api.52tb.xyz/info?id=524&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="山东综艺" tvg-logo="0" group-title="山东",山东综艺
+http://api.52tb.xyz/info?id=525&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="山东文旅" tvg-logo="0" group-title="山东",山东文旅
+http://api.52tb.xyz/info?id=526&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="山东生活" tvg-logo="0" group-title="山东",山东生活
+http://api.52tb.xyz/info?id=527&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="山东农科" tvg-logo="0" group-title="山东",山东农科
+http://api.52tb.xyz/info?id=528&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="湖北经视" tvg-logo="0" group-title="湖北",湖北经视
+http://api.52tb.xyz/info?id=541&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="湖北综合" tvg-logo="0" group-title="湖北",湖北综合
+http://api.52tb.xyz/info?id=542&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="湖北公共" tvg-logo="0" group-title="湖北",湖北公共
+http://api.52tb.xyz/info?id=543&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="湖北生活" tvg-logo="0" group-title="湖北",湖北生活
+http://api.52tb.xyz/info?id=544&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="湖北教育" tvg-logo="0" group-title="湖北",湖北教育
+http://api.52tb.xyz/info?id=545&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="湖北垄上" tvg-logo="0" group-title="湖北",湖北垄上
+http://api.52tb.xyz/info?id=546&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="湖南爱晚" tvg-logo="0" group-title="湖南",湖南爱晚
+http://api.52tb.xyz/info?id=561&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="湖南国际" tvg-logo="0" group-title="湖南",湖南国际
+http://api.52tb.xyz/info?id=562&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="湖南娱乐" tvg-logo="0" group-title="湖南",湖南娱乐
+http://api.52tb.xyz/info?id=563&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="湖南电影" tvg-logo="0" group-title="湖南",湖南电影
+http://api.52tb.xyz/info?id=564&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="0" group-title="湖南",湖南电视剧
+http://api.52tb.xyz/info?id=565&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="湖南经视" tvg-logo="0" group-title="湖南",湖南经视
+http://api.52tb.xyz/info?id=566&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="湖南都市" tvg-logo="0" group-title="湖南",湖南都市
+http://api.52tb.xyz/info?id=567&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="0" group-title="湖南",金鹰卡通
+http://api.52tb.xyz/info?id=568&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="0" group-title="湖南",金鹰纪实
+http://api.52tb.xyz/info?id=569&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="湘潭综合" tvg-logo="0" group-title="湖南",湘潭综合
+http://api.52tb.xyz/info?id=570&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="安徽经济" tvg-logo="0" group-title="安徽",安徽经济
+http://api.52tb.xyz/info?id=581&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="安徽公共" tvg-logo="0" group-title="安徽",安徽公共
+http://api.52tb.xyz/info?id=582&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="安徽农科" tvg-logo="0" group-title="安徽",安徽农科
+http://api.52tb.xyz/info?id=583&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="安徽影视" tvg-logo="0" group-title="安徽",安徽影视
+http://api.52tb.xyz/info?id=584&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="安徽综艺" tvg-logo="0" group-title="安徽",安徽综艺
+http://api.52tb.xyz/info?id=585&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="安徽国际" tvg-logo="0" group-title="安徽",安徽国际
+http://api.52tb.xyz/info?id=586&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="淮南新闻综合" tvg-logo="0" group-title="安徽",淮南新闻综合
+http://api.52tb.xyz/info?id=587&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="淮南公共台" tvg-logo="0" group-title="安徽",淮南公共台
+http://api.52tb.xyz/info?id=588&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="四川影视" tvg-logo="0" group-title="四川",四川影视
+http://api.52tb.xyz/info?id=601&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="四川新闻" tvg-logo="0" group-title="四川",四川新闻
+http://api.52tb.xyz/info?id=602&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="四川文旅" tvg-logo="0" group-title="四川",四川文旅
+http://api.52tb.xyz/info?id=603&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="四川儿童" tvg-logo="0" group-title="四川",四川儿童
+http://api.52tb.xyz/info?id=604&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="四川经济" tvg-logo="0" group-title="四川",四川经济
+http://api.52tb.xyz/info?id=605&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="四川乡村" tvg-logo="0" group-title="四川",四川乡村
+http://api.52tb.xyz/info?id=606&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="洪雅新闻综合" tvg-logo="0" group-title="四川",洪雅新闻综合
+http://api.52tb.xyz/info?id=607&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="重庆新闻" tvg-logo="https://sjlivecdn9.cbg.cn/202906282314/app_2/_definst_/ls_3.stream/chunklist.m3u8" group-title="重庆",重庆新闻
+http://api.52tb.xyz/info?id=611&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="重庆科教" tvg-logo="" group-title="重庆",重庆科教
+http://api.52tb.xyz/info?id=612&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="重庆影视" tvg-logo="" group-title="重庆",重庆影视
+http://api.52tb.xyz/info?id=613&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="重庆文体" tvg-logo="" group-title="重庆",重庆文体
+http://api.52tb.xyz/info?id=614&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="重庆少儿" tvg-logo="" group-title="重庆",重庆少儿
+http://api.52tb.xyz/info?id=615&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="重庆农村" tvg-logo="" group-title="重庆",重庆农村
+http://api.52tb.xyz/info?id=616&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="重庆时尚" tvg-logo="" group-title="重庆",重庆时尚
+http://api.52tb.xyz/info?id=617&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="重庆移动" tvg-logo="" group-title="重庆",重庆移动
+http://api.52tb.xyz/info?id=618&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="新闻" tvg-logo="0" group-title="陕西",新闻
+http://api.52tb.xyz/info?id=621&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="都市" tvg-logo="0" group-title="陕西",都市
+http://api.52tb.xyz/info?id=622&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="生活" tvg-logo="0" group-title="陕西",生活
+http://api.52tb.xyz/info?id=623&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="公共" tvg-logo="0" group-title="陕西",公共
+http://api.52tb.xyz/info?id=624&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="山西影视" tvg-logo="0" group-title="山西",山西影视
+http://api.52tb.xyz/info?id=641&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="山西法治" tvg-logo="0" group-title="山西",山西法治
+http://api.52tb.xyz/info?id=642&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="山西经济" tvg-logo="0" group-title="山西",山西经济
+http://api.52tb.xyz/info?id=643&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="山西文体" tvg-logo="0" group-title="山西",山西文体
+http://api.52tb.xyz/info?id=644&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="黄河电视台" tvg-logo="0" group-title="山西",黄河电视台
+http://api.52tb.xyz/info?id=645&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="甘肃经济" tvg-logo="0" group-title="甘肃",甘肃经济
+http://api.52tb.xyz/info?id=661&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="甘肃影视" tvg-logo="0" group-title="甘肃",甘肃影视
+http://api.52tb.xyz/info?id=662&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="甘肃公共" tvg-logo="0" group-title="甘肃",甘肃公共
+http://api.52tb.xyz/info?id=663&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="甘肃少儿" tvg-logo="0" group-title="甘肃",甘肃少儿
+http://api.52tb.xyz/info?id=664&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="甘肃都市" tvg-logo="0" group-title="甘肃",甘肃都市
+http://api.52tb.xyz/info?id=665&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="昆明新闻" tvg-logo="0" group-title="云南",昆明新闻
+http://api.52tb.xyz/info?id=681&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="昆明民生" tvg-logo="0" group-title="云南",昆明民生
+http://api.52tb.xyz/info?id=682&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="昆明教育" tvg-logo="0" group-title="云南",昆明教育
+http://api.52tb.xyz/info?id=683&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="昆明综艺" tvg-logo="0" group-title="云南",昆明综艺
+http://api.52tb.xyz/info?id=684&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="昆明公共" tvg-logo="0" group-title="云南",昆明公共
+http://api.52tb.xyz/info?id=685&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="文山综合" tvg-logo="0" group-title="云南",文山综合
+http://api.52tb.xyz/info?id=686&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="文山公共" tvg-logo="0" group-title="云南",文山公共
+http://api.52tb.xyz/info?id=687&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="西双版纳一" tvg-logo="0" group-title="云南",西双版纳一
+http://api.52tb.xyz/info?id=688&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="西双版纳二" tvg-logo="0" group-title="云南",西双版纳二
+http://api.52tb.xyz/info?id=689&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="贵州公共" tvg-logo="0" group-title="贵州",贵州公共
+http://api.52tb.xyz/info?id=701&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="贵州影视" tvg-logo="0" group-title="贵州",贵州影视
+http://api.52tb.xyz/info?id=702&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="贵州生活" tvg-logo="0" group-title="贵州",贵州生活
+http://api.52tb.xyz/info?id=703&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="贵州法治" tvg-logo="0" group-title="贵州",贵州法治
+http://api.52tb.xyz/info?id=704&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="贵州科教" tvg-logo="0" group-title="贵州",贵州科教
+http://api.52tb.xyz/info?id=705&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="贵州经济" tvg-logo="0" group-title="贵州",贵州经济
+http://api.52tb.xyz/info?id=706&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="贵州移动" tvg-logo="0" group-title="贵州",贵州移动
+http://api.52tb.xyz/info?id=707&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="南宁综合" tvg-logo="0" group-title="广西",南宁综合
+http://api.52tb.xyz/info?id=721&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="南宁都市" tvg-logo="0" group-title="广西",南宁都市
+http://api.52tb.xyz/info?id=722&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="南宁影视" tvg-logo="0" group-title="广西",南宁影视
+http://api.52tb.xyz/info?id=723&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="南宁公共" tvg-logo="0" group-title="广西",南宁公共
+http://api.52tb.xyz/info?id=724&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="宁夏公共" tvg-logo="0" group-title="宁夏",宁夏公共
+http://api.52tb.xyz/info?id=741&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="宁夏经济" tvg-logo="0" group-title="宁夏",宁夏经济
+http://api.52tb.xyz/info?id=742&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="宁夏文旅" tvg-logo="0" group-title="宁夏",宁夏文旅
+http://api.52tb.xyz/info?id=743&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="宁夏少儿" tvg-logo="0" group-title="宁夏",宁夏少儿
+http://api.52tb.xyz/info?id=744&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="黑龙江新闻法治" tvg-logo="0" group-title="黑龙江",黑龙江新闻法治
+http://api.52tb.xyz/info?id=761&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="黑龙江公共农业" tvg-logo="0" group-title="黑龙江",黑龙江公共农业
+http://api.52tb.xyz/info?id=762&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="黑龙江都市频道" tvg-logo="0" group-title="黑龙江",黑龙江都市频道
+http://api.52tb.xyz/info?id=763&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="黑龙江文体频道" tvg-logo="0" group-title="黑龙江",黑龙江文体频道
+http://api.52tb.xyz/info?id=764&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="黑龙江影视频道" tvg-logo="0" group-title="黑龙江",黑龙江影视频道
+http://api.52tb.xyz/info?id=765&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="黑龙江少儿频道" tvg-logo="0" group-title="黑龙江",黑龙江少儿频道
+http://api.52tb.xyz/info?id=766&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="内蒙新闻" tvg-logo="0" group-title="内蒙古",内蒙新闻
+http://api.52tb.xyz/info?id=781&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="蒙古语文化" tvg-logo="0" group-title="内蒙古",蒙古语文化
+http://api.52tb.xyz/info?id=782&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="蒙古语卫视" tvg-logo="0" group-title="内蒙古",蒙古语卫视
+http://api.52tb.xyz/info?id=783&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="内蒙少儿" tvg-logo="0" group-title="内蒙古",内蒙少儿
+http://api.52tb.xyz/info?id=784&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="内蒙文体" tvg-logo="0" group-title="内蒙古",内蒙文体
+http://api.52tb.xyz/info?id=785&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="农牧频道" tvg-logo="0" group-title="内蒙古",农牧频道
+http://api.52tb.xyz/info?id=886&token=20230314vyrzsx
+#EXTINF:-1 tvg-name="内蒙生活" tvg-logo="0" group-title="内蒙古",内蒙生活
+http://api.52tb.xyz/info?id=787&token=20230314vyrzsx
