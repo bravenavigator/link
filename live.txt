@@ -3,6 +3,7 @@ CCTV-13新闻,http://27.16.178.143:4567/rtp/239.254.96.161:9040
 CCTV-13新闻,http://live.goodiptv.club/api/bestv.php?id=cctv13xwhd8m/8000000
 CCTV-13新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV-13新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mhd.m3u8
+CCTV-13新闻,http://api.52tb.xyz/info?id=15&token=20230314vyrzsx
 CCTV-13新闻,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
 CCTV-13新闻,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
 CCTV-13新闻,https://pi.0472.org/tv/mzt.php?auth=230918
@@ -92,12 +93,14 @@ CCTV-15音乐,http://221.213.43.82:8888/newlive/live/hls/17/live.m3u8
 CCTV-15音乐,http://cfss.cc/api/ysp/cctv15.m3u8
 CCTV-16奥林匹克,http://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
 CCTV-16奥林匹克,https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
+CCTV-16奥林匹克,http://api.52tb.xyz/info?id=18&token=20230314vyrzsx
 CCTV-16奥林匹克,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
 CCTV-16奥林匹克,,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
 CCTV-16奥林匹克,,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
 CCTV-17农村农业,http://27.16.178.143:4567/rtp/239.69.1.152:10548
 CCTV-17农村农业,http://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
 CCTV-17农村农业,http://222.134.240.136:9901/tsfile/live/1030_1.m3u8?url=tvzb.com
+CCTV-风云足球,http://api.52tb.xyz/info?id=20&token=20230314vyrzsx
 CCTV-兵器科技,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
 CCTV4美洲台,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4meihd/57/01.m3u8?&HlsSubType=&encrypt=1
 CCTV4欧洲台,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4ouhd/57/01.m3u8?&HlsSubType=&encrypt=1
