@@ -237,6 +237,7 @@ CCTV4欧洲台,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4ouhd/
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8$官方1
 
 广东,#genre#
+广东珠江,http://wizarkid.vip:4000/udp/239.77.0.3:5146
 广东珠江,http://www.namewee.xyz/gudou.php?id=gdzhujiangHD_7500
 广东珠江,http://www.namewee.xyz/gudou.php?id=1437_4500
 广东珠江,http://218.13.170.98:9901/tsfile/live/1000_1.m3u8
