@@ -237,6 +237,15 @@ CCTV4欧洲台,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4ouhd/
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8$官方1
 
 广东,#genre#
+广东珠江（备）,http://api.52tb.xyz/info?id=410&token=20230314vyrzsx
+广东新闻（备）,http://api.52tb.xyz/info?id=404&token=20230314vyrzsx
+广东公共（备）,http://api.52tb.xyz/info?id=408&token=20230314vyrzsx
+广东综艺（备）,http://api.52tb.xyz/info?id=402&token=20230314vyrzsx
+广东影视（备）,http://api.52tb.xyz/info?id=406&token=20230314vyrzsx
+大湾区卫视（备）,http://api.52tb.xyz/info?id=412&token=20230314vyrzsx
+广东体育,http://api.52tb.xyz/info?id=413&token=20230314vyrzsx
+广东体育,http://api.52tb.xyz/info?id=414&token=20230314vyrzsx
+南国都市,http://api.52tb.xyz/info?id=419&token=20230314vyrzsx
 深圳都市,http://livepull-tcyzb.sztv.com.cn/showto_live/dushi01.m3u8
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935?zguangd
@@ -311,16 +320,23 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 
 北京,#genre#
-北京新闻,http://live.funhillrm.com/5/sd/live.m3u8
-北京新闻,http://qnap.yjnhome.com:4000/udp/239.3.1.159:8000
-北京文艺,http://81.69.20.196/mqlive.m3u8?ip=61.48.132.122:8000&id=live1045
-北京通州,http://pull.dayuntongzhou.com/live/tztv.m3u8
-房山无线频道,http://live.funhillrm.com/2/sd/live.m3u8
-房山有线频道,http://live.funhillrm.com/5/sd/live.m3u8
+BTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
+BTV新闻,http://qnap.yjnhome.com:4000/udp/239.3.1.159:8000
+BTV财经,http://api.52tb.xyz/info?id=354&token=20230314vyrzsx
+BTV文艺,http://81.69.20.196/mqlive.m3u8?ip=61.48.132.122:8000&id=live1045
+BTV文艺,http://api.52tb.xyz/info?id=351&token=20230314vyrzsx
+BTV科教,http://api.52tb.xyz/info?id=352&token=20230314vyrzsx
+BTV影视,http://api.52tb.xyz/info?id=353&token=20230314vyrzsx
+BTV体育,http://api.52tb.xyz/info?id=355&token=20230314vyrzsx
+BTV体育(备),http://api.52tb.xyz/info?id=356&token=20230314vyrzsx
+BTV生活,http://api.52tb.xyz/info?id=357&token=20230314vyrzsx
+BTV新闻,http://api.52tb.xyz/info?id=359&token=20230314vyrzsx
+BTV卡酷少儿,http://api.52tb.xyz/info?id=360&token=20230314vyrzsx
 
 上海,#genre#
 新闻综合,http://alltzy.cn/dl/bestv.php?id=xwzhhd8m/8000000
 新闻综合,http://222.71.90.218:8888/newlive/live/hls/55/live.m3u8
+第一财经,http://api.52tb.xyz/info?id=377&token=20230314vyrzsx
 第一财经,http://222.71.90.218:8888/newlive/live/hls/57/live.m3u8
 上海都市,https://live.goodiptv.club/api/bestv.php?id=dshd8m/8000000
 上海都市,http://222.71.90.218:8888/newlive/live/hls/51/live.m3u8
@@ -328,12 +344,11 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 东方影视,http://[2409:8087:1e03:21::34]:6610/cms001/ch00000090990000001016/index.m3u8?IASHttpSessionId=RR8275420230310002030000839
 纪实人文,http://r.wylc.top:8888/rtp/239.93.1.137:5140
 纪实人文,http://222.71.90.218:8888/newlive/live/hls/54/live.m3u8
-上海纪实,http://www.icancloud.top:8888/udp/239.3.1.212:8060
+纪实人文,http://www.icancloud.top:8888/udp/239.3.1.212:8060
+纪实人文,http://api.52tb.xyz/info?id=378&token=20230314vyrzsx
 纪实人文,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001330/index.m3u8?virtualDomain=yinhe.live_hls.zte.com五星体育,http://222.71.90.218:8888/newlive/live/hls/56/live.m3u8
 生活时尚,http://r.wylc.top:8888/rtp/239.93.42.29:5140
 五星体育,https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
-崇明电视台,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8?zshangd
-嘉定电视台,https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8?zshangd
 点掌财经,https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
 
 天津,#genre#
