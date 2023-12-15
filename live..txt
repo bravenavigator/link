@@ -394,7 +394,8 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 
 北京,#genre#
-BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
+北京新闻,http://live.funhillrm.com/5/sd/live.m3u8
+北京新闻,http://qnap.yjnhome.com:4000/udp/239.3.1.159:8000
 北京通州,http://pull.dayuntongzhou.com/live/tztv.m3u8
 房山无线频道,http://live.funhillrm.com/2/sd/live.m3u8
 房山有线频道,http://live.funhillrm.com/5/sd/live.m3u8
@@ -679,6 +680,7 @@ BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
 泰安新泰影视,http://live.xtgdw.cn:1935/live/xtys/playlist.m3u8
 
 四川,#genre#
+四川新闻,http://r.wylc.top:8888/rtp/239.93.0.47:5140
 自贡综合,http://110.189.153.160:1001/zhpd.flv?zsicd
 自贡公共,http://110.189.153.160:1002/ggpd.flv?zsicd
 眉山综合,http://live1.scmstv.cn/gqpd/sd/live.m3u8?zsicd
@@ -754,7 +756,7 @@ BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
 沐川综合,http://tvfile.mcrm.org.cn/nmip-media/channellive/channel103064/playlist.m3u8?zsicd
 
 湖北,#genre#
-武汉新闻,http://stream.appwuhan.com/1tzb/sd/live.m3u8
+武汉新闻综合,http://stream.appwuhan.com/1tzb/sd/live.m3u8
 武汉经济,http://stream.appwuhan.com/4tzb/sd/live.m3u8
 武汉生活,http://stream.appwuhan.com/3tzb/sd/live.m3u8
 武汉少儿,http://stream.appwuhan.com/7tzb/sd/live.m3u8
