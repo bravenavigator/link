@@ -1157,7 +1157,6 @@ BBC Travel,https://ab96b349d4d14d80a1f8530a0bce4488.mediatailor.us-east-1.amazon
 电影_星爷,https://live.metshop.top/huya/11342412
 电影_英叔,https://live.metshop.top/huya/11342421
 电影_发哥,https://live.metshop.top/huya/11342387
-电影_成龙,https://live.metshop.top/huya/11342386
 电影_王晶,https://live.metshop.top/huya/11602058
 电影_沈腾,https://live.metshop.top/huya/11601968
 电影_黄渤,https://live.metshop.top/huya/11352876
@@ -1188,6 +1187,7 @@ BBC Travel,https://ab96b349d4d14d80a1f8530a0bce4488.mediatailor.us-east-1.amazon
 电影_梁家辉,https://live.metshop.top/huya/11342429
 电影_许冠英,https://live.metshop.top/huya/11601972
 电影_刘德华,https://live.metshop.top/huya/11342424
+电影_成龙,https://live.metshop.top/huya/11342386
 电影_斯坦森,https://live.metshop.top/huya/21059588
 电影_小鬼头,https://live.metshop.top/huya/11352963
 电影_八点档,https://live.metshop.top/huya/880261
