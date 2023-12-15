@@ -1051,6 +1051,7 @@ BBC World News,http://typicamn.russtv.net/iptv/349W3XS8ENP64A/545/index.m3u8
 BBC America,https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
 NewsmaxTV,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 i24news,https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/profile_0/chunklist.m3u8
+Reuters TV,https://reuters-reutersnow-1-us.plex.wurl.tv/c0c0829237382f291cc46a0368586aa7.m3u8
 Global News, https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
 Channel NewsAsia,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 Channel NewsAsia,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -1064,13 +1065,20 @@ Discoveryᴴᴰ,http://typicamn.russtv.net/iptv/349W3XS8ENP64A/9011/index.m3u8
 Travel XP,https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
 NASA TV Media,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
 NASA TV Public,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+France 24 ENG,https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_091/HD/playlist.m3u8
 France 24 ENG,http://n1.klowdtv.net/live2/france24_720p/chunks.m3u8
+TRT WORLD,https://tv-trtworld.live.trt.com.tr/master.m3u8
 Wild EARTH,https://wildearth-roku.amagi.tv/masterR720P.m3u8
 Известия (720p) （俄罗斯）,https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 俄罗斯中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+韩联社,https://wms211-kortv.akamaized.net/a_live/34402987/smil:20ch211.smil/chunklist_b2500000.m3u8
 越南 | Da Nang TV1 (1080p) [Not 24/7],http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
 越南 | Da Nang TV2 (1080p) [Not 24/7],http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
-韩联社,https://wms211-kortv.akamaized.net/a_live/34402987/smil:20ch211.smil/chunklist_b2500000.m3u8
+Quốc Hội (720p),http://113.164.225.140:1935/live/quochoitvlive.stream_720p/playlist.m3u8
+
+TN - Truyền hình Thái Nguyên HD,https://streaming.thainguyentv.vn/hls/livestream.m3u8
+Hải Phòng,https://live.thhp.vn/thp/index.m3u8
+Hải Phòng +,https://live.thhp.vn/hls/thpplus/index.m3u8?1
 KBS WORLD,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 MTV音乐频道,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
 HBO,http://208.115.225.174:14136
