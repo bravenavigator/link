@@ -976,13 +976,23 @@ JZ生活,rtmp://alivealone.litenews.cn/305/6b3c364e18a348ed865f67eaf2cdb724
 鹤壁综合频道,http://pili-live-hls.hebitv.com/hebi/hebi.m3u8?zhend沁阳新闻综合,http://live.qinyangtv.com:82/channel1/sd/live.m3u8?zhend
 
 河北,#genre#
+河北都市,http://api.52tb.xyz/info?id=481&token=20230314vyrzsx
+河北经济,http://api.52tb.xyz/info?id=482&token=20230314vyrzsx
 河北经济,http://live.hyxrmt.com:85/live/xwpd.m3u8
+河北影视,http://api.52tb.xyz/info?id=483&token=20230314vyrzsx
+河北少儿,http://api.52tb.xyz/info?id=484&token=20230314vyrzsx
+河北公共,http://api.52tb.xyz/info?id=485&token=20230314vyrzsx
 河北农民,https://jwplay.hebyun.com.cn/live/hbnmtv/1500k/tzwj_video.m3u8?zhebd
+河北农民,http://api.52tb.xyz/info?id=486&token=20230314vyrzsx
 石家庄新闻综合,http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8
-石家庄生活,http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8
-石家庄娱乐,http://pluslive1.sjzntv.cn/yule/playlist.m3u8
+石家庄新闻综合,http://api.52tb.xyz/info?id=487&token=20230314vyrzsx
+石家庄都市,http://api.52tb.xyz/info?id=490&token=20230314vyrzsx
 石家庄都市,http://pluslive1.sjzntv.cn/dushi/playlist.m3u8
 石家庄生活,http://cu4.iblink.cn:8000/udp/239.253.92.94:8121
+石家庄生活,http://api.52tb.xyz/info?id=489&token=20230314vyrzsx
+石家庄生活,http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8
+石家庄娱乐,http://pluslive1.sjzntv.cn/yule/playlist.m3u8
+石家庄娱乐,http://api.52tb.xyz/info?id=488&token=20230314vyrzsx
 保定新闻,http://jwcdnqx.hebyun.com.cn/live/jybd/1500k/tzwj_video.m3u8
 保定公共,http://jwcdnqx.hebyun.com.cn/live/bdxw1/1500k/tzwj_video.m3u8
 保定生活,http://jwcdnqx.hebyun.com.cn/live/bddst/1500k/tzwj_video.m3u8
