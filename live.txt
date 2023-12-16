@@ -556,7 +556,6 @@ BTV卡酷少儿,http://api.52tb.xyz/info?id=360&token=20230314vyrzsx
 嘉兴海宁生活服务,http://live.hndachao.cn/shfw/sd/live.m3u8?zzhed
 金华兰溪新闻综合,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8?zzhed
 金华义乌新闻综合,https://44911.hlsplay.aodianyun.com/tv_radio_44911/tv_channel_1796.m3u8?auth_key=4830573978-0-0-92824c2c03f95906a3c49a4aa28f1709&extra_key=Yc1XsmxOKy2UBoPM4Wy5vCPsEYqnj06taCR2SRB2Xrg2w28NPilH03KdIbbM5wgSql-VBohSnoO9AOKl94q2t2DWMftz-XB-2qUX-UjXcS80StcSZahBFjrKLivXaRjiY5r2NOMKWMKFbv-S0Bz2G6iEXgCK8yGjtrFHDcPfAQEE0pvXq0Bwy34b7We8zARN&ali_ffmpeg_version=mpengine
-金华东阳影视,http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
 金华东阳综合,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
 舟山新闻,http://live1.plus.wifizs.cn/xwzh/sd/live.m3u8?zzhed
 舟山公共,http://live1.plus.wifizs.cn/ggsh/sd/live.m3u8?zzhed
@@ -568,13 +567,9 @@ BTV卡酷少儿,http://api.52tb.xyz/info?id=360&token=20230314vyrzsx
 丽水遂昌综合,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
 丽水云和综合,http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
 舟山普陀新闻综合,http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
-舟山嵊泗综合,http://l.cztvcloud.com/channels/lantian/SXshengsi1/720p.m3u8
-衢州常山新闻综合,https://hlsv2.quklive.com/live/1621306190044902/index.m3u8
 衢州开化综合,http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8
 衢州衢江综合,http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8
 衢州江山电视台,http://play-sh.quklive.com/live/1623117710666335.m3u8
-湖州德清文化生活,http://live.yingxi.tv/channel2/sd/live.m3u8
-湖州德清新闻综合,http://live.yingxi.tv/channel1/sd/live.m3u8
 之江记录,http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8?zzhed
 之江记录,http://hw-m-l.cztv.com/channels/lantian/channel12/720p.m3u8?zzhed
 之江记录,http://hw-m-l.cztv.com/channels/lantian/channel12/360p.m3u8?zzhed
