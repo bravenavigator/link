@@ -604,6 +604,12 @@ BTV卡酷少儿,http://api.52tb.xyz/info?id=360&token=20230314vyrzsx
 池州新闻综合,http://cm.wshls.homecdn.com/live/4abdd.m3u8
 池州2,http://cm.wshls.homecdn.com/live/829d.m3u8
 池州2,http://cm.wshls.homecdn.com/live/4abdf.m3u8
+淮南新闻综合,http://api.52tb.xyz/info?id=587&token=20230314vyrzsx
+淮南新闻综合,http://stream.0554news.com/hnds1/sd/live.m3u8?zanhd
+淮南公共,http://api.52tb.xyz/info?id=588&token=20230314vyrzsx
+淮南公共,http://stream.0554news.com/hnds2/sd/live.m3u8?zanhd
+淮南1,http://stream.0554news.com/hnds1/sd/live.m3u8
+淮南2,http://stream.0554news.com/hnds2/sd/live.m3u8
 淮北新闻综合,https://live.hbnews.net/video/xwzh/index.m3u8
 淮北经济生活,https://live.hbnews.net/video/ggpd/index.m3u8
 宿州1,http://live.ahsz.tv/video/s10001-szzh/index.m3u8
@@ -611,8 +617,6 @@ BTV卡酷少儿,http://api.52tb.xyz/info?id=360&token=20230314vyrzsx
 宿州3,http://live.ahsz.tv/video/s10001-kxjy/index.m3u8
 安庆1,http://52223.hlsplay.aodianyun.com/tv_radio_52223/tv_channel_3214.m3u8?auth_key=4840160301-0-0-378c5d20acdfb32e54fe2f61b057ecff&extra_key=qj4e5_Ej_mtN2cbGJEcXXjgw_HVomOse5m7vYzTTZ4M3tRajimjfp6N0QpS7g3ceGHkR7LqT0Kxj8Tn2sRlk7RwZ0GaWLs_CkzOYAF6IHwgf6Lbta-F7B_2g6wO7mYGIamz4w7or8NkNjGhC4MExW4sdqzTUSoe9cXN-snl9s9OhN0PIDv0lxTbXYIJ7fSDU
 安庆2,http://52223.hlsplay.aodianyun.com/tv_radio_52223/tv_channel_3215.m3u8?auth_key=4840160247-0-0-09f173f08ee665e4b1b65aa69a5ee46d&extra_key=9Gv-6hfRrMAaAuD7AYFdmB969naxPovqhZHAkcCYJSb1EAOCXARnqb8CUtO3J79-DQBGs-_55m2odXUh9cAecLDbz52sbpGw9b0f7umLy91QXS1P_Ueiz0_24GvOOdDugwSYLDZBUq-Ia5AZgi3CDUtTcex5hgsjrgkpwyXJnQH37tIiCpZY3zrNbW0tiDDU
-淮南1,http://stream.0554news.com/hnds1/sd/live.m3u8
-淮南2,http://stream.0554news.com/hnds2/sd/live.m3u8
 固镇,http://www.guzhenm.com:7001/hls/hd-live.m3u8
 怀远1,rtmp://m.yunxi.tv/yunxi-host/test_e7cba94f9450436fba1f747534dc9121?auth_key=1781502420-0-0-619476a370c978c22ffaaeb0288c332e
 怀远2,rtmp://m.yunxi.tv/yunxi-host/test_e8eed0b9088a44788eb393dd6d10e1fe?auth_key=1781502600-0-0-7b29b500b5449ae446cf9f5210c2114d
@@ -634,8 +638,6 @@ BTV卡酷少儿,http://api.52tb.xyz/info?id=360&token=20230314vyrzsx
 宿州公共,http://live.ahsz.tv/video/s10001-ggpd/index.m3u8?zanhd
 六安新闻综合,http://pili-live-rtmp.luan2.hfmt.net/luan2/jjpd.m3u8?zanhd
 六安公共,http://pili-live-rtmp.luan2.hfmt.net/luan2/ggpd.m3u8?zanhd
-淮南新闻综合,http://stream.0554news.com/hnds1/sd/live.m3u8?zanhd
-淮南公共,http://stream.0554news.com/hnds2/sd/live.m3u8?zanhd
 固镇新闻,http://www.guzhenm.com:7001/hls/hd-live.m3u8?zanhd
 灵璧综合,http://live.cms.anhuinews.com/video/s10003-lbtv/index.m3u8?zanhd
 
@@ -758,6 +760,7 @@ JZ生活,rtmp://alivealone.litenews.cn/305/6b3c364e18a348ed865f67eaf2cdb724
 德阳新闻综合,http://scdytv.cn:1935/live/m_xwpd_livevideo/playlist.m3u8
 广安公共,http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8
 黑水新闻综合,http://live.schstv.com:90/live/xwzh.m3u8
+洪雅新闻综合,http://api.52tb.xyz/info?id=607&token=20230314vyrzsx
 洪雅新闻综合,http://117.172.215.250:8083/videos/live/35/39/GQVbrgob5CGJM/GQVbrgob5CGJM.M3U8
 会东综合,http://112.45.133.129:90/live/xwzh.m3u8
 雷波综合,http://lbzb.yd-data.com/live/0000.flv?auth_key=601589378470-0-0-67d1de5fa3aa9412566d7c9f807c91a0
@@ -824,11 +827,28 @@ JZ生活,rtmp://alivealone.litenews.cn/305/6b3c364e18a348ed865f67eaf2cdb724
 沐川综合,http://tvfile.mcrm.org.cn/nmip-media/channellive/channel103064/playlist.m3u8?zsicd
 洪雅新闻综合,http://api.52tb.xyz/info?id=607&token=20230314vyrzsx
 
+湖南,#genre#
+湖南都市,http://api.52tb.xyz/info?id=567&token=20230314vyrzsx
+湖南经视,http://api.52tb.xyz/info?id=566&token=20230314vyrzsx
+湖南国际,http://api.52tb.xyz/info?id=562&token=20230314vyrzsx
+湖南娱乐,http://api.52tb.xyz/info?id=563&token=20230314vyrzsx
+湖南电影,http://api.52tb.xyz/info?id=564&token=20230314vyrzsx
+湖南电视剧,http://api.52tb.xyz/info?id=565&token=20230314vyrzsx
+金鹰卡通,http://api.52tb.xyz/info?id=568&token=20230314vyrzsx
+金鹰纪实,http://api.52tb.xyz/info?id=569&token=20230314vyrzsx
+湖南爱晚,http://api.52tb.xyz/info?id=561&token=20230314vyrzsx
+湘潭综合,http://api.52tb.xyz/info?id=570&token=20230314vyrzsx
+长沙新闻,rtmp://35848.lssplay.aodianyun.com/guangdianyun_35848/tv_channel_346?auth_key=1936692784-0-0-9042421539d8424068f7e575f090dbca
+湘潭综合,http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
+湘潭公共,http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
+湘潭新闻综合,http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8?zhund
+湘潭公共频道,http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
+岳阳公共,http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
 湖北,#genre#
-湖北经视,http://api.52tb.xyz/info?id=541&token=20230314vyrzsx
 湖北综合,http://api.52tb.xyz/info?id=542&token=20230314vyrzsx
 湖北公共,http://api.52tb.xyz/info?id=543&token=20230314vyrzsx
 湖北生活,http://api.52tb.xyz/info?id=544&token=20230314vyrzsx
+湖北经视,http://api.52tb.xyz/info?id=541&token=20230314vyrzsx
 湖北教育,http://api.52tb.xyz/info?id=545&token=20230314vyrzsx
 湖北垄上,http://api.52tb.xyz/info?id=546&token=20230314vyrzsx
 武汉新闻综合,http://stream.appwuhan.com/1tzb/sd/live.m3u8
@@ -870,24 +890,6 @@ JZ生活,rtmp://alivealone.litenews.cn/305/6b3c364e18a348ed865f67eaf2cdb724
 鄂州公共,http://ezhou-live21.cjyun.org/10098/s10098-EZ2T.m3u8?auth_key=1704038399-0-0-7387d4927e444c08f898365bb0a16e87
 郧阳新闻综合,http://58.19.198.159:2021/hls1.m3u8
 江夏新闻综合,http://59.175.226.142:280/gb28181/xwzh.m3u8
-
-湖南,#genre#
-湖南都市,http://api.52tb.xyz/info?id=567&token=20230314vyrzsx
-湖南经视,http://api.52tb.xyz/info?id=566&token=20230314vyrzsx
-湖南国际,http://api.52tb.xyz/info?id=562&token=20230314vyrzsx
-湖南娱乐,http://api.52tb.xyz/info?id=563&token=20230314vyrzsx
-湖南电影,http://api.52tb.xyz/info?id=564&token=20230314vyrzsx
-湖南电视剧,http://api.52tb.xyz/info?id=565&token=20230314vyrzsx
-金鹰卡通,http://api.52tb.xyz/info?id=568&token=20230314vyrzsx
-金鹰纪实,http://api.52tb.xyz/info?id=569&token=20230314vyrzsx
-湖南爱晚,http://api.52tb.xyz/info?id=561&token=20230314vyrzsx
-湘潭综合,http://api.52tb.xyz/info?id=570&token=20230314vyrzsx
-长沙新闻,rtmp://35848.lssplay.aodianyun.com/guangdianyun_35848/tv_channel_346?auth_key=1936692784-0-0-9042421539d8424068f7e575f090dbca
-湘潭综合,http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
-湘潭公共,http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
-湘潭新闻综合,http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8?zhund
-湘潭公共频道,http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
-岳阳公共,http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
 
 江西,#genre#
 南昌资讯,http://live.cooltv.top/tv/nctv.php?id=3
