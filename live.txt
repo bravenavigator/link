@@ -1039,6 +1039,10 @@ JZ生活,rtmp://alivealone.litenews.cn/305/6b3c364e18a348ed865f67eaf2cdb724
 
 陕西,#genre#
 陕西新闻,http://nas.lxn.cool:4022/udp/239.111.205.28:5140
+新闻,http://api.52tb.xyz/info?id=621&token=20230314vyrzsx
+陕西都市,http://api.52tb.xyz/info?id=622&token=20230314vyrzsx
+陕西生活,http://api.52tb.xyz/info?id=623&token=20230314vyrzsx
+陕西公共,http://api.52tb.xyz/info?id=624&token=20230314vyrzsx
 安康综合,http://mmitv.top/test/tianma.php?id=akzh
 安康公共,http://mmitv.top/test/tianma.php?id=akgg
 安康教育,http://mmitv.top/test/tianma.php?id=akjy
@@ -1068,8 +1072,12 @@ JZ生活,rtmp://alivealone.litenews.cn/305/6b3c364e18a348ed865f67eaf2cdb724
 吉县新闻综合,http://jxlive.jxrmtzx.com:8091/live/xwzh.m3u8
 
 云南,#genre#
+西双版纳新闻综合,http://api.52tb.xyz/info?id=688&token=20230314vyrzsx
+西双版纳文化旅游,http://api.52tb.xyz/info?id=689&token=20230314vyrzsx
 文山州新闻综合,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv?zyund
 文山州新闻综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8?zyund
+文山州新闻综合,http://api.52tb.xyz/info?id=686&token=20230314vyrzsx
+文山州公共,http://api.52tb.xyz/info?id=687&token=20230314vyrzsx
 文山州公共,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8?zyund
 怒江新闻综合,http://livebroadcast.ccwb.cn/live/w1620805130988936.m3u8?zyund
 砚山电视台,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel16/playlist.m3u8?zyund
@@ -1080,8 +1088,15 @@ JZ生活,rtmp://alivealone.litenews.cn/305/6b3c364e18a348ed865f67eaf2cdb724
 绥江综合,http://livebroadcast.ccwb.cn/live/w1615172384810938.m3u8?zyund
 
 贵州,#genre#
-贵州2,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226119/1/index.m3u8?fmt=ts2hls
-贵州3,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226125/1/index.m3u8?fmt=ts2hls
+贵州公共,http://api.52tb.xyz/info?id=701&token=20230314vyrzsx
+贵州公共,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226119/1/index.m3u8?fmt=ts2hls
+贵州影视,http://api.52tb.xyz/info?id=702&token=20230314vyrzsx
+贵州影视,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226125/1/index.m3u8?fmt=ts2hls
+贵州生活,http://api.52tb.xyz/info?id=703&token=20230314vyrzsx
+贵州法治,http://api.52tb.xyz/info?id=704&token=20230314vyrzsx
+贵州科教,http://api.52tb.xyz/info?id=705&token=20230314vyrzsx
+贵州经济,http://api.52tb.xyz/info?id=706&token=20230314vyrzsx
+贵州移动,http://api.52tb.xyz/info?id=707&token=20230314vyrzsx
 松桃新闻,http://live.strmtzx.cn/stxw/sd/live.m3u8
 
 吉林,#genre#
