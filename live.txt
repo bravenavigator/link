@@ -362,6 +362,8 @@ BTV体育(备),http://api.52tb.xyz/info?id=356&token=20230314vyrzsx
 BTV生活,http://api.52tb.xyz/info?id=357&token=20230314vyrzsx
 BTV新闻,http://api.52tb.xyz/info?id=359&token=20230314vyrzsx
 BTV卡酷少儿,http://api.52tb.xyz/info?id=360&token=20230314vyrzsx
+房山频道,http://live.funhillrm.com/2/sd/live.m3u8
+
 
 上海,#genre#
 新闻综合,http://alltzy.cn/dl/bestv.php?id=xwzhhd8m/8000000
