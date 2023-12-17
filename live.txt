@@ -268,6 +268,7 @@ CCTV4欧洲台,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4ouhd/
 
 广东,#genre#
 广东珠江,http://api.52tb.xyz/info?id=410&token=20230314vyrzsx
+广东珠江,http://218.13.170.98:9901/tsfile/live/1000_1.m3u8
 广东新闻,http://api.52tb.xyz/info?id=404&token=20230314vyrzsx
 广东公共,http://api.52tb.xyz/info?id=408&token=20230314vyrzsx
 广东综艺,http://api.52tb.xyz/info?id=402&token=20230314vyrzsx
@@ -1088,17 +1089,35 @@ BTV卡酷少儿,http://api.52tb.xyz/info?id=360&token=20230314vyrzsx
 长治长子综合,http://zzlive.zzc-media.com:8092/live/xwzh.m3u8
 长治潞城综合,http://59.48.42.6:62204/lucheng.m3u8
 临汾吉县综合,http://jxlive.jxrmtzx.com:8091/live/xwzh.m3u8
+临汾吉县综合,http://jxlive.jxrmtzx.com:8091/live/xwzh.m3u8?zshanxd
 
 云南,#genre#
+云南都市,http://221.213.43.82:8888/newlive/live/hls/53/live.m3u8
+云南都市,http://tvlive.ynradio.com/live/yunnandushi/chunks.m3u8
+云南都市,http://tvlive.ynradio.com/live/yunnandushi/playlist.m3u8
+云南娱乐,http://tvlive.ynradio.com/live/yunnanyule/chunks.m3u8
+云南娱乐,http://tvlive.ynradio.com/live/yunnanyule/playlist.m3u8
+云南影视,http://221.213.43.82:8888/newlive/live/hls/55/live.m3u8
+云南少儿,http://221.213.43.82:8888/newlive/live/hls/56/live.m3u8
+云南少儿,http://tvlive.ynradio.com/live/yunnanshaoer/chunks.m3u8
+云南少儿,http://tvlive.ynradio.com/live/yunnanshaoer/playlist.m3u8
+云南康旅,http://tvlive.ynradio.com/live/yunnangonggong/chunks.m3u8
+云南康旅,http://tvlive.ynradio.com/live/yunnangonggong/playlist.m3u8
 西双版纳新闻综合,http://api.52tb.xyz/info?id=688&token=20230314vyrzsx
 西双版纳文化旅游,http://api.52tb.xyz/info?id=689&token=20230314vyrzsx
+丽江新闻综合,http://play.live.lijiangtv.com/live/tvzh.m3u8
+丽江文化旅游,http://play.live.lijiangtv.com/live/tvgg.m3u8
 文山新闻综合,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv?zyund
+红河新闻综合,http://tv.drs.hhtv.cc:8100/channellive/hhtv-1.flv?zyund
+红河公共,http://tv.drs.hhtv.cc:8100/channellive/hhtv-2.flv?zyund
 文山公共,http://api.52tb.xyz/info?id=687&token=20230314vyrzsx
 文山公共,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8?zyund
-怒江综合,http://livebroadcast.ccwb.cn/live/w1620805130988936.m3u8?zyund
 文山砚山综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel16/playlist.m3u8?zyund
 文山麻栗坡电视台,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8?zyund
 文山麻栗坡电视台,http://tvdrs.wsrtv.com.cn:8100/channellive/mlptv.flv?zyund
+怒江综合,http://livebroadcast.ccwb.cn/live/w1620805130988936.m3u8?zyund
+保山一套,http://liveynbsdst.chinamcache.com/live/zb01.m3u8?auth_key=1645240615-0-0-65e16b6e5bf26ac5538ac471eff58b55
+保山二套,http://liveynbsdst.chinamcache.com/live/zb02.m3u8?auth_key=1645240679-0-0-d67bc97395c69c4381264c996315a24b
 大理宾川一套,http://live.bcrmtzx.com/tv01/sd/live.m3u8?zyund
 昭通巧家综合,http://livebroadcast.ccwb.cn/live/w1593303918254963.m3u8?zyund
 昭通绥江综合,http://livebroadcast.ccwb.cn/live/w1615172384810938.m3u8?zyund
@@ -1114,6 +1133,9 @@ BTV卡酷少儿,http://api.52tb.xyz/info?id=360&token=20230314vyrzsx
 贵州经济,http://api.52tb.xyz/info?id=706&token=20230314vyrzsx
 贵州移动,http://api.52tb.xyz/info?id=707&token=20230314vyrzsx
 铜仁松桃新闻,http://live.strmtzx.cn/stxw/sd/live.m3u8
+
+辽宁,,#genre#
+丹东新闻综合,http://mmitv.top/test/tianma.php?id=ddzh
 
 吉林,#genre#
 吉林公共新闻,http://stream1.jlntv.cn/ggpd/sd/live.m3u8?zjild
@@ -1140,6 +1162,10 @@ BTV卡酷少儿,http://api.52tb.xyz/info?id=360&token=20230314vyrzsx
 白银文化教育,http://live.bygd.cn/bygg/sd/live.m3u8?zgand
 平凉崆峒综合,http://125.74.200.110:10080/hls/001/001_live.m3u8?gansu
 
+宁夏,#genre#
+吴忠综合,http://live.kanwz.net/zhpd/sd/live.m3u8?zningxd
+吴忠公共,http://live.kanwz.net/ggpd/sd/live.m3u8?zningxd
+
 青海,#genre#
 青海综合,http://lmt.scqstv.com/live1/live1.m3u8
 青海经视,http://stream.qhbtv.com/qhsh/playlist.m3u8
@@ -1159,13 +1185,17 @@ BTV卡酷少儿,http://api.52tb.xyz/info?id=360&token=20230314vyrzsx
 海南兴海综合,http://lived.dmqhyadmin.com/xhzhpd/sd/live.m3u8
 
 内蒙古,#genre#
-内蒙新闻,http://api.52tb.xyz/info?id=781&token=20230314vyrzsx
+内蒙新闻综合,http://api.52tb.xyz/info?id=781&token=20230314vyrzsx
+内蒙新闻综合,http://api2.52tb.xyz/info?id=781&token=20230405tndmhg
 蒙古语文化,http://api.52tb.xyz/info?id=782&token=20230314vyrzsx
 蒙古语卫视,http://api.52tb.xyz/info?id=783&token=20230314vyrzsx
 内蒙少儿,http://api.52tb.xyz/info?id=784&token=20230314vyrzsx
 内蒙文体,http://api.52tb.xyz/info?id=785&token=20230314vyrzsx
 农牧频道,http://api.52tb.xyz/info?id=886&token=20230314vyrzsx
+农牧频道,http://api2.52tb.xyz/info?id=886&token=20230405tndmhg
 内蒙生活,http://api.52tb.xyz/info?id=787&token=20230314vyrzsx
+包头新闻,http://live.btgdt.com/channels/btgd/xwzh/flv:500k/live
+包头新闻,http://live.btgdt.com/channels/btgd/xwzh/m3u8:500k/live
 鄂尔多斯新闻综合,http://live.erdszs.org.cn/lsdream/h2mxgj4/1000/live.m3u8?zneimd
 鄂尔多斯经济服务,http://live.erdszs.org.cn/lsdream/ogvfqcp/1000/live.m3u8?zneimd
 鄂尔多斯蒙语综合,http://live.erdszs.org.cn/lsdream/3lZr8dK/1000/live.m3u8?zneimd
