@@ -989,9 +989,9 @@ BTV卡酷少儿,http://api.52tb.xyz/info?id=360&token=20230314vyrzsx
 南宁新闻综合,http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
 南宁新闻综合,http://api2.52tb.xyz/info?id=721&token=20230331czbpek
 南宁新闻综合,http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8?zguangxd
-南宁都市生活,http://api2.52tb.xyz/info?id=722&token=20230331czbpek
-南宁都市生活,http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8
-南宁都市,http://api.52tb.xyz/info?id=722&token=20230314vyrzsx
+南宁文旅生活,http://api2.52tb.xyz/info?id=722&token=20230331czbpek
+南宁文旅生活,http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8
+南宁文旅生活,http://api.52tb.xyz/info?id=722&token=20230314vyrzsx
 南宁公共,http://hls.nntv.cn/nnlive/NNTV_PUB_A.m3u8
 南宁公共,http://api.52tb.xyz/info?id=724&token=20230314vyrzsx
 南宁公共,http://api2.52tb.xyz/info?id=724&token=20230331czbpek
