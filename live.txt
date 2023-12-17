@@ -1177,10 +1177,10 @@ BTV卡酷少儿,http://api.52tb.xyz/info?id=360&token=20230314vyrzsx
 伊犁经济法制,http://110.153.180.106:55555/out_4/index.m3u8?zxinjd
 伊犁汉语,http://110.153.180.106:55555/out_1/index.m3u8
 伊犁汉语,http://110.153.180.106:55555/out_1/index.m3u8?zxinjd
-伊犁维吾尔,http://110.153.180.106:55555/out_2/index.m3u8
-伊犁维吾尔,http://110.153.180.106:55555/out_2/index.m3u8
-伊犁哈萨克,http://110.153.180.106:55555/out_3/index.m3u8
-伊犁哈萨克,http://110.153.180.106:55555/out_3/index.m3u8?zxinjd
+伊犁维语,http://110.153.180.106:55555/out_2/index.m3u8
+伊犁维语,http://110.153.180.106:55555/out_2/index.m3u8
+伊犁哈萨克语,http://110.153.180.106:55555/out_3/index.m3u8
+伊犁哈萨克语,http://110.153.180.106:55555/out_3/index.m3u8?zxinjd
 伊犁经济法制,http://110.153.180.106:55555/out_4/index.m3u8
 石河子新闻综合,http://124.88.144.73:1935/live/xwzh/playlist.m3u8?zxinjd
 石河子新闻综合,http://124.88.144.73:1935/live/xwzh/playlist.m3u8
