@@ -275,8 +275,8 @@ CCTV-4欧洲台,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4ouhd
 青海卫视,http://221.2.36.34:8888/newlive/live/hls/39/live.m3u8
 内蒙古卫视,http://api.52tb.xyz/info?id=44&token=20230314vyrzsx
 内蒙古卫视,http://api.52tb.xyz/info?id=95&token=20230314vyrzsx
-新疆卫视,https://live.metshop.top/msp.php?id=xjws
 新疆卫视,http://47.242.38.45:9999/ysp.php?id=xjws
+新疆卫视,https://live.metshop.top/msp.php?id=xjws
 兵团卫视,https://test5.btzx.com.cn/live/2023bt.stream/chunklist_w901976294.m3u8
 西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws
 康巴卫视,http://118.122.126.202:8877/rtp/239.93.0.41:5140
