@@ -307,9 +307,6 @@ CCTV-4欧洲台,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4ouhd
 广州影视,http://player.200877926.top/169l/gd/gztvm3u8.php?id=gzys
 深圳都市,http://livepull-tcyzb.sztv.com.cn/live/dushi01.m3u8
 深圳都市,http://livepull-tcyzb.sztv.com.cn/showto_live/dushi01.m3u8
-深圳龙岗,https://lglivepull.sznews.com/live/2647.m3u8
-深圳东部,https://lglivepull.sznews.com/live/2646.m3u8
-深圳众创,https://lglivepull.sznews.com/live/2645.m3u8
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935?zguangd
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1612881417-0-0-bc7ddba066481bc805fc1e800654e721?zguangd
