@@ -362,7 +362,6 @@ TVB星河,http://113.117.74.12:8081/hls/135/index.m3u8
 澳门综艺,http://61.244.22.5/ch6/hd_ch6.live/index.m3u8
 澳视澳门,http://61.244.22.5/ch1/ch1.live/playelist.m3u8
 澳视澳门,http://61.244.22.5/ch1/ch1.live/playlist.m3u8
-星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
 
 台湾,#genre#
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
