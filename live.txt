@@ -1163,7 +1163,6 @@ BTV卡酷少儿,http://api.52tb.xyz/info?id=360&token=20230314vyrzsx
 武汉新闻综合,http://stream.appwuhan.com/1tzb/sd/live.m3u8
 武汉科技生活,http://stream.appwuhan.com/3tzb/sd/live.m3u8
 武汉教育,http://stream.appwuhan.com/jyzb/sd/live.m3u8
-武汉文体,http://stream.appwuhan.com/5tzb/sd/live.m3u8
 十堰新闻,http://p8.vzan.com/slowlive/034028687228317362/live.m3u8
 十堰郧阳综合,http://58.19.198.159:2021/hls1.m3u8
 鄂州鄂州新闻综合,http://ezhou-live21.cjyun.org/10098/s10098-EZ1T.m3u8?auth_key=1704038399-0-0-f97391c85e7bf53b885ed7d63cf722c0
