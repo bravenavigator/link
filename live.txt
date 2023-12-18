@@ -412,6 +412,7 @@ BTV卡酷少儿,http://api.52tb.xyz/info?id=360&token=20230314vyrzsx
 纪实人文,http://api.52tb.xyz/info?id=378&token=20230314vyrzsx
 纪实人文,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001330/index.m3u8?virtualDomain=yinhe.live_hls.zte.com五星体育,http://222.71.90.218:8888/newlive/live/hls/56/live.m3u8
 生活时尚,http://r.wylc.top:8888/rtp/239.93.42.29:5140
+乐游频道,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226580/1.m3u8
 五星体育,http://222.71.90.218:8888/newlive/live/hls/56/live.m3u8
 五星体育,https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
 劲爆体育,https://live.goodiptv.club/api/bestv.php?id=jbtyhd8m/8000000
