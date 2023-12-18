@@ -283,6 +283,7 @@ CCTV-4欧洲台,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4ouhd
 康巴卫视,https://live.goodiptv.club/api/sxg.php?id=kbwsH264_2000
 海峡卫视,http://36.249.151.144:9901/tsfile/live/0150_1.m3u8?key=txiptv&playlive=1&authid=0
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8$官方1
+三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 
 广东,#genre#
 广东珠江,http://api.52tb.xyz/info?id=410&token=20230314vyrzsx
@@ -295,6 +296,7 @@ CCTV-4欧洲台,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4ouhd
 广东体育,http://api.52tb.xyz/info?id=414&token=20230314vyrzsx
 南国都市,http://php.jdshipin.com:8880/gztv.php?id=shenghuo
 南国都市,http://api.52tb.xyz/info?id=419&token=20230314vyrzsx
+南国都市,http://player.200877926.top/169l/gd/gztvm3u8.php?id=gzngds
 大湾区卫视,http://api.52tb.xyz/info?id=412&token=20230314vyrzsx
 大湾区卫视,http://gmxw.7766.org:808/hls/132/index.m3u8
 广州综合,http://player.200877926.top/169l/gd/gztvm3u8.php?id=gzzh
@@ -659,12 +661,15 @@ BTV卡酷少儿,http://api.52tb.xyz/info?id=360&token=20230314vyrzsx
 淮河能源,http://play.hhnynews.com/hhny/zhpd.m3u8?auth_key=1659380497-0-0-b07e3e3cd99f9355b6aa1e79fbd305f2
 
 山东,#genre#
+山东综艺,rtmp://livealone.iqilu.com/iqilu/zypdhjOF03kn
 山东新闻,http://api.52tb.xyz/info?id=522&token=20230314vyrzsx
 山东新闻,http://livealone.iqilu.com/iqilu/ggpdhjOF03kn.flv
 山东齐鲁,http://api.52tb.xyz/info?id=521&token=20230314vyrzsx
 山东齐鲁,rtmp://livealone.iqilu.com/iqilu/qlpdhjOF03kn
 山东文旅,http://api.52tb.xyz/info?id=526&token=20230314vyrzsx
 山东齐鲁,http://livealone.iqilu.com/iqilu/qlpdhjOF03kn.flv
+山东齐鲁,rtmp://livealone.iqilu.com/iqilu/qlpdhjOF03kn
+山东文旅,rtmp://livealone.iqilu.com/iqilu/yspdhjOF03kn
 山东文旅,rtmp://livealone.iqilu.com/iqilu/yspdhjOF03kn
 山东综艺,http://api.52tb.xyz/info?id=525&token=20230314vyrzsx
 山东综艺,rtmp://livealone.iqilu.com/iqilu/zypdhjOF03kn
@@ -672,12 +677,15 @@ BTV卡酷少儿,http://api.52tb.xyz/info?id=360&token=20230314vyrzsx
 山东生活,http://api.52tb.xyz/info?id=527&token=20230314vyrzsx
 山东生活,rtmp://livealone.iqilu.com/iqilu/shpdhjOF03kn
 山东生活,http://livealone.iqilu.com/iqilu/shpdhjOF03kn.flv
+山东生活,rtmp://livealone.iqilu.com/iqilu/shpdhjOF03kn
 山东农科,http://api.52tb.xyz/info?id=528&token=20230314vyrzsx
 山东农科,rtmp://livealone.iqilu.com/iqilu/nkpdhjOF03kn
 山东农科,http://livealone.iqilu.com/iqilu/nkpdhjOF03kn.flv
+山东农科,rtmp://livealone.iqilu.com/iqilu/nkpdhjOF03kn
 山东体育,http://api.52tb.xyz/info?id=523&token=20230314vyrzsx
 山东体育,rtmp://livealone.iqilu.com/iqilu/typdhjOF03kn
 山东体育,http://livealone.iqilu.com/iqilu/typdhjOF03kn.flv
+山东体育,rtmp://livealone.iqilu.com/iqilu/typdhjOF03kn
 山东少儿,http://api.52tb.xyz/info?id=524&token=20230314vyrzsx
 山东少儿,rtmp://livealone.iqilu.com/iqilu/sepdhjOF03kn
 山东少儿,http://livealone.iqilu.com/iqilu/sepdhjOF03kn.flv
