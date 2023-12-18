@@ -263,7 +263,6 @@ CCTV-4欧洲台,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4ouhd
 吉林卫视,http://live.goodiptv.club/api/bestv.php?id=jlwshd8m/8000000
 吉林卫视,https://live.goodiptv.club/api/sxg.php?id=jlwsH265_4000
 吉林卫视,http://api.52tb.xyz/info?id=40&token=20230314vyrzsx
-吉林卫视,http://hms2944nc1972666637.live.aikan.miguvideo.com/wh7f454c46tw1589344314_453295178/envivo_v/2018/SD/jilin/1000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073739&ContentId=531262154&timezone=UTC&mtv_session=a8fd605fabf2ca0814b5a56aee04bc2d&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=ec7257d80b3cd8e4a5590413a5e9cb93$爱看咪咕
 甘肃卫视,http://118.122.126.202:8877/rtp/239.93.0.81:5140
 甘肃卫视,http://live.goodiptv.club/api/bestv.php?id=gswshd8m/8000000
 甘肃卫视,https://live.goodiptv.club/api/sxg.php?id=gsws_4000
@@ -415,6 +414,7 @@ BTV卡酷少儿,http://api.52tb.xyz/info?id=360&token=20230314vyrzsx
 新闻综合,http://alltzy.cn/dl/bestv.php?id=xwzhhd8m/8000000
 新闻综合,http://222.71.90.218:8888/newlive/live/hls/55/live.m3u8
 第一财经,http://api.52tb.xyz/info?id=377&token=20230314vyrzsx
+第一财经,https://live.goodiptv.club/api/bestv.php?id=dycjhd8m/8000000
 第一财经,http://222.71.90.218:8888/newlive/live/hls/57/live.m3u8
 上海都市,https://live.goodiptv.club/api/bestv.php?id=dshd8m/8000000
 上海都市,http://222.71.90.218:8888/newlive/live/hls/51/live.m3u8
