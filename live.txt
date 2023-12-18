@@ -103,10 +103,23 @@ CCTV-16奥林匹克,,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/8888889
 CCTV-17农村农业,http://27.16.178.143:4567/rtp/239.69.1.152:10548
 CCTV-17农村农业,http://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
 CCTV-17农村农业,http://222.134.240.136:9901/tsfile/live/1030_1.m3u8?url=tvzb.com
-CCTV-风云足球,http://api.52tb.xyz/info?id=20&token=20230314vyrzsx
+CCTV-兵器科技,http://hls.live.cqccn.com/__cl/cg:live/__c/bqkjHD/__op/default/__f/index.m3u8
+CCTV-兵器科技,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226975/1.m3u8
 CCTV-兵器科技,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
-CCTV4美洲台,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4meihd/57/01.m3u8?&HlsSubType=&encrypt=1
-CCTV4欧洲台,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4ouhd/57/01.m3u8?&HlsSubType=&encrypt=1
+CCTV-世界地理,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8
+CCTV-文化精品,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226981/1.m3u8
+CCTV-文化精品,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
+CCTV-风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226953/1.m3u8
+CCTV-风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
+CCTV-怀旧剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/1.m3u8
+CCTV-怀旧剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
+CCTV-女性时尚,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226969/1.m3u8
+CCTV-女性时尚,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
+CCTV-风云足球,http://api.52tb.xyz/info?id=20&token=20230314vyrzsx
+CCTV-高尔夫网球,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226978/1.m3u8
+CCTV-高尔夫网球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
+CCTV-4美洲台,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4meihd/57/01.m3u8?&HlsSubType=&encrypt=1
+CCTV-4欧洲台,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4ouhd/57/01.m3u8?&HlsSubType=&encrypt=1
 
 卫视,#genre#
 北京卫视,http://27.16.178.143:4567/rtp/239.254.96.141:8920
@@ -1363,6 +1376,9 @@ BBC Travel,https://ab96b349d4d14d80a1f8530a0bce4488.mediatailor.us-east-1.amazon
 谍战剧场,https://live.goodiptv.club/api/bestv.php?id=dzjc8m/8000000
 全球大片,https://live.goodiptv.club/api/bestv.php?id=qqdp8m/8000000
 热门剧场,https://live.goodiptv.club/api/bestv.php?id=rmjc8m/8000000
+都市剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226581/1.m3u8
+超级综艺,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226009/1.m3u8
+欢笑剧场4K,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226582/1.m3u8
 
 电影轮播,#genre#
 电影_星爷,https://live.metshop.top/huya/11342412
