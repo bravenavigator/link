@@ -287,7 +287,7 @@ CCTV-4欧洲台,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4ouhd
 
 广东,#genre#
 广东珠江,http://api.52tb.xyz/info?id=410&token=20230314vyrzsx
-广东珠江,http://218.13.170.98:9901/tsfile/live/1000_1.m3u8
+广东珠江,https://php.17186.eu.org/gdtv/web/gdzj.m3u8
 广东新闻,http://api.52tb.xyz/info?id=404&token=20230314vyrzsx
 广东公共,http://api.52tb.xyz/info?id=408&token=20230314vyrzsx
 广东综艺,http://api.52tb.xyz/info?id=402&token=20230314vyrzsx
