@@ -395,18 +395,18 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 北京,#genre#
 BTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
 BTV新闻,http://qnap.yjnhome.com:4000/udp/239.3.1.159:8000
+BTV新闻,http://api.52tb.xyz/info?id=359&token=20230314vyrzsx
 BTV财经,http://api.52tb.xyz/info?id=354&token=20230314vyrzsx
 BTV文艺,http://81.69.20.196/mqlive.m3u8?ip=61.48.132.122:8000&id=live1045
 BTV文艺,http://api.52tb.xyz/info?id=351&token=20230314vyrzsx
-BTV科教,http://api.52tb.xyz/info?id=352&token=20230314vyrzsx
+BTV生活,http://api.52tb.xyz/info?id=357&token=20230314vyrzsx
 BTV影视,http://api.52tb.xyz/info?id=353&token=20230314vyrzsx
+BTV纪实,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
+BTV科教,http://api.52tb.xyz/info?id=352&token=20230314vyrzsx
 BTV体育,http://api.52tb.xyz/info?id=355&token=20230314vyrzsx
 BTV体育,http://api.52tb.xyz/info?id=356&token=20230314vyrzsx
-BTV生活,http://api.52tb.xyz/info?id=357&token=20230314vyrzsx
-BTV新闻,http://api.52tb.xyz/info?id=359&token=20230314vyrzsx
 BTV卡酷少儿,http://api.52tb.xyz/info?id=360&token=20230314vyrzsx
 房山频道,http://live.funhillrm.com/2/sd/live.m3u8
-北京纪实,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 
 上海,#genre#
 新闻综合,http://alltzy.cn/dl/bestv.php?id=xwzhhd8m/8000000
