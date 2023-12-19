@@ -231,6 +231,8 @@ CCTV-4欧洲台,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4ouhd
 甘肃卫视,http://live.goodiptv.club/api/bestv.php?id=gswshd8m/8000000
 甘肃卫视,https://live.goodiptv.club/api/sxg.php?id=gsws_4000
 宁夏卫视,http://111.59.63.32:9901/tsfile/live/1040_1.m3u8
+宁夏卫视,https://epg.pw/stream/5ba9406f5db6d6511f0b15b6fb7b728b6d82abe3a53a42ac1176ef67023d274f.m3u8
+宁夏卫视,https://epg.pw/stream/7c3def3ad872872a318c57490b1f0ccf9ff9200cc50216134bea240569f31e2a.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=1da074361609506578
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=f35a89681647856030
