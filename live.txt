@@ -303,7 +303,6 @@ CCTV-4欧洲台,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4ouhd
 大湾区卫视,http://gmxw.7766.org:808/hls/132/index.m3u8
 广州综合,http://player.200877926.top/169l/gd/gztvm3u8.php?id=gzzh
 广州综合,http://r.jdshipin.com/iR6Gq
-广州新闻,https://tencentplaygsm.gztv.com/live/xinwen.m3u8?txTime=65805755&txSecret=bcc2b5ea1444e8130de4be1b8f98591a
 广州新闻,http://player.200877926.top/169l/gd/gztvm3u8.php?id=gzxw
 广州法治,http://player.200877926.top/169l/gd/gztvm3u8.php?id=gzfz
 广州影视,http://r.jdshipin.com/TcKr2
