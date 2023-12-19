@@ -9,6 +9,7 @@ CCTV-13新闻,http://api.52tb.xyz/info?id=15&token=20230314vyrzsx
 CCTV-13新闻,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
 CCTV-13新闻,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
 CCTV-13新闻,https://pi.0472.org/tv/mzt.php?auth=230918
+CCTV-13新闻,https://epg.pw/stream/fc939113e81b8c3c09a430f2d5aecf985c98d73658e4314d70292b2f53d2e153.m3u8
 CCTV-1综合,http://live.goodiptv.club/api/bestv.php?id=cctv1hd8m/8000000
 CCTV-1综合,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 CCTV-1综合,http://60.174.137.146:9901/tsfile/live/0001_1.m3u8?key=txiptv&url=tvzb.com
