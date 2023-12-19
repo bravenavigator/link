@@ -226,7 +226,8 @@ CCTV-4欧洲台,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4ouhd
 广西卫视,http://live.goodiptv.club/api/bestv.php?id=gxwshd8m/8000000
 广西卫视,http://111.59.63.32:9901/tsfile/live/1003_1.m3u8
 广西卫视,http://api.52tb.xyz/info?id=45&token=20230314vyrzsx
-四川卫视,http://27.16.178.143:4567/rtp/239.69.1.169:10650四川卫视,http://111.59.63.32:9901/tsfile/live/1029_1.m3u8
+四川卫视,http://27.16.178.143:4567/rtp/239.69.1.169:10650
+四川卫视,http://111.59.63.32:9901/tsfile/live/1029_1.m3u8
 四川卫视,http://live.goodiptv.club/api/bestv.php?id=scwshd/8000000
 四川卫视,https://live.goodiptv.club/api/sxg.php?id=scwsH265_4000
 四川卫视,http://221.213.43.82:8888/newlive/live/hls/32/live.m3u8
