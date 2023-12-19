@@ -379,8 +379,13 @@ TVB星河,http://113.117.74.12:8081/hls/135/index.m3u8
 台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 台视新闻,http://194.87.101.118:9501/live.m3u8?c=4
 中天新闻,http://194.87.101.118:9501/live.m3u8?c=7
+中天新闻,http://198.16.100.90:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
 中天亚洲,http://194.87.101.118:9501/live.m3u8?c=3
+中天娱乐,http://198.16.100.90:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
+中天娱乐,http://198.16.100.90:8278/ctient/playlist.m3u8?tid=m6780c60bd34a13540795&ct=17874&tsum=06089e289a460b0685447b7656d550e3
 中视新闻,http://194.87.101.118:9501/live.m3u8?c=6
+中视经典,http://198.16.100.90:8278/zhongshi_twn/playlist.m3u8?tid=14379667&ct=17988&tsum=de63d02f44741580b5070077d1949841
+中视经典,http://198.16.100.90:8278/zhongshi_twn/playlist.m3u8?tid=mffe9aaf8765f&ct=18335&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
 公视新闻,http://194.87.101.118:9501/live.m3u8?c=8
 东森新闻,http://194.87.101.118:9501/live.m3u8?c=9
 镜新闻,http://194.87.101.118:9501/live.m3u8?c=10
@@ -397,6 +402,8 @@ TVBS欢乐,http://gwtv.cnv8.tv:8097/tvbshuanle_twn/playlist.m3u8?ct=19193&tid=MC
 TVBS欢乐,http://gwtv.cnv8.tv:8097/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111409641114096&ct=19225&tsum=600f3056bba6413dec3155efd19e2d20
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+
+
 
 北京,#genre#
 BTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
