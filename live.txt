@@ -21,6 +21,7 @@ CCTV-2财经,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
 CCTV-2财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
 CCTV-2财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
 CCTV-2财经,http://221.213.43.82:8888/newlive/live/hls/3/live.m3u8
+CCTV-2财经,https://epg.pw/stream/8b52681198fd60a8999347db221d3e2fb0d8e7f05890267b3c1ec8d67bf31fb1.m3u8
 CCTV-3综艺,http://live.goodiptv.club/api/bestv.php?id=cctv38m/8000000
 CCTV-3综艺,http://60.174.137.146:9901/tsfile/live/0003_1.m3u8?key=txiptv&url=tvzb.com
 CCTV-3综艺,http://221.213.43.82:8888/newlive/live/hls/4/live.m3u8
