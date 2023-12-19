@@ -384,7 +384,8 @@ BTV卡酷少儿,http://api.52tb.xyz/info?id=360&token=20230314vyrzsx
 第一财经,http://api.52tb.xyz/info?id=377&token=20230314vyrzsx
 第一财经,https://live.goodiptv.club/api/bestv.php?id=dycjhd8m/8000000
 第一财经,http://222.71.90.218:8888/newlive/live/hls/57/live.m3u8
-上海都市,https://live.goodiptv.club/api/bestv.php?id=dshd8m/8000000
+东方财经,https://epg.pw/stream/e256d4776e7ff92f40159e8e6aa7ee30e529b7c65fa8ab743c32f722d85e6c9a.ctv
+东方财经,https://epg.pw/stream/286590166a173429bc5decbc83dfa5a025c166c188646a4ad332eb605a334505.ctv上海都市,https://live.goodiptv.club/api/bestv.php?id=dshd8m/8000000
 上海都市,http://222.71.90.218:8888/newlive/live/hls/51/live.m3u8
 东方影视,http://alltzy.cn/dl/bestv.php?id=dfyshd8m/8000000
 东方影视,http://[2409:8087:1e03:21::34]:6610/cms001/ch00000090990000001016/index.m3u8?IASHttpSessionId=RR8275420230310002030000839
