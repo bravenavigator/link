@@ -326,7 +326,7 @@ TVB翡翠,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 TVB翡翠,http://r.jdshipin.com/jUx8K
 TVB新闻,https://epg.pw/stream/61f17fbba48271a6195cb5969b4207d5b152993ad4f225b88ec13c630863bb84.ctv
 TVB新闻,https://epg.pw/stream/910ef14a8e43064a71b46c9cd8c9dbc07a743742a2e048372936aacfa2c0db53.ctv
-TVB新闻@@1,https://epg.pw/stream/9eba5b8c19187b49a71080ebc17c848c15a04a9b099e571d376374d8ab99f3cf.ctv
+TVB新闻,https://epg.pw/stream/9eba5b8c19187b49a71080ebc17c848c15a04a9b099e571d376374d8ab99f3cf.ctv
 TVB新闻,https://epg.pw/stream/d07688640684498fb773e7cd13b2f90abcd1cdc4683c44533cef67dac722c2fc.m3u8
 TVB新闻,https://epg.pw/stream/ba4c5958a71b186772a834e2e0874a3d3389f9dc41d3d563c50dc07273c38b8e.ctv
 TVB新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
