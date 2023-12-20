@@ -447,7 +447,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 BTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
 BTV新闻,http://qnap.yjnhome.com:4000/udp/239.3.1.159:8000
 BTV新闻,http://api.52tb.xyz/info?id=359&token=20230314vyrzsx
-北京新闻,https://epg.pw/stream/3e01e04a6bd9beb64ce9550b799c1f1e2806d096cf391f4c31510a1b1da7e5a1.m3u8
+BTV新闻,https://epg.pw/stream/3e01e04a6bd9beb64ce9550b799c1f1e2806d096cf391f4c31510a1b1da7e5a1.m3u8
 BTV财经,http://api.52tb.xyz/info?id=354&token=20230314vyrzsx
 BTV文艺,http://81.69.20.196/mqlive.m3u8?ip=61.48.132.122:8000&id=live1045
 BTV文艺,http://api.52tb.xyz/info?id=351&token=20230314vyrzsx
@@ -479,8 +479,8 @@ BTV卡酷少儿,http://api.52tb.xyz/info?id=360&token=20230314vyrzsx
 纪实人文,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001330/index.m3u8?virtualDomain=yinhe.live_hls.zte.com五星体育,http://222.71.90.218:8888/newlive/live/hls/56/live.m3u8
 生活时尚,http://r.wylc.top:8888/rtp/239.93.42.29:5140
 乐游频道,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226580/1.m3u8
-乐游频道 8m,https://epg.pw/stream/f951ab49e5198e21e04d633712b6b88d15cd4cbdbfddd0c49d0f1c5ea9b69b31.ctv
-乐游频道 8m,https://epg.pw/stream/7bcba3498338a4a59bf641e4320d02ee602d8f2e9e0035f20ae6ea854016dd4d.ctv
+乐游频道,https://epg.pw/stream/f951ab49e5198e21e04d633712b6b88d15cd4cbdbfddd0c49d0f1c5ea9b69b31.ctv
+乐游频道,https://epg.pw/stream/7bcba3498338a4a59bf641e4320d02ee602d8f2e9e0035f20ae6ea854016dd4d.ctv
 五星体育,http://222.71.90.218:8888/newlive/live/hls/56/live.m3u8
 五星体育,https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
 五星体育,https://epg.pw/stream/22245524bde60cc6f805db18f5af17413485ab766670f6cf07e0b23d29358163.ctv
@@ -609,7 +609,7 @@ BTV卡酷少儿,http://api.52tb.xyz/info?id=360&token=20230314vyrzsx
 浙江新闻,https://epg.pw/stream/adee679575a33d5748d7f1cae46d15ff6bcef8295d1d046f930f9a097c179ede.m3u8
 浙江新闻,https://epg.pw/stream/4ceb84f4acc11672223b19d084a2b3b90b9ee947520e440f8904d312561b8ae8.m3u8
 浙江新闻,https://epg.pw/stream/1a31855eff85fad27ac8161a4d5aa8fda76224820380ad53fde6589268d089f5.m3u8
-浙江新闻1,https://epg.pw/stream/6b5a43056c163f8799a2ab50e9e8d138f7df9455c00bcd9184b1de62c1e0c3b8.m3u8
+浙江新闻,https://epg.pw/stream/6b5a43056c163f8799a2ab50e9e8d138f7df9455c00bcd9184b1de62c1e0c3b8.m3u8
 浙江经济生活,http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?zzhed
 浙江经济生活,http://hw-m-l.cztv.com/channels/lantian/channel03/720p.m3u8?zzhed
 浙江经济生活,http://hw-m-l.cztv.com/channels/lantian/channel03/360p.m3u8?zzhed
