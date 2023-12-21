@@ -409,6 +409,8 @@ BRTV国际频道,http://123.117.52.226:8000/rtp/239.3.1.235:8000
 密云综合,http://123.117.52.226:8000/rtp/239.3.1.154:8001
 房山综合,http://123.117.52.226:8000/rtp/239.3.1.96:8001
 房山综合,http://live.funhillrm.com/2/sd/live.m3u8
+房山综合,https://epg.pw/stream/3e01e04a6bd9beb64ce9550b799c1f1e2806d096cf391f4c31510a1b1da7e5a1.m3u8
+房山综合,https://epg.pw/stream/80307082824983f38685364e741bd9738d2632ac1c9c0b22e7a5817d4fb4d0c4.m3u8
 
 上海,#genre#
 新闻综合,http://alltzy.cn/dl/bestv.php?id=xwzhhd8m/8000000
