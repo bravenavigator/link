@@ -1191,6 +1191,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 眉山洪雅综合,http://api.52tb.xyz/info?id=607&token=20230314vyrzsx
 眉山洪雅综合,http://117.172.215.250:8083/videos/live/35/39/GQVbrgob5CGJM/GQVbrgob5CGJM.M3U8
 眉山青神综合,http://lmt.scqstv.com/live1/live1.m3u8?zsicd
+眉山青神综合,https://epg.pw/stream/5cb777ff37d8dd005b5912ce19a3c229a89692c66f661e67996f46b1cea13138.m3u8
 眉山丹棱综合,https://live.goodiptv.club/api/sxg.php?id=dlxwzhH265_4000
 眉山彭山综合,https://live.goodiptv.club/api/sxg.php?id=pszh_2000
 泸州综合,http://lztv.gy315.com:18080/live/lztv.m3u8
