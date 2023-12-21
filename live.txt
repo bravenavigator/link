@@ -108,7 +108,8 @@ CCTV-16奥林匹克,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888
 CCTV-16奥林匹克,,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
 CCTV-16奥林匹克,,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
 CCTV-16奥林匹克,#http://123.117.52.226:8000/rtp/239.3.1.183:8001
-CCTV-16奥林匹克,#http://123.117.52.226:8000/rtp/239.3.1.184:8001CCTV-17农村农业,http://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
+CCTV-16奥林匹克,#http://123.117.52.226:8000/rtp/239.3.1.184:8001
+CCTV-17农村农业,http://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
 CCTV-17农村农业,http://222.134.240.136:9901/tsfile/live/1030_1.m3u8?url=tvzb.com
 CCTV-17农村农业,https://epg.pw/stream/b3997477d0742021b4c904855f6e8be024b3980340d5f382ec498027c50cde81.ctv
 CCTV-17农村农业,https://epg.pw/stream/0488a6d11015c87b6b84913a63f5801bfc44998fa827b52fbf8ba0a988c96daa.ctv
