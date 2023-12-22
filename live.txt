@@ -935,7 +935,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 蚌埠怀远文化旅游,rtmp://m.yunxi.tv/yunxi-host/test_e8eed0b9088a44788eb393dd6d10e1fe?auth_key=1781502600-0-0-7b29b500b5449ae446cf9f5210c2114d
 阜阳太和新闻综合,https://play-hsbj-static-bgp.vzan.com/1110366022/109031811546416830/live.m3u8?zbid=1110366022&tpid=686842078&type=0
 宣城广德生活,http://tlive.gdtv.ah.cn/live/shenghuoTV.m3u8
-宣城绩溪,http://xzbf.fst1994.cn/jxtv/jxzh.m3u8
+宣城绩溪新闻综合,http://xzbf.fst1994.cn/jxtv/jxzh.m3u8
 宣城泾县新闻综合,https://live.fst1994.net/hls/xwzonhe/index.m3u8
 宣城泾县文化旅游,https://live.fst1994.net/hls/wenlv/index.m3u8
 马鞍山含山新闻综合,https://live.fst1994.net/hls/hanshanzh/index.m3u8
@@ -1464,8 +1464,8 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 湖南电影,http://api.52tb.xyz/info?id=564&token=20230314vyrzsx
 湖南电视剧,http://api.52tb.xyz/info?id=565&token=20230314vyrzsx
 金鹰纪实,http://api.52tb.xyz/info?id=569&token=20230314vyrzsx
-金鹰纪实 8m,https://epg.pw/stream/f129dd062627e43e9a6ed6e033b8659688d6faf22c5b33cbf278ef29dbf876c6.ctv
-金鹰纪实 8m,https://epg.pw/stream/b79eee2687489d035ea0c75e6d0157972b69150e3cdb5797fd44ca0f2894690a.ctv
+金鹰纪实,https://epg.pw/stream/f129dd062627e43e9a6ed6e033b8659688d6faf22c5b33cbf278ef29dbf876c6.ctv
+金鹰纪实,https://epg.pw/stream/b79eee2687489d035ea0c75e6d0157972b69150e3cdb5797fd44ca0f2894690a.ctv
 金鹰纪实,http://123.117.52.226:8000/rtp/239.3.1.58:8156
 金鹰卡通,http://api.52tb.xyz/info?id=568&token=20230314vyrzsx
 湖南爱晚,http://api.52tb.xyz/info?id=561&token=20230314vyrzsx
