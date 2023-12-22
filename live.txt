@@ -1901,6 +1901,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 云南娱乐,http://tvlive.ynradio.com/live/yunnanyule/chunks.m3u8
 云南娱乐,http://tvlive.ynradio.com/live/yunnanyule/playlist.m3u8
 云南影视,http://221.213.43.82:8888/newlive/live/hls/55/live.m3u8
+云南影视,http://106.57.0.111:55555/rtp/239.200.200.15:8856
 云南少儿,http://221.213.43.82:8888/newlive/live/hls/56/live.m3u8
 云南少儿,http://tvlive.ynradio.com/live/yunnanshaoer/chunks.m3u8
 云南少儿,http://tvlive.ynradio.com/live/yunnanshaoer/playlist.m3u8
@@ -1911,6 +1912,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 云南康旅,https://epg.pw/stream/6b179f8058c63a37624e915473dd2db178df841b3e4ca66d92292f4a45664313.m3u8
 云南康旅,https://epg.pw/stream/28b355e37f84b49d76c3fef1046a9d397093afe662138ed9d390d101c4161437.m3u8
 云南康旅,https://epg.pw/stream/cbedce3b9ef21c7e743bd1857593d23a4f8ddb7181daf40f472d9cd650609237.m3u8
+云南康旅,http://106.57.0.111:55555/rtp/239.200.200.31:8860
 西双版纳新闻综合,http://api.52tb.xyz/info?id=688&token=20230314vyrzsx
 西双版纳文化旅游,http://api.52tb.xyz/info?id=689&token=20230314vyrzsx
 丽江新闻综合,http://play.live.lijiangtv.com/live/tvzh.m3u8
