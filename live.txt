@@ -901,8 +901,6 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 安徽公共,https://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829349154529.m3u8
 安徽公共,https://epg.pw/stream/3e096a4f4026aded7c3adeb1992d1804bda5fd78f080085f0ee77e55ffc370f5.m3u8
 安徽公共,http://223.240.229.142:8888/rtp/238.1.79.43:4456
-安徽国际,https://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829422933950.m3u8
-安徽国际,https://epg.pw/stream/4c768e6130f5aabac4acb0c6004fac7cf6a0d032ffba42bd62e66e1cb6804249.m3u8
 安徽影视,https://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829369249612.m3u8
 安徽影视,http://223.240.229.142:8888/rtp/238.1.79.42:4448
 安徽综艺体育,https://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829415240627.m3u8
@@ -910,6 +908,8 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 安徽农业科教,http://223.240.229.142:8888/rtp/238.1.79.40:4432
 安徽综艺体育,http://223.240.229.142:8888/rtp/238.1.79.41:4440
 安徽人物,http://223.240.229.142:8888/rtp/238.1.79.45:4472
+安徽国际,https://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829422933950.m3u8
+安徽国际,https://epg.pw/stream/4c768e6130f5aabac4acb0c6004fac7cf6a0d032ffba42bd62e66e1cb6804249.m3u8
 安徽国际,http://223.240.229.142:8888/rtp/238.1.78.61:6360
 池州新闻综合,http://cm.wshls.homecdn.com/live/829f.m3u8
 池州新闻综合,http://cm.wshls.homecdn.com/live/4abdd.m3u8
