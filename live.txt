@@ -158,6 +158,7 @@ CCTV-4中文国际美洲,http://106.113.134.21:2222/rtp/239.254.201.206:4220
 法治天地,https://epg.pw/stream/4d1df37a9e12ca2a8d25e22eb5beb2ec6b96b593f48ec4ecd4c64e24013ba655.ctv
 
 卫视,#genre#
+北京卫视,http://221.219.120.86:8180/rtp/239.3.1.241:8000
 北京卫视,http://live.goodiptv.club/api/bestv.php?id=bjwshd8m/8000000
 北京卫视,http://118.122.126.202:8877/rtp/239.93.0.180:5140
 北京卫视,https://live.goodiptv.club/api/sxg.php?id=bjwsH265_4000
@@ -479,16 +480,25 @@ BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
 BRTV新闻,https://epg.pw/stream/3e01e04a6bd9beb64ce9550b799c1f1e2806d096cf391f4c31510a1b1da7e5a1.m3u8
 BRTV新闻,https://epg.pw/stream/80307082824983f38685364e741bd9738d2632ac1c9c0b22e7a5817d4fb4d0c4.m3u8
 BRTV新闻,https://epg.pw/stream/80307082824983f38685364e741bd9738d2632ac1c9c0b22e7a5817d4fb4d0c4.m3u8
+BRTV新闻,http://221.219.120.86:8180/rtp/239.3.1.159:8000
+BRTV财经,http://221.219.120.86:8180/rtp/239.3.1.116:8000
 BRTV财经,http://123.117.52.226:8000/rtp/239.3.1.116:8000
+BRTV文艺,http://221.219.120.86:8180/rtp/239.3.1.242:8000
 BRTV文艺,http://81.69.20.196/mqlive.m3u8?ip=61.48.132.122:8000&id=live1045
 BRTV文艺,http://123.117.52.226:8000/rtp/239.3.1.242:8000
+BRTV生活,http://221.219.120.86:8180/rtp/239.3.1.117:8000
 BRTV生活,http://123.117.52.226:8000/rtp/239.3.1.117:8000
+BRTV影视,http://221.219.120.86:8180/rtp/239.3.1.158:8000
 BRTV影视,http://123.117.52.226:8000/rtp/239.3.1.158:8000
+BRTV纪实科教,http://221.219.120.86:8180/rtp/239.3.1.115:8000
 BRTV纪实科教,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 BRTV纪实科教,https://epg.pw/stream/544cc09b12f4a7e88dcf6d03ac6f42925ce17749273bdc3f324897c1593df622.m3u8
 BRTV纪实科教,http://123.117.52.226:8000/rtp/239.3.1.115:8000
 BRTV体育休闲,http://123.117.52.226:8000/rtp/239.3.1.243:8000
+BRTV体育休闲,http://221.219.120.86:8180/rtp/239.3.1.243:8000
+BRTV卡酷少儿,http://221.219.120.86:8180/rtp/239.3.1.189:8000
 BRTV卡酷少儿,http://123.117.52.226:8000/rtp/239.3.1.189:8000
+BRTV国际频道,http://221.219.120.86:8180/rtp/239.3.1.235:8000
 BRTV国际频道,http://123.117.52.226:8000/rtp/239.3.1.235:8000
 4K超清,http://123.117.52.226:8000/rtp/239.3.1.249:8001
 淘电影,http://123.117.52.226:8000/rtp/239.3.1.250:8001
