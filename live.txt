@@ -439,6 +439,12 @@ CCTV-4中文国际美洲,http://106.113.134.21:2222/rtp/239.254.201.206:4220
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935?zguangd
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1612881417-0-0-bc7ddba066481bc805fc1e800654e721?zguangd
+佛山综合,http://14.221.178.20:8888/rtp/239.253.43.57:5146
+佛山公共,http://14.221.178.20:8888/rtp/239.253.43.53:5146
+佛山影视,http://14.221.178.20:8888/rtp/239.253.43.51:5146
+佛山影视,http://14.221.178.20:8888/rtp/239.253.43.56:5146
+佛山顺德,http://14.221.178.20:8888/rtp/239.253.43.55:5146
+佛山南海,http://14.221.178.20:8888/rtp/239.253.43.54:5146
 阳江综合,https://live.yjtvw.com:8081/live/smil:yjtv1.smil/chunklist_b1152000.m3u8
 阳江综合,https://live.yjtvw.com:8081/live/smil:yjtv1.smil/chunklist_b3628000.m3u8
 阳江综合,https://live.yjtvw.com:8081/live/smil:yjtv1.smil/chunklist_w1166501356_b928000.m3u8
