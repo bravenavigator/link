@@ -194,6 +194,7 @@ CCTV-4中文国际美洲,http://106.113.134.21:2222/rtp/239.254.201.206:4220
 天津卫视,http://123.117.52.226:8000/rtp/239.3.1.141:1234
 天津卫视,http://106.113.134.21:2222/rtp/239.254.200.54:1234
 天津卫视,http://123.144.224.47:4000/rtp/225.0.4.82:7980
+天津卫视,http://218.67.172.50:8888/rtp/225.1.1.111:5002
 重庆卫视,http://live.goodiptv.club/api/bestv.php?id=cqws8m/8000000
 重庆卫视,https://sjlivecdn9.cbg.cn/202906282314/app_2/_definst_/ls_2.stream/chunklist.m3u8
 重庆卫视,https://live.goodiptv.club/api/sxg.php?id=cqwsH265_4000
@@ -533,9 +534,11 @@ BRTV国际频道,http://123.117.52.226:8000/rtp/239.3.1.235:8000
 纪实人文,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001330/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 纪实人文,http://123.117.52.226:8000/rtp/239.3.1.212:8060
 生活时尚,http://r.wylc.top:8888/rtp/239.93.42.29:5140
+金色学堂,http://218.67.172.50:8888/rtp/225.1.1.236:5002
 乐游频道,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226580/1.m3u8
 乐游频道,https://epg.pw/stream/f951ab49e5198e21e04d633712b6b88d15cd4cbdbfddd0c49d0f1c5ea9b69b31.ctv
 乐游频道,https://epg.pw/stream/7bcba3498338a4a59bf641e4320d02ee602d8f2e9e0035f20ae6ea854016dd4d.ctv
+乐游频道,http://218.67.172.50:8888/rtp/225.1.1.145:5002
 五星体育,http://222.71.90.218:8888/newlive/live/hls/56/live.m3u8
 五星体育,http://222.71.90.218:8888/newlive/live/hls/56/live.m3u8
 五星体育,https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
@@ -548,7 +551,14 @@ BRTV国际频道,http://123.117.52.226:8000/rtp/239.3.1.235:8000
 嘉定电视台,https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8?zshangd
 
 天津,#genre#
-天津新闻,http://lovers.asuscomm.com:5000/udp/225.1.1.130:5002
+天津新闻,http://218.67.172.50:8888/rtp/225.1.1.130:5002
+天津文艺,http://218.67.172.50:8888/rtp/225.1.1.131:5002
+天津影视,http://218.67.172.50:8888/rtp/225.1.1.149:5002
+天津都市,http://218.67.172.50:8888/rtp/225.1.1.128:5002
+天津体育,http://218.67.172.50:8888/rtp/225.1.1.122:5002
+天津科教,http://218.67.172.50:8888/rtp/225.1.1.129:5002
+天津少儿,http://218.67.172.50:8888/rtp/225.1.1.125:5002
+天津IPTV,http://218.67.172.50:8888/rtp/225.1.2.123:5002
 滨海新闻,http://traffic.jbh.tjbh.com/live/bhtv1/playlist.m3u8
 滨海新闻,http://traffic.jbh.tjbh.com/live/bhtv1/playlist.m3u8?ztianjd
 滨海综艺,http://traffic.jbh.tjbh.com/live/bhtv2/playlist.m3u8
@@ -557,6 +567,9 @@ BRTV国际频道,http://123.117.52.226:8000/rtp/239.3.1.235:8000
 滨海影视,http://traffic.jbh.tjbh.com/live/bhtv3/playlist.m3u8?ztianjd
 滨海影视,https://epg.pw/stream/e7ee03330798ab5fa1ca1972a0a5e2b732a37e0ef683b4977926d19f82a60ed9.m3u8
 滨海影视,https://epg.pw/stream/07686fe556dab33bdd73b741e34c276c481627226c75fc433b9563d3ddba6280.m3u8
+河西卫视,http://218.67.172.50:8888/rtp/225.1.2.4:5002
+蓟州卫视,http://218.67.172.50:8888/rtp/225.1.1.82:5002
+静海卫视,http://218.67.172.50:8888/rtp/225.1.1.110:5002
 
 重庆,#genre#
 重庆新闻,http://123.144.224.47:4000/rtp/225.0.4.188:7980
@@ -1587,9 +1600,11 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 河南民生,http://123.6.9.146/live/jz-henanminsheng/live.m3u8?zhend
 河南民生,https://epg.pw/stream/4c9a38b13532f11c86699496c8014e2200a47d2a198e54e29f0891a1d3236b05.m3u8
 梨园频道,http://106.113.134.21:2222/rtp/239.254.201.231:7228
+梨园频道,http://218.67.172.50:8888/rtp/225.1.2.104:5002
 梨园频道,https://epg.pw/stream/7c43577c864ee142dd48684afeab4892eee19e249d3dfbef02367133a129d32e.m3u8
 梨园频道,http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8
 武术世界,http://106.113.134.21:2222/rtp/239.254.201.224:7229
+武术世界,http://218.67.172.50:8888/rtp/225.1.2.129:5002
 郑州新闻综合,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41112/index.m3u8
 郑州登封综合,http://tvpull.dxhmt.cn:9081/tv/10185-1.m3u8
 焦作综合,http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8
