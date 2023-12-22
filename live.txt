@@ -436,9 +436,6 @@ CCTV-4中文国际美洲,http://106.113.134.21:2222/rtp/239.254.201.206:4220
 深圳电视剧,http://14.221.178.20:8888/rtp/239.77.1.177:5146
 深圳电视剧,http://14.221.178.20:8888/rtp/239.77.1.125:5146
 深圳少儿,http://14.221.178.20:8888/rtp/239.77.1.244:5146
-广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8
-广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935?zguangd
-广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1612881417-0-0-bc7ddba066481bc805fc1e800654e721?zguangd
 佛山综合,http://14.221.178.20:8888/rtp/239.253.43.57:5146
 佛山公共,http://14.221.178.20:8888/rtp/239.253.43.53:5146
 佛山影视,http://14.221.178.20:8888/rtp/239.253.43.51:5146
@@ -456,6 +453,9 @@ CCTV-4中文国际美洲,http://106.113.134.21:2222/rtp/239.254.201.206:4220
 河源公共,http://tmpstream.hyrtv.cn/hygg/playlist.m3u8?_upt=c9befc281606112199?zguangd
 河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8?zguangd
 河源综艺,http://tmpstream.hyrtv.cn/xwzh/playlist.m3u8?_upt=407e01941606112151?zguangd
+广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8
+广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935?zguangd
+广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1612881417-0-0-bc7ddba066481bc805fc1e800654e721?zguangd
 
 港澳,#genre#
 TVB翡翠,http://tvpo1.rbq.plus/jade/jade.stream/chunklist.m3u8
