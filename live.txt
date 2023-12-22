@@ -257,6 +257,7 @@ CCTV-4中文国际美洲,http://106.113.134.21:2222/rtp/239.254.201.206:4220
 安徽卫视,http://123.117.52.226:8000/rtp/239.3.1.211:8064
 安徽卫视,http://106.113.134.21:2222/rtp/239.254.200.163:6000
 安徽卫视,http://123.144.224.47:4000/rtp/225.0.4.133:7980
+安徽卫视,http://223.240.229.142:8888/rtp/238.1.79.27:4328
 海南卫视,http://live.goodiptv.club/api/bestv.php?id=hainanwshd8m/8000000
 海南卫视,http://api.52tb.xyz/info?id=38&token=20230314vyrzsx
 海南卫视,https://live.metshop.top/msp.php?id=hinws
@@ -896,13 +897,20 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 
 安徽,#genre#
 安徽经济生活,https://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829325295495.m3u8
+安徽经济生活,http://223.240.229.142:8888/rtp/238.1.79.44:4464
 安徽公共,https://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829349154529.m3u8
 安徽公共,https://epg.pw/stream/3e096a4f4026aded7c3adeb1992d1804bda5fd78f080085f0ee77e55ffc370f5.m3u8
+安徽公共,http://223.240.229.142:8888/rtp/238.1.79.43:4456
 安徽国际,https://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829422933950.m3u8
 安徽国际,https://epg.pw/stream/4c768e6130f5aabac4acb0c6004fac7cf6a0d032ffba42bd62e66e1cb6804249.m3u8
 安徽影视,https://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829369249612.m3u8
+安徽影视,http://223.240.229.142:8888/rtp/238.1.79.42:4448
 安徽综艺体育,https://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829415240627.m3u8
 安徽农业科教,https://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829358013848.m3u8
+安徽农业科教,http://223.240.229.142:8888/rtp/238.1.79.40:4432
+安徽综艺体育,http://223.240.229.142:8888/rtp/238.1.79.41:4440
+安徽人物,http://223.240.229.142:8888/rtp/238.1.79.45:4472
+安徽国际,http://223.240.229.142:8888/rtp/238.1.78.61:6360
 池州新闻综合,http://cm.wshls.homecdn.com/live/829f.m3u8
 池州新闻综合,http://cm.wshls.homecdn.com/live/4abdd.m3u8
 淮南新闻综合,http://stream.0554news.com/hnds1/sd/live.m3u8
