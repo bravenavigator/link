@@ -463,7 +463,13 @@ CCTV-4中文国际美洲,http://106.113.134.21:2222/rtp/239.254.201.206:4220
 肇庆综合,http://14.221.178.20:8888/rtp/239.253.43.1:5146
 肇庆生活服务,http://14.221.178.20:8888/rtp/239.253.43.2:5146
 河源综合,http://14.221.178.20:8888/rtp/239.253.43.213:5146
+河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
+河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8?zguangd
+河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 河源公共,http://14.221.178.20:8888/rtp/239.253.43.214:5146
+河源公共,http://tmpstream.hyrtv.cn/hygg/playlist.m3u8?_upt=c9befc281606112199?zguangd
+河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8?zguangd
+河源综艺,http://tmpstream.hyrtv.cn/xwzh/playlist.m3u8?_upt=407e01941606112151?zguangd
 清远新闻综合,http://14.221.178.20:8888/rtp/239.253.43.33:5146
 清远公共,http://14.221.178.20:8888/rtp/239.253.43.34:5146
 云浮综合,http://14.221.178.20:8888/rtp/239.77.0.253:5146
@@ -480,12 +486,6 @@ CCTV-4中文国际美洲,http://106.113.134.21:2222/rtp/239.254.201.206:4220
 汕尾文化,http://14.221.178.20:8888/rtp/239.77.0.187:5146
 揭阳综合,http://14.221.178.20:8888/rtp/239.77.0.229:5146
 揭阳公共,http://14.221.178.20:8888/rtp/239.77.0.251:5146
-河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
-河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8?zguangd
-河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
-河源公共,http://tmpstream.hyrtv.cn/hygg/playlist.m3u8?_upt=c9befc281606112199?zguangd
-河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8?zguangd
-河源综艺,http://tmpstream.hyrtv.cn/xwzh/playlist.m3u8?_upt=407e01941606112151?zguangd
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935?zguangd
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1612881417-0-0-bc7ddba066481bc805fc1e800654e721?zguangd
