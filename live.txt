@@ -1316,23 +1316,16 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 四川科教 ,https://live.goodiptv.club/api/sxg.php?id=SCTV-ggSCTV-8_4000
 四川峨嵋电影 ,https://live.goodiptv.club/api/sxg.php?id=emdygqH265_4000
 成都新闻综合 ,https://live.goodiptv.club/api/sxg.php?id=CDTV-1_4000
-成都经济资讯 ,https://live.goodiptv.club/api/sxg.php?id=CDTV-2_4000
-成都都市生活 ,https://live.goodiptv.club/api/sxg.php?id=CDTV-3_4000
-成都影视文艺 ,https://live.goodiptv.club/api/sxg.php?id=CDTV-4_4000
 成都公共频道 ,https://live.goodiptv.club/api/sxg.php?id=CDTV-5_4000
 成都高新区 ,https://live.goodiptv.club/api/sxg.php?id=cdgxdstgq_2000
 成都双流综合,http://171.221.250.130:18888/27e684978eb642eeb90ab815f6cc51bf/c41893de5e8645b3b43aef1640859b0d.m3u8?zsicd
 成都崇州综合,https://live.goodiptv.club/api/sxg.php?id=czyt_4000
-成都都江堰综合,https://live.goodiptv.club/api/sxg.php?id=djyzh_4000
-成都金牛综合,https://live.goodiptv.club/api/sxg.php?id=jnyx_2000
 成都金堂综合,https://live.goodiptv.club/api/sxg.php?id=jtzhpd_2000
 成都利州综合,https://live.goodiptv.club/api/sxg.php?id=lzxwzh_2000
-成都龙泉综合,https://live.goodiptv.club/api/sxg.php?id=lqxw_2000
 成都彭州综合,https://live.goodiptv.club/api/sxg.php?id=pzxwzh_2000
 成都郫县新闻综合,https://live.goodiptv.club/api/sxg.php?id=pxds1_2000
 成都蒲江综合,https://live.goodiptv.club/api/sxg.php?id=pjxw_4000
 成都青白江综合,https://live.goodiptv.club/api/sxg.php?id=qbjxwzh_2000
-成都双流综合,https://live.goodiptv.club/api/sxg.php?id=slgq_2000
 成都新都综合,https://live.goodiptv.club/api/sxg.php?id=xdzhpd_2000
 成都新津综合,https://live.goodiptv.club/api/sxg.php?id=xjzh_4000
 绵阳新闻综合,https://live.goodiptv.club/api/sxg.php?id=myytH265_4000
