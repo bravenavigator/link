@@ -323,7 +323,6 @@ CCTV-4中文国际美洲,http://106.113.134.21:2222/rtp/239.254.201.206:4220
 河北卫视,https://epg.pw/stream/fc470615a35259b40a9233e159876be326cd54a357e5b37c3aca630d113f1441.ctv
 陕西卫视,http://221.213.43.82:8888/newlive/live/hls/41/live.m3u8
 陕西卫视,http://117.32.84.92:8020/rtp/239.111.205.35:5140
-陕西卫视,https://epg.pw/stream/2c637733b2dd78e2ad0db54f7de2b22d585fb4bdd64f08c474a1c7710cb611ad.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8$官方1
 延边卫视,https://epg.pw/stream/86ea500d7d432401bf10b1953f361607aa7a0be7c9b0d40955d99aeebfda7edb.m3u8
 延边卫视,https://epg.pw/stream/e62732d5ec879b9bd722931c588ebd651378265bdef75851ac7c5b776b6be991.m3u8
