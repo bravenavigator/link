@@ -333,6 +333,10 @@ CCTV-4中文国际美洲,http://106.113.134.21:2222/rtp/239.254.201.206:4220
 延边卫视,https://epg.pw/stream/2c315ffc8f8501d31b82a47f0e65c47661e4f9fb6e45a5d9026fe47fe0563dba.m3u8
 延边卫视,https://epg.pw/stream/f8b011a72bc4a208b05e644becd195a02fd6a7937bb4bacaf635def8eede2b71.m3u8
 延边卫视,https://epg.pw/stream/ae4d5ebb6f83c370816cf09f28f4008a06d10e3dd0181cbfacfebfd52fee3c7d.m3u8
+延边卫视,https://epg.pw/stream/2165d5b43521fde6c8fd35372ffcd84615b7c0bc28a4b48d35fa4a73cb7f9a20.m3u8
+山西卫视,https://epg.pw/stream/c70bdd34e4df8d4813d6c785a8967191453215bcde8b72ab4801aabe4ce5fd74.m3u8
+山西卫视,https://epg.pw/stream/f3585857f1474c6f9527ea29a7a99115a86855d9addb67619aa9a033299b48eb.m3u8
+山西卫视,https://epg.pw/stream/699134604324e09123a9500902fd81568e84079e94b533b26b61f37f460e85a0.ctv
 辽宁卫视,http://live.goodiptv.club/api/bestv.php?id=lnwshd8m/8000000
 辽宁卫视,http://118.122.126.202:8877/rtp/239.93.1.108:5140
 辽宁卫视,http://cfss.cc/api/ysp/lnws.m3u8
@@ -635,7 +639,6 @@ TVB星河,http://113.117.74.12:8081/hls/135/index.m3u8
 BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
 BRTV新闻,https://epg.pw/stream/3e01e04a6bd9beb64ce9550b799c1f1e2806d096cf391f4c31510a1b1da7e5a1.m3u8
 BRTV新闻,https://epg.pw/stream/80307082824983f38685364e741bd9738d2632ac1c9c0b22e7a5817d4fb4d0c4.m3u8
-BRTV新闻,https://epg.pw/stream/80307082824983f38685364e741bd9738d2632ac1c9c0b22e7a5817d4fb4d0c4.m3u8
 BRTV新闻,http://123.113.181.219:9000/rtp/239.3.1.159:8000
 BRTV新闻,http://123.117.52.226:8000/rtp/239.3.1.159:8000
 BRTV财经,http://123.113.181.219:9000/rtp/239.3.1.116:8000
@@ -888,7 +891,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 镇江新闻综合,https://epg.pw/stream/3b8fa0a822e57a8e0b880f0bd3a83b5960853e886eaf3f6c897d3df81d594fcd.m3u8
 镇江新闻综合,https://epg.pw/stream/b71cb8847f56152f3d58e9b91368d1e647088849e09ac441e4ceebab99c75847.m3u8
 鎮江新聞綜合,rtmp://tv.jjrm.org.cn/channellive/ch1?zsicd
-鎮江新聞綜合@@3,rtmp://tv.jjrm.org.cn/channellive/ch1
+鎮江新聞綜合,rtmp://tv.jjrm.org.cn/channellive/ch1
 镇江民生,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
 靖江新闻综合,http://visit.jjbctv.com:1935/live/xwzhpc/playlist.m3u8
 靖江新闻綜合,https://epg.pw/stream/1e6105d2650da2828108e5aa3a285d18fd2284c3529f17fa56b715329b6301df.m3u8
@@ -2030,6 +2033,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 山西文体生活,http://liveflash.sxrtv.com/live/sxpublic.m3u8?sub_m3u8=true&edge_slice=true
 山西文体生活,http://api.52tb.xyz/info?id=644&token=20230314vyrzsx
 山西文体生活,https://epg.pw/stream/cf835305701c451e7e532c9dd04f082d81e7b46eadd4685d508e665c709fa2fb.ctv
+山西公共,https://epg.pw/stream/cf835305701c451e7e532c9dd04f082d81e7b46eadd4685d508e665c709fa2fb.ctv
 山西法治,http://api.52tb.xyz/info?id=642&token=20230314vyrzsx
 山西影视,http://api.52tb.xyz/info?id=641&token=20230314vyrzsx
 山西影视,http://liveflash.sxrtv.com/live/sxfilm.m3u8?sub_m3u8=true&edge_slice=true
@@ -2134,6 +2138,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 吉林,#genre#
 吉林新闻,http://stream1.jlntv.cn/ggpd/sd/live.m3u8?zjild
 吉林新闻,http://stream1.jlntv.cn/ggpd/playlist.m3u8
+吉林公共,https://epg.pw/stream/6e9874c8189a8b9e6b7b66fc37cc2f755273cdacaf9c6c29386b74a4dd94a84a.m3u8
 延边-1,http://live.ybtvyun.com/video/s10016-af95004b6d1a/index.m3u8?zjild
 延边-2,http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8?zjild
 延边-2,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8?zjild
@@ -2186,6 +2191,9 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 安多卫视,http://stream.qhbtv.com/adws/playlist.m3u8?_upt=739abf201649062902
 安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
 安多卫视,https://epg.pw/stream/0dbf2527893daab2f9cad63020dde0c2cc00c138857fdd4add555a8a8e246187.m3u8
+安多卫视,https://epg.pw/stream/290a71e47606fa713caa0f79a0812e332e24e5ec6d51610020d3031c34fb2857.m3u8
+安多卫视,https://epg.pw/stream/d494dc8eeaa6da5afd98525004a5735e1d57fd191dba265d3aed5f9da97ff19d.m3u8
+安多卫视,https://epg.pw/stream/64f8d4678019673ff347d3636f9aaa9cb5dcde274672e6d75a25aca77d453a12.m3u8
 海北门源综合,http://livecdn.dmqhyadmin.com/hls/xjmenyuan.m3u8?zqinghd
 海东民和综合,http://livecdn.dmqhyadmin.com/hls/xjminhe.m3u8?zqinghd
 海东化隆综合,http://livecdn.dmqhyadmin.com/hls/xjhualong.m3u8
