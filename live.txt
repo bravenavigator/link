@@ -318,10 +318,12 @@ CCTV-4中文国际美洲,http://106.113.134.21:2222/rtp/239.254.201.206:4220
 河南卫视,http://219.156.52.203:4000/rtp/225.1.4.98:1127
 河北卫视,http://live.goodiptv.club/api/bestv.php?id=hbwshd8m/8000000
 河北卫视,http://123.117.52.226:8000/rtp/239.3.1.148:8072
-河北卫视,http://106.113.134.21:2222/rtp/239.254.200.174:6000
 河北卫视,http://123.144.224.47:4000/rtp/225.0.4.174:7980
+河北卫视,https://epg.pw/stream/838a5b54bddecfa8bbcf2df14b3eaa73c24e7a53d2082f16a11a1d0d3239cb55.ctv
+河北卫视,https://epg.pw/stream/fc470615a35259b40a9233e159876be326cd54a357e5b37c3aca630d113f1441.ctv
 陕西卫视,http://221.213.43.82:8888/newlive/live/hls/41/live.m3u8
 陕西卫视,http://117.32.84.92:8020/rtp/239.111.205.35:5140
+陕西卫视,https://epg.pw/stream/2c637733b2dd78e2ad0db54f7de2b22d585fb4bdd64f08c474a1c7710cb611ad.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8$官方1
 延边卫视,https://epg.pw/stream/86ea500d7d432401bf10b1953f361607aa7a0be7c9b0d40955d99aeebfda7edb.m3u8
 延边卫视,https://epg.pw/stream/e62732d5ec879b9bd722931c588ebd651378265bdef75851ac7c5b776b6be991.m3u8
@@ -360,7 +362,6 @@ CCTV-4中文国际美洲,http://106.113.134.21:2222/rtp/239.254.201.206:4220
 吉林卫视,https://epg.pw/stream/5bc4e9a29262355a6ae814b31d59c33a10633c0448cda46a15939760a0e56504.ctv
 吉林卫视,https://epg.pw/stream/46b5d3c09c0c56538d18fa02986716c1d27b1196c8861c512cfead0b227eeaa4.m3u8
 吉林卫视,https://epg.pw/stream/a4077a66d1d1a4ea5193450a68882b70646f6c7caadb60aa6776d7dba17eaca9.ctv
-吉林卫视,https://epg.pw/stream/618c19495f1e9e3844e336a67b2e3a72168da99a93580e06e5e352bdb128b3c7.m3u8
 吉林卫视,https://epg.pw/stream/5f1a5c423a759d2a2804cdcc60d82044f01971be640cf06359689f4199eff780.m3u8
 甘肃卫视,http://118.122.126.202:8877/rtp/239.93.0.81:5140
 甘肃卫视,http://live.goodiptv.club/api/bestv.php?id=gswshd8m/8000000
