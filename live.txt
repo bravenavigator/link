@@ -131,7 +131,6 @@ CCTV-17农村农业,https://epg.pw/stream/b3997477d0742021b4c904855f6e8be024b398
 CCTV-17农村农业,https://epg.pw/stream/0488a6d11015c87b6b84913a63f5801bfc44998fa827b52fbf8ba0a988c96daa.ctv
 CCTV-17农村农业,http://123.117.52.226:8000/rtp/239.3.1.151:8144
 CCTV-17农村农业,http://123.144.224.47:4000/rtp/225.0.4.179:7980
-CCTV-18旅游,https://epg.pw/stream/368001bacec80b3eba12150b0f5e7aed314e46956170e63cd2e7ec0892b705f2.ctv
 CCTV-兵器科技,http://106.113.134.21:2222/rtp/239.254.201.225:7249
 CCTV-兵器科技,http://117.32.84.92:8020/rtp/239.111.205.74:5140
 CCTV-兵器科技,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
