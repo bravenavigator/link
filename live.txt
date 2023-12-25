@@ -861,23 +861,17 @@ CQTV移动,http://123.144.224.47:4000/rtp/225.0.4.215:7980
 台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 台视新闻,http://194.87.101.118:9501/live.m3u8?c=4
 中天新闻,http://194.87.101.118:9501/live.m3u8?c=7
-中天亚洲台,https://epg.pw/stream/a7d45f5055bf31cedd0a139cbceaeea7dcb29f832e30c5dcd50a87f7d0e67b4a.ctv
-中天亚洲台,https://epg.pw/stream/b44c3bd2f33e78d308670927ebf11749a268bf175a8874584b39ca3ea43e86db.ctv
-中天亚洲台,https://epg.pw/stream/c989a51a65342a65887cba5dc0bfa64c5b316b6d8738198ae49f1f9fd18284ee.ctv
 中天亚洲台,https://epg.pw/stream/2e039c5c47f9be7719c34c5d0ced48f66df1928d8267f1c54b71a0affcfe7154.ctv
-中天亚洲台,https://epg.pw/stream/4703349cd7d4d74c41a6e024c22b21e073d5163310e23fe57e40299e2d9e1934.ctv
-中天亚洲台,https://epg.pw/stream/87f3fd00562b5f64a04e7488d39bb7ac454c4317222f0550c1ae9cba787e4357.ctv
+中天亚洲台,https://epg.pw/stream/43c04d10f077c866fd74cbd9fae87e89289da78efbbfb0617ad567c2e3746488.ctv
 中天亚洲台,https://epg.pw/stream/27878dca4d7c192a06d2814aa73d5ce9a86eb53bcf35c6ac979ec534eb57b081.ctv
-中天亚洲台,https://epg.pw/stream/81d7839a99734d9acde5a80fad77712be983fabf79c7bcf5b67465b49053649a.ctv
-中天亚洲台,https://epg.pw/stream/6ebc897044b02fe7a12b7d41ce0fcbf65f5381c00f39a4cbe236067cb0c78e15.ctv
+中天亚洲台,https://epg.pw/stream/28e39a9423b515ed4b28dd94299644a7d1e45701908a6e06ac5a40fc6775a6a1.ctv
+中天亚洲台,https://epg.pw/stream/4703349cd7d4d74c41a6e024c22b21e073d5163310e23fe57e40299e2d9e1934.ctv
 中天亚洲台,https://epg.pw/stream/61ee102ea582c996a417ff53b7c1e551bee422d722e7a150f59091426a03ce8f.ctv
+中天亚洲台,https://epg.pw/stream/6ebc897044b02fe7a12b7d41ce0fcbf65f5381c00f39a4cbe236067cb0c78e15.ctv
+中天亚洲台,https://epg.pw/stream/81d7839a99734d9acde5a80fad77712be983fabf79c7bcf5b67465b49053649a.ctv
+中天亚洲台,https://epg.pw/stream/87f3fd00562b5f64a04e7488d39bb7ac454c4317222f0550c1ae9cba787e4357.ctv
 中天亚洲台,https://epg.pw/stream/89e88fbca6950273e908d69f7ed35708ee2ff3ac74dd9269533af663e06dfb3b.ctv
 中天亚洲台,https://epg.pw/stream/f31e5b275c9033d811f072480061be69b29fd4a03886c6f1aa3404792e20d9d0.ctv
-中天亚洲台,https://epg.pw/stream/43c04d10f077c866fd74cbd9fae87e89289da78efbbfb0617ad567c2e3746488.ctv
-中天亚洲台,https://epg.pw/stream/28e39a9423b515ed4b28dd94299644a7d1e45701908a6e06ac5a40fc6775a6a1.ctv
-中天亚洲台,https://epg.pw/stream/f70229977e48ff3d0ca38949e62ce245cb14ac8993d7efb9c584a8fbc54d5e64.ctv
-中天亚洲台,https://epg.pw/stream/fcbff7f38f09e514093383020d6f721ab10ed7491149f60b5828f516c6bd4b75.ctv
-中天亚洲台,https://epg.pw/stream/a9d088ac00598b278adc64978f34cc0349face9cbadbd268eda1a42c0c95d6eb.ctv
 中视新闻,http://194.87.101.118:9501/live.m3u8?c=6
 中视经典,http://198.16.100.90:8278/zhongshi_twn/playlist.m3u8?tid=14379667&ct=17988&tsum=de63d02f44741580b5070077d1949841
 中视经典,http://198.16.100.90:8278/zhongshi_twn/playlist.m3u8?tid=mffe9aaf8765f&ct=18335&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
@@ -1237,6 +1231,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 山东少儿,https://epg.pw/stream/ed13a4e9ffe04579a88d7b09027e3e4e29c96a8a116fbcb81f0d618361eee304.ctv
 山东少儿,https://epg.pw/stream/e7b01782be09159d60f2be34b9f8554b4eb88ae9ce4368ae8df80e701468e15a.ctv
 山东教育,http://livewai.sdetv.com.cn/live/da4ebbb91ee8468db5a9d230a535391f_transios/playlist.m3u8
+山东教育,http://livewai.sdetv.com.cn/live/da4ebbb91ee8468db5a9d230a535391f_transios/playlist.m3u8
 济南济铁,http://alivealone.litenews.cn/303/8876f9ea0ce6400d9b1e54a129ff1c0c.flv
 济南济铁,rtmp://alivealone.litenews.cn/303/8876f9ea0ce6400d9b1e54a129ff1c0c
 济南长清综合,http://alivealone.litenews.cn/171/16236930b5ef4329a8a1d47037ee56b6.flv
@@ -1442,6 +1437,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 聊城费县综合,rtmp://alivealone.litenews.cn/41/b9db01b3511d48e6921fa442ce543881
 聊城兰山综合,http://alivealone.litenews.cn/201/161a22e99718418da23caa7fa3edb4dd.flv
 聊城兰山综合,rtmp://alivealone.litenews.cn/201/161a22e99718418da23caa7fa3edb4dd
+聊城临清综合,http://alivealone.litenews.cn/65/4f25e3acdf8f4df8b28bdc9ee03154a9.flv
 聊城临沭综合,http://alivealone.litenews.cn/167/ccb6d0904c4545c796a46d0b8ab8f974.flv
 聊城临沭综合,rtmp://alivealone.litenews.cn/167/ccb6d0904c4545c796a46d0b8ab8f974
 聊城临沭生活,http://alivealone.litenews.cn/167/fb91283de3bb4a85adfa892ab1e81651.flv
@@ -1477,6 +1473,8 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 泰山泰山生活,rtmp://alivealone.litenews.cn/263/c22bd61a847a4723bfd30ddbbd12a2ae
 德州齐河综合,rtmp://alivealone.litenews.cn/267/e578295190e1495eb70d9ef855176eaa
 德州齐河综合,http://alivealone.litenews.cn/251/f150ae40de6c47fe9ec259da1baad181.flv
+临沂罗庄综合,http://lu1.cc/itv/php/iqilu.php?id=lylzzh
+临沂罗庄影视,http://lu1.cc/itv/php/iqilu.php?id=lylzys
 
 四川,#genre#
 四川新闻,http://api.52tb.xyz/info?id=602&token=20230314vyrzsx
