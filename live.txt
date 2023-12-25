@@ -170,6 +170,7 @@ CCTV-4中文国际美洲,http://106.113.134.21:2222/rtp/239.254.201.206:4220
 北京卫视,https://epg.pw/stream/50301782798540ee9cc384d84d50f806a8a990cd796f99c87e979d18514f31dd.ctv
 北京卫视,https://epg.pw/stream/bad3eafd3e2accf1b0fe1bfb037c56eadb1b7649fb13521daae8b1ad093fa6cb.ctv
 北京卫视,https://epg.pw/stream/5e98eaae8407271568dc787781f7ac42eec310d61df8b7ab4602741ae72df9bf.m3u8
+北京卫视,https://epg.pw/stream/50301782798540ee9cc384d84d50f806a8a990cd796f99c87e979d18514f31dd.ctv
 北京卫视,http://123.117.52.226:8000/rtp/239.3.1.241:8000
 北京卫视,http://123.117.52.226:8000/rtp/239.3.1.221:8001
 北京卫视,http://106.113.134.21:2222/rtp/239.254.200.47:8024
@@ -257,6 +258,8 @@ CCTV-4中文国际美洲,http://106.113.134.21:2222/rtp/239.254.201.206:4220
 安徽卫视,http://106.113.134.21:2222/rtp/239.254.200.163:6000
 安徽卫视,http://123.144.224.47:4000/rtp/225.0.4.133:7980
 安徽卫视,http://223.240.229.142:8888/rtp/238.1.79.27:4328
+安徽卫视,https://epg.pw/stream/f28ca2b181313c7d1c12e5782d855064a5b7d884f911753018d33cdbb6944b9b.ctv
+安徽卫视,https://epg.pw/stream/f6b1dcb74cfda40bc84467d836f82596de9d58c96875cd23d0134bb00e9dd190.ctv
 海南卫视,http://live.goodiptv.club/api/bestv.php?id=hainanwshd8m/8000000
 海南卫视,http://api.52tb.xyz/info?id=38&token=20230314vyrzsx
 海南卫视,https://live.metshop.top/msp.php?id=hinws
@@ -1035,8 +1038,8 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 绍兴新昌生活频道,http://api.52tb.xyz/info?id=440&token=20230314vyrzsx
 温州永嘉新闻综合,http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8
 温州永嘉新闻综合,https://epg.pw/stream/8cb05e5ed567cade53c698c241bceb8b76a7e9dfe92d963b633fd1cc7e24d005.m3u8
+温州永嘉新闻综合,https://epg.pw/stream/fa5f1fadc29be3aab195dfa0fb13f94dc6427671aa6cae16dd5ff85e12254027.m3u8
 温州苍南新闻综合,http://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8
-温州苍南新闻综合,https://epg.pw/stream/fa5f1fadc29be3aab195dfa0fb13f94dc6427671aa6cae16dd5ff85e12254027.m3u8
 温州龙游新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
 温州龙游生活娱乐,http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
 温州文成综合,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
@@ -1079,6 +1082,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 安徽公共,http://223.240.229.142:8888/rtp/238.1.79.43:4456
 安徽影视,https://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829369249612.m3u8
 安徽影视,http://223.240.229.142:8888/rtp/238.1.79.42:4448
+安徽影视,https://epg.pw/stream/a34aa2b2f8b89143f5d1d219d14e07aff3a540dcee1a8827a7493d54a6dbe218.ctv
 安徽综艺体育,https://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829415240627.m3u8
 安徽农业科教,https://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829358013848.m3u8
 安徽农业科教,http://223.240.229.142:8888/rtp/238.1.79.40:4432
@@ -1776,6 +1780,10 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 南宁新闻综合,https://epg.pw/stream/ca9d756c7b6c137f8b0db925ec3211b8e14210deecf1c3648b61e9488f807245.m3u8
 南宁新闻综合,https://epg.pw/stream/5cd9df77a1f44934ec3d95f1ee6e277d3bae13850b6e0853ad69d886e680537a.m3u8
 南宁新闻综合,https://epg.pw/stream/2237a8abbc978470420214a04187c108552b280748923572402a51e23978e363.m3u8
+南宁新闻综合,https://epg.pw/stream/c0420fb0fd972165cba1fb8676bf263e7335faf4e93706675a5c81836a8851c0.m3u8
+南宁新闻综合,https://epg.pw/stream/c722b44c0af8828262d8034d2c4ac3a15ada724fe7da07bcfacfaa23eec1ce8e.m3u8
+南宁都市生活,https://epg.pw/stream/12a0b2d3b09cfde5063f7740c6ac28ec36e3b45ea1eb726199ede904e66df137.m3u8
+南宁都市生活,https://epg.pw/stream/2767d2e7b0c430c453677c5affc5f660df1d5a86aa36a70cdc395063007a9b59.m3u8
 南宁文旅生活,http://api2.52tb.xyz/info?id=722&token=20230331czbpek
 南宁文旅生活,http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8
 南宁文旅生活,http://api.52tb.xyz/info?id=722&token=20230314vyrzsx
@@ -1788,6 +1796,9 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 南宁公共,https://epg.pw/stream/1ccaa209c1eae6063d0ed3a6769874960bc9b3a0fb276a66c28203c8312b4f28.m3u8
 南宁公共,https://epg.pw/stream/a1d6d233a46a737b8528d7220dc359a20092d73bfd3bbf0bc5db41c8997ccd6c.m3u8
 南宁公共,https://epg.pw/stream/4684cd70144a53d58916b46ff983099df2679a02f07b68ee1989f338f245e518.m3u8
+南宁公共,https://epg.pw/stream/b2be8aeccc71a5dc3881fb5e26df41d03a5426f58c24da03c53556cd42384650.m3u8
+南宁公共,https://epg.pw/stream/e1c18fb0536467713131988600e85e8c45561d93c71a38b573bc92dfbb6fa83b.m3u8
+南宁公共,https://epg.pw/stream/425479efb2fcc018baadb12c14881ab4d70bf439b7625f46c6dd7a0e894c58d0.m3u8
 南宁影视娱乐,http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
 南宁影视娱乐,http://api2.52tb.xyz/info?id=723&token=20230331czbpek
 南宁影视娱乐,http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8?zguangxd
@@ -1795,6 +1806,8 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 南宁影视娱乐,https://epg.pw/stream/fa53dcd3002463e2f4a00d8e7705cc027929eac859b3a453ec9e2e1035e28caf.m3u8
 南宁影视娱乐,https://epg.pw/stream/c364eab1b45cb668e155befee47bf4bb52394612bd76b27fefa17797c0cdd9b3.m3u8
 南宁影视娱乐,https://epg.pw/stream/442f9811fc591a273063bf3159ae017d32816d1cf596178a713b713105da78d2.m3u8
+南宁影视娱乐,https://epg.pw/stream/bdca37e1513bac281ad06b1814ba7d93fe297cc03f5a98506d5de98747789071.m3u8
+南宁影视娱乐,https://epg.pw/stream/be28ace7be18f10de4f45fe92903d9bd7347b3f7a203daebb7caa461d3e7224f.m3u8
 南宁隆安新闻综合,https://epg.pw/stream/12533f197cc8ddb2c861c07968faa484b4b7200c502e92136901561d3d270df1.m3u8
 桂林新闻综合,https://pull.gltvs.com/live/glxw/playlist.m3u8?v=b0528684bf934e120e1c30fc808e6576&t=1796868188
 北海新闻综合,http://rtmp.gdlive.gdmain.com/live/09em4xbl.m3u8
