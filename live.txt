@@ -227,7 +227,7 @@ CCTV-4中文国际美洲,http://106.113.134.21:2222/rtp/239.254.201.206:4220
 江苏卫视,http://123.117.52.226:8000/rtp/239.3.1.135:8028
 江苏卫视,http://106.113.134.21:2222/rtp/239.254.200.51:8028
 江苏卫视,http://123.144.224.47:4000/rtp/225.0.4.79:7980
-江苏卫视m,https://epg.pw/stream/2cbafdd3fd0f366fcade6014c05c4ac84bccc97e66ff4ad533d2acfa7523a7c0.ctv
+江苏卫视,https://epg.pw/stream/2cbafdd3fd0f366fcade6014c05c4ac84bccc97e66ff4ad533d2acfa7523a7c0.ctv
 江苏卫视,https://epg.pw/stream/9f999c8c50426bedd62937584c3f75cc0d7b51edcfeed4e5164abb0398b55945.ctv
 浙江卫视,http://live.goodiptv.club/api/bestv.php?id=zjwshd8m/8000000
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
@@ -325,7 +325,7 @@ CCTV-4中文国际美洲,http://106.113.134.21:2222/rtp/239.254.201.206:4220
 云南卫视,http://api.52tb.xyz/info?id=42&token=20230314vyrzsx
 云南卫视,https://epg.pw/stream/1dcf2e33fcb081651dbcdaba9bed1b1ad0d8c58ba943c44026dd9feed670125e.ctv
 云南卫视,https://epg.pw/stream/b41d6100a386d2eac97c5ce72d09e17db7a32f9c9c22968c823aa17a9ce87c65.ctv
-云南卫视,http://live.goodiptv.club/api/bestv.php?id=hnwshd8m/8000000
+河南卫视,http://live.goodiptv.club/api/bestv.php?id=hnwshd8m/8000000
 河南卫视,https://live.goodiptv.club/api/sxg.php?id=hnws35_4000
 河南卫视,http://cfss.cc/api/ysp/hnws.m3u8
 河南卫视,http://api.52tb.xyz/info?id=31&token=20230314vyrzsx
