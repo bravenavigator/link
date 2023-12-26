@@ -241,7 +241,8 @@ CCTV电视指南,http://116.23.136.209:4022/rtp/239.253.43.10:5146
 北京卫视,http://123.144.224.47:4000/rtp/225.0.4.78:7980
 北京卫视,http://116.23.136.209:4022/rtp/239.77.1.4:5146
 北京卫视,http://116.23.136.209:4022/rtp/239.77.1.151:5146
-北京卫视,http://116.23.136.209:4022/rtp/239.77.0.91:5146东方卫视,http://live.goodiptv.club/api/bestv.php?id=dfwshd8m/8000000
+北京卫视,http://116.23.136.209:4022/rtp/239.77.0.91:5146
+东方卫视,http://live.goodiptv.club/api/bestv.php?id=dfwshd8m/8000000
 东方卫视,https://live.goodiptv.club/api/sxg.php?id=dfwsH265_4000
 东方卫视,http://cfss.cc/api/ysp/dfws.m3u8
 东方卫视,http://api.52tb.xyz/info?id=24&token=20230314vyrzsx
