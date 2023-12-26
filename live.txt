@@ -270,7 +270,7 @@ CCTV-4中文国际美洲,http://106.113.134.21:2222/rtp/239.254.201.206:4220
 海南卫视,http://api.52tb.xyz/info?id=38&token=20230314vyrzsx
 海南卫视,https://live.metshop.top/msp.php?id=hinws
 海南卫视,http://106.113.134.21:2222/rtp/239.254.201.125:6288
-海南卫视 8m,https://epg.pw/stream/7ba9a6e741f68ca6b157a944d165acc57bca3259ce06a912ed722e02b8e37212.ctv
+海南卫视,https://epg.pw/stream/7ba9a6e741f68ca6b157a944d165acc57bca3259ce06a912ed722e02b8e37212.ctv
 山东卫视,http://live.goodiptv.club/api/bestv.php?id=sdws8m/8000000
 山东卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226012/1.m3u8
 山东卫视,http://118.122.126.202:8877/rtp/239.93.0.168:5140
@@ -316,7 +316,7 @@ CCTV-4中文国际美洲,http://106.113.134.21:2222/rtp/239.254.201.206:4220
 贵州卫视,http://123.117.52.226:8000/rtp/239.3.1.149:8076
 贵州卫视,http://106.113.134.21:2222/rtp/239.254.201.20:6315
 贵州卫视,http://123.144.224.47:4000/rtp/225.0.4.175:7980
-贵州卫视 8m,https://epg.pw/stream/22e8a60d20cc198c47c47d1d5aa3d0092c10f1b13593b908f43177b5ac4f29c8.ctv
+贵州卫视,https://epg.pw/stream/22e8a60d20cc198c47c47d1d5aa3d0092c10f1b13593b908f43177b5ac4f29c8.ctv
 云南卫视,http://live.goodiptv.club/api/bestv.php?id=ynwshd8m/8000000
 云南卫视,http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
 云南卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001223/index.m3u8
@@ -325,7 +325,7 @@ CCTV-4中文国际美洲,http://106.113.134.21:2222/rtp/239.254.201.206:4220
 云南卫视,http://api.52tb.xyz/info?id=42&token=20230314vyrzsx
 云南卫视,https://epg.pw/stream/1dcf2e33fcb081651dbcdaba9bed1b1ad0d8c58ba943c44026dd9feed670125e.ctv
 云南卫视,https://epg.pw/stream/b41d6100a386d2eac97c5ce72d09e17db7a32f9c9c22968c823aa17a9ce87c65.ctv
-,http://live.goodiptv.club/api/bestv.php?id=hnwshd8m/8000000
+云南卫视,http://live.goodiptv.club/api/bestv.php?id=hnwshd8m/8000000
 河南卫视,https://live.goodiptv.club/api/sxg.php?id=hnws35_4000
 河南卫视,http://cfss.cc/api/ysp/hnws.m3u8
 河南卫视,http://api.52tb.xyz/info?id=31&token=20230314vyrzsx
@@ -359,8 +359,8 @@ CCTV-4中文国际美洲,http://106.113.134.21:2222/rtp/239.254.201.206:4220
 黑龙江卫视,http://api.52tb.xyz/info?id=41&token=20230314vyrzsx
 黑龙江卫视,http://123.117.52.226:8000/rtp/239.3.1.133:8016
 黑龙江卫视,http://106.113.134.21:2222/rtp/239.254.200.49:8016
-黑龙江卫视 8m,https://epg.pw/stream/0469d3e27051b57f8d2f1ff3d4e15d19ae303531dbe907912819f0cd42d8986f.ctv
-黑龙江卫视 8m,https://epg.pw/stream/53cf5f9b0b328e1c40de1fc5d4aac8926a4772f9beeddad01f8a3350be87e5f1.ctv
+黑龙江卫视,https://epg.pw/stream/0469d3e27051b57f8d2f1ff3d4e15d19ae303531dbe907912819f0cd42d8986f.ctv
+黑龙江卫视,https://epg.pw/stream/53cf5f9b0b328e1c40de1fc5d4aac8926a4772f9beeddad01f8a3350be87e5f1.ctv
 吉林卫视,http://live.goodiptv.club/api/bestv.php?id=jlwshd8m/8000000
 吉林卫视,https://live.goodiptv.club/api/sxg.php?id=jlwsH265_4000
 吉林卫视,http://123.117.52.226:8000/rtp/239.3.1.240:8172
@@ -1198,10 +1198,6 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 杭州明珠,http://api.52tb.xyz/info?id=442&token=20230314vyrzsx
 杭州生活,http://api.52tb.xyz/info?id=443&token=20230314vyrzsx
 钱江都市,https://epg.pw/stream/02a5925b342073edac29262317e5487d38d06603c4991a5e3ecad355040377a1.m3u8
-钱江都市,https://epg.pw/stream/8dfc93422367fbe0d8a30441e897549a237b809941914df59410211fac61a565.m3u8
-钱江都市,http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
-钱江都市,http://hw-m-l.cztv.com/channels/lantian/channel02/720p.m3u8?zzhed
-钱江都市,http://api.52tb.xyz/info?id=436&token=20230314vyrzsx
 杭州萧山新闻综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?zzhed
 杭州萧山新闻综合,https://epg.pw/stream/51e0a1fe5c006c955e68548c9b2a13ce3d35adb30579eaf00b11a9ec52ee9fe0.m3u8
 杭州萧山新闻综合,https://epg.pw/stream/1c41768e993a54617b9a22c65c9d4dcaea80759097ee0a859f1e8590955ddad7.m3u8
