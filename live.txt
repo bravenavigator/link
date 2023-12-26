@@ -2668,25 +2668,27 @@ BloombergTV,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPh
 ABC NEWS,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 ABC NEWS,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
 BBC earth,http://typicamn.russtv.net/iptv/349W3XS8ENP64A/6855/index.m3u8
-BBC World News,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-BBC World News,http://typicamn.russtv.net/iptv/349W3XS8ENP64A/545/index.m3u8
+BBC世界新闻,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+BBC世界新闻,http://typicamn.russtv.net/iptv/349W3XS8ENP64A/545/index.m3u8
+BBC世界新闻,https://epg.pw/stream/1c78ff2850727e38ae6d8f3a4bb0431f36c4129b4d0ad18fce6213bd5957b73c.ctv
+BBC世界新闻,https://epg.pw/stream/f9afb59943c76b62d1f5bda03d2ccebb99e482b3608fa83554ee4db80b03ded9.m3u8
 BBC America,https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
 NewsmaxTV,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-i24news,https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/profile_0/chunklist.m3u8
-Reuters TV,https://reuters-reutersnow-1-us.plex.wurl.tv/c0c0829237382f291cc46a0368586aa7.m3u8
-Global News, https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
-Channel NewsAsia,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-Channel NewsAsia,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-NHK World,https://nhkwlive-burnin2.webcdn.stream.ne.jp/live/index_1M.m3u8
-NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-National Geographic HD Bangla,http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-Nippon TV News24 Japan,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-Tastemade Travelᴴᴰ,https://tastemadetravel-vizio.amagi.tv/playlist720_p.m3u8
-LoveNature4K,http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8?checkedby:iptvcat.com
-Discoveryᴴᴰ,http://typicamn.russtv.net/iptv/349W3XS8ENP64A/9011/index.m3u8
+以色列i24NEWS电视台,https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/profile_0/chunklist.m3u8
+路透社电视台,https://reuters-reutersnow-1-us.plex.wurl.tv/c0c0829237382f291cc46a0368586aa7.m3u8
+环球新闻, https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
+亚洲新闻台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+亚洲新闻台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+NHK世界台,https://nhkwlive-burnin2.webcdn.stream.ne.jp/live/index_1M.m3u8
+NHK世界台,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+国家地理频道,http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+日本电视台,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+美食旅程,https://tastemadetravel-vizio.amagi.tv/playlist720_p.m3u8
+爱自然,http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8?checkedby:iptvcat.com
+发现,http://typicamn.russtv.net/iptv/349W3XS8ENP64A/9011/index.m3u8
 Travel XP,https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
-NASA TV Media,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
-NASA TV Public,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+NASA电视媒体,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
+NASA全球公开直播,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 France 24 ENG,https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_091/HD/playlist.m3u8
 France 24 ENG,http://n1.klowdtv.net/live2/france24_720p/chunks.m3u8
 UN Web TV (540p),https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
@@ -2706,6 +2708,19 @@ KBS WORLD,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3
 MTV音乐频道,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
 HBO,http://208.115.225.174:14136
 BBC Travel,https://ab96b349d4d14d80a1f8530a0bce4488.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-de_BBCTravel/playlist.m3u8?ads.wurl_channel=985&ads.wurl_name=BBCTravel&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+马来西亚国家新闻社,https://epg.pw/stream/7ca4fab91b2b1eca75693d4db9f57e8e5755fc434a3da22c29f33a80b8418a58.ctv
+马来西亚国家新闻社,https://epg.pw/stream/8050bcfe253756aa7a85bb7a8964af1b7f8fcc89b21b5755c5ee16591a3bec16.ctv
+马来西亚国家新闻社,https://epg.pw/stream/aa26add107e9d627973d6c112e03cc35d5fbe09f5e80d91245b84dcfc1ae9214.ctv
+马来西亚国家新闻社,https://epg.pw/stream/0f54d68b4928cc057439511ad0182db47675815043955fb738e5eafa8b31d178.ctv
+马来西亚国家新闻社,https://epg.pw/stream/49d4223142a241cf09fc1be0f77c20e7e47184d4dfc1dd83b889caa75bbd9f58.ctv
+马来西亚国家新闻社,https://epg.pw/stream/6a234ca2550a746af2c9e6556759dff3d7ab0cf347145456c4314e9690a2bbeb.ctv
+马来西亚国家新闻社,https://epg.pw/stream/7ba5d95735b89e86b642e42f78dd30f5585d9c9ea4ca3a38ecefbf506fa3c9a1.ctv
+马来西亚国家新闻社,https://epg.pw/stream/8036e3a788cda73a9f757afef7437f28cc95ac7a9472bc87080ae2fbad8ef563.ctv
+马来西亚国家新闻社,https://epg.pw/stream/80c06ce52ee9f3bd81060f87478fa4c54c80325e785b648e1f4369a0de401831.ctv
+马来西亚国家新闻社,https://epg.pw/stream/c7ea3a230b6fa2bcb55ff86077e854af4ba7ca93c8d56984a73398e4fa10dbd7.ctv
+马来西亚国家新闻社,https://epg.pw/stream/efb14e827fd1a59909ff2cc7858d5e968834e93d4bf893c5bbf588ee7730bd24.ctv
+马来西亚国家新闻社,https://epg.pw/stream/f87543ad50473eac0b199d938f9c91b47579e79770994af4bbab1a33134458e2.ctv
+马来西亚国家新闻社,https://epg.pw/stream/fb3962244070279a8e5e530abb96e154076b7582d5248f5ce4494b62c8f224b2.ctv
 
 影院,#genre#
 华语影院,https://live.goodiptv.club/api/bestv.php?id=hyyy8m/8000000
