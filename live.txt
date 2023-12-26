@@ -32,6 +32,8 @@ CCTV2财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322
 CCTV2财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
 CCTV2财经,http://221.213.43.82:8888/newlive/live/hls/3/live.m3u8
 CCTV2财经,https://epg.pw/stream/8b52681198fd60a8999347db221d3e2fb0d8e7f05890267b3c1ec8d67bf31fb1.m3u8
+CCTV2财经,https://epg.pw/stream/306d8b0a118db25a34c0944629bf8f6a901f85ab475bb12abcc12c1e65f27287.ctv
+CCTV2财经,https://epg.pw/stream/b29da70eefd6565052c425e7c2d8071d98b27472c336966500395670ba41d56d.ctv
 CCTV2财经,http://123.117.52.226:8000/rtp/239.3.1.60:8084
 CCTV2财经,http://123.144.224.47:4000/rtp/225.0.4.132:7980
 CCTV2财经,http://116.23.136.209:4022/rtp/239.77.1.158:5146
@@ -44,6 +46,8 @@ CCTV3综艺,http://123.117.52.226:8000/rtp/239.3.1.172:8001
 CCTV3综艺,http://123.144.224.47:4000/rtp/225.0.4.142:7980
 CCTV3综艺,http://116.23.136.209:4022/rtp/239.77.0.169:5146
 CCTV3综艺,http://116.23.136.209:4022/rtp/239.77.0.175:5146
+CCTV3综艺,https://epg.pw/stream/a20301f125e22b5dcb5ba098dee9fb4d0404430807d77262602a3525e8b7ce4c.ctv
+CCTV3综艺,https://epg.pw/stream/f83dc7ca0f76dfbe67adde17966cef5aeccc0bf4cb946bb19ba6b5c987f17c02.ctv
 CCTV4中文国际,http://live.goodiptv.club/api/bestv.php?id=cctv4hd8m/8000000
 CCTV4中文国际,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
 CCTV4中文国际,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8? 
@@ -53,6 +57,8 @@ CCTV4中文国际,http://123.144.224.47:4000/rtp/225.0.4.176:7980
 CCTV4中文国际,http://116.23.136.209:4022/rtp/239.77.1.163:5146
 CCTV4中文国际,http://116.23.136.209:4022/rtp/239.77.1.166:5146
 CCTV4中文国际,http://116.23.136.209:4022/rtp/239.77.0.78:5146
+CCTV4中文国际,https://epg.pw/stream/27dd2885c32ca621fd9b8290cccb8706db0bbdf5131dde158432969c8b4582bf.ctv
+CCTV4中文国际,https://epg.pw/stream/94ebcc2f0e65029f8845699a8320d6a0defbd9165c6e48d786bf537e3f46b058.ctv
 CCTV5体育,http://live.goodiptv.club/api/bestv.php?id=cctv58m/8000000
 CCTV5体育,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 CCTV5体育,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
@@ -66,6 +72,9 @@ CCTV5体育,http://123.144.224.47:4000/rtp/225.0.4.143:7980
 CCTV5体育,http://116.23.136.209:4022/rtp/239.77.0.241:5146
 CCTV5体育,http://116.23.136.209:4022/rtp/239.77.0.170:5146
 CCTV5体育,http://116.23.136.209:4022/rtp/239.77.0.177:5146
+CCTV5体育,https://epg.pw/stream/1443f8c73448db444f95be02629c7146848df675f9b46c973a9726563ce53705.ctv
+CCTV5体育,https://epg.pw/stream/a78f71242108680df7906ddbb135770ce010554d9cbb16b8e4a5b4677e48f4dc.ctv
+CCTV5体育,https://epg.pw/stream/bea9cd814987adc99d80a9c5d4809e8670c99b9797c2abcacd77ab8459792df9.m3u8
 CCTV5+体育赛事,http://live.goodiptv.club/api/bestv.php?id=cctv5phd8m/8000000
 CCTV5+体育赛事,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 CCTV5+体育赛事,http://221.213.43.82:8888/newlive/live/hls/7/live.m3u8
@@ -83,6 +92,8 @@ CCTV6电影,http://123.144.224.47:4000/rtp/225.0.4.127:7980
 CCTV6电影,http://123.144.224.47:4000/rtp/225.0.4.144:7980
 CCTV6电影,http://116.23.136.209:4022/rtp/239.77.0.171:5146
 CCTV6电影,http://116.23.136.209:4022/rtp/239.77.0.178:5146
+CCTV6电影,https://epg.pw/stream/ea559ca2b60299bc5dda8015b1cec956d6f3a25de78c88f3efa9d2d634829e54.ctv
+CCTV6电影,https://epg.pw/stream/f0e2e83785e7ad6df968ad3601288d34831a0ad355190f5f6fe07124b541ef28.ctv
 CCTV7国防军事,http://live.goodiptv.club/api/bestv.php?id=cctv7hd8m/8000000
 CCTV7国防军事,http://222.134.240.136:9901/tsfile/live/0007_1.m3u8?url=tvzb.com
 CCTV7国防军事,http://183.65.9.200:8888/udp/235.254.199.56:7980
@@ -91,6 +102,8 @@ CCTV7国防军事,http://123.117.52.226:8000/rtp/239.3.1.61:8104
 CCTV7国防军事,http://116.23.136.209:4022/rtp/239.77.1.159:5146
 CCTV7国防军事,http://116.23.136.209:4022/rtp/239.77.1.167:5146
 CCTV7国防军事,http://116.23.136.209:4022/rtp/239.77.0.138:5146
+CCTV7国防军事,https://epg.pw/stream/1869750e7fec16840aa9640af700a9a44015baa5d74f0868e351a42d79be8938.ctv
+CCTV7国防军事,https://epg.pw/stream/c58244953378c8167c4a2cc2078a80ce3176d165d86e0674b75d7eb542ed8a20.ctv
 CCTV8电视剧,http://live.goodiptv.club/api/bestv.php?id=cctv8hd8m/8000000
 CCTV8电视剧,https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
 CCTV8电视剧,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
@@ -98,6 +111,8 @@ CCTV8电视剧,http://123.117.52.226:8000/rtp/239.3.1.175:8001
 CCTV8电视剧,http://123.144.224.47:4000/rtp/225.0.4.137:7980
 CCTV8电视剧,http://116.23.136.209:4022/rtp/239.77.0.172:5146
 CCTV8电视剧,http://116.23.136.209:4022/rtp/239.77.0.181:5146
+CCTV8电视剧,https://epg.pw/stream/8668753fd1c3d66ab8ac6b6d9b08add4d05db6ead8c589a5c8db7e8ddedab8c2.ctv
+CCTV8电视剧,https://epg.pw/stream/913869ea7d7a306dba8e2f2aa14aaa3ca03cb050d7bb1ab40cf6693f04a3ba2a.ctv
 CCTV9纪录,http://live.goodiptv.club/api/bestv.php?id=cctv9hd8m/8000000
 CCTV9纪录,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
 CCTV9纪录,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
@@ -111,6 +126,7 @@ CCTV9纪录,http://123.144.224.47:4000/rtp/225.0.4.131:7980
 CCTV9纪录,http://116.23.136.209:4022/rtp/239.77.1.160:5146
 CCTV9纪录,http://116.23.136.209:4022/rtp/239.77.1.168:5146
 CCTV9纪录,http://116.23.136.209:4022/rtp/239.77.0.135:5146
+CCTV9纪录,https://epg.pw/stream/3db3e563b4920f7f1674c8a0bfc318f898c20680c4c64cafd1b2dc199f670b14.ctv
 CCTV10科教,http://live.goodiptv.club/api/bestv.php?id=cctv10hd8m/8000000
 CCTV10科教,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/1.m3u8
 CCTV10科教,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8?
@@ -122,6 +138,7 @@ CCTV10科教,http://123.144.224.47:4000/rtp/225.0.4.130:7980
 CCTV10科教,http://116.23.136.209:4022/rtp/239.77.1.113:5146
 CCTV10科教,http://116.23.136.209:4022/rtp/239.77.1.169:5146
 CCTV10科教,http://116.23.136.209:4022/rtp/239.77.0.134:5146
+CCTV10科教,https://epg.pw/stream/e6bfc54ee21e1199bb6ef14008f837ea5700370cf215e76d488683f5e4279d2c.m3u8
 CCTV11戏曲,http://live.goodiptv.club/api/bestv.php?id=cctvsehd8m/8000000
 CCTV11戏曲,http://183.65.9.200:8888/udp/235.254.196.161:7980
 CCTV11戏曲,http://125.82.171.210:8888/udp/235.254.196.161:7980
@@ -158,6 +175,8 @@ CCTV15音乐,http://cfss.cc/api/ysp/cctv15.m3u8
 CCTV15音乐,http://123.117.52.226:8000/rtp/239.3.1.153:8136
 CCTV15音乐,http://123.144.224.47:4000/rtp/225.0.4.220:7980
 CCTV15音乐,http://116.23.136.209:4022/rtp/239.77.1.239:5146
+CCTV15音乐,https://epg.pw/stream/a46eaa78621e9f0a2b7bc12155a9056b168a2565e07f7142dfc5f4bb269a2842.ctv
+CCTV15音乐,https://epg.pw/stream/df25f03b60f5d8a1d6574d8e44974d1a266922f81912c2fecfd46361454467a2.ctv
 CCTV16奥林匹克,http://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
 CCTV16奥林匹克,https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
 CCTV16奥林匹克,http://api.52tb.xyz/info?id=18&token=20230314vyrzsx
@@ -167,14 +186,16 @@ CCTV16奥林匹克,,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890
 CCTV16奥林匹克,#http://123.117.52.226:8000/rtp/239.3.1.183:8001
 CCTV16奥林匹克,#http://123.117.52.226:8000/rtp/239.3.1.184:8001
 CCTV16奥林匹克,http://116.23.136.209:4022/rtp/239.77.1.76:5146
+CCTV16奥林匹克,https://epg.pw/stream/517815f160c93d58422d9994ce94181819cb9ff2a0492036b3ed93e479336184.ctv
+CCTV16奥林匹克,https://epg.pw/stream/a40cab6b916dec5f03cb8d888d13baa8dfc371a45b5e4a51f557ae266602a9c1.ctv
 CCTV17农村农业,http://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
 CCTV17农村农业,http://222.134.240.136:9901/tsfile/live/1030_1.m3u8?url=tvzb.com
-CCTV17农村农业,https://epg.pw/stream/b3997477d0742021b4c904855f6e8be024b3980340d5f382ec498027c50cde81.ctv
-CCTV17农村农业,https://epg.pw/stream/0488a6d11015c87b6b84913a63f5801bfc44998fa827b52fbf8ba0a988c96daa.ctv
 CCTV17农村农业,http://123.117.52.226:8000/rtp/239.3.1.151:8144
 CCTV17农村农业,http://123.144.224.47:4000/rtp/225.0.4.179:7980
 CCTV17农村农业,http://116.23.136.209:4022/rtp/239.77.1.121:5146
 CCTV17农村农业,http://116.23.136.209:4022/rtp/239.77.0.198:5146
+CCTV17农村农业,https://epg.pw/stream/b3997477d0742021b4c904855f6e8be024b3980340d5f382ec498027c50cde81.ctv
+CCTV17农村农业,https://epg.pw/stream/0488a6d11015c87b6b84913a63f5801bfc44998fa827b52fbf8ba0a988c96daa.ctv
 CCTV兵器科技,http://116.23.136.209:4022/rtp/239.253.43.18:5146
 CCTV兵器科技,http://116.23.136.209:4022/rtp/239.253.43.9:5146
 CCTV世界地理,http://116.23.136.209:4022/rtp/239.253.43.24:5146
