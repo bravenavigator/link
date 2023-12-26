@@ -1,535 +1,757 @@
 #EXTM3U
-#EXTINF:-1,广东新闻
-http://113.65.4.187:19999/rtp/239.77.0.173:5146
-#EXTINF:-1,广东新闻
-http://116.23.136.209:4022/rtp/239.77.0.173:5146
-#EXTINF:-1,广东新闻
-http://119.126.159.38:4000/rtp/239.77.0.173:5146
-#EXTINF:-1,广东新闻
-http://api.52tb.xyz/info?id=404&token=20230314vyrzsx
-#EXTINF:-1,广东珠江
-http://113.65.4.187:19999/rtp/239.77.0.1:5146
-#EXTINF:-1,广东珠江
-http://113.65.4.187:19999/rtp/239.77.0.114:5146
-#EXTINF:-1,广东珠江
-http://116.23.136.209:4022/rtp/239.77.0.1:5146
-#EXTINF:-1,广东珠江
-http://116.23.136.209:4022/rtp/239.77.0.114:5146
-#EXTINF:-1,广东珠江
-http://119.126.159.38:4000/rtp/239.77.0.1:5146
-#EXTINF:-1,广东珠江
-http://api.52tb.xyz/info?id=410&token=20230314vyrzsx
-#EXTINF:-1,广东珠江
-http://119.126.159.38:4000/rtp/239.77.0.114:5146
-#EXTINF:-1,广东公共
-http://113.65.4.187:19999/rtp/239.77.0.225:5146
-#EXTINF:-1,广东民生
-http://116.23.136.209:4022/rtp/239.77.0.225:5146
-#EXTINF:-1,广东民生
-http://119.126.159.38:4000/rtp/239.77.0.225:5146
-#EXTINF:-1,广东民生
-http://api.52tb.xyz/info?id=408&token=20230314vyrzsx
-#EXTINF:-1,经济科教
-http://113.65.4.187:19999/rtp/239.77.0.85:5146
-#EXTINF:-1,经济科教
-http://113.65.4.187:19999/rtp/239.77.0.167:5146
-#EXTINF:-1,广东经济科教
-http://116.23.136.209:4022/rtp/239.77.0.85:5146
-#EXTINF:-1,广东经济科教
-http://116.23.136.209:4022/rtp/239.77.0.167:5146
-#EXTINF:-1,广东经济科教
-http://119.126.159.38:4000/rtp/239.77.0.85:5146
-#EXTINF:-1,广东经济科教
-http://119.126.159.38:4000/rtp/239.77.0.167:5146
-#EXTINF:-1,广东综艺
-http://113.65.4.187:19999/rtp/239.77.1.236:5146
-#EXTINF:-1,广东综艺
-http://113.65.4.187:19999/rtp/239.77.1.237:5146
-#EXTINF:-1,广东综艺
-http://113.65.4.187:19999/rtp/239.77.0.244:5146
-#EXTINF:-1,广东综艺
-http://113.65.4.187:19999/rtp/239.77.0.246:5146
-#EXTINF:-1,广东综艺
-http://113.65.4.187:19999/rtp/239.77.0.245:5146
-#EXTINF:-1,广东综艺
-http://116.23.136.209:4022/rtp/239.77.1.236:5146
-#EXTINF:-1,广东综艺
-http://116.23.136.209:4022/rtp/239.77.1.237:5146
-#EXTINF:-1,广东综艺
-http://116.23.136.209:4022/rtp/239.77.0.244:5146
-#EXTINF:-1,广东综艺
-http://116.23.136.209:4022/rtp/239.77.0.246:5146
-#EXTINF:-1,广东综艺
-http://116.23.136.209:4022/rtp/239.77.0.245:5146
-#EXTINF:-1,广东综艺
-http://api.52tb.xyz/info?id=402&token=20230314vyrzsx
-#EXTINF:-1,广东综艺
+#EXTINF:-1 ,CCTV13新闻
+https:/Flive-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+#EXTINF:-1 ,CCTV1综合
+https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+#EXTINF:-1 ,CCTV2财经
+https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
+#EXTINF:-1 ,CCTV2财经
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
+#EXTINF:-1 ,CCTV2财经
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
+#EXTINF:-1 ,CCTV5体育
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+#EXTINF:-1 ,CCTV5体育
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
+#EXTINF:-1 ,CCTV5体育
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
+#EXTINF:-1 ,CCTV5+体育赛事
+https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+#EXTINF:-1 ,CCTV6电影
+http://183.65.9.200:8888/udp/235.254.199.55:7980
+#EXTINF:-1 ,CCTV6电影
+http://125.82.171.210:8888/udp/235.254.199.55:7980
+#EXTINF:-1 ,CCTV7国防军事
+http://222.134.240.136:9901/tsfile/live/0007_1.m3u8?url=tvzb.com
+#EXTINF:-1 ,CCTV7国防军事
+http://183.65.9.200:8888/udp/235.254.199.56:7980
+#EXTINF:-1 ,CCTV7国防军事
+https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
+#EXTINF:-1 ,CCTV8电视剧
+https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
+#EXTINF:-1 ,CCTV8电视剧
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
+#EXTINF:-1 ,CCTV9纪录
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8?
+#EXTINF:-1 ,CCTV9纪录
+https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
+#EXTINF:-1 ,CCTV10科教
+https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8
+#EXTINF:-1 ,CCTV11戏曲
+http://183.65.9.200:8888/udp/235.254.196.161:7980
+#EXTINF:-1 ,CCTV11戏曲
+http://125.82.171.210:8888/udp/235.254.196.161:7980
+#EXTINF:-1 ,CCTV12社会与法
+http://183.65.9.200:8888/udp/235.254.199.60:7980
+#EXTINF:-1 ,CCTV12社会与法
+http://125.82.171.210:8888/udp/235.254.199.60:7980
+#EXTINF:-1 ,CCTV15音乐
+http://cfss.cc/api/ysp/cctv15.m3u8
+#EXTINF:-1 ,CCTV16奥林匹克
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
+#EXTINF:-1 ,CCTV17农村农业
+http://222.134.240.136:9901/tsfile/live/1030_1.m3u8?url=tvzb.com
+#EXTINF:-1 ,北京卫视
+http://cfss.cc/api/ysp/bjws.m3u8
+#EXTINF:-1 ,北京卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8
+#EXTINF:-1 ,北京卫视
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001029/index.m3u8
+#EXTINF:-1 ,北京卫视
+http://api.52tb.xyz/info?id=25&token=20230314vyrzsx
+#EXTINF:-1 ,北京卫视
+http://106.113.134.21:2222/rtp/239.254.200.47:8024
+#EXTINF:-1 ,北京卫视
+http://116.23.136.209:4022/rtp/239.77.0.91:5146东方卫视,http://live.goodiptv.club/api/bestv.php?id=dfwshd8m/8000000
+#EXTINF:-1 ,东方卫视
+http://cfss.cc/api/ysp/dfws.m3u8
+#EXTINF:-1 ,东方卫视
+http://api.52tb.xyz/info?id=24&token=20230314vyrzsx
+#EXTINF:-1 ,东方卫视
+http://106.113.134.21:2222/rtp/239.254.200.52:8032
+#EXTINF:-1 ,天津卫视
+http://106.113.134.21:2222/rtp/239.254.200.54:1234
+#EXTINF:-1 ,天津卫视
+http://218.67.172.50:8888/rtp/225.1.1.111:5002
+#EXTINF:-1 ,重庆卫视
+http://106.113.134.21:2222/rtp/239.254.200.203:6323
+#EXTINF:-1 ,广东卫视
+http://106.113.134.21:2222/rtp/239.254.200.56:8048
+#EXTINF:-1 ,深圳卫视
+http://106.113.134.21:2222/rtp/239.254.200.50:8020
+#EXTINF:-1 ,江苏卫视
+http://cfss.cc/api/ysp/jsws.m3u8
+#EXTINF:-1 ,江苏卫视
+http://106.113.134.21:2222/rtp/239.254.200.51:8028
+#EXTINF:-1 ,浙江卫视
+http://106.113.134.21:2222/rtp/239.254.200.53:8036
+#EXTINF:-1 ,湖南卫视
+http://47.242.38.45:9999/ysp.php?id=hunws
+#EXTINF:-1 ,湖南卫视
+http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel25/index.m3u8
+#EXTINF:-1 ,湖北卫视
+http://106.113.134.21:2222/rtp/239.254.200.164:6000
+#EXTINF:-1 ,安徽卫视
+http://106.113.134.21:2222/rtp/239.254.200.163:6000
+#EXTINF:-1 ,安徽卫视
+http://223.240.229.142:8888/rtp/238.1.79.27:4328
+#EXTINF:-1 ,海南卫视
+https://live.metshop.top/msp.php?id=hinws
+#EXTINF:-1 ,海南卫视
+http://106.113.134.21:2222/rtp/239.254.201.125:6288
+#EXTINF:-1 ,山东卫视
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226012/1.m3u8
+#EXTINF:-1 ,山东卫视
+http://106.113.134.21:2222/rtp/239.254.200.55:8052
+#EXTINF:-1 ,江西卫视
+http://39.134.67.108/PLTV/88888888/224/3221225935/1.m3u8
+#EXTINF:-1 ,江西卫视
+http://106.113.134.21:2222/rtp/239.254.201.12:6290
+#EXTINF:-1 ,东南卫视
+http://47.242.38.45:9999/ysp.php?id=dnws
+#EXTINF:-1 ,东南卫视
+http://106.113.134.21:2222/rtp/239.254.201.13:6291
+#EXTINF:-1 ,广西卫视
+http://106.113.134.21:2222/rtp/239.254.200.80:8300
+#EXTINF:-1 ,广西卫视
+http://220.173.254.227:6666/rtp/239.81.0.107:4056
+#EXTINF:-1 ,四川卫视
+http://106.113.134.21:2222/rtp/239.254.200.202:6325
+#EXTINF:-1 ,贵州卫视
+http://106.113.134.21:2222/rtp/239.254.201.20:6315
+#EXTINF:-1 ,云南卫视
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001223/index.m3u8
+#EXTINF:-1 ,云南卫视
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001223/index.m3u8
+#EXTINF:-1 ,云南卫视
+http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001223/1.m3u8
+#EXTINF:-1 ,河南卫视
+http://106.113.134.21:2222/rtp/239.254.201.16:7174
+#EXTINF:-1 ,河南卫视
+http://219.156.52.203:4000/rtp/225.1.4.98:1127
+#EXTINF:-1 ,陕西卫视
+http://117.32.84.92:8020/rtp/239.111.205.35:5140
+#EXTINF:-1 ,辽宁卫视
+http://api.52tb.xyz/info?id=43&token=20230314vyrzsx
+#EXTINF:-1 ,辽宁卫视
+http://106.113.134.21:2222/rtp/239.254.200.57:8056
+#EXTINF:-1 ,黑龙江卫视
+http://106.113.134.21:2222/rtp/239.254.200.49:8016
+#EXTINF:-1 ,吉林卫视
+http://116.23.136.209:4022/rtp/239.77.0.150:5146吉林卫视,https://epg.pw/stream/20ec706dec67b36d8bd933921ddc77d953bdbb5db85ceb51b4235469b7fa23b2.ctv
+#EXTINF:-1 ,新疆卫视
+https://live.metshop.top/msp.php?id=xjws
+#EXTINF:-1 ,海峡卫视
+http://36.249.151.144:9901/tsfile/live/0150_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,延边卫视
+http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8$官方1
+#EXTINF:-1 ,三沙卫视
+https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8$官方1
+#EXTINF:-1 ,广东综艺
 http://14.221.178.20:8888/rtp/239.77.0.244:5146
-#EXTINF:-1,广东影视
-http://113.65.4.187:19999/rtp/239.77.0.217:5146
-#EXTINF:-1,广东影视
-http://116.23.136.209:4022/rtp/239.77.0.217:5146
-#EXTINF:-1,广东影视
-http://119.126.159.38:4000/rtp/239.77.0.217:5146
-#EXTINF:-1,广东影视
-http://api.52tb.xyz/info?id=406&token=20230314vyrzsx
-#EXTINF:-1,广东影视
+#EXTINF:-1 ,广东影视
 http://14.221.178.20:8888/rtp/239.77.0.217:5146
-#EXTINF:-1,广东少儿
-http://113.65.4.187:19999/rtp/239.77.0.250:5146
-#EXTINF:-1,广东少儿
-http://116.23.136.209:4022/rtp/239.77.0.250:5146
-#EXTINF:-1,广东少儿
-http://119.126.159.38:4000/rtp/239.77.0.250:5146
-#EXTINF:-1,广东体育
-http://113.65.4.187:19999/rtp/239.77.0.112:5146
-#EXTINF:-1,广东体育
-http://113.65.4.187:19999/rtp/239.77.0.168:5146
-#EXTINF:-1,广东体育
-http://116.23.136.209:4022/rtp/239.77.0.112:5146
-#EXTINF:-1,广东体育
-http://116.23.136.209:4022/rtp/239.77.0.168:5146
-#EXTINF:-1,广东体育
-http://119.126.159.38:4000/rtp/239.77.0.112:5146
-#EXTINF:-1,广东体育
-http://119.126.159.38:4000/rtp/239.77.0.168:5146
-#EXTINF:-1,广东体育
+#EXTINF:-1 ,广东体育
 http://api.52tb.xyz/info?id=414&token=20230314vyrzsx
-#EXTINF:-1,大湾区卫视
-http://116.23.136.209:4022/rtp/239.77.0.215:5146
-#EXTINF:-1,大湾区卫视
-http://119.126.159.38:4000/rtp/239.77.0.215:5146
-#EXTINF:-1,大湾区卫视
-http://api.52tb.xyz/info?id=412&token=20230314vyrzsx
-#EXTINF:-1,大湾区卫视
-http://gmxw.7766.org:808/hls/132/index.m3u8
-#EXTINF:-1,嘉佳卡通
-http://113.65.4.187:19999/rtp/239.77.0.179:5146
-#EXTINF:-1,嘉佳卡通
-http://116.23.136.209:4022/rtp/239.77.0.179:5146
-#EXTINF:-1,嘉佳卡通
-http://119.126.159.38:4000/rtp/239.77.0.179:5146
-#EXTINF:-1,广州综合
-http://113.65.4.187:19999/rtp/239.253.43.71:5146
-#EXTINF:-1,广州综合
-http://116.23.136.209:4022/rtp/239.253.43.71:5146
-#EXTINF:-1,广州综合
-http://119.126.159.38:4000/rtp/239.253.43.71:5146
-#EXTINF:-1,广州综合
+#EXTINF:-1 ,广州综合
 http://player.200877926.top/169l/gd/gztvm3u8.php?id=gzzh
-#EXTINF:-1,广州综合
-https://epg.pw/stream/9e5d2238e47a5aadb49746075ee39e41a7b4826265014c349edeea310336c656.ctv
-#EXTINF:-1,广州综合
-http://r.jdshipin.com/iR6Gq
-#EXTINF:-1,广州新闻
-http://113.65.4.187:19999/rtp/239.253.43.72:5146
-#EXTINF:-1,广州新闻
-http://116.23.136.209:4022/rtp/239.253.43.72:5146
-#EXTINF:-1,广州新闻
-http://119.126.159.38:4000/rtp/239.253.43.72:5146
-#EXTINF:-1,广州新闻
+#EXTINF:-1 ,广州新闻
 http://player.200877926.top/169l/gd/gztvm3u8.php?id=gzxw
-#EXTINF:-1,广州法治
-http://113.65.4.187:19999/rtp/239.253.43.74:5146
-#EXTINF:-1,广州法治
-http://116.23.136.209:4022/rtp/239.253.43.74:5146
-#EXTINF:-1,广州法治
-http://119.126.159.38:4000/rtp/239.253.43.74:5146
-#EXTINF:-1,广州法治
+#EXTINF:-1 ,广州法治
 http://player.200877926.top/169l/gd/gztvm3u8.php?id=gzfz
-#EXTINF:-1,广州影视
-http://113.65.4.187:19999/rtp/239.253.43.73:5146
-#EXTINF:-1,广州影视
-http://116.23.136.209:4022/rtp/239.253.43.73:5146
-#EXTINF:-1,广州影视
-http://119.126.159.38:4000/rtp/239.253.43.73:5146
-#EXTINF:-1,广州影视
-http://r.jdshipin.com/TcKr2
-#EXTINF:-1,广州影视
+#EXTINF:-1 ,广州影视
 http://player.200877926.top/169l/gd/gztvm3u8.php?id=gzys
-#EXTINF:-1,广州竞赛
-http://113.65.4.187:19999/rtp/239.253.43.75:5146
-#EXTINF:-1,广州竞赛
-http://116.23.136.209:4022/rtp/239.253.43.75:5146
-#EXTINF:-1,南国都市
-http://113.65.4.187:19999/rtp/239.253.43.99:5146
-#EXTINF:-1,南国都市
-http://116.23.136.209:4022/rtp/239.253.43.99:5146
-#EXTINF:-1,南国都市
-http://php.jdshipin.com:8880/gztv.php?id=shenghuo
-#EXTINF:-1,南国都市
-http://api.52tb.xyz/info?id=419&token=20230314vyrzsx
-#EXTINF:-1,南国都市
+#EXTINF:-1 ,南国都市
 http://player.200877926.top/169l/gd/gztvm3u8.php?id=gzngds
-#EXTINF:-1,深圳都市
-http://113.65.4.187:19999/rtp/239.77.1.176:5146
-#EXTINF:-1,深圳都市
-http://113.65.4.187:19999/rtp/239.77.1.124:5146
-#EXTINF:-1,深圳都市
-http://116.23.136.209:4022/rtp/239.77.1.176:5146
-#EXTINF:-1,深圳都市
-http://116.23.136.209:4022/rtp/239.77.1.124:5146
-#EXTINF:-1,深圳都市
-http://119.126.159.38:4000/rtp/239.77.1.176:5146
-#EXTINF:-1,深圳都市
-http://119.126.159.38:4000/rtp/239.77.1.124:5146
-#EXTINF:-1,深圳都市
-http://livepull-tcyzb.sztv.com.cn/live/dushi01.m3u8
-#EXTINF:-1,深圳都市
-http://livepull-tcyzb.sztv.com.cn/showto_live/dushi01.m3u8
-#EXTINF:-1,深圳都市
-https://epg.pw/stream/42922b3bab314ce0217fdf746165de08e00d0556ebf961ee63049811baacc5ac.m3u8
-#EXTINF:-1,深圳公共
-http://113.65.4.187:19999/rtp/239.77.1.178:5146
-#EXTINF:-1,深圳公共
-http://113.65.4.187:19999/rtp/239.77.1.126:5146
-#EXTINF:-1,深圳公共
-http://116.23.136.209:4022/rtp/239.77.1.178:5146
-#EXTINF:-1,深圳公共
-http://116.23.136.209:4022/rtp/239.77.1.126:5146
-#EXTINF:-1,深圳公共
-http://119.126.159.38:4000/rtp/239.77.1.178:5146
-#EXTINF:-1,深圳公共
-http://119.126.159.38:4000/rtp/239.77.1.126:5146
-#EXTINF:-1,深圳财经生活
-http://113.65.4.187:19999/rtp/239.77.1.242:5146
-#EXTINF:-1,深圳财经生活
-http://116.23.136.209:4022/rtp/239.77.1.242:5146
-#EXTINF:-1,深圳财经生活
-http://119.126.159.38:4000/rtp/239.77.1.242:5146
-#EXTINF:-1,深圳娱乐
-http://113.65.4.187:19999/rtp/239.77.1.243:5146
-#EXTINF:-1,深圳娱乐
-http://116.23.136.209:4022/rtp/239.77.1.243:5146
-#EXTINF:-1,深圳娱乐
-http://119.126.159.38:4000/rtp/239.77.1.243:5146
-#EXTINF:-1,深圳电视剧
-http://113.65.4.187:19999/rtp/239.77.1.177:5146
-#EXTINF:-1,深圳电视剧
-http://113.65.4.187:19999/rtp/239.77.1.125:5146
-#EXTINF:-1,深圳电视剧
-http://116.23.136.209:4022/rtp/239.77.1.177:5146
-#EXTINF:-1,深圳电视剧
-http://116.23.136.209:4022/rtp/239.77.1.125:5146
-#EXTINF:-1,深圳电视剧
-http://119.126.159.38:4000/rtp/239.77.1.177:5146
-#EXTINF:-1,深圳电视剧
-http://119.126.159.38:4000/rtp/239.77.1.125:5146
-#EXTINF:-1,深圳体育健康
-http://113.65.4.187:19999/rtp/239.77.1.128:5146
-#EXTINF:-1,深圳体育健康
-http://113.65.4.187:19999/rtp/239.77.1.140:5146
-#EXTINF:-1,深圳体育健康
-http://116.23.136.209:4022/rtp/239.77.1.128:5146
-#EXTINF:-1,深圳体育健康
-http://116.23.136.209:4022/rtp/239.77.1.140:5146
-#EXTINF:-1,深圳体育健康
-http://119.126.159.38:4000/rtp/239.77.1.128:5146
-#EXTINF:-1,深圳体育健康
-http://119.126.159.38:4000/rtp/239.77.1.140:5146
-#EXTINF:-1,深圳少儿
-http://113.65.4.187:19999/rtp/239.77.1.244:5146
-#EXTINF:-1,深圳少儿
-http://116.23.136.209:4022/rtp/239.77.1.244:5146
-#EXTINF:-1,深圳少儿
-http://119.126.159.38:4000/rtp/239.77.1.244:5146
-#EXTINF:-1,深圳宝安
-http://113.65.4.187:19999/rtp/239.77.1.67:5146
-#EXTINF:-1,深圳宝安
-http://116.23.136.209:4022/rtp/239.77.1.67:5146
-#EXTINF:-1,深圳宝安
-http://119.126.159.38:4000/rtp/239.77.1.67:5146
-#EXTINF:-1,深圳宝安第一课
-http://116.23.136.209:4022/rtp/239.77.1.225:5146
-#EXTINF:-1,深圳龙岗频道
-http://113.65.4.187:19999/rtp/239.77.1.223:5146
-#EXTINF:-1,深圳龙岗频道
-http://116.23.136.209:4022/rtp/239.77.1.223:5146
-#EXTINF:-1,深圳龙岗频道
-http://119.126.159.38:4000/rtp/239.77.1.223:5146
-#EXTINF:-1,深圳东部
-http://113.65.4.187:19999/rtp/239.77.1.224:5146
-#EXTINF:-1,深圳东部
-http://116.23.136.209:4022/rtp/239.77.1.224:5146
-#EXTINF:-1,深圳东部
-http://119.126.159.38:4000/rtp/239.77.1.224:5146
-#EXTINF:-1,深圳众创TV
-http://113.65.4.187:19999/rtp/239.77.1.247:5146
-#EXTINF:-1,深圳众创TV
-http://116.23.136.209:4022/rtp/239.77.1.247:5146
-#EXTINF:-1,深圳众创TV
-http://119.126.159.38:4000/rtp/239.77.1.247:5146
-#EXTINF:-1,佛山综合
-http://113.65.4.187:19999/rtp/239.253.43.57:5146
-#EXTINF:-1,佛山综合
-http://116.23.136.209:4022/rtp/239.253.43.57:5146
-#EXTINF:-1,佛山综合
-http://119.126.159.38:4000/rtp/239.253.43.57:5146
-#EXTINF:-1,佛山公共
-http://113.65.4.187:19999/rtp/239.253.43.53:5146
-#EXTINF:-1,佛山公共
-http://116.23.136.209:4022/rtp/239.253.43.53:5146
-#EXTINF:-1,佛山公共
-http://119.126.159.38:4000/rtp/239.253.43.53:5146
-#EXTINF:-1,佛山影视
-http://113.65.4.187:19999/rtp/239.253.43.56:5146
-#EXTINF:-1,佛山影视
-http://116.23.136.209:4022/rtp/239.253.43.56:5146
-#EXTINF:-1,佛山影视
-http://119.126.159.38:4000/rtp/239.253.43.56:5146
-#EXTINF:-1,佛山顺德
-http://113.65.4.187:19999/rtp/239.253.43.55:5146
-#EXTINF:-1,佛山顺德
-http://116.23.136.209:4022/rtp/239.253.43.55:5146
-#EXTINF:-1,佛山顺德
-http://119.126.159.38:4000/rtp/239.253.43.55:5146
-#EXTINF:-1,佛山南海
-http://113.65.4.187:19999/rtp/239.253.43.54:5146
-#EXTINF:-1,佛山南海
-http://116.23.136.209:4022/rtp/239.253.43.54:5146
-#EXTINF:-1,佛山南海
-http://119.126.159.38:4000/rtp/239.253.43.54:5146
-#EXTINF:-1,中山综合
-http://113.65.4.187:19999/rtp/239.253.43.62:5146
-#EXTINF:-1,中山综合
-http://116.23.136.209:4022/rtp/239.253.43.62:5146
-#EXTINF:-1,中山综合
-http://119.126.159.38:4000/rtp/239.253.43.62:5146
-#EXTINF:-1,中山公共
-http://113.65.4.187:19999/rtp/239.253.43.63:5146
-#EXTINF:-1,中山公共
-http://116.23.136.209:4022/rtp/239.253.43.63:5146
-#EXTINF:-1,中山公共
-http://119.126.159.38:4000/rtp/239.253.43.63:5146
-#EXTINF:-1,中山教育
-http://113.65.4.187:19999/rtp/239.253.43.64:5146
-#EXTINF:-1,中山教育
-http://116.23.136.209:4022/rtp/239.253.43.64:5146
-#EXTINF:-1,中山教育
-http://119.126.159.38:4000/rtp/239.253.43.64:5146
-#EXTINF:-1,东莞新闻综合
-http://113.65.4.187:19999/rtp/239.253.43.104:5146
-#EXTINF:-1,东莞新闻综合
-http://116.23.136.209:4022/rtp/239.253.43.104:5146
-#EXTINF:-1,东莞新闻综合
-http://119.126.159.38:4000/rtp/239.253.43.104:5146
-#EXTINF:-1,东莞生活资讯
-http://113.65.4.187:19999/rtp/239.253.43.105:5146
-#EXTINF:-1,东莞生活资讯
-http://116.23.136.209:4022/rtp/239.253.43.105:5146
-#EXTINF:-1,东莞生活资讯
-http://119.126.159.38:4000/rtp/239.253.43.105:5146
-#EXTINF:-1,珠海1
-http://113.65.4.187:19999/rtp/239.77.0.155:5146
-#EXTINF:-1,珠海1
-http://116.23.136.209:4022/rtp/239.77.0.155:5146
-#EXTINF:-1,珠海1
-http://119.126.159.38:4000/rtp/239.77.0.155:5146
-#EXTINF:-1,珠海2
-http://113.65.4.187:19999/rtp/239.77.0.154:5146
-#EXTINF:-1,珠海2
-http://116.23.136.209:4022/rtp/239.77.0.154:5146
-#EXTINF:-1,珠海2
-http://119.126.159.38:4000/rtp/239.77.0.154:5146
-#EXTINF:-1,惠州1
-http://113.65.4.187:19999/rtp/239.77.1.232:5146
-#EXTINF:-1,惠州1
-http://116.23.136.209:4022/rtp/239.77.1.232:5146
-#EXTINF:-1,惠州1
-http://119.126.159.38:4000/rtp/239.77.1.232:5146
-#EXTINF:-1,惠州2
-http://113.65.4.187:19999/rtp/239.77.1.233:5146
-#EXTINF:-1,惠州2
-http://116.23.136.209:4022/rtp/239.77.1.233:5146
-#EXTINF:-1,惠州2
-http://119.126.159.38:4000/rtp/239.77.1.233:5146
-#EXTINF:-1,江门综合
-http://113.65.4.187:19999/rtp/239.77.0.201:5146
-#EXTINF:-1,江门综合
-http://116.23.136.209:4022/rtp/239.77.0.201:5146
-#EXTINF:-1,江门综合
-http://119.126.159.38:4000/rtp/239.77.0.201:5146
-#EXTINF:-1,江门公共
-http://113.65.4.187:19999/rtp/239.77.0.202:5146
-#EXTINF:-1,江门公共
-http://116.23.136.209:4022/rtp/239.77.0.202:5146
-#EXTINF:-1,江门公共
-http://119.126.159.38:4000/rtp/239.77.0.202:5146
-#EXTINF:-1,江门教育
-http://113.65.4.187:19999/rtp/239.77.0.203:5146
-#EXTINF:-1,江门教育
-http://116.23.136.209:4022/rtp/239.77.0.203:5146
-#EXTINF:-1,江门教育
-http://119.126.159.38:4000/rtp/239.77.0.203:5146
-#EXTINF:-1,湛江新闻综合
-http://113.65.4.187:19999/rtp/239.77.0.141:5146
-#EXTINF:-1,湛江新闻综合
-http://116.23.136.209:4022/rtp/239.77.0.141:5146
-#EXTINF:-1,湛江新闻综合
-http://119.126.159.38:4000/rtp/239.77.0.141:5146
-#EXTINF:-1,湛江公共
-http://113.65.4.187:19999/rtp/239.77.0.140:5146
-#EXTINF:-1,湛江公共
-http://116.23.136.209:4022/rtp/239.77.0.140:5146
-#EXTINF:-1,湛江公共
-http://119.126.159.38:4000/rtp/239.77.0.140:5146
-#EXTINF:-1,茂名综合
-http://113.65.4.187:19999/rtp/239.77.0.206:5146
-#EXTINF:-1,茂名综合
-http://116.23.136.209:4022/rtp/239.77.0.206:5146
-#EXTINF:-1,茂名综合
-http://119.126.159.38:4000/rtp/239.77.0.206:5146
-#EXTINF:-1,茂名公共
-http://113.65.4.187:19999/rtp/239.77.0.207:5146
-#EXTINF:-1,茂名公共
-http://116.23.136.209:4022/rtp/239.77.0.207:5146
-#EXTINF:-1,茂名公共
-http://119.126.159.38:4000/rtp/239.77.0.207:5146
-#EXTINF:-1,阳江综合
-https://live.yjtvw.com:8081/live/smil:yjtv1.smil/chunklist_b1152000.m3u8
-#EXTINF:-1,阳江综合
-https://live.yjtvw.com:8081/live/smil:yjtv1.smil/chunklist_b3628000.m3u8
-#EXTINF:-1,阳江综合
-https://live.yjtvw.com:8081/live/smil:yjtv1.smil/chunklist_w1166501356_b928000.m3u8
-#EXTINF:-1,阳江综合
-https://live.yjtvw.com:8081/live/smil:yjtv1.smil/chunklist_b1152000.m3u8?zguangd
-#EXTINF:-1,阳江公共
-https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_b1152000.m3u8
-#EXTINF:-1,肇庆综合
-http://113.65.4.187:19999/rtp/239.253.43.1:5146
-#EXTINF:-1,肇庆综合
-http://116.23.136.209:4022/rtp/239.253.43.1:5146
-#EXTINF:-1,肇庆综合
-http://119.126.159.38:4000/rtp/239.253.43.1:5146
-#EXTINF:-1,肇庆生活服务
-http://113.65.4.187:19999/rtp/239.253.43.2:5146
-#EXTINF:-1,肇庆生活服务
-http://116.23.136.209:4022/rtp/239.253.43.2:5146
-#EXTINF:-1,肇庆生活服务
-http://119.126.159.38:4000/rtp/239.253.43.2:5146
-#EXTINF:-1,清远新闻综合
-http://113.65.4.187:19999/rtp/239.253.43.33:5146
-#EXTINF:-1,清远新闻综合
-http://116.23.136.209:4022/rtp/239.253.43.33:5146
-#EXTINF:-1,清远新闻综合
-http://119.126.159.38:4000/rtp/239.253.43.33:5146
-#EXTINF:-1,清远公共
-http://113.65.4.187:19999/rtp/239.253.43.34:5146
-#EXTINF:-1,清远公共
-http://116.23.136.209:4022/rtp/239.253.43.34:5146
-#EXTINF:-1,清远公共
-http://119.126.159.38:4000/rtp/239.253.43.34:5146
-#EXTINF:-1,河源综合
-http://113.65.4.187:19999/rtp/239.253.43.213:5146
-#EXTINF:-1,河源综合
-http://119.126.159.38:4000/rtp/239.253.43.213:5146
-#EXTINF:-1,河源综合
-http://116.23.136.209:4022/rtp/239.253.43.213:5146
-#EXTINF:-1,河源综合
-http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
-#EXTINF:-1,河源综合
-http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8?zguangd
-#EXTINF:-1,河源公共
-http://113.65.4.187:19999/rtp/239.253.43.214:5146
-#EXTINF:-1,河源公共
-http://116.23.136.209:4022/rtp/239.253.43.214:5146
-#EXTINF:-1,河源公共
-http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
-#EXTINF:-1,河源公共
-http://119.126.159.38:4000/rtp/239.253.43.214:5146
-#EXTINF:-1,河源公共
-http://tmpstream.hyrtv.cn/hygg/playlist.m3u8?_upt=c9befc281606112199?zguangd
-#EXTINF:-1,河源公共
-http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8?zguangd
-#EXTINF:-1,河源综艺
-http://tmpstream.hyrtv.cn/xwzh/playlist.m3u8?_upt=407e01941606112151?zguangd
-#EXTINF:-1,云浮综合
-http://113.65.4.187:19999/rtp/239.77.0.253:5146
-#EXTINF:-1,云浮综合
-http://116.23.136.209:4022/rtp/239.77.0.253:5146
-#EXTINF:-1,云浮综合
-http://119.126.159.38:4000/rtp/239.77.0.253:5146
-#EXTINF:-1,云浮文旅
-http://113.65.4.187:19999/rtp/239.77.0.254:5146
-#EXTINF:-1,云浮文旅
-http://116.23.136.209:4022/rtp/239.77.0.254:5146
-#EXTINF:-1,云浮文旅
-http://119.126.159.38:4000/rtp/239.77.0.254:5146
-#EXTINF:-1,韶关新闻综合
-http://113.65.4.187:19999/rtp/239.77.0.117:5146
-#EXTINF:-1,韶关新闻综合
-http://116.23.136.209:4022/rtp/239.77.0.117:5146
-#EXTINF:-1,韶关新闻综合
-http://119.126.159.38:4000/rtp/239.77.0.117:5146
-#EXTINF:-1,韶关绿色生活
-http://113.65.4.187:19999/rtp/239.77.0.119:5146
-#EXTINF:-1,韶关绿色生活
-http://116.23.136.209:4022/rtp/239.77.0.119:5146
-#EXTINF:-1,韶关绿色生活
-http://119.126.159.38:4000/rtp/239.77.0.119:5146
-#EXTINF:-1,汕头综合
-http://113.65.4.187:19999/rtp/239.77.1.130:5146
-#EXTINF:-1,汕头综合
-http://113.65.4.187:19999/rtp/239.253.43.45:5146
-#EXTINF:-1,汕头综合
-http://116.23.136.209:4022/rtp/239.77.1.130:5146
-#EXTINF:-1,汕头综合
-http://116.23.136.209:4022/rtp/239.253.43.45:5146
-#EXTINF:-1,汕头综合
-http://119.126.159.38:4000/rtp/239.77.1.130:5146
-#EXTINF:-1,汕头综合
-http://119.126.159.38:4000/rtp/239.253.43.45:5146
-#EXTINF:-1,汕头经济生活
-http://113.65.4.187:19999/rtp/239.77.1.131:5146
-#EXTINF:-1,汕头经济生活
-http://113.65.4.187:19999/rtp/239.253.43.46:5146
-#EXTINF:-1,汕头经济生活
-http://116.23.136.209:4022/rtp/239.77.1.131:5146
-#EXTINF:-1,汕头经济生活
-http://116.23.136.209:4022/rtp/239.253.43.46:5146
-#EXTINF:-1,汕头经济生活
-http://119.126.159.38:4000/rtp/239.77.1.131:5146
-#EXTINF:-1,汕头经济生活
-http://119.126.159.38:4000/rtp/239.253.43.46:5146
-#EXTINF:-1,汕头文旅体育
-http://113.65.4.187:19999/rtp/239.77.1.132:5146
-#EXTINF:-1,汕头文旅体育
-http://113.65.4.187:19999/rtp/239.253.43.47:5146
-#EXTINF:-1,汕头文旅体育
-http://116.23.136.209:4022/rtp/239.77.1.132:5146
-#EXTINF:-1,汕头文旅体育
-http://116.23.136.209:4022/rtp/239.253.43.47:5146
-#EXTINF:-1,汕头文旅体育
-http://119.126.159.38:4000/rtp/239.77.1.132:5146
-#EXTINF:-1,汕头文旅体育
-http://119.126.159.38:4000/rtp/239.253.43.47:5146
-#EXTINF:-1,汕尾新闻
-http://113.65.4.187:19999/rtp/239.77.0.25:5146
-#EXTINF:-1,汕尾新闻
-http://116.23.136.209:4022/rtp/239.77.0.25:5146
-#EXTINF:-1,汕尾新闻
-http://119.126.159.38:4000/rtp/239.77.0.25:5146
-#EXTINF:-1,汕尾文化
-http://113.65.4.187:19999/rtp/239.77.0.187:5146
-#EXTINF:-1,汕尾文化
-http://116.23.136.209:4022/rtp/239.77.0.187:5146
-#EXTINF:-1,汕尾文化
-http://119.126.159.38:4000/rtp/239.77.0.187:5146
-#EXTINF:-1,揭阳综合
-http://113.65.4.187:19999/rtp/239.77.0.229:5146
-#EXTINF:-1,揭阳综合
-http://116.23.136.209:4022/rtp/239.77.0.229:5146
-#EXTINF:-1,揭阳综合
-http://119.126.159.38:4000/rtp/239.77.0.229:5146
-#EXTINF:-1,揭阳公共
-http://113.65.4.187:19999/rtp/239.77.0.251:5146
-#EXTINF:-1,揭阳公共
-http://116.23.136.209:4022/rtp/239.77.0.251:5146
-#EXTINF:-1,揭阳公共
-http://119.126.159.38:4000/rtp/239.77.0.251:5146
-#EXTINF:-1,广东文化
-https://glive.grtn.cn/live/wenhua_test0203.m3u8
-#EXTINF:-1,广东文化
-https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935?zguangd
-#EXTINF:-1,广东文化
-https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1612881417-0-0-bc7ddba066481bc805fc1e800654e721?zguangd
+#EXTINF:-1 ,TVB翡翠
+http://tvpo1.rbq.plus/jade/jade.stream/chunklist.m3u8
+#EXTINF:-1 ,TVB翡翠
+http://r.jdshipin.com/jUx8K
+#EXTINF:-1 ,TVB新闻
+https://epg.pw/stream/61f17fbba48271a6195cb5969b4207d5b152993ad4f225b88ec13c630863bb84.ctv
+#EXTINF:-1 ,TVB新闻
+https://epg.pw/stream/910ef14a8e43064a71b46c9cd8c9dbc07a743742a2e048372936aacfa2c0db53.ctv
+#EXTINF:-1 ,TVB新闻
+https://epg.pw/stream/9eba5b8c19187b49a71080ebc17c848c15a04a9b099e571d376374d8ab99f3cf.ctv
+#EXTINF:-1 ,TVB新闻
+https://epg.pw/stream/ba4c5958a71b186772a834e2e0874a3d3389f9dc41d3d563c50dc07273c38b8e.ctv
+#EXTINF:-1 ,TVB新闻
+http://live.cooltv.top/tv/tvb.php?id=0&hq
+#EXTINF:-1 ,TVB财经
+http://live.cooltv.top/tv/tvb.php?id=2
+#EXTINF:-1 ,TVB娱乐
+http://tvpo1.rbq.plus/enew/enew.stream/chunklist.m3u8
+#EXTINF:-1 ,TVB星河
+http://tvpo1.rbq.plus/xinghe/xinghe.stream/chunklist.m3u8
+#EXTINF:-1 ,TVB星河
+http://113.117.74.12:8081/hls/135/index.m3u8
+#EXTINF:-1 ,凤凰中文
+https://epg.pw/stream/04d5312720840d7ba52a50e5a467be96fcc95711a3d1a8a4c347799e9ad4aff8.ctv
+#EXTINF:-1 ,凤凰中文
+https://epg.pw/stream/613dfcc9b6a4ebb73ea2afb51ebdedd8c85f00bd306f704d5cce3541ee90006a.ctv
+#EXTINF:-1 ,凤凰中文
+http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+#EXTINF:-1 ,凤凰中文
+http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1668336154&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
+#EXTINF:-1 ,凤凰中文
+http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+#EXTINF:-1 ,凤凰中文
+http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
+#EXTINF:-1 ,凤凰中文
+http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+#EXTINF:-1 ,凤凰中文
+http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1668336354&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
+#EXTINF:-1 ,凤凰中文
+http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+#EXTINF:-1 ,凤凰中文
+http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+#EXTINF:-1 ,凤凰资讯
+http://gwtv.cnv8.tv:8097/phoenixinfo_hd/playlist.m3u8?tid=MB5B7253262872532628&ct=19249&tsum=e2b2dcd00f39adb64b6c03601da1e0e0
+#EXTINF:-1 ,凤凰资讯
+http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1674373416&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
+#EXTINF:-1 ,凤凰资讯
+http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+#EXTINF:-1 ,凤凰香港
+http://gwtv.cnv8.tv:8097/hkphoenix_twn/playlist.m3u8?tid=MD0D2495250724952507&ct=19249&tsum=b1c0a577a7f4aaa9af143d124ba24a40
+#EXTINF:-1 ,凤凰香港
+http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
+#EXTINF:-1 ,东方影视
+http://[2409:8087:1e03:21::34]:6610/cms001/ch00000090990000001016/index.m3u8?IASHttpSessionId=RR8275420230310002030000839
+#EXTINF:-1 ,纪实人文
+http://r.wylc.top:8888/rtp/239.93.1.137:5140
+#EXTINF:-1 ,纪实人文
+http://www.icancloud.top:8888/udp/239.3.1.212:8060
+#EXTINF:-1 ,纪实人文
+http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001330/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 ,生活时尚
+http://r.wylc.top:8888/rtp/239.93.42.29:5140
+#EXTINF:-1 ,金色学堂
+http://218.67.172.50:8888/rtp/225.1.1.236:5002
+#EXTINF:-1 ,乐游频道
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226580/1.m3u8
+#EXTINF:-1 ,乐游频道
+http://218.67.172.50:8888/rtp/225.1.1.145:5002
+#EXTINF:-1 ,崇明电视台
+https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8?zshangd
+#EXTINF:-1 ,嘉定电视台
+https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8?zshangd
+#EXTINF:-1 ,天津新闻
+http://218.67.172.50:8888/rtp/225.1.1.130:5002
+#EXTINF:-1 ,天津都市
+http://218.67.172.50:8888/rtp/225.1.1.128:5002
+#EXTINF:-1 ,天津文艺
+http://218.67.172.50:8888/rtp/225.1.1.131:5002
+#EXTINF:-1 ,天津影视
+http://218.67.172.50:8888/rtp/225.1.1.149:5002
+#EXTINF:-1 ,天津体育
+http://218.67.172.50:8888/rtp/225.1.1.122:5002
+#EXTINF:-1 ,天津科教
+http://218.67.172.50:8888/rtp/225.1.1.129:5002
+#EXTINF:-1 ,天津少儿
+http://218.67.172.50:8888/rtp/225.1.1.125:5002
+#EXTINF:-1 ,天津IPTV
+http://218.67.172.50:8888/rtp/225.1.2.123:5002
+#EXTINF:-1 ,河西卫视
+http://218.67.172.50:8888/rtp/225.1.2.4:5002
+#EXTINF:-1 ,蓟州卫视
+http://218.67.172.50:8888/rtp/225.1.1.82:5002
+#EXTINF:-1 ,静海卫视
+http://218.67.172.50:8888/rtp/225.1.1.110:5002
+#EXTINF:-1 ,台视新闻
+https://epg.pw/stream/99c76a0c6b9a016e6e5be2b10a8c0917397770f1e80de3ab361f290940eb0a40.ctv
+#EXTINF:-1 ,中视经典
+http://198.16.100.90:8278/zhongshi_twn/playlist.m3u8?tid=14379667&ct=17988&tsum=de63d02f44741580b5070077d1949841
+#EXTINF:-1 ,三立新闻
+https://epg.pw/stream/a2330bdca96a3420aa2a0558fee3e7a27377acf939e88305f7d3c66e9c5b1a15.ctv
+#EXTINF:-1 ,TVBS新闻
+http://gwtv.cnv8.tv:8097/tvbs_n/playlist.m3u8?tid=MA4A2233260122332601&ct=19249&tsum=513a9dcb42fa8b98e1792d513dd3e2ee
+#EXTINF:-1 ,TVBS新闻
+http://gwtv.cnv8.tv:8097/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733&ct=19193&tsum=38970ab977b9e318cbead37db4134eb8
+#EXTINF:-1 ,TVBS欢乐
+http://gwtv.cnv8.tv:8097/tvbshuanle_twn/playlist.m3u8?tid=MA5A9262292692622926&ct=19254&tsum=cd369d68a5d2c1a2fa04df748cda142c
+#EXTINF:-1 ,TVBS欢乐
+http://gwtv.cnv8.tv:8097/tvbshuanle_twn/playlist.m3u8?ct=19193&tid=MC8C2318787923187879&tsum=394d2b9af3df7846e2cdc60d69dd4219
+#EXTINF:-1 ,TVBS欢乐
+http://gwtv.cnv8.tv:8097/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111409641114096&ct=19225&tsum=600f3056bba6413dec3155efd19e2d20
+#EXTINF:-1 ,南京少儿
+http://live.nbs.cn/channels/njtv/sepd/500k.m3u8
+#EXTINF:-1 ,南京少儿
+http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
+#EXTINF:-1 ,南京江宁新闻综合
+https://jiangning-tv-hls.cm.jstv.com/jiangning-tv/jnxwzh.m3u8?zjiangsd
+#EXTINF:-1 ,南通新闻综合
+http://zjtv-wshls.homecdn.com/live/7cc9.m3u8
+#EXTINF:-1 ,南通都市生活
+http://zjtv-wshls.homecdn.com/live/7cc7.m3u8
+#EXTINF:-1 ,南通影视娱乐
+http://zjtv-wshls.homecdn.com/live/7cc5.m3u8
+#EXTINF:-1 ,连云港新闻综合
+http://180.126.101.50:8800/rtp/239.49.1.244:6000
+#EXTINF:-1 ,连云港公共频道
+http://180.126.101.50:8800/rtp/239.49.1.245:6000
+#EXTINF:-1 ,宿迁综合
+http://180.126.101.50:8800/rtp/239.49.1.140:6000
+#EXTINF:-1 ,宿迁公共
+http://180.126.101.50:8800/rtp/239.49.1.123:6000
+#EXTINF:-1 ,宿迁泗阳综合
+http://180.126.101.50:8800/rtp/239.49.1.103:6000
+#EXTINF:-1 ,宁波新闻综合
+http://www.372583307.top:4022/udp/233.50.201.168:5140
+#EXTINF:-1 ,宁波经济生活
+http://www.372583307.top:4022/udp/233.50.201.178:5140
+#EXTINF:-1 ,宁波都市文体
+http://www.372583307.top:4022/udp/233.50.201.179:5140
+#EXTINF:-1 ,安徽经济生活
+http://223.240.229.142:8888/rtp/238.1.79.44:4464
+#EXTINF:-1 ,安徽公共
+http://223.240.229.142:8888/rtp/238.1.79.43:4456
+#EXTINF:-1 ,安徽影视
+http://223.240.229.142:8888/rtp/238.1.79.42:4448
+#EXTINF:-1 ,安徽农业科教
+http://223.240.229.142:8888/rtp/238.1.79.40:4432
+#EXTINF:-1 ,安徽综艺体育
+http://223.240.229.142:8888/rtp/238.1.79.41:4440
+#EXTINF:-1 ,安徽国际
+http://223.240.229.142:8888/rtp/238.1.78.61:6360
+#EXTINF:-1 ,池州新闻综合
+http://cm.wshls.homecdn.com/live/4abdd.m3u8
+#EXTINF:-1 ,淮河能源
+http://play.hhnynews.com/hhny/zhpd.m3u8?auth_key=1659380497-0-0-b07e3e3cd99f9355b6aa1e79fbd305f2
+#EXTINF:-1 ,山东新闻
+http://livealone.iqilu.com/iqilu/ggpdhjOF03kn.flv
+#EXTINF:-1 ,山东新闻
+https://epg.pw/stream/df596aabef19d13e9bbd460f86089bc10de5facf7620b644d048039aa5897b4a.ctv
+#EXTINF:-1 ,山东新闻
+https://epg.pw/stream/5dd8b1ea004c133413b818ff7c7cfe9e4405f349e646fcc46a20bbbef2d29c4b.ctv
+#EXTINF:-1 ,山东齐鲁
+http://livealone.iqilu.com/iqilu/qlpdhjOF03kn.flv
+#EXTINF:-1 ,山东齐鲁
+https://epg.pw/stream/6c4e21cbaeb782437d877c48c3f881bf451b39ff6e8c9c321af07377be797daf.ctv
+#EXTINF:-1 ,山东齐鲁
+https://epg.pw/stream/9c157ca38c42b52f267f0889dd08e87d87b3e0b74b95d576dcee2124a26cd9e1.ctv
+#EXTINF:-1 ,山东文旅
+https://epg.pw/stream/7041017ae660257cd43378e5b3a05a57080228b6780e5fe39a3ebc23d5e8372f.ctv
+#EXTINF:-1 ,山东文旅
+https://epg.pw/stream/ceb858fae6a86785f06351a95fe568beceea064dd764bcb159e8c0d878dd619c.ctv
+#EXTINF:-1 ,山东综艺
+http://livealone.iqilu.com/iqilu/zypdhjOF03kn.flv
+#EXTINF:-1 ,山东综艺
+https://epg.pw/stream/6334faf08ea4d44fc7b4b5ed9d592d84352a8fb274dfd7f09d730e25326e19d6.ctv
+#EXTINF:-1 ,山东综艺
+https://epg.pw/stream/29bf13bf902bc1ae9b04bc7299c6d15d2ef0ff9debe831b806f3ebe8a1659096.ctv
+#EXTINF:-1 ,山东生活
+http://livealone.iqilu.com/iqilu/shpdhjOF03kn.flv
+#EXTINF:-1 ,山东生活
+https://epg.pw/stream/1f1a398f7fc5784d4bd855f7e0f4f85b4f653d3b60e6074ffe19b76e22f64556.ctv
+#EXTINF:-1 ,山东生活
+https://epg.pw/stream/05c57c784213e52b6da111a2a345031031bdd9f3b9bff84bc26812c0702c0919.ctv
+#EXTINF:-1 ,山东农科
+http://livealone.iqilu.com/iqilu/nkpdhjOF03kn.flv
+#EXTINF:-1 ,山东农科
+https://epg.pw/stream/5834ded0332e5858a5dd30a552eb919232e442d60393f22f9a97cee9efa27bda.ctv
+#EXTINF:-1 ,山东农科
+https://epg.pw/stream/441961e7032ed1012b3f9792d471064adacfc61891d65acc65fc8d68126262f6.ctv
+#EXTINF:-1 ,山东体育
+http://livealone.iqilu.com/iqilu/typdhjOF03kn.flv
+#EXTINF:-1 ,山东少儿
+http://livealone.iqilu.com/iqilu/sepdhjOF03kn.flv
+#EXTINF:-1 ,山东少儿
+https://epg.pw/stream/ed13a4e9ffe04579a88d7b09027e3e4e29c96a8a116fbcb81f0d618361eee304.ctv
+#EXTINF:-1 ,山东少儿
+https://epg.pw/stream/e7b01782be09159d60f2be34b9f8554b4eb88ae9ce4368ae8df80e701468e15a.ctv
+#EXTINF:-1 ,济南济阳综合
+http://lu1.cc/itv/php/iqilu.php?id=jnjyzh
+#EXTINF:-1 ,济南平阴乡村振兴
+http://lu1.cc/itv/php/iqilu.php?id=jnpysh
+#EXTINF:-1 ,烟台海阳综合
+http://blivealone.litenews.cn/b255/c67ee0d48a584f9f8dab1f5ee174591b.flv
+#EXTINF:-1 ,烟台莱山综合
+http://blivealone.litenews.cn/b245/7629b128b344426e85395bf9fb8aeaa6.flv
+#EXTINF:-1 ,烟台莱山影视
+http://blivealone.litenews.cn/b245/bddf865636804b3d943b81a89fdf90de.flv
+#EXTINF:-1 ,菏泽鄄城综合
+http://blivealone.litenews.cn/b141/bdc2125bc05546ce8a02e7b58747a518.flv
+#EXTINF:-1 ,菏泽鄄城综艺
+http://blivealone.litenews.cn/b141/e5806b27ce0843ed8e9709cfd684fa7c.flv
+#EXTINF:-1 ,威海都市生活
+http://l2.weihai.tv:8081/hls/g16E3482eI.m3u8
+#EXTINF:-1 ,日照莒县生活
+http://lu1.cc/itv/php/iqilu.php?id=rzjx3
+#EXTINF:-1 ,济宁微山综合
+http://blivealone.litenews.cn/b53/8c38a7404fcc41eebbe40b8abc09eae0.flv
+#EXTINF:-1 ,济宁微山-2
+http://blivealone.litenews.cn/b53/fc030a672e9a4ee1a076a11622029429.flv
+#EXTINF:-1 ,济宁邹城综合
+http://blivealone.litenews.cn/b181/aa7efd7814e84d48b176f505003ffc40.flv
+#EXTINF:-1 ,济宁邹城文化生活
+http://blivealone.litenews.cn/b181/9e9ff94026554c9682386c91559888f2.flv
+#EXTINF:-1 ,聊城东阿综合
+http://blivealone.litenews.cn/b95/e9d4c1a139b0476f87562509d2ef7c12.flv
+#EXTINF:-1 ,聊城高唐
+http://blivealone.litenews.cn/b95/f7669543b5fb4497a9d9b2a0b65c0d50.flv
+#EXTINF:-1 ,聊城沂南红色影视
+http://lu1.cc/itv/php/iqilu.php?id=lyynwq
+#EXTINF:-1 ,泰安岱岳
+http://lu1.cc/itv/sdtv/ta_dytv.html
+#EXTINF:-1 ,临沂罗庄综合
+http://lu1.cc/itv/php/iqilu.php?id=lylzzh
+#EXTINF:-1 ,临沂罗庄影视
+http://lu1.cc/itv/php/iqilu.php?id=lylzys
+#EXTINF:-1 ,四川新闻
+http://r.wylc.top:8888/rtp/239.93.0.47:5140
+#EXTINF:-1 ,乐山沐川综合
+http://tvfile.mcrm.org.cn/nmip-media/channellive/channel103064/playlist.m3u8?zsicd
+#EXTINF:-1 ,长沙政法
+https://epg.pw/stream/8d472a4ab853362a492011cc62bb83e76e356f3292c779027a81280366feca5a.m3u8湘潭新闻综合,http://api.52tb.xyz/info?id=570&token=20230314vyrzsx
+#EXTINF:-1 ,江西教育
+http://php.jdshipin.com:8880/iptv.php?id=jxjy
+#EXTINF:-1 ,福建综合
+http://36.249.151.144:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,福建综合
+http://222.76.104.42:4022/rtp/239.61.3.4:9542
+#EXTINF:-1 ,福建综合
+http://222.76.104.42:4022/rtp/239.61.2.1:8000
+#EXTINF:-1 ,福建新闻
+http://36.249.151.144:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,福建新闻
+http://222.76.104.42:4022/rtp/239.61.2.4:8018
+#EXTINF:-1 ,福建经济
+http://36.249.151.144:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,福建经济
+http://222.76.104.42:4022/rtp/239.61.2.7:8036
+#EXTINF:-1 ,福建公共
+http://36.249.151.144:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,福建公共
+http://222.76.104.42:4022/rtp/239.61.2.3:8012
+#EXTINF:-1 ,福建电视剧
+http://36.249.151.144:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,福建电视剧
+http://222.76.104.42:4022/rtp/239.61.2.5:8024
+#EXTINF:-1 ,福建文体
+http://36.249.151.144:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,福建文体
+http://222.76.104.42:4022/rtp/239.61.2.6:8030
+#EXTINF:-1 ,福建教育
+http://222.76.104.42:4022/rtp/239.61.2.173:9026
+#EXTINF:-1 ,福建体育
+http://222.76.104.42:4022/rtp/239.61.2.160:8948
+#EXTINF:-1 ,福建少儿
+http://36.249.151.144:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,福建少儿
+http://222.76.104.42:4022/rtp/239.61.2.9:8048
+#EXTINF:-1 ,厦门卫视
+http://222.76.104.42:4022/rtp/239.61.2.11:8060
+#EXTINF:-1 ,厦门1套
+http://222.76.104.42:4022/rtp/239.61.3.55:9848
+#EXTINF:-1 ,厦门2套
+http://222.76.104.42:4022/rtp/239.61.3.56:9854
+#EXTINF:-1 ,广西新闻
+http://220.173.254.227:6666/rtp/239.81.0.248:4056
+#EXTINF:-1 ,广西都市
+http://220.173.254.227:6666/rtp/239.81.0.247:4056
+#EXTINF:-1 ,广西公共
+http://220.173.254.227:6666/rtp/239.81.0.6:4056
+#EXTINF:-1 ,广西综艺
+http://220.173.254.227:6666/rtp/239.81.0.214:4056
+#EXTINF:-1 ,广西影视
+http://220.173.254.227:6666/rtp/239.81.0.250:4056
+#EXTINF:-1 ,河南新闻
+http://219.156.52.203:4000/rtp/225.1.4.56:1085
+#EXTINF:-1 ,河南公共
+http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41106/index.m3u8
+#EXTINF:-1 ,河南都市
+http://123.6.9.146/live/jz-henandushi/live.m3u8?zhend
+#EXTINF:-1 ,河南都市
+http://219.156.52.203:4000/rtp/225.1.4.52:1081
+#EXTINF:-1 ,河南公共
+http://219.156.52.203:4000/rtp/225.1.4.58:1087
+#EXTINF:-1 ,河南民生
+http://123.6.9.146/live/jz-henanminsheng/live.m3u8?zhend
+#EXTINF:-1 ,河南民生
+http://219.156.52.203:4000/rtp/225.1.4.53:1082
+#EXTINF:-1 ,河南法治
+http://219.156.52.203:4000/rtp/225.1.4.54:1083
+#EXTINF:-1 ,河南乡村
+http://219.156.52.203:4000/rtp/225.1.4.120:1149
+#EXTINF:-1 ,河南电视剧
+http://219.156.52.203:4000/rtp/225.1.4.55:1084
+#EXTINF:-1 ,河南国际
+http://219.156.52.203:4000/rtp/225.1.4.102:1131
+#EXTINF:-1 ,河南移动
+http://219.156.52.203:4000/rtp/225.1.5.40:1350
+#EXTINF:-1 ,梨园频道
+http://106.113.134.21:2222/rtp/239.254.201.231:7228
+#EXTINF:-1 ,梨园频道
+http://218.67.172.50:8888/rtp/225.1.2.104:5002
+#EXTINF:-1 ,梨园频道
+http://219.156.52.203:4000/rtp/225.1.4.99:1128
+#EXTINF:-1 ,武术世界
+http://106.113.134.21:2222/rtp/239.254.201.224:7229
+#EXTINF:-1 ,武术世界
+http://218.67.172.50:8888/rtp/225.1.2.129:5002
+#EXTINF:-1 ,武术世界
+http://219.156.52.203:4000/rtp/225.1.4.101:1130
+#EXTINF:-1 ,郑州新闻综合
+http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41112/index.m3u8
+#EXTINF:-1 ,河北都市
+http://106.113.134.21:2222/rtp/239.254.200.19:6000
+#EXTINF:-1 ,河北经济生活
+http://106.113.134.21:2222/rtp/239.254.200.18:6000
+#EXTINF:-1 ,河北影视
+http://api.52tb.xyz/info?id=483&token=20230314vyrzsx
+#EXTINF:-1 ,河北少儿科教
+http://106.113.134.21:2222/rtp/239.254.200.21:6000
+#EXTINF:-1 ,河北公共
+http://106.113.134.21:2222/rtp/239.254.200.22:6000
+#EXTINF:-1 ,河北农民
+http://106.113.134.21:2222/rtp/239.254.200.23:6000
+#EXTINF:-1 ,河北影视剧
+http://106.113.134.21:2222/rtp/239.254.200.20:6000
+#EXTINF:-1 ,睛彩河北
+http://106.113.134.21:2222/rtp/239.254.200.27:6000
+#EXTINF:-1 ,石家庄新闻综合
+http://106.113.134.21:2222/rtp/239.254.200.157:6000
+#EXTINF:-1 ,石家庄都市
+http://106.113.134.21:2222/rtp/239.254.200.31:6000
+#EXTINF:-1 ,石家庄生活
+http://cu4.iblink.cn:8000/udp/239.253.92.94:8121
+#EXTINF:-1 ,石家庄生活
+http://106.113.134.21:2222/rtp/239.254.200.30:6000
+#EXTINF:-1 ,石家庄娱乐
+http://106.113.134.21:2222/rtp/239.254.200.29:6000
+#EXTINF:-1 ,石家庄高邑综合
+http://106.113.134.21:2222/rtp/239.254.201.24:5170
+#EXTINF:-1 ,石家庄晋州综合
+http://106.113.134.21:2222/rtp/239.254.201.127:5184
+#EXTINF:-1 ,石家庄井陉矿区综合
+http://106.113.134.21:2222/rtp/239.254.201.14:5175
+#EXTINF:-1 ,石家庄井陉综合
+http://106.113.134.21:2222/rtp/239.254.201.215:6167
+#EXTINF:-1 ,石家庄鹿泉综合
+http://106.113.134.21:2222/rtp/239.254.201.204:6166
+#EXTINF:-1 ,石家庄栾城综合
+http://106.113.134.21:2222/rtp/239.254.200.215:5173
+#EXTINF:-1 ,石家庄深泽综合
+http://106.113.134.21:2222/rtp/239.254.201.108:5180
+#EXTINF:-1 ,石家庄无极综合
+http://106.113.134.21:2222/rtp/239.254.200.220:5167
+#EXTINF:-1 ,石家庄元氏综合
+http://106.113.134.21:2222/rtp/239.254.200.191:5169
+#EXTINF:-1 ,石家庄赞皇综合
+http://106.113.134.21:2222/rtp/239.254.200.244:5177
+#EXTINF:-1 ,石家庄赵县综合
+http://106.113.134.21:2222/rtp/239.254.201.111:5183
+#EXTINF:-1 ,唐山新闻综合
+http://106.113.134.21:2222/rtp/239.254.200.166:6000
+#EXTINF:-1 ,唐山生活服务
+http://106.113.134.21:2222/rtp/239.254.200.167:6000
+#EXTINF:-1 ,唐山影视
+http://106.113.134.21:2222/rtp/239.254.200.168:6000
+#EXTINF:-1 ,唐山公共
+http://106.113.134.21:2222/rtp/239.254.200.169:6000
+#EXTINF:-1 ,唐山丰南综合
+http://106.113.134.21:2222/rtp/239.254.200.218:5186
+#EXTINF:-1 ,唐山丰润综合
+http://106.113.134.21:2222/rtp/239.254.201.58:5197
+#EXTINF:-1 ,唐山乐亭综合
+http://106.113.134.21:2222/rtp/239.254.201.107:5200
+#EXTINF:-1 ,唐山滦南综合
+http://106.113.134.21:2222/rtp/239.254.201.22:5191
+#EXTINF:-1 ,唐山滦州综合
+http://106.113.134.21:2222/rtp/239.254.201.30:5196
+#EXTINF:-1 ,唐山迁安综合
+http://106.113.134.21:2222/rtp/239.254.201.109:5199
+#EXTINF:-1 ,唐山迁西综合
+http://106.113.134.21:2222/rtp/239.254.201.26:5188
+#EXTINF:-1 ,唐山玉田综合
+http://106.113.134.21:2222/rtp/239.254.201.28:5194
+#EXTINF:-1 ,唐山遵化综合
+http://106.113.134.21:2222/rtp/239.254.201.146:5202
+#EXTINF:-1 ,廊坊新闻
+http://106.113.134.21:2222/rtp/239.254.200.183:6000
+#EXTINF:-1 ,廊坊公共
+http://106.113.134.21:2222/rtp/239.254.200.184:6000
+#EXTINF:-1 ,廊坊霸州综合
+http://106.113.134.21:2222/rtp/239.254.200.4:5313
+#EXTINF:-1 ,廊坊大厂一套
+http://106.113.134.21:2222/rtp/239.254.201.71:5310
+#EXTINF:-1 ,廊坊大城综合
+http://106.113.134.21:2222/rtp/239.254.201.34:5308
+#EXTINF:-1 ,廊坊固安综合
+http://106.113.134.21:2222/rtp/239.254.201.101:5312
+#EXTINF:-1 ,廊坊三河综合
+http://106.113.134.21:2222/rtp/239.254.201.113:5315
+#EXTINF:-1 ,廊坊文安综合
+http://106.113.134.21:2222/rtp/239.254.201.103:5314
+#EXTINF:-1 ,廊坊香河综合
+http://106.113.134.21:2222/rtp/239.254.201.32:5306
+#EXTINF:-1 ,廊坊永清综合
+http://106.113.134.21:2222/rtp/239.254.201.141:5316
+#EXTINF:-1 ,沧州新闻综合
+http://106.113.134.21:2222/rtp/239.254.200.42:6000
+#EXTINF:-1 ,沧州公共
+http://106.113.134.21:2222/rtp/239.254.200.43:6000
+#EXTINF:-1 ,沧州影视娱乐
+http://106.113.134.21:2222/rtp/239.254.200.44:6000
+#EXTINF:-1 ,保定涿州综合
+http://106.113.134.21:2222/rtp/239.254.201.17:5261
+#EXTINF:-1 ,沧州渤海综合
+http://106.113.134.21:2222/rtp/239.254.201.35:5327
+#EXTINF:-1 ,沧州东光综合
+http://106.113.134.21:2222/rtp/239.254.201.76:5331
+#EXTINF:-1 ,沧州黄骅综合
+http://106.113.134.21:2222/rtp/239.254.201.36:5325
+#EXTINF:-1 ,沧州孟村综合
+http://106.113.134.21:2222/rtp/239.254.201.38:5329
+#EXTINF:-1 ,沧州南皮综合
+http://106.113.134.21:2222/rtp/239.254.201.119:5335
+#EXTINF:-1 ,沧州青县综合
+http://106.113.134.21:2222/rtp/239.254.201.112:5333
+#EXTINF:-1 ,邯郸新闻综合
+http://106.113.134.21:2222/rtp/239.254.200.153:6000
+#EXTINF:-1 ,邯郸公共
+http://106.113.134.21:2222/rtp/239.254.200.154:6000
+#EXTINF:-1 ,邯郸科技教育
+http://106.113.134.21:2222/rtp/239.254.200.155:6000
+#EXTINF:-1 ,邯郸成安综合
+http://106.113.134.21:2222/rtp/239.254.201.143:6210
+#EXTINF:-1 ,邯郸大名综合
+http://106.113.134.21:2222/rtp/239.254.201.149:6212
+#EXTINF:-1 ,邯郸馆陶综合
+http://106.113.134.21:2222/rtp/239.254.201.106:5224
+#EXTINF:-1 ,邯郸广平综合
+http://106.113.134.21:2222/rtp/239.254.201.70:5220
+#EXTINF:-1 ,邯郸邯山综合
+http://106.113.134.21:2222/rtp/239.254.201.116:5225
+#EXTINF:-1 ,邯郸临漳综合
+http://106.113.134.21:2222/rtp/239.254.201.73:5221
+#EXTINF:-1 ,邯郸邱县综合
+http://106.113.134.21:2222/rtp/239.254.201.129:6209
+#EXTINF:-1 ,邯郸涉县综合
+http://106.113.134.21:2222/rtp/239.254.201.97:5222
+#EXTINF:-1 ,邯郸魏县综合
+http://106.113.134.21:2222/rtp/239.254.201.148:6211
+#EXTINF:-1 ,邯郸武安综合
+http://106.113.134.21:2222/rtp/239.254.201.6:5216
+#EXTINF:-1 ,承德丰宁综合
+http://106.113.134.21:2222/rtp/239.254.200.5:5290
+#EXTINF:-1 ,承德康保综合
+http://106.113.134.21:2222/rtp/239.254.201.135:5270
+#EXTINF:-1 ,承德隆化综合
+http://106.113.134.21:2222/rtp/239.254.201.142:5296
+#EXTINF:-1 ,承德滦平综合
+http://106.113.134.21:2222/rtp/239.254.201.4:5291
+#EXTINF:-1 ,承德平泉综合
+http://106.113.134.21:2222/rtp/239.254.200.177:5286
+#EXTINF:-1 ,承德双滦综合
+http://106.113.134.21:2222/rtp/239.254.201.63:5293
+#EXTINF:-1 ,承德兴隆综合
+http://106.113.134.21:2222/rtp/239.254.201.95:5295
+#EXTINF:-1 ,秦皇岛新闻综合
+http://106.113.134.21:2222/rtp/239.254.200.39:6000
+#EXTINF:-1 ,秦皇岛公共
+http://106.113.134.21:2222/rtp/239.254.200.40:6000
+#EXTINF:-1 ,秦皇岛影视
+http://106.113.134.21:2222/rtp/239.254.200.41:6000
+#EXTINF:-1 ,秦皇岛昌黎综合
+http://106.113.134.21:2222/rtp/239.254.201.61:5230
+#EXTINF:-1 ,秦皇岛抚宁综合
+http://106.113.134.21:2222/rtp/239.254.201.213:5232
+#EXTINF:-1 ,秦皇岛卢龙综合
+http://106.113.134.21:2222/rtp/239.254.201.216:5233
+#EXTINF:-1 ,邢台综合
+http://106.113.134.21:2222/rtp/239.254.200.150:6000
+#EXTINF:-1 ,邢台城市生活
+http://106.113.134.21:2222/rtp/239.254.200.152:6000
+#EXTINF:-1 ,邢台肥乡综合
+http://106.113.134.21:2222/rtp/239.254.201.105:5223
+#EXTINF:-1 ,邢台鸡泽综合
+http://106.113.134.21:2222/rtp/239.254.201.60:5218
+#EXTINF:-1 ,邢台隆尧综合
+http://106.113.134.21:2222/rtp/239.254.201.69:5379
+#EXTINF:-1 ,邢台南宫综合
+http://106.113.134.21:2222/rtp/239.254.201.48:5371
+#EXTINF:-1 ,邢台南和综合
+http://106.113.134.21:2222/rtp/239.254.201.72:6000
+#EXTINF:-1 ,邢台内丘综合
+http://106.113.134.21:2222/rtp/239.254.201.77:5380
+#EXTINF:-1 ,邢台宁晋综合
+http://106.113.134.21:2222/rtp/239.254.201.51:5375
+#EXTINF:-1 ,邢台平乡综合
+http://106.113.134.21:2222/rtp/239.254.201.53:5378
+#EXTINF:-1 ,邢台曲周综合
+http://106.113.134.21:2222/rtp/239.254.200.236:5210
+#EXTINF:-1 ,邢台任县综合
+http://106.113.134.21:2222/rtp/239.254.201.115:5381
+#EXTINF:-1 ,邢台沙河综合
+http://106.113.134.21:2222/rtp/239.254.200.181:5369
+#EXTINF:-1 ,张家口新闻综合
+http://106.113.134.21:2222/rtp/239.254.200.35:6000
+#EXTINF:-1 ,张家口赤城综合
+http://106.113.134.21:2222/rtp/239.254.201.131:5269
+#EXTINF:-1 ,张家口崇礼综合
+http://106.113.134.21:2222/rtp/239.254.201.117:5267
+#EXTINF:-1 ,张家口张北综合
+http://106.113.134.21:2222/rtp/239.254.201.130:5271
+#EXTINF:-1 ,张家口涿鹿综合
+http://106.113.134.21:2222/rtp/239.254.201.145:5272
+#EXTINF:-1 ,衡水新闻综合
+http://106.113.134.21:2222/rtp/239.254.200.147:6000
+#EXTINF:-1 ,衡水公共
+http://106.113.134.21:2222/rtp/239.254.200.149:6000
+#EXTINF:-1 ,衡水阜城综合
+http://106.113.134.21:2222/rtp/239.254.201.98:5361
+#EXTINF:-1 ,衡水故城综合
+http://106.113.134.21:2222/rtp/239.254.201.126:5362
+#EXTINF:-1 ,衡水广宗综合
+http://106.113.134.21:2222/rtp/239.254.201.50:5373
+#EXTINF:-1 ,衡水冀州综合
+http://106.113.134.21:2222/rtp/239.254.200.179:5346
+#EXTINF:-1 ,衡水景县综合
+http://106.113.134.21:2222/rtp/239.254.200.240:5350
+#EXTINF:-1 ,衡水清河综合
+http://106.113.134.21:2222/rtp/239.254.200.170:5366
+#EXTINF:-1 ,衡水饶阳综合
+http://106.113.134.21:2222/rtp/239.254.201.44:5353
+#EXTINF:-1 ,衡水深州综合
+http://106.113.134.21:2222/rtp/239.254.201.46:5357
+#EXTINF:-1 ,衡水武强综合
+http://106.113.134.21:2222/rtp/239.254.201.8:5355
+#EXTINF:-1 ,衡水枣强综合
+http://106.113.134.21:2222/rtp/239.254.201.136:5363
+#EXTINF:-1 ,陕西新闻
+http://nas.lxn.cool:4022/udp/239.111.205.28:5140
+#EXTINF:-1 ,新闻资讯
+http://117.32.84.92:8020/rtp/239.111.205.28:5140
+#EXTINF:-1 ,都市青春
+http://117.32.84.92:8020/rtp/239.111.205.42:5140
+#EXTINF:-1 ,长治武乡综合
+https://epg.pw/stream/34258eb29e6181ca9bf61119d8a3877cd4900b828e60397df5f66f6eb2044146.m3u8临汾吉县综合,http://jxlive.jxrmtzx.com:8091/live/xwzh.m3u8
+#EXTINF:-1 ,红河新闻综合
+http://tv.drs.hhtv.cc:8100/channellive/hhtv-1.flv?zyund
+#EXTINF:-1 ,红河公共
+http://tv.drs.hhtv.cc:8100/channellive/hhtv-2.flv?zyund
+#EXTINF:-1 ,文山麻栗坡电视台
+http://tvdrs.wsrtv.com.cn:8100/channellive/mlptv.flv?zyund
+#EXTINF:-1 ,昭通巧家综合
+http://livebroadcast.ccwb.cn/live/w1593303918254963.m3u8?zyund
+#EXTINF:-1 ,美国CNN NEWS
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
+#EXTINF:-1 ,美国CNN NEWS
+https://rakuten-cnninternational-1-de.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,英国BBC America
+https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 ,卡塔尔Jazeera
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 ,日本电视台
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+#EXTINF:-1 ,越南Hải Phòng
+https://live.thhp.vn/thp/index.m3u8
+#EXTINF:-1 ,越南Hải Phòng +
+https://live.thhp.vn/hls/thpplus/index.m3u8?1
+#EXTINF:-1 ,Travexp
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
+#EXTINF:-1 ,都市剧场
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226581/1.m3u8
+#EXTINF:-1 ,电影_宇宙
+https://live.metshop.top/huya/11342428
