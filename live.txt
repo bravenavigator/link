@@ -2657,57 +2657,57 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 西藏藏语卫视,https://epg.pw/stream/148e540afa7683fb494344fb52815e6140e275533007ac87e8edc270a978677f.ctv
 
 海外,#genre#
-Fox News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-Fox News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
-CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8?blog.ntnas.top
-CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-CNN,https://rakuten-cnninternational-1-de.lg.wurl.tv/playlist.m3u8
-BloombergTV,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
-ABC NEWS,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-ABC NEWS,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
-BBC earth,http://typicamn.russtv.net/iptv/349W3XS8ENP64A/6855/index.m3u8
-BBC世界新闻,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-BBC世界新闻,http://typicamn.russtv.net/iptv/349W3XS8ENP64A/545/index.m3u8
-BBC世界新闻,https://epg.pw/stream/1c78ff2850727e38ae6d8f3a4bb0431f36c4129b4d0ad18fce6213bd5957b73c.ctv
-BBC世界新闻,https://epg.pw/stream/f9afb59943c76b62d1f5bda03d2ccebb99e482b3608fa83554ee4db80b03ded9.m3u8
-BBC America,https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
-NewsmaxTV,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+美国Fox News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+美国Fox News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+美国CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+美国CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
+美国CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8?blog.ntnas.top
+美国CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+美国CNN,https://rakuten-cnninternational-1-de.lg.wurl.tv/playlist.m3u8
+美国彭博电视,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
+美国ABC NEWS,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+美国NewsmaxTV,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+英国BBC新闻,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
+英国BBC新闻,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+英国BBC新闻,http://typicamn.russtv.net/iptv/349W3XS8ENP64A/545/index.m3u8
+英国BBC新闻,https://epg.pw/stream/1c78ff2850727e38ae6d8f3a4bb0431f36c4129b4d0ad18fce6213bd5957b73c.ctv
+英国BBC新闻,https://epg.pw/stream/f9afb59943c76b62d1f5bda03d2ccebb99e482b3608fa83554ee4db80b03ded9.m3u8
+英国BBC美国,https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
+英国BBC地球,http://typicamn.russtv.net/iptv/349W3XS8ENP64A/6855/index.m3u8
+英国BBC旅游,https://ab96b349d4d14d80a1f8530a0bce4488.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-de_BBCTravel/playlist.m3u8?
 以色列i24NEWS电视台,https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/profile_0/chunklist.m3u8
-路透社电视台,https://reuters-reutersnow-1-us.plex.wurl.tv/c0c0829237382f291cc46a0368586aa7.m3u8
+英国路透社电视台,https://reuters-reutersnow-1-us.plex.wurl.tv/c0c0829237382f291cc46a0368586aa7.m3u8
 环球新闻, https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
 亚洲新闻台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 亚洲新闻台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-NHK世界台,https://nhkwlive-burnin2.webcdn.stream.ne.jp/live/index_1M.m3u8
-NHK世界台,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 国家地理频道,http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+日本NHK世界台,https://nhkwlive-burnin2.webcdn.stream.ne.jp/live/index_1M.m3u8
+日本NHK世界台,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 日本电视台,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 美食旅程,https://tastemadetravel-vizio.amagi.tv/playlist720_p.m3u8
 爱自然,http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8?checkedby:iptvcat.com
 发现,http://typicamn.russtv.net/iptv/349W3XS8ENP64A/9011/index.m3u8
-Travel XP,https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
-NASA电视媒体,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
-NASA全球公开直播,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-France 24 ENG,https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_091/HD/playlist.m3u8
-France 24 ENG,http://n1.klowdtv.net/live2/france24_720p/chunks.m3u8
-UN Web TV (540p),https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
-TRT WORLD,https://tv-trtworld.live.trt.com.tr/master.m3u8
-Wild EARTH,https://wildearth-roku.amagi.tv/masterR720P.m3u8
+旅行xp,https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
+美国国家航空航天局电视媒体,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
+美国国家航空航天局全球公开直播,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+法国24电视,https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_091/HD/playlist.m3u8
+法国24电视,http://n1.klowdtv.net/live2/france24_720p/chunks.m3u8
+土耳其广播电视,https://tv-trtworld.live.trt.com.tr/master.m3u8
+狂野地球,https://wildearth-roku.amagi.tv/masterR720P.m3u8
 Известия (720p) （俄罗斯）,https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 俄罗斯中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+半岛电视台,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+越南国会电视台,http://113.164.225.140:1935/live/quochoitvlive.stream_720p/playlist.m3u8
+越南岘港广播电视1,http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
+越南岘港广播电视2,http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
+越南太原广播电视,https://streaming.thainguyentv.vn/hls/livestream.m3u8
+越南海防广播电视,https://live.thhp.vn/thp/index.m3u8
+越南海防广播电视+,https://live.thhp.vn/hls/thpplus/index.m3u8?1
 韩联社,https://wms211-kortv.akamaized.net/a_live/34402987/smil:20ch211.smil/chunklist_b2500000.m3u8
-越南 | Da Nang TV1 (1080p) [Not 24/7],http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
-越南 | Da Nang TV2 (1080p) [Not 24/7],http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
-Quốc Hội (720p),http://113.164.225.140:1935/live/quochoitvlive.stream_720p/playlist.m3u8
-AL Jazeera，https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-TN - Truyền hình Thái Nguyên HD,https://streaming.thainguyentv.vn/hls/livestream.m3u8
-Hải Phòng,https://live.thhp.vn/thp/index.m3u8
-Hải Phòng +,https://live.thhp.vn/hls/thpplus/index.m3u8?1
-KBS WORLD,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
+韩国放送公社,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 MTV音乐频道,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
 HBO,http://208.115.225.174:14136
-BBC Travel,https://ab96b349d4d14d80a1f8530a0bce4488.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-de_BBCTravel/playlist.m3u8?ads.wurl_channel=985&ads.wurl_name=BBCTravel&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+ads.wurl_channel=985&ads.wurl_name=BBCTravel&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 马来西亚国家新闻社,https://epg.pw/stream/7ca4fab91b2b1eca75693d4db9f57e8e5755fc434a3da22c29f33a80b8418a58.ctv
 马来西亚国家新闻社,https://epg.pw/stream/8050bcfe253756aa7a85bb7a8964af1b7f8fcc89b21b5755c5ee16591a3bec16.ctv
 马来西亚国家新闻社,https://epg.pw/stream/aa26add107e9d627973d6c112e03cc35d5fbe09f5e80d91245b84dcfc1ae9214.ctv
