@@ -1,84 +1,14 @@
 #EXTM3U
-#EXTINF:-1,[美国]oneamericanews(oan)
-https://epg.pw/stream/3bd9b2a138269e65c1dd82be2f8ec0d3ca9070c8ca7f7920cc79a2491182ef3f.m3u8
-#EXTINF:-1,abc news (720p)
-https://epg.pw/stream/5c4279fe907a89832c7f23157e4660ea0c4425590363073c239bf38e7ce12851.m3u8
-#EXTINF:-1,abc news live 1 (720p)
-https://epg.pw/stream/8d87b25ee2e4a8b2fdb72ec74b0b128d19f4ba35a5fb2814f27dee740a8fada9.m3u8
-#EXTINF:-1,abc news live 10 (720p)
-https://epg.pw/stream/7cc42103fa0617ca24918ae25d9e0f7a5bca1c9cd406ad11d6dc5d9c30ce9ff5.m3u8
-#EXTINF:-1,abc news live 2 (720p)
-https://epg.pw/stream/a1b84127834c3ee8b65491722a27ba6a75d12f6128fba39f0bd2c4a3c2b8d1ec.m3u8
-#EXTINF:-1,abc news live 3 (720p)
-https://epg.pw/stream/d4b082573e874ea17da79566e36f648d43eedbaf8f1c4684c73bb00c5ca85f28.m3u8
-#EXTINF:-1,abc news live 4 (720p)
-https://epg.pw/stream/9b2d943d0a503d4d25683df4796760c1d094a71b2c29ef19587b41d4d48a36bf.m3u8
-#EXTINF:-1,abc news live 5 (720p)
-https://epg.pw/stream/2b4152917c8a305ac3b6ebb71bc1832df8acd72a70b22bd97ee9eba68001258a.m3u8
-#EXTINF:-1,abc news live 6 (720p)
-https://epg.pw/stream/24eeb325faf7c72a01e66df5d2f970094aa23d3be429b6cb35ab92c519e356c3.m3u8
-#EXTINF:-1,abc news live 7 (720p)
-https://epg.pw/stream/a85d512dc6ec217b46cfe1333e93600faf0bee176d5f7cb487214e9e14b1c9c9.m3u8
-#EXTINF:-1,abc news live 8 (720p)
-https://epg.pw/stream/71d58cb610510232a05f0fb669638257d700aad1b63f5705352b85d71e6309be.m3u8
-#EXTINF:-1,abc news live 9 (720p)
-https://epg.pw/stream/bb281ef60fecb8c3b1b4b0e73b25750b915ce231338f614e929ff6632f2fbb70.m3u8
-#EXTINF:-1,abc news us
-https://epg.pw/stream/5af00900afe22713a00ca927c7e3deb22ef347a2ca9019eef9d42e020f1c7574.m3u8
-#EXTINF:-1,abc news
-https://epg.pw/stream/fcb09c33bbbe99b49dae9289f6d14bde869bd40eb470602eb36c25b293686be6.m3u8
-#EXTINF:-1,abcnews
-https://epg.pw/stream/24e4a1629db322027a5d163ea99f94a00750284560a7ec0e662687036b84c7a2.m3u8
-#EXTINF:-1,abp news (720p)
-https://epg.pw/stream/68e16dc17b151aee68b41872228d94f8669942b8c5dff4bc380a0ce2af90b0e4.m3u8
-#EXTINF:-1,al sharqiya news
-https://epg.pw/stream/b303635dc478d613b93a1c9546fd266c9b755b515c391bf38468c395bb983c7c.m3u8
-#EXTINF:-1,aleph news
-https://epg.pw/stream/908dbbe962a2f7c8a630b3d844b3406d8ec8de28ec4e1703d6c538570e628748.m3u8
-#EXTINF:-1,america's voice news
-https://epg.pw/stream/85f2cf5eadb03045c05afd01508689c3eb1653558368bb24fbe8a8bf89faed54.m3u8
-#EXTINF:-1,asharq news (1080p)
-https://epg.pw/stream/409962e3325684053ebaaf4cb7e48db3d50b72bbcf626b4c0bd02ed156a8a0f3.m3u8
-#EXTINF:-1,bbc news
-https://epg.pw/stream/1c78ff2850727e38ae6d8f3a4bb0431f36c4129b4d0ad18fce6213bd5957b73c.ctv
-#EXTINF:-1,bbc world news south asia
-https://epg.pw/stream/f9afb59943c76b62d1f5bda03d2ccebb99e482b3608fa83554ee4db80b03ded9.m3u8
-#EXTINF:-1,bbcworldnews
-https://epg.pw/stream/31ea91904b3ec7825e07c2c9e5bfcb34a0a696127ad471b090e022d79a75c423.m3u8
-#EXTINF:-1,bek tv news
-https://epg.pw/stream/433845cf4923afd0e691d0e119f3d3dca68e2b507164d6c3a51b5bbf563d41fd.m3u8
-#EXTINF:-1,BERNAMA NEWS
-https://epg.pw/stream/7ca4fab91b2b1eca75693d4db9f57e8e5755fc434a3da22c29f33a80b8418a58.ctv
-#EXTINF:-1,BERNAMA NEWS
-https://epg.pw/stream/8050bcfe253756aa7a85bb7a8964af1b7f8fcc89b21b5755c5ee16591a3bec16.ctv
-#EXTINF:-1,BERNAMA NEWS
-https://epg.pw/stream/aa26add107e9d627973d6c112e03cc35d5fbe09f5e80d91245b84dcfc1ae9214.ctv
-#EXTINF:-1,BERNAMANEWS
-https://epg.pw/stream/0f54d68b4928cc057439511ad0182db47675815043955fb738e5eafa8b31d178.ctv
-#EXTINF:-1,BERNAMANEWS
-https://epg.pw/stream/49d4223142a241cf09fc1be0f77c20e7e47184d4dfc1dd83b889caa75bbd9f58.ctv
-#EXTINF:-1,BERNAMANEWS
-https://epg.pw/stream/6a234ca2550a746af2c9e6556759dff3d7ab0cf347145456c4314e9690a2bbeb.ctv
-#EXTINF:-1,BERNAMANEWS
-https://epg.pw/stream/7ba5d95735b89e86b642e42f78dd30f5585d9c9ea4ca3a38ecefbf506fa3c9a1.ctv
-#EXTINF:-1,BERNAMANEWS
-https://epg.pw/stream/8036e3a788cda73a9f757afef7437f28cc95ac7a9472bc87080ae2fbad8ef563.ctv
-#EXTINF:-1,BERNAMANEWS
-https://epg.pw/stream/80c06ce52ee9f3bd81060f87478fa4c54c80325e785b648e1f4369a0de401831.ctv
-#EXTINF:-1,BERNAMANEWS
-https://epg.pw/stream/c7ea3a230b6fa2bcb55ff86077e854af4ba7ca93c8d56984a73398e4fa10dbd7.ctv
-#EXTINF:-1,BERNAMANEWS
-https://epg.pw/stream/efb14e827fd1a59909ff2cc7858d5e968834e93d4bf893c5bbf588ee7730bd24.ctv
-#EXTINF:-1,BERNAMANEWS
-https://epg.pw/stream/f87543ad50473eac0b199d938f9c91b47579e79770994af4bbab1a33134458e2.ctv
-#EXTINF:-1,BERNAMANEWS
-https://epg.pw/stream/fb3962244070279a8e5e530abb96e154076b7582d5248f5ce4494b62c8f224b2.ctv
-#EXTINF:-1,black news channel (720p)
-https://epg.pw/stream/13e8890c4fdf51cd0c473c91a44fd679ae0c8fec4d3ea334477d4e9be5df312e.m3u8
-#EXTINF:-1,cbc news (720p)
-https://epg.pw/stream/94da2c301684eb151458767cbbad58a1b7a1a44c9248400424e4890370556640.m3u8
-#EXTINF:-1,cbn news
-https://epg.pw/stream/51c02d90fc162cf09431c3837aa79c96bdd5eced9a6b75806f662df3f55969eb.m3u8
+#EXTINF:-1,CBS Action
+https://epg.pw/stream/6802c6da2f0c988e870a970c2c0ee8df4fec15ec35b990a5127a71568a8537b6.ctv
+#EXTINF:-1,CBS Action
+https://epg.pw/stream/f2a52bf1df2072919c16c500f2ed1feebbc166de9ff2697a3b1fd11bccac65b0.ctv
+#EXTINF:-1,CBS Drama
+https://epg.pw/stream/579f33d2379704b16b208b3f6abe562533f8670abc6e237bf503923926b24580.ctv
+#EXTINF:-1,CBS Drama
+https://epg.pw/stream/691d0c13cba1175fd3c9be72e218eef394b4487136b1b933cfe3a53d0dfc0bd8.ctv
+#EXTINF:-1,CBS Drama
+https://epg.pw/stream/8d1ce82eb095eeb18b0662d1d9972d4f3604d78e484911533424838e67bb754b.ctv
 #EXTINF:-1,cbs news boston
 https://epg.pw/stream/634ec70d48ded9211106ca064c2a1f608d894df42fc8ef5b49eae4fa8bc98b52.m3u8
 #EXTINF:-1,cbs news chicago (720p)
@@ -97,115 +27,7 @@ https://epg.pw/stream/cfdbcf26cb0b81a57018c2c01d93fd4b3444aeb04ff016d90707e0b511
 https://epg.pw/stream/47bc5df9a8aa0c7d7ae4e801b9f6e273a9ae891c9531578376b7cef87f0e915d.m3u8
 #EXTINF:-1,cbs news
 https://epg.pw/stream/f4680dcdd8a1b34bb30bc8e53e809bfceac32458bba5a7c556cef711b747bc51.m3u8
-#EXTINF:-1,cbsnews
-https://epg.pw/stream/d419931c7416df227114463bbfbb6074f41b711a7d640dd2843afcb6cc901e15.m3u8
-#EXTINF:-1,channel news asia
-https://epg.pw/stream/5758533bb7ecf006d3e9e48bafef25c2e3ae710a13570118210cea7ef373ae27.m3u8
-#EXTINF:-1,channel news asia『蓝光』
-https://epg.pw/stream/e1393b13fa4f3cde79a562370a2773ed4dbd824208762618ab846e887e6f89cb.m3u8
-#EXTINF:-1,channel newsasia
-https://epg.pw/stream/10785b1f26a6b03c110f6b7f6e75a27ddfe610d2427df09ebfacec4f2954b859.m3u8
-#EXTINF:-1,channel newsasia
-https://epg.pw/stream/20114395c5485e5428c542ade361e74c84daf5971c8d033f60da507677887152.m3u8
-#EXTINF:-1,dunya news
-https://epg.pw/stream/2d0f4abf9dadf37e04950be76663ce742a7f29421cc1bbf769677fa86129aed9.m3u8
-#EXTINF:-1,euronews english (720p)
-https://epg.pw/stream/964f1681a6609f3597a2c20f724096c449ca38c4a0cba675eccdceeb11e67647.m3u8
-#EXTINF:-1,euronews english
-https://epg.pw/stream/63ea86a01926017a8ef84abb2a3ce1fe31f5ce3c791dbcb4cde08a1602f005a0.m3u8
-#EXTINF:-1,euronews français
-https://epg.pw/stream/1065a1b02b2f3d5b7c76d3b5777ba8810cfdcabd590320c9527bc141595fd905.m3u8
-#EXTINF:-1,euronews french
-https://epg.pw/stream/a8fac3b4ee1ce1816b27e97cc3966bbf7c2006fe3c33334b34873d59219e31d5.m3u8
-#EXTINF:-1,euronews serbia
-https://epg.pw/stream/b92bf5a339c247279a7f1833afb7a2f8968a9dcfde51feaaa0537b19a55e594c.m3u8
-#EXTINF:-1,euronews по-русски
-https://epg.pw/stream/361972d6d073d4bf0e48fc7a239e3ed0ad56b1bbd72c6cbe3cba2871a4c55252.m3u8
-#EXTINF:-1,fox news channel
-https://epg.pw/stream/5d82eec6d748f9e54f102f0cda6670eebd42145263e36c1d706f4367e4b7cc7d.m3u8
-#EXTINF:-1,fox news now (720p)
-https://epg.pw/stream/694056fd77b0caa423f375aec7ee243a5313523268126e3cc3ca59bd6247efce.m3u8
-#EXTINF:-1,fox news
-https://epg.pw/stream/274442e7ccca40f71ae9d93f07afb8599b202f7268d314d9e365c5cd320e2bac.m3u8
-#EXTINF:-1,fox news
-https://epg.pw/stream/d82728f35f80b0187bfc382d5c8c4f6ae687a1c6921f4c3776d1fd8f63c2e5f4.m3u8
-#EXTINF:-1,global news
-https://epg.pw/stream/089112f4cbf077bc53d16083a94d76bbd51ac45f92aed1754b1748c4ba467b7e.m3u8
-#EXTINF:-1,global news
-https://epg.pw/stream/9486332370b72a393946d233f03dda621685f2af35bc51b4a4139fc4fddcdc53.m3u8
-#EXTINF:-1,globo news
-https://epg.pw/stream/e54fe4b6ff7df63a22d869741a9ff0d1cacc2473f3c384ce50dbe7819727b4ad.ctv
-#EXTINF:-1,i24 news arabic (720p)
-https://epg.pw/stream/aa7a2798883f801e0450ef55f854453f2d8235705ea0fe4223caf547a3ca3d7d.m3u8
-#EXTINF:-1,i24news
-https://epg.pw/stream/3913b6dd9f2b9ba552c753e4ed5d436f48a7e40de29d3a62ac9e407a11316679.m3u8
-#EXTINF:-1,india news madhya pradesh/chhattisgarh
-https://epg.pw/stream/3497d2bc1d4294b3462d69afa982bfec76e915d61c1edb23f713e44545f54c54.m3u8
-#EXTINF:-1,inews tv hd
-https://epg.pw/stream/8921fe2e170707193374849b7edb471d150831b6ab6e53ccf95706bf6cbe5fd2.ctv
-#EXTINF:-1,inews tv
-https://epg.pw/stream/ea4eacc72a691998f7c8a2946840d41cc4b51635acc75d15afd9902a9da00541.m3u8
-#EXTINF:-1,kitv (news)
-https://epg.pw/stream/4becabb6b634f18cb5d73e12d8dd174c1c5ff6e372ec9e287b81ee3734c13f8c.m3u8
-#EXTINF:-1,la c news 24 (720p)
-https://epg.pw/stream/4f1f755a72d39f5887cdd68f29472723d68e2e36dab03c381944b14c3954fb10.m3u8
-#EXTINF:-1,news 24 albania
-https://epg.pw/stream/120dbc30245854de44c6d6246173247507e73f9f8b6eb86745279d9ea205b531.m3u8
-#EXTINF:-1,newsmax (720p)
-https://epg.pw/stream/9b8ccb137a356b8eac2498744694848e5c7d6b4ffe0592b93c7e9eb3fc7b0b41.m3u8
-#EXTINF:-1,newsmax
-https://epg.pw/stream/75cdccd17e398a668456b08901a5368f292a99dbd64ffb25f950543fff793d0a.m3u8
-#EXTINF:-1,newsmaxtv
-https://epg.pw/stream/ed041d6d05c3dbb7adeace1332768b5e6f323d6a7a1c15bed90cb5e6c9731ee8.m3u8
-#EXTINF:-1,nhk world news
-https://epg.pw/stream/01f881e3bc1f02ae70557ec5fe22eb511c363d9ebe96b08c6b5f895d3bd920c1.m3u8
-#EXTINF:-1,ntv news 24
-https://epg.pw/stream/e6ec4168fcc1c514d6df115a89f8d67897605e4eee236b137350c2d007e6fd0d.m3u8
-#EXTINF:-1,ntv news24 (480p)
-https://epg.pw/stream/4234397cc543f65c4766c647e3a386d452249c491522997e093504f12a1ed999.m3u8
-#EXTINF:-1,oneamericanews
-https://epg.pw/stream/60a1849d6cbb45277cc0010adbf23f5f98417620eaea8df00655eff04374b844.m3u8
-#EXTINF:-1,pro tv news (1080p)
-https://epg.pw/stream/ad3458a7730205e492d0bd0fefe005ceeaf73e74e91afa3611dd8236634339af.m3u8
-#EXTINF:-1,ptv news
-https://epg.pw/stream/4218cdf98649e834c922e561479eaa3699a0024569f65b9e31f2a3cf53c2244d.m3u8
-#EXTINF:-1,record news
-https://epg.pw/stream/90665e8d65bc5d38f6521f6da2d3aa6de728473de6c9f5d806f496f69d1cbd1c.m3u8
-#EXTINF:-1,sky news arabia (720p) [not 24/7]
-https://epg.pw/stream/d33d6b654a91c73b60138a8762772913cc08cb61169a50604a82a50d31ab5229.m3u8
-#EXTINF:-1,sky news arabia (portrait) (1280p) [not 24/7]
-https://epg.pw/stream/ebe8ffb4760c32cf9faef16a9af5a0825d2d23c853fb2a71d757737d3650ef72.m3u8
-#EXTINF:-1,sky news arabia
-https://epg.pw/stream/4993776490bfe20ff7d6d62f223324d5b6f628f836e5a56d35480baf516540dc.m3u8
-#EXTINF:-1,sky news extra 1 (540p)
-https://epg.pw/stream/1c59ecc9a326cc607fc39a193c5cf63c3346566d05de04a11941a712e9cfeb10.m3u8
-#EXTINF:-1,sky news extra 2 (540p) [not 24/7]
-https://epg.pw/stream/fc5dc54a37ded5cbffac916a54f19d1c4cc473a6774384c929a3e4f30812ca0a.m3u8
-#EXTINF:-1,sky news extra 2 (540p)
-https://epg.pw/stream/37c03fa8cec3e8c8291a2722bf0ab05cb89b1fb8a007e54dcddc2bace510025a.m3u8
-#EXTINF:-1,sky news extra 3 (1080p)
-https://epg.pw/stream/5c8d4677dee7b897411bf5b0ce246e31314b4847dbadce5ab2ce5261309fafe6.m3u8
-#EXTINF:-1,sky news extra 3 (1080p)
-https://epg.pw/stream/c0c8179ba255454a6713c52e2ee2a59c8dd9e0a44dcf726bff401a14dbe3dec8.m3u8
-#EXTINF:-1,sky news
-https://epg.pw/stream/ad8c5a1454f788ec4ae9ac999587492516c24cd42bf58678de269004a4f19c32.m3u8
-#EXTINF:-1,sky news
-https://epg.pw/stream/e2e4216dd95a1f1c90b1dc92bb5e03ce8553f494a0e6814bd4f8ac48d0c834aa.m3u8
-#EXTINF:-1,vnews
-https://epg.pw/stream/36f922bc2e49d8712ee032642d5e03bcd95c2d619fa98eee01471d053cb69abe.m3u8
-#EXTINF:-1,zerouno tv news
-https://epg.pw/stream/8ebc275d286352ea44868a73e62ae112446df18bd73a21fd07668a184d792590.m3u8
-#EXTINF:-1,ช่อง bbc news
-https://epg.pw/stream/78d12e6fbfdc320f737f8ded118b0a3f64984cd7ffd4a9b5397b4ec9fa365dfd.m3u8
-#EXTINF:-1,ช่อง black news channel
-https://epg.pw/stream/4cd3b586eacc3b1989ffd0db9ce0733277105ca60d3e45402ccf413a830cd654.m3u8
-#EXTINF:-1,ช่อง ctv news channel
-https://epg.pw/stream/13d9306b446d7453c0004a42aefd3c3662418c139f2acf163c2cae92218697a3.m3u8
-#EXTINF:-1,ช่อง fox news channel
-https://epg.pw/stream/3c0a54dd133b2442ea9bace5e0f836866a98fa1fa9e5b7ab5de37f81793320ab.m3u8
-#EXTINF:-1,ช่อง sky news
-https://epg.pw/stream/c5e4d6d0dc19f37b4844fcb3da80d62041e4c26c557b005e150e795e3cf7d18d.m3u8
-#EXTINF:-1,ช่อง weathernews
-https://epg.pw/stream/443d555a1303d82424886987126b174cf90f17ac067835bff79e386dcc2833b8.m3u8
-#EXTINF:-1,三立inews
-https://epg.pw/stream/a2330bdca96a3420aa2a0558fee3e7a27377acf939e88305f7d3c66e9c5b1a15.ctv
+#EXTINF:-1,CBS Reality
+https://epg.pw/stream/2f86a3554eae6917cb00794c6297b59fbaab80df429d0d730d0c8276c3e49898.ctv
+#EXTINF:-1,cbs sports golazo network
+https://epg.pw/stream/9e8acd28337e0048a588077c2d0aeea936369c0f21d0ec54019955dba3394063.m3u8
