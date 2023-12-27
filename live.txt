@@ -688,8 +688,6 @@ CCTV电视指南,http://116.23.136.209:4022/rtp/239.253.43.10:5146
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935?zguangd
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1612881417-0-0-bc7ddba066481bc805fc1e800654e721?zguangd
 港澳,#genre#
-
-
 TVB翡翠,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 TVB翡翠,http://r.jdshipin.com/jUx8K
 TVB翡翠,https://epg.pw/stream/72d4915ec44c10747097256e886a068d1b80edf5de9c15573fd0d896b8580858.ctv
@@ -705,7 +703,7 @@ TVB新闻,https://fake-stream.livednow.com/tvb/I-NEWS?token=dc6f5d5a464931d09022
 TVB财经,http://live.cooltv.top/tv/tvb.php?id=2
 TVB财经,https://fake-stream.livednow.com/tvb/A?token=9cab24677720fe47e134e07a4947882c&user_id=1001586361&user_token=7369737c57a4a30828b792bd84e746ae
 TVB财经,https://fake-stream.livednow.com/tvb/I-FINA?token=99560e5d097f1c356fe
-VB娱乐,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
+TVB娱乐,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
 TVB J2,https://fake-stream.livednow.com/mdvb/j2?token=16ca037a4f5d03eaebee24d129d7d3fb&user_id=1001586361&user_token=7369737c57a4a30828b792bd84e746ae
 ViuTV,https://fake-stream.livednow.com/mdvb/viutv?token=3c6a2c45176483f6a090749ce1ea0beb&user_id=1001586361&user_token=7369737c57a4a30828b792bd84e746ae
 ViuTV Six,https://fake-stream.livednow.com/mdvb/viutv6?token=29d5aee9aebad63b5141240a6fd24fa3&user_id=1001586361&user_token=7369737c57a4a30828b792bd84e746ae
