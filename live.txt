@@ -511,8 +511,8 @@ CCTV电视指南,http://116.23.136.209:4022/rtp/239.253.43.10:5146
 广东珠江,http://116.23.136.209:4022/rtp/239.77.0.1:5146
 广东珠江,http://116.23.136.209:4022/rtp/239.77.0.114:5146
 广东珠江,http://119.126.159.38:4000/rtp/239.77.0.1:5146
-广东珠江,http://api.52tb.xyz/info?id=410&token=20230314vyrzsx
 广东珠江,http://119.126.159.38:4000/rtp/239.77.0.114:5146
+广东珠江,http://api.52tb.xyz/info?id=410&token=20230314vyrzsx
 广东民生,http://116.23.136.209:4022/rtp/239.77.0.225:5146
 广东民生,http://119.126.159.38:4000/rtp/239.77.0.225:5146
 广东民生,http://api.52tb.xyz/info?id=408&token=20230314vyrzsx
@@ -654,7 +654,6 @@ CCTV电视指南,http://116.23.136.209:4022/rtp/239.253.43.10:5146
 河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 河源公共,http://119.126.159.38:4000/rtp/239.253.43.214:5146
 河源公共,http://tmpstream.hyrtv.cn/hygg/playlist.m3u8?_upt=c9befc281606112199?zguangd
-河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8?zguangd
 河源综艺,http://tmpstream.hyrtv.cn/xwzh/playlist.m3u8?_upt=407e01941606112151?zguangd
 云浮综合,http://116.23.136.209:4022/rtp/239.77.0.253:5146
 云浮综合,http://119.126.159.38:4000/rtp/239.77.0.253:5146
