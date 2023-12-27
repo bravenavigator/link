@@ -707,8 +707,9 @@ TVB财经,https://fake-stream.livednow.com/tvb/A?token=9cab24677720fe47e134e07a4
 TVB财经,https://fake-stream.livednow.com/tvb/I-FINA?token=99560e5d097f1c356fe
 VB娱乐,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
 TVB J2,https://fake-stream.livednow.com/mdvb/j2?token=16ca037a4f5d03eaebee24d129d7d3fb&user_id=1001586361&user_token=7369737c57a4a30828b792bd84e746ae
-931c85e95183e&user_id=1001586361&user_token=7369737c57a4a30828b792bd84e746ae
-T香港卫视文旅,http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
+ViuTV,https://fake-stream.livednow.com/mdvb/viutv?token=3c6a2c45176483f6a090749ce1ea0beb&user_id=1001586361&user_token=7369737c57a4a30828b792bd84e746ae
+ViuTV Six,https://fake-stream.livednow.com/mdvb/viutv6?token=29d5aee9aebad63b5141240a6fd24fa3&user_id=1001586361&user_token=7369737c57a4a30828b792bd84e746ae
+香港卫视文旅,http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
 香港卫视文旅,https://epg.pw/stream/092a08c73e2f252b5b864bbf21fc7753e7c59c706165977ab071e8b2216da0cb.m3u8
 香港卫视文旅,https://epg.pw/stream/ba73bee0ff70c645c56f02c90b6f25d1f35dd3f2048282d55f0662631f850fad.m3u8
 香港卫视文旅,https://epg.pw/stream/7cbda7050cd5ab5eed508b1f8d71624178238d4540c72e6f191a145534a1c012.m3u8
