@@ -784,6 +784,8 @@ TVB财经,http://live.cooltv.top/tv/tvb.php?id=2
 TVB财经,https://fake-stream.livednow.com/tvb/A?token=9cab24677720fe47e134e07a4947882c&user_id=1001586361&user_token=7369737c57a4a30828b792bd84e746ae
 TVB财经,https://fake-stream.livednow.com/tvb/I-FINA?token=99560e5d097f1c356fe
 TVB娱乐,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
+TVB星河,http://tvpo1.rbq.plus/xinghe/xinghe.stream/chunklist.m3u8
+TVB星河,http://113.117.74.12:8081/hls/135/index.m3u8
 TVB J2,https://fake-stream.livednow.com/mdvb/j2?token=16ca037a4f5d03eaebee24d129d7d3fb&user_id=1001586361&user_token=7369737c57a4a30828b792bd84e746ae
 ViuTV,https://fake-stream.livednow.com/mdvb/viutv?token=3c6a2c45176483f6a090749ce1ea0beb&user_id=1001586361&user_token=7369737c57a4a30828b792bd84e746ae
 ViuTV Six,https://fake-stream.livednow.com/mdvb/viutv6?token=29d5aee9aebad63b5141240a6fd24fa3&user_id=1001586361&user_token=7369737c57a4a30828b792bd84e746ae
