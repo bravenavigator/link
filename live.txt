@@ -1162,9 +1162,13 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 杭州萧山生活频道,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
 杭州余杭新闻综合,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
 杭州余杭未来频道,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
-宁波新闻综合,http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
+宁波-1,http://www.372583307.top:4022/udp/233.50.201.168:5140
+宁波-2,http://www.372583307.top:4022/udp/233.50.201.178:5140
+宁波-3,http://www.372583307.top:4022/udp/233.50.201.179:5140
+宁波-4,http://www.372583307.top:4022/udp/233.50.201.180:5140
 宁波余姚新闻综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 宁波余姚新闻综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
+宁波象山新闻综合,http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
 宁波象山新闻综合,http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
 宁波象山新闻综合,https://epg.pw/stream/19c5142ea270b459d4f7b4bd6ee40d94f774a61bfc3ee98a4a41f31e4a2956f6.m3u8
 宁波鄞州一套,http://play-a2.quklive.com/live/1668501533304136.m3u8
