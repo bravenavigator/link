@@ -112,7 +112,7 @@ CCTV17农村农业,https://epg.pw/stream/0488a6d11015c87b6b84913a63f5801bfc44998
 北京卫视,http://118.122.126.202:8877/rtp/239.93.0.180:5140
 北京卫视,https://live.goodiptv.club/api/sxg.php?id=bjwsH265_4000
 北京卫视,http://cfss.cc/api/ysp/bjws.m3u8
-北京卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8$移动
+北京卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8?
 北京卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8
 北京卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001029/index.m3u8
 北京卫视,http://api.52tb.xyz/info?id=25&token=20230314vyrzsx
@@ -276,15 +276,20 @@ CCTV17农村农业,https://epg.pw/stream/0488a6d11015c87b6b84913a63f5801bfc44998
 内蒙古卫视,http://api.52tb.xyz/info?id=95&token=20230314vyrzsx
 内蒙古卫视,http://api.52tb.xyz/info?id=146&token=20230314vyrzsx
 新疆卫视,https://epg.pw/stream/788702ed504aeda3322f8db5973d9fc056ede56e02560b365a5cc69efc07874a.m3u8
+新疆卫视,http://221.213.43.82:8888/newlive/live/hls/38/live.m3u8
 兵团卫视,https://test5.btzx.com.cn/live/2023bt.stream/chunklist_w901976294.m3u8
+兵团卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8
 兵团卫视,https://epg.pw/stream/85e6975cbd16ed8411909474995d0973728889c2e84a98f21e3063311adb4c84.m3u8
 西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws
+西藏卫视,http://221.213.43.82:8888/newlive/live/hls/37/live.m3u8
+西藏卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226212/index.m3u8
 西藏卫视,https://epg.pw/stream/53cb9da09a1f565647c8a35013d071b6c173dad229f7baf0238aeff24d98a3ba.ctv
 西藏卫视,https://epg.pw/stream/6813e053b70cb87f76e097e1fcc36d4cc3eae132496555134d0f98b3fb717629.m3u8
 西藏卫视,https://epg.pw/stream/b5b1ab7c0113011f8fdf6ca5db1612f9cb1219c2783c8cfe1d04acea61a388ec.m3u8
+海峡卫视,https://epg.pw/stream/1d158fe4ef032b1ca0296ad7699ac4db2a6f32f6dee55188d716b972d35dff62.m3u8
 康巴卫视,http://118.122.126.202:8877/rtp/239.93.0.41:5140
 康巴卫视,https://live.goodiptv.club/api/sxg.php?id=kbwsH264_2000
-海峡卫视,https://epg.pw/stream/1d158fe4ef032b1ca0296ad7699ac4db2a6f32f6dee55188d716b972d35dff62.m3u8
+农林卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 延边卫视,https://epg.pw/stream/86ea500d7d432401bf10b1953f361607aa7a0be7c9b0d40955d99aeebfda7edb.m3u8
 延边卫视,https://epg.pw/stream/e62732d5ec879b9bd722931c588ebd651378265bdef75851ac7c5b776b6be991.m3u8
@@ -327,6 +332,7 @@ CCTV17农村农业,https://epg.pw/stream/0488a6d11015c87b6b84913a63f5801bfc44998
 广州影视,http://119.126.159.38:4000/rtp/239.253.43.73:5146
 广州影视,http://r.jdshipin.com/TcKr2
 南国都市,http://php.jdshipin.com:8880/gztv.php?id=shenghuo
+南国都市,http://nas.jdshipin.com:8801/gztv.php?id=shenghuo
 南国都市,http://api.52tb.xyz/info?id=419&token=20230314vyrzsx
 深圳都市,http://119.126.159.38:4000/rtp/239.77.1.176:5146
 深圳都市,http://119.126.159.38:4000/rtp/239.77.1.124:5146
@@ -606,11 +612,8 @@ BRTV卡酷少儿,http://123.113.181.219:9000/rtp/239.3.1.189:8000
 天津少儿,http://117.10.52.134:5000/rtp/225.1.1.125:5002
 天津IPTV,http://117.10.52.134:5000/rtp/225.1.2.123:5002
 滨海新闻,http://traffic.jbh.tjbh.com/live/bhtv1/playlist.m3u8
-滨海新闻,http://traffic.jbh.tjbh.com/live/bhtv1/playlist.m3u8?ztianjd
 滨海综艺,http://traffic.jbh.tjbh.com/live/bhtv2/playlist.m3u8
-滨海综艺,http://traffic.jbh.tjbh.com/live/bhtv2/playlist.m3u8?ztianjd
 滨海影视,http://traffic.jbh.tjbh.com/live/bhtv3/playlist.m3u8
-滨海影视,http://traffic.jbh.tjbh.com/live/bhtv3/playlist.m3u8?ztianjd
 滨海影视,https://epg.pw/stream/e7ee03330798ab5fa1ca1972a0a5e2b732a37e0ef683b4977926d19f82a60ed9.m3u8
 滨海影视,https://epg.pw/stream/07686fe556dab33bdd73b741e34c276c481627226c75fc433b9563d3ddba6280.m3u8
 重庆,#genre#
@@ -1014,8 +1017,8 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 四川科教 ,https://live.goodiptv.club/api/sxg.php?id=SCTV-ggSCTV-8_4000
 四川峨嵋电影 ,https://live.goodiptv.club/api/sxg.php?id=emdygqH265_4000
 成都新闻综合 ,https://live.goodiptv.club/api/sxg.php?id=CDTV-1_4000
-成都公共频道 ,https://live.goodiptv.club/api/sxg.php?id=CDTV-5_4000
-成都高新区 ,https://live.goodiptv.club/api/sxg.php?id=cdgxdstgq_2000
+成都公共 ,https://live.goodiptv.club/api/sxg.php?id=CDTV-5_4000
+成都公共,http://live.cooltv.top/tv/cdtv.php?id=cdgg
 成都双流综合,http://171.221.250.130:18888/27e684978eb642eeb90ab815f6cc51bf/c41893de5e8645b3b43aef1640859b0d.m3u8?zsicd
 成都崇州综合,https://live.goodiptv.club/api/sxg.php?id=czyt_4000
 成都金堂综合,https://live.goodiptv.club/api/sxg.php?id=jtzhpd_2000
