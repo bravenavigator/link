@@ -916,6 +916,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 之江记录,http://hw-m-l.cztv.com/channels/lantian/channel12/360p.m3u8
 安徽,#genre#
 安徽经济生活,https://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829325295495.m3u8
+安徽经济生活,http://mmitv.top/test/ahtv.php?id=12
 安徽公共,https://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829349154529.m3u8
 安徽公共,https://epg.pw/stream/3e096a4f4026aded7c3adeb1992d1804bda5fd78f080085f0ee77e55ffc370f5.m3u8
 安徽影视,https://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829369249612.m3u8
@@ -1643,12 +1644,12 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 青海都市,https://epg.pw/stream/0b8ad0a2cb3cee25fe5e1414c4f2dddd1c4a466ce25aa83b00cc5717f35fe420.m3u8
 青海都市,https://epg.pw/stream/8c444b546ed57c4d5287b55d2c9ab96a10b022b449bf7f1fad766bc1a6c15fa2.m3u8
 青海都市,https://epg.pw/stream/4acd2e75fc0a26c45b41c6808d6eb07039e023cf62c2b24b33767e969eaadc1a.m3u8
-西宁新闻综合,https://liveout.xntv.tv/a65jur/96iln2.m3u8?zqinghd
+西宁新闻综合,https://liveout.xntv.tv/a65jur/96iln2.m3u8
 西宁新闻综合,https://epg.pw/stream/f66550e2cd4c4109cf2748c2f21f6359a9621fd7ade17677df052abc668064a2.m3u8
 西宁新闻综合,https://epg.pw/stream/2fa389df085b27ada57c504583186076a49b6b839f3bd74c051aeafff9121abf.m3u8
 西宁生活服务,https://epg.pw/stream/ebb284bdfa9c46f0d32785abba28b9ceff5efefde0e722eea947bf5b3a71b377.m3u8
 西宁生活服务,https://epg.pw/stream/27d89130c7174dfd58dffa6e1dde6d7726fc0ac07117cb3d504f54cfaf93de83.m3u8
-西宁生活服务,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd
+西宁生活服务,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?
 西宁湟中电视台,http://livecdn.dmqhyadmin.com/hls/xjhuangzhong.m3u8
 安多卫视,http://stream.qhbtv.com/adws/playlist.m3u8
 安多卫视,http://stream.qhbtv.com/adws/playlist.m3u8?_upt=739abf201649062902
