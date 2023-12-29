@@ -51,6 +51,8 @@ CCTV5+体育赛事,http://live.goodiptv.club/api/bestv.php?id=cctv5phd8m/8000000
 CCTV5+体育赛事,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 CCTV5+体育赛事,http://221.213.43.82:8888/newlive/live/hls/7/live.m3u8
 CCTV5+体育赛事,https://epg.pw/stream/e5eab09987c6427f243fbb4debcabf8686121e8eaf3385a451a798f5ce99949a.m3u8
+CCTV5+体育赛事,https://epg.pw/stream/8e87dfe99f2a476ed0f64027d3fe221c0aa002845001d44e3e273df669c0bd9c.m3u8
+CCTV5+体育赛事,https://epg.pw/stream/086db2bb0313ea69b64e6c5241778b8b5933b629e4bd09ecab5e744b122ed865.m3u8
 CCTV6电影,http://live.goodiptv.club/api/bestv.php?id=cctv6hd8m/8000000
 CCTV6电影,https://epg.pw/stream/ea559ca2b60299bc5dda8015b1cec956d6f3a25de78c88f3efa9d2d634829e54.ctv
 CCTV6电影,https://epg.pw/stream/f0e2e83785e7ad6df968ad3601288d34831a0ad355190f5f6fe07124b541ef28.ctv
@@ -571,7 +573,6 @@ BRTV卡酷少儿,http://123.113.181.219:9000/rtp/239.3.1.189:8000
 睛彩羽毛球,http://123.113.181.219:9000/rtp/239.3.1.127:8001
 睛彩广场舞,http://123.113.181.219:9000/rtp/239.3.1.128:8001
 淘电影,http://123.113.181.219:9000/rtp/239.3.1.250:8001
-淘剧场,http://123.113.181.219:9000/rtp/239.3.1.95:8001
 淘剧场,https://epg.pw/stream/048d8fe525fd37fed2c701d3297a3a03e5612d2fc444f2df0e0c42fde251a6e7.ctv
 淘娱乐,http://123.113.181.219:9000/rtp/239.3.1.100:8001
 淘Baby,http://123.113.181.219:9000/rtp/239.3.1.238:8001
