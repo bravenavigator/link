@@ -10,6 +10,7 @@ CCTV13新闻,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/32
 CCTV13新闻,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
 CCTV13新闻,https://pi.0472.org/tv/mzt.php?auth=230918
 CCTV13新闻,https://epg.pw/stream/fc939113e81b8c3c09a430f2d5aecf985c98d73658e4314d70292b2f53d2e153.m3u8
+CCTV13新闻,https://sc2024.stream-link.org/live/68183159199.php?id=h05bn
 CCTV1综合,http://live.goodiptv.club/api/bestv.php?id=cctv1hd8m/8000000
 CCTV1综合,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 CCTV1综合,http://60.174.137.146:9901/tsfile/live/0001_1.m3u8?key=txiptv&url=tvzb.com
@@ -488,10 +489,6 @@ CCTV17农村农业,https://epg.pw/stream/0488a6d11015c87b6b84913a63f5801bfc44998
 东莞新闻综合,http://113.103.253.43:2000/rtp/239.253.43.104:5146
 东莞生活资讯,http://113.103.253.43:2000/rtp/239.253.43.105:5146
 港澳,#genre#
-
-
-中央新闻台,https://sc2024.stream-link.org/live/68183159199.php?id=h05bn
-
 TVB翡翠,https://sc2024.stream-link.org/live/68183159199.php?id=h98qn
 TVB翡翠,https://sc2024.stream-link.org/live/68183159199.php?id=h60cs
 TVB翡翠,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
