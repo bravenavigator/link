@@ -695,6 +695,7 @@ BRTV卡酷少儿,http://123.113.181.219:9000/rtp/239.3.1.189:8000
 公视新闻,https://epg.pw/stream/4853f0bf43ae51d056584fdb46ac894ad3929323d024a972976fb9bcd34e0022.m3u8
 公视新闻,http://194.87.101.118:9501/live.m3u8?c=8
 东森新闻,http://194.87.101.118:9501/live.m3u8?c=9
+东森财经新闻,https://epg.pw/stream/1f0d0e82ff3b9bbf3fbb877a47a08099bd3c5d972e033a5015f3da0097a458d3.ctv
 东森美洲,https://epg.pw/stream/3f54de58cf44244a3a2e14cd7388cac348a17ada96c4aba4b5a65f1c4ceeabca.m3u8
 镜新闻,http://194.87.101.118:9501/live.m3u8?c=10
 三立新闻,https://epg.pw/stream/a2330bdca96a3420aa2a0558fee3e7a27377acf939e88305f7d3c66e9c5b1a15.ctv
@@ -1591,6 +1592,8 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 文山公共,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8?zyund
 文山砚山综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel16/playlist.m3u8?zyund
 文山麻栗坡电视台,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8?zyund
+怒江综合,https://epg.pw/stream/8b8a3bb9f8e192134e044784d4143ba39be81bf453c3a8523f5aea21162f4824.m3u8
+怒江综合,https://epg.pw/stream/5636a9bd4268f2ebdd934adf9fffdb79a3c376f4fcb2fb3a3d3ee62caf5b9624.m3u8
 怒江综合,https://epg.pw/stream/d9ae62961c336c9157bcbf4f31d957aa1af0d5b6d06d37fcf202cee7a27adb12.m3u8
 怒江综合,http://livebroadcast.ccwb.cn/live/w1620805130988936.m3u8?zyund
 怒江贡山综合,http://livebroadcast.ccwb.cn/live/w1609121671179943.m3u8
