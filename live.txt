@@ -1361,6 +1361,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 三明综合,https://epg.pw/stream/7a15b48fac3bdd32b1955132f8bc94980c571e54574edcf9cbba5f5e9f618c53.m3u8
 三明综合,https://epg.pw/stream/6f5eebbfa2cfa3577d29b0264b5ef82b07675101fc276f407397de165e0e6c4a.m3u8
 三明建宁综合,https://p2.weizan.cn/2144741973/075444991326676404/live.m3u8?zfud
+漳州新闻综合,https://epg.pw/stream/2441d456f7c193e046f5e46289045c82d018dd2a0904d7aa8dc50524fab6e78b.m3u8
 漳州云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian
 漳州漳浦综合,https://epg.pw/stream/56eb02707eb276bcf6a207859256e48ffb2e9e03fab764bcce746f4bf6b5a8bb.m3u8
 漳州漳浦综合,http://220.161.87.62:8090/hls/0/index.m3u8?zfud
