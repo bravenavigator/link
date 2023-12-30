@@ -629,6 +629,7 @@ TVB千禧经典,https://epg.pw/stream/c2345311e1550c95759001d3e0bfe259917f17ef13
 澳门综艺,http://61.244.22.5/ch6/hd_ch6.live/index.m3u8
 澳视澳门,http://61.244.22.5/ch1/ch1.live/playelist.m3u8
 澳视澳门,http://61.244.22.5/ch1/ch1.live/playlist.m3u8
+星空卫视,http://nas.jdshipin.com:8801/bst.php?id=hyyy8m/8000000
 亚洲武侠频道,https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3u8
 北京,#genre#
 BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
@@ -1971,6 +1972,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 美国Bloomberg HT,https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
 美国Bloomberg HT,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
 美国ABC News,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+美国ABC News,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
 美国Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 美国Alhorreya TV,https://5d658d7e9f562.streamlock.net/alhorreya.tv/alhorreya.smil/playlist.m3u8
 美国Discover,http://typicamn.russtv.net/iptv/349W3XS8ENP64A/9011/index.m3u8
