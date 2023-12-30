@@ -1715,6 +1715,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 山西黄河,http://api.52tb.xyz/info?id=645&token=20230314vyrzsx
 晋中新闻频道,http://jzlive.jztvnews.com:90/live/jzzh.m3u8
 晋中公共频道,http://jzlive.jztvnews.com:90/live/jzgg.m3u8
+晋中灵石综合,https://live-stream.lsxrmtzx.com/live/video.m3u8
 晋中灵石综合,https://epg.pw/stream/43203787e88aa42a066a48163245343211f7301303fbbada47bfb8f0117892a5.m3u8
 晋中灵石综合,https://epg.pw/stream/57649e6879edcc39737c4bab54dfbb792d5b8aff119baa8b0b4d5c067c245549.m3u8
 晋中灵石综合,https://epg.pw/stream/b984a2c6a7265b8ba0167bb376c21f55c32fbec8a2fc1b786cf5e2647dffd576.m3u8
@@ -1734,8 +1735,13 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 长治潞城综合,http://59.48.42.6:62204/lucheng.m3u8
 长治潞城综合,https://epg.pw/stream/74b071446f0f63c0e85b588d597df41f81357899ae8d0cd454df93ca93f6dd9c.m3u8
 长治潞城综合,https://epg.pw/stream/3220f1955accb2daf8795e7f48c690bece8d983f6a7fdd56a96300b6d8b28498.m3u8
-长治武乡综合,https://epg.pw/stream/34258eb29e6181ca9bf61119d8a3877cd4900b828e60397df5f66f6eb2044146.m3u8临汾吉县综合,http://jxlive.jxrmtzx.com:8091/live/xwzh.m3u8
+长治武乡综合,https://epg.pw/stream/34258eb29e6181ca9bf61119d8a3877cd4900b828e60397df5f66f6eb2044146.m3u8
+长治壶关电视台,http://zmjp3jin.live.sxmty.com/live/hls/268fe96f955d496db37fb10bb887cda9/fc196029d289449ea524a94a95379a0d.m3u8
+长治平顺综合,https://stream.icelook.cn/2daa869d1623782d/6679643898219856900_1602492802.m3u8?auth_key=1893456000-0-0-8c6e3e73d78411a6bd6e2faef2b275d0
+临汾吉县综合,http://jxlive.jxrmtzx.com:8091/live/xwzh.m3u8
 临汾吉县综合,http://jxlive.jxrmtzx.com:8091/live/xwzh.m3u8?zshanxd
+忻州五台综合,https://568slnjf.live.sxmty.com/live/hls/90c8b2efeb164cc0a6c2409eed668d6b/f77cbb89ec57435b9ba4c47589c16e4f-1.m3u8
+大同灵丘电视台,https://stream.icelook.cn/1a7c625fde427dc3/6735154231323395076_1611041008.m3u8?auth_key=1893456000-0-0-fe9d45877d8cdddb4afccd9c1a12f3f8
 云南,#genre#
 云南都市,https://epg.pw/stream/062217ca243007d51858595f56846457710cca50916b0f713acfe89edd501337.m3u8
 云南都市,https://epg.pw/stream/ad1140be04bfe0b0ab2ec01237b9a35aebc903311f4269a9f9de0c17f3a9a18d.m3u8
@@ -1838,6 +1844,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 白银文化教育,http://live.bygd.cn/bygg/sd/live.m3u8?zgand
 平凉崆峒综合,http://125.74.200.110:10080/hls/001/001_live.m3u8?gansu
 宁夏,#genre#
+宁夏经济,http://www.nxtv.com.cn/m2o/channel/play.php?channel_id=7
 吴忠综合,http://live.kanwz.net/zhpd/sd/live.m3u8?zningxd
 吴忠公共,http://live.kanwz.net/ggpd/sd/live.m3u8?zningxd
 青海,#genre#
