@@ -101,6 +101,12 @@ CCTV10科教,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 CCTV10科教,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8?
 CCTV10科教,https://epg.pw/stream/e6bfc54ee21e1199bb6ef14008f837ea5700370cf215e76d488683f5e4279d2c.m3u8
 CCTV11戏曲,https://live.goodiptv.club/api/bestv.php?id=cctv11hd8m/8000000
+CCTV11戏曲,https://epg.pw/stream/d627f508e2f58f2bcb1d583bc89aa15823d9b4721cc9de00242d9ad284035057.m3u8
+CCTV11戏曲,https://epg.pw/stream/380fd2a0e12a88935db9c3b90b011270ffebeaa45361fe123a2db80942184264.m3u8
+CCTV11戏曲,https://epg.pw/stream/469d1a55e8234c672e7ed47a336aa1ccb5f5aec618a0f24641ba38ec746a3161.m3u8
+CCTV11戏曲,https://epg.pw/stream/8feb8630d696cc1b00fc6689b933f13c899a4326fd16df1bdba40c6acd1df63e.m3u8
+CCTV11戏曲,https://epg.pw/stream/dff435fb02d5f974c906bd18bbe38c96fee1364afd039b9ba2ec3ed9f298c641.m3u8
+CCTV11戏曲,https://epg.pw/stream/748505633a520c17012bc2a44c6986e85f7314f56f5e6c0bec23efa70fdcceb7.m3u8
 CCTV12社会与法,http://live.goodiptv.club/api/bestv.php?id=cctv12hd8m/8000000
 CCTV12社会与法,https://live.goodiptv.club/api/bestv.php?id=cctv12hd8m/8000000
 CCTV12社会与法,https://epg.pw/stream/51337667e5647403507b5d7923c277b8154168e635f0401f2a4221c4d2ef9861.m3u8
