@@ -589,7 +589,7 @@ TVB华丽,https://epg.pw/stream/47973f1bec87ebc2cf8c59d309bab52b4724d3be75c26c53
 TVB华丽,https://epg.pw/stream/4f4ade7ea93490e1702d018b33437d50a735eed0e20307577a17a8e2fedaaff3.ctv
 TVB华丽,https://epg.pw/stream/6326ae24edf36ebff08ac377978cc69e7658722636318fbdd9c060a2a113d85f.ctv
 TVB华丽,https://epg.pw/stream/d220436fa90ba9013ec8e795d59e6d1128f93fc8ec4efbcd6ebcf2998620bfc9.ctv
-TVB凤凰.https://epg.pw/stream/55cd3c294294fb5902db4ae3602ca367c07f9313ea01865b5c2e55390fc4d283.ctv
+TVB凤凰,https://epg.pw/stream/55cd3c294294fb5902db4ae3602ca367c07f9313ea01865b5c2e55390fc4d283.ctv
 亚洲武侠频道,https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3u8
 香港卫视文旅,http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
 香港卫视文旅,https://epg.pw/stream/092a08c73e2f252b5b864bbf21fc7753e7c59c706165977ab071e8b2216da0cb.m3u8
