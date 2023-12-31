@@ -199,6 +199,7 @@ newtv超级体育,https://epg.pw/stream/c7503b6b9f77e14eea36ce3be4648424cadcb481
 深圳卫视,https://live.goodiptv.club/api/sxg.php?id=szwsH265_4000
 深圳卫视,http://api.52tb.xyz/info?id=28&token=20230314vyrzsx
 江苏卫视,http://live.goodiptv.club/api/bestv.php?id=jswshd8m/8000000
+江苏卫视,https://live.goodiptv.club/api/bestv.php?id=jswshd8m/8000000
 江苏卫视,http://118.122.126.202:8877/rtp/239.93.0.89:5140
 江苏卫视,http://cfss.cc/api/ysp/jsws.m3u8
 江苏卫视,http://api.52tb.xyz/info?id=23&token=20230314vyrzsx
@@ -206,14 +207,17 @@ newtv超级体育,https://epg.pw/stream/c7503b6b9f77e14eea36ce3be4648424cadcb481
 江苏卫视,https://epg.pw/stream/2cbafdd3fd0f366fcade6014c05c4ac84bccc97e66ff4ad533d2acfa7523a7c0.ctv
 江苏卫视,https://epg.pw/stream/9f999c8c50426bedd62937584c3f75cc0d7b51edcfeed4e5164abb0398b55945.ctv
 浙江卫视,http://live.goodiptv.club/api/bestv.php?id=zjwshd8m/8000000
-江苏卫视,https://live.goodiptv.club/api/bestv.php?id=jswshd8m/8000000
+浙江卫视,https://live.goodiptv.club/api/bestv.php?id=zjwshd8m/8000000
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+浙江卫视,https://epg.pw/stream/5eb50e6a4ccf96ade0f3359339ce5e069161e0ced131f108c2d641275fd673ce.m3u8
 浙江卫视,https://video.lzjtu.edu.cn/liverespath/f650ba03bb4883fe67a1fb7c193a00a4c0c93881/index.m3u8
+浙江卫视,https://epg.pw/stream/ef64c3fcb165aaf94458d76bfd1251f99af55f24c33e94cd1e3ff923ccbf3567.ctv
+浙江卫视,https://epg.pw/stream/546bf3ec25f8dc97c6b5d16bdda2b8fdc6d3cd077dbbf1d2212a7a87fc6847f0.ctv
+浙江卫视,https://epg.pw/stream/2a2836fdfaf32573f827dd72f9770705b9b5ba13801fe4a3ffc19fb6fac0d88d.ctv
 浙江卫视,http://221.2.36.34:8888/newlive/live/hls/24/live.m3u8
 浙江卫视,http://api.52tb.xyz/info?id=22&token=20230314vyrzsx
 浙江卫视,http://api.52tb.xyz/info?id=73&token=20230314vyrzsx
-浙江卫视,https://live.goodiptv.club/api/bestv.php?id=zjwshd8m/8000000
 湖南卫视,http://live.goodiptv.club/api/bestv.php?id=hunanwshd8m/8000000
 湖南卫视,https://live.goodiptv.club/api/bestv.php?id=hunanwshd8m/8000000
 湖南卫视,https://live.goodiptv.club/api/sxg.php?id=hnwsH265_4000
