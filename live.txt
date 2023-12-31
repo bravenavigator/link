@@ -637,6 +637,7 @@ BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
 BRTV新闻,https://epg.pw/stream/3e01e04a6bd9beb64ce9550b799c1f1e2806d096cf391f4c31510a1b1da7e5a1.m3u8
 BRTV新闻,https://epg.pw/stream/80307082824983f38685364e741bd9738d2632ac1c9c0b22e7a5817d4fb4d0c4.m3u8
 BRTV新闻,http://123.113.181.219:9000/rtp/239.3.1.159:8000
+BRTV新闻,http://qnap.yjnhome.com:4000/udp/239.3.1.159:8000
 BRTV财经,http://123.113.181.219:9000/rtp/239.3.1.116:8000
 BRTV文艺,http://81.69.20.196/mqlive.m3u8?ip=61.48.132.122:8000&id=live1045
 BRTV文艺,http://123.113.181.219:9000/rtp/239.3.1.242:8000
@@ -964,6 +965,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 浙江民生休闲,https://epg.pw/stream/13654bcc719ecdc753df11af216349e604332a875c4d193e7d0f3982ee4152d6.m3u8
 浙江民生休闲,https://epg.pw/stream/56994d3d2db2101a25fd3875183fe806cc08f39b02e9b2adbd4008d3afb32949.m3u
 杭州综合,http://api.52tb.xyz/info?id=441&token=20230314vyrzsx
+杭州综合,http://www.372583307.top:4022/udp/233.50.201.173:5140
 杭州明珠,http://api.52tb.xyz/info?id=442&token=20230314vyrzsx
 杭州生活,http://api.52tb.xyz/info?id=443&token=20230314vyrzsx
 钱江都市,https://epg.pw/stream/02a5925b342073edac29262317e5487d38d06603c4991a5e3ecad355040377a1.m3u8
@@ -1028,6 +1030,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 金华东阳综合,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
 舟山新闻,http://live1.plus.wifizs.cn/xwzh/sd/live.m3u8
 舟山公共,http://live1.plus.wifizs.cn/ggsh/sd/live.m3u8
+舟山普陀电视台,http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
 丽水缙云综合,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
 丽水龙泉综合,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
 丽水青田综合,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
@@ -1391,12 +1394,15 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 湖北经视,http://api.52tb.xyz/info?id=541&token=20230314vyrzsx
 湖北教育,http://api.52tb.xyz/info?id=545&token=20230314vyrzsx
 湖北垄上,http://api.52tb.xyz/info?id=546&token=20230314vyrzsx
+CEC国际教育,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8      
+CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
+武汉新闻综合,http://stream.appwuhan.com/1tzb/sd/live.m3u8
 武汉新闻综合,https://epg.pw/stream/218ad695ab401a2c5a4b3525352c91052f7551c73b584cde327e98fe49bc26f7.m3u8
 武汉新闻综合,https://epg.pw/stream/a6034135055f1ebe9c7b8c75e061f85240a0121ff0f69abcca58eef985996324.m3u8
 武汉新闻综合,https://epg.pw/stream/277c2b350a2b37b80dd8a4b766d55c7bf7b44e2b0cdfbe38024cf5803f80ace4.m3u8
+武汉经济,http://stream.appwuhan.com/4tzb/sd/live.m3u8
 武汉经济,https://epg.pw/stream/4c61ed784fbdda58cc393057214c00e28320b30aebc313434e853ec1019fffae.m3u8
 武汉经济,https://epg.pw/stream/541ba8be1009af6e1e2d68a859eb61409bd3eb86edb88ebe93168c0800d9c5cc.m3u8
-武汉新闻综合,http://stream.appwuhan.com/1tzb/sd/live.m3u8
 武汉科技生活,http://stream.appwuhan.com/3tzb/sd/live.m3u8
 武汉文体,https://epg.pw/stream/3363bf78f924a14b974645948b97bc3c5424a5482445614442201a370154384f.m3u8
 武汉文体,https://epg.pw/stream/7f658fa2a2be2ea2d086197ede7b99555fedd419b775a4892b08c04dd5177d27.m3u8
@@ -1974,7 +1980,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 美国ABC News,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
 美国Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 美国Alhorreya TV,https://5d658d7e9f562.streamlock.net/alhorreya.tv/alhorreya.smil/playlist.m3u8
-美国Discover,http://typicamn.russtv.net/iptv/349W3XS8ENP64A/9011/index.m3u8
+美国Discovery,http://typicamn.russtv.net/iptv/349W3XS8ENP64A/9011/index.m3u8
 美国National Geographic,http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 美国PBS World Channel,https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/HasBahCa.m3u8
 美国PBS World Channel,https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
