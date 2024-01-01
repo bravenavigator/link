@@ -1680,6 +1680,7 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 许昌禹州公共,http://tvpull.dxhmt.cn:9081/tv/11081-2.m3u8
 许昌鄢陵综合,http://tvpull.dxhmt.cn:9081/tv/11024-1.m3u8
 许昌临颍综合,http://tvpull.dxhmt.cn:9081/tv/11122-1.m3u8
+许昌襄城综合,http://live.dxhmt.cn:9081/tv/110251.m3u8
 信阳新县综合,http://tvpull.dxhmt.cn:9081/tv/11523-1.m3u8
 信阳潢川综合,http://tvpull.dxhmt.cn:9081/tv/11526-1.m3u8
 信阳光山综合,http://tvpull.dxhmt.cn:9081/tv/11522-1.m3u8
@@ -1707,9 +1708,11 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 三门峡渑池新闻综合,http://live.dxhmt.cn:9081/tv/11221-1.m3u8
 三门峡渑池新闻综合,http://tvpull.dxhmt.cn:9081/tv/11221-1.m3u8
 三门峡灵宝新闻综合,http://live.dxhmt.cn:9081/tv/112821.m3u8
+平顶山舞钢一套,http://live.dxhmt.cn:9081/tv/104811.m3u8
 平顶山叶县一套,http://tvpull.dxhmt.cn:9081/tv/10422-1.m3u8
 平顶山叶县一套,http://live.dxhmt.cn:9081/tv/10422-1.m3u8
 平顶山宝丰一套,http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8
+平顶山宝丰一套,http://live.dxhmt.cn:9081/tv/104211.m3u8
 平顶山郏县综合,http://tvpull.dxhmt.cn:9081/tv/10425-1.m3u8
 平顶山郏县综合,http://live.dxhmt.cn:9081/tv/10425-1.m3u8
 平顶山鲁山新闻综合,http://tvpull.dxhmt.cn:9081/tv/10423-1.m3u8
