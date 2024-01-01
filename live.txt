@@ -701,9 +701,11 @@ BRTV卡酷少儿,http://123.113.181.219:9000/rtp/239.3.1.189:8000
 新闻综合,http://222.71.90.218:8888/newlive/live/hls/55/live.m3u8
 上海都市,https://live.goodiptv.club/api/bestv.php?id=dshd8m/8000000
 上海都市,http://222.71.90.218:8888/newlive/live/hls/51/live.m3u8
+上海都市,https://tencentstream.kksmg.com/live/ylpd.m3u8?txSecret=cdf7a0d745693e8543f4976fdd350885&txTime=65930f27
 上海都市,https://epg.pw/stream/ad578b0c34991ef573c74e5aabee0136c346ed3ccb5a79bf53703e9df8c3bc57.ctv
 上海都市,https://epg.pw/stream/ca410fd605825e91fe79028b3874b994b2f362d0842590e94699bee951526d21.ctv
 第一财经,http://api.52tb.xyz/info?id=377&token=20230314vyrzsx
+第一财经,https://tencentstream.kksmg.com/live/dycj.m3u8?txSecret=7a5d215140e2a576bf87bc2c52194205&txTime=65930ee9
 第一财经,https://live.goodiptv.club/api/bestv.php?id=dycjhd8m/8000000
 第一财经,http://222.71.90.218:8888/newlive/live/hls/57/live.m3u8
 东方财经,https://epg.pw/stream/e256d4776e7ff92f40159e8e6aa7ee30e529b7c65fa8ab743c32f722d85e6c9a.ctv
@@ -715,9 +717,10 @@ BRTV卡酷少儿,http://123.113.181.219:9000/rtp/239.3.1.189:8000
 东方影视,http://[2409:8087:1e03:21::34]:6610/cms001/ch00000090990000001016/index.m3u8?IASHttpSessionId=RR8275420230310002030000839
 纪实人文,http://222.71.90.218:8888/newlive/live/hls/54/live.m3u8
 纪实人文,http://api.52tb.xyz/info?id=378&token=20230314vyrzsx
-纪实人文,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001330/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+纪实人文,https://tencentstream.kksmg.com/live/jspd.m3u8?txSecret=e9625f6d918581389dae2f66193a38cd&txTime=65930f04
 纪实人文,https://epg.pw/stream/43737f6fa0addf531e74b95452c3b3f3fdc80d6e25125f53dc5fb46012d8c128.ctv
 纪实人文,https://epg.pw/stream/81e373998e3d591d819bd507cc589382cdf94f81c7bf24d2c2cca35e88248a71.ctv
+纪实人文,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001330/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 上海教育,https://epg.pw/stream/4c2942fcdda269a17223ee1c3f2330e817b766b5bb78bee19b39a3d31567e68d.ctv
 上海教育,https://epg.pw/stream/c2761899f954dce8f16b21de8c021f9741cc41abdcf67d9165a194b97a31d1d9.ctv
 金色学堂,https://epg.pw/stream/330a4fe213cbd2c76dae2e9cc7862276dff0269fb9b04a8c14967f5245f8e5cc.ctv
@@ -1212,9 +1215,9 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 聊城东阿综合,http://lu1.cc/itv/php/iqilu.php?id=lcdezy
 聊城高唐综合,http://lu1.cc/itv/php/iqilu.php?id=lcgtzh
 潍坊青州综合,http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8
-潍坊青州电视台文化旅游,http://sdqz.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8
+潍坊青州文化旅游,http://sdqz.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8
 日照莒县综合,rtmp://alivealone.litenews.cn/159/0b1ee3da151a4d188a4e96ccda79b82f
-
+威海一套,http://l1.weihai.tv:8081/hls/969O76hb21.m3u8
 四川,#genre#
 四川新闻,http://api.52tb.xyz/info?id=602&token=20230314vyrzsx
 四川新闻 ,https://live.goodiptv.club/api/sxg.php?id=SCTV-4H265_4000
@@ -1332,11 +1335,11 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 南充营山电视台,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd
 南充营山电视台,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
 攀枝花新闻综合,http://zb.pzhgd.com:9095/live/xwzh.m3u8?zsicd
+攀枝花新闻综合,https://live.goodiptv.club/api/sxg.php?id=pzhytH265_4000
 攀枝花公共,http://zb.pzhgd.com:9095/live/ggpd.m3u8?zsicd
+攀枝花攀钢新闻综合,https://live.goodiptv.club/api/sxg.php?id=pgxwzh_2000
 攀枝花会理新闻,https://live.goodiptv.club/api/sxg.php?id=hlyt_4000
 攀枝花米易综合,https://live.goodiptv.club/api/sxg.php?id=myxwzh_2000
-攀枝花攀钢新闻综合,https://live.goodiptv.club/api/sxg.php?id=pgxwzh_2000
-攀枝花攀枝花新闻综合,https://live.goodiptv.club/api/sxg.php?id=pzhytH265_4000
 攀枝花盐边综合https://live.goodiptv.club/api/sxg.php?id=ybtgq_2000
 雅安新闻综合,https://live.goodiptv.club/api/sxg.php?id=yazh_2000
 雅安公共,https://live.goodiptv.club/api/sxg.php?id=yagg_2000
