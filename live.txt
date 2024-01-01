@@ -1200,10 +1200,10 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 枣庄公共,http://stream.zztvzd.com/3/sd/live.m3u8
 枣庄教育,https://epg.pw/stream/bed89336e576fd92d1fed4b5f9a41f6127e6aed764adb9f24659527320f48d68.m3u8
 枣庄教育,https://epg.pw/stream/e566be0ee8061398ca14cf39929365202b2ba1d94d31ddd4eadb3410d3de59ea.m3u8
-菏泽1套,http://live.hznet.tv:1935/live/live1/500k/tzwj_video.m3u8
-菏泽2套,http://live.hznet.tv:1935/live/live2/500k/tzwj_video.m3u8
-菏泽3套,http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8
-菏泽3套,http://live.hznet.tv:1935/live/live3/500k/tzwj_video.m3u8
+菏泽一套,http://live.hznet.tv:1935/live/live1/500k/tzwj_video.m3u8
+菏泽二套,http://live.hznet.tv:1935/live/live2/500k/tzwj_video.m3u8
+菏泽三套,http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8
+菏泽三套,http://live.hznet.tv:1935/live/live3/500k/tzwj_video.m3u8
 菏泽3套,http://alivealone.litenews.cn/131/fe5bb10e7b4845a784116b133146698a.flv
 东营新闻综合,rtmp://stream.hhek.cn:9936/live/xwzh_sd
 济宁综合,http://lives.jnnews.tv/video/s10001JNTV1/index.m3u8
@@ -1212,11 +1212,8 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 临沂新闻综合,https://m3u8channel.lytv.tv/nmipmedia/channellive/channel111841/playlist.m3u8
 临沂公共,https://m3u8channel.lytv.tv/nmipmedia/channellive/channel113571/playlist.m3u8
 临沂农科,https://m3u8channel.lytv.tv/nmipmedia/channellive/channel115062/playlist.m3u8
-聊城东阿综合,http://lu1.cc/itv/php/iqilu.php?id=lcdezy
+聊城东阿一套,http://lu1.cc/itv/php/iqilu.php?id=lcdezy
 聊城高唐综合,http://lu1.cc/itv/php/iqilu.php?id=lcgtzh
-潍坊青州综合,http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8
-潍坊青州文化旅游,http://sdqz.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8
-日照莒县综合,rtmp://alivealone.litenews.cn/159/0b1ee3da151a4d188a4e96ccda79b82f
 威海一套,http://l1.weihai.tv:8081/hls/969O76hb21.m3u8
 四川,#genre#
 四川新闻,http://api.52tb.xyz/info?id=602&token=20230314vyrzsx
@@ -1729,7 +1726,6 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 鹤壁淇县电视台,http://live.dxhmt.cn:9081/tv/10622-1.m3u8
 鹤壁浚县一套,http://tvpull.dxhmt.cn:9081/tv/10621-1.m3u8
 鹤壁浚县一套,http://live.dxhmt.cn:9081/tv/10621-1.m3u8
-
 平顶山舞阳新闻综合,http://live.dxhmt.cn:9081/tv/11121-1.m3u8
 南阳新野综合,http://live.dxhmt.cn:9081/tv/11329-1.m3u8
 南阳镇平新闻综合,http://live.dxhmt.cn:9081/tv/11324-1.m3u8
@@ -1738,8 +1734,6 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 驻马店新蔡新闻综合,http://live.dxhmt.cn:9081/tv/11729-1.m3u8
 信阳潢川新闻综合,http://live.dxhmt.cn:9081/tv/11526-1.m3u8
 信阳罗山新闻综合频道,http://live.dxhmt.cn:9081/tv/11521-1.m3u8
-济源一套,http://live.dxhmt.cn:9081/tv/19001-1.m3u8
-
 河北,#genre#
 河北公共,https://epg.pw/stream/e15b3f13fdc77c07a679afc74e5e32e296313f237bb1cf45336de2dc8638b493.m3u8
 石家庄新闻综合,http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8
