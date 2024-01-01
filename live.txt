@@ -1203,10 +1203,18 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 菏泽3套,http://live.hznet.tv:1935/live/live3/500k/tzwj_video.m3u8
 菏泽3套,http://alivealone.litenews.cn/131/fe5bb10e7b4845a784116b133146698a.flv
 东营新闻综合,rtmp://stream.hhek.cn:9936/live/xwzh_sd
-日照莒县综合,rtmp://alivealone.litenews.cn/159/0b1ee3da151a4d188a4e96ccda79b82f
+济宁综合,http://lives.jnnews.tv/video/s10001JNTV1/index.m3u8
+济宁生活,http://lives.jnnews.tv/video/s10001JNTV22023/index.m3u8
 济宁邹城文化生活,http://lu1.cc/itv/php/iqilu.php?id=jizcwh
+临沂新闻综合,https://m3u8channel.lytv.tv/nmipmedia/channellive/channel111841/playlist.m3u8
+临沂公共,https://m3u8channel.lytv.tv/nmipmedia/channellive/channel113571/playlist.m3u8
+临沂农科,https://m3u8channel.lytv.tv/nmipmedia/channellive/channel115062/playlist.m3u8
 聊城东阿综合,http://lu1.cc/itv/php/iqilu.php?id=lcdezy
 聊城高唐综合,http://lu1.cc/itv/php/iqilu.php?id=lcgtzh
+潍坊青州综合,http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8
+潍坊青州电视台文化旅游,http://sdqz.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8
+日照莒县综合,rtmp://alivealone.litenews.cn/159/0b1ee3da151a4d188a4e96ccda79b82f
+
 四川,#genre#
 四川新闻,http://api.52tb.xyz/info?id=602&token=20230314vyrzsx
 四川新闻 ,https://live.goodiptv.club/api/sxg.php?id=SCTV-4H265_4000
