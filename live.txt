@@ -929,9 +929,9 @@ BRTV国际频道,http://114.254.94.201:2222/rtp/239.3.1.235:8000
 荣昌综合,http://183.64.181.25:40023/rongchang01.m3u8
 江津综合,https://epg.pw/stream/68d5d5d4aeab061ab1fce317de769173e677dc84aaa5cc0fc1829a3e978cbf3a.m3u8
 台湾,#genre#
+民视新闻,https://epg.pw/stream/357581cc08ace7ef32a04c9c53578fe9906e137989e1f5e0355395f7a3ae8e37.m3u8
 民视新闻,https://epg.pw/stream/b63bf1df7bf1e2c47a873d3987c2d59a08d8e4dfed1e197bce7e791eb64eb16e.m3u8
 民视新闻,https://epg.pw/stream/76f0ee00f9e59f698ff954d5f79bf2c7f5ecbc83a47381bb74906acd165bd48c.m3u8
-民视新闻,https://epg.pw/stream/357581cc08ace7ef32a04c9c53578fe9906e137989e1f5e0355395f7a3ae8e37.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 民视新闻,http://194.87.101.118:9501/live.m3u8?c=11
