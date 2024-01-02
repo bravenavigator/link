@@ -1099,7 +1099,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 徐州铜山一套,http://stream.tstvxmt.com/tstv1/sd/live.m3u8
 徐州铜山二套,http://stream.tstvxmt.com/ts3/sd/live.m3u8
 泰州靖江新闻综合,http://visit.jjbctv.com:1935/live/xwzhpc/playlist.m3u8
-泰州靖江新闻綜合,https://epg.pw/stream/1e6105d2650da2828108e5aa3a285d18fd2284c3529f17fa56b715329b6301df.m3u8
+泰州靖江新闻综合,https://epg.pw/stream/1e6105d2650da2828108e5aa3a285d18fd2284c3529f17fa56b715329b6301df.m3u8
 宿迁泗阳综合,http://siyangtvhls.cm.jstv.com/siyangtv/siyangzh.m3u8
 宿迁泗阳综合,http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzh.m3u8
 宿迁泗阳资讯,http://siyangtvhls.cm.jstv.com/siyangtv/siyangzx.m3u8
