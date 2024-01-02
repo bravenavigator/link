@@ -1057,11 +1057,9 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 镇江新闻综合,http://zjtvwshls.homecdn.com/live/2aa50.m3u8
 镇江新闻综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8
 镇江新闻综合,rtmp://tv.jjrm.org.cn/channellive/ch1
-靖江新闻综合,http://visit.jjbctv.com:1935/live/xwzhpc/playlist.m3u8
 镇江新闻综合,https://epg.pw/stream/b0e776b726b7704f5ec03c236201983be898449519d041d2661a5c0a2c55ee4a.ctv
 镇江新闻综合,https://epg.pw/stream/3b8fa0a822e57a8e0b880f0bd3a83b5960853e886eaf3f6c897d3df81d594fcd.m3u8
 镇江新闻综合,https://epg.pw/stream/b71cb8847f56152f3d58e9b91368d1e647088849e09ac441e4ceebab99c75847.m3u8
-靖江新闻綜合,https://epg.pw/stream/1e6105d2650da2828108e5aa3a285d18fd2284c3529f17fa56b715329b6301df.m3u8
 镇江二套,http://zjtvwshls.homecdn.com/live/2aa16.m3u8
 镇江二套,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
 南通如东新闻,http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8
@@ -1100,6 +1098,8 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 徐州沛县新闻综合,http://peixian-tv-hls.cm.jstv.com/peixian-tv/pxzh.m3u8
 徐州铜山一套,http://stream.tstvxmt.com/tstv1/sd/live.m3u8
 徐州铜山二套,http://stream.tstvxmt.com/ts3/sd/live.m3u8
+泰州靖江新闻综合,http://visit.jjbctv.com:1935/live/xwzhpc/playlist.m3u8
+泰州靖江新闻綜合,https://epg.pw/stream/1e6105d2650da2828108e5aa3a285d18fd2284c3529f17fa56b715329b6301df.m3u8
 宿迁泗阳综合,http://siyangtvhls.cm.jstv.com/siyangtv/siyangzh.m3u8
 宿迁泗阳综合,http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzh.m3u8
 宿迁泗阳资讯,http://siyangtvhls.cm.jstv.com/siyangtv/siyangzx.m3u8
@@ -1172,9 +1172,6 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 绍兴新昌新闻综合,https://epg.pw/stream/117353e7f349e9841ea7d79852cc8cb8fa4449dd2ddffa9bec27e2babfdba2f9.m3u8
 绍兴新昌生活频道,http://api.52tb.xyz/info?id=440&token=20230314vyrzsx
 温州新闻综合,http://127.0.0.1
-温州永嘉新闻综合,http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8
-温州永嘉新闻综合,https://epg.pw/stream/8cb05e5ed567cade53c698c241bceb8b76a7e9dfe92d963b633fd1cc7e24d005.m3u8
-温州永嘉新闻综合,https://epg.pw/stream/fa5f1fadc29be3aab195dfa0fb13f94dc6427671aa6cae16dd5ff85e12254027.m3u8
 温州龙游新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
 嘉兴海宁新闻综合,http://live.hndachao.cn/xwzh/sd/live.m3u8
 嘉兴海宁新闻综合,https://epg.pw/stream/430bf9e770302d728d652b25b3c92a9357d50927a734bd8d97aacc47e6c875d3.m3u8
@@ -1186,8 +1183,6 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 金华兰溪新闻综合,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
 金华义乌新闻综合,https://44911.hlsplay.aodianyun.com/tv_radio_44911/tv_channel_1796.m3u8?auth_key=4830573978-0-0-92824c2c03f95906a3c49a4aa28f1709&extra_key=Yc1XsmxOKy2UBoPM4Wy5vCPsEYqnj06taCR2SRB2Xrg2w28NPilH03KdIbbM5wgSql-VBohSnoO9AOKl94q2t2DWMftz-XB-2qUX-UjXcS80StcSZahBFjrKLivXaRjiY5r2NOMKWMKFbv-S0Bz2G6iEXgCK8yGjtrFHDcPfAQEE0pvXq0Bwy34b7We8zARN&ali_ffmpeg_version=mpengine
 金华东阳综合,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
-舟山新闻,http://live1.plus.wifizs.cn/xwzh/sd/live.m3u8
-舟山公共,http://live1.plus.wifizs.cn/ggsh/sd/live.m3u8
 舟山普陀电视台,http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
 丽水缙云综合,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
 丽水龙泉综合,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
