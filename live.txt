@@ -2287,6 +2287,8 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 法国PARIS 2,德国RTL,http://livetv.ktv.zone/55/play.m3u8
 法国TV5,http://livetv.ktv.zone/61/play.m3u8
 法国LCI,http://livetv.ktv.zone/28/play.m3u8
+法国TFX,http://livetv.ktv.zone/13/play.m3u8
+法国TF1,http://livetv.ktv.zone/3/play.m3u8
 西班牙BFM,http://livetv.ktv.zone/17/play.m3u8
 以色列i24 News,https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/profile_0/chunklist.m3u8
 日本NNK News,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
@@ -2323,9 +2325,10 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 英国Sky Sports football,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7336/index.m3u8
 英国Sky Sports News,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2477/index.m3u8
 英国Sky Sports Cricket,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7343/index.m3u8
+美国Ski TV,https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SynapseTV/193.m3u8
+南非WildEarth,https://wildearth-roku.amagi.tv/masterR720P.m3u8
 Tastemate trave,https://tastemadetravel-vizio.amagi.tv/playlist720_p.m3u8
 Travexp,https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
-WildEarth,https://wildearth-roku.amagi.tv/masterR720P.m3u8
 MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
 Motorvisison TV,https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 求索,#genre#
