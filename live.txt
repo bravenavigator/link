@@ -1993,7 +1993,7 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 许昌襄城综合,http://live.dxhmt.cn:9081/tv/
 陕西,#genre#
 新闻资讯,http://127.0.0.1
-陕西都市,http://api.52tb.xyz/info?id=622&token=20230314vyrzsx
+都市青春,http://api.52tb.xyz/info?id=622&token=20230314vyrzsx
 陕西公共,http://api.52tb.xyz/info?id=624&token=20230314vyrzsx
 陕西生活,http://api.52tb.xyz/info?id=623&token=20230314vyrzsx
 陕西影视,http://127.0.0.1
