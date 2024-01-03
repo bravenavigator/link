@@ -2299,7 +2299,7 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 越南Da Nang TV2,http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 越南Gia Lai TV,http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
 越南KTV,http://210.245.20.94/hls/ktv1.m3u8
-越南CTV,http://tv.ctvcamau.vn/live/tv/tv.m3u8
+越南HBTV,http://tv.ctvcamau.vn/live/tv/tv.m3u8
 越南HBTV,http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
 越南Truyền hình Thái Nguyênhttps://streaming.thainguyentv.vn/hls/livestream.m3u8
 越南Hải Phòng,https://live.thhp.vn/thp/index.m3u8
