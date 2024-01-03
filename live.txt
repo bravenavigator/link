@@ -2028,13 +2028,6 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 辽宁公共,http://42.176.185.28:9901/tsfile/live/1010_1.m3u8
 辽宁经济,http://42.176.185.28:9901/tsfile/live/1009_1.m3u8
 吉林,#genre#
-吉林新闻,http://stream1.jlntv.cn/ggpd/sd/live.m3u8?zjild
-吉林新闻,http://stream1.jlntv.cn/ggpd/playlist.m3u8
-吉林公共,https://epg.pw/stream/6e9874c8189a8b9e6b7b66fc37cc2f755273cdacaf9c6c29386b74a4dd94a84a.m3u8
-吉林公共,https://epg.pw/stream/1a73721071371cdfc369efe45b10a36cdd8f923e3188e4c4cdb97acb8782e8d5.m3u8
-吉林公共,https://epg.pw/stream/973c44e640db8a0dc1bdceed6ffd768768ee862ccec89bb0d1839e17500e72f5.m3u8
-吉林公共,https://epg.pw/stream/93c9138cefd4271b31d3e92ebcab79d0e224e0f0d7ca27e031250288675b9b0a.m3u8
-吉林公共,https://epg.pw/stream/fbbbc97be37a946dd11f981eddddbaccc3953fa6303541e4485b98a7cdb7783f.m3u8
 延边-1,http://live.ybtvyun.com/video/s10016-af95004b6d1a/index.m3u8?zjild
 延边-2,http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8?zjild
 延边-2,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8?zjild
