@@ -683,7 +683,6 @@ newtv超级体育,https://epg.pw/stream/c7503b6b9f77e14eea36ce3be4648424cadcb481
 中山教育,http://113.103.253.43:2000/rtp/239.253.43.64:5146
 东莞新闻综合,http://113.103.253.43:2000/rtp/239.253.43.104:5146
 东莞生活资讯,http://113.103.253.43:2000/rtp/239.253.43.105:5146
-广东新闻,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
 广东新闻,http://api.52tb.xyz/info?id=404&token=20230314vyrzsx
 广东珠江,http://api.52tb.xyz/info?id=410&token=20230314vyrzsx
 广东民生,http://gxdl-lhs.8866.org:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -775,15 +774,15 @@ BRTV新闻,http://qnap.yjnhome.com:4000/udp/239.3.1.159:8000
 BRTV财经,http://127.0.0.1
 BRTV文艺,http://81.69.20.196/mqlive.m3u8?ip=61.48.132.122:8000&id=live1045
 BRTV生活,http://127.0.0.1
-BRTV影视,http://127.0.0.1
+BRTV影视,https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv4_1/index.m3u8?adapt=0&BR=audio
 BRTV纪实科教,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 BRTV纪实科教,https://epg.pw/stream/544cc09b12f4a7e88dcf6d03ac6f42925ce17749273bdc3f324897c1593df622.m3u8
 BRTV卡酷少儿,http://127.0.0.1
 BRTV体育休闲,http://127.0.0.1
 BRTV国际频道,http://127.0.0.1
-睛彩竞技,http://127.0.0.1
-睛彩篮球,http://127.0.0.1
-睛彩羽毛球,http://127.0.0.1
+晴彩竞技,http://eecc.cc:8888/udp/233.50.201.193:5140
+晴彩篮球,http://eecc.cc:8888/udp/233.50.201.194:5140
+晴彩羽毛球,http://eecc.cc:8888/udp/233.50.201.195:5140
 睛彩广场舞,http://127.0.0.1
 淘电影,http://127.0.0.1
 淘剧场,https://epg.pw/stream/048d8fe525fd37fed2c701d3297a3a03e5612d2fc444f2df0e0c42fde251a6e7.ctv
@@ -2115,6 +2114,7 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 丹东新闻综合,http://mmitv.top/test/tianma.php?id=ddzh
 辽宁公共,http://42.176.185.28:9901/tsfile/live/1010_1.m3u8
 辽宁经济,http://42.176.185.28:9901/tsfile/live/1009_1.m3u8
+辽宁体育,http://42.176.185.28:9901/tsfile/live/1007_1.m3u8
 吉林,#genre#
 吉林新闻,http://stream1.jlntv.cn/ggpd/sd/live.m3u8?zjild
 吉林新闻,http://stream1.jlntv.cn/ggpd/playlist.m3u8
@@ -2292,6 +2292,9 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 埃塞俄比亚addistv,https://epg.pw/stream/cf66e94f476d3d328d04c3b0b71da1979d6435fdb1a7fda45179f89f1e40c8db.m3u8
 英国BBC Earth,http://typicamn.russtv.net/iptv/349W3XS8ENP64A/6855/index.m3u8
 英国BBC travel,https://ab96b349d4d14d80a1f8530a0bce4488.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-de_BBCTravel/playlist.m3u8?
+英国Sky Sports football,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7336/index.m3u8
+英国Sky Sports News,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2477/index.m3u8
+英国Sky Sports Cricket,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7343/index.m3u8
 Tastemate trave,https://tastemadetravel-vizio.amagi.tv/playlist720_p.m3u8
 Travexp,https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
 WildEarth,https://wildearth-roku.amagi.tv/masterR720P.m3u8
