@@ -786,9 +786,9 @@ BRTV纪实科教,https://epg.pw/stream/544cc09b12f4a7e88dcf6d03ac6f42925ce177492
 BRTV卡酷少儿,http://127.0.0.1
 BRTV体育休闲,http://127.0.0.1
 BRTV国际频道,http://127.0.0.1
-晴彩竞技,http://eecc.cc:8888/udp/233.50.201.193:5140
-晴彩篮球,http://eecc.cc:8888/udp/233.50.201.194:5140
-晴彩羽毛球,http://eecc.cc:8888/udp/233.50.201.195:5140
+睛彩竞技,http://eecc.cc:8888/udp/233.50.201.193:5140
+睛彩篮球,http://eecc.cc:8888/udp/233.50.201.194:5140
+睛彩羽毛球,http://eecc.cc:8888/udp/233.50.201.195:5140
 睛彩广场舞,http://127.0.0.1
 淘电影,http://127.0.0.1
 淘剧场,https://epg.pw/stream/048d8fe525fd37fed2c701d3297a3a03e5612d2fc444f2df0e0c42fde251a6e7.ctv
