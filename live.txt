@@ -2290,15 +2290,22 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 韩国ArirangTV,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 韩国ArirangTV,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 韩国KBS WORLD,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
+韩国KBC,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 新加坡Cna News,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 新加坡Cna News,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 新加坡Cna News,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 新加坡Cna News,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_2.m3u8
 越南Da Nang TV1,http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
 越南Da Nang TV2,http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
+越南Gia Lai TV,http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
+越南KTV,http://210.245.20.94/hls/ktv1.m3u8
+越南CTV,http://tv.ctvcamau.vn/live/tv/tv.m3u8
+越南HBTV,http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
 越南Truyền hình Thái Nguyênhttps://streaming.thainguyentv.vn/hls/livestream.m3u8
 越南Hải Phòng,https://live.thhp.vn/thp/index.m3u8
 越南Hải Phòng +,https://live.thhp.vn/hls/thpplus/index.m3u8
+泰国ASTV News,ttp://news1.live14.com/stream/news1_hi.m3u8
+泰国CTB,http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 土耳其TRT World,https://tv-trtworld.live.trt.com.tr/master.m3u8
 阿联酋sharjahtv,https://epg.pw/stream/015719860ea5e8844ebfbfb66fe6898892d6f68dfe31337cfa95312689cb1f99.m3u8
 尼日利亚TSTV,http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
