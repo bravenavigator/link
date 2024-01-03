@@ -719,6 +719,8 @@ newtv超级体育,https://epg.pw/stream/c7503b6b9f77e14eea36ce3be4648424cadcb481
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 凤凰香港,hhttps://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8
 凤凰香港,https://fake-stream.livednow.com/mdvb/phx-hk?token=8c49b0a6f0c36e6990d3ff661695b413&user_id=1001586361&user_token=7369737c57a4a30828b792bd84e746ae
+耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?$1024x576
+耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 TVB翡翠,http://r.jdshipin.com/qClQf
 TVB翡翠,https://epg.pw/stream/f8abbdf5312cd5274ea4bc7602ae3320fb86083f7a07c8c2f08027421f54ad51.ctv
 TVB翡翠,https://epg.pw/stream/72d4915ec44c10747097256e886a068d1b80edf5de9c15573fd0d896b8580858.ctv
@@ -934,8 +936,6 @@ BRTV国际频道,http://114.254.94.201:2222/rtp/239.3.1.235:8000
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 民视新闻,http://194.87.101.118:9501/live.m3u8?c=11
-民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-民视新闻,http://194.87.101.118:9501/live.m3u8?c=11
 台视新闻,https://epg.pw/stream/6ffb325e878b6ae255f12f6f11aef268b32db0d6b8b43c53fa0041975274cba5.m3u8
 台视新闻,https://epg.pw/stream/07420afeb8a2edf0654aac4b73fe562896504712677577e2929d4425986b3415.m3u8
 台视新闻,https://epg.pw/stream/4c8adef47c01115677bc13b65593946135e6fe8c470fad1db810248c3ca10150.m3u8
@@ -984,6 +984,7 @@ BRTV国际频道,http://114.254.94.201:2222/rtp/239.3.1.235:8000
 东森财经新闻,https://epg.pw/stream/1f0d0e82ff3b9bbf3fbb877a47a08099bd3c5d972e033a5015f3da0097a458d3.ctv
 东森美洲,https://epg.pw/stream/568e26b29122e84e3527b97eca553332274777bdf39873fb234fb6581a3f6a59.m3u8
 东森美洲,https://epg.pw/stream/3f54de58cf44244a3a2e14cd7388cac348a17ada96c4aba4b5a65f1c4ceeabca.m3u8
+东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 东森电影,https://epg.pw/stream/2b9694161f75806179149e3b0bffc576073f99c5fefd7c55b85ed46722882104.ctv
 东森幼幼,https://epg.pw/stream/de717f629316508933939cc9d90e62b3a86d6377aff1ca390e1717e68c960eb4.m3u8
 镜新闻,http://194.87.101.118:9501/live.m3u8?c=10
@@ -1006,6 +1007,8 @@ TVBS亚洲,https://epg.pw/stream/2fbffd6fc4d2bea54ecbec3d9c4bd63b45925736f1d2c54
 TVBS亚洲,https://epg.pw/stream/66bf179aaff5c0d3cc415c89f6289acdc2b57da03f3f7fef3274f458fb7ff236.ctv
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 江苏,#genre#
 江苏城市,http://api.52tb.xyz/info?id=451&token=20230314vyrzsx
 江苏公共,http://api.52tb.xyz/info?id=454&token=20230314vyrzsx
@@ -2263,6 +2266,7 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 英国BBC World News,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
 英国BBC World News,https://epg.pw/stream/1c78ff2850727e38ae6d8f3a4bb0431f36c4129b4d0ad18fce6213bd5957b73c.ctv
 卡塔尔AL Jazeera,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+卡塔尔AL Jazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 卡塔尔AL Jazeera,https://epg.pw/stream/b7ed4a30861d17378eae7b5b2ba31e8d12f8d6679a4e66cd8425dda5f6eff50a.m3u8
 法国France24 News,https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_091/HD/playlist.m3u8
 法国France24 News,http://n1.klowdtv.net/live2/france24_720p/chunks.m3u8
@@ -2281,6 +2285,7 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 新加坡Cna News,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 新加坡Cna News,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 新加坡Cna News,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+新加坡Cna News,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_2.m3u8
 越南Da Nang TV1,http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
 越南Da Nang TV2,http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 越南Truyền hình Thái Nguyênhttps://streaming.thainguyentv.vn/hls/livestream.m3u8
