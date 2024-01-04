@@ -2036,13 +2036,13 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 青海,#genre#
 青海综合,https://epg.pw/stream/5cb777ff37d8dd005b5912ce19a3c229a89692c66f661e67996f46b1cea13138.m3u8
 青海综合,http://lmt.scqstv.com/live1/live1.m3u8
-青海经视,http://stream.qhbtv.com/qhsh/playlist.m3u8
-青海经视,http://stream.qhbtv.com/qhsh/sd/live.m3u8
-青海经视,http://stream.qhbtv.com/qhsh/sd/live.m3u8?_upt=a7ec5e491648026933
-青海经视,http://stream.qhbtv.com/qhsh/sd/live.m3u8?_upt=ba357f031594546763
+青海经视,http://stream.q.com/qhsh/playlist.m3u8
+青海经视,http://stream.q.com/qhsh/sd/live.m3u8
+青海经视,http://stream.q.com/qhsh/sd/live.m3u8?_upt=a7ec5e491648026933
+青海经视,http://stream.q.com/qhsh/sd/live.m3u8?_upt=ba357f031594546763
 青海经视,https://epg.pw/stream/684b0967063b916bcc7e16480e96a7917c0cf4e14a4813aa871b2737beda135a.m3u8
-青海都市,http://stream.qhbtv.com/qhds/playlist.m3u8
-青海都市,http://stream.qhbtv.com/qhds/sd/live.m3u8
+青海都市,http://stream.q.com/qhds/playlist.m3u8
+青海都市,http://stream.q.com/qhds/sd/live.m3u8
 青海都市,http://stream.qhbtv.com/qhds/sd/live.m3u8?_upt=f868bafe1594546577
 青海都市,https://epg.pw/stream/0b8ad0a2cb3cee25fe5e1414c4f2dddd1c4a466ce25aa83b00cc5717f35fe420.m3u8
 青海都市,https://epg.pw/stream/8c444b546ed57c4d5287b55d2c9ab96a10b022b449bf7f1fad766bc1a6c15fa2.m3u8
@@ -2144,7 +2144,7 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 美国Bloomberg HT,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
 美国PBS World Channel,https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/HasBahCa.m3u8
 美国PBS World Channel,https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
-英国BBC World News HD,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+英国BBC World News,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 英国BBC World News,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
 英国BBC World News,https://epg.pw/stream/1c78ff2850727e38ae6d8f3a4bb0431f36c4129b4d0ad18fce6213bd5957b73c.ctv
 英国BBC World News,http://livetv.ktv.zone/60/play.m3u8
@@ -2210,7 +2210,7 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 美国Discoveryᴴᴰ,http://typicamn.russtv.net/iptv/349W3XS8ENP64A/9011/index.m3u8
 美国National Geographicᴴᴰ,http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 美国Ski TV,https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SynapseTV/193.m3u8
-南非WildEarth,https://wildearth-roku.amagi.tv/masterR720P.m3u8
+南非Wild Earth,https://wildearth-roku.amagi.tv/masterR720P.m3u8
 Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Tastemate Travelᴴᴰ,https://tastemadetravel-vizio.amagi.tv/playlist720_p.m3u8
 Travexp,https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
