@@ -2144,8 +2144,8 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 美国Bloomberg HT,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
 美国PBS World Channel,https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/HasBahCa.m3u8
 美国PBS World Channel,https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
-英国BBC World News,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
 英国BBC World News,https://epg.pw/stream/1c78ff2850727e38ae6d8f3a4bb0431f36c4129b4d0ad18fce6213bd5957b73c.ctv
+英国BBC World News,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
 英国BBC World News,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 英国BBC World News,http://livetv.ktv.zone/60/play.m3u8
 英国Reuters TV,https://reuters-reutersnow-1-us.plex.wurl.tv/c0c0829237382f291cc46a0368586aa7.m3u8
