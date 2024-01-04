@@ -9,6 +9,8 @@ CCTV13新闻,https://pi.0472.org/tv/mzt.php?auth=230918
 CCTV13新闻,https://epg.pw/stream/fc939113e81b8c3c09a430f2d5aecf985c98d73658e4314d70292b2f53d2e153.m3u8
 CCTV13新闻,https://epg.pw/stream/8ac04e7b70e865979f6e3f2728ab4e5ba91c266bde31b73935d6f409e979363c.m3u8
 CCTV13新闻,https://epg.pw/stream/0501c350d1f916503cf3d09a768aeed9fa267fe66db776242f37cd882602605f.m3u8
+CCTV13新闻,https://epg.pw/stream/33adc72bf5c5ca3b3e4e60a8207ffbeb1bff76fd2fa3737a54fba7bd10c39457.m3u8
+CCTV13新闻,https://epg.pw/stream/31387d02f3c753ac9bcebff76834268ddf38c7668ee1e16b5c6621971de64ef1.m3u8
 CCTV13新闻,http://live.goodiptv.club/api/bestv.php?id=cctv13xwhd8m/8000000
 CCTV13新闻,https://live.goodiptv.club/api/bestv.php?id=cctv13xwhd8m/8000000
 CCTV1综合,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
