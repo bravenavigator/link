@@ -469,9 +469,7 @@ Newtv超级体育,https://epg.pw/stream/c7503b6b9f77e14eea36ce3be4648424cadcb481
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935?zguangd
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1612881417-0-0-bc7ddba066481bc805fc1e800654e721?zguangd
-广东珠江,http://113.103.253.43:2000/rtp/239.77.0.3:5146
 广东珠江,http://113.103.253.43:2000/rtp/239.77.0.1:5146
-汕头经济生活,http://113.103.253.43:2000/rtp/239.253.43.46:5146
 广东珠江,http://113.78.252.188:8888/rtp/239.77.0.1:5146
 广东珠江,http://113.78.252.188:8888/rtp/239.77.0.114:5146
 广东新闻,http://113.78.252.188:8888/rtp/239.77.0.173:5146
