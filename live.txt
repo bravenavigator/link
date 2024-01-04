@@ -7,6 +7,8 @@ CCTV13新闻,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/32
 CCTV13新闻,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8$移动
 CCTV13新闻,https://pi.0472.org/tv/mzt.php?auth=230918
 CCTV13新闻,https://epg.pw/stream/fc939113e81b8c3c09a430f2d5aecf985c98d73658e4314d70292b2f53d2e153.m3u8
+CCTV13新闻,https://epg.pw/stream/8ac04e7b70e865979f6e3f2728ab4e5ba91c266bde31b73935d6f409e979363c.m3u8
+CCTV13新闻,https://epg.pw/stream/0501c350d1f916503cf3d09a768aeed9fa267fe66db776242f37cd882602605f.m3u8
 CCTV13新闻,http://live.goodiptv.club/api/bestv.php?id=cctv13xwhd8m/8000000
 CCTV13新闻,https://live.goodiptv.club/api/bestv.php?id=cctv13xwhd8m/8000000
 CCTV1综合,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
@@ -1500,12 +1502,12 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 赣州公共,http://wb.jxgztv.com/live/gztv2.flv
 赣州教育,http://wb.jxgztv.com/live/gztv3.flv
 福建,#genre#
-福建综合,https://epg.pw/stream/867d02d1b551230756cef85fe91d8e12139f1f776852355b20ed80a3392ecbe2.m3u8
-福建新闻,https://epg.pw/stream/22dda653d07fe8e4aa4a863462057d030635855d0bf0db1513fea2d336d061b6.m3u8
-福建经济,https://epg.pw/stream/8ac04e7b70e865979f6e3f2728ab4e5ba91c266bde31b73935d6f409e979363c.m3u8
-福建公共,https://epg.pw/stream/0501c350d1f916503cf3d09a768aeed9fa267fe66db776242f37cd882602605f.m3u8
-福建电视剧,https://epg.pw/stream/a49defbabc41f05d688a9b69b9e46ab330225b1ebb222041470bafb3e4610a9e.m3u8
-福建少儿,https://epg.pw/stream/08f86e8b78619dbae76929a5f7e3aecc4c784a0542bc747dd822a138e679e28c.m3u8
+福建综合,http://127.0.0.1
+福建新闻,http://127.0.0.1
+福建经济,http://127.0.0.1
+福建公共,http://127.0.0.1
+福建电视剧,http://127.0.0.1
+福建少儿,http://127.0.0.1
 福建体育,http://127.0.0.1
 福州新闻,https://epg.pw/stream/827c70dbdfa1ae7155c6d252ef120b1be239de7995283f5ca70c4b68926719f9.m3u8
 福州新闻,https://epg.pw/stream/883dc9046ef860d402f67f3a897969d725700d25b8595635377877a9dbc86dab.m3u8
