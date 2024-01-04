@@ -641,10 +641,6 @@ BRTV纪实科教,https://epg.pw/stream/544cc09b12f4a7e88dcf6d03ac6f42925ce177492
 BRTV卡酷少儿,http://127.0.0.1
 BRTV体育休闲,http://127.0.0.1
 BRTV国际频道,http://127.0.0.1
-睛彩竞技,http://eecc.cc:8888/udp/233.50.201.193:5140
-睛彩篮球,http://eecc.cc:8888/udp/233.50.201.194:5140
-睛彩羽毛球,http://eecc.cc:8888/udp/233.50.201.195:5140
-睛彩广场舞,http://127.0.0.1
 淘电影,https://epg.pw/stream/6f130950f894020e7c200ad6a3183b966cfea6c325f51a24b6e3075f441a2397.ctv
 淘电影,https://epg.pw/stream/27bf38850cbe745287e801ac9098b78673fb8b63023af631d79eac01872bfed0.m3u8
 淘电影,https://epg.pw/stream/54db9b6c6ffc3f1f33e4a590b8abd926e15cb91ca759e3798d8d9768201b4041.ctv
@@ -654,6 +650,10 @@ BRTV国际频道,http://127.0.0.1
 淘baby,https://epg.pw/stream/e70df3def2320f46bfbf194bf760642751202154738f0878c62a26b02f63b2f8.ctv
 淘精彩,https://epg.pw/stream/ac62b7898ba851228f4002b939ef071efbee3ab75223c6f2cec2b8df6f604ee5.ctv
 萌宠TV,http://127.0.0.1
+睛彩竞技,https://epg.pw/stream/2712038e40e1e6d6e49c1681aa56eb275dce534e3a773c0fdbad6b8dfc5ed00d.ctv
+睛彩篮球,https://epg.pw/stream/114f416210bd5ec2eac70731f5f1289f867d71946eeb952879ee0c08650e6480.ctv
+睛彩羽毛球,https://epg.pw/stream/90b6126a1c70cee4c5d6e5207059aaa2ae7012ead2ac843509bcced0d47d5b4f.ctv
+睛彩广场舞,https://epg.pw/stream/5e2d7b5d7b99255f73d9016c4db89c551ae1fc264f03776b24df3cdc75bafaf0.ctv
 房山综合,http://live.funhillrm.com/2/sd/live.m3u8
 房山综合,https://epg.pw/stream/3e01e04a6bd9beb64ce9550b799c1f1e2806d096cf391f4c31510a1b1da7e5a1.m3u8
 房山综合,https://epg.pw/stream/80307082824983f38685364e741bd9738d2632ac1c9c0b22e7a5817d4fb4d0c4.m3u8
