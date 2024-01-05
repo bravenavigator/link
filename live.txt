@@ -1015,11 +1015,10 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 浙江经济生活https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江教科影视,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-浙江数码时代,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-浙江教育,http://127.0.0.1
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 钱江频道,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+之江记录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 杭州综合,http://api.52tb.xyz/info?id=441&token=20230314vyrzsx
 杭州综合,http://www.372583307.top:4022/udp/233.50.201.173:5140
 杭州明珠,http://api.52tb.xyz/info?id=442&token=20230314vyrzsx
