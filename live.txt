@@ -714,7 +714,7 @@ BRTV国际频道,https://epg.pw/stream/cd898fee6c0bd1d0c94354d1767648d3ac6fe6bf0
 淘剧场,https://epg.pw/stream/9f03f946682c2841a25f303ed50de8b8bc2eebf21227fcf5f10af227ca9e874b.ctv
 淘剧场,https://epg.pw/stream/048d8fe525fd37fed2c701d3297a3a03e5612d2fc444f2df0e0c42fde251a6e7.ctv
 淘娱乐,https://epg.pw/stream/667a62644a6c12e90a64df50e8107b58eaf598e1feebc3ed9142a6b52d6284b5.ctv
-淘baby,https://epg.pw/stream/e70df3def2320f46bfbf194bf760642751202154738f0878c62a26b02f63b2f8.ctv
+淘Baby,https://epg.pw/stream/e70df3def2320f46bfbf194bf760642751202154738f0878c62a26b02f63b2f8.ctv
 淘精彩,https://epg.pw/stream/ac62b7898ba851228f4002b939ef071efbee3ab75223c6f2cec2b8df6f604ee5.ctv
 萌宠TV,http://127.0.0.1
 睛彩竞技,https://epg.pw/stream/2712038e40e1e6d6e49c1681aa56eb275dce534e3a773c0fdbad6b8dfc5ed00d.ctv
