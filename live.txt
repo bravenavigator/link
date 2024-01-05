@@ -437,6 +437,7 @@ Newtv超级体育,https://epg.pw/stream/c7503b6b9f77e14eea36ce3be4648424cadcb481
 延边卫视,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 三沙卫视,https://epg.pw/stream/3473a39a4377e2f48de9cb47a24b75255f9b0eab285cdd300f7fe421440311bf.m3u8
+三沙卫视,https://epg.pw/stream/039dfef60560b3de2b57edc4976c77a817905d1fc0e3c8e1fc1a9230efd52078.ctv
 广东,#genre#
 广东新闻,http://api.52tb.xyz/info?id=404&token=20230314vyrzsx
 广东珠江,http://api.52tb.xyz/info?id=410&token=20230314vyrzsx
