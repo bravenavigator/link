@@ -1839,6 +1839,7 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 河南武术世界,http://61.52.27.127:2000/rtp/225.1.4.101:1130
 河北,#genre#
 河北公共,https://epg.pw/stream/e15b3f13fdc77c07a679afc74e5e32e296313f237bb1cf45336de2dc8638b493.m3u8
+河北都市,https://tv.pull.hebtv.com/jishi/dushipindao.m3u8?t=2510710360&k=0a371e84fa6980927f5b617687e1ad11
 石家庄新闻综合,http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8
 石家庄新闻综合,http://api.52tb.xyz/info?id=487&token=20230314vyrzsx
 石家庄新闻综合,https://epg.pw/stream/9e45ca009cb136a2c587877809bf940e12f22d9a4c2a98f7551157b0c1861724.m3u8
