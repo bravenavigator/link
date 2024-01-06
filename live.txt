@@ -19,11 +19,6 @@ CCTV1综合,http://60.174.137.146:9901/tsfile/live/0001_1.m3u8?key=txiptv&url=tv
 CCTV1综合,http://live.goodiptv.club/api/bestv.php?id=cctv1hd8m/8000000
 CCTV1综合,https://live.goodiptv.club/api/bestv.php?id=cctv1hd8m/8000000
 CCTV2财经,http://60.174.137.146:9901/tsfile/live/0002_1.m3u8?key=txiptv&url=tvzb.com
-CCTV2财经,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
-CCTV2财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
-CCTV2财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
-CCTV2财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
-CCTV2财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
 CCTV2财经,http://221.213.43.82:8888/newlive/live/hls/3/live.m3u8
 CCTV2财经,https://epg.pw/stream/8b52681198fd60a8999347db221d3e2fb0d8e7f05890267b3c1ec8d67bf31fb1.m3u8
 CCTV2财经,https://epg.pw/stream/306d8b0a118db25a34c0944629bf8f6a901f85ab475bb12abcc12c1e65f27287.ctv
