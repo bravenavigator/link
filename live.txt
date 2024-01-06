@@ -2349,7 +2349,7 @@ Motorvisison TV,https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 百视电影36,https://bp-caster.bestv.com.cn/124/3/video.m3u8
 百视电影37,https://bp-caster.bestv.com.cn/125/3/video.m3u8
 百视电影38,https://bp-caster.bestv.com.cn/126/3/video.m3u8
-百视电影39，https://bp-caster.bestv.com.cn/127/3/video.m3u8
+百视电影39,https://bp-caster.bestv.com.cn/127/3/video.m3u8
 百视电影40,https://bp-caster.bestv.com.cn/128/3/video.m3u8
 百视电影41,https://bp-caster.bestv.com.cn/129/3/video.m3u8
 百视电影42,https://bp-caster.bestv.com.cn/130/3/video.m3u8
