@@ -166,7 +166,6 @@ Newtv精品体育,https://epg.pw/stream/d057acbad8a13889c27b858257a7ea1791caf940
 Newtv精品体育,https://epg.pw/stream/f59dbe75bd9770b9ee8e92a31bfd6eebc469fe0f5e6b50abe238619d0f1e154e.m3u8
 Newtv超级体育,https://epg.pw/stream/c7503b6b9f77e14eea36ce3be4648424cadcb4818ffdb6c7aab217d3294c3189.m3u8
 卫视,#genre#
-北京卫视,http://118.122.126.202:8877/rtp/239.93.0.180:5140
 北京卫视,http://221.213.43.82:8888/newlive/live/hls/19/live.m3u8
 北京卫视,http://111.59.63.32:9901/tsfile/live/1030_1.m3u8
 北京卫视,hhttps://epg.pw/stream/de747d8b2da06f675dade77986d728fdce5b24e42bfac1ef965f83c310d829e2.ctv
