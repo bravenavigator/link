@@ -212,7 +212,6 @@ Newtv超级体育,https://epg.pw/stream/c7503b6b9f77e14eea36ce3be4648424cadcb481
 广东卫视,https://live.goodiptv.club/api/sxg.php?id=gdwsH265_4000
 广东卫视,http://live.goodiptv.club/api/bestv.php?id=gdwshd8m/8000000
 广东卫视,https://live.goodiptv.club/api/bestv.php?id=gdwshd8m/8000000
-深圳卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
 深圳卫视,http://118.122.126.202:8877/rtp/239.93.0.182:5140
 深圳卫视,http://api.52tb.xyz/info?id=28&token=20230314vyrzsx
 深圳卫视,http://221.2.36.34:8888/newlive/live/hls/28/live.m3u8
@@ -225,7 +224,6 @@ Newtv超级体育,https://epg.pw/stream/c7503b6b9f77e14eea36ce3be4648424cadcb481
 江苏卫视,http://111.59.63.32:9901/tsfile/live/1025_1.m3u8
 江苏卫视,http://221.2.36.34:8888/newlive/live/hls/22/live.m3u8
 江苏卫视,http://221.213.43.82:8888/newlive/live/hls/22/live.m3u8
-江苏卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
 江苏卫视,http://api.52tb.xyz/info?id=23&token=20230314vyrzsx
 江苏卫视,https://epg.pw/stream/2cbafdd3fd0f366fcade6014c05c4ac84bccc97e66ff4ad533d2acfa7523a7c0.ctv
 江苏卫视,https://epg.pw/stream/9f999c8c50426bedd62937584c3f75cc0d7b51edcfeed4e5164abb0398b55945.ctv
@@ -282,8 +280,6 @@ Newtv超级体育,https://epg.pw/stream/c7503b6b9f77e14eea36ce3be4648424cadcb481
 东南卫视,https://live.goodiptv.club/api/bestv.php?id=dnwshd8m/8000000
 海南卫视,http://api.52tb.xyz/info?id=38&token=20230314vyrzsx
 海南卫视,https://live.metshop.top/msp.php?id=hinws
-海南卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8
-海南卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8
 海南卫视,http://221.213.43.82:8888/newlive/live/hls/50/live.m3u8
 海南卫视,https://epg.pw/stream/7ba9a6e741f68ca6b157a944d165acc57bca3259ce06a912ed722e02b8e37212.ctv
 海南卫视,http://api3.52tb.xyz/info?id=38&token=20230227aesvnb
@@ -343,8 +339,6 @@ Newtv超级体育,https://epg.pw/stream/c7503b6b9f77e14eea36ce3be4648424cadcb481
 陕西卫视,http://221.213.43.82:8888/newlive/live/hls/41/live.m3u8
 山西卫视,https://epg.pw/stream/c70bdd34e4df8d4813d6c785a8967191453215bcde8b72ab4801aabe4ce5fd74.m3u8
 山西卫视,https://epg.pw/stream/f3585857f1474c6f9527ea29a7a99115a86855d9addb67619aa9a033299b48eb.m3u8
-山西卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225763/index.m3u8
-山西卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225763/index.m3u8
 山西卫视,http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
 山西卫视,http://80ec27bff7f9ae80b961481da488e302.livehwc3.cn/liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d04ce01474da4193c8863ea281ec4759
 山西卫视,http://111.59.63.32:9901/tsfile/live/1046_1.m3u8
@@ -355,8 +349,6 @@ Newtv超级体育,https://epg.pw/stream/c7503b6b9f77e14eea36ce3be4648424cadcb481
 辽宁卫视,http://118.122.126.202:8877/rtp/239.93.1.108:5140
 辽宁卫视,http://live.goodiptv.club/api/bestv.php?id=lnwshd8m/8000000
 辽宁卫视,https://live.goodiptv.club/api/bestv.php?id=lnwshd8m/8000000
-黑龙江卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
-黑龙江卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
 黑龙江卫视,http://111.59.63.32:9901/tsfile/live/1045_1.m3u8
 黑龙江卫视,http://221.213.43.82:8888/newlive/live/hls/44/live.m3u8
 黑龙江卫视,http://api.52tb.xyz/info?id=41&token=20230314vyrzsx
