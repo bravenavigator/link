@@ -18,9 +18,6 @@ CCTV13新闻,https://epg.pw/stream/31387d02f3c753ac9bcebff76834268ddf38c7668ee1e
 CCTV13新闻,https://epg.pw/stream/fb12844cee9cfff87252fe487d075dc818208ed6b6541611f8ae471209fd1082.m3u8
 CCTV13新闻,http://live.goodiptv.club/api/bestv.php?id=cctv13xwhd8m/8000000
 CCTV13新闻,https://live.goodiptv.club/api/bestv.php?id=cctv13xwhd8m/8000000
-CCTV1综合,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
-CCTV1综合,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
-CCTV1综合,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV1综合,http://221.213.43.82:8888/newlive/live/hls/2/live.m3u8
 CCTV1综合,http://60.174.137.146:9901/tsfile/live/0001_1.m3u8?key=txiptv&url=tvzb.com
 CCTV1综合,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
