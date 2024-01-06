@@ -1595,6 +1595,10 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 福建少儿,http://175.43.106.30:4022/rtp/239.61.2.9:8048
 厦门一套,http://175.43.106.30:4022/rtp/239.61.3.55:9848
 厦门二套,http://175.43.106.30:4022/rtp/239.61.3.56:9854
+海南,#genre#
+海口一套综合,http://153.0.158.159:16080/live/cnm1.m3u8
+海口二套生活娱乐,https://p8.vzan.com/slowlive/923296435665764776/live.m3u8?zbid=11763520&tpid=1377970474
+海口三套城乡经济,https://p8.vzan.com/slowlive/413529887100763745/live.m3u8?zbid=11763520&tpid=246995717
 广西,#genre#
 广西新闻,http://111.59.63.32:9901/tsfile/live/1007_1.m3u8
 广西新闻,http://116.9.204.242:9901/tsfile/live/1001_1.m3u8
@@ -1918,6 +1922,8 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 陕西影视,http://127.0.0.1
 体育休闲,http://127.0.0.1
 西部电影,http://127.0.0.1
+延安综合,http://lives.cloud.yanews.cn/video/s10001-YATV-1/index.m3u8
+延安公共,http://lives.cloud.yanews.cn/video/s10001-YATV-2/index.m3u8
 新闻资讯,http://1.82.144.16:4022/rtp/239.111.205.28:5140
 都市青春,http://1.82.144.16:4022/rtp/239.111.205.42:5140
 陕西生活,http://1.82.144.16:4022/rtp/239.112.205.20:5140
@@ -2074,9 +2080,6 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 吉林生活,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/1.m3u8
 吉林影视,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/1.m3u8
 吉林乡村,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/1.m3u8
-吉林公共新闻,http://stream1.jlntv.cn/ggpd/playlist.m3u8
-吉林电视7,http://stream1.jlntv.cn/fzpd/playlist.m3u8
-东北戏曲,http://stream1.jlntv.cn/dbxq/playlist.m3u8
 延边-1,http://live.ybtvyun.com/video/s10016-af95004b6d1a/index.m3u8?zjild
 延边-2,http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8?zjild
 延边-2,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8?zjild
@@ -2096,10 +2099,12 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 青海经视,http://stream.q.com/qhsh/sd/live.m3u8
 青海经视,http://stream.q.com/qhsh/sd/live.m3u8?_upt=a7ec5e491648026933
 青海经视,http://stream.q.com/qhsh/sd/live.m3u8?_upt=ba357f031594546763
+青海经视,http://stream.qhbtv.com/qhsh/sd/live.m3u8?_upt=2aaff0a81704267613
 青海经视,https://epg.pw/stream/684b0967063b916bcc7e16480e96a7917c0cf4e14a4813aa871b2737beda135a.m3u8
 青海都市,http://stream.q.com/qhds/playlist.m3u8
 青海都市,http://stream.q.com/qhds/sd/live.m3u8
 青海都市,http://stream.qhbtv.com/qhds/sd/live.m3u8?_upt=f868bafe1594546577
+青海都市,http://stream.qhbtv.com/qhds/sd/live.m3u8?_upt=ff02f8301704264613
 青海都市,https://epg.pw/stream/0b8ad0a2cb3cee25fe5e1414c4f2dddd1c4a466ce25aa83b00cc5717f35fe420.m3u8
 青海都市,https://epg.pw/stream/8c444b546ed57c4d5287b55d2c9ab96a10b022b449bf7f1fad766bc1a6c15fa2.m3u8
 青海都市,https://epg.pw/stream/4acd2e75fc0a26c45b41c6808d6eb07039e023cf62c2b24b33767e969eaadc1a.m3u8
