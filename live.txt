@@ -607,7 +607,6 @@ Newtv超级体育,https://epg.pw/stream/c7503b6b9f77e14eea36ce3be4648424cadcb481
 港澳,#genre#
 凤凰中文,http://113.117.74.17:8081/hls/37/index.m3u8
 凤凰中文,http://175.43.106.109:4022/rtp/239.61.2.184:9092
-凤凰中文,https://live.goodiptv.club/api/sxg.php?id=test1_4000
 凤凰中文,https://epg.pw/stream/04d5312720840d7ba52a50e5a467be96fcc95711a3d1a8a4c347799e9ad4aff8.ctv
 凤凰中文,https://epg.pw/stream/3d02d504834ebef1949d5f3b04411629a9f6c08e90bcd9e111c1a119d642e042.ctv
 凤凰中文,https://epg.pw/stream/613dfcc9b6a4ebb73ea2afb51ebdedd8c85f00bd306f704d5cce3541ee90006a.ctv
@@ -911,7 +910,6 @@ BRTV国际,http://114.254.94.201:2222/rtp/239.3.1.235:8000
 东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 东森电影,https://epg.pw/stream/2b9694161f75806179149e3b0bffc576073f99c5fefd7c55b85ed46722882104.ctv
 东森幼幼,https://epg.pw/stream/de717f629316508933939cc9d90e62b3a86d6377aff1ca390e1717e68c960eb4.m3u8
-镜新闻,http://194.87.101.118:9501/live.m3u8?c=10
 三立新闻,https://epg.pw/stream/a2330bdca96a3420aa2a0558fee3e7a27377acf939e88305f7d3c66e9c5b1a15.ctv
 三立新闻,http://194.87.101.118:9501/live.m3u8?c=12
 TVBS新闻,https://epg.pw/stream/45b72acdc2cd146b4f103a6728efe468f65c59b65c48f13b61b36fb150ea79af.m3u8
