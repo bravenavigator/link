@@ -72,7 +72,6 @@ CCTV8电视剧,http://live.goodiptv.club/api/bestv.php?id=cctv8hd8m/8000000
 CCTV8电视剧,https://live.goodiptv.club/api/bestv.php?id=cctv8hd8m/8000000
 CCTV8电视剧,http://1.195.111.251:11190/tsfile/live/0008_1.m3u8
 CCTV9纪录,http://api.52tb.xyz/info?id=11&token=20230314vyrzsx
-CCTV9纪录,http://111.59.63.32:9901/tsfile/live/1016_1.m3u8
 CCTV9纪录,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
 CCTV9纪录,https://epg.pw/stream/3db3e563b4920f7f1674c8a0bfc318f898c20680c4c64cafd1b2dc199f670b14.ctv
 CCTV9纪录,http://live.goodiptv.club/api/bestv.php?id=cctv9hd8m/8000000
@@ -97,7 +96,6 @@ CCTV12社会与法,https://epg.pw/stream/51337667e5647403507b5d7923c277b8154168e
 CCTV12社会与法,https://epg.pw/stream/a6870bf97aab6a8d97a8222a583022752dba8fc5015b0cefbe690037020b2350.m3u8
 CCTV12社会与法,http://live.goodiptv.club/api/bestv.php?id=cctv12hd8m/8000000
 CCTV12社会与法,https://live.goodiptv.club/api/bestv.php?id=cctv12hd8m/8000000
-CCTV12社会与法,http://111.59.63.32:9901/tsfile/live/1019_1.m3u8
 CCTV12社会与法,http://221.213.43.82:8888/newlive/live/hls/14/live.m3u8
 CCTV14少儿,http://api.52tb.xyz/info?id=16&token=20230314vyrzsx
 CCTV14少儿,http://222.71.90.218:8888/newlive/live/hls/15/live.m3u8
@@ -119,7 +117,6 @@ CCTV16奥林匹克,https://live.goodiptv.club/api/bestv.php?id=cctv16hd4k/150000
 CCTV17农业农村,http://api.52tb.xyz/info?id=19&token=20230314vyrzsx
 CCTV17农业农村,https://epg.pw/stream/b3997477d0742021b4c904855f6e8be024b3980340d5f382ec498027c50cde81.ctv
 CCTV17农业农村,https://epg.pw/stream/0488a6d11015c87b6b84913a63f5801bfc44998fa827b52fbf8ba0a988c96daa.ctv
-CCTV17农业农村,http://111.59.63.32:9901/tsfile/live/1023_1.m3u8
 CCTV17农业农村,http://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
 CCTV17农业农村,https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
 CCTV风云足球,http://api.52tb.xyz/info?id=20&token=20230314vyrzsx
@@ -146,7 +143,6 @@ CCTV风云足球,http://api.52tb.xyz/info?id=20&token=20230314vyrzsx
 天津卫视,https://epg.pw/stream/3575357f1d05e975a61aac0e83c457970c22712eba87f018aee2311e96b508d4.ctv
 天津卫视,http://118.122.126.202:8877/rtp/239.93.0.167:5140
 天津卫视,http://221.2.36.34:8888/newlive/live/hls/42/live.m3u8
-天津卫视,http://111.59.63.32:9901/tsfile/live/1047_1.m3u8
 天津卫视,https://live.goodiptv.club/api/sxg.php?id=tjwsH265_4000
 天津卫视,http://live.goodiptv.club/api/bestv.php?id=tjwshd8m/8000000
 天津卫视,https://live.goodiptv.club/api/bestv.php?id=tjwshd8m/8000000
@@ -163,14 +159,12 @@ CCTV风云足球,http://api.52tb.xyz/info?id=20&token=20230314vyrzsx
 广东卫视,http://api.52tb.xyz/info?id=27&token=20230314vyrzsx
 广东卫视,http://221.2.36.34:8888/newlive/live/hls/21/live.m3u8
 广东卫视,http://118.122.126.202:8877/rtp/239.93.0.181:5140
-广东卫视,http://111.59.63.32:9901/tsfile/live/1032_1.m3u8
 广东卫视,https://live.goodiptv.club/api/sxg.php?id=gdwsH265_4000
 广东卫视,http://live.goodiptv.club/api/bestv.php?id=gdwshd8m/8000000
 广东卫视,https://live.goodiptv.club/api/bestv.php?id=gdwshd8m/8000000
 广东卫视,http://221.213.43.82:8888/newlive/live/hls/21/live.m3u8
 深圳卫视,http://api.52tb.xyz/info?id=28&token=20230314vyrzsx
 深圳卫视,http://221.2.36.34:8888/newlive/live/hls/28/live.m3u8
-深圳卫视,http://111.59.63.32:9901/tsfile/live/1033_1.m3u8
 深圳卫视,http://118.122.126.202:8877/rtp/239.93.0.182:5140
 深圳卫视,https://live.goodiptv.club/api/sxg.php?id=szwsH265_4000
 深圳卫视,http://live.goodiptv.club/api/bestv.php?id=szwshd8m/8000000
@@ -178,7 +172,6 @@ CCTV风云足球,http://api.52tb.xyz/info?id=20&token=20230314vyrzsx
 深圳卫视,http://221.213.43.82:8888/newlive/live/hls/28/live.m3u8
 江苏卫视,http://api.52tb.xyz/info?id=23&token=20230314vyrzsx
 江苏卫视,http://118.122.126.202:8877/rtp/239.93.0.89:5140
-江苏卫视,http://111.59.63.32:9901/tsfile/live/1025_1.m3u8
 江苏卫视,http://221.2.36.34:8888/newlive/live/hls/22/live.m3u8
 江苏卫视,https://epg.pw/stream/2cbafdd3fd0f366fcade6014c05c4ac84bccc97e66ff4ad533d2acfa7523a7c0.ctv
 江苏卫视,https://epg.pw/stream/9f999c8c50426bedd62937584c3f75cc0d7b51edcfeed4e5164abb0398b55945.ctv
@@ -190,7 +183,6 @@ CCTV风云足球,http://api.52tb.xyz/info?id=20&token=20230314vyrzsx
 浙江卫视,https://epg.pw/stream/546bf3ec25f8dc97c6b5d16bdda2b8fdc6d3cd077dbbf1d2212a7a87fc6847f0.ctv
 浙江卫视,https://epg.pw/stream/2a2836fdfaf32573f827dd72f9770705b9b5ba13801fe4a3ffc19fb6fac0d88d.ctv
 浙江卫视,http://221.2.36.34:8888/newlive/live/hls/24/live.m3u8
-浙江卫视,http://111.59.63.32:9901/tsfile/live/1031_1.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 浙江卫视,http://live.goodiptv.club/api/bestv.php?id=zjwshd8m/8000000
 浙江卫视,https://live.goodiptv.club/api/bestv.php?id=zjwshd8m/8000000
@@ -198,14 +190,12 @@ CCTV风云足球,http://api.52tb.xyz/info?id=20&token=20230314vyrzsx
 湖南卫视,http://api.52tb.xyz/info?id=21&token=20230314vyrzsx
 湖南卫视,https://epg.pw/stream/261d4c471464289c426c01d36e84acaaeb7ee8708e38bd2f37cee91105ff0773.ctv
 湖南卫视,https://epg.pw/stream/2b26a81184d8f8ff3f832d5920f5d623becf7fe045d980dd2c34905f4f3471ab.ctv
-湖南卫视,http://111.59.63.32:9901/tsfile/live/1028_1.m3u8
 湖南卫视,https://live.goodiptv.club/api/sxg.php?id=hnwsH265_4000
 湖南卫视,http://live.goodiptv.club/api/bestv.php?id=hunanwshd8m/8000000
 湖南卫视,https://live.goodiptv.club/api/bestv.php?id=hunanwshd8m/8000000
 湖南卫视,http://221.213.43.82:8888/newlive/live/hls/23/live.m3u8
 湖北卫视,http://api.52tb.xyz/info?id=34&token=20230314vyrzsx
 湖北卫视,http://221.2.36.34:8888/newlive/live/hls/34/live.m3u8
-湖北卫视,http://111.59.63.32:9901/tsfile/live/1044_1.m3u8
 湖北卫视,https://live.goodiptv.club/api/sxg.php?id=hbwsH265_4000
 湖北卫视,http://221.213.43.82:8888/newlive/live/hls/34/live.m3u8
 安徽卫视,https://epg.pw/stream/f28ca2b181313c7d1c12e5782d855064a5b7d884f911753018d33cdbb6944b9b.ctv
@@ -213,7 +203,6 @@ CCTV风云足球,http://api.52tb.xyz/info?id=20&token=20230314vyrzsx
 安徽卫视,http://111.20.35.103:6610/000000001000/1000000001000020780/index.m3u8?channel-id=ystenlive&Contentid=1000000001000020780&livemode=1&stbId=00
 安徽卫视,http://118.122.126.202:8877/rtp/239.93.1.106:5140
 安徽卫视,http://221.2.36.34:8888/newlive/live/hls/25/live.m3u8
-安徽卫视,http://111.59.63.32:9901/tsfile/live/1027_1.m3u8
 安徽卫视,https://live.goodiptv.club/api/sxg.php?id=ahwsH265_4000
 安徽卫视,http://live.goodiptv.club/api/bestv.php?id=ahwshd8m/8000000
 安徽卫视,https://live.goodiptv.club/api/bestv.php?id=ahwshd8m/8000000
@@ -222,7 +211,6 @@ CCTV风云足球,http://api.52tb.xyz/info?id=20&token=20230314vyrzsx
 江西卫视,https://epg.pw/stream/440f27d56757e766a2297f9b765c5ca15a92e509e0d3a11caab5422da83c95e3.ctv
 江西卫视,https://epg.pw/stream/bbfca72e08c8447ebde26e90a2eaf1ef09a96d86736d92e62677074fbc9300f9.ctv
 江西卫视,http://221.2.36.34:8888/newlive/live/hls/48/live.m3u8
-江西卫视,http://111.59.63.32:9901/tsfile/live/1042_1.m3u8
 江西卫视,https://live.goodiptv.club/api/sxg.php?id=jxwsH265_4000
 江西卫视,http://live.goodiptv.club/api/bestv.php?id=jxws8m/8000000
 江西卫视,https://live.goodiptv.club/api/bestv.php?id=jxws8m/8000000
@@ -241,14 +229,12 @@ CCTV风云足球,http://api.52tb.xyz/info?id=20&token=20230314vyrzsx
 海南卫视,https://live.goodiptv.club/api/bestv.php?id=hainanwshd8m/8000000
 海南卫视,http://221.213.43.82:8888/newlive/live/hls/50/live.m3u8
 四川卫视,http://api.52tb.xyz/info?id=39&token=20230314vyrzsx
-四川卫视,http://111.59.63.32:9901/tsfile/live/1029_1.m3u8
 四川卫视,http://221.2.36.34:8888/newlive/live/hls/32/live.m3u8
 四川卫视,https://live.goodiptv.club/api/sxg.php?id=scwsH265_4000
 四川卫视,http://live.goodiptv.club/api/bestv.php?id=scwshd/8000000
 四川卫视,https://live.goodiptv.club/api/bestv.php?id=scwshd/8000000
 四川卫视,http://221.213.43.82:8888/newlive/live/hls/32/live.m3u8
 广西卫视,http://api.52tb.xyz/info?id=45&token=20230314vyrzsx
-广西卫视,http://111.59.63.32:9901/tsfile/live/1003_1.m3u8
 广西卫视,http://live.goodiptv.club/api/bestv.php?id=gxwshd8m/8000000
 广西卫视,http://221.213.43.82:8888/newlive/live/hls/26/live.m3u8
 广西卫视,https://live.goodiptv.club/api/bestv.php?id=gxwshd8m/8000000
@@ -263,7 +249,6 @@ CCTV风云足球,http://api.52tb.xyz/info?id=20&token=20230314vyrzsx
 贵州卫视,http://api.52tb.xyz/info?id=36&token=20230314vyrzsx
 贵州卫视,https://epg.pw/stream/22e8a60d20cc198c47c47d1d5aa3d0092c10f1b13593b908f43177b5ac4f29c8.ctv
 贵州卫视,http://221.2.36.34:8888/newlive/live/hls/29/live.m3u8
-贵州卫视,http://111.59.63.32:9901/tsfile/live/1036_1.m3u8
 贵州卫视,https://live.goodiptv.club/api/sxg.php?id=gzwsH265_4000
 贵州卫视,http://live.goodiptv.club/api/bestv.php?id=gzwshd8m/8000000
 贵州卫视,https://live.goodiptv.club/api/bestv.php?id=gzwshd8m/8000000
@@ -295,7 +280,6 @@ CCTV风云足球,http://api.52tb.xyz/info?id=20&token=20230314vyrzsx
 山西卫视,https://epg.pw/stream/f3585857f1474c6f9527ea29a7a99115a86855d9addb67619aa9a033299b48eb.m3u8
 山西卫视,http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
 山西卫视,http://80ec27bff7f9ae80b961481da488e302.livehwc3.cn/liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d04ce01474da4193c8863ea281ec4759
-山西卫视,http://111.59.63.32:9901/tsfile/live/1046_1.m3u8
 山西卫视,http://221.213.43.82:8888/newlive/live/hls/48/live.m3u8
 辽宁卫视,https://epg.pw/stream/50748790ae80d061ef553db7d4776cc554c3cadb0b3a9ca597a85f9bdba6261c.ctv
 辽宁卫视,https://epg.pw/stream/e7f43cd085d688504960333127562c7c3e79351a8ed5895c70455121062d9a32.ctv
@@ -303,7 +287,6 @@ CCTV风云足球,http://api.52tb.xyz/info?id=20&token=20230314vyrzsx
 辽宁卫视,http://live.goodiptv.club/api/bestv.php?id=lnwshd8m/8000000
 辽宁卫视,https://live.goodiptv.club/api/bestv.php?id=lnwshd8m/8000000
 辽宁卫视,http://221.213.43.82:8888/newlive/live/hls/43/live.m3u8
-黑龙江卫视,http://111.59.63.32:9901/tsfile/live/1045_1.m3u8
 黑龙江卫视,http://api.52tb.xyz/info?id=41&token=20230314vyrzsx
 黑龙江卫视,https://epg.pw/stream/0469d3e27051b57f8d2f1ff3d4e15d19ae303531dbe907912819f0cd42d8986f.ctv
 黑龙江卫视,https://epg.pw/stream/53cf5f9b0b328e1c40de1fc5d4aac8926a4772f9beeddad01f8a3350be87e5f1.ctv
@@ -317,7 +300,6 @@ CCTV风云足球,http://api.52tb.xyz/info?id=20&token=20230314vyrzsx
 吉林卫视,https://epg.pw/stream/a4077a66d1d1a4ea5193450a68882b70646f6c7caadb60aa6776d7dba17eaca9.ctv
 吉林卫视,https://epg.pw/stream/5f1a5c423a759d2a2804cdcc60d82044f01971be640cf06359689f4199eff780.m3u8
 吉林卫视,http://api3.52tb.xyz/info?id=40&token=20230227aesvnb
-吉林卫视,http://111.59.63.32:9901/tsfile/live/1043_1.m3u8
 吉林卫视,https://live.goodiptv.club/api/sxg.php?id=jlwsH265_4000
 吉林卫视,http://live.goodiptv.club/api/bestv.php?id=jlwshd8m/8000000
 吉林卫视,https://live.goodiptv.club/api/bestv.php?id=jlwshd8m/8000000
@@ -330,7 +312,6 @@ CCTV风云足球,http://api.52tb.xyz/info?id=20&token=20230314vyrzsx
 甘肃卫视,https://live.goodiptv.club/api/bestv.php?id=gswshd8m/8000000
 甘肃卫视,http://221.213.43.82:8888/newlive/live/hls/36/live.m3u8
 宁夏卫视,https://epg.pw/stream/5ba9406f5db6d6511f0b15b6fb7b728b6d82abe3a53a42ac1176ef67023d274f.m3u8
-宁夏卫视,http://111.59.63.32:9901/tsfile/live/1040_1.m3u8
 宁夏卫视,http://221.213.43.82:8888/newlive/live/hls/40/live.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=1da074361609506578
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
@@ -343,9 +324,7 @@ CCTV风云足球,http://api.52tb.xyz/info?id=20&token=20230314vyrzsx
 内蒙古卫视,http://api.52tb.xyz/info?id=44&token=20230314vyrzsx
 内蒙古卫视,http://api.52tb.xyz/info?id=95&token=20230314vyrzsx
 内蒙古卫视,http://api.52tb.xyz/info?id=146&token=20230314vyrzsx
-内蒙古卫视,http://111.59.63.32:9901/tsfile/live/1038_1.m3u8
 内蒙古卫视,http://221.213.43.82:8888/newlive/live/hls/49/live.m3u8
-新疆卫视,http://111.59.63.32:9901/tsfile/live/1039_1.m3u8
 新疆卫视,https://epg.pw/stream/788702ed504aeda3322f8db5973d9fc056ede56e02560b365a5cc69efc07874a.m3u8
 新疆卫视,http://221.213.43.82:8888/newlive/live/hls/38/live.m3u8
 兵团卫视,https://test5.btzx.com.cn/live/2023bt.stream/chunklist_w901976294.m3u8
