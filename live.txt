@@ -105,8 +105,6 @@ CCTV14少儿,http://live.goodiptv.club/api/bestv.php?id=cctv14hd8m/8000000
 CCTV14少儿,https://live.goodiptv.club/api/bestv.php?id=cctvsehd8m/8000000
 CCTV14少儿,http://221.213.43.82:8888/newlive/live/hls/16/live.m3u8
 CCTV15音乐,http://api.52tb.xyz/info?id=17&token=20230314vyrzsx
-CCTV15音乐,http://111.59.63.32:9901/tsfile/live/1022_1.m3u8
-CCTV15音乐,http://171.214.202.74:4000/udp/239.93.0.103:5140
 CCTV15音乐,https://epg.pw/stream/a46eaa78621e9f0a2b7bc12155a9056b168a2565e07f7142dfc5f4bb269a2842.ctv
 CCTV15音乐,https://epg.pw/stream/df25f03b60f5d8a1d6574d8e44974d1a266922f81912c2fecfd46361454467a2.ctv
 CCTV15音乐,http://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000
@@ -114,7 +112,6 @@ CCTV15音乐,https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000
 CCTV15音乐,http://221.213.43.82:8888/newlive/live/hls/17/live.m3u8
 CCTV16奥林匹克,http://api.52tb.xyz/info?id=18&token=20230314vyrzsx
 CCTV16奥林匹克,https://epg.pw/stream/517815f160c93d58422d9994ce94181819cb9ff2a0492036b3ed93e479336184.ctv
-CCTV16奥林匹克,https://epg.pw/stream/2c426497654c552b92f1d437a82966ee039b9a3a87d52bd1d99c6f44ce364d0d.m3u8
 CCTV16奥林匹克,https://epg.pw/stream/a40cab6b916dec5f03cb8d888d13baa8dfc371a45b5e4a51f557ae266602a9c1.ctv
 CCTV16奥林匹克,http://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
 CCTV16奥林匹克,https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
