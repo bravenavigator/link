@@ -79,8 +79,6 @@ CCTV9纪录,http://live.goodiptv.club/api/bestv.php?id=cctv9hd8m/8000000
 CCTV9纪录,https://live.goodiptv.club/api/bestv.php?id=cctv9hd8m/8000000
 CCTV9纪录,http://221.213.43.82:8888/newlive/live/hls/11/live.m3u8
 CCTV10科教,http://api.52tb.xyz/info?id=12&token=20230314vyrzsx
-CCTV10科教,http://111.59.63.32:9901/tsfile/live/1017_1.m3u8
-CCTV10科教,https://epg.pw/stream/e6bfc54ee21e1199bb6ef14008f837ea5700370cf215e76d488683f5e4279d2c.m3u8
 CCTV10科教,http://live.goodiptv.club/api/bestv.php?id=cctv10hd8m/8000000
 CCTV10科教,https://live.goodiptv.club/api/bestv.php?id=cctv10hd8m/8000000
 CCTV10科教,http://222.71.90.218:8888/newlive/live/hls/11/live.m3u8
