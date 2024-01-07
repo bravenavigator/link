@@ -208,13 +208,11 @@ CCTV风云足球,http://api.52tb.xyz/info?id=20&token=20230314vyrzsx
 湖南卫视,http://live.goodiptv.club/api/bestv.php?id=hunanwshd8m/8000000
 湖南卫视,https://live.goodiptv.club/api/bestv.php?id=hunanwshd8m/8000000
 湖南卫视,http://221.213.43.82:8888/newlive/live/hls/23/live.m3u8
+湖北卫视,http://api.52tb.xyz/info?id=34&token=20230314vyrzsx
 湖北卫视,http://221.2.36.34:8888/newlive/live/hls/34/live.m3u8
 湖北卫视,http://111.59.63.32:9901/tsfile/live/1044_1.m3u8
-湖北卫视,http://api.52tb.xyz/info?id=34&token=20230314vyrzsx
 湖北卫视,https://live.goodiptv.club/api/sxg.php?id=hbwsH265_4000
 湖北卫视,http://221.213.43.82:8888/newlive/live/hls/34/live.m3u8
-安徽卫视,http://api.52tb.xyz/info?id=33&token=20230314vyrzsx
-安徽卫视,http://api.52tb.xyz/info?id=84&token=20230314vyrzsx
 安徽卫视,https://epg.pw/stream/f28ca2b181313c7d1c12e5782d855064a5b7d884f911753018d33cdbb6944b9b.ctv
 安徽卫视,https://epg.pw/stream/f6b1dcb74cfda40bc84467d836f82596de9d58c96875cd23d0134bb00e9dd190.ctv
 安徽卫视,http://111.20.35.103:6610/000000001000/1000000001000020780/index.m3u8?channel-id=ystenlive&Contentid=1000000001000020780&livemode=1&stbId=00
