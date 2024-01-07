@@ -334,7 +334,6 @@ CCTV风云足球,http://api.52tb.xyz/info?id=20&token=20230314vyrzsx
 西藏卫视,http://221.213.43.82:8888/newlive/live/hls/37/live.m3u8
 海峡卫视,https://epg.pw/stream/1d158fe4ef032b1ca0296ad7699ac4db2a6f32f6dee55188d716b972d35dff62.ctv
 康巴卫视,http://118.122.126.202:8877/rtp/239.93.0.41:5140
-康巴卫视,https://live.goodiptv.club/api/sxg.php?id=kbwsH264_2000
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 延边卫视,https://epg.pw/stream/86ea500d7d432401bf10b1953f361607aa7a0be7c9b0d40955d99aeebfda7edb.m3u8
 延边卫视,https://epg.pw/stream/e62732d5ec879b9bd722931c588ebd651378265bdef75851ac7c5b776b6be991.m3u8
