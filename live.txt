@@ -1016,9 +1016,6 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 杭州综合,http://www.372583307.top:4022/udp/233.50.201.173:5140
 杭州明珠,http://api.52tb.xyz/info?id=442&token=20230314vyrzsx
 杭州生活,http://api.52tb.xyz/info?id=443&token=20230314vyrzsx
-杭州影视,http://127.0.0.1
-杭州青少,http://127.0.0.1
-之江记录,http://127.0.0.1
 杭州萧山新闻综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
 杭州萧山新闻综合,https://epg.pw/stream/51e0a1fe5c006c955e68548c9b2a13ce3d35adb30579eaf00b11a9ec52ee9fe0.m3u8
 杭州萧山新闻综合,https://epg.pw/stream/1c41768e993a54617b9a22c65c9d4dcaea80759097ee0a859f1e8590955ddad7.m3u8
