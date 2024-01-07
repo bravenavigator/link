@@ -125,7 +125,7 @@ CCTV17农业农村,https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/800000
 CCTV风云足球,http://api.52tb.xyz/info?id=20&token=20230314vyrzsx
 卫视,#genre#
 北京卫视,http://111.59.63.32:9901/tsfile/live/1030_1.m3u8
-北京卫视,hhttps://epg.pw/stream/de747d8b2da06f675dade77986d728fdce5b24e42bfac1ef965f83c310d829e2.ctv
+北京卫视,https://epg.pw/stream/de747d8b2da06f675dade77986d728fdce5b24e42bfac1ef965f83c310d829e2.ctv
 北京卫视,https://epg.pw/stream/50301782798540ee9cc384d84d50f806a8a990cd796f99c87e979d18514f31dd.ctv
 北京卫视,https://epg.pw/stream/bad3eafd3e2accf1b0fe1bfb037c56eadb1b7649fb13521daae8b1ad093fa6cb.ctv
 北京卫视,https://epg.pw/stream/5e98eaae8407271568dc787781f7ac42eec310d61df8b7ab4602741ae72df9bf.m3u8
