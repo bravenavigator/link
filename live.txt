@@ -252,7 +252,6 @@ CCTV风云足球,http://api.52tb.xyz/info?id=20&token=20230314vyrzsx
 广西卫视,http://live.goodiptv.club/api/bestv.php?id=gxwshd8m/8000000
 广西卫视,http://221.213.43.82:8888/newlive/live/hls/26/live.m3u8
 广西卫视,https://live.goodiptv.club/api/bestv.php?id=gxwshd8m/8000000
-云南卫视,http://api.52tb.xyz/info?id=42&token=20230314vyrzsx
 云南卫视,https://epg.pw/stream/1dcf2e33fcb081651dbcdaba9bed1b1ad0d8c58ba943c44026dd9feed670125e.ctv
 云南卫视,https://epg.pw/stream/b41d6100a386d2eac97c5ce72d09e17db7a32f9c9c22968c823aa17a9ce87c65.ctv
 云南卫视,http://live.goodiptv.club/api/bestv.php?id=ynwshd8m/8000000
