@@ -1667,9 +1667,9 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 枣庄新闻综合,https://epg.pw/stream/16bc293d49d6d8e26487c77d7672cb7fb332a8cff2c98c2623ee17ca2519560c.m3u8
 枣庄新闻综合,https://epg.pw/stream/4f6a13704e2cde065cce34a9058c0e6fdf4bd9987385161b4c018fdae54f17dc.m3u8
 枣庄经济生活,http://stream.zztvzd.com/2/sd/live.m3u8
+枣庄经济生活,https://epg.pw/stream/e566be0ee8061398ca14cf39929365202b2ba1d94d31ddd4eadb3410d3de59ea.m3u8
 枣庄公共,http://stream.zztvzd.com/3/sd/live.m3u8
 枣庄教育,https://epg.pw/stream/bed89336e576fd92d1fed4b5f9a41f6127e6aed764adb9f24659527320f48d68.m3u8
-枣庄教育,https://epg.pw/stream/e566be0ee8061398ca14cf39929365202b2ba1d94d31ddd4eadb3410d3de59ea.m3u8
 菏泽一套,http://live.hznet.tv:1935/live/live1/500k/tzwj_video.m3u8
 菏泽二套,http://live.hznet.tv:1935/live/live2/500k/tzwj_video.m3u8
 菏泽三套,http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8
