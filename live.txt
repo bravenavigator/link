@@ -1,4 +1,4 @@
-8央视,#genre#
+央视,#genre#
 CCTV13新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV13新闻,http://api.52tb.xyz/info?id=15&token=20230314vyrzsx
 CCTV13新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
