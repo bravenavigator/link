@@ -9,7 +9,6 @@ CCTV13新闻,https://live.goodiptv.club/api/bestv.php?id=cctv13xwhd8m/8000000
 CCTV13新闻,http://221.213.43.82:8888/newlive/live/hls/15/live.m3u8
 CCTV1综合,http://api.52tb.xyz/info?id=2&token=20230314vyrzsx
 CCTV1综合,http://60.174.137.146:9901/tsfile/live/0001_1.m3u8?key=txiptv&url=tvzb.com
-CCTV1综合,https://epg.pw/stream/55d6058c31608c306fe7d738704ebed6da586d2a01608b3c566e87f038411f54.m3u8
 CCTV1综合,http://live.goodiptv.club/api/bestv.php?id=cctv1hd8m/8000000
 CCTV1综合,https://live.goodiptv.club/api/bestv.php?id=cctv1hd8m/8000000
 CCTV1综合,http://221.213.43.82:8888/newlive/live/hls/2/live.m3u8
