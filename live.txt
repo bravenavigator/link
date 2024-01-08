@@ -1067,7 +1067,7 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 淮安金湖新闻综合,http://jinhu-tv-hls.cm.jstv.com/jinhu-tv/jinhuzh.m3u8
 浙江,#genre#
 浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-浙江经济生活https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江经济生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江教科影视,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 浙江教育,http://127.0.0.1
@@ -1164,7 +1164,6 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 宁波TV3,http://115.192.110.146:8888/rtp/233.50.201.179:5140
 宁波TV4,http://115.192.110.146:8888/rtp/233.50.201.180:5140
 温州新闻综合,http://115.192.110.146:8888/rtp/233.50.201.87:5140
-衢州新闻综合,http://115.192.110.146:8888/rtp/233.50.201.155:5140
 绍兴新闻综合,http://115.192.110.146:8888/rtp/233.50.201.156:5140
 之江记录,http://115.192.110.146:8888/rtp/233.50.202.25:5140
 安徽,#genre#
