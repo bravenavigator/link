@@ -2243,10 +2243,6 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 越南Da Nang TV1,http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
 越南Da Nang TV2,http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 越南Gia Lai TV,http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
-越南KTV,http://210.245.20.94/hls/ktv1.m3u8
-越南HBTV,http://tv.ctvcamau.vn/live/tv/tv.m3u8
-越南PTTh,http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
-越南HBTV,http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
 泰国ASTV News,ttp://news1.live14.com/stream/news1_hi.m3u8
 泰国CTB,http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 泰国PBS,http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
