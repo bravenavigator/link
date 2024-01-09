@@ -337,15 +337,11 @@ CCTV风云足球,http://api.52tb.xyz/info?id=20&token=20230314vyrzsx
 康巴卫视,http://118.122.126.202:8877/rtp/239.93.0.41:5140
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 延边卫视,https://epg.pw/stream/e62732d5ec879b9bd722931c588ebd651378265bdef75851ac7c5b776b6be991.m3u8
-延边卫视,https://epg.pw/stream/9e62cbac5064a4004804e46eff07191b879dc686bcacb02f05ce4c27519387d7.m3u8
-延边卫视,https://epg.pw/stream/2165d5b43521fde6c8fd35372ffcd84615b7c0bc28a4b48d35fa4a73cb7f9a20.m3u8
-延边卫视,https://epg.pw/stream/d69e5b3bfc7245f364fd398a63c479f96f6418ab5f668a36a82421c2270a535e.m3u8
 延边卫视,https://epg.pw/stream/b29a59ae604e03f418fb64afe7793f3bd6e00c9905ebd638d4a0b58716c74023.m3u8
 延边卫视,https://epg.pw/stream/2c315ffc8f8501d31b82a47f0e65c47661e4f9fb6e45a5d9026fe47fe0563dba.m3u8
 延边卫视,https://epg.pw/stream/f8b011a72bc4a208b05e644becd195a02fd6a7937bb4bacaf635def8eede2b71.m3u8
 延边卫视,https://epg.pw/stream/ae4d5ebb6f83c370816cf09f28f4008a06d10e3dd0181cbfacfebfd52fee3c7d.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
-延边卫视,http://live.ybtvyun.com/video/s10006-90fe76c52091/index.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 三沙卫视,https://epg.pw/stream/3473a39a4377e2f48de9cb47a24b75255f9b0eab285cdd300f7fe421440311bf.m3u8
