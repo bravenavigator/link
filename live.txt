@@ -1155,10 +1155,10 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 绍兴新闻综合,http://115.192.110.146:8888/rtp/233.50.201.156:5140
 之江记录,http://115.192.110.146:8888/rtp/233.50.202.25:5140
 安徽,#genre#
+安徽新闻综合,http://112.30.194.221:20080/live/7210e3a27cc64ac4a3f7aba2e2b683d5/hls.m3u8
 安徽经济生活,http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8
 安徽经济生活,https://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829325295495.m3u8
 安徽经济生活,http://mmitv.top/test/ahtv.php?id=12
-安徽公共,http://snapshotliveht.ahtv.cn/atvrtmp/143_q_live161829349154529.m3u8
 安徽公共,https://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829349154529.m3u8
 安徽公共,https://epg.pw/stream/3e096a4f4026aded7c3adeb1992d1804bda5fd78f080085f0ee77e55ffc370f5.m3u8
 安徽影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
@@ -1168,7 +1168,6 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 安徽综艺体育,http://skycw.vicp.net:4022/udp/238.1.79.41:4440
 安徽综艺体育,http://321257.cn:8888/udp/238.1.79.41:4440
 安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv
-安徽综艺体育,http://112.30.194.221:20080/live/7210e3a27cc64ac4a3f7aba2e2b683d5/hls.m3u8
 安徽综艺体育,https://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829415240627.m3u8
 安徽农业科教,http://snapshotliveht.ahtv.cn/atvrtmp/143_q_live161829358013848.m3u8
 安徽农业科教,https://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829358013848.m3u8
