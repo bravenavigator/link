@@ -197,7 +197,7 @@ CCTV风云足球,http://api.52tb.xyz/info?id=20&token=20230314vyrzsx
 湖北卫视,http://221.2.36.34:8888/newlive/live/hls/34/live.m3u8
 湖北卫视,https://live.goodiptv.club/api/sxg.php?id=hbwsH265_4000
 湖北卫视,http://221.213.43.82:8888/newlive/live/hls/34/live.m3u8
-安徽卫视,https://epg.pw/stream/f28ca2b181313c7d1c12e5782d855064a5b7d884f911753018d33cdbb6944b9b.ctv
+卫视,https://epg.pw/stream/f28ca2b181313c7d1c12e5782d855064a5b7d884f911753018d33cdbb6944b9b.ctv
 安徽卫视,https://epg.pw/stream/f6b1dcb74cfda40bc84467d836f82596de9d58c96875cd23d0134bb00e9dd190.ctv
 安徽卫视,http://111.20.35.103:6610/000000001000/1000000001000020780/index.m3u8?channel-id=ystenlive&Contentid=1000000001000020780&livemode=1&stbId=00
 安徽卫视,http://118.122.126.202:8877/rtp/239.93.1.106:5140
@@ -1084,6 +1084,7 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 宁波TV3,http://www.372583307.top:4022/udp/233.50.201.179:5140
 宁波TV4,http://www.372583307.top:4022/udp/233.50.201.180:5140
 宁波余姚新闻综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
+宁波余姚新闻综合,https://epg.pw/stream/10a3f7d676ba28e4474630c3ef6ac76b3c8e3f36d8df62599fcfdf699c8fdda6.m3u8
 宁波象山新闻综合,http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
 宁波象山新闻综合,https://epg.pw/stream/19c5142ea270b459d4f7b4bd6ee40d94f774a61bfc3ee98a4a41f31e4a2956f6.m3u8
 宁波鄞州一套,http://play-a2.quklive.com/live/1668501533304136.m3u8
@@ -1174,6 +1175,7 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 安徽国际,http://snapshotliveht.ahtv.cn/atvrtmp/143_q_live161829422933950.m3u8
 安徽国际,https://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829422933950.m3u8
 安徽国际,https://epg.pw/stream/4c768e6130f5aabac4acb0c6004fac7cf6a0d032ffba42bd62e66e1cb6804249.m3u8
+合肥民生,http://api2.52tb.xyz/info?id=588&token=20230405tndmhg
 池州新闻综合,http://cm.wshls.homecdn.com/live/829f.m3u8
 池州新闻综合,http://cm.wshls.homecdn.com/live/4abdd.m3u8
 淮南新闻综合,http://stream.0554news.com/hnds1/sd/live.m3u8
