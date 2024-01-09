@@ -656,7 +656,9 @@ TVB星河,http://tvpo1.rbq.plus/xinghe/xinghe.stream/chunklist.m3u8
 TVB星河,http://113.117.74.12:8081/hls/135/index.m3u8
 TVB千禧经典,https://epg.pw/stream/81d660e21a3374ca0ef46619571ea42bedd6a9b474339f425b9519dae51f6368.ctv
 TVB千禧经典,https://epg.pw/stream/c2345311e1550c95759001d3e0bfe259917f17ef13dc688f25ac398e135d725a.ctv
+RTHK TV 31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 RTHK TV 32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+RTHK TV 32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
 香港卫视文旅,http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
 香港卫视文旅,https://epg.pw/stream/092a08c73e2f252b5b864bbf21fc7753e7c59c706165977ab071e8b2216da0cb.m3u8
 香港卫视文旅,https://epg.pw/stream/ba73bee0ff70c645c56f02c90b6f25d1f35dd3f2048282d55f0662631f850fad.m3u8
@@ -830,6 +832,7 @@ BRTV国际,http://114.254.94.201:2222/rtp/239.3.1.235:8000
 民视新闻,https://epg.pw/stream/76f0ee00f9e59f698ff954d5f79bf2c7f5ecbc83a47381bb74906acd165bd48c.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 民视新闻,http://194.87.101.118:9501/live.m3u8?c=11
 台视新闻,https://epg.pw/stream/6ffb325e878b6ae255f12f6f11aef268b32db0d6b8b43c53fa0041975274cba5.m3u8
 台视新闻,https://epg.pw/stream/07420afeb8a2edf0654aac4b73fe562896504712677577e2929d4425986b3415.m3u8
@@ -850,6 +853,7 @@ BRTV国际,http://114.254.94.201:2222/rtp/239.3.1.235:8000
 台视新闻,https://epg.pw/stream/850967cb490cf3c98e20a19b56de0e5a029710949cff71a4132bf059dcf656bc.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 台视新闻,http://194.87.101.118:9501/live.m3u8?c=4
 中天新闻,http://194.87.101.118:9501/live.m3u8?c=7
