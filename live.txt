@@ -337,12 +337,9 @@ CCTV风云足球,http://api.52tb.xyz/info?id=20&token=20230314vyrzsx
 康巴卫视,http://118.122.126.202:8877/rtp/239.93.0.41:5140
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 延边卫视,https://epg.pw/stream/e62732d5ec879b9bd722931c588ebd651378265bdef75851ac7c5b776b6be991.m3u8
-延边卫视,https://epg.pw/stream/b29a59ae604e03f418fb64afe7793f3bd6e00c9905ebd638d4a0b58716c74023.m3u8
 延边卫视,https://epg.pw/stream/2c315ffc8f8501d31b82a47f0e65c47661e4f9fb6e45a5d9026fe47fe0563dba.m3u8
 延边卫视,https://epg.pw/stream/f8b011a72bc4a208b05e644becd195a02fd6a7937bb4bacaf635def8eede2b71.m3u8
-延边卫视,https://epg.pw/stream/ae4d5ebb6f83c370816cf09f28f4008a06d10e3dd0181cbfacfebfd52fee3c7d.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
-延边卫视,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 三沙卫视,https://epg.pw/stream/3473a39a4377e2f48de9cb47a24b75255f9b0eab285cdd300f7fe421440311bf.m3u8
 三沙卫视,https://epg.pw/stream/039dfef60560b3de2b57edc4976c77a817905d1fc0e3c8e1fc1a9230efd52078.ctv
@@ -2061,9 +2058,11 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 吉林生活,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/1.m3u8
 吉林影视,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/1.m3u8
 吉林乡村,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/1.m3u8
-延边-1,http://live.ybtvyun.com/video/s10016-af95004b6d1a/index.m3u8?zjild
-延边-2,http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8?zjild
-延边-2,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8?zjild
+延边-1,http://live.ybtvyun.com/video/s10016-af95004b6d1a/index.m3u8
+延边-2,http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8
+延边-2,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
+延边-2,https://epg.pw/stream/b29a59ae604e03f418fb64afe7793f3bd6e00c9905ebd638d4a0b58716c74023.m3u8
+延边-2,https://epg.pw/stream/ae4d5ebb6f83c370816cf09f28f4008a06d10e3dd0181cbfacfebfd52fee3c7d.m3u8
 延边朝鲜语综合,http://live.ybtvyun.com/video/s10006-b571c289a478/index.m3u8?zjild
 延边朝鲜语综合,http://live.ybtvyun.com/video/s10016-19a16c47eb99/index.m3u8?zjild
 甘肃,#genre#
