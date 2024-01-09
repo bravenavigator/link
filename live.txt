@@ -1263,7 +1263,6 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 乐山新闻综合,http://channellive.leshantv.net/live/ch1.flv?zsicd
 乐山公共,https://live.goodiptv.club/api/sxg.php?id=lsggpd_4000
 乐山公共,http://channellive.leshantv.net/live/ch2.flv?zsicd
-乐山沐川综合,http://tvfile.mcrm.org.cn/nmip-media/channellive/channel103064/playlist.m3u8?zsicd
 乐山峨边综合,https://live.goodiptv.club/api/sxg.php?id=ebdst_2000
 乐山峨眉综合,https://live.goodiptv.club/api/sxg.php?id=emsxw_2000
 乐山珙县新闻,https://live.goodiptv.club/api/sxg.php?id=gxzh_2000
