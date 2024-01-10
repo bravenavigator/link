@@ -810,6 +810,8 @@ BRTV国际,http://114.254.94.201:2222/rtp/239.3.1.235:8000
 重庆影视,http://127.0.0.1
 重庆科教,http://127.0.0.1
 重庆娱乐,http://127.0.0.1
+万州综合,http://123.146.162.24:8013/tslslive/noEX9SG/hls/live_sd.m3u8
+万州综合,http://wanzhoulive.cbg.cn:8017/iTXwrGs/800/live.m3u8
 潼南综合,http://183.230.184.51:65500/tntv1.m3u8
 高平综合,http://live.gprmt.cn/gpnews/hd/live.m3u8?zshanxd
 大足综合,http://218.201.85.71:3170/m3u8?zzhongqd
@@ -1908,7 +1910,6 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 山西经济与科技,http://api.52tb.xyz/info?id=643&token=20230314vyrzsx
 山西经济与科技,http://liveflash.sxrtv.com/live/sxfinance.m3u8?sub_m3u8=true&edge_slice=true
 山西经济与科技,http://live.cooltv.top/tv/tide.php?id=sxjj
-山西经济与科技,http://liveflash.sxrtv.com/live/sxfinance.m3u8?sub_m3u8=true&edge_slice=true
 山西社会与法治,http://liveflash.sxrtv.com/live/sxedu.m3u8?sub_m3u8=true&edge_slice=true
 山西社会与法治,https://epg.pw/stream/d4939f0b26efd071f690ea78f655acea45c7b99bc35e835f4f48a136a8876929.m3u8
 山西社会与法治,https://epg.pw/stream/6d0adecf643742de1c5356bb30965877019a552f8e930306a466baa95dfd91d3.m3u8
