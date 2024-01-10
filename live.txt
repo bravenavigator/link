@@ -198,13 +198,13 @@ CCTV风云足球,http://api.52tb.xyz/info?id=20&token=20230314vyrzsx
 湖北卫视,https://live.goodiptv.club/api/sxg.php?id=hbwsH265_4000
 湖北卫视,http://221.213.43.82:8888/newlive/live/hls/34/live.m3u8
 安徽卫视,http://hf.bbtu.top:10000/rtp/239.3.1.211:8064
+安徽卫视,http://119.54.2.125:58000/hls/38/index.m3u8
 安徽卫视,http://118.122.126.202:8877/rtp/239.93.1.106:5140
 安徽卫视,http://111.20.35.103:6610/000000001000/1000000001000020780/index.m3u8?channel-id=ystenlive&Contentid=1000000001000020780&livemode=1&stbId=00
 安徽卫视,http://221.2.36.34:8888/newlive/live/hls/25/live.m3u8
 安徽卫视,http://live.goodiptv.club/api/bestv.php?id=ahwshd8m/8000000
 安徽卫视,https://live.goodiptv.club/api/sxg.php?id=ahwsH265_4000
 安徽卫视,https://live.goodiptv.club/api/bestv.php?id=ahwshd8m/8000000
-安徽卫视,http://221.213.43.82:8888/newlive/live/hls/25/live.m3u8
 江西卫视,http://api.52tb.xyz/info?id=35&token=20230314vyrzsx
 江西卫视,https://epg.pw/stream/440f27d56757e766a2297f9b765c5ca15a92e509e0d3a11caab5422da83c95e3.ctv
 江西卫视,https://epg.pw/stream/bbfca72e08c8447ebde26e90a2eaf1ef09a96d86736d92e62677074fbc9300f9.ctv
