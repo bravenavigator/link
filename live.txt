@@ -198,6 +198,7 @@ CCTV风云足球,http://api.52tb.xyz/info?id=20&token=20230314vyrzsx
 湖北卫视,https://live.goodiptv.club/api/sxg.php?id=hbwsH265_4000
 湖北卫视,http://221.213.43.82:8888/newlive/live/hls/34/live.m3u8
 安徽卫视,http://hf.bbtu.top:10000/rtp/239.3.1.211:8064
+安徽卫视,http://36.33.240.48:9901/tsfile/live/0130_1.m3u8
 安徽卫视,http://119.54.2.125:58000/hls/38/index.m3u8
 安徽卫视,http://118.122.126.202:8877/rtp/239.93.1.106:5140
 安徽卫视,http://111.20.35.103:6610/000000001000/1000000001000020780/index.m3u8?channel-id=ystenlive&Contentid=1000000001000020780&livemode=1&stbId=00
