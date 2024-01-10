@@ -810,8 +810,6 @@ BRTV国际,http://114.254.94.201:2222/rtp/239.3.1.235:8000
 重庆影视,http://127.0.0.1
 重庆科教,http://127.0.0.1
 重庆娱乐,http://127.0.0.1
-万州综合,http://123.146.162.24:8013/tslslive/noEX9SG/hls/live_sd.m3u8
-万州综合,http://wanzhoulive.cbg.cn:8017/iTXwrGs/800/live.m3u8
 潼南综合,http://183.230.184.51:65500/tntv1.m3u8
 高平综合,http://live.gprmt.cn/gpnews/hd/live.m3u8?zshanxd
 大足综合,http://218.201.85.71:3170/m3u8?zzhongqd
