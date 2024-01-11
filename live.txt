@@ -176,6 +176,7 @@ CCTV风云足球,http://api.52tb.xyz/info?id=20&token=20230314vyrzsx
 江苏卫视,http://live.goodiptv.club/api/bestv.php?id=jswshd8m/8000000
 江苏卫视,https://live.goodiptv.club/api/bestv.php?id=jswshd8m/8000000
 江苏卫视,http://221.213.43.82:8888/newlive/live/hls/22/live.m3u8
+浙江卫视,https://epg.pw/stream/5eb50e6a4ccf96ade0f3359339ce5e069161e0ced131f108c2d641275fd673ce.m3u8
 浙江卫视,https://video.lzjtu.edu.cn/liverespath/f650ba03bb4883fe67a1fb7c193a00a4c0c93881/index.m3u8
 浙江卫视,https://epg.pw/stream/ef64c3fcb165aaf94458d76bfd1251f99af55f24c33e94cd1e3ff923ccbf3567.ctv
 浙江卫视,https://epg.pw/stream/546bf3ec25f8dc97c6b5d16bdda2b8fdc6d3cd077dbbf1d2212a7a87fc6847f0.ctv
