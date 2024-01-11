@@ -257,10 +257,8 @@ CCTV风云足球,http://api.52tb.xyz/info?id=20&token=20230314vyrzsx
 山东卫视,https://live.goodiptv.club/api/bestv.php?id=sdws8m/8000000
 山东卫视,http://221.213.43.82:8888/newlive/live/hls/30/live.m3u8
 河南卫视,http://api.52tb.xyz/info?id=31&token=20230314vyrzsx
-河南卫视,http://219.156.52.203:4000/rtp/225.1.4.98:1127
-河南卫视,https://epg.pw/stream/7d1641093e7ca8a44e8c606f4a27593261b32078c37e3449bad8aa77338fbf08.ctv
-河南卫视,https://epg.pw/stream/f8aa4d3c858029cfb9ad1df74bc1a2e6b5598c859ba9f99238198835341d0cb6.ctv
-河南卫视,http://221.2.36.34:8888/newlive/live/hls/33/live.m3u8
+河南卫视,http://119.54.2.125:58000/hls/51/index.m3u8
+河南卫视,https://iptv.luas.edu.cn/liverespath/4bc76db1677c6cd2176e652ed6fc1cd44d8c297b/7e48b7ea4e-0-0-2194365130f8ace34d2ccabbc0ebb3f4/index.m3u8
 河南卫视,http://api3.52tb.xyz/info?id=31&token=20230227aesvnb
 河南卫视,https://live.goodiptv.club/api/sxg.php?id=hnws35_4000
 河南卫视,http://live.goodiptv.club/api/bestv.php?id=hnwshd8m/8000000
