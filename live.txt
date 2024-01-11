@@ -130,6 +130,7 @@ CCTV16奥林匹克,https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/800000
 CCTV16奥林匹克,https://live.goodiptv.club/api/bestv.php?id=cctv16hd4k/15000000
 CCTV17农业农村,http://api.52tb.xyz/info?id=19&token=20230314vyrzsx
 CCTV17农业农村,http://222.217.246.54:8282/tsfile/live/1029_1.m3u8
+CCTV17农业农村,http://121.19.134.245:808/tsfile/live/0017_1.m3u8
 CCTV17农业农村,http://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
 CCTV17农业农村,https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
 CCTV风云足球,http://api.52tb.xyz/info?id=20&token=20230314vyrzsx
