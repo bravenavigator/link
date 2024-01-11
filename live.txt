@@ -234,12 +234,13 @@ CCTV风云足球,http://api.52tb.xyz/info?id=20&token=20230314vyrzsx
 广西卫视,http://live.goodiptv.club/api/bestv.php?id=gxwshd8m/8000000
 广西卫视,http://221.213.43.82:8888/newlive/live/hls/26/live.m3u8
 广西卫视,https://live.goodiptv.club/api/bestv.php?id=gxwshd8m/8000000
-云南卫视,https://epg.pw/stream/1dcf2e33fcb081651dbcdaba9bed1b1ad0d8c58ba943c44026dd9feed670125e.ctv
-云南卫视,https://epg.pw/stream/b41d6100a386d2eac97c5ce72d09e17db7a32f9c9c22968c823aa17a9ce87c65.ctv
+云南卫视,http://222.217.246.54:8282/tsfile/live/1092_1.m3u8
+云南卫视,http://221.213.43.82:8888/newlive/live/hls/27/live.m3u8
+云南卫视,http://tvlive.ynradio.com/live/yunnanweishi/playlist.m3u8
+云南卫视,https://epg.pw/stream/6f28d4fb3a32bf1b104feedcaeac8e0b1ce2fcc3e1d47f31f0f4866a2e33b780.m3u8
+云南卫视,https://epg.pw/stream/b0c9d738954f837090f9545d6ff5942a58cd00c65770ba2c94ad2db8597d9da9.m3u8
 云南卫视,http://live.goodiptv.club/api/bestv.php?id=ynwshd8m/8000000
 云南卫视,https://live.goodiptv.club/api/bestv.php?id=ynwshd8m/8000000
-云南卫视,http://tvlive.ynradio.com/live/yunnanweishi/playlist.m3u8
-云南卫视,http://221.213.43.82:8888/newlive/live/hls/27/live.m3u8
 云南卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001223/index.m3u8
 云南卫视,http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001223/1.m3u8
 贵州卫视,http://api.52tb.xyz/info?id=36&token=20230314vyrzsx
