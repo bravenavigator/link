@@ -864,7 +864,6 @@ BRTV国际,http://114.254.94.201:2222/rtp/239.3.1.235:8000
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
-民视新闻,http://194.87.101.118:9501/live.m3u8?c=11
 台视新闻,https://epg.pw/stream/6ffb325e878b6ae255f12f6f11aef268b32db0d6b8b43c53fa0041975274cba5.m3u8
 台视新闻,https://epg.pw/stream/07420afeb8a2edf0654aac4b73fe562896504712677577e2929d4425986b3415.m3u8
 台视新闻,https://epg.pw/stream/4c8adef47c01115677bc13b65593946135e6fe8c470fad1db810248c3ca10150.m3u8
@@ -886,8 +885,6 @@ BRTV国际,http://114.254.94.201:2222/rtp/239.3.1.235:8000
 台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-台视新闻,http://194.87.101.118:9501/live.m3u8?c=4
-中天新闻,http://194.87.101.118:9501/live.m3u8?c=7
 中天亚洲台,https://epg.pw/stream/2e039c5c47f9be7719c34c5d0ced48f66df1928d8267f1c54b71a0affcfe7154.ctv
 中天亚洲台,https://epg.pw/stream/43c04d10f077c866fd74cbd9fae87e89289da78efbbfb0617ad567c2e3746488.ctv
 中天亚洲台,https://epg.pw/stream/27878dca4d7c192a06d2814aa73d5ce9a86eb53bcf35c6ac979ec534eb57b081.ctv
@@ -899,8 +896,6 @@ BRTV国际,http://114.254.94.201:2222/rtp/239.3.1.235:8000
 中天亚洲台,https://epg.pw/stream/87f3fd00562b5f64a04e7488d39bb7ac454c4317222f0550c1ae9cba787e4357.ctv
 中天亚洲台,https://epg.pw/stream/89e88fbca6950273e908d69f7ed35708ee2ff3ac74dd9269533af663e06dfb3b.ctv
 中天亚洲台,https://epg.pw/stream/f31e5b275c9033d811f072480061be69b29fd4a03886c6f1aa3404792e20d9d0.ctv
-中视新闻,http://194.87.101.118:9501/live.m3u8?c=6
-中视新闻,https://epg.pw/stream/75ed5dace6085a341761f5b7fe43bbbc83c975c8e80fd064568286b5c539cfb9.ctv
 中视新闻,https://epg.pw/stream/00c0e49f6b0ebf36cf01a6b87955f78c400927f22fac4390ac0838cebd333d11.m3u8
 中视新闻,https://epg.pw/stream/b09007fbaceadf85a6e6b6198982e2cdd2eb2f9f9caedd782b4efa67e483b33a.m3u8
 中视新闻,rtmp://9sv2.mine.nu/sat/tv091
@@ -908,9 +903,7 @@ BRTV国际,http://114.254.94.201:2222/rtp/239.3.1.235:8000
 中视经典综艺,http://198.16.100.90:8278/zhongshi_twn/playlist.m3u8?tid=14379667&ct=17988&tsum=de63d02f44741580b5070077d1949841
 中视经典综艺,http://198.16.100.90:8278/zhongshi_twn/playlist.m3u8?tid=mffe9aaf8765f&ct=18335&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
 公视新闻,https://epg.pw/stream/4853f0bf43ae51d056584fdb46ac894ad3929323d024a972976fb9bcd34e0022.m3u8
-公视新闻,http://194.87.101.118:9501/live.m3u8?c=8
 东森新闻,https://epg.pw/stream/25684ac2210e084de3c382512e010d4dba82069bfb601e1f9e68f14c79a8849a.m3u8
-东森新闻,http://194.87.101.118:9501/live.m3u8?c=9
 东森财经新闻,https://epg.pw/stream/1f0d0e82ff3b9bbf3fbb877a47a08099bd3c5d972e033a5015f3da0097a458d3.ctv
 东森美洲,https://epg.pw/stream/568e26b29122e84e3527b97eca553332274777bdf39873fb234fb6581a3f6a59.m3u8
 东森美洲,https://epg.pw/stream/3f54de58cf44244a3a2e14cd7388cac348a17ada96c4aba4b5a65f1c4ceeabca.m3u8
@@ -918,12 +911,10 @@ BRTV国际,http://114.254.94.201:2222/rtp/239.3.1.235:8000
 东森电影,https://epg.pw/stream/2b9694161f75806179149e3b0bffc576073f99c5fefd7c55b85ed46722882104.ctv
 东森幼幼,https://epg.pw/stream/de717f629316508933939cc9d90e62b3a86d6377aff1ca390e1717e68c960eb4.m3u8
 三立新闻,https://epg.pw/stream/a2330bdca96a3420aa2a0558fee3e7a27377acf939e88305f7d3c66e9c5b1a15.ctv
-三立新闻,http://194.87.101.118:9501/live.m3u8?c=12
 TVBS新闻,https://epg.pw/stream/45b72acdc2cd146b4f103a6728efe468f65c59b65c48f13b61b36fb150ea79af.m3u8
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
-TVBS新闻,http://194.87.101.118:9501/live.m3u8?c=5
 TVBS欢乐,https://epg.pw/stream/ff6fc1b169c331feaeec834684c81f163f25ccb1ce6c0f448cece0a4cee8cc8c.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
