@@ -713,7 +713,6 @@ BRTV新闻,https://epg.pw/stream/c3a3c0a8ea0bafb5d99f719f61744502a81647e17be0f3f
 BRTV新闻,http://qnap.yjnhome.com:4000/udp/239.3.1.159:8000
 BRTV财经,https://epg.pw/stream/147d58bba3907a23b8e0ed0f223af8f924c02a8a2e0e47b78c0577376e61130c.ctv
 BRTV文艺,https://epg.pw/stream/69c41ec4ca6e3c469d53879a8a517d35d4c6e6af832d252022bf8bd8613710b1.ctv
-BRTV文艺,http://81.69.20.196/mqlive.m3u8?ip=61.48.132.122:8000&id=live1045
 BRTV生活,https://epg.pw/stream/02e324411333fa61cd109827ecc724a5fa5923b922b547b02589f5f80ad1bfba.ctv
 BRTV影视,https://epg.pw/stream/2474a7dc1132dc7bd1e7f063166fee00f91aebcd56a417271aacb772501200e4.ctv
 BRTV影视,https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv4_1/index.m3u8?adapt=0&BR=audio
