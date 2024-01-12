@@ -653,9 +653,9 @@ CCTV风云足球,http://api.52tb.xyz/info?id=20&token=20230314vyrzsx
 凤凰香港,https://fake-stream.livednow.com/mdvb/phx-hk?token=8c49b0a6f0c36e6990d3ff661695b413&user_id=1001586361&user_token=7369737c57a4a30828b792bd84e746ae
 凤凰香港,http://113.117.74.18:8081/hls/38/index.m3u8
 TVB翡翠,http://r.jdshipin.com/qClQf
+TVB翡翠,http://r.jdshipin.com/62WM7
 TVB翡翠,https://epg.pw/stream/f8abbdf5312cd5274ea4bc7602ae3320fb86083f7a07c8c2f08027421f54ad51.ctv
 TVB翡翠,https://epg.pw/stream/72d4915ec44c10747097256e886a068d1b80edf5de9c15573fd0d896b8580858.ctv
-TVB翡翠,http://r.jdshipin.com/62WM7
 TVB新闻,https://epg.pw/stream/910ef14a8e43064a71b46c9cd8c9dbc07a743742a2e048372936aacfa2c0db53.ctv
 TVB新闻,https://epg.pw/stream/61f17fbba48271a6195cb5969b4207d5b152993ad4f225b88ec13c630863bb84.ctv
 TVB新闻,https://epg.pw/stream/9eba5b8c19187b49a71080ebc17c848c15a04a9b099e571d376374d8ab99f3cf.ctv
