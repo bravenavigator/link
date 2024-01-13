@@ -1692,10 +1692,10 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 广西影视,http://116.9.204.242:9901/tsfile/live/0124_1.m3u8
 广西影视,http://111.59.63.32:9901/tsfile/live/1006_1.m3u8
 广西影视,https://epg.pw/stream/87b5fab26999f4080edd24135e3c9a839c1b3e3c121ea22cc89a1374bb3c2ee4.m3u8
-南宁新闻综合:https//hls.nntv.cn/nnlive/XWZH_24.m3u8
+南宁新闻综合,https://hls.nntv.cn/nnlive/XWZH_24.m3u8
+南宁公共,https://hls.nntv.cn/nnlive/GGPD_24.m3u8
 南宁文旅生活,https://hls.nntv.cn/nnlive/WLSH_24.m3u8
 南宁影视娱乐,https://hls.nntv.cn/nnlive/YSYL_24.m3u8
-南宁公共,https://hls.nntv.cn/nnlive/GGPD_24.m3u8
 南宁老友live,https://hls.nntv.cn/nnlive/LYL1_24.m3u8
 南宁隆安综合,https://hls.nntv.cn/nnlive/LATV_24.m3u8
 桂林新闻综合,https://pull.gltvs.com/live/glxw/playlist.m3u8?v=b0528684bf934e120e1c30fc808e6576&t=1796868188
