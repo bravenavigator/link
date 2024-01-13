@@ -291,8 +291,6 @@ CCTV风云足球,http://api.52tb.xyz/info?id=20&token=20230314vyrzsx
 云南卫视,https://epg.pw/stream/b0c9d738954f837090f9545d6ff5942a58cd00c65770ba2c94ad2db8597d9da9.m3u8
 云南卫视,http://live.goodiptv.club/api/bestv.php?id=ynwshd8m/8000000
 云南卫视,https://live.goodiptv.club/api/bestv.php?id=ynwshd8m/8000000
-云南卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001223/index.m3u8
-云南卫视,http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001223/1.m3u8
 贵州卫视,http://222.223.119.21:8888/newlive/live/hls/29/live.m3u8
 贵州卫视,http://api.52tb.xyz/info?id=36&token=20230314vyrzsx
 贵州卫视,https://epg.pw/stream/22e8a60d20cc198c47c47d1d5aa3d0092c10f1b13593b908f43177b5ac4f29c8.ctv
@@ -2482,6 +2480,7 @@ CETV-4,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001348/index.m3
 吉林卫视,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1874077489_789689702/ott.mobaibox.com/PLTV/3/224/3221228130/index.m3u8?icpid=3&RTS=1669700475&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 三沙卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
 云南卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001223/index.m3u8
+云南卫视,http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001223/1.m3u8
 青海卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001450/index.m3u8
 青海卫视,http://[2409:8087:2001:20:2800:0:df6e:eb1b]/wh7f454c46tw1221605145_-1738716276/ott.mobaibox.com/PLTV/3/224/3221227554/index.m3u8?icpid=3&RTS=1668600311&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
 新疆卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw993550557_162751766/ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8?icpid=3&RTS=1668604377&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
