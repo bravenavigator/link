@@ -2348,6 +2348,9 @@ Travexp,https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
 MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
 Motorvisison TV,https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 影院,#genre#
+CHC高清电影,http://110.52.99.109:9901/tsfile/live/1035_1.m3u8
+CHC动作电影,http://110.52.99.109:9901/tsfile/live/1036_1.m3u8
+CHC家庭影院,http://110.52.99.109:9901/tsfile/live/1037_1.m3u8
 都市剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226581/1.m3u8
 超级综艺,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226009/1.m3u8
 欢笑剧场4K,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226582/1.m3u8
