@@ -748,6 +748,7 @@ TVB新闻,https://epg.pw/stream/d07688640684498fb773e7cd13b2f90abcd1cdc4683c4453
 TVB新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
 TVB财经,http://live.cooltv.top/tv/tvb.php?id=2
 TVB财经,http://r.jdshipin.com/jUx8K
+TVB财经,https://epg.pw/stream/edb021b95a130ac49e529d695d5860a198bc98658818bfb40efc94176589c8a6.ctv
 TVB华丽,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 TVB华丽,https://epg.pw/stream/279c68f1813ee1b4898623fc6ec33781e7caecfa5aaf7f5e9a799d5d5599dad6.ctv
 TVB华丽,https://epg.pw/stream/636f412bbf1921e03e7d23cbcb47fab5cff14f5b98313402cfa563e80ed383ac.ctv
