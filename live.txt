@@ -348,6 +348,7 @@ CCTV风云足球,http://api.52tb.xyz/info?id=20&token=20230314vyrzsx
 吉林卫视,http://119.54.2.125:58000/hls/18/index.m3u8
 吉林卫视,http://222.217.246.54:8282/tsfile/live/1059_1.m3u8
 吉林卫视,http://221.213.43.82:8888/newlive/live/hls/35/live.m3u8
+吉林卫视,https://epg.pw/stream/ba4638b7178314a10cfc89e46f24b0912a8a5a037112f3985b7b2555de859d73.ctv
 吉林卫视,https://epg.pw/stream/46b5d3c09c0c56538d18fa02986716c1d27b1196c8861c512cfead0b227eeaa4.m3u8
 吉林卫视,https://epg.pw/stream/5f1a5c423a759d2a2804cdcc60d82044f01971be640cf06359689f4199eff780.m3u8
 吉林卫视,http://api3.52tb.xyz/info?id=40&token=20230227aesvnb
