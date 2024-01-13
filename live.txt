@@ -1992,6 +1992,7 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 体育休闲,http://1.82.144.16:4022/rtp/239.111.205.36:5140
 西部电影,http://1.82.144.16:4022/rtp/239.111.205.41:5140
 山西,#genre#
+山西经济与科技,rtp://239.1.1.3:8003
 山西经济与科技,http://api.52tb.xyz/info?id=643&token=20230314vyrzsx
 山西经济与科技,http://liveflash.sxrtv.com/live/sxfinance.m3u8?sub_m3u8=true&edge_slice=true
 山西经济与科技,http://live.cooltv.top/tv/tide.php?id=sxjj
@@ -2000,7 +2001,6 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 山西社会与法治,https://epg.pw/stream/d4939f0b26efd071f690ea78f655acea45c7b99bc35e835f4f48a136a8876929.m3u8
 山西社会与法治,https://epg.pw/stream/6d0adecf643742de1c5356bb30965877019a552f8e930306a466baa95dfd91d3.m3u8
 山西社会与法治,http://live.cooltv.top/tv/cutv.php?id=sxkj
-山西文体生活,rtp://239.1.1.3:8003
 山西文体生活,http://liveflash.sxrtv.com/live/sxpublic.m3u8?sub_m3u8=true&edge_slice=true
 山西文体生活,http://api.52tb.xyz/info?id=644&token=20230314vyrzsx
 山西文体生活,https://epg.pw/stream/cf835305701c451e7e532c9dd04f082d81e7b46eadd4685d508e665c709fa2fb.ctv
