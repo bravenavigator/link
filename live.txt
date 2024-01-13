@@ -1698,10 +1698,6 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 福建少儿,http://175.43.106.30:4022/rtp/239.61.2.9:8048
 厦门一套,http://175.43.106.30:4022/rtp/239.61.3.55:9848
 厦门二套,http://175.43.106.30:4022/rtp/239.61.3.56:9854
-海南,#genre#
-海口一套综合,http://153.0.158.159:16080/live/cnm1.m3u8
-海口二套生活娱乐,https://p8.vzan.com/slowlive/923296435665764776/live.m3u8?zbid=11763520&tpid=1377970474
-海口三套城乡经济,https://p8.vzan.com/slowlive/413529887100763745/live.m3u8?zbid=11763520&tpid=246995717
 广西,#genre#
 广西新闻,http://116.9.204.242:9901/tsfile/live/1001_1.m3u8
 广西新闻,http://111.59.63.32:9901/tsfile/live/1007_1.m3u8
@@ -2300,17 +2296,14 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 法国France24 News,http://n1.klowdtv.net/live2/france24_720p/chunks.m3u8
 法国CNEWS,http://livetv.ktv.zone/18/play.m3u8
 法国M6,http://livetv.ktv.zone/8/play.m3u8
-法国PARIS 1,http://livetv.ktv.zone/56/play.m3u8
-法国PARIS 2,http://livetv.ktv.zone/57/play.m3u8
 法国TV5,http://livetv.ktv.zone/61/play.m3u8
-法国LCI,http://livetv.ktv.zone/28/play.m3u8
 法国TFX,http://livetv.ktv.zone/13/play.m3u8
 法国TF1,http://livetv.ktv.zone/3/play.m3u8
 法国BFM,http://livetv.ktv.zone/17/play.m3u8
 德国RTL,http://livetv.ktv.zone/55/play.m3u8
 以色列i24 News,https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/profile_0/chunklist.m3u8
-日本NHKWorld,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-日本NHKWorld,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+日本NHKWorld News,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+日本NHKWorld News,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 日本NHKWorld News,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 日本NTV News,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 俄罗斯Известия,https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
@@ -2349,24 +2342,17 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 美国Discoveryᴴᴰ,http://typicamn.russtv.net/iptv/349W3XS8ENP64A/9011/index.m3u8
 美国National Geographicᴴᴰ,http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 美国Ski TV,https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SynapseTV/193.m3u8
-南非Wild Earth,https://wildearth-roku.amagi.tv/masterR720P.m3u8
+美国Animal Plane,https://epg.pw/stream/719dcadb77ff0d2ad596e29241da6752110e8aed49a204508df88ee5a760629a.ctv
+美国Wild Earth,https://wildearth-roku.amagi.tv/masterR720P.m3u8
 Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Tastemate Travelᴴᴰ,https://tastemadetravel-vizio.amagi.tv/playlist720_p.m3u8
 Travexp,https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
 MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
 Motorvisison TV,https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 影院,#genre#
-华语影院,https://live.goodiptv.club/api/bestv.php?id=hyyy8m/8000000
-星光影院,https://live.goodiptv.club/api/bestv.php?id=xgyy8m/8000000
-谍战剧场,https://live.goodiptv.club/api/bestv.php?id=dzjc8m/8000000
-全球大片,https://live.goodiptv.club/api/bestv.php?id=qqdp8m/8000000
-热门剧场,https://live.goodiptv.club/api/bestv.php?id=rmjc8m/8000000
 都市剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226581/1.m3u8
 超级综艺,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226009/1.m3u8
 欢笑剧场4K,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226582/1.m3u8
-动物星球,https://epg.pw/stream/719dcadb77ff0d2ad596e29241da6752110e8aed49a204508df88ee5a760629a.ctv
-熊猫,https://epg.pw/stream/1b477de2aff814d6b317b2b9e462342ec6a27006810376ab97580aa29d886f90.m3u8
-熊猫,https://epg.pw/stream/3a3cd6889c336a75c3e5ef438e68f6300bf99e792c1eb9878986aad540468d9c.m3u8
 央视IPV6,#genre#
 CCTV1综合,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
 CCTV2财经,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001220/index.m3u8
@@ -2540,6 +2526,8 @@ CETV-4,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001348/index.m3
 金鹰卡通,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001460/index.m3u8
 动漫秀场,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001196/index.m3u8
 哈哈炫动,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001232/index.m3u8
+熊猫,https://epg.pw/stream/1b477de2aff814d6b317b2b9e462342ec6a27006810376ab97580aa29d886f90.m3u8
+熊猫,https://epg.pw/stream/3a3cd6889c336a75c3e5ef438e68f6300bf99e792c1eb9878986aad540468d9c.m3u8
 求索IPV6,#genre#
 求索记录,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
 求索动物,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
