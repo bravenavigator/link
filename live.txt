@@ -8,6 +8,9 @@ CCTV13新闻,http://api.52tb.xyz/info?id=15&token=20230314vyrzsx
 CCTV13新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 CCTV13新闻,https://pi.0472.org/tv/mzt.php?auth=230918
 CCTV13新闻,https://epg.pw/stream/fc939113e81b8c3c09a430f2d5aecf985c98d73658e4314d70292b2f53d2e153.m3u8
+CCTV13新闻,http://tvphp1.rbq.plus/migu.php?id=cctv13$爱看咪咕D
+CCTV13新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8$官方1
+CCTV13新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8$官方2
 CCTV13新闻,http://live.goodiptv.club/api/bestv.php?id=cctv13xwhd8m/8000000
 CCTV13新闻,https://live.goodiptv.club/api/bestv.php?id=cctv13xwhd8m/8000000
 CCTV13新闻,http://221.213.43.82:8888/newlive/live/hls/15/live.m3u8
@@ -20,11 +23,13 @@ CCTV1综合,http://221.213.43.82:8888/newlive/live/hls/2/live.m3u8
 CCTV2财经,http://222.223.119.21:8888/newlive/live/hls/3/live.m3u8
 CCTV2财经,http://api.52tb.xyz/info?id=3&token=20230314vyrzsx
 CCTV2财经,http://60.174.137.146:9901/tsfile/live/0002_1.m3u8?key=txiptv&url=tvzb.com
+CCTV2财经,http://tvphp1.rbq.plus/migu.php?id=cctv1$爱看咪咕D
 CCTV2财经,http://live.goodiptv.club/api/bestv.php?id=cctv2hd8m/8000000
 CCTV2财经,https://live.goodiptv.club/api/bestv.php?id=cctv2hd8m/8000000
 CCTV2财经,http://221.213.43.82:8888/newlive/live/hls/3/live.m3u8
 CCTV3综艺,http://api.52tb.xyz/info?id=4&token=20230314vyrzsx
 CCTV3综艺,http://60.174.137.146:9901/tsfile/live/0003_1.m3u8?key=txiptv&url=tvzb.com
+CCTV3综艺,http://tvphp1.rbq.plus/migu.php?id=cctv2$爱看咪咕D
 CCTV3综艺,http://live.goodiptv.club/api/bestv.php?id=cctv38m/8000000
 CCTV3综艺,https://live.goodiptv.club/api/bestv.php?id=cctv38m/8000000
 CCTV3综艺,http://api.52tb.xyz/info?id=5&token=20230314vyrzsx
@@ -32,6 +37,7 @@ CCTV3综艺,http://221.213.43.82:8888/newlive/live/hls/4/live.m3u8
 CCTV4中文国际,http://222.223.119.21:8888/newlive/live/hls/5/live.m3u8
 CCTV4中文国际,http://36.33.240.48:9901/tsfile/live/0004_1.m3u8
 CCTV4中文国际,http://119.54.2.125:58000/hls/4/index.m3u8
+CCTV4中文国际,http://tvphp1.rbq.plus/migu.php?id=cctv4$爱看咪咕D
 CCTV4中文国际,http://live.goodiptv.club/api/bestv.php?id=cctv4hd8m/8000000
 CCTV4中文国际,https://live.goodiptv.club/api/bestv.php?id=cctv4hd8m/8000000
 CCTV4中文国际,http://221.213.43.82:8888/newlive/live/hls/5/live.m3u8
@@ -40,6 +46,7 @@ CCTV5体育,http://222.217.246.54:8282/tsfile/live/1016_1.m3u8
 CCTV5体育,http://221.213.43.82:8888/newlive/live/hls/6/live.m3u8
 CCTV5体育,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 CCTV5体育,https://epg.pw/stream/bea9cd814987adc99d80a9c5d4809e8670c99b9797c2abcacd77ab8459792df9.m3u8
+CCTV5体育,http://tvphp1.rbq.plus/migu.php?id=cctv5$爱看咪咕D
 CCTV5体育,http://live.goodiptv.club/api/bestv.php?id=cctv58m/8000000
 CCTV5体育,https://live.goodiptv.club/api/bestv.php?id=cctv58m/8000000
 CCTV5+体育赛事,http://222.223.119.21:8888/newlive/live/hls/7/live.m3u8
@@ -49,12 +56,14 @@ CCTV5+体育赛事,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 CCTV5+体育赛事,https://epg.pw/stream/e5eab09987c6427f243fbb4debcabf8686121e8eaf3385a451a798f5ce99949a.m3u8
 CCTV5+体育赛事,https://epg.pw/stream/086db2bb0313ea69b64e6c5241778b8b5933b629e4bd09ecab5e744b122ed865.m3u8
 CCTV5+体育赛事,https://epg.pw/stream/8e87dfe99f2a476ed0f64027d3fe221c0aa002845001d44e3e273df669c0bd9c.m3u8
+CCTV5+体育赛事,http://tvphp1.rbq.plus/migu.php?id=cctv5p$爱看咪咕D
 CCTV5+体育赛事,http://live.goodiptv.club/api/bestv.php?id=cctv5phd8m/8000000
 CCTV5+体育赛事,https://live.goodiptv.club/api/bestv.php?id=cctv5phd8m/8000000
 CCTV5+体育赛事,http://221.213.43.82:8888/newlive/live/hls/7/live.m3u8
 CCTV6电影,http://36.33.240.48:9901/tsfile/live/0006_1.m3u8
 CCTV6电影,http://api.52tb.xyz/info?id=8&token=20230314vyrzsx
 CCTV6电影,http://119.54.2.125:58000/hls/6/index.m3u8
+CCTV6电影,http://tvphp1.rbq.plus/migu.php?id=cctv6$爱看咪咕D
 CCTV6电影,http://live.goodiptv.club/api/bestv.php?id=cctv6hd8m/8000000
 CCTV6电影,https://live.goodiptv.club/api/bestv.php?id=cctv6hd8m/8000000
 CCTV6电影,http://221.213.43.82:8888/newlive/live/hls/8/live.m3u8
@@ -63,6 +72,7 @@ CCTV7国防军事,http://36.33.240.48:9901/tsfile/live/0007_1.m3u8
 CCTV7国防军事,http://119.54.2.125:58000/hls/7/index.m3u8
 CCTV7国防军事,http://api.52tb.xyz/info?id=9&token=20230314vyrzsx
 CCTV7国防军事,https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
+CCTV7国防军事,http://tvphp1.rbq.plus/migu.php?id=cctv7$爱看咪咕D
 CCTV7国防军事,http://live.goodiptv.club/api/bestv.php?id=cctv7hd8m/8000000
 CCTV7国防军事,https://live.goodiptv.club/api/bestv.php?id=cctv7hd8m/8000000
 CCTV7国防军事,http://1.195.111.251:11190/tsfile/live/0007_1.m3u8
@@ -72,6 +82,7 @@ CCTV8电视剧,http://api.52tb.xyz/info?id=10&token=20230314vyrzsx
 CCTV8电视剧,http://121.19.134.245:808/tsfile/live/0008_1.m3u8
 CCTV8电视剧,http://222.217.246.54:8282/tsfile/live/1019_1.m3u8
 CCTV8电视剧,http://119.54.2.125:58000/hls/8/index.m3u8
+CCTV8电视剧,http://tvphp1.rbq.plus/migu.php?id=cctv8$爱看咪咕D
 CCTV8电视剧,http://live.goodiptv.club/api/bestv.php?id=cctv8hd8m/8000000
 CCTV8电视剧,https://live.goodiptv.club/api/bestv.php?id=cctv8hd8m/8000000
 CCTV8电视剧,http://1.195.111.251:11190/tsfile/live/0008_1.m3u8
@@ -80,6 +91,7 @@ CCTV9纪录,http://222.223.119.21:8888/newlive/live/hls/11/live.m3u8
 CCTV9纪录,http://119.54.2.125:58000/hls/9/index.m3u8
 CCTV9纪录,http://api.52tb.xyz/info?id=11&token=20230314vyrzsx
 CCTV9纪录,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
+CCTV9纪录,http://tvphp1.rbq.plus/migu.php?id=cctv9$爱看咪咕D
 CCTV9纪录,http://live.goodiptv.club/api/bestv.php?id=cctv9hd8m/8000000
 CCTV9纪录,https://live.goodiptv.club/api/bestv.php?id=cctv9hd8m/8000000
 CCTV9纪录,http://221.213.43.82:8888/newlive/live/hls/11/live.m3u8
@@ -87,11 +99,13 @@ CCTV10科教,http://222.223.119.21:8888/newlive/live/hls/12/live.m3u8
 CCTV10科教,http://222.71.90.218:8888/newlive/live/hls/11/live.m3u8
 CCTV10科教,http://221.213.43.82:8888/newlive/live/hls/12/live.m3u8
 CCTV10科教,http://api.52tb.xyz/info?id=12&token=20230314vyrzsx
+CCTV10科教,http://tvphp1.rbq.plus/migu.php?id=cctv10$爱看咪咕D
 CCTV10科教,http://live.goodiptv.club/api/bestv.php?id=cctv10hd8m/8000000
 CCTV10科教,https://live.goodiptv.club/api/bestv.php?id=cctv10hd8m/8000000
 CCTV11戏曲,http://222.223.119.21:8888/newlive/live/hls/13/live.m3u8
 CCTV11戏曲,http://221.213.43.82:8888/newlive/live/hls/13/live.m3u8
 CCTV11戏曲,http://api.52tb.xyz/info?id=13&token=20230314vyrzsx
+CCTV11戏曲,http://tvphp1.rbq.plus/migu.php?id=cctv11$爱看咪咕D
 CCTV11戏曲,https://epg.pw/stream/d627f508e2f58f2bcb1d583bc89aa15823d9b4721cc9de00242d9ad284035057.m3u8
 CCTV11戏曲,https://epg.pw/stream/380fd2a0e12a88935db9c3b90b011270ffebeaa45361fe123a2db80942184264.m3u8
 CCTV11戏曲,https://epg.pw/stream/469d1a55e8234c672e7ed47a336aa1ccb5f5aec618a0f24641ba38ec746a3161.m3u8
@@ -104,6 +118,7 @@ CCTV12社会与法,http://api.52tb.xyz/info?id=14&token=20230314vyrzsx
 CCTV12社会与法,http://221.213.43.82:8888/newlive/live/hls/14/live.m3u8
 CCTV12社会与法,https://epg.pw/stream/51337667e5647403507b5d7923c277b8154168e635f0401f2a4221c4d2ef9861.m3u8
 CCTV12社会与法,https://epg.pw/stream/a6870bf97aab6a8d97a8222a583022752dba8fc5015b0cefbe690037020b2350.m3u8
+CCTV12社会与法,http://tvphp1.rbq.plus/migu.php?id=cctv12$爱看咪咕D
 CCTV12社会与法,http://live.goodiptv.club/api/bestv.php?id=cctv12hd8m/8000000
 CCTV12社会与法,https://live.goodiptv.club/api/bestv.php?id=cctv12hd8m/8000000
 CCTV14少儿,http://222.223.119.21:8888/newlive/live/hls/16/live.m3u8
@@ -112,6 +127,7 @@ CCTV14少儿,http://119.54.2.125:58000/hls/14/index.m3u8
 CCTV14少儿,http://222.217.246.54:8282/tsfile/live/1026_1.m3u8
 CCTV14少儿,http://36.33.240.48:9901/tsfile/live/0014_1.m3u8
 CCTV14少儿,http://222.71.90.218:8888/newlive/live/hls/15/live.m3u8
+CCTV14少儿,http://tvphp1.rbq.plus/migu.php?id=cctv14$爱看咪咕D
 CCTV14少儿,http://live.goodiptv.club/api/bestv.php?id=cctv14hd8m/8000000
 CCTV14少儿,https://live.goodiptv.club/api/bestv.php?id=cctvsehd8m/8000000
 CCTV14少儿,http://221.213.43.82:8888/newlive/live/hls/16/live.m3u8
@@ -119,6 +135,7 @@ CCTV15音乐,http://222.223.119.21:8888/newlive/live/hls/17/live.m3u8
 CCTV15音乐,http://api.52tb.xyz/info?id=17&token=20230314vyrzsx
 CTV15音乐,http://36.33.240.48:9901/tsfile/live/0015_1.m3u8
 CTV15音乐,http://119.54.2.125:58000/hls/15/index.m3u8
+CCTV15音乐,http://tvphp1.rbq.plus/migu.php?id=cctv15$爱看咪咕D
 CCTV15音乐,http://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000
 CCTV15音乐,https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000
 CCTV15音乐,http://221.213.43.82:8888/newlive/live/hls/17/live.m3u8
@@ -131,6 +148,7 @@ CCTV16奥林匹克,https://live.goodiptv.club/api/bestv.php?id=cctv16hd4k/150000
 CCTV17农业农村,http://api.52tb.xyz/info?id=19&token=20230314vyrzsx
 CCTV17农业农村,http://222.217.246.54:8282/tsfile/live/1029_1.m3u8
 CCTV17农业农村,http://121.19.134.245:808/tsfile/live/0017_1.m3u8
+CCTV17农业农村,http://tvphp1.rbq.plus/migu.php?id=cctv17$爱看咪咕D
 CCTV17农业农村,http://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
 CCTV17农业农村,https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
 CCTV风云足球,http://api.52tb.xyz/info?id=20&token=20230314vyrzsx
