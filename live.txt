@@ -1801,10 +1801,12 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 云南康旅,https://epg.pw/stream/28b355e37f84b49d76c3fef1046a9d397093afe662138ed9d390d101c4161437.m3u8
 云南康旅,https://epg.pw/stream/cbedce3b9ef21c7e743bd1857593d23a4f8ddb7181daf40f472d9cd650609237.m3u8
 云南康旅,http://106.57.0.111:55555/rtp/239.200.200.31:8860
+美丽云南,https://www.ynbit.com:1937/cyds-mlyn/livestream/playlist.m3u8
 西双版纳新闻综合,http://api.52tb.xyz/info?id=688&token=20230314vyrzsx
 西双版纳文化旅游,http://api.52tb.xyz/info?id=689&token=20230314vyrzsx
 丽江新闻综合,http://play.live.lijiangtv.com/live/tvzh.m3u8
 丽江文化旅游,http://play.live.lijiangtv.com/live/tvgg.m3u8
+个旧综合,http://tv.drs.hhtv.cc:8100/channellive/gjdst.flv?
 文山新闻综合,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv?zyund
 红河新闻综合,http://tv.drs.hhtv.cc:8100/channellive/hhtv-1.flv?zyund
 红河公共,http://tv.drs.hhtv.cc:8100/channellive/hhtv-2.flv?zyund
