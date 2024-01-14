@@ -711,6 +711,10 @@ BRTV国际,https://epg.pw/stream/cd898fee6c0bd1d0c94354d1767648d3ac6fe6bf0962daf
 大足综合,http://218.201.85.71:3170/m3u8
 荣昌综合,http://183.64.181.25:40023/rongchang01.m3u8
 江津综合,https://epg.pw/stream/68d5d5d4aeab061ab1fce317de769173e677dc84aaa5cc0fc1829a3e978cbf3a.m3u8
+开州综合,https://qxlmlive9.cbg.cn/applive/kzpd01/chunklist.m3u8
+万州综合,http://123.146.162.24:8017/iTXwrGs/800/live.m3u8
+万州三峡移民,http://123.146.162.24:8017/c2F0hmi/1000/live.m3u8
+忠县综合,https://qxlmlive9.cbg.cn/applive/zxtv2/chunklist.m3u8
 港澳,#genre#
 凤凰中文,http://210.210.155.37/uq2663/h/h157/index2.m3u8
 凤凰中文,http://175.43.106.109:4022/rtp/239.61.2.184:9092
@@ -1494,6 +1498,8 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 郑州新密新闻,http://live.dxhmt.cn:9081/tv/10183-2.m3u8
 郑州新郑一套,http://tvpull.dxhmt.cn:9081/tv/10184-1.m3u8
 郑州新郑一套,http://live.dxhmt.cn:9081/tv/10184-1.m3u8
+郑州登封综合,http://live.dxhmt.cn:9081/tv/10185-1.m3u8
+郑州巩义综合,http://live.dxhmt.cn:9081/tv/10181-1.m3u8
 洛阳一套,http://wshls.live.migucloud.com/live/C788MHFD_C0/playlist.m3u8
 洛阳二套,http://wshls.live.migucloud.com/live/CXGQPXRK_C0/playlist.m3u8
 洛阳三套,http://wshls.live.migucloud.com/live/FJ7Q9PIT_C0/playlist.m3u8
@@ -1659,7 +1665,9 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 保定定州新闻综合,https://epg.pw/stream/e4ac775539e3deda7b1f48dc307097fbcb03725429d1188b393f60124f4e05a9.m3u8
 保定定州生活,https://jwliveqxzb.hebyun.com.cn/shpd/shpd.m3u8
 邯郸新闻综合,https://jwliveqxzb.hebyun.com.cn/hdxwzh/hdxwzh.m3u8
-邯郸公共,https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8?zhebd
+邯郸新闻综合,http://live.hd.hdbs.cn/video/s10001-2021hdxwzh/index.m3u8
+邯郸公共,http://live.hd.hdbs.cn/video/s10001-2021hdgg/index.m3u8
+邯郸公共,https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
 邯郸公共,https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8
 邯郸公共,http://live.hd.hdbs.cn/video/s10001-2021hdgg/index.m3u8?zhebd
 邯郸科技教育,https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8
