@@ -1371,6 +1371,8 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 赣州新闻,http://wb.jxgztv.com/live/gztv1.flv
 赣州公共,http://wb.jxgztv.com/live/gztv2.flv
 赣州教育,http://wb.jxgztv.com/live/gztv3.flv
+宜春综合,https://live.newsyc.com/ycyt/sd/live.m3u8
+宜春公共,https://live.newsyc.com/ycrt/sd/live.m3u8
 福建,#genre#
 福建综合,http://127.0.0.1
 福建新闻,http://127.0.0.1
