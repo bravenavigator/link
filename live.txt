@@ -696,15 +696,14 @@ BRTV国际,https://epg.pw/stream/cd898fee6c0bd1d0c94354d1767648d3ac6fe6bf0962daf
 宝坻一套,https://hb2stream1.baoxinwen.com/d6387fc7a8836e78/6385068498053235715_1597997122.m3u8?auth_key=1893456000-0-0-93ea48b07ddd03f4904079b7659e81a4
 重庆,#genre#
 重庆新闻,https://sjlivecdn9.cbg.cn/202906282314/app_2/_definst_/ls_3.stream/chunklist.m3u8
-重庆新闻,http://183.65.9.200:8888/udp/235.254.196.199:7980
 重庆社会与法,http://127.0.0.1
 重庆少儿,http://127.0.0.1
 重庆汽摩,http://127.0.0.1
 重庆时尚生活,http://127.0.0.1
 重庆新农村,http://127.0.0.1
 重庆影视,http://127.0.0.1
-重庆科教,http://183.66.66.199:2345/udp/235.254.199.188:7980
-重庆文体娱乐,http://183.65.9.200:8888/udp/235.254.198.187:7980
+重庆科教,http://127.0.0.1
+重庆文体娱乐,http://127.0.0.1
 潼南综合,http://183.230.184.51:65500/tntv1.m3u8
 高平综合,http://live.gprmt.cn/gpnews/hd/live.m3u8?zshanxd
 大足综合,http://218.201.85.71:3170/m3u8?zzhongqd
