@@ -729,7 +729,6 @@ BRTV国际,https://epg.pw/stream/cd898fee6c0bd1d0c94354d1767648d3ac6fe6bf0962daf
 凤凰香港,hhttps://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8
 凤凰香港,https://fake-stream.livednow.com/mdvb/phx-hk?token=8c49b0a6f0c36e6990d3ff661695b413&user_id=1001586361&user_token=7369737c57a4a30828b792bd84e746ae
 凤凰香港,http://113.117.74.18:8081/hls/38/index.m3u8
-凤凰电影,https://epg.pw/stream/55cd3c294294fb5902db4ae3602ca367c07f9313ea01865b5c2e55390fc4d283.ctv
 TVB翡翠,http://r.jdshipin.com/qClQf
 TVB翡翠,http://r.jdshipin.com/62WM7
 TVB翡翠,https://epg.pw/stream/2462b75c7b128030bbe44787e563be7cfa88943d82316910afb7596f6ace940e.ctv
