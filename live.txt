@@ -719,6 +719,7 @@ BRTV国际,https://epg.pw/stream/cd898fee6c0bd1d0c94354d1767648d3ac6fe6bf0962daf
 凤凰中文,http://113.117.74.18:8081/hls/37/index.m3u8
 凤凰资讯,http://livetv.skycf.eu.org/live.m3u8?c=2$SKYCFYT
 凤凰资讯,https://epg.pw/stream/1b9dc2b8c181bd5f66d4cedf01cb070a677cc2b4db537cf9d2e4d388e271a9c9.m3u8
+凤凰资讯,https://epg.pw/stream/a424bd7abf3cbbc16d02fecd449d811f8952d8633da8cee5dd0ddd50233f4cd7.ctv
 凤凰资讯,http://175.43.106.109:4022/rtp/239.61.2.183:9086
 凤凰资讯,http://113.117.74.18:8081/hls/36/index.m3u8
 凤凰资讯,http://php.17186.eu.org/phtv/fhzx.m3u8
