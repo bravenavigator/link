@@ -93,6 +93,10 @@ CCTV17农业农村,http://222.217.246.54:8282/tsfile/live/1029_1.m3u8
 CCTV17农业农村,http://121.19.134.245:808/tsfile/live/0017_1.m3u8
 CCTV风云足球,http://api.52tb.xyz/info?id=20&token=20230314vyrzsx
 卫视,#genre#
+北京卫视,https://epg.pw/stream/57d898dd2ded40306d7126055555f547da15f2d84923cbcc74c2f69b6b069206.m3u8
+北京卫视,https://epg.pw/stream/a5275ba4459ae3e1ebe572283ececf07275a7e1e3be25b47b25fb957f8cb6cd4.m3u8
+北京卫视,https://epg.pw/stream/de747d8b2da06f675dade77986d728fdce5b24e42bfac1ef965f83c310d829e2.ctv
+北京卫视,https://epg.pw/stream/757d6889590fc0bc0da143f47ad5793e73e86d05d8c0ee646947e98e9dd74ece.ctv
 北京卫视,http://222.223.119.21:8888/newlive/live/hls/19/live.m3u8
 北京卫视,https://epg.pw/stream/5e98eaae8407271568dc787781f7ac42eec310d61df8b7ab4602741ae72df9bf.m3u8
 北京卫视,https://epg.pw/stream/de747d8b2da06f675dade77986d728fdce5b24e42bfac1ef965f83c310d829e2.ctv
