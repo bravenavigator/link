@@ -608,6 +608,7 @@ BRTV卡酷少儿,http://222.223.119.21:8888/newlive/live/hls/56/live.m3u8
 BRTV卡酷少儿,https://epg.pw/stream/451e91228f28539ada94c3297b86e267615011e181c437327bbacc9a19ad0c9d.ctv
 BRTV体育休闲,https://epg.pw/stream/f2655c99a8004a36a40925460b292c91068c500083d009a4a895c63bc5b640d6.ctv
 BRTV国际,https://epg.pw/stream/cd898fee6c0bd1d0c94354d1767648d3ac6fe6bf0962daf9e33546cec8628dc6.ctv
+淘电影,https://epg.pw/stream/479e591af433f22217c0ef4ce1388f1d1967bd5424d271b8ee9f26b82ddd6b64.ctv
 淘电影,https://epg.pw/stream/6f130950f894020e7c200ad6a3183b966cfea6c325f51a24b6e3075f441a2397.ctv
 淘电影,https://epg.pw/stream/27bf38850cbe745287e801ac9098b78673fb8b63023af631d79eac01872bfed0.m3u8
 淘电影,https://epg.pw/stream/54db9b6c6ffc3f1f33e4a590b8abd926e15cb91ca759e3798d8d9768201b4041.ctv
