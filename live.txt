@@ -1683,6 +1683,7 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 山西经济与科技,http://liveflash.sxrtv.com/live/sxfinance.m3u8?sub_m3u8=true&edge_slice=true
 山西经济与科技,http://live.cooltv.top/tv/tide.php?id=sxjj
 山西经济与科技,http://live.cooltv.top/tv/cutv.php?id=sxjj
+山西经济与科技,https://epg.pw/stream/a19f3124deb7bf7db433b0e4db7d1ad6d766a4f40dfdc88e3c6bc1beff5f74ad.ctv
 山西社会与法治,http://liveflash.sxrtv.com/live/sxedu.m3u8?sub_m3u8=true&edge_slice=true
 山西社会与法治,https://epg.pw/stream/d4939f0b26efd071f690ea78f655acea45c7b99bc35e835f4f48a136a8876929.m3u8
 山西社会与法治,https://epg.pw/stream/6d0adecf643742de1c5356bb30965877019a552f8e930306a466baa95dfd91d3.m3u8
