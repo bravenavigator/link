@@ -1329,8 +1329,6 @@ TVBS欢乐,https://epg.pw/stream/ff6fc1b169c331feaeec834684c81f163f25ccb1ce6c0f4
 湖北经视,http://api.52tb.xyz/info?id=541&token=20230314vyrzsx
 湖北教育,http://api.52tb.xyz/info?id=545&token=20230314vyrzsx
 湖北垄上,http://api.52tb.xyz/info?id=546&token=20230314vyrzsx
-CEC国际教育,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8      
-CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 武汉新闻综合,http://stream.appwuhan.com/1tzb/sd/live.m3u8
 武汉新闻综合,https://epg.pw/stream/218ad695ab401a2c5a4b3525352c91052f7551c73b584cde327e98fe49bc26f7.m3u8
 武汉新闻综合,https://epg.pw/stream/a6034135055f1ebe9c7b8c75e061f85240a0121ff0f69abcca58eef985996324.m3u8
@@ -1339,8 +1337,6 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 武汉经济,https://epg.pw/stream/4c61ed784fbdda58cc393057214c00e28320b30aebc313434e853ec1019fffae.m3u8
 武汉经济,https://epg.pw/stream/541ba8be1009af6e1e2d68a859eb61409bd3eb86edb88ebe93168c0800d9c5cc.m3u8
 武汉科技生活,http://stream.appwuhan.com/3tzb/sd/live.m3u8
-武汉文体,https://epg.pw/stream/3363bf78f924a14b974645948b97bc3c5424a5482445614442201a370154384f.m3u8
-武汉文体,https://epg.pw/stream/7f658fa2a2be2ea2d086197ede7b99555fedd419b775a4892b08c04dd5177d27.m3u8
 武汉教育,http://stream.appwuhan.com/jyzb/sd/live.m3u8
 武汉教育,https://epg.pw/stream/c5bc53591db0451f2626ddff43e2de1460de1cbb8d7225d9d8c45e9660e9cb51.m3u8
 武汉教育,https://epg.pw/stream/3ed869daf82ba1810b71257baae0ad7a6f3c199b3d35f5f2a49926a00749d2a8.m3u8
