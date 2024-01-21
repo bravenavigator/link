@@ -777,8 +777,11 @@ TVB新闻,https://epg.pw/stream/9eba5b8c19187b49a71080ebc17c848c15a04a9b099e571d
 TVB新闻,https://epg.pw/stream/ba4c5958a71b186772a834e2e0874a3d3389f9dc41d3d563c50dc07273c38b8e.ctv
 TVB新闻,https://epg.pw/stream/d07688640684498fb773e7cd13b2f90abcd1cdc4683c44533cef67dac722c2fc.m3u8
 TVB新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
+TVB新闻,http://sz.l68.fun:9001/bysid/83
+TVB新闻,http://bziyunshao.synology.me:8890/bysid/83
 TVB财经,http://live.cooltv.top/tv/tvb.php?id=2
 TVB财经,http://r.jdshipin.com/jUx8K
+TVB财经,http://bziyunshao.synology.me:8890/bysid/85
 TVB财经,https://epg.pw/stream/edb021b95a130ac49e529d695d5860a198bc98658818bfb40efc94176589c8a6.ctv
 TVB华丽,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 TVB华丽,https://epg.pw/stream/279c68f1813ee1b4898623fc6ec33781e7caecfa5aaf7f5e9a799d5d5599dad6.ctv
@@ -800,6 +803,9 @@ TVB星河,http://tvpo1.rbq.plus/xinghe/xinghe.stream/chunklist.m3u8
 TVB星河,http://113.117.74.12:8081/hls/135/index.m3u8
 TVB千禧经典,https://epg.pw/stream/81d660e21a3374ca0ef46619571ea42bedd6a9b474339f425b9519dae51f6368.ctv
 TVB千禧经典,https://epg.pw/stream/c2345311e1550c95759001d3e0bfe259917f17ef13dc688f25ac398e135d725a.ctv
+TVB明珠台,http://120.238.13.198:8000/hls/19/index.m3u8
+TVB明珠台,http://sz.l68.fun:9001/bysid/2
+J2台,http://bziyunshao.synology.me:8890/bysid/82
 RTHK TV 31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 RTHK TV 31,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8
 RTHK TV 32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
