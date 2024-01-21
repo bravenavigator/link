@@ -326,6 +326,8 @@ CETV早期教育,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CETV-ZQJY-CQ/G_CETV-Z
 广州影视,https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=7e9bddad7c8911626ed1d2c09fc605d9&txTime=18d00acf487
 广州竞赛,https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=49c8041461997c7a97dbcc3c7fd11b4f&txTime=18d00acf487
 南国都市,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=439b0fd2cf766b363c93a59cbcbe1370&txTime=18d00acf488
+南国都市,http://php.jdshipin.com:8880/gztv.php?id=shenghuo
+南国都市,http://r.jdshipin.com/nWaZO
 深圳都市,http://livepull-tcyzb.sztv.com.cn/live/dushi01.m3u8
 深圳都市,http://livepull-tcyzb.sztv.com.cn/showto_live/dushi01.m3u8
 深圳都市,https://epg.pw/stream/42922b3bab314ce0217fdf746165de08e00d0556ebf961ee63049811baacc5ac.m3u8
@@ -803,8 +805,6 @@ TVB星河,http://tvpo1.rbq.plus/xinghe/xinghe.stream/chunklist.m3u8
 TVB星河,http://113.117.74.12:8081/hls/135/index.m3u8
 TVB千禧经典,https://epg.pw/stream/81d660e21a3374ca0ef46619571ea42bedd6a9b474339f425b9519dae51f6368.ctv
 TVB千禧经典,https://epg.pw/stream/c2345311e1550c95759001d3e0bfe259917f17ef13dc688f25ac398e135d725a.ctv
-TVB明珠台,http://120.238.13.198:8000/hls/19/index.m3u8
-TVB明珠台,http://sz.l68.fun:9001/bysid/2
 J2台,http://bziyunshao.synology.me:8890/bysid/82
 RTHK TV 31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 RTHK TV 31,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8
@@ -1797,16 +1797,19 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 云南都市,http://221.213.43.82:8888/newlive/live/hls/53/live.m3u8
 云南都市,http://tvlive.ynradio.com/live/yunnandushi/chunks.m3u8
 云南都市,http://tvlive.ynradio.com/live/yunnandushi/playlist.m3u8
+云南都市,http://tvlive.ynradio.com/live/yunnandushi/chunks.m3u8
 云南娱乐,https://epg.pw/stream/edd147d04512757d65ae95b40a9472421f524334ecf6ad65a699e57f00b5eb99.m3u8
 云南娱乐,https://epg.pw/stream/ae5efd0f2e4168b8db2b38d38bcba05fd32059c70556e244ce65b3e31a2f36fb.m3u8
 云南娱乐,http://tvlive.ynradio.com/live/yunnanyule/chunks.m3u8
 云南娱乐,http://tvlive.ynradio.com/live/yunnanyule/playlist.m3u8
+云南娱乐,http://tvlive.ynradio.com/live/yunnanyule/chunks.m3u8
 云南影视,http://221.213.43.82:8888/newlive/live/hls/55/live.m3u8
 云南影视,http://106.57.0.111:55555/rtp/239.200.200.15:8856
 云南少儿,http://221.213.43.82:8888/newlive/live/hls/56/live.m3u8
 云南少儿,http://tvlive.ynradio.com/live/yunnanshaoer/chunks.m3u8
 云南少儿,http://tvlive.ynradio.com/live/yunnanshaoer/playlist.m3u8
 云南少儿,https://epg.pw/stream/a83a92e245f1cd9fde9b4051bf2d6c0e74090d4e3fcf6f68e34a2ac9ecd8c010.m3u8
+云南少儿,http://tvlive.ynradio.com/live/yunnanshaoer/chunks.m3u8
 云南康旅,http://tvlive.ynradio.com/live/yunnangonggong/chunks.m3u8
 云南康旅,http://tvlive.ynradio.com/live/yunnangonggong/playlist.m3u8
 云南康旅,https://epg.pw/stream/dfa3173aad48d81e4bb65e1cd26f95558b31b51add7c5f5cdce6f670069946c2.m3u8
@@ -1814,6 +1817,7 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 云南康旅,https://epg.pw/stream/28b355e37f84b49d76c3fef1046a9d397093afe662138ed9d390d101c4161437.m3u8
 云南康旅,https://epg.pw/stream/cbedce3b9ef21c7e743bd1857593d23a4f8ddb7181daf40f472d9cd650609237.m3u8
 云南康旅,http://106.57.0.111:55555/rtp/239.200.200.31:8860
+云南康旅,http://tvlive.ynradio.com/live/yunnangonggong/chunks.m3u8
 西双版纳新闻综合,http://api.52tb.xyz/info?id=688&token=20230314vyrzsx
 西双版纳文化旅游,http://api.52tb.xyz/info?id=689&token=20230314vyrzsx
 丽江新闻综合,http://play.live.lijiangtv.com/live/tvzh.m3u8
