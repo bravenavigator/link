@@ -295,6 +295,7 @@ CETV早期教育,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CETV-ZQJY-CQ/G_CETV-Z
 西藏卫视,https://epg.pw/stream/b5b1ab7c0113011f8fdf6ca5db1612f9cb1219c2783c8cfe1d04acea61a388ec.m3u8
 西藏卫视,http://221.213.43.82:8888/newlive/live/hls/37/live.m3u8
 海峡卫视,https://epg.pw/stream/1d158fe4ef032b1ca0296ad7699ac4db2a6f32f6dee55188d716b972d35dff62.ctv
+三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 三沙卫视,https://epg.pw/stream/3473a39a4377e2f48de9cb47a24b75255f9b0eab285cdd300f7fe421440311bf.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 延边卫视,https://epg.pw/stream/e62732d5ec879b9bd722931c588ebd651378265bdef75851ac7c5b776b6be991.m3u8
