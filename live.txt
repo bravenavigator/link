@@ -636,6 +636,7 @@ CETV早期教育,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CETV-ZQJY-CQ/G_CETV-Z
 BRTV新闻,https://epg.pw/stream/ba20eba4fc2038bf93025f4f6e7663ecd83350958a577ff4f94a599ba33e4da7.ctv
 BRTV新闻,https://epg.pw/stream/c3a3c0a8ea0bafb5d99f719f61744502a81647e17be0f3f35eef02696a3b0b0b.ctv
 BRTV新闻,http://qnap.yjnhome.com:4000/udp/239.3.1.159:8000
+BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
 BRTV财经,https://epg.pw/stream/10b13c4691a0efcd77389486509b116b3eaf0ad1fd1223f87e527527e46e68e9.ctv
 BRTV财经,https://epg.pw/stream/147d58bba3907a23b8e0ed0f223af8f924c02a8a2e0e47b78c0577376e61130c.ctv
 BRTV文艺,https://epg.pw/stream/a214324ecc0ef2426ec85c474d528539bdaa4c7d23b7e8bc5255da1f124631db.ctv
