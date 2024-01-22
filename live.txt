@@ -403,12 +403,13 @@ CETV早期教育,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CETV-ZQJY-CQ/G_CETV-Z
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1612881417-0-0-bc7ddba066481bc805fc1e800654e721
+广东新闻,http://1.zqit.cn:4000/udp/239.77.0.173:5146
 广东珠江,http://1.zqit.cn:4000/udp/239.77.0.1:5146
 广东体育,http://1.zqit.cn:4000/udp/239.77.0.112:5146
 广东民生,http://1.zqit.cn:4000/udp/239.77.0.225:5146
+广东综艺,http://1.zqit.cn:4000/udp/239.77.1.237:5146
 广东少儿,http://1.zqit.cn:4000/udp/239.77.0.250:5146
 广东影视,http://1.zqit.cn:4000/udp/239.77.0.217:5146
-广东新闻,http://1.zqit.cn:4000/udp/239.77.0.173:5146
 广州影视,http://1.zqit.cn:4000/udp/239.253.43.73:5146
 广州新闻,http://1.zqit.cn:4000/udp/239.253.43.72:5146
 广州法治,http://1.zqit.cn:4000/udp/239.253.43.74:5146
