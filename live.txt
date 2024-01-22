@@ -342,6 +342,7 @@ CETV早期教育,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CETV-ZQJY-CQ/G_CETV-Z
 深圳电视剧,http://127.0.0.1
 深圳体育健康,http://127.0.0.1
 深圳少儿,http://127.0.0.1
+嘉佳卡通,http://127.0.0.1
 深圳众创TV,http://127.0.0.1
 深圳移动,http://127.0.0.1
 深圳宝安,http://127.0.0.1
