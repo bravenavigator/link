@@ -2138,6 +2138,7 @@ TVBS欢乐,https://epg.pw/stream/ff6fc1b169c331feaeec834684c81f163f25ccb1ce6c0f4
 欧洲华文6台,http://vvlive.eztv.vip/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-4d45d97f017e545dd368719f8dd48ffe
 美国Fox News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 美国Fox News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+美国Fox News,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 美国CNN News,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
 美国CNN News,https://rakuten-cnninternational-1-de.lg.wurl.tv/playlist.m3u8
 美国CNN News,https://epg.pw/stream/f3cce2670a2e1667db84b40dc0d860ca441c87509a22ee9cacd33fce55a0d869.ctv
@@ -2175,6 +2176,7 @@ TVBS欢乐,https://epg.pw/stream/ff6fc1b169c331feaeec834684c81f163f25ccb1ce6c0f4
 日本NTV News,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 俄罗斯Известия,https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 俄罗斯Russia Today,https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+俄罗斯Russia Today,https://rt-rtd.rttv.com/live/rtnews/playlist.m3u8
 俄罗斯中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 韩国ArirangTV,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 韩国ArirangTV,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
