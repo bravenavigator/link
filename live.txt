@@ -897,6 +897,7 @@ BRTV国际,https://epg.pw/stream/cd898fee6c0bd1d0c94354d1767648d3ac6fe6bf0962daf
 凤凰香港,http://113.117.74.18:8081/hls/38/index.m3u8
 TVB翡翠,http://r.jdshipin.com/qClQf
 TVB翡翠,http://r.jdshipin.com/62WM7
+TVB翡翠,http://sz.l68.fun:9000/bysid/1
 TVB翡翠,https://epg.pw/stream/2462b75c7b128030bbe44787e563be7cfa88943d82316910afb7596f6ace940e.ctv
 TVB翡翠,https://epg.pw/stream/f8abbdf5312cd5274ea4bc7602ae3320fb86083f7a07c8c2f08027421f54ad51.ctv
 TVB翡翠,https://epg.pw/stream/72d4915ec44c10747097256e886a068d1b80edf5de9c15573fd0d896b8580858.ctv
@@ -905,6 +906,7 @@ TVB新闻,https://epg.pw/stream/61f17fbba48271a6195cb5969b4207d5b152993ad4f225b8
 TVB新闻,https://epg.pw/stream/9eba5b8c19187b49a71080ebc17c848c15a04a9b099e571d376374d8ab99f3cf.ctv
 TVB新闻,https://epg.pw/stream/ba4c5958a71b186772a834e2e0874a3d3389f9dc41d3d563c50dc07273c38b8e.ctv
 TVB新闻,https://epg.pw/stream/d07688640684498fb773e7cd13b2f90abcd1cdc4683c44533cef67dac722c2fc.m3u8
+TVB新闻,http://sz.l68.fun:9001/bysid/83
 TVB新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
 TVB新闻,http://sz.l68.fun:9001/bysid/83
 TVB新闻,http://bziyunshao.synology.me:8890/bysid/83
