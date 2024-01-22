@@ -317,6 +317,7 @@ CCTV高尔夫网球,http://1.zqit.cn:4000/udp/239.253.43.12:5146
 内蒙古卫视,http://api.52tb.xyz/info?id=95&token=20230314vyrzsx
 内蒙古卫视,http://api.52tb.xyz/info?id=146&token=20230314vyrzsx
 内蒙古卫视,http://221.213.43.82:8888/newlive/live/hls/49/live.m3u8
+新疆卫视,http://106.124.91.222:9901/tsfile/live/21212_1.m3u8
 新疆卫视,https://epg.pw/stream/788702ed504aeda3322f8db5973d9fc056ede56e02560b365a5cc69efc07874a.m3u8
 新疆卫视,http://221.213.43.82:8888/newlive/live/hls/38/live.m3u8
 兵团卫视,https://test5.btzx.com.cn/live/2023bt.stream/chunklist_w901976294.m3u8
