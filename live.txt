@@ -142,7 +142,7 @@ CCTV17农业农村,http://1.zqit.cn:4000/udp/239.77.0.198:5146
 CCTV世界地理,http://1.zqit.cn:4000/udp/239.253.43.24:5146
 CCTV兵器科技,http://1.zqit.cn:4000/udp/239.253.43.18:5146
 CCTV央视台球,http://1.zqit.cn:4000/udp/239.253.43.11:5146
-CCTV央视文化精品,http://1.zqit.cn:4000/udp/239.253.43.13:5146
+CCTV文化精品,http://1.zqit.cn:4000/udp/239.253.43.13:5146
 CCTV女性时尚,http://1.zqit.cn:4000/udp/239.253.43.23:5146
 CCTV怀旧剧场,http://1.zqit.cn:4000/udp/239.253.43.5:5146
 CCTV电视指南,http://1.zqit.cn:4000/udp/239.253.43.19:5146
