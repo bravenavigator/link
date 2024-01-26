@@ -1329,6 +1329,7 @@ TVBS欢乐,https://epg.pw/stream/ff6fc1b169c331feaeec834684c81f163f25ccb1ce6c0f4
 眉山青神综合,http://lmt.scqstv.com/live1/live1.m3u8
 眉山彭山综合,http://m3u8tv.psrm.net:80/nmip-media/channellive/channel100740/playlist.m3u8
 眉山甘洛综合,http://dcpull.sctvcloud.com:80/live/4ba0f5ec018810005fe8143900000000/playlist.m3u8
+眉山江油综合,http://dcpull.sctvcloud.com:80/live/56ce76ab01881000f9f7f6c700000000/playlist.m3u8
 遂宁大英综合,http://zb.dysm99.com:80/live/26690_417cfae3026a11ee89e7b8599faecf3c.m3u8
 泸州综合,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel106011/playlist.m3u8
 泸州科教,http://file.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
@@ -1341,6 +1342,7 @@ TVBS欢乐,https://epg.pw/stream/ff6fc1b169c331feaeec834684c81f163f25ccb1ce6c0f4
 达州大竹新闻综合,http://60.255.120.30:89/live1/live1.m3u8
 达州万源综合,http://live.wanyuannews.com/wytv/hd/live.m3u8
 达州宣汉综合,http://livexuanhan.chinamcache.com:80/live/push1.m3u8
+达州渠县新闻,http://222.208.224.227:81/hls/cfp2p8m3.m3u8
 德阳新闻综合,http://scdytv.cn:1935/live/m_xwpd_livevideo/playlist.m3u8
 德阳新闻综合,https://epg.pw/stream/ddc5939a17896d0205e922ec7303abc05aee91e961ca795a1d9ee7e9bc566205.m3u8
 德阳新闻综合,https://epg.pw/stream/22262e7710ab6f4aeb0164a353942aab2a3542e7831793905421028b7309f5a2.m3u8
@@ -1348,12 +1350,15 @@ TVBS欢乐,https://epg.pw/stream/ff6fc1b169c331feaeec834684c81f163f25ccb1ce6c0f4
 德阳广汉综合,http://dcpull.sctvcloud.com:80/live/4b9b15a7018810009b17c11300000000/playlist.m3u8
 德阳罗江综合,http://pull.luojiangrongmei.com/ljds/ljtv.m3u8
 德阳什邡综合,http://live.sfrmt.com:85/live/zhpd.m3u8
+德阳仁寿,https://play.scrstv.com:443/TV/xwzh.m3u8?auth_key=1701335002-0-0-3f433e2a59b5dcff4ed6e1328e60d981
+资阳乐至综合,http://175.155.106.72:89/live1/live1.m3u8
 南充蓬安综合,http://palive.patv123.com:8091/live/xwpd_800K.m3u8
 南充蓬安综合,https://epg.pw/stream/2ee3dbb766acd5cf07af7a7ec948673b819eb6e6076c46eb6acbf7db898b571a.m3u8
 南充蓬安综合,https://epg.pw/stream/1e5a2acfa827a7f15c3bc4082259d9861d001a833db6de8b747d8e8e371a3bca.m3u8
 南充蓬安综合,https://epg.pw/stream/8c5ee0bba6ced1dbcc2a892b8fe4aaaa2a0dcf75e0d618cb21a0944508a5692d.m3u8
 南充蓬安综合,https://epg.pw/stream/f9ea9fd524a413571bdbab25fc94dee0c0e78aa96ff73251fc3e1ec6f2099b79.m3u8
 南充营山电视台,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
+南充南部综合,http://pili-live-rtmp.148.i2863.com/i2863-148/live_148_811389.m3u8
 绵阳北川一套,http://dcpull.sctvcloud.com:80/live/561c239c01881000e4bfd3e600000000/playlist.m3u8
 绵阳盐亭综合,http://dcpull.sctvcloud.com:80/live/574a1afd018810007cdf2ae200000000/playlist.m3u8
 攀枝花新闻综合,http://zb.pzhgd.com:9095/live/xwzh.m3u8
@@ -1391,8 +1396,10 @@ TVBS欢乐,https://epg.pw/stream/ff6fc1b169c331feaeec834684c81f163f25ccb1ce6c0f4
 阿坝松潘综合,http://live.spccmc.com:90/live/spxwzh.m3u8
 阿坝汶川综合,http://live.iwcmt.cn:90/live/zhxw.m3u8
 阿坝马尔康综合,http://live.zmmek.com:90/live/zhxw.m3u8
-阿坝金川乡村,http://live.jinchuanrmt.com:90/live/jcxc.m3u8?zsicd
+阿坝金川综合,http://live.jinchuanrmt.com:90/live/zhxw.m3u8
+阿坝金川乡村,http://live.jinchuanrmt.com:90/live/jcxc.m3u8
 甘孜综合,http://tv.drs.ganzitv.com:8100/channellive/gztv.flv
+甘孜德格综合,http://dgfile.ganzitv.com:80/nmip-media/channellive/channel101955/playlist.m3u8
 湖南,#genre#
 湖南都市,http://api.52tb.xyz/info?id=567&token=20230314vyrzsx
 湖南经视,http://api.52tb.xyz/info?id=566&token=20230314vyrzsx
