@@ -111,7 +111,6 @@ CCTV风云足球,http://1.zqit.cn:4000/udp/239.253.43.20:5146
 CCTV风云音乐,http://1.zqit.cn:4000/udp/239.253.43.29:5146
 CCTV高尔夫网球,http://1.zqit.cn:4000/udp/239.253.43.12:5146
 卫视,#genre#
-北京卫视,http://live.sjsrm.com/bjsjs/sd/live.m3u8
 北京卫视,https://epg.pw/stream/57d898dd2ded40306d7126055555f547da15f2d84923cbcc74c2f69b6b069206.m3u8
 北京卫视,https://epg.pw/stream/a5275ba4459ae3e1ebe572283ececf07275a7e1e3be25b47b25fb957f8cb6cd4.m3u8
 北京卫视,https://epg.pw/stream/de747d8b2da06f675dade77986d728fdce5b24e42bfac1ef965f83c310d829e2.ctv
