@@ -1350,7 +1350,7 @@ TVBS欢乐,https://epg.pw/stream/ff6fc1b169c331feaeec834684c81f163f25ccb1ce6c0f4
 德阳广汉综合,http://dcpull.sctvcloud.com:80/live/4b9b15a7018810009b17c11300000000/playlist.m3u8
 德阳罗江综合,http://pull.luojiangrongmei.com/ljds/ljtv.m3u8
 德阳什邡综合,http://live.sfrmt.com:85/live/zhpd.m3u8
-德阳仁寿,https://play.scrstv.com:443/TV/xwzh.m3u8?auth_key=1701335002-0-0-3f433e2a59b5dcff4ed6e1328e60d981
+德阳仁寿综合,https://play.scrstv.com:443/TV/xwzh.m3u8?auth_key=1701335002-0-0-3f433e2a59b5dcff4ed6e1328e60d981
 资阳乐至综合,http://175.155.106.72:89/live1/live1.m3u8
 南充蓬安综合,http://palive.patv123.com:8091/live/xwpd_800K.m3u8
 南充蓬安综合,https://epg.pw/stream/2ee3dbb766acd5cf07af7a7ec948673b819eb6e6076c46eb6acbf7db898b571a.m3u8
@@ -1366,7 +1366,7 @@ TVBS欢乐,https://epg.pw/stream/ff6fc1b169c331feaeec834684c81f163f25ccb1ce6c0f4
 广安综合,http://live1.gatv.com.cn:85/live/XWZH.m3u8
 广安文旅乡村,http://live1.gatv.com.cn:85/live/GGPD.m3u8
 广安岳池综合,http://liveyc.cmc.yuechirmt.cn:80/live/yctv.m3u8?auth_key=1714112398-0-0-d9a6bd74623c01c1c2f9576fe51e8b7b
-广元利州,http://tv.drs.lzgbdst.com:8100/channellive/lztv2.flv
+广元利州综合,http://tv.drs.lzgbdst.com:8100/channellive/lztv2.flv
 广元利州综合,http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8
 广元利州综合,http://tv.drs.lzgbdst.com:8100/channellive/lztv2.flv
 广元利州综合,http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8
@@ -1382,8 +1382,6 @@ TVBS欢乐,https://epg.pw/stream/ff6fc1b169c331feaeec834684c81f163f25ccb1ce6c0f4
 雅安宝兴综合,http://drs.tv.yatv.tv:8080/channellive/baoxingxian.flv
 宜宾叙州综合,http://pili-live-hls.ybcxjd.com/jdh-live/2108111201035597.m3u8
 宜宾长宁综合,http://cnpull.sccnfb.com:80/live/123456.m3u8
-自贡综合,http://110.189.153.160:1001/zhpd.flv
-自贡文化生活,http://110.189.153.160:1002/ggpd.flv
 自贡荣县综合,http://play.rongxianwang.net:80/yuedurongxian/rongxiantv.m3u8?auth_key=1687677442-0-0-1e9957b6ca5d6fc08b5d46dc600ca4fd
 内江威远综合,http://dxplay.scwy.cn/live/weiyuanzonghepingdao/index.m3u8
 凉山新闻综合,http://file.yizu.tv/nmip-media/channellive/channel106606/playlist.m3u8
