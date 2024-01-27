@@ -703,6 +703,7 @@ BRTV新闻,https://epg.pw/stream/ba20eba4fc2038bf93025f4f6e7663ecd83350958a577ff
 BRTV新闻,https://epg.pw/stream/c3a3c0a8ea0bafb5d99f719f61744502a81647e17be0f3f35eef02696a3b0b0b.ctv
 BRTV新闻,http://qnap.yjnhome.com:4000/udp/239.3.1.159:8000
 BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
+BRTV新闻,https://live.funhillrm.com/5/sd/live.m3u8
 BRTV财经,https://epg.pw/stream/10b13c4691a0efcd77389486509b116b3eaf0ad1fd1223f87e527527e46e68e9.ctv
 BRTV财经,https://epg.pw/stream/147d58bba3907a23b8e0ed0f223af8f924c02a8a2e0e47b78c0577376e61130c.ctv
 BRTV文艺,https://epg.pw/stream/a214324ecc0ef2426ec85c474d528539bdaa4c7d23b7e8bc5255da1f124631db.ctv
@@ -752,11 +753,14 @@ BRTV体育休闲,http://123.118.60.109:9901/tsfile/live/1005_1.m3u8?key=txiptv&p
 上海,#genre#
 上海新闻,http://222.71.90.218:8888/newlive/live/hls/55/live.m3u8
 上海新闻,http://alltzy.cn/dl/bestv.php?id=xwzhhd8m/8000000
+上海新闻,https://volc-stream.kksmg.com/live/xwzh/index.m3u8?volcSecret=4e04360567cfdc669e825f2fede62e52&volcTime=1706416260
 上海都市,http://222.71.90.218:8888/newlive/live/hls/51/live.m3u8
 上海都市,https://epg.pw/stream/ad578b0c34991ef573c74e5aabee0136c346ed3ccb5a79bf53703e9df8c3bc57.ctv
 上海都市,https://epg.pw/stream/ca410fd605825e91fe79028b3874b994b2f362d0842590e94699bee951526d21.ctv
+上海都市,https://tencent-stream.kksmg.com/live/ylpd.m3u8?txSecret=e9463ebe6fc2f79a1dfdd6df959a1485&txTime=65b5d8bb
 第一财经,http://api.52tb.xyz/info?id=377&token=20230314vyrzsx
 第一财经,http://222.71.90.218:8888/newlive/live/hls/57/live.m3u8
+第一财经,https://tencent-stream.kksmg.com/live/dycj.m3u8?txSecret=7bda21ebbd31458c24e2af91a35dfe5d&txTime=65b5d88a
 东方财经,https://epg.pw/stream/e256d4776e7ff92f40159e8e6aa7ee30e529b7c65fa8ab743c32f722d85e6c9a.ctv
 东方财经,https://epg.pw/stream/286590166a173429bc5decbc83dfa5a025c166c188646a4ad332eb605a334505.ctv
 点掌财经,https://epg.pw/stream/96bec7b1f9d22ac90697af55775bf2328443600cdc5ac81952ca681c136f86f7.m3u8
