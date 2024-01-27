@@ -279,6 +279,7 @@ CCTV高尔夫网球,http://1.zqit.cn:4000/udp/239.253.43.12:5146
 广西卫视,http://221.213.43.82:8888/newlive/live/hls/26/live.m3u8
 云南卫视,http://60.211.167.226:8888/newlive/live/hls/27/live.m3u8
 云南卫视,http://221.213.43.82:8888/newlive/live/hls/27/live.m3u8
+云南卫视,http://221.213.70.18:9901/tsfile/live/0019_1.m3u8?=TG@YYDSyouzai=key=txiptv&playlive=1&authid=0=TG@YYDSyouzai
 云南卫视,http://tvlive.ynradio.com/live/yunnanweishi/playlist.m3u8
 云南卫视,https://epg.pw/stream/6f28d4fb3a32bf1b104feedcaeac8e0b1ce2fcc3e1d47f31f0f4866a2e33b780.m3u8
 云南卫视,https://epg.pw/stream/b0c9d738954f837090f9545d6ff5942a58cd00c65770ba2c94ad2db8597d9da9.m3u8
