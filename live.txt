@@ -1598,7 +1598,7 @@ TVBS欢乐,https://epg.pw/stream/ff6fc1b169c331feaeec834684c81f163f25ccb1ce6c0f4
 桂林新闻综合,https://pull.gltvs.com:443/live/glxw/playlist.m3u8?v=b0528684bf934e120e1c30fc808e6576&t=1796868188
 北海新闻综合,http://rtmp.gdlive.gdmain.com/live/09em4xbl.m3u8
 北海新闻综合,http://rtmp.gdlive.gdmain.com/live/09em4xbl.flv
-玉林新闻,http://lhqcctv.8866.org:18181/tsfile/live/1037_1.m3u8?key=txiptv
+玉林新闻综合,http://lhqcctv.8866.org:18181/tsfile/live/1037_1.m3u8?key=txiptv
 玉林公共,http://lhqcctv.8866.org:18181/tsfile/live/1038_1.m3u8?key=txiptv
 贺州综合,http://zhz.gxhzxw.com:2935/live/HZXW-HD/playlist.m3u8
 河池罗城综合,http://111.12.75.177:9100/lctvlive/lch.m3u8?zguangxd
