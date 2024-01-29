@@ -934,16 +934,11 @@ BRTV体育休闲,http://123.118.60.109:9901/tsfile/live/1005_1.m3u8?key=txiptv&p
 荣昌综合,http://183.64.181.25:40023/rongchang01.m3u8
 江津综合,https://epg.pw/stream/68d5d5d4aeab061ab1fce317de769173e677dc84aaa5cc0fc1829a3e978cbf3a.m3u8
 港澳,#genre#
-凤凰中文,https://itv.smart-chat.net/iptv.php?id=500100&num=2
-凤凰中文,https://itv.smart-chat.net/iptv.php?id=500100&num=3
 凤凰中文,http://210.210.155.37/uq2663/h/h157/index2.m3u8
 凤凰中文,https://epg.pw/stream/15ed3bc8cdc099b666c85c694e7ef54dee3593c1ee660d69b69b4ef335bd389b.m3u8
 凤凰中文,http://175.43.106.109:4022/rtp/239.61.2.184:9092
 凤凰中文,http://113.117.74.17:8081/hls/37/index.m3u8
 凤凰中文,http://113.117.74.18:8081/hls/37/index.m3u8
-凤凰资讯,https://itv.smart-chat.net/iptv.php?id=500200&num=1
-凤凰资讯,https://itv.smart-chat.net/iptv.php?id=500200&num=2
-凤凰资讯,https://itv.smart-chat.net/iptv.php?id=500200&num=3
 凤凰资讯,https://epg.pw/stream/1b9dc2b8c181bd5f66d4cedf01cb070a677cc2b4db537cf9d2e4d388e271a9c9.m3u8
 凤凰资讯,https://epg.pw/stream/a424bd7abf3cbbc16d02fecd449d811f8952d8633da8cee5dd0ddd50233f4cd7.ctv
 凤凰资讯,http://175.43.106.109:4022/rtp/239.61.2.183:9086
