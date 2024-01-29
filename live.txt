@@ -1084,6 +1084,7 @@ BRTV体育休闲,http://123.118.60.109:9901/tsfile/live/1005_1.m3u8?key=txiptv&p
 江津综合,https://epg.pw/stream/68d5d5d4aeab061ab1fce317de769173e677dc84aaa5cc0fc1829a3e978cbf3a.m3u8
 港澳,#genre#
 凤凰中文,http://210.210.155.37/uq2663/h/h157/index2.m3u8
+凤凰中文,http://113.117.74.107:8081/hls/37/index.m3u8
 凤凰中文,https://epg.pw/stream/15ed3bc8cdc099b666c85c694e7ef54dee3593c1ee660d69b69b4ef335bd389b.m3u8
 凤凰中文,http://175.43.106.109:4022/rtp/239.61.2.184:9092
 凤凰中文,http://113.117.74.17:8081/hls/37/index.m3u8
@@ -2226,9 +2227,6 @@ TVBS欢乐,https://epg.pw/stream/ff6fc1b169c331feaeec834684c81f163f25ccb1ce6c0f4
 黑龙江都市,http://api.52tb.xyz/info?id=763&token=20230314vyrzsx
 黑龙江都市,https://idclive.hljtv.com:4430/live/dushi_hd.m3u8
 黑龙江公共农业,https://idclive.hljtv.com:4430/live/hljgg_hd.m3u8
-黑龙江影视,https://itv.smart-chat.net/iptv.php?id=301900&num=1
-黑龙江影视,https://itv.smart-chat.net/iptv.php?id=301900&num=2
-黑龙江影视,https://itv.smart-chat.net/iptv.php?id=301900&num=3
 黑龙江影视,http://api.52tb.xyz/info?id=765&token=20230314vyrzsx
 黑龙江影视,https://idclive.hljtv.com:4430/live/hljys_hd.m3u8
 黑龙江少儿,http://api.52tb.xyz/info?id=766&token=20230314vyrzsx
