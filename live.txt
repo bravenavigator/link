@@ -2154,14 +2154,14 @@ TVBS欢乐,https://epg.pw/stream/ff6fc1b169c331feaeec834684c81f163f25ccb1ce6c0f4
 黑龙江都市,http://api.52tb.xyz/info?id=763&token=20230314vyrzsx
 黑龙江都市,https://idclive.hljtv.com:4430/live/dushi_hd.m3u8
 黑龙江公共农业,https://idclive.hljtv.com:4430/live/hljgg_hd.m3u8
+黑龙江影视,https://itv.smart-chat.net/iptv.php?id=301900&num=1
+黑龙江影视,https://itv.smart-chat.net/iptv.php?id=301900&num=2
+黑龙江影视,https://itv.smart-chat.net/iptv.php?id=301900&num=3
 黑龙江影视,http://api.52tb.xyz/info?id=765&token=20230314vyrzsx
 黑龙江影视,https://idclive.hljtv.com:4430/live/hljys_hd.m3u8
 黑龙江少儿,http://api.52tb.xyz/info?id=766&token=20230314vyrzsx
 黑龙江文体,http://api.52tb.xyz/info?id=764&token=20230314vyrzsx
 黑龙江文体,https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
-哈尔滨新闻综合,http://stream.hrbtv.net/xwzh/sd/live.m3u8
-哈尔滨生活,http://stream.hrbtv.net/shpd/sd/live.m3u8
-哈尔滨娱乐,http://stream.hrbtv.net/ylpd/sd/live.m3u8
 吉林,#genre#
 吉林都市,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/1.m3u8
 吉林生活,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/1.m3u8
