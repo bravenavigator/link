@@ -1086,6 +1086,7 @@ BRTV体育休闲,http://123.118.60.109:9901/tsfile/live/1005_1.m3u8?key=txiptv&p
 凤凰中文,http://210.210.155.37/uq2663/h/h157/index2.m3u8
 凤凰中文,http://113.117.74.107:8081/hls/37/index.m3u8
 凤凰中文,https://epg.pw/stream/15ed3bc8cdc099b666c85c694e7ef54dee3593c1ee660d69b69b4ef335bd389b.m3u8
+凤凰中文,https://epg.pw/stream/6abee741bcb98c35ccd61c7c0b3e15020aa10b66370005a636418d822fa81c1b.ctv
 凤凰中文,http://175.43.106.109:4022/rtp/239.61.2.184:9092
 凤凰中文,http://113.117.74.17:8081/hls/37/index.m3u8
 凤凰中文,http://113.117.74.18:8081/hls/37/index.m3u8
@@ -1100,6 +1101,7 @@ BRTV体育休闲,http://123.118.60.109:9901/tsfile/live/1005_1.m3u8?key=txiptv&p
 凤凰香港,hhttps://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8
 凤凰香港,https://fake-stream.livednow.com/mdvb/phx-hk?token=8c49b0a6f0c36e6990d3ff661695b413&user_id=1001586361&user_token=7369737c57a4a30828b792bd84e746ae
 凤凰香港,http://113.117.74.18:8081/hls/38/index.m3u8
+凤凰美洲,https://epg.pw/stream/62f237b63da87af8fbb5082e97a53fd7ee94b9bc10b95e2baf575507285077a1.ctv
 TVB翡翠,http://r.jdshipin.com/qClQf
 TVB翡翠,http://r.jdshipin.com/62WM7
 TVB翡翠,https://epg.pw/stream/2462b75c7b128030bbe44787e563be7cfa88943d82316910afb7596f6ace940e.ctv
