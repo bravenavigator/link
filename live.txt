@@ -789,7 +789,7 @@ CCTV17农业农村,http://1.196.252.142:9901/tsfile/live/0007_2.m3u8?key=txiptv&
 深圳移动,http://127.0.0.1
 深圳宝安,http://127.0.0.1
 深圳东部,http://127.0.0.1
-深圳龙岗,https://lglivepull.sznews.com/live/2647.m3u8
+深圳龙岗频道,https://lglivepull.sznews.com/live/2647.m3u8
 佛山综合,http://127.0.0.1
 佛山公共,http://127.0.0.1
 佛山影视,http://127.0.0.1
@@ -868,7 +868,7 @@ CCTV17农业农村,http://1.196.252.142:9901/tsfile/live/0007_2.m3u8?key=txiptv&
 深圳财经生活,http://1.zqit.cn:4000/udp/239.77.1.242:5146
 深圳都市,http://1.zqit.cn:4000/udp/239.77.1.124:5146
 深圳都市,http://1.zqit.cn:4000/udp/239.77.1.176:5146
-深圳龙岗,http://1.zqit.cn:4000/udp/239.77.1.223:5146
+深圳龙岗频道,http://1.zqit.cn:4000/udp/239.77.1.223:5146
 中山公共,http://1.zqit.cn:4000/udp/239.253.43.63:5146
 中山教育,http://1.zqit.cn:4000/udp/239.253.43.64:5146
 中山综合,http://1.zqit.cn:4000/udp/239.253.43.62:5146
