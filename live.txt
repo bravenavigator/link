@@ -278,11 +278,11 @@ CCTV4中文国际欧洲,http://nas.tuyuannet.cn:8800/udp/239.37.1.11:5540
 CCTV4中文国际美洲,http://nas.tuyuannet.cn:8800/udp/239.37.1.12:5540
 CETV-1,http://nas.tuyuannet.cn:8800/udp/239.37.0.193:5540
 CGTN英语,http://nas.tuyuannet.cn:8800/udp/239.37.1.13:5540
-CGTN英文纪录,http://nas.tuyuannet.cn:8800/udp/239.37.1.14:5540
 CGTN西班牙语,http://nas.tuyuannet.cn:8800/udp/239.37.1.15:5540
 CGTN法语,http://nas.tuyuannet.cn:8800/udp/239.37.1.16:5540
 CGTN阿拉伯语,http://nas.tuyuannet.cn:8800/udp/239.37.1.17:5540
 CGTN俄语,http://nas.tuyuannet.cn:8800/udp/239.37.1.18:5540
+CGTN英文纪录,http://nas.tuyuannet.cn:8800/udp/239.37.1.14:5540
 CCTV1综合,http://111.224.198.100:4022/udp/239.254.200.45:8008
 CCTV2财经,http://111.224.198.100:4022/udp/239.254.200.158:6000
 CCTV3综艺,http://111.224.198.100:4022/udp/239.254.200.13:6000
