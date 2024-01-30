@@ -422,7 +422,6 @@ CETV-1,http://ddns.gzbody.com:85/rtp/239.77.0.200:5146
 中华美食,http://ddns.gzbody.com:85/rtp/239.77.1.200:5146
 中华美食,http://ddns.gzbody.com:85/rtp/239.253.43.40:5146
 早期教育,http://ddns.gzbody.com:85/rtp/239.77.0.180:5146
-茶频道,http://ddns.gzbody.com:85/rtp/239.77.1.207:5146
 卫视,#genre#
 北京卫视,http://60.211.167.226:8888/newlive/live/hls/19/live.m3u8
 北京卫视,http://221.213.70.18:9901/tsfile/live/0135_1.m3u8?=TG@YYDSyouzai=key=txiptv&playlive=1&authid=0=TG@YYDSyouzai
@@ -1928,7 +1927,8 @@ TVBS欢乐,https://epg.pw/stream/ff6fc1b169c331feaeec834684c81f163f25ccb1ce6c0f4
 金鹰纪实,https://epg.pw/stream/b79eee2687489d035ea0c75e6d0157972b69150e3cdb5797fd44ca0f2894690a.ctv
 金鹰纪实,http://ddns.gzbody.com:85/rtp/239.77.1.217:5146
 金鹰纪实,http://ddns.gzbody.com:85/rtp/239.77.0.160:5146
-金鹰纪实超清,http://ddns.gzbody.com:85/rtp/239.77.0.162:5146
+金鹰纪实,http://ddns.gzbody.com:85/rtp/239.77.0.162:5146
+茶频道,http://ddns.gzbody.com:85/rtp/239.77.1.207:5146
 金鹰卡通,https://itv.smart-chat.net/iptv.php?id=203820&num=1
 金鹰卡通,https://itv.smart-chat.net/iptv.php?id=203820&num=2
 金鹰卡通,https://itv.smart-chat.net/iptv.php?id=203820&num=3
