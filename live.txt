@@ -1063,7 +1063,7 @@ BRTV国际,https://epg.pw/stream/cd898fee6c0bd1d0c94354d1767648d3ac6fe6bf0962daf
 淘Baby,https://epg.pw/stream/e70df3def2320f46bfbf194bf760642751202154738f0878c62a26b02f63b2f8.ctv
 淘精彩,https://epg.pw/stream/ac62b7898ba851228f4002b939ef071efbee3ab75223c6f2cec2b8df6f604ee5.ctv
 萌宠TV,http://127.0.0.1
-睛彩竞技,https://epg.pw/stream/2712038e40e1e6d6e49c1681aa56eb275dce534e3a773c0fdbad6b8dfc5ed00d.ctv
+晴彩竞技,https://epg.pw/stream/2712038e40e1e6d6e49c1681aa56eb275dce534e3a773c0fdbad6b8dfc5ed00d.ctv
 睛彩篮球,https://epg.pw/stream/114f416210bd5ec2eac70731f5f1289f867d71946eeb952879ee0c08650e6480.ctv
 睛彩羽毛球,https://epg.pw/stream/90b6126a1c70cee4c5d6e5207059aaa2ae7012ead2ac843509bcced0d47d5b4f.ctv
 睛彩广场舞,https://epg.pw/stream/5e2d7b5d7b99255f73d9016c4db89c551ae1fc264f03776b24df3cdc75bafaf0.ctv
@@ -1083,10 +1083,10 @@ BRTV体育休闲,http://123.118.60.109:9901/tsfile/live/1005_1.m3u8?key=txiptv&p
 BRTV卡酷少儿,http://nas.tuyuannet.cn:8800/udp/239.37.0.60:5540
 BRTV卡酷少儿,http://nas.tuyuannet.cn:8800/udp/239.37.0.76:5540
 晴彩竞技,http://nas.tuyuannet.cn:8800/udp/239.37.0.215:5540
-睛彩竞技,http://nas.tuyuannet.cn:8800/udp/239.37.0.41:5540
+晴彩竞技,http://nas.tuyuannet.cn:8800/udp/239.37.0.41:5540
 睛彩篮球,http://nas.tuyuannet.cn:8800/udp/239.37.0.38:5540
 睛彩羽毛球,http://nas.tuyuannet.cn:8800/udp/239.37.0.40:5540
-晴彩广场舞,http://nas.tuyuannet.cn:8800/udp/239.37.0.223:5540
+睛彩广场舞,http://nas.tuyuannet.cn:8800/udp/239.37.0.223:5540
 睛彩广场舞,http://nas.tuyuannet.cn:8800/udp/239.37.0.42:5540
 上海,#genre#
 上海新闻,http://222.71.90.218:8888/newlive/live/hls/55/live.m3u8
