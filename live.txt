@@ -275,6 +275,16 @@ CCTV卫生健康,http://nas.tuyuannet.cn:8800/udp/239.37.0.229:5540
 CCTV4K,http://nas.tuyuannet.cn:8800/udp/239.37.0.34:5540
 CCTV4中文国际欧洲,http://nas.tuyuannet.cn:8800/udp/239.37.1.11:5540
 CCTV4中文国际美洲,http://nas.tuyuannet.cn:8800/udp/239.37.1.12:5540
+CETV-1,http://nas.tuyuannet.cn:8800/udp/239.37.0.193:5540
+CETV-2,http://nas.tuyuannet.cn:8800/udp/239.37.1.31:5540
+CETV-4,http://nas.tuyuannet.cn:8800/udp/239.37.1.32:5540
+CGTN英语,http://nas.tuyuannet.cn:8800/udp/239.37.1.13:5540
+CGTN纪录（英）,http://nas.tuyuannet.cn:8800/udp/239.37.0.24:5540
+CGTN英文纪录,http://nas.tuyuannet.cn:8800/udp/239.37.1.14:5540
+CGTN西班牙语,http://nas.tuyuannet.cn:8800/udp/239.37.1.15:5540
+CGTN法语,http://nas.tuyuannet.cn:8800/udp/239.37.1.16:5540
+CGTN阿拉伯语,http://nas.tuyuannet.cn:8800/udp/239.37.1.17:5540
+CGTN俄语,http://nas.tuyuannet.cn:8800/udp/239.37.1.18:5540
 卫视,#genre#
 北京卫视,http://60.211.167.226:8888/newlive/live/hls/19/live.m3u8
 北京卫视,http://221.213.70.18:9901/tsfile/live/0135_1.m3u8?=TG@YYDSyouzai=key=txiptv&playlive=1&authid=0=TG@YYDSyouzai
@@ -1079,7 +1089,6 @@ BRTV新闻,http://123.118.60.109:9901/tsfile/live/1004_1.m3u8?key=txiptv&playliv
 BRTV体育休闲,http://123.118.60.109:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 淘电影,http://123.118.60.109:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 淘精彩,http://123.118.60.109:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-BRTV卡酷少儿,http://nas.tuyuannet.cn:8800/udp/239.37.0.60:5540
 BRTV卡酷少儿,http://nas.tuyuannet.cn:8800/udp/239.37.0.76:5540
 晴彩竞技,http://nas.tuyuannet.cn:8800/udp/239.37.0.215:5540
 晴彩竞技,http://nas.tuyuannet.cn:8800/udp/239.37.0.41:5540
@@ -1744,6 +1753,7 @@ TVBS欢乐,https://epg.pw/stream/ff6fc1b169c331feaeec834684c81f163f25ccb1ce6c0f4
 金鹰卡通,http://60.211.167.226:8888/newlive/live/hls/54/live.m3u8
 金鹰卡通,http://222.223.119.21:8888/newlive/live/hls/57/live.m3u8
 金鹰卡通,http://api.52tb.xyz/info?id=568&token=20230314vyrzsx
+金鹰卡通,http://nas.tuyuannet.cn:8800/udp/239.37.1.19:5540
 湖南爱晚,http://api.52tb.xyz/info?id=561&token=20230314vyrzsx
 长沙新闻综合,rtmp://35848.lssplay.aodianyun.com/guangdianyun_35848/tv_channel_346?auth_key=1936692784-0-0-9042421539d8424068f7e575f090dbca
 长沙新闻综合,https://epg.pw/stream/e887be792378e8f9de68cdcdd8a739a3ef931e1554eaea918601ed647d063ce2.m3u8
