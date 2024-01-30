@@ -1667,6 +1667,7 @@ TVBS欢乐,https://epg.pw/stream/ff6fc1b169c331feaeec834684c81f163f25ccb1ce6c0f4
 杭州明珠,http://api.52tb.xyz/info?id=442&token=20230314vyrzsx
 杭州生活,http://api.52tb.xyz/info?id=443&token=20230314vyrzsx
 杭州影视,http://127.0.0.1
+求索纪录,http://ddns.gzbody.com:85/rtp/239.77.0.21:5146
 杭州萧山新闻综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
 杭州萧山新闻综合,https://epg.pw/stream/51e0a1fe5c006c955e68548c9b2a13ce3d35adb30579eaf00b11a9ec52ee9fe0.m3u8
 杭州萧山新闻综合,https://epg.pw/stream/1c41768e993a54617b9a22c65c9d4dcaea80759097ee0a859f1e8590955ddad7.m3u8
@@ -2767,10 +2768,6 @@ Tastemate Travelᴴᴰ,https://tastemadetravel-vizio.amagi.tv/playlist720_p.m3u8
 Travexp,https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
 MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
 Motorvisison TV,https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
-求索,#genre#
-求索纪录,http://ddns.gzbody.com:85/rtp/239.77.0.21:5146
-求索生活,http://ddns.gzbody.com:85/rtp/239.77.0.153:5146
-求索科学,http://ddns.gzbody.com:85/rtp/239.77.0.240:5146
 央视IPV6,#genre#
 CCTV13新闻,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001328/index.m3u8
 CCTV1综合,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
