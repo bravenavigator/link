@@ -369,9 +369,9 @@ CCTV7国防军事,http://ddns.gzbody.com:85/rtp/239.77.1.167:5146
 CCTV7国防军事,http://ddns.gzbody.com:85/rtp/239.77.0.138:5146
 CCTV8电视剧,http://ddns.gzbody.com:85/rtp/239.77.0.172:5146
 CCTV8电视剧,http://ddns.gzbody.com:85/rtp/239.77.0.181:5146
-CCTV9记录,http://ddns.gzbody.com:85/rtp/239.77.1.160:5146
-CCTV9记录,http://ddns.gzbody.com:85/rtp/239.77.1.168:5146
-CCTV9记录,http://ddns.gzbody.com:85/rtp/239.77.0.135:5146
+CCTV9纪录,http://ddns.gzbody.com:85/rtp/239.77.1.160:5146
+CCTV9纪录,http://ddns.gzbody.com:85/rtp/239.77.1.168:5146
+CCTV9纪录,http://ddns.gzbody.com:85/rtp/239.77.0.135:5146
 CCTV10科教,http://ddns.gzbody.com:85/rtp/239.77.1.113:5146
 CCTV10科教,http://ddns.gzbody.com:85/rtp/239.77.1.169:5146
 CCTV10科教,http://ddns.gzbody.com:85/rtp/239.77.0.134:5146
@@ -410,8 +410,8 @@ CCTV兵器科技,http://ddns.gzbody.com:85/rtp/239.253.43.18:5146
 CCTV兵器科技,http://ddns.gzbody.com:85/rtp/239.253.43.9:5146
 CCTV女性时尚,http://ddns.gzbody.com:85/rtp/239.253.43.23:5146
 CCTV女性时尚,http://ddns.gzbody.com:85/rtp/239.253.43.8:5146
-CCTV台球,http://ddns.gzbody.com:85/rtp/239.253.43.21:5146
-CCTV台球,http://ddns.gzbody.com:85/rtp/239.253.43.11:5146
+CCTV央视台球,http://ddns.gzbody.com:85/rtp/239.253.43.21:5146
+CCTV央视台球,http://ddns.gzbody.com:85/rtp/239.253.43.11:5146
 CGTN英语,http://ddns.gzbody.com:85/rtp/239.77.0.199:5146
 CGTN西班牙语,http://ddns.gzbody.com:85/rtp/239.77.0.221:5146
 CGTN法语,http://ddns.gzbody.com:85/rtp/239.77.0.228:5146
