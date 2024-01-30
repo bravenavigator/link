@@ -274,6 +274,10 @@ CCTV世界地理,http://nas.tuyuannet.cn:8800/udp/239.37.0.79:5540
 CCTV风云足球,http://nas.tuyuannet.cn:8800/udp/239.37.0.80:5540
 CCTV央视台球,http://nas.tuyuannet.cn:8800/udp/239.37.0.163:5540
 CCTV高尔夫网球,http://nas.tuyuannet.cn:8800/udp/239.37.0.230:5540
+卫生健康,http://nas.tuyuannet.cn:8800/udp/239.37.0.229:5540
+发现之旅,http://nas.tuyuannet.cn:8800/udp/239.37.0.46:5540
+老故事,http://nas.tuyuannet.cn:8800/udp/239.37.0.44:5540
+中学生频道,http://nas.tuyuannet.cn:8800/udp/239.37.0.95:5540
 卫视,#genre#
 北京卫视,http://60.211.167.226:8888/newlive/live/hls/19/live.m3u8
 北京卫视,http://221.213.70.18:9901/tsfile/live/0135_1.m3u8?=TG@YYDSyouzai=key=txiptv&playlive=1&authid=0=TG@YYDSyouzai
