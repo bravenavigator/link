@@ -1036,8 +1036,8 @@ CGTN俄语,http://nas.tuyuannet.cn:8800/udp/239.37.1.18:5540
 香山文化,http://58.252.12.164:8000/udp/239.253.43.63:5146
 中山教育,http://58.252.12.164:8000/udp/239.253.43.64:5146
 北京,#genre#
-BRTV新闻,https://epg.pw/stream/ba20eba4fc2038bf93025f4f6e7663ecd83350958a577ff4f94a599ba33e4da7.ctv
 BRTV新闻,https://epg.pw/stream/c3a3c0a8ea0bafb5d99f719f61744502a81647e17be0f3f35eef02696a3b0b0b.ctv
+BRTV新闻,https://epg.pw/stream/ba20eba4fc2038bf93025f4f6e7663ecd83350958a577ff4f94a599ba33e4da7.ctv
 BRTV新闻,https://epg.pw/stream/3e01e04a6bd9beb64ce9550b799c1f1e2806d096cf391f4c31510a1b1da7e5a1.m3u8
 BRTV新闻,https://epg.pw/stream/80307082824983f38685364e741bd9738d2632ac1c9c0b22e7a5817d4fb4d0c4.m3u8
 BRTV新闻,http://qnap.yjnhome.com:4000/udp/239.3.1.159:8000
