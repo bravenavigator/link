@@ -989,7 +989,7 @@ CCTV17农业农村,http://1.196.252.142:9901/tsfile/live/0007_2.m3u8?key=txiptv&
 广东珠江,http://ddns.gzbody.com:85/rtp/239.77.0.1:5146
 广东珠江,http://ddns.gzbody.com:85/rtp/239.77.0.114:5146
 广东新闻,http://ddns.gzbody.com:85/rtp/239.77.0.173:5146
-广东公共,http://ddns.gzbody.com:85/rtp/239.77.0.225:5146
+广东民生,http://ddns.gzbody.com:85/rtp/239.77.0.225:5146
 广东体育,http://ddns.gzbody.com:85/rtp/239.77.0.112:5146
 广东体育,http://ddns.gzbody.com:85/rtp/239.77.0.168:5146
 经济科教,http://ddns.gzbody.com:85/rtp/239.77.0.85:5146
@@ -1002,10 +1002,6 @@ CCTV17农业农村,http://1.196.252.142:9901/tsfile/live/0007_2.m3u8?key=txiptv&
 广州影视,http://ddns.gzbody.com:85/rtp/239.253.43.73:5146
 广州法治,http://ddns.gzbody.com:85/rtp/239.253.43.74:5146
 广州竞赛,http://ddns.gzbody.com:85/rtp/239.253.43.75:5146
-深圳卫视,http://ddns.gzbody.com:85/rtp/239.77.1.3:5146
-深圳卫视,http://ddns.gzbody.com:85/rtp/239.77.1.148:5146
-深圳卫视,http://ddns.gzbody.com:85/rtp/239.77.0.92:5146
-深圳卫视,http://ddns.gzbody.com:85/rtp/239.77.0.130:5146
 深圳都市,http://ddns.gzbody.com:85/rtp/239.77.1.176:5146
 深圳都市,http://ddns.gzbody.com:85/rtp/239.77.1.124:5146
 深圳电视剧,http://ddns.gzbody.com:85/rtp/239.77.1.177:5146
