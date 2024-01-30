@@ -417,6 +417,12 @@ CGTN西班牙语,http://ddns.gzbody.com:85/rtp/239.77.0.221:5146
 CGTN法语,http://ddns.gzbody.com:85/rtp/239.77.0.228:5146
 CGTN阿拉伯语,http://ddns.gzbody.com:85/rtp/239.253.43.200:5146
 CGTN俄语,http://ddns.gzbody.com:85/rtp/239.253.43.201:5146
+CETV-1,http://ddns.gzbody.com:85/rtp/239.77.1.222:5146
+CETV-1,http://ddns.gzbody.com:85/rtp/239.77.0.200:5146
+中华美食,http://ddns.gzbody.com:85/rtp/239.77.1.200:5146
+中华美食,http://ddns.gzbody.com:85/rtp/239.253.43.40:5146
+早期教育,http://ddns.gzbody.com:85/rtp/239.77.0.180:5146
+茶频道,http://ddns.gzbody.com:85/rtp/239.77.1.207:5146
 卫视,#genre#
 北京卫视,http://60.211.167.226:8888/newlive/live/hls/19/live.m3u8
 北京卫视,http://221.213.70.18:9901/tsfile/live/0135_1.m3u8?=TG@YYDSyouzai=key=txiptv&playlive=1&authid=0=TG@YYDSyouzai
@@ -1266,6 +1272,7 @@ BRTV卡酷少儿,http://nas.tuyuannet.cn:8800/udp/239.37.0.76:5540
 睛彩羽毛球,http://nas.tuyuannet.cn:8800/udp/239.37.0.40:5540
 睛彩广场舞,http://nas.tuyuannet.cn:8800/udp/239.37.0.223:5540
 睛彩广场舞,http://nas.tuyuannet.cn:8800/udp/239.37.0.42:5540
+BRTV纪实科教,http://ddns.gzbody.com:85/rtp/239.77.1.110:5146
 上海,#genre#
 上海新闻,http://222.71.90.218:8888/newlive/live/hls/55/live.m3u8
 上海新闻,http://alltzy.cn/dl/bestv.php?id=xwzhhd8m/8000000
@@ -1321,6 +1328,8 @@ BRTV卡酷少儿,http://nas.tuyuannet.cn:8800/udp/239.37.0.76:5540
 法治天地,http://nas.tuyuannet.cn:8800/udp/239.37.0.238:5540
 金色学堂,http://nas.tuyuannet.cn:8800/udp/239.37.0.239:5540
 生活时尚,http://nas.tuyuannet.cn:8800/udp/239.37.0.240:5540
+纪实人文,http://ddns.gzbody.com:85/rtp/239.77.1.216:5146
+纪实人文,http://ddns.gzbody.com:85/rtp/239.77.0.147:5146
 天津,#genre#
 天津新闻,http://127.0.0.1
 天津都市,http://127.0.0.1
@@ -1917,6 +1926,9 @@ TVBS欢乐,https://epg.pw/stream/ff6fc1b169c331feaeec834684c81f163f25ccb1ce6c0f4
 金鹰纪实,http://api.52tb.xyz/info?id=569&token=20230314vyrzsx
 金鹰纪实,https://epg.pw/stream/f129dd062627e43e9a6ed6e033b8659688d6faf22c5b33cbf278ef29dbf876c6.ctv
 金鹰纪实,https://epg.pw/stream/b79eee2687489d035ea0c75e6d0157972b69150e3cdb5797fd44ca0f2894690a.ctv
+金鹰纪实,http://ddns.gzbody.com:85/rtp/239.77.1.217:5146
+金鹰纪实,http://ddns.gzbody.com:85/rtp/239.77.0.160:5146
+金鹰纪实超清,http://ddns.gzbody.com:85/rtp/239.77.0.162:5146
 金鹰卡通,https://itv.smart-chat.net/iptv.php?id=203820&num=1
 金鹰卡通,https://itv.smart-chat.net/iptv.php?id=203820&num=2
 金鹰卡通,https://itv.smart-chat.net/iptv.php?id=203820&num=3
@@ -1925,6 +1937,7 @@ TVBS欢乐,https://epg.pw/stream/ff6fc1b169c331feaeec834684c81f163f25ccb1ce6c0f4
 金鹰卡通,http://api.52tb.xyz/info?id=568&token=20230314vyrzsx
 金鹰卡通,http://nas.tuyuannet.cn:8800/udp/239.37.1.19:5540
 金鹰卡通,http://1.196.252.142:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://ddns.gzbody.com:85/rtp/239.77.0.164:5146
 湖南爱晚,http://api.52tb.xyz/info?id=561&token=20230314vyrzsx
 长沙新闻综合,rtmp://35848.lssplay.aodianyun.com/guangdianyun_35848/tv_channel_346?auth_key=1936692784-0-0-9042421539d8424068f7e575f090dbca
 长沙新闻综合,https://epg.pw/stream/e887be792378e8f9de68cdcdd8a739a3ef931e1554eaea918601ed647d063ce2.m3u8
@@ -2138,11 +2151,14 @@ TVBS欢乐,https://epg.pw/stream/ff6fc1b169c331feaeec834684c81f163f25ccb1ce6c0f4
 武术世界,https://itv.smart-chat.net/iptv.php?id=403500&num=1
 武术世界,https://itv.smart-chat.net/iptv.php?id=403500&num=2
 武术世界,https://itv.smart-chat.net/iptv.php?id=403500&num=3
+武术世界,http://ddns.gzbody.com:85/rtp/239.77.1.108:5146
 梨园频道,http://1.196.252.142:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 梨园频道,https://itv.smart-chat.net/iptv.php?id=400900&num=1
 梨园频道,https://itv.smart-chat.net/iptv.php?id=400900&num=2
 梨园频道,https://itv.smart-chat.net/iptv.php?id=400900&num=3
-河南梨园,http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8
+梨园频道,http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8
+梨园频道,http://ddns.gzbody.com:85/rtp/239.77.1.100:5146
+文物宝库,http://ddns.gzbody.com:85/rtp/239.77.1.120:5146
 郑州新密新闻,http://tvpull.dxhmt.cn:9081/tv/10183-2.m3u8
 郑州新密新闻,http://live.dxhmt.cn:9081/tv/10183-2.m3u8
 郑州新郑一套,http://tvpull.dxhmt.cn:9081/tv/10184-1.m3u8
@@ -2751,6 +2767,10 @@ Tastemate Travelᴴᴰ,https://tastemadetravel-vizio.amagi.tv/playlist720_p.m3u8
 Travexp,https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
 MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
 Motorvisison TV,https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+求索,#genre#
+求索纪录,http://ddns.gzbody.com:85/rtp/239.77.0.21:5146
+求索生活,http://ddns.gzbody.com:85/rtp/239.77.0.153:5146
+求索科学,http://ddns.gzbody.com:85/rtp/239.77.0.240:5146
 央视IPV6,#genre#
 CCTV13新闻,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001328/index.m3u8
 CCTV1综合,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
