@@ -883,7 +883,7 @@ CETV-1,http://ddns.gzbody.com:85/rtp/239.77.0.200:5146
 河北卫视,http://ddns.gzbody.com:85/rtp/239.77.1.214:5146
 河北卫视,http://ddns.gzbody.com:85/rtp/239.77.0.148:5146
 东南卫视,http://ddns.gzbody.com:85/rtp/239.77.1.104:5146
-福建东南卫视,http://ddns.gzbody.com:85/rtp/239.77.0.146:5146
+东南卫视,http://ddns.gzbody.com:85/rtp/239.77.0.146:5146
 广西卫视,http://ddns.gzbody.com:85/rtp/239.253.43.36:5146
 广西卫视,http://ddns.gzbody.com:85/rtp/239.77.0.139:5146
 吉林卫视,http://ddns.gzbody.com:85/rtp/239.77.1.111:5146
