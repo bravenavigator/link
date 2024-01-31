@@ -776,8 +776,6 @@ CETV-1,http://ddns.gzbody.com:85/rtp/239.77.0.200:5146
 广西卫视,http://nas.tuyuannet.cn:8800/udp/239.37.1.23:5540
 四川卫视,http://nas.tuyuannet.cn:8800/udp/239.37.0.151:5540
 甘肃卫视,http://nas.tuyuannet.cn:8800/udp/239.37.1.30:5540
-三沙卫视,http://nas.tuyuannet.cn:8800/udp/239.37.0.200:5540
-延边卫视,http://nas.tuyuannet.cn:8800/udp/239.37.0.116:5540
 河南卫视,http://1.196.252.142:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://1.196.252.142:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://1.196.252.142:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -796,7 +794,6 @@ CETV-1,http://ddns.gzbody.com:85/rtp/239.77.0.200:5146
 湖北卫视,http://1.196.252.142:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 河北卫视,http://1.196.252.142:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 江西卫视,http://1.196.252.142:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-山西卫视,http://1.196.252.142:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 安徽卫视,http://111.224.198.100:4022/udp/239.254.200.163:6000
 北京卫视,http://111.224.198.100:4022/udp/239.254.200.47:8024
 东方卫视,http://111.224.198.100:4022/udp/239.254.200.52:8032
@@ -815,7 +812,6 @@ CETV-1,http://ddns.gzbody.com:85/rtp/239.77.0.200:5146
 江西卫视,http://111.224.198.100:4022/udp/239.254.201.12:6290
 辽宁卫视,http://111.224.198.100:4022/udp/239.254.200.57:8056
 山东卫视,http://111.224.198.100:4022/udp/239.254.200.55:8052
-山西卫视,http://111.224.198.100:4022/udp/239.254.200.83:8172
 深圳卫视,http://111.224.198.100:4022/udp/239.254.200.50:8020
 四川卫视,http://111.224.198.100:4022/udp/239.254.200.202:6325
 天津卫视,http://111.224.198.100:4022/udp/239.254.200.54:1234
