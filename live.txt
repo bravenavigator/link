@@ -1754,8 +1754,10 @@ TVBS欢乐,https://epg.pw/stream/ff6fc1b169c331feaeec834684c81f163f25ccb1ce6c0f4
 安徽国际,https://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829422933950.m3u8
 安徽国际,https://epg.pw/stream/4c768e6130f5aabac4acb0c6004fac7cf6a0d032ffba42bd62e66e1cb6804249.m3u8
 合肥民生,http://api2.52tb.xyz/info?id=588&token=20230405tndmhg
+池州新闻综合,http://wjsp.chiznews.com:8037/live/xwzh.m3u8
 池州新闻综合,http://cm.wshls.homecdn.com/live/829f.m3u8
 池州新闻综合,http://cm.wshls.homecdn.com/live/4abdd.m3u8
+池州文教生活,http://wjsp.chiznews.com:8037/live/wjsh.m3u8
 池州文教生活,http://cm.wshls.homecdn.com/live/4abdf.m3u8
 淮南新闻综合,http://stream.0554news.com/hnds1/sd/live.m3u8
 淮南新闻综合,http://api.52tb.xyz/info?id=587&token=20230314vyrzsx
