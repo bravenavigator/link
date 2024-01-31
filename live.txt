@@ -1337,8 +1337,8 @@ BRTV纪实科教,http://ddns.gzbody.com:85/rtp/239.77.1.110:5146
 凤凰中文,https://epg.pw/stream/15ed3bc8cdc099b666c85c694e7ef54dee3593c1ee660d69b69b4ef335bd389b.m3u8
 凤凰资讯,https://epg.pw/stream/1b9dc2b8c181bd5f66d4cedf01cb070a677cc2b4db537cf9d2e4d388e271a9c9.m3u8
 凤凰资讯,https://epg.pw/stream/a424bd7abf3cbbc16d02fecd449d811f8952d8633da8cee5dd0ddd50233f4cd7.ctv
-凤凰资讯,http://110.81.206.138:50080/tsfile/live/23019_1.m3u8
 凤凰资讯,http://113.117.74.78:8081/hls/36/index.m3u8
+凤凰资讯,http://110.81.206.138:50080/tsfile/live/23019_1.m3u8
 凤凰资讯,http://175.43.106.109:4022/rtp/239.61.2.183:9086
 凤凰香港,https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
