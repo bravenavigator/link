@@ -680,6 +680,9 @@ CETV-1,http://ddns.gzbody.com:85/rtp/239.77.0.200:5146
 安多卫视,https://epg.pw/stream/290a71e47606fa713caa0f79a0812e332e24e5ec6d51610020d3031c34fb2857.m3u8
 安多卫视,https://epg.pw/stream/d494dc8eeaa6da5afd98525004a5735e1d57fd191dba265d3aed5f9da97ff19d.m3u8
 安多卫视,https://epg.pw/stream/64f8d4678019673ff347d3636f9aaa9cb5dcde274672e6d75a25aca77d453a12.m3u8
+康巴卫视,https://itv.smart-chat.net/iptv.php?id=203700&num=1
+康巴卫视,https://itv.smart-chat.net/iptv.php?id=203700&num=2
+康巴卫视,https://itv.smart-chat.net/iptv.php?id=203700&num=3
 湖南卫视,https://itv.smart-chat.net/iptv.php?id=200100&num=1
 湖南卫视,https://itv.smart-chat.net/iptv.php?id=200100&num=2
 湖南卫视,https://itv.smart-chat.net/iptv.php?id=200100&num=3
