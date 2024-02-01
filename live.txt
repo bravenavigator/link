@@ -920,8 +920,8 @@ CETV-1,http://ddns.gzbody.com:85/rtp/239.77.0.200:5146
 广州番禺,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
 深圳都市,http://livepull-tcyzb.sztv.com.cn/live/dushi01.m3u8
 深圳都市,http://livepull-tcyzb.sztv.com.cn/showto_live/dushi01.m3u8
-深圳都市,http://nas.lzhenyang.cn:4000/udp/239.77.1.176:5146
 深圳都市,https://epg.pw/stream/42922b3bab314ce0217fdf746165de08e00d0556ebf961ee63049811baacc5ac.m3u8
+深圳都市,http://nas.lzhenyang.cn:4000/udp/239.77.1.176:5146
 深圳公共,http://nas.lzhenyang.cn:4000/udp/239.77.1.178:5146
 深圳财经生活,http://127.0.0.1
 深圳娱乐,http://127.0.0.1
