@@ -63,6 +63,7 @@ CCTV5+体育赛事,http://221.213.43.82:8888/newlive/live/hls/7/live.m3u8
 CCTV6电影,http://lhq-cctv.8866.org:18181/tsfile/live/0006_1.m3u8?key=txiptv
 CCTV6电影,http://221.213.70.18:9901/tsfile/live/0006_1.m3u8?=TG@YYDSyouzai=key=txiptv&playlive=1&authid=0=TG@YYDSyouzai
 CCTV6电影,http://1.zqit.cn:4000/udp/239.77.0.171:5146
+CCTV6电影,https://pull-hls-f11.douyincdn.com/media/stream-690996181913567916.m3u8
 CCTV6电影,http://api.52tb.xyz/info?id=8&token=20230314vyrzsx
 CCTV6电影,http://221.213.43.82:8888/newlive/live/hls/8/live.m3u8
 CCTV7国防军事,http://60.211.167.226:8888/newlive/live/hls/9/live.m3u8
