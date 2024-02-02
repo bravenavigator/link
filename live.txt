@@ -2556,6 +2556,7 @@ TVBS欢乐,https://epg.pw/stream/ff6fc1b169c331feaeec834684c81f163f25ccb1ce6c0f4
 青海经视,https://epg.pw/stream/684b0967063b916bcc7e16480e96a7917c0cf4e14a4813aa871b2737beda135a.m3u8
 青海都市,http://stream.q.com/qhds/playlist.m3u8
 青海都市,http://stream.q.com/qhds/sd/live.m3u8
+青海都市,https://tencent-stream.kksmg.com/live/ylpd.m3u8?txSecret=4f698aae101d9ebc6a2a19a8f3f0f00c&txTime=65bde58b
 青海都市,http://stream.qhbtv.com/qhds/sd/live.m3u8?_upt=cd7616d61706332174
 青海都市,http://stream.qhbtv.com/qhds/sd/live.m3u8?_upt=f868bafe1594546577
 青海都市,http://stream.qhbtv.com/qhds/sd/live.m3u8?_upt=ff02f8301704264613
