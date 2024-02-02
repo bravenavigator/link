@@ -1330,7 +1330,6 @@ BRTV纪实科教,http://ddns.gzbody.com:85/rtp/239.77.1.110:5146
 宝坻一套,https://hb2stream1.baoxinwen.com/d6387fc7a8836e78/6385068498053235715_1597997122.m3u8?auth_key=1893456000-0-0-93ea48b07ddd03f4904079b7659e81a4
 重庆,#genre#
 重庆新闻,https://sjlivecdn9.cbg.cn/202906282314/app_2/_definst_/ls_3.stream/chunklist.m3u8
-重庆新闻,http://stream3.xiancity.cn/5/sd/live.m3u8
 重庆影视,http://27.10.100.35:8001/udp/225.0.4.192:7980
 潼南综合,http://183.230.184.51:65500/tntv1.m3u8
 高平综合,http://live.gprmt.cn/gpnews/hd/live.m3u8?zshanxd
