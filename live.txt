@@ -1404,6 +1404,7 @@ RTHK TV 32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5
 澳门卫视,http://61.244.22.5/ch3/ch3.live/chunklist.m3u8
 澳门卫视,http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
 澳门卫视,http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
+澳门卫视,https://live4.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
 澳门莲花,http://moss.hk3.345888.xyz.cdn.cloudflare.net/11/lotus.php
 澳视澳门,http://61.244.22.5/ch1/ch1.live/playelist.m3u8
 澳视澳门,http://61.244.22.5/ch1/ch1.live/playlist.m3u8
