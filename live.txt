@@ -1276,7 +1276,6 @@ BRTV纪实科教,http://ddns.gzbody.com:85/rtp/239.77.1.110:5146
 上海都市,http://222.71.90.218:8888/newlive/live/hls/51/live.m3u8
 上海都市,https://epg.pw/stream/ad578b0c34991ef573c74e5aabee0136c346ed3ccb5a79bf53703e9df8c3bc57.ctv
 上海都市,https://epg.pw/stream/ca410fd605825e91fe79028b3874b994b2f362d0842590e94699bee951526d21.ctv
-上海都市,https://tencent-stream.kksmg.com/live/ylpd.m3u8?txSecret=e9463ebe6fc2f79a1dfdd6df959a1485&txTime=65b5d8bb
 第一财经,https://itv.smart-chat.net/iptv.php?id=400800&num=1
 第一财经,https://itv.smart-chat.net/iptv.php?id=400800&num=2
 第一财经,https://itv.smart-chat.net/iptv.php?id=400800&num=3
