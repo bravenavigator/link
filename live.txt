@@ -1312,6 +1312,7 @@ BRTV纪实科教,http://ddns.gzbody.com:85/rtp/239.77.1.110:5146
 乐游频道,https://epg.pw/stream/7bcba3498338a4a59bf641e4320d02ee602d8f2e9e0035f20ae6ea854016dd4d.ctv
 五星体育,http://222.71.90.218:8888/newlive/live/hls/56/live.m3u8
 五星体育,https://epg.pw/stream/22245524bde60cc6f805db18f5af17413485ab766670f6cf07e0b23d29358163.ctv
+劲爆体育,http://117.68.4.113:8088/fjnetv51.live.bestvcdn.com.cn/0/live/program/live/jbtyhd8m/8000000/mnf.m3u8
 劲爆体育,http://alltzy.cn/dl/bestv.php?id=jbtyhd8m/8000000
 劲爆体育,https://epg.pw/stream/41164c08a53de47b36198cff4cc9b19ac33b39c865e6383eb9c5b95faa4dfad8.ctv
 魅力足球,https://epg.pw/stream/1efdf9710eeb19fd3d9d32bf4429371925b061d89d67a330be56bf935fe5f6a1.ctv
