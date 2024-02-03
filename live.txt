@@ -1,5 +1,4 @@
 央视,#genre#
-CCTV13新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV13新闻,http://60.211.167.226:8888/newlive/live/hls/15/live.m3u8
 CCTV13新闻,http://222.223.119.21:8888/newlive/live/hls/15/live.m3u8
 CCTV13新闻,http://1.zqit.cn:4000/udp/239.253.43.196:5146
