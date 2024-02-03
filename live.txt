@@ -2562,16 +2562,12 @@ TVBS欢乐,https://epg.pw/stream/ff6fc1b169c331feaeec834684c81f163f25ccb1ce6c0f4
 吴忠综合,http://live.kanwz.net/zhpd/sd/live.m3u8?zningxd
 吴忠公共,http://live.kanwz.net/ggpd/sd/live.m3u8?zningxd
 青海,#genre#
-青海经视,http://stream.q.com/qhsh/playlist.m3u8
-青海经视,http://stream.q.com/qhsh/sd/live.m3u8
 青海经视,http://stream.qhbtv.com/qhsh/sd/live.m3u8?_upt=19e710bb1704862305
 青海经视,http://stream.qhbtv.com/qhsh/sd/live.m3u8?_upt=14fd1cad1706341975
 青海经视,http://stream.q.com/qhsh/sd/live.m3u8?_upt=a7ec5e491648026933
 青海经视,http://stream.q.com/qhsh/sd/live.m3u8?_upt=ba357f031594546763
 青海经视,http://stream.qhbtv.com/qhsh/sd/live.m3u8?_upt=2aaff0a81704267613
 青海经视,https://epg.pw/stream/684b0967063b916bcc7e16480e96a7917c0cf4e14a4813aa871b2737beda135a.m3u8
-青海都市,http://stream.q.com/qhds/playlist.m3u8
-青海都市,http://stream.q.com/qhds/sd/live.m3u8
 青海都市,http://stream.qhbtv.com/qhds/sd/live.m3u8?_upt=cd7616d61706332174
 青海都市,http://stream.qhbtv.com/qhds/sd/live.m3u8?_upt=f868bafe1594546577
 青海都市,http://stream.qhbtv.com/qhds/sd/live.m3u8?_upt=ff02f8301704264613
