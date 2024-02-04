@@ -1378,6 +1378,7 @@ BRTV纪实科教,http://ddns.gzbody.com:85/rtp/239.77.1.110:5146
 荣昌综合,http://183.64.181.25:40023/rongchang01.m3u8
 江津综合,https://epg.pw/stream/68d5d5d4aeab061ab1fce317de769173e677dc84aaa5cc0fc1829a3e978cbf3a.m3u8
 港澳,#genre#
+凤凰中文,http://221.237.8.198:4455/udp/239.93.0.162:2192
 凤凰中文,http://110.81.206.138:50080/tsfile/live/23020_1.m3u8
 凤凰中文,https://epg.pw/stream/15ed3bc8cdc099b666c85c694e7ef54dee3593c1ee660d69b69b4ef335bd389b.m3u8
 凤凰资讯,http://113.117.74.45:8081/hls/36/index.m3u8
