@@ -140,6 +140,7 @@ CCTV17农业农村,http://lhq-cctv.8866.org:18181/tsfile/live/0019_1.m3u8?key=tx
 CCTV17农业农村,http://1.zqit.cn:4000/udp/239.77.0.198:5146
 CCTV17农业农村,http://api.52tb.xyz/info?id=19&token=20230314vyrzsx
 CCTV17农业农村,http://121.19.134.245:808/tsfile/live/0017_1.m3u8
+中国天气,https://hls.liveshow.bdstatic.com/live/stream_bduid_2220686522_8954484436-L1.m3u8
 CCTV兵器科技,http://1.zqit.cn:4000/udp/239.253.43.18:5146
 CCTV世界地理,http://1.zqit.cn:4000/udp/239.253.43.24:5146
 CCTV文化精品,http://1.zqit.cn:4000/udp/239.253.43.13:5146
@@ -155,7 +156,6 @@ CCTV电视指南,http://1.zqit.cn:4000/udp/239.253.43.19:5146
 CGTN英语,http://1.zqit.cn:4000/udp/239.77.0.199:5146
 CGTN法语,http://1.zqit.cn:4000/udp/239.77.0.228:5146
 CGTN阿拉伯语,http://1.zqit.cn:4000/udp/239.253.43.200:5146
-中国天气,https://hls.liveshow.bdstatic.com/live/stream_bduid_2220686522_8954484436-L1.m3u8
 CCTV1综合,https://itv.smart-chat.net/iptv.php?id=100100&num=1
 CCTV1综合,https://itv.smart-chat.net/iptv.php?id=100100&num=2
 CCTV1综合,https://itv.smart-chat.net/iptv.php?id=100100&num=3
