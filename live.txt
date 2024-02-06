@@ -8,7 +8,6 @@ CCTV13新闻,http://.xyz/info?id=15&token=20230314vyrzsxapi.52tb
 CCTV13新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 CCTV13新闻,https://pi.0472.org/tv/mzt.php?auth=230918
 CCTV13新闻,https://epg.pw/stream/fc939113e81b8c3c09a430f2d5aecf985c98d73658e4314d70292b2f53d2e153.m3u8
-CCTV13新闻,https://epg.pw/stream/18ced7768b51a84ce04be30ead0552b24d7c3190ada017b13968aaa29635e419.ctv
 CCTV13新闻,http://221.213.43.82:8888/newlive/live/hls/15/live.m3u8
 CCTV1综合,http://60.211.167.226:8888/newlive/live/hls/2/live.m3u8
 CCTV1综合,http://60.255.120.30:89/live2/live2.m3u8
