@@ -1122,12 +1122,7 @@ BRTV卡酷少儿,http://nas.tuyuannet.cn:8800/udp/239.37.0.76:5540
 凤凰香港,https://epg.pw/stream/8352ad260441ed0064f63f7a25eb3a7268a68b391f08a345b9bdbefd51aa330f.ctv
 凤凰香港,https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8
 凤凰美洲,https://epg.pw/stream/62f237b63da87af8fbb5082e97a53fd7ee94b9bc10b95e2baf575507285077a1.ctv
-TVB翡翠,https://epg.pw/stream/2462b75c7b128030bbe44787e563be7cfa88943d82316910afb7596f6ace940e.ctv
-TVB翡翠,https://epg.pw/stream/f8abbdf5312cd5274ea4bc7602ae3320fb86083f7a07c8c2f08027421f54ad51.ctv
 TVB翡翠,https://epg.pw/stream/72d4915ec44c10747097256e886a068d1b80edf5de9c15573fd0d896b8580858.ctv
-TVB新闻,https://epg.pw/stream/910ef14a8e43064a71b46c9cd8c9dbc07a743742a2e048372936aacfa2c0db53.ctv
-TVB新闻,https://epg.pw/stream/61f17fbba48271a6195cb5969b4207d5b152993ad4f225b88ec13c630863bb84.ctv
-TVB新闻,https://epg.pw/stream/9eba5b8c19187b49a71080ebc17c848c15a04a9b099e571d376374d8ab99f3cf.ctv
 TVB新闻,https://epg.pw/stream/ba4c5958a71b186772a834e2e0874a3d3389f9dc41d3d563c50dc07273c38b8e.ctv
 TVB新闻,https://epg.pw/stream/d07688640684498fb773e7cd13b2f90abcd1cdc4683c44533cef67dac722c2fc.m3u8
 TVB新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
@@ -1135,7 +1130,6 @@ TVB新闻,http://bziyunshao.synology.me:8890/bysid/83
 TVB财经,http://live.cooltv.top/tv/tvb.php?id=2
 TVB财经,http://r.jdshipin.com/jUx8K
 TVB财经,http://bziyunshao.synology.me:8890/bysid/85
-TVB财经,https://epg.pw/stream/edb021b95a130ac49e529d695d5860a198bc98658818bfb40efc94176589c8a6.ctv
 TVB华丽,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 TVB华丽,https://epg.pw/stream/279c68f1813ee1b4898623fc6ec33781e7caecfa5aaf7f5e9a799d5d5599dad6.ctv
 TVB华丽,https://epg.pw/stream/636f412bbf1921e03e7d23cbcb47fab5cff14f5b98313402cfa563e80ed383ac.ctv
@@ -1148,7 +1142,6 @@ TVB华丽,https://epg.pw/stream/8253f6570578a5fd9d68a907f57f066d4440081dc38e0d1b
 TVB华丽,https://epg.pw/stream/a8d8fb5121cddcc8a8e8a6522fe652c0f9f4a62a76a8730b2f057a7fbf310421.ctv
 TVB华丽,https://epg.pw/stream/47973f1bec87ebc2cf8c59d309bab52b4724d3be75c26c53336c2cd6744df692.ctv
 TVB华丽,https://epg.pw/stream/4f4ade7ea93490e1702d018b33437d50a735eed0e20307577a17a8e2fedaaff3.ctv
-TVB华丽,https://epg.pw/stream/6326ae24edf36ebff08ac377978cc69e7658722636318fbdd9c060a2a113d85f.ctv
 TVB华丽,https://epg.pw/stream/d220436fa90ba9013ec8e795d59e6d1128f93fc8ec4efbcd6ebcf2998620bfc9.ctv
 TVB娱乐,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
 TVB星河,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
