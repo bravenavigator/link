@@ -1152,8 +1152,6 @@ BRTV卡酷少儿,http://nas.tuyuannet.cn:8800/udp/239.37.0.76:5540
 上海新闻,https://volc-stream.kksmg.com/live/xwzh/index.m3u8?volcSecret=4e04360567cfdc669e825f2fede62e52&volcTime=1706416260
 上海都市,https://tencent-stream.kksmg.com/live/ylpd.m3u8?txSecret=4f698aae101d9ebc6a2a19a8f3f0f00c&txTime=65bde58b
 上海都市,http://222.71.90.218:8888/newlive/live/hls/51/live.m3u8
-上海都市,https://epg.pw/stream/ad578b0c34991ef573c74e5aabee0136c346ed3ccb5a79bf53703e9df8c3bc57.ctv
-上海都市,https://epg.pw/stream/ca410fd605825e91fe79028b3874b994b2f362d0842590e94699bee951526d21.ctv
 第一财经,https://itv.smart-chat.net/iptv.php?id=400800&num=1
 第一财经,https://itv.smart-chat.net/iptv.php?id=400800&num=2
 第一财经,https://itv.smart-chat.net/iptv.php?id=400800&num=3
