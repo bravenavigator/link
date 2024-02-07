@@ -52,6 +52,7 @@ CCTV5+体育赛事,http://60.211.167.226:8888/newlive/live/hls/7/live.m3u8
 CCTV5+体育赛事,http://222.223.119.21:8888/newlive/live/hls/7/live.m3u8
 CCTV5+体育赛事,http://lhq-cctv.8866.org:18181/tsfile/live/faacts/1046_1.m3u8?key=txiptv
 CCTV5+体育赛事,http://1.zqit.cn:4000/udp/239.77.0.87:5146
+CCTV5+体育赛事,http://125.82.171.210:8888/udp/235.254.199.121:7980
 CCTV5+体育赛事,http://api.52tb.xyz/info?id=7&token=20230314vyrzsx
 CCTV5+体育赛事,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 CCTV5+体育赛事,https://epg.pw/stream/e5eab09987c6427f243fbb4debcabf8686121e8eaf3385a451a798f5ce99949a.m3u8
@@ -125,6 +126,7 @@ CCTV14少儿,http://222.71.90.218:8888/newlive/live/hls/15/live.m3u8
 CCTV14少儿,http://221.213.43.82:8888/newlive/live/hls/16/live.m3u8
 CCTV15音乐,http://60.211.167.226:8888/newlive/live/hls/17/live.m3u8
 CCTV15音乐,http://222.223.119.21:8888/newlive/live/hls/17/live.m3u8
+CCTV15音乐,http://171.214.202.74:4000/udp/239.93.0.103:5140
 CCTV15音乐,http://lhq-cctv.8866.org:18181/tsfile/live/0015_1.m3u8?key=txiptv
 CCTV15音乐,http://1.zqit.cn:4000/udp/239.77.1.239:5146
 CCTV15音乐,http://api.52tb.xyz/info?id=17&token=20230314vyrzsx
@@ -1369,6 +1371,7 @@ TVBS欢乐,https://epg.pw/stream/ff6fc1b169c331feaeec834684c81f163f25ccb1ce6c0f4
 杭州萧山生活,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
 杭州余杭新闻综合,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
 杭州余杭未来,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
+求索纪录,http://183.65.9.200:8888/udp/235.254.199.251:7980
 宁波TV1,http://www.372583307.top:4022/udp/233.50.201.168:5140
 宁波TV2,http://www.372583307.top:4022/udp/233.50.201.178:5140
 宁波TV3,http://www.372583307.top:4022/udp/233.50.201.179:5140
