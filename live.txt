@@ -141,7 +141,6 @@ CCTV17农业农村,http://lhq-cctv.8866.org:18181/tsfile/live/0019_1.m3u8?key=tx
 CCTV17农业农村,http://1.zqit.cn:4000/udp/239.77.0.198:5146
 CCTV17农业农村,http://api.52tb.xyz/info?id=19&token=20230314vyrzsx
 CCTV17农业农村,http://121.19.134.245:808/tsfile/live/0017_1.m3u8
-中国天气,https://hls.liveshow.bdstatic.com/live/stream_bduid_2220686522_8954484436-L1.m3u8
 CCTV兵器科技,http://1.zqit.cn:4000/udp/239.253.43.18:5146
 CCTV世界地理,http://1.zqit.cn:4000/udp/239.253.43.24:5146
 CCTV文化精品,http://1.zqit.cn:4000/udp/239.253.43.13:5146
