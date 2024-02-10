@@ -2051,6 +2051,7 @@ IHOT爱旅行,http://112.17.52.85/PLTV/88888888/224/3221233703/index.m3u8
 未知3,http://112.17.52.85/PLTV/88888888/224/3221233674/index.m3u8
 未知4,http://112.17.52.85/PLTV/88888888/224/3221233688/index.m3u8
 海外,#genre#
+中国China Global Television Network,http://60.211.167.226:8888/newlive/live/hls/18/live.m3u8
 中国Global News, https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
 欧洲华文1台,http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
 欧洲华文2台,http://vvlive.eztv.vip/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
