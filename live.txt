@@ -1154,6 +1154,11 @@ TVBS欢乐,https://epg.pw/stream/ff6fc1b169c331feaeec834684c81f163f25ccb1ce6c0f4
 钱江频道,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 钱江频道,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 之江记录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+浙江经济生活,http://125.125.198.35:8888/rtp/233.50.201.133:5140
+浙江教育,http://125.125.198.35:8888/rtp/233.50.201.134:5140
+浙江民生,http://125.125.198.35:8888/rtp/233.50.201.136:5140
+浙江新闻,http://125.125.198.35:8888/rtp/233.50.201.137:5140
+浙江少儿,http://125.125.198.35:8888/rtp/233.50.201.138:5140
 杭州综合,http://api.52tb.xyz/info?id=441&token=20230314vyrzsx
 杭州综合,http://www.372583307.top:4022/udp/233.50.201.173:5140
 杭州明珠,http://api.52tb.xyz/info?id=442&token=20230314vyrzsx
