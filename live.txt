@@ -808,8 +808,8 @@ BRTV影视,https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv4_1/index.m3u8?ada
 BRTV纪实科教,http://183.196.33.171:808/hls/86/index.m3u8
 BRTV纪实科教,https://epg.pw/stream/12115dc11b3ed7787beb28031f5f147d7e94f6b0350e03e7d9d4f9bec1066364.ctv
 BRTV纪实科教,https://epg.pw/stream/be130ac53d30afe429fdda8dd623aefd1d5ad375b6e37ba5e4f54e9cbd47f928.ctv
-BRTV纪实科教8K,https://epg.pw/stream/544cc09b12f4a7e88dcf6d03ac6f42925ce17749273bdc3f324897c1593df622.m3u8
-BRTV纪实科教8K,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
+BRTV纪实科教,https://epg.pw/stream/544cc09b12f4a7e88dcf6d03ac6f42925ce17749273bdc3f324897c1593df622.m3u8
+BRTV纪实科教,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 BRTV卡酷少儿,http://58.41.20.25:9981/udp/@239.45.0.8:5140
 BRTV卡酷少儿,http://60.211.167.226:8888/newlive/live/hls/53/live.m3u8
 BRTV卡酷少儿,https://epg.pw/stream/87c7d64450a0d80c85933b6caaea95a315accc0d1c765938e6b24b61f71b20ca.ctv
@@ -854,8 +854,8 @@ BRTV卡酷少儿,http://nas.tuyuannet.cn:8800/udp/239.37.0.76:5540
 上海新闻,http://alltzy.cn/dl/bestv.php?id=xwzhhd8m/8000000
 上海新闻,https://volc-stream.kksmg.com/live/xwzh/index.m3u8?volcSecret=4e04360567cfdc669e825f2fede62e52&volcTime=1706416260
 都市频道,http://58.41.20.25:9981/udp/@239.45.3.236:5140
-上海都市,https://tencent-stream.kksmg.com/live/ylpd.m3u8?txSecret=4f698aae101d9ebc6a2a19a8f3f0f00c&txTime=65bde58b
-上海都市,http://222.71.90.218:8888/newlive/live/hls/51/live.m3u8
+都市频道,https://tencent-stream.kksmg.com/live/ylpd.m3u8?txSecret=4f698aae101d9ebc6a2a19a8f3f0f00c&txTime=65bde58b
+都市频道,http://222.71.90.218:8888/newlive/live/hls/51/live.m3u8
 第一财经,http://58.41.20.25:9981/udp/@239.45.3.211:5140
 第一财经,http://api.52tb.xyz/info?id=377&token=20230314vyrzsx
 第一财经,http://222.71.90.218:8888/newlive/live/hls/57/live.m3u8
