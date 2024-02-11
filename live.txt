@@ -951,7 +951,6 @@ TVB娱乐,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
 TVB星河,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
 TVB星河,http://tvpo1.rbq.plus/xinghe/xinghe.stream/chunklist.m3u8
 TVB星河,http://113.117.74.12:8081/hls/135/index.m3u8
-TVB千禧经典,https://epg.pw/stream/81d660e21a3374ca0ef46619571ea42bedd6a9b474339f425b9519dae51f6368.ctv
 TVB千禧经典,https://epg.pw/stream/c2345311e1550c95759001d3e0bfe259917f17ef13dc688f25ac398e135d725a.ctv
 J2台,http://bziyunshao.synology.me:8890/bysid/82
 RTHK TV 31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
