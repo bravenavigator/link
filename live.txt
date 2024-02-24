@@ -1841,7 +1841,6 @@ IHOT爱旅行,http://112.17.52.85/PLTV/88888888/224/3221233703/index.m3u8
 土耳其TRT World,https://tv-trtworld.live.trt.com.tr/master.m3u8
 阿联酋Sharjahtv,https://epg.pw/stream/015719860ea5e8844ebfbfb66fe6898892d6f68dfe31337cfa95312689cb1f99.m3u8
 阿联酋DUBAI ONE,http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8?checkedby:iptvcat.com
-孟加拉e ten tv,https://epg.pw/stream/86de05036743ab8d66396c1c96ff203a3e7a910c08aca17e85177ccc72928026.m3u8
 尼日利亚TSTV,http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
 埃塞俄比亚addistv,https://epg.pw/stream/cf66e94f476d3d328d04c3b0b71da1979d6435fdb1a7fda45179f89f1e40c8db.m3u8
 英国BBC Earth,http://typicamn.russtv.net/iptv/349W3XS8ENP64A/6855/index.m3u8
@@ -1852,7 +1851,6 @@ IHOT爱旅行,http://112.17.52.85/PLTV/88888888/224/3221233703/index.m3u8
 美国Discoveryᴴᴰ,http://typicamn.russtv.net/iptv/349W3XS8ENP64A/9011/index.m3u8
 美国National Geographicᴴᴰ,http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 美国Ski TV,https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SynapseTV/193.m3u8
-美国Animal Plane,https://epg.pw/stream/719dcadb77ff0d2ad596e29241da6752110e8aed49a204508df88ee5a760629a.ctv
 美国Wild Earth,https://wildearth-roku.amagi.tv/masterR720P.m3u8
 Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Love Nature,https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
@@ -2074,7 +2072,6 @@ CETV-4,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001348/index.m3
 金鹰卡通,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001460/index.m3u8
 动漫秀场,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001196/index.m3u8
 哈哈炫动,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001232/index.m3u8
-熊猫频道,https://epg.pw/stream/1b477de2aff814d6b317b2b9e462342ec6a27006810376ab97580aa29d886f90.m3u8
 熊猫频道,https://epg.pw/stream/3a3cd6889c336a75c3e5ef438e68f6300bf99e792c1eb9878986aad540468d9c.m3u8
 求索IPV6,#genre#
 求索记录,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
