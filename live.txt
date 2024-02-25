@@ -171,8 +171,6 @@ Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482
 北京卫视,http://112.17.52.85/PLTV/88888888/224/3221233730/index.m3u8
 北京卫视,http://mu520.wicp.net:50085/hls/27/index.m3u8
 北京卫视,http://221.213.70.18:9901/tsfile/live/0135_1.m3u8?=TG@YYDSyouzai=key=txiptv&playlive=1&authid=0=TG@YYDSyouzai
-北京卫视,https://epg.pw/stream/57d898dd2ded40306d7126055555f547da15f2d84923cbcc74c2f69b6b069206.m3u8
-北京卫视,https://epg.pw/stream/5e98eaae8407271568dc787781f7ac42eec310d61df8b7ab4602741ae72df9bf.m3u8
 北京卫视,http://111.20.35.103:6610/000000001000/1000000001000017156/index.m3u8?channel-id=ystenlive&Contentid=1000000001000017156&livemode=1&stbId=00
 北京卫视,http://221.213.43.82:8888/newlive/live/hls/19/live.m3u8
 东方卫视,http://60.211.167.226:8888/newlive/live/hls/20/live.m3u8
