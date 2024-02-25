@@ -182,6 +182,7 @@ Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482
 江苏卫视,http://60.211.167.226:8888/newlive/live/hls/22/live.m3u8
 江苏卫视,http://112.17.52.85/PLTV/88888888/224/3221233689/index.m3u8
 江苏卫视,http://mu520.wicp.net:50085/hls/29/index.m3u8
+江苏卫视,http://222.188.68.38:8888/newlive/live/hls/20/live.m3u8
 江苏卫视,http://222.223.119.21:8888/newlive/live/hls/22/live.m3u8
 江苏卫视,http://221.213.70.18:9901/tsfile/live/0130_1.m3u8?=TG@YYDSyouzai=key=txiptv&playlive=1&authid=0=TG@YYDSyouzai
 江苏卫视,http://api.52tb.xyz/info?id=23&token=20230314vyrzsx
@@ -496,10 +497,16 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
 江苏,#genre#
 江苏新闻,http://222.189.51.62:8888/newlive/live/hls/55/live.m3u8
+江苏新闻,http://222.188.68.38:8888/newlive/live/hls/26/live.m3u8
+江苏城市,http://222.188.68.38:8888/newlive/live/hls/21/live.m3u8
 江苏城市,http://222.189.51.62:8888/newlive/live/hls/51/live.m3u8
 江苏综艺,http://117.85.25.138:8800/rtp/239.49.9.36:6000
+江苏综艺,http://222.188.68.38:8888/newlive/live/hls/22/live.m3u8
 江苏综艺,http://222.189.51.62:8888/newlive/live/hls/52/live.m3u8
+江苏影视,http://222.188.68.38:8888/newlive/live/hls/24/live.m3u8
 江苏影视,http://222.189.51.62:8888/newlive/live/hls/54/live.m3u8
+江苏教育,http://222.188.68.38:8888/newlive/live/hls/28/live.m3u8
+江苏体育休闲,http://222.188.68.38:8888/newlive/live/hls/23/live.m3u8
 江苏体育,http://222.189.51.62:8888/newlive/live/hls/53/live.m3u8
 南京新闻综合,http://api.52tb.xyz/info?id=466&token=20230314vyrzsx
 南京教科,http://api.52tb.xyz/info?id=467&token=20230314vyrzsx
