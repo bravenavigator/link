@@ -40,10 +40,10 @@ CCTV5体育,http://mu520.wicp.net:50085/hls/5/index.m3u8
 CCTV5+体育赛事,http://60.211.167.226:8888/newlive/live/hls/7/live.m3u8
 CCTV5+体育赛事,http://222.223.119.21:8888/newlive/live/hls/7/live.m3u8
 CCTV5+体育赛事,http://221.213.43.82:8888/newlive/live/hls/7/live.m3u8
-CCTV5+体育赛事,http://api.52tb.xyz/info?id=7&token=20230314vyrzsx
 CCTV5+体育赛事,https://epg.pw/stream/086db2bb0313ea69b64e6c5241778b8b5933b629e4bd09ecab5e744b122ed865.m3u8
 CCTV5+体育赛事,https://epg.pw/stream/e5eab09987c6427f243fbb4debcabf8686121e8eaf3385a451a798f5ce99949a.m3u8
 CCTV5+体育赛事,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+CCTV5+体育赛事,http://api.52tb.xyz/info?id=7&token=20230314vyrzsx
 CCTV6电影,http://112.17.52.85/PLTV/88888888/224/3221233713/index.m3u8
 CCTV6电影,http://221.213.70.18:9901/tsfile/live/0006_1.m3u8?=TG@YYDSyouzai=key=txiptv&playlive=1&authid=0=TG@YYDSyouzai
 CCTV6电影,http://api.52tb.xyz/info?id=8&token=20230314vyrzsx
