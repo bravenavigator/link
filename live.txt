@@ -403,6 +403,7 @@ Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482
 广东珠江,http://api.52tb.xyz/info?id=410&token=20230314vyrzsx
 广东民生,http://api.52tb.xyz/info?id=408&token=20230314vyrzsx
 广东综艺,http://api.52tb.xyz/info?id=402&token=20230314vyrzsx
+广东体育,http://91tv.x3322.net:9921/tsfile/live/1014_1.m3u8
 大湾区卫视,http://api.52tb.xyz/info?id=412&token=20230314vyrzsx
 广州新闻,http://tencentplaygzrb.gztv.com/sec/xinwen.m3u8
 广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=6f73647cae387d01a3c2132074132a83&txTime=18d00acf487
@@ -502,6 +503,7 @@ BRTV卡酷少儿,http://60.211.167.226:8888/newlive/live/hls/53/live.m3u8
 港澳,#genre#
 凤凰中文,https://epg.pw/stream/15ed3bc8cdc099b666c85c694e7ef54dee3593c1ee660d69b69b4ef335bd389b.m3u8
 凤凰资讯,https://epg.pw/stream/1b9dc2b8c181bd5f66d4cedf01cb070a677cc2b4db537cf9d2e4d388e271a9c9.m3u8
+TVB翡翠台,http://91tv.x3322.net:9921/tsfile/live/1006_1.m3u8
 TVB新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
 TVB新闻,http://bziyunshao.synology.me:8890/bysid/83
 TVB财经,http://live.cooltv.top/tv/tvb.php?id=2
