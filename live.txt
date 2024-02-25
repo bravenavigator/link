@@ -121,18 +121,18 @@ CCTV风云足球,https://i.smart-chat.net/iptv.php?id=102900&num=3
 CCTV央视台球,https://i.smart-chat.net/iptv.php?id=103300&num=1
 CCTV央视台球,https://i.smart-chat.net/iptv.php?id=103300&num=2
 CCTV央视台球,https://i.smart-chat.net/iptv.php?id=103300&num=3
-CCTV4K,http://112.17.52.85/PLTV/88888888/224/3221233679/index.m3u8
+CCTV4K超高清,http://112.17.52.85/PLTV/88888888/224/3221233679/index.m3u8
 CGTN,http://60.211.167.226:8888/newlive/live/hls/18/live.m3u8
 Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
 CCTV1综合,http://123.6.102.32:11789/502.php?id=2022576803.m3u8
 CCTV2财经,http://123.6.102.32:11789/502.php?id=2022576703.m3u8
 CCTV3综艺,http://123.6.102.32:11789/502.php?id=2022576503.m3u8
-CCTV4国际,http://123.6.102.32:11789/502.php?id=2022576603.m3u8
+CCTV4中文国际,http://123.6.102.32:11789/502.php?id=2022576603.m3u8
 CCTV5体育,http://123.6.102.32:11789/502.php?id=2022576403.m3u8
 CCTV6电影,http://123.6.102.32:11789/502.php?id=2013693903.m3u8
 CCTV7国防军事,http://123.6.102.32:11789/502.php?id=2022576203.m3u8
 CCTV8电视剧,http://123.6.102.32:11789/502.php?id=2022576103.m3u8
-CCTV9记录,http://123.6.102.32:11789/502.php?id=2022576003.m3u8
+CCTV9纪录,http://123.6.102.32:11789/502.php?id=2022576003.m3u8
 CCTV10科教,http://123.6.102.32:11789/502.php?id=2022573003.m3u8
 CCTV11戏曲,http://123.6.102.32:11789/502.php?id=2022575903.m3u8
 CCTV12社会与法,http://123.6.102.32:11789/502.php?id=2022575803.m3u8
@@ -140,12 +140,12 @@ CCTV13新闻,http://123.6.102.32:11789/502.php?id=2022575703.m3u8
 CCTV14少儿,http://123.6.102.32:11789/502.php?id=2022575603.m3u8
 CCTV15音乐,http://123.6.102.32:11789/502.php?id=2022575503.m3u8
 CCTV16奥林匹克,http://123.6.102.32:11789/502.php?id=2022575403.m3u8
-CCTV164K,http://123.6.102.32:11789/502.php?id=2022575103.m3u8
 CCTV17农业农村,http://123.6.102.32:11789/502.php?id=2022575303.m3u8
 CCTV5+体育赛事,http://123.6.102.32:11789/502.php?id=2022576303.m3u8
 CCTV4K超高清,http://123.6.102.32:11789/502.php?id=2022575203.m3u8
 CCTV8K超高清,http://123.6.102.32:11789/502.php?id=2020603423.m3u8
 CCTV8K超高清,http://123.6.102.32:11789/502.php?id=2020603463.m3u8
+CCTV164K超高清,http://123.6.102.32:11789/502.php?id=2022575103.m3u8
 CCTV风云剧场,http://123.6.102.32:11789/502.php?id=2012513603.m3u8
 CCTV第一剧场,http://123.6.102.32:11789/502.php?id=2012514403.m3u8
 CCTV怀旧剧场,http://123.6.102.32:11789/502.php?id=2012511203.m3u8
