@@ -491,13 +491,16 @@ BRTV新闻,https://epg.pw/stream/80307082824983f38685364e741bd9738d2632ac1c9c0b2
 BRTV新闻,http://qnap.yjnhome.com:4000/udp/239.3.1.159:8000
 BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
 BRTV新闻,https://live.funhillrm.com/5/sd/live.m3u8
+BRTV文艺,http://123.112.210.212:4022/rtp/239.3.1.242:8000
 BRTV文艺,http://111.199.1.184:8686/rtp/239.3.1.242:8000
 BRTV影视,http://111.207.22.10:8888/newlive/live/hls/57/live.m3u8
+BRTV体育休闲,http://123.112.210.212:4022/rtp/239.3.1.243:8000
 BRTV体育休闲,http://111.207.22.10:8888/newlive/live/hls/59/live.m3u8
 BRTV纪实科教,https://epg.pw/stream/544cc09b12f4a7e88dcf6d03ac6f42925ce17749273bdc3f324897c1593df622.m3u8
 BRTV纪实科教,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 BRTV卡酷少儿,http://60.211.167.226:8888/newlive/live/hls/53/live.m3u8
 BRTV卡酷少儿,http://123.112.210.212:4022/rtp/239.3.1.189:8000
+BRTV国际频道,http://123.112.210.212:4022/rtp/239.3.1.235:8000
 BRTV国际频道,http://111.207.22.10:8888/newlive/live/hls/58/live.m3u8
 淘剧场,https://epg.pw/stream/048d8fe525fd37fed2c701d3297a3a03e5612d2fc444f2df0e0c42fde251a6e7.ctv
 房山综合,http://live.funhillrm.com/2/sd/live.m3u8
