@@ -145,7 +145,7 @@ CCTV15音乐,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv15.m3u8
 CCTV16奥林匹克,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv16.m3u8
 CCTV17农业农村,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv17.m3u8
 CCTV5+体育赛事,http://113.110.72.132:808/hls/10/index.m3u8
-CCTV5,http://113.110.72.132:808/hls/58/index.m3u8
+CCTV5体育,http://113.110.72.132:808/hls/58/index.m3u8
 CCTV1综合,http://113.110.72.132:808/hls/113/index.m3u8
 CCTV2财经,http://113.110.72.132:808/hls/114/index.m3u8
 CCTV3综艺,http://113.110.72.132:808/hls/115/index.m3u8
