@@ -123,7 +123,7 @@ CCTV央视台球,https://i.smart-chat.net/iptv.php?id=103300&num=1
 CCTV央视台球,https://i.smart-chat.net/iptv.php?id=103300&num=2
 CCTV央视台球,https://i.smart-chat.net/iptv.php?id=103300&num=3
 CCTV4K超高清,http://112.17.52.85/PLTV/88888888/224/3221233679/index.m3u8
-重温经典,http://bahala.soboy.cn:8002/bysid/401
+CCTV重温经典,http://bahala.soboy.cn:8002/bysid/401
 CGTN,http://222.223.119.21:8888/newlive/live/hls/18/live.m3u8
 CGTN,http://60.211.167.226:8888/newlive/live/hls/18/live.m3u8
 Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
@@ -528,9 +528,7 @@ BRTV卡酷少儿,http://60.211.167.226:8888/newlive/live/hls/53/live.m3u8
 大足综合,http://218.201.85.71:3170/m3u8
 荣昌综合,http://183.64.181.25:40023/rongchang01.m3u8
 港澳,#genre#
-凤凰中文,https://edge2.laotv.la/live/PhxChinese/sc-gaFECQ/v0_index.m3u8
 凤凰中文,https://epg.pw/stream/15ed3bc8cdc099b666c85c694e7ef54dee3593c1ee660d69b69b4ef335bd389b.m3u8
-凤凰资讯,https://edge2.laotv.la/live/PhxChinese/sc-gaFECQ/a1_index.m3u8
 凤凰资讯,https://epg.pw/stream/1b9dc2b8c181bd5f66d4cedf01cb070a677cc2b4db537cf9d2e4d388e271a9c9.m3u8
 TVB翡翠台,http://aiyun.work.gd/jd.php?id=翡翠台
 TVB翡翠台,http://91tv.x3322.net:9921/tsfile/live/1006_1.m3u8
@@ -1459,9 +1457,9 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 西藏影视文化,http://220.182.45.198:20088/tsfile/live/1003_1.m3u8
 西藏藏语卫视,http://php.jdshipin.com:8880/xztv.php?id=zy
 影院,#genre#
-CHC电影,http://60.211.167.226:8888/newlive/live/hls/57/live.m3u8
-CHC电影,http://lhq-cctv.8866.org:18181/tsfile/live/1060_1.m3u8?key=txiptv
-CHC电影,http://110.52.99.109:9901/tsfile/live/1035_1.m3u8
+CHC高清电影,http://60.211.167.226:8888/newlive/live/hls/57/live.m3u8
+CHC高清电影,http://lhq-cctv.8866.org:18181/tsfile/live/1060_1.m3u8?key=txiptv
+CHC高清电影,http://110.52.99.109:9901/tsfile/live/1035_1.m3u8
 CHC动作电影,http://60.211.167.226:8888/newlive/live/hls/56/live.m3u8
 CHC动作电影,http://lhq-cctv.8866.org:18181/tsfile/live/1059_1.m3u8?key=txiptv
 CHC动作电影,http://110.52.99.109:9901/tsfile/live/1036_1.m3u8
