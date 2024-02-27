@@ -564,8 +564,11 @@ BRTV国际频道,http://111.207.22.10:8888/newlive/live/hls/58/live.m3u8
 大足综合,http://218.201.85.71:3170/m3u8
 荣昌综合,http://183.64.181.25:40023/rongchang01.m3u8
 港澳,#genre#
+凤凰中文,http://110.72.75.63:808/hls/62/index.m3u8
+凤凰中文,http://110.191.246.220:8888/udp/239.93.0.162:2192
 凤凰中文,https://edge2.laotv.la/live/PhxChinese/sc-gaFECQ/v0_index.m3u8
 凤凰中文,https://epg.pw/stream/15ed3bc8cdc099b666c85c694e7ef54dee3593c1ee660d69b69b4ef335bd389b.m3u8
+凤凰资讯,http://110.72.75.63:808/hls/63/index.m3u8
 凤凰资讯,https://epg.pw/stream/1b9dc2b8c181bd5f66d4cedf01cb070a677cc2b4db537cf9d2e4d388e271a9c9.m3u8
 TVB翡翠台,http://aiyun.work.gd/jd.php?id=翡翠台
 TVB翡翠台,http://91tv.x3322.net:9921/tsfile/live/1006_1.m3u8
