@@ -197,6 +197,8 @@ CCTV17农业农村,http://aiyun.work.gd/jd.php?id=CCTV17农业农村
 北京卫视,http://221.213.70.18:9901/tsfile/live/0135_1.m3u8?=TG@YYDSyouzai=key=txiptv&playlive=1&authid=0=TG@YYDSyouzai
 北京卫视,http://111.20.35.103:6610/000000001000/1000000001000017156/index.m3u8?channel-id=ystenlive&Contentid=1000000001000017156&livemode=1&stbId=00
 北京卫视,http://221.213.43.82:8888/newlive/live/hls/19/live.m3u8
+北京卫视,http://123.112.210.212:4022/rtp/239.3.1.241:8000
+北京卫视,http://123.113.5.78:8688/rtp/239.3.1.241:8000
 东方卫视,http://60.211.167.226:8888/newlive/live/hls/20/live.m3u8
 东方卫视,http://112.17.52.85/PLTV/88888888/224/3221233692/index.m3u8
 东方卫视,http://mu520.wicp.net:50085/hls/28/index.m3u8
@@ -483,14 +485,18 @@ CCTV17农业农村,http://aiyun.work.gd/jd.php?id=CCTV17农业农村
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1612881417-0-0-bc7ddba066481bc805fc1e800654e721
 北京,#genre#
+BRTV新闻,http://111.199.1.184:8686/rtp/239.3.1.159:8000
 BRTV新闻,https://epg.pw/stream/3e01e04a6bd9beb64ce9550b799c1f1e2806d096cf391f4c31510a1b1da7e5a1.m3u8
 BRTV新闻,https://epg.pw/stream/80307082824983f38685364e741bd9738d2632ac1c9c0b22e7a5817d4fb4d0c4.m3u8
 BRTV新闻,http://qnap.yjnhome.com:4000/udp/239.3.1.159:8000
 BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
 BRTV新闻,https://live.funhillrm.com/5/sd/live.m3u8
+BRTV文艺,http://111.199.1.184:8686/rtp/239.3.1.242:8000
+BRTV体育休闲,http://111.207.22.10:8888/newlive/live/hls/59/live.m3u8
 BRTV纪实科教,https://epg.pw/stream/544cc09b12f4a7e88dcf6d03ac6f42925ce17749273bdc3f324897c1593df622.m3u8
 BRTV纪实科教,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 BRTV卡酷少儿,http://60.211.167.226:8888/newlive/live/hls/53/live.m3u8
+BRTV卡酷少儿HD,http://123.112.210.212:4022/rtp/239.3.1.189:8000
 淘剧场,https://epg.pw/stream/048d8fe525fd37fed2c701d3297a3a03e5612d2fc444f2df0e0c42fde251a6e7.ctv
 房山综合,http://live.funhillrm.com/2/sd/live.m3u8
 上海,#genre#
