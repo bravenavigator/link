@@ -26,6 +26,7 @@ CCTV2财经,http://mu520.wicp.net:50085/hls/2/index.m3u8
 CCTV3综艺,http://112.17.52.85/PLTV/88888888/224/3221233715/index.m3u8
 CCTV3综艺,http://221.213.70.18:9901/tsfile/live/0003_1.m3u8?=TG@YYDSyouzai=key=txiptv&playlive=1&authid=0=TG@YYDSyouzai
 CCTV3综艺,http://60.174.137.146:9901/tsfile/live/0003_1.m3u8?key=txiptv&url=tvzb.com
+CCTV3综艺,http://222.223.119.21:8888/newlive/live/hls/5/live.m3u8
 CCTV3综艺,http://api.52tb.xyz/info?id=4&token=20230314vyrzsx
 CCTV3综艺,http://api.52tb.xyz/info?id=5&token=20230314vyrzsx
 CCTV3综艺,http://mu520.wicp.net:50085/hls/3/index.m3u8
@@ -137,6 +138,7 @@ CCTV央视台球,http://123.6.102.32:11789/502.php?id=2012513703.m3u8
 CCTV电视指南,http://123.6.102.32:11789/502.php?id=2012514003.m3u8
 CCTV卫生健康,http://123.6.102.32:11789/502.php?id=2012513503.m3u8
 CGTN,http://123.6.102.32:11789/502.php?id=2022575003.m3u8
+CGTN,http://222.223.119.21:8888/newlive/live/hls/18/live.m3u8
 CGTN法语,http://123.6.102.32:11789/502.php?id=2022574903.m3u8
 CGTN俄语,http://123.6.102.32:11789/502.php?id=2022574803.m3u8
 CGTN阿拉伯语,http://123.6.102.32:11789/502.php?id=2022574603.m3u8
@@ -367,7 +369,6 @@ CCTV17农业农村,http://aiyun.work.gd/jd.php?id=CCTV17农业农村
 河北卫视,https://epg.pw/stream/ae75031b916d67ed14f35c4dc7bf3e1a374102ce26b27df9bc7e3497e745f426.m3u8
 河北卫视,http://221.2.36.34:8888/newlive/live/hls/46/live.m3u8
 河北卫视,http://221.213.43.82:8888/newlive/live/hls/45/live.m3u8
-陕西卫视,https://epg.pw/stream/3bc3229d80d33420ce90ca97cb4ee6e8b270dc9a54d6e5e1a1debf86bb31bb5b.ctv
 陕西卫视,http://221.213.43.82:8888/newlive/live/hls/41/live.m3u8
 山西卫视,https://epg.pw/stream/c70bdd34e4df8d4813d6c785a8967191453215bcde8b72ab4801aabe4ce5fd74.m3u8
 山西卫视,https://epg.pw/stream/f3585857f1474c6f9527ea29a7a99115a86855d9addb67619aa9a033299b48eb.m3u8
@@ -392,6 +393,7 @@ CCTV17农业农村,http://aiyun.work.gd/jd.php?id=CCTV17农业农村
 吉林卫视,http://221.213.70.18:9901/tsfile/live/0118_1.m3u8?=TG@YYDSyouzai=key=txiptv&playlive=1&authid=0=TG@YYDSyouzai
 吉林卫视,https://epg.pw/stream/5f1a5c423a759d2a2804cdcc60d82044f01971be640cf06359689f4199eff780.m3u8
 甘肃卫视,http://221.213.43.82:8888/newlive/live/hls/36/live.m3u8
+宁夏卫视,https://epg.pw/stream/3bc3229d80d33420ce90ca97cb4ee6e8b270dc9a54d6e5e1a1debf86bb31bb5b.ctv
 宁夏卫视,https://epg.pw/stream/5ba9406f5db6d6511f0b15b6fb7b728b6d82abe3a53a42ac1176ef67023d274f.m3u8
 宁夏卫视,http://221.213.43.82:8888/newlive/live/hls/40/live.m3u8
 青海卫视,http://60.211.167.226:8888/newlive/live/hls/38/live.m3u8
@@ -1217,8 +1219,8 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 鹤壁浚县一套,http://tvpull.dxhmt.cn:9081/tv/10621-1.m3u8
 鹤壁浚县一套,http://live.dxhmt.cn:9081/tv/10621-1.m3u8
 河北,#genre#
-河北公共,http://183.196.33.171:808/hls/21/index.m3u8
 河北公共,http://222.223.119.21:8888/newlive/live/hls/53/live.m3u8
+河北公共,http://183.196.33.171:808/hls/21/index.m3u8
 河北经济,http://222.223.119.21:8888/newlive/live/hls/49/live.m3u8
 河北都市,http://222.223.119.21:8888/newlive/live/hls/50/live.m3u8
 河北都市,https://tv.pull.hebtv.com/jishi/dushipindao.m3u8?t=2510710360&k=0a371e84fa6980927f5b617687e1ad11
