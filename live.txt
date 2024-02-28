@@ -410,9 +410,11 @@ CCTV17农业农村,http://91tv.x3322.net:9921/tsfile/live/1004_1.m3u8
 广东少儿,http://php.jdshipin.com:8880/chudian.php?id=gdse
 广东体育,http://58.248.84.148:8888/newlive/live/hls/48/live.m3u8
 广东体育,http://91tv.x3322.net:9921/tsfile/live/1014_1.m3u8
+广东体育,http://aiyun.work.gd/jd.php?id=广东体育
 广东体育,http://php.jdshipin.com:8880/chudian.php?id=gdty
 广东移动,http://php.jdshipin.com:8880/chudian.php?id=gdyd
 大湾区卫视,http://php.jdshipin.com:8880/chudian.php?id=nfws
+广州新闻,http://aiyun.work.gd/jd.php?id=广州新闻
 广州新闻,http://tencentplaygzrb.gztv.com/sec/xinwen.m3u8
 广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=6f73647cae387d01a3c2132074132a83&txTime=18d00acf487
 广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
@@ -421,6 +423,7 @@ CCTV17农业农村,http://91tv.x3322.net:9921/tsfile/live/1004_1.m3u8
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487
 广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
 广州影视,http://91tv.x3322.net:9921/tsfile/live/1020_1.m3u8
+广州影视,http://aiyun.work.gd/jd.php?id=广州影视
 广州影视,http://tencentplaygzrb.gztv.com/sec/yingshi.m3u8
 广州影视,https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=7e9bddad7c8911626ed1d2c09fc605d9&txTime=18d00acf487
 广州影视,http://php.jdshipin.com:8880/gztv.php?id=yingshi
@@ -428,6 +431,7 @@ CCTV17农业农村,http://91tv.x3322.net:9921/tsfile/live/1004_1.m3u8
 广州法治,https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=31e9eb294789e59e351fc1f0ab3178bc&txTime=18d00acf487
 广州法治,http://php.jdshipin.com:8880/gztv.php?id=fazhi
 广州竞赛,http://91tv.x3322.net:9921/tsfile/live/1018_1.m3u8
+广州竞赛,http://aiyun.work.gd/jd.php?id=广州竞赛
 广州竞赛,http://tencentplaygzrb.gztv.com/sec/jingsai.m3u8
 广州竞赛,https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=49c8041461997c7a97dbcc3c7fd11b4f&txTime=18d00acf487
 广州竞赛,http://php.jdshipin.com:8880/gztv.php?id=jingsai
@@ -532,6 +536,7 @@ BRTV国际频道,http://111.207.22.10:8888/newlive/live/hls/58/live.m3u8
 凤凰资讯,http://110.72.75.63:808/hls/1/index.m3u8
 凤凰资讯,https://epg.pw/stream/1b9dc2b8c181bd5f66d4cedf01cb070a677cc2b4db537cf9d2e4d388e271a9c9.m3u8
 TVB翡翠台,http://91tv.x3322.net:9921/tsfile/live/1006_1.m3u8
+TVB翡翠台,http://aiyun.work.gd/jd.php?id=翡翠台
 TVB新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
 TVB新闻,http://bziyunshao.synology.me:8890/bysid/83
 TVB财经,http://live.cooltv.top/tv/tvb.php?id=2
@@ -544,6 +549,7 @@ TVB星河,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
 TVB星河,http://tvpo1.rbq.plus/xinghe/xinghe.stream/chunklist.m3u8
 TVB星河,http://113.117.74.12:8081/hls/135/index.m3u8
 TVB明珠台,http://91tv.x3322.net:9921/tsfile/live/1007_1.m3u8
+TVB明珠台,http://aiyun.work.gd/jd.php?id=明珠台
 J2台,http://bziyunshao.synology.me:8890/bysid/82
 RTHK TV 31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 RTHK TV 31,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8
