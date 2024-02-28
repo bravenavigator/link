@@ -60,13 +60,13 @@ CCTV7国防军事,http://mu520.wicp.net:50085/hls/7/index.m3u8
 CCTV8电视剧,http://112.17.52.85/PLTV/88888888/224/3221233721/index.m3u8
 CCTV8电视剧,http://api.52tb.xyz/info?id=10&token=20230314vyrzsx
 CCTV8电视剧,http://mu520.wicp.net:50085/hls/8/index.m3u8
-CCTV9记录,http://60.211.167.226:8888/newlive/live/hls/11/live.m3u8
-CCTV9记录,http://112.17.52.85/PLTV/88888888/224/3221233706/index.m3u8
-CCTV9记录,http://221.213.70.18:9901/tsfile/live/0009_1.m3u8?=TG@YYDSyouzai=key=txiptv&playlive=1&authid=0=TG@YYDSyouzai
-CCTV9记录,http://222.223.119.21:8888/newlive/live/hls/11/live.m3u8
-CCTV9记录,http://api.52tb.xyz/info?id=11&token=20230314vyrzsx
-CCTV9记录,http://mu520.wicp.net:50085/hls/9/index.m3u8
-CCTV9记录,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
+CCTV9纪录,http://60.211.167.226:8888/newlive/live/hls/11/live.m3u8
+CCTV9纪录,http://112.17.52.85/PLTV/88888888/224/3221233706/index.m3u8
+CCTV9纪录,http://221.213.70.18:9901/tsfile/live/0009_1.m3u8?=TG@YYDSyouzai=key=txiptv&playlive=1&authid=0=TG@YYDSyouzai
+CCTV9纪录,http://222.223.119.21:8888/newlive/live/hls/11/live.m3u8
+CCTV9纪录,http://api.52tb.xyz/info?id=11&token=20230314vyrzsx
+CCTV9纪录,http://mu520.wicp.net:50085/hls/9/index.m3u8
+CCTV9纪录,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
 CCTV10科教,http://60.211.167.226:8888/newlive/live/hls/12/live.m3u8
 CCTV10科教,http://112.17.52.85/PLTV/88888888/224/3221233704/index.m3u8
 CCTV10科教,http://221.213.43.82:8888/newlive/live/hls/12/live.m3u8
@@ -135,7 +135,7 @@ CCTV5体育,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv5.m3u8
 CCTV5+体育赛事,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv5p.m3u8
 CCTV7国防军事,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv7.m3u8
 CCTV8电视剧,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv8.m3u8
-CCTV9记录,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv9.m3u8
+CCTV9纪录,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv9.m3u8
 CCTV10科教,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv10.m3u8
 CCTV11戏曲,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv11.m3u8
 CCTV12社会与法,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv12.m3u8
@@ -152,7 +152,7 @@ CCTV5体育,http://113.110.72.132:808/hls/58/index.m3u8
 CCTV6电影,http://113.110.72.132:808/hls/118/index.m3u8
 CCTV7国防军事,http://113.110.72.132:808/hls/119/index.m3u8
 CCTV8电视剧,http://113.110.72.132:808/hls/120/index.m3u8
-CCTV9记录,http://113.110.72.132:808/hls/121/index.m3u8
+CCTV9纪录,http://113.110.72.132:808/hls/121/index.m3u8
 CCTV10科教,http://113.110.72.132:808/hls/122/index.m3u8
 CCTV12社会与法,http://113.110.72.132:808/hls/124/index.m3u8
 CCTV14少儿,http://113.110.72.132:808/hls/5/index.m3u8
@@ -164,7 +164,7 @@ CCTV5+体育赛事,http://91tv.x3322.net:9921/tsfile/live/1005_1.m3u8
 CCTV6电影,http://91tv.x3322.net:9921/tsfile/live/0006_1.m3u8
 CCTV7国防军事,http://91tv.x3322.net:9921/tsfile/live/1001_1.m3u8
 CCTV8电视剧,http://91tv.x3322.net:9921/tsfile/live/0008_1.m3u8
-CCTV9记录,http://91tv.x3322.net:9921/tsfile/live/0009_1.m3u8
+CCTV9纪录,http://91tv.x3322.net:9921/tsfile/live/0009_1.m3u8
 CCTV10科教,http://91tv.x3322.net:9921/tsfile/live/0010_1.m3u8
 CCTV12社会与法,http://91tv.x3322.net:9921/tsfile/live/0012_1.m3u8
 CCTV13新闻,http://91tv.x3322.net:9921/tsfile/live/0013_1.m3u8
@@ -178,7 +178,7 @@ CCTV5体育,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv5.m3u8
 CCTV6电影,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv6.m3u8
 CCTV7国防军事,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv7.m3u8
 CCTV8电视剧,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv8.m3u8
-CCTV9记录,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv9.m3u8
+CCTV9纪录,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv9.m3u8
 CCTV10科教,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv10.m3u8
 CCTV11戏曲,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv11.m3u8
 CCTV12社会与法,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv12.m3u8
@@ -1639,7 +1639,7 @@ CCTV5+体育赛事,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PL
 CCTV6电影,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001188/index.m3u8
 CCTV7国防军事,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001236/index.m3u8
 CCTV8电视剧,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001189/index.m3u8
-CCTV9记录,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001237/index.m3u8
+CCTV9纪录,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001237/index.m3u8
 CCTV10科教,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001238/index.m3u8
 CCTV11戏曲,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001309/index.m3u8
 CCTV12社会与法,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001239/index.m3u8
