@@ -113,14 +113,12 @@ CCTV15音乐,http://222.82.204.248:4000/rtp/238.125.3.213:5140
 CCTV15音乐,http://222.82.204.248:4000/rtp/238.125.4.84:5140
 CCTV15音乐,http://36.248.137.69:60033/tsfile/live/0015_1.m3u8?key=txiptv
 CCTV16奥林匹克,http://112.17.52.85/PLTV/88888888/224/3221233710/index.m3u8
-CCTV16奥林匹克,http://mu520.wicp.net:50085/hls/16/index.m3u8
 CCTV16奥林匹克,http://221.7.175.127:9901/tsfile/live/1021_1.m3u8?key=txiptv
 CCTV16奥林匹克,http://1.69.112.94:9901/tsfile/live/0016_1.m3u8?key=txiptv
 CCTV16奥林匹克,http://222.82.204.248:4000/rtp/238.125.2.183:5140
 CCTV16奥林匹克,http://222.82.204.248:4000/rtp/238.125.5.34:5140
 CCTV16奥林匹克,http://1.69.0.241:9901/tsfile/live/0016_1.m3u8?key=txiptv
-CCTV17农业农村,http://api.52tb.xyz/info?id=19&token=20230314vyrzsx
-CCTV17农业农村,http://mu520.wicp.net:50085/hls/17/index.m3u8
+CCTV16奥林匹克,http://mu520.wicp.net:50085/hls/16/index.m3u8
 CCTV17农业农村,http://1.69.112.94:9901/tsfile/live/0017_1.m3u8?key=txiptv
 CCTV17农业农村,http://223.151.49.74:59901/tsfile/live/0017_1.m3u8?key=txiptv
 CCTV17农业农村,http://113.57.21.233:8666/tsfile/live/0019_1.m3u8?key=txiptv
@@ -136,6 +134,7 @@ CCTV17农业农村,http://222.82.204.248:4000/rtp/238.125.3.153:5140
 CCTV17农业农村,http://222.82.204.248:4000/rtp/238.125.5.74:5140
 CCTV17农业农村,http://101.74.28.70:9901/tsfile/live/1009_1.m3u8?key=txiptv
 CCTV17农业农村,http://1.69.0.241:9901/tsfile/live/0017_1.m3u8?key=txiptv
+CCTV17农业农村,http://mu520.wicp.net:50085/hls/17/index.m3u8
 CCTV兵器科技,http://183.185.172.84:8085/rtp/226.0.2.223:9696
 CCTV4K超高清,http://112.17.52.85/PLTV/88888888/224/3221233679/index.m3u8
 CCTV重温经典,http://1.62.64.97/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
