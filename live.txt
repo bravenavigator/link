@@ -305,7 +305,6 @@ CCTV17农业农村,http://91tv.x3322.net:9921/tsfile/live/1004_1.m3u8
 河北卫视,https://epg.pw/stream/ae75031b916d67ed14f35c4dc7bf3e1a374102ce26b27df9bc7e3497e745f426.m3u8
 河北卫视,http://221.2.36.34:8888/newlive/live/hls/46/live.m3u8
 河北卫视,http://221.213.43.82:8888/newlive/live/hls/45/live.m3u8
-陕西卫视,http://220.182.45.198:20088/tsfile/live/0136_1.m3u8?key=txiptv
 陕西卫视,http://113.12.72.152:9901/tsfile/live/1039_1.m3u8?key=txiptv
 陕西卫视,http://221.213.43.82:8888/newlive/live/hls/41/live.m3u8
 山西卫视,https://epg.pw/stream/c70bdd34e4df8d4813d6c785a8967191453215bcde8b72ab4801aabe4ce5fd74.m3u8
