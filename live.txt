@@ -493,6 +493,7 @@ CCTV17农业农村,http://91tv.x3322.net:9921/tsfile/live/1004_1.m3u8
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1612881417-0-0-bc7ddba066481bc805fc1e800654e721
 北京,#genre#
+BRTV新闻,http://qnap.yjnhome.com:4000/udp/239.3.1.159:8000
 BRTV新闻,http://111.199.1.184:8686/rtp/239.3.1.159:8000
 BRTV新闻,https://epg.pw/stream/3e01e04a6bd9beb64ce9550b799c1f1e2806d096cf391f4c31510a1b1da7e5a1.m3u8
 BRTV新闻,https://epg.pw/stream/80307082824983f38685364e741bd9738d2632ac1c9c0b22e7a5817d4fb4d0c4.m3u8
@@ -733,7 +734,6 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 浙江民生,http://125.125.198.35:8888/rtp/233.50.201.136:5140
 浙江新闻,http://125.125.198.35:8888/rtp/233.50.201.137:5140
 浙江少儿,http://125.125.198.35:8888/rtp/233.50.201.138:5140
-杭州综合,http://api.52tb.xyz/info?id=441&token=20230314vyrzsx
 杭州综合,http://www.372583307.top:4022/udp/233.50.201.173:5140
 杭州明珠,http://api.52tb.xyz/info?id=442&token=20230314vyrzsx
 杭州生活,http://api.52tb.xyz/info?id=443&token=20230314vyrzsx
@@ -926,7 +926,6 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 湘潭新闻综合,https://epg.pw/stream/54e319e172192f1aae0ce0cff497b34ad109fa218a9c1c5a846630f1819940b3.m3u8
 邵阳电视台,http://110.52.99.109:9901/tsfile/live/1017_1.m3u8
 湖北,#genre#
-湖北生活,http://api.52tb.xyz/info?id=544&token=20230314vyrzsx
 武汉新闻综合,http://stream.appwuhan.com/1tzb/sd/live.m3u8
 武汉新闻综合,https://epg.pw/stream/277c2b350a2b37b80dd8a4b766d55c7bf7b44e2b0cdfbe38024cf5803f80ace4.m3u8
 武汉经济,http://stream.appwuhan.com/4tzb/sd/live.m3u8
@@ -1428,7 +1427,6 @@ Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Love Nature,https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 Tastemate Travelᴴᴰ,https://tastemadetravel-vizio.amagi.tv/playlist720_p.m3u8
 Travexp,https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
-MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
 Motorvisison TV,https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 斗鱼,#genre#
 斗鱼探险,http://epg.112114.xyz/douyu/3485629
