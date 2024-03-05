@@ -527,6 +527,7 @@ CCTV17农业农村,http://91tv.x3322.net:9921/tsfile/live/1004_1.m3u8
 北京卫视,http://101.65.34.182:9901/tsfile/live/0016_1.m3u8?key=txiptv
 北京卫视,http://115.231.200.110:9901/tsfile/live/0122_1.m3u8?key=txiptv
 北京卫视,http://1.69.0.241:9901/tsfile/live/0122_1.m3u8?key=txiptv
+北京卫视,http://escape.ali-cdn.gitv.tv/gitv_live/G_BEIJING-HQ/G_BEIJING-HQ.m3u8
 东方卫视,http://60.211.167.226:8888/newlive/live/hls/20/live.m3u8
 东方卫视,http://112.17.52.85/PLTV/88888888/224/3221233692/index.m3u8
 东方卫视,http://mu520.wicp.net:50085/hls/28/index.m3u8
@@ -1579,6 +1580,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 湖南电影,http://110.52.99.109:9901/tsfile/live/1023_1.m3u8
 湖南电影,http://110.52.99.109:9901/tsfile/live/1030_1.m3u8
 湖南电影,http://110.52.99.109:9901/tsfile/live/1022_1.m3u8
+湖南经视,http://222.241.145.143:8888/udp/239.76.251.86:9000
 金鹰纪实,http://110.52.99.109:9901/tsfile/live/1063_1.m3u8
 茶频道,http://114.252.126.65:7000/rtp/239.3.1.165:8001
 茶频道,http://222.82.204.248:4000/rtp/238.125.5.101:5140
