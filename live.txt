@@ -938,6 +938,8 @@ CCTV17农业农村,http://91tv.x3322.net:9921/tsfile/live/1004_1.m3u8
 河北卫视,http://1.69.0.241:9901/tsfile/live/0117_1.m3u8?key=txiptv
 陕西卫视,http://113.12.72.152:9901/tsfile/live/1039_1.m3u8?key=txiptv
 陕西卫视,http://221.213.43.82:8888/newlive/live/hls/41/live.m3u8
+陕西卫视,http://123.138.216.44:9902/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视,http://123.52.43.144:8888/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
 山西卫视,https://epg.pw/stream/c70bdd34e4df8d4813d6c785a8967191453215bcde8b72ab4801aabe4ce5fd74.m3u8
 山西卫视,https://epg.pw/stream/f3585857f1474c6f9527ea29a7a99115a86855d9addb67619aa9a033299b48eb.m3u8
 山西卫视,http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
@@ -1211,6 +1213,7 @@ BRTV国际频道,http://111.207.22.10:8888/newlive/live/hls/58/live.m3u8
 法治天地,http://180.158.146.27:9901/tsfile/live/1006_1.m3u8
 五星体育,http://180.158.146.27:9901/tsfile/live/1010_1.m3u8
 五星体育,http://222.71.90.218:8888/newlive/live/hls/56/live.m3u8
+五星体育,http://222.71.189.186:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 崇明电视台,http://180.158.146.27:9901/tsfile/live/1009_1.m3u8
 崇明电视台,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
 嘉定电视台,https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8
@@ -1710,7 +1713,11 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 广西新闻,http://116.9.204.242:9901/tsfile/live/1001_1.m3u8
 广西都市,http://116.9.204.242:9901/tsfile/live/1002_1.m3u8
 广西综艺,http://116.9.204.242:9901/tsfile/live/0125_1.m3u8
+广西综艺,http://171.108.239.31:8181/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+广西综艺,http://171.108.239.8:8181/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 广西影视,http://116.9.204.242:9901/tsfile/live/0124_1.m3u8
+广西影视,http://171.108.239.31:8181/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
+广西影视,http://171.108.239.8:8181/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
 南宁新闻综合,https://hls.nntv.cn/nnlive/XWZH_24.m3u8
 南宁公共,https://hls.nntv.cn/nnlive/GGPD_24.m3u8
 南宁文旅生活,https://hls.nntv.cn/nnlive/WLSH_24.m3u8
@@ -1786,12 +1793,9 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 济宁公共,http://lives.jnnews.tv/video/s10001-JNTV3/index.m3u8
 济宁教育,http://lives.jnnews.tv/video/s10001-JTV2/index.m3u8
 河南,#genre#
-梨园频道,http://42.236.160.189:8888/rtp/225.1.4.99:1128
-梨园频道,http://222.82.204.248:4000/rtp/238.125.4.103:5140
-梨园频道,http://222.82.204.248:4000/rtp/238.125.2.221:5140
+梨园频道,http://123.160.233.118:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 梨园频道,http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8
-武术世界,http://222.82.204.248:4000/rtp/238.125.4.104:5140
-武术世界,http://222.82.204.248:4000/rtp/238.125.2.220:5140
+武术世界,http://113.195.13.183:9901/tsfile/live/1087_1.m3u8?key=txiptv&playlive=0&authid=0
 文物宝库,http://222.82.204.248:4000/rtp/238.125.4.106:5140
 文物宝库,http://222.82.204.248:4000/rtp/238.125.2.219:5140
 郑州新密新闻,http://tvpull.dxhmt.cn:9081/tv/10183-2.m3u8
@@ -1905,6 +1909,9 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 河北影视,http://123.182.208.248:8088/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 河北影视,http://111.225.114.162:808/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 河北少儿,http://222.223.119.21:8888/newlive/live/hls/52/live.m3u8
+河北少儿,http://111.225.114.162:808/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+河北少儿,http://123.182.208.248:8088/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+河北少儿,http://121.19.134.153:808/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 石家庄新闻综合,http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8
 石家庄新闻综合,http://123.182.208.248:8088/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 石家庄新闻综合,https://epg.pw/stream/e7cb9300d09219cdf7e4a4c39ab0c9328f0abe0e2b9272d3a2f5afb1576d9a68.m3u8
@@ -1969,6 +1976,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 陕西,#genre#
 新闻资讯,http://1.82.144.16:4022/rtp/239.111.205.28:5140
 都市青春,http://1.82.144.16:4022/rtp/239.111.205.42:5140
+都市青春,http://113.140.69.126:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
 体育休闲,http://1.82.144.16:4022/rtp/239.111.205.36:5140
 延安综合,http://lives.cloud.yanews.cn/video/s10001-YATV-1/index.m3u8
 延安公共,http://lives.cloud.yanews.cn/video/s10001-YATV-2/index.m3u8
