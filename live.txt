@@ -1148,6 +1148,7 @@ BRTV国际频道,http://111.207.22.10:8888/newlive/live/hls/58/live.m3u8
 凤凰资讯,http://110.72.75.63:808/hls/1/index.m3u8
 凤凰资讯,https://epg.pw/stream/1b9dc2b8c181bd5f66d4cedf01cb070a677cc2b4db537cf9d2e4d388e271a9c9.m3u8
 TVB翡翠台,http://91tv.x3322.net:9921/tsfile/live/1006_1.m3u8
+TVB翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 TVB新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
 TVB新闻,http://bziyunshao.synology.me:8890/bysid/83
 TVB财经,http://live.cooltv.top/tv/tvb.php?id=2
@@ -2083,17 +2084,14 @@ CHC高清电影,http://110.52.99.109:9901/tsfile/live/1033_1.m3u8
 CHC高清电影,http://110.52.99.109:9901/tsfile/live/1035_1.m3u8
 CHC高清电影,http://fxgm.fxjf.work:19901/tsfile/live/1016_1.m3u8
 CHC高清电影,http://58.19.182.187:9901/tsfile/live/1011_1.m3u8?key=txiptv
-
 CHC高清电影,http://1.69.0.241:9901/tsfile/live/1028_1.m3u8?key=txiptv
 CHC动作电影,http://60.211.167.226:8888/newlive/live/hls/56/live.m3u8
 CHC动作电影,http://110.52.99.109:9901/tsfile/live/1034_1.m3u8
 CHC动作电影,http://110.52.99.109:9901/tsfile/live/1036_1.m3u8
 CHC动作电影,http://fxgm.fxjf.work:19901/tsfile/live/1015_1.m3u8
-
 CHC动作电影,http://1.69.0.241:9901/tsfile/live/1029_1.m3u8?key=txiptv
 CHC家庭影院,http://110.52.99.109:9901/tsfile/live/1035_1.m3u8
 CHC家庭影院,http://60.211.167.226:8888/newlive/live/hls/55/live.m3u8
-
 CHC家庭影院,http://27.217.213.217:18888/rtp/239.253.248.152:8000
 CHC家庭影院,http://1.69.0.241:9901/tsfile/live/1030_1.m3u8?key=txiptv
 IHOT,#genre#
@@ -2191,6 +2189,12 @@ Love Nature,https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0e
 Tastemate Travelᴴᴰ,https://tastemadetravel-vizio.amagi.tv/playlist720_p.m3u8
 Travexp,https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
 Motorvisison TV,https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+AXN,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvbzzzfzvzhslcfybzssxszbczcfdvsfcbzbnztyzxn.flv
+CINEMAX ,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvbzzzbvyvblcfybzxdbczcfdvsfcbzbnztcznemzx.flv
+HBO Family,http://ali.hlspull.yximgs.com/live/twlivezzozzxcvyhzszhtezwfhfvzzdvbdzszzzhzlzszvcelevenerfyi.flv
+HBO,http://ali.hlspull.yximgs.com/live/twlivemzzlzpwzdctdfhdvzdzduzlvcbeywezweefshzfhhzszzcxhbo.flv
+HBO Signature,http://ali.hlspull.yximgs.com/live/twlivetzcvszgczyhpvobzxclmvhzogdzbodbszhlelevendhbosignature.flv
+BOO,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbncvshhzszcvndfncvbdzpxyzhzchzszbhzezzzvboo.flv
 斗鱼,#genre#
 斗鱼探险,http://epg.112114.xyz/douyu/3485629
 斗鱼搞笑1,http://epg.112114.xyz/douyu/9220456
