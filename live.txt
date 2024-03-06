@@ -1090,6 +1090,7 @@ CCTV17农业农村,http://91tv.x3322.net:9921/tsfile/live/1004_1.m3u8
 广东少儿,http://php.jdshipin.com:8880/chudian.php?id=gdse
 广东体育,http://91tv.x3322.net:9921/tsfile/live/1014_1.m3u8
 广东体育,http://58.248.84.148:8888/newlive/live/hls/48/live.m3u8
+广东体育,http://219.137.29.178:4433/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://php.jdshipin.com:8880/chudian.php?id=gdty
 广东移动,http://php.jdshipin.com:8880/chudian.php?id=gdyd
 嘉佳卡通,http://220.182.45.198:20088/tsfile/live/1005_1.m3u8?key=txiptv
@@ -1188,6 +1189,7 @@ BRTV国际频道,http://111.207.22.10:8888/newlive/live/hls/58/live.m3u8
 第一财经,http://58.32.25.252:8000/rtp/239.45.3.211:5140
 第一财经,http://222.82.204.248:4000/rtp/238.125.1.59:5140
 第一财经,http://222.71.90.218:8888/newlive/live/hls/57/live.m3u8
+第一财经,http://222.71.189.186:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 点掌财经,https://epg.pw/stream/a438b7c61aa6f89a563fdfc6728289c739620c234c00a7f2cb2f0b1355a926ed.m3u8
 点掌财经,https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
 生活时尚,http://27.217.213.217:18888/rtp/239.253.248.99:8000
