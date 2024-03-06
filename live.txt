@@ -33,9 +33,7 @@ CCTV1综合,http://101.19.60.64:9901/tsfile/live/0001_1.m3u8?key=txiptv
 CCTV1综合,http://223.151.49.74:59901/tsfile/live/0001_1.m3u8?key=txiptv
 CCTV1综合,http://58.32.25.252:8000/rtp/239.45.3.145:5140
 CCTV1综合,http://113.12.72.152:9901/tsfile/live/1000_1.m3u8?key=txiptv
-CCTV1综合,http://27.10.14.195:8002/rtp/225.0.4.74:7980
 CCTV1综合,http://27.217.213.217:18888/rtp/239.253.248.77:8000
-CCTV1综合,http://116.55.173.203:4000/rtp/239.200.201.135:8880
 CCTV1综合,http://119.112.179.73:4000/rtp/232.0.0.27:8808
 CCTV1综合,http://114.252.126.65:7000/rtp/239.3.1.129:8008
 CCTV1综合,http://218.89.240.144:59901/tsfile/live/0001_1.m3u8?key=txiptv
@@ -61,7 +59,6 @@ CCTV2财经,http://36.49.51.153:9901/tsfile/live/0002_1.m3u8?key=txiptv
 CCTV2财经,http://101.19.60.64:9901/tsfile/live/0002_1.m3u8?key=txiptv
 CCTV2财经,http://218.89.240.144:59901/tsfile/live/0002_1.m3u8?key=txiptv
 CCTV2财经,http://222.217.124.40:8088/rtp/239.81.0.115:4056
-CCTV2财经,http://27.10.14.195:8002/rtp/225.0.4.132:7980
 CCTV2财经,http://27.217.213.217:18888/rtp/239.253.248.234:8000
 CCTV2财经,http://58.19.182.187:9901/tsfile/live/0002_1.m3u8?key=txiptv
 CCTV2财经,http://115.231.200.110:9901/tsfile/live/0002_1.m3u8?key=txiptv
@@ -84,7 +81,6 @@ CCTV3综艺,http://101.65.34.182:9901/tsfile/live/0003_1.m3u8?key=txiptv
 CCTV3综艺,http://36.248.137.69:60033/tsfile/live/0003_1.m3u8?key=txiptv
 CCTV3综艺,http://113.12.72.152:9901/tsfile/live/1002_1.m3u8?key=txiptv
 CCTV3综艺,http://114.252.126.65:7000/rtp/239.3.1.172:8001
-CCTV3综艺,http://27.10.14.195:8002/rtp/225.0.4.142:7980
 CCTV3综艺,http://218.89.240.144:59901/tsfile/live/0003_1.m3u8?key=txiptv
 CCTV3综艺,http://1.69.0.241:9901/tsfile/live/0003_1.m3u8?key=txiptv
 CCTV3综艺,http://101.74.28.70:9901/tsfile/live/0003_1.m3u8?key=txiptv
@@ -108,7 +104,6 @@ CCTV4中文国际,http://180.158.146.27:9901/tsfile/live/0004_1.m3u8?key=txiptv
 CCTV4中文国际,http://222.185.245.194:9901/tsfile/live/0004_1.m3u8?key=txiptv
 CCTV4中文国际,http://218.89.240.144:59901/tsfile/live/1001_1.m3u8?key=txiptv
 CCTV4中文国际,http://27.217.213.217:18888/rtp/239.253.248.111:8000
-CCTV4中文国际,http://27.10.14.195:8002/rtp/225.0.4.176:7980
 CCTV4中文国际,http://113.12.72.152:9901/tsfile/live/1003_1.m3u8?key=txiptv
 CCTV4中文国际,http://1.82.70.21:8008/rtp/239.111.205.84:5140
 CCTV4中文国际,http://1.82.70.21:8008/rtp/239.111.205.83:5140
@@ -138,7 +133,6 @@ CCTV5体育,http://180.158.146.27:9901/tsfile/live/0005_1.m3u8?key=txiptv
 CCTV5体育,http://222.185.245.194:9901/tsfile/live/0005_1.m3u8?key=txiptv
 CCTV5体育,http://58.32.25.252:8000/rtp/239.45.1.69:5140
 CCTV5体育,http://218.89.240.144:59901/tsfile/live/1009_1.m3u8?key=txiptv
-CCTV5体育,http://27.10.14.195:8002/rtp/225.0.4.143:7980
 CCTV5体育,http://113.12.72.152:9901/tsfile/live/1004_1.m3u8?key=txiptv
 CCTV5体育,http://114.252.126.65:7000/rtp/239.3.1.173:8001
 CCTV5体育,http://36.248.137.69:60033/tsfile/live/0005_1.m3u8?key=txiptv
@@ -156,7 +150,6 @@ CCTV5+体育赛事,http://1.69.112.94:9901/tsfile/live/0018_1.m3u8?key=txiptv
 CCTV5+体育赛事,http://223.151.49.74:59901/tsfile/live/0018_1.m3u8?key=txiptv
 CCTV5+体育赛事,http://220.182.45.198:20088/tsfile/live/0016_1.m3u8?key=txiptv
 CCTV5+体育赛事,http://218.89.240.144:59901/tsfile/live/0016_1.m3u8?key=txiptv
-CCTV5+体育赛事,http://27.10.14.195:8002/rtp/225.0.4.73:7980
 CCTV5+体育赛事,http://113.12.72.152:9901/tsfile/live/1005_1.m3u8?key=txiptv
 CCTV5+体育赛事,http://101.74.28.70:9901/tsfile/live/0016_1.m3u8?key=txiptv
 CCTV5+体育赛事,http://1.69.0.241:9901/tsfile/live/0018_1.m3u8?key=txiptv
@@ -177,7 +170,6 @@ CCTV6电影,http://180.158.146.27:9901/tsfile/live/0006_1.m3u8?key=txiptv
 CCTV6电影,http://222.185.245.194:9901/tsfile/live/0006_1.m3u8?key=txiptv
 CCTV6电影,http://58.32.25.252:8000/rtp/239.45.1.70:5140
 CCTV6电影,http://218.89.240.144:59901/tsfile/live/0006_1.m3u8?key=txiptv
-CCTV6电影,http://27.10.14.195:8002/rtp/225.0.4.144:7980
 CCTV6电影,http://113.12.72.152:9901/tsfile/live/1006_1.m3u8?key=txiptv
 CCTV6电影,http://101.65.34.182:9901/tsfile/live/0006_1.m3u8?key=txiptv
 CCTV6电影,http://220.180.229.250:9901/tsfile/live/0006_1.m3u8?key=txiptv
@@ -200,7 +192,6 @@ CCTV7国防军事,http://222.185.245.194:9901/tsfile/live/0007_1.m3u8?key=txiptv
 CCTV7国防军事,http://58.32.25.252:8000/rtp/239.45.3.56:5140
 CCTV7国防军事,http://218.89.240.144:59901/tsfile/live/0007_1.m3u8?key=txiptv
 CCTV7国防军事,http://27.217.213.217:18888/rtp/239.253.248.235:8000
-CCTV7国防军事,http://27.10.14.195:8002/rtp/225.0.4.127:7980
 CCTV7国防军事,http://113.12.72.152:9901/tsfile/live/1007_1.m3u8?key=txiptv
 CCTV7国防军事,http://114.252.126.65:7000/rtp/239.3.1.61:8104
 CCTV7国防军事,http://36.248.137.69:60033/tsfile/live/0007_1.m3u8?key=txiptv
@@ -224,7 +215,6 @@ CCTV8电视剧,http://180.158.146.27:9901/tsfile/live/0008_1.m3u8?key=txiptv
 CCTV8电视剧,http://222.185.245.194:9901/tsfile/live/0008_1.m3u8?key=txiptv
 CCTV8电视剧,http://58.32.25.252:8000/rtp/239.45.1.71:5140
 CCTV8电视剧,http://218.89.240.144:59901/tsfile/live/0008_1.m3u8?key=txiptv
-CCTV8电视剧,http://27.10.14.195:8002/rtp/225.0.4.137:7980
 CCTV8电视剧,http://113.12.72.152:9901/tsfile/live/1008_1.m3u8?key=txiptv
 CCTV8电视剧,http://114.252.126.65:7000/rtp/239.3.1.175:8001
 CCTV8电视剧,http://101.65.34.182:9901/tsfile/live/0008_1.m3u8?key=txiptv
@@ -254,7 +244,6 @@ CCTV9纪录,http://180.158.146.27:9901/tsfile/live/0011_1.m3u8?key=txiptv
 CCTV9纪录,http://222.185.245.194:9901/tsfile/live/0009_1.m3u8?key=txiptv
 CCTV9纪录,http://218.89.240.144:59901/tsfile/live/0009_1.m3u8?key=txiptv
 CCTV9纪录,http://27.217.213.217:18888/rtp/239.253.248.79:8000
-CCTV9纪录,http://27.10.14.195:8002/rtp/225.0.4.131:7980
 CCTV9纪录,http://113.12.72.152:9901/tsfile/live/1009_1.m3u8?key=txiptv
 CCTV9纪录,http://114.252.126.65:7000/rtp/239.3.1.62:8112
 CCTV9纪录,http://220.180.229.250:9901/tsfile/live/0009_1.m3u8?key=txiptv
@@ -281,7 +270,6 @@ CCTV10科教,http://222.185.245.194:9901/tsfile/live/0010_1.m3u8?key=txiptv
 CCTV10科教,http://58.32.25.252:8000/rtp/239.45.3.8:5140
 CCTV10科教,http://218.89.240.144:59901/tsfile/live/0010_1.m3u8?key=txiptv
 CCTV10科教,http://27.217.213.217:18888/rtp/239.253.248.236:8000
-CCTV10科教,http://27.10.14.195:8002/rtp/225.0.4.130:7980
 CCTV10科教,http://113.12.72.152:9901/tsfile/live/1010_1.m3u8?key=txiptv
 CCTV10科教,http://1.82.70.21:8008/rtp/239.112.205.86:5140
 CCTV10科教,http://114.252.126.65:7000/rtp/239.3.1.63:8116
@@ -301,7 +289,6 @@ CCTV11戏曲,http://220.182.45.198:20088/tsfile/live/0011_1.m3u8?key=txiptv
 CCTV11戏曲,http://113.57.21.233:8666/tsfile/live/0011_1.m3u8?key=txiptv
 CCTV11戏曲,http://222.217.124.40:8088/rtp/239.81.0.229:4056
 CCTV11戏曲,http://218.89.240.144:59901/tsfile/live/0011_1.m3u8?key=txiptv
-CCTV11戏曲,http://27.10.14.195:8002/rtp/225.0.4.218:7980
 CCTV11戏曲,http://1.82.70.21:8008/rtp/239.112.205.213:5140
 CCTV11戏曲,http://113.12.72.152:9901/tsfile/live/1011_1.m3u8?key=txiptv
 CCTV11戏曲,http://114.252.126.65:7000/rtp/239.3.1.152:8120
@@ -326,9 +313,7 @@ CCTV12社会与法,http://222.185.245.194:9901/tsfile/live/0012_1.m3u8?key=txipt
 CCTV12社会与法,http://58.32.25.252:8000/rtp/239.45.3.10:5140
 CCTV12社会与法,http://218.89.240.144:59901/tsfile/live/0012_1.m3u8?key=txiptv
 CCTV12社会与法,http://27.217.213.217:18888/rtp/239.253.248.237:8000
-CCTV12社会与法,http://27.10.14.195:8002/rtp/225.0.4.129:7980
 CCTV12社会与法,http://113.12.72.152:9901/tsfile/live/1012_1.m3u8?key=txiptv
-CCTV12社会与法,http://116.55.173.203:4000/rtp/239.200.200.108:8124
 CCTV12社会与法,http://114.252.126.65:7000/rtp/239.3.1.64:8124
 CCTV12社会与法,http://36.248.137.69:60033/tsfile/live/0012_1.m3u8?key=txiptv
 CCTV12社会与法,http://101.65.34.182:9901/tsfile/live/0012_1.m3u8?key=txiptv
@@ -352,7 +337,6 @@ CCTV14少儿,http://222.217.124.40:8088/rtp/239.81.0.120:4056
 CCTV14少儿,http://222.185.245.194:9901/tsfile/live/0014_1.m3u8?key=txiptv
 CCTV14少儿,http://218.89.240.144:59901/tsfile/live/0014_1.m3u8?key=txiptv
 CCTV14少儿,http://27.217.213.217:18888/rtp/239.253.248.238:8000
-CCTV14少儿,http://27.10.14.195:8002/rtp/225.0.4.128:7980
 CCTV14少儿,http://113.12.72.152:9901/tsfile/live/1014_1.m3u8?key=txiptv
 CCTV14少儿,http://1.82.70.21:8008/rtp/239.112.205.91:5140
 CCTV14少儿,http://114.252.126.65:7000/rtp/239.3.1.65:8132
@@ -371,7 +355,6 @@ CCTV15音乐,http://222.217.124.40:8088/rtp/239.81.0.230:4056
 CCTV15音乐,http://123.170.147.80:5000/rtp/239.21.2.4:5002
 CCTV15音乐,http://218.89.240.144:59901/tsfile/live/0015_1.m3u8?key=txiptv
 CCTV15音乐,http://27.217.213.217:18888/rtp/239.253.248.16:8000
-CCTV15音乐,http://27.10.14.195:8002/rtp/225.0.4.220:7980
 CCTV15音乐,http://1.82.70.21:8008/rtp/239.112.205.214:5140
 CCTV15音乐,http://113.12.72.152:9901/tsfile/live/1015_1.m3u8?key=txiptv
 CCTV15音乐,http://114.252.126.65:7000/rtp/239.3.1.153:8136
@@ -383,23 +366,17 @@ CCTV17农业农村,http://223.151.49.74:59901/tsfile/live/0017_1.m3u8?key=txiptv
 CCTV17农业农村,http://113.57.21.233:8666/tsfile/live/0019_1.m3u8?key=txiptv
 CCTV17农业农村,http://218.89.240.144:59901/tsfile/live/0019_1.m3u8?key=txiptv
 CCTV17农业农村,http://27.217.213.217:18888/rtp/239.253.248.168:8000
-CCTV17农业农村,http://27.10.14.195:8002/rtp/225.0.4.179:7980
 CCTV17农业农村,http://114.252.126.65:7000/rtp/239.3.1.151:8144
 CCTV17农业农村,http://101.74.28.70:9901/tsfile/live/1009_1.m3u8?key=txiptv
 CCTV17农业农村,http://1.69.0.241:9901/tsfile/live/0017_1.m3u8?key=txiptv
 CCTV17农业农村,http://mu520.wicp.net:50085/hls/17/index.m3u8
-CCTV兵器科技,http://116.55.173.203:4000/rtp/239.200.200.91:8036
 CCTV兵器科技,http://183.185.172.84:8085/rtp/226.0.2.223:9696
-CCTV高网频道,http://116.55.173.203:4000/rtp/239.200.200.89:8024
-CCTV怀旧剧场,http://116.55.173.203:4000/rtp/239.200.200.85:8032
 CCTV4K超高清,http://112.17.52.85/PLTV/88888888/224/3221233679/index.m3u8
 CCTV重温经典,http://1.62.64.97/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 中国教育1,http://27.217.213.217:18888/rtp/239.253.248.110:8000
-中国教育1,http://116.55.173.203:4000/rtp/239.200.201.49:8756
 中国教育1,http://114.252.126.65:7000/rtp/239.3.1.57:8152
 中国教育1,http://1.69.0.241:9901/tsfile/live/1000_1.m3u8?key=txiptv
 中国教育4,http://27.217.213.217:18888/rtp/239.253.248.108:8000
-中国教育4,http://116.55.173.203:4000/rtp/239.200.201.122:8784
 中国教育4,http://101.74.28.70:9901/tsfile/live/1010_1.m3u8?key=txiptv
 CGTN,http://1.82.70.21:8008/rtp/239.111.205.85:5140
 CGTN,http://1.82.70.21:8008/rtp/239.111.205.34:5140
