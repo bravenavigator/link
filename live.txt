@@ -889,6 +889,9 @@ Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482
 辽宁卫视,http://114.252.126.65:7000/rtp/239.3.1.210:8056
 辽宁卫视,http://36.248.137.69:60033/tsfile/live/0121_1.m3u8?key=txiptv
 辽宁卫视,http://1.69.0.241:9901/tsfile/live/0121_1.m3u8?key=txiptv
+辽宁卫视,http://222.173.134.150:8888/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://61.141.202.118:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://218.76.32.193:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江卫视,http://60.211.167.226:8888/newlive/live/hls/44/live.m3u8
 黑龙江卫视,http://112.17.52.85/PLTV/88888888/224/3221233694/index.m3u8
 黑龙江卫视,http://mu520.wicp.net:50085/hls/39/index.m3u8
@@ -908,6 +911,15 @@ Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482
 黑龙江卫视,http://36.248.137.69:60033/tsfile/live/0143_1.m3u8?key=txiptv
 黑龙江卫视,http://101.65.34.182:9901/tsfile/live/1001_1.m3u8?key=txiptv
 黑龙江卫视,http://1.69.0.241:9901/tsfile/live/0143_1.m3u8?key=txiptv
+黑龙江卫视,http://58.210.60.226:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://61.136.172.236:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://219.145.93.74:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://222.185.245.194:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://222.92.7.170:3333/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://111.225.114.162:808/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://111.74.155.231:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=0&authid=0
+黑龙江卫视,http://112.235.200.153:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://115.231.200.110:9901/tsfile/live/0109_1.m3u8?key=txiptv
 吉林卫视,http://60.211.167.226:8888/newlive/live/hls/35/live.m3u8
 吉林卫视,http://222.223.119.21:8888/newlive/live/hls/35/live.m3u8
 吉林卫视,http://221.213.43.82:8888/newlive/live/hls/35/live.m3u8
@@ -939,8 +951,10 @@ Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=63cf437e1591689484
 青海卫视,http://221.2.36.34:8888/newlive/live/hls/39/live.m3u8
 青海卫视,http://221.213.43.82:8888/newlive/live/hls/39/live.m3u8
+青海卫视,http://222.173.134.150:8888/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+青海卫视,http://222.240.82.92:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+青海卫视,http://123.160.233.118:85/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 内蒙古卫视,http://221.213.43.82:8888/newlive/live/hls/49/live.m3u8
-内蒙古卫视,http://115.231.200.110:9901/tsfile/live/0109_1.m3u8?key=txiptv
 新疆卫视,http://106.124.91.222:9901/tsfile/live/21212_1.m3u8
 新疆卫视,https://epg.pw/stream/788702ed504aeda3322f8db5973d9fc056ede56e02560b365a5cc69efc07874a.m3u8
 新疆卫视,http://221.213.43.82:8888/newlive/live/hls/38/live.m3u8
@@ -964,6 +978,8 @@ Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482
 安多卫视,https://epg.pw/stream/0dbf2527893daab2f9cad63020dde0c2cc00c138857fdd4add555a8a8e246187.m3u8
 安多卫视,https://epg.pw/stream/290a71e47606fa713caa0f79a0812e332e24e5ec6d51610020d3031c34fb2857.m3u8
 安多卫视,https://epg.pw/stream/64f8d4678019673ff347d3636f9aaa9cb5dcde274672e6d75a25aca77d453a12.m3u8
+旅游卫视,http://218.76.32.193:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+旅游卫视,http://113.57.103.216:9000/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://91tv.x3322.net:9921/tsfile/live/0107_1.m3u8
 广西卫视,http://91tv.x3322.net:9921/tsfile/live/0113_1.m3u8
 吉林卫视,http://91tv.x3322.net:9921/tsfile/live/0116_1.m3u8
