@@ -407,6 +407,17 @@ CCTV17农业农村,http://101.74.28.70:9901/tsfile/live/1009_1.m3u8?key=txiptv
 CCTV17农业农村,http://1.69.0.241:9901/tsfile/live/0017_1.m3u8?key=txiptv
 CCTV17农业农村,http://mu520.wicp.net:50085/hls/17/index.m3u8
 CCTV兵器科技,http://183.185.172.84:8085/rtp/226.0.2.223:9696
+CCTV兵器科技,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=bqkj
+CCTV世界地理,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=sjdl
+CCTV第一剧场,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=dyjc
+CCTV怀旧剧场,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=hjjc
+CCTV怀旧剧场,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=hjjc
+CCTV风云剧场,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=fyjc
+CCTV风云音乐,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=fyyy
+CCTV风云足球,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=fyzq
+CCTV高尔夫网球,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=gefwq
+CCTV央视台球,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=ystq
+CCTV电视指南,http://hrare100-1.beijing-02.dayunet.com/tv/ysp.php?id=dszn
 CCTV4K超高清,http://112.17.52.85/PLTV/88888888/224/3221233679/index.m3u8
 CCTV重温经典,http://1.62.64.234/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 中国教育1,http://27.217.213.217:18888/rtp/239.253.248.110:8000
