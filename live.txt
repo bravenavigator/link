@@ -2114,16 +2114,14 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 黑龙江文体,https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
 哈尔滨新闻综合,https://masterpull.hljtv.com/live/sPvVy8Ju.m3u8
 吉林,#genre#
-新闻综合,http://majian.ixiaobai.net:58888/rtp/239.37.0.250:5540
 长影频道,http://majian.ixiaobai.net:58888/rtp/239.37.0.125:5540
 吉林教育,http://majian.ixiaobai.net:58888/rtp/239.37.0.126:5540
-吉林篮球,http://majian.ixiaobai.net:58888/rtp/239.37.0.108:5540
 吉林篮球,http://majian.ixiaobai.net:58888/rtp/239.37.0.211:5540
 吉林篮球,http://majian.ixiaobai.net:58888/rtp/239.37.0.213:5540
 吉林篮球,http://majian.ixiaobai.net:58888/rtp/239.37.0.214:5540
 crt综合,http://majian.ixiaobai.net:58888/rtp/239.37.0.096:5540
-crt娱乐,http://majian.ixiaobai.net:58888/rtp/239.37.0.097:5540
-crt市民,http://majian.ixiaobai.net:58888/rtp/239.37.0.098:5540
+crt文旅体育,http://majian.ixiaobai.net:58888/rtp/239.37.0.097:5540
+crt市民生活,http://majian.ixiaobai.net:58888/rtp/239.37.0.098:5540
 crt经济,http://majian.ixiaobai.net:58888/rtp/239.37.0.099:5540
 crt汽车,http://majian.ixiaobai.net:58888/rtp/239.37.0.100:5540
 延边-1,http://live.ybtvyun.com/video/s10016-af95004b6d1a/index.m3u8
@@ -2131,6 +2129,7 @@ crt汽车,http://majian.ixiaobai.net:58888/rtp/239.37.0.100:5540
 延边-2,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 延边-2,https://epg.pw/stream/b29a59ae604e03f418fb64afe7793f3bd6e00c9905ebd638d4a0b58716c74023.m3u8
 延边-2,https://epg.pw/stream/ae4d5ebb6f83c370816cf09f28f4008a06d10e3dd0181cbfacfebfd52fee3c7d.m3u8
+辽源新闻综合,http://majian.ixiaobai.net:58888/rtp/239.37.0.250:5540
 甘肃,#genre#
 吴忠综合,http://live.kanwz.net/zhpd/sd/live.m3u8?zningxd
 吴忠公共,http://live.kanwz.net/ggpd/sd/live.m3u8?zningxd
