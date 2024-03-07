@@ -445,7 +445,7 @@ CCTV12社会与法,http://91tv.x3322.net:9921/tsfile/live/0012_1.m3u8
 CCTV13新闻,http://91tv.x3322.net:9921/tsfile/live/0013_1.m3u8
 CCTV14少儿,http://91tv.x3322.net:9921/tsfile/live/0014_1.m3u8
 CCTV17农业农村,http://91tv.x3322.net:9921/tsfile/live/1004_1.m3u8
-中国新闻,#genre#
+外文,#genre#
 CGTN,http://1.82.70.21:8008/rtp/239.111.205.32:5140
 CGTN,http://222.223.119.21:8888/newlive/live/hls/18/live.m3u8
 CGTN,http://60.211.167.226:8888/newlive/live/hls/18/live.m3u8
