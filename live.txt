@@ -407,6 +407,18 @@ CCTV17农业农村,http://101.74.28.70:9901/tsfile/live/1009_1.m3u8?key=txiptv
 CCTV17农业农村,http://1.69.0.241:9901/tsfile/live/0017_1.m3u8?key=txiptv
 CCTV17农业农村,http://mu520.wicp.net:50085/hls/17/index.m3u8
 CCTV兵器科技,http://183.185.172.84:8085/rtp/226.0.2.223:9696
+CCTV兵器科技,http://majian.ixiaobai.net:58888/rtp/239.37.0.084:5540
+CCTV世界地理,http://majian.ixiaobai.net:58888/rtp/239.37.0.079:5540
+CCTV文化精品,http://majian.ixiaobai.net:58888/rtp/239.37.0.083:5540
+CCTV风云音乐,http://majian.ixiaobai.net:58888/rtp/239.37.0.081:5540
+CCTV风云剧场,http://majian.ixiaobai.net:58888/rtp/239.37.0.114:5540
+CCTV怀旧剧场,http://majian.ixiaobai.net:58888/rtp/239.37.0.082:5540
+CCTV第一剧场,http://majian.ixiaobai.net:58888/rtp/239.37.0.078:5540
+CCTV卫生健康,http://majian.ixiaobai.net:58888/rtp/239.37.0.229:5540
+CCTV电视指南,http://majian.ixiaobai.net:58888/rtp/239.37.0.115:5540
+CCTV风云足球,http://majian.ixiaobai.net:58888/rtp/239.37.0.080:5540
+CCTV高尔夫网球,http://majian.ixiaobai.net:58888/rtp/239.37.0.230:5540
+CCTV台球,http://majian.ixiaobai.net:58888/rtp/239.37.0.163:5540
 CCTV4K超高清,http://112.17.52.85/PLTV/88888888/224/3221233679/index.m3u8
 CCTV重温经典,http://1.62.64.234/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 中国教育1,http://27.217.213.217:18888/rtp/239.253.248.110:8000
@@ -1684,7 +1696,6 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 十堰安康公共,http://mmitv.top/test/tianma.php?id=akgg
 十堰安康教育,http://mmitv.top/test/tianma.php?id=akjy
 荆门新闻综合,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
-荆门新闻综合,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8?zhubd
 荆门新闻综合,https://epg.pw/stream/fec6f84163995a26addc2f96b85410ac26cb8faec86be555742636476b5a136e.m3u8
 荆门新闻综合,https://epg.pw/stream/93151160c381a034f6cf7e560a6fa981282baea3f54a177ee39ec6c5222f5f01.m3u8
 荆门新闻综合,https://epg.pw/stream/9530f08f03324e997bf7d72bf233cd0a8d70e5511d3495d41ced5bc9b36d8316.m3u8
@@ -1741,7 +1752,6 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 漳州一套,https://epg.pw/stream/2441d456f7c193e046f5e46289045c82d018dd2a0904d7aa8dc50524fab6e78b.m3u8
 漳州漳浦综合,http://220.161.87.62:8090/hls/0/index.m3u8
 漳州漳浦综合,https://epg.pw/stream/56eb02707eb276bcf6a207859256e48ffb2e9e03fab764bcce746f4bf6b5a8bb.m3u8
-漳州漳浦综合,http://220.161.87.62:8090/hls/0/index.m3u8?zfud
 广西,#genre#
 广西新闻,http://116.9.204.242:9901/tsfile/live/1001_1.m3u8
 广西都市,http://116.9.204.242:9901/tsfile/live/1002_1.m3u8
@@ -2104,6 +2114,11 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 黑龙江文体,https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
 哈尔滨新闻综合,https://masterpull.hljtv.com/live/sPvVy8Ju.m3u8
 吉林,#genre#
+吉林篮球,http://majian.ixiaobai.net:58888/rtp/239.37.0.108:5540
+吉林教育,http://majian.ixiaobai.net:58888/rtp/239.37.0.126:5540
+吉林篮球,http://majian.ixiaobai.net:58888/rtp/239.37.0.211:5540
+吉林篮球,http://majian.ixiaobai.net:58888/rtp/239.37.0.213:5540
+吉林篮球,http://majian.ixiaobai.net:58888/rtp/239.37.0.214:5540
 延边-1,http://live.ybtvyun.com/video/s10016-af95004b6d1a/index.m3u8
 延边-2,http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8
 延边-2,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
