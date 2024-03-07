@@ -962,9 +962,6 @@ Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482
 吉林卫视,http://116.55.173.203:4000/rtp/239.200.201.127:8792
 吉林卫视,http://114.252.126.65:7000/rtp/239.3.1.240:8172
 吉林卫视,https://epg.pw/stream/5f1a5c423a759d2a2804cdcc60d82044f01971be640cf06359689f4199eff780.m3u8
-甘肃卫视,http://222.217.124.40:8088/rtp/239.81.0.207:4056
-甘肃卫视,http://180.158.146.27:9901/tsfile/live/0113_1.m3u8?key=txiptv
-甘肃卫视,http://123.170.147.80:5000/rtp/239.21.2.22:5002
 甘肃卫视,http://1.82.70.21:8008/rtp/239.111.205.88:5140
 甘肃卫视,http://113.12.72.152:9901/tsfile/live/1034_1.m3u8?key=txiptv
 甘肃卫视,https://hls.gstv.com.cn/49048r/6e1sy2.m3u8
@@ -990,6 +987,7 @@ Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482
 新疆卫视,http://106.124.91.222:9901/tsfile/live/21212_1.m3u8
 新疆卫视,https://epg.pw/stream/788702ed504aeda3322f8db5973d9fc056ede56e02560b365a5cc69efc07874a.m3u8
 新疆卫视,http://221.213.43.82:8888/newlive/live/hls/38/live.m3u8
+兵团卫视,https://epg.pw/stream/d84efa5eb598b5211d873bf4c345d5e25800edcf2b6cea4cc78e5c909b15b625.m3u8
 兵团卫视,https://test5.btzx.com.cn/live/2023bt.stream/chunklist_w901976294.m3u8
 西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws
 西藏卫视,http://113.12.72.152:9901/tsfile/live/1035_1.m3u8?key=txiptv
