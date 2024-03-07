@@ -995,7 +995,6 @@ Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482
 广东新闻,http://183.238.248.83:9000/udp/239.21.0.93:3712
 广东新闻,http://php.jdshipin.com:8880/chudian.php?id=gdxw
 广东珠江,http://58.248.84.148:8888/newlive/live/hls/45/live.m3u8
-广东珠江,http://171.108.239.8:8181/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 广东珠江,http://183.238.248.83:9000/udp/239.20.0.64:3144
 广东珠江,http://php.jdshipin.com:8880/chudian.php?id=gdzj
 经济科教,http://58.248.84.148:8888/newlive/live/hls/49/live.m3u8
