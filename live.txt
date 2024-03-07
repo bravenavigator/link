@@ -244,7 +244,7 @@ CCTV8电视剧,http://115.231.200.110:9901/tsfile/live/0008_1.m3u8?key=txiptv
 CCTV8电视剧,http://101.74.28.70:9901/tsfile/live/0008_1.m3u8?key=txiptv
 CCTV8电视剧,http://1.69.0.241:9901/tsfile/live/0008_1.m3u8?key=txiptv
 CCTV8电视剧,http://58.210.60.226:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10科教,http://112.235.202.127:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0CCTV9纪录,http://60.211.167.226:8888/newlive/live/hls/11/live.m3u8
+CCTV9纪录,http://60.211.167.226:8888/newlive/live/hls/11/live.m3u8
 CCTV9纪录,http://112.17.52.85/PLTV/88888888/224/3221233706/index.m3u8
 CCTV9纪录,http://221.213.70.18:9901/tsfile/live/0009_1.m3u8?=TG@YYDSyouzai=key=txiptv&playlive=1&authid=0=TG@YYDSyouzai
 CCTV9纪录,http://222.223.119.21:8888/newlive/live/hls/11/live.m3u8
@@ -306,10 +306,11 @@ CCTV10科教,http://1.69.0.241:9901/tsfile/live/0010_1.m3u8?key=txiptv
 CCTV10科教,http://123.160.233.118:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV10科教,http://111.225.114.162:808/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV10科教,http://112.235.202.159:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10科教,http://112.235.202.127:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV10科教,http://123.138.216.44:9902/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV10科教,http://111.74.155.231:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV11戏曲,http://60.211.167.226:8888/newlive/live/hls/13/live.m3u8
-CCTV11戏曲,http://112.17.52.85/PLTV/88888888/224/3221233733/index.m3u8CCTV10科教
+CCTV11戏曲,http://112.17.52.85/PLTV/88888888/224/3221233733/index.m3u8
 CCTV11戏曲,http://222.223.119.21:8888/newlive/live/hls/13/live.m3u8
 CCTV11戏曲,http://mu520.wicp.net:50085/hls/11/index.m3u8
 CCTV11戏曲,https://epg.pw/stream/748505633a520c17012bc2a44c6986e85f7314f56f5e6c0bec23efa70fdcceb7.m3u8
@@ -410,7 +411,7 @@ CCTV17农业农村,http://1.69.0.241:9901/tsfile/live/0017_1.m3u8?key=txiptv
 CCTV17农业农村,http://mu520.wicp.net:50085/hls/17/index.m3u8
 CCTV兵器科技,http://183.185.172.84:8085/rtp/226.0.2.223:9696
 CCTV4K超高清,http://112.17.52.85/PLTV/88888888/224/3221233679/index.m3u8
-CCTV重温经典,http://1.62.64.97/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
+CCTV重温经典,http://1.62.64.234/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 中国教育1,http://27.217.213.217:18888/rtp/239.253.248.110:8000
 中国教育1,http://114.252.126.65:7000/rtp/239.3.1.57:8152
 中国教育1,http://1.69.0.241:9901/tsfile/live/1000_1.m3u8?key=txiptv
