@@ -411,8 +411,6 @@ CCTV17农业农村,http://mu520.wicp.net:50085/hls/17/index.m3u8
 CCTV兵器科技,http://183.185.172.84:8085/rtp/226.0.2.223:9696
 CCTV4K超高清,http://112.17.52.85/PLTV/88888888/224/3221233679/index.m3u8
 CCTV重温经典,http://1.62.64.97/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
-中国新闻,http://171.108.239.31:8181/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-中国新闻,http://171.108.239.8:8181/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 中国教育1,http://27.217.213.217:18888/rtp/239.253.248.110:8000
 中国教育1,http://114.252.126.65:7000/rtp/239.3.1.57:8152
 中国教育1,http://1.69.0.241:9901/tsfile/live/1000_1.m3u8?key=txiptv
@@ -420,21 +418,6 @@ CCTV重温经典,http://1.62.64.97/0b926d37065dc656266be75dd9d25565.v.smtcdns.ne
 中国教育4,http://27.217.213.217:18888/rtp/239.253.248.108:8000
 中国教育4,http://101.74.28.70:9901/tsfile/live/1010_1.m3u8?key=txiptv
 中国教育4,http://111.225.114.162:808/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
-CGTN,http://1.82.70.21:8008/rtp/239.111.205.85:5140
-CGTN,http://1.82.70.21:8008/rtp/239.111.205.34:5140
-CGTN,http://1.82.70.21:8008/rtp/239.111.205.33:5140
-CGTN,http://1.82.70.21:8008/rtp/239.111.205.32:5140
-CGTN,http://114.252.126.65:7000/rtp/239.3.1.220:4220
-CGTN,http://114.252.126.65:7000/rtp/239.3.1.218:4220
-CGTN,http://114.252.126.65:7000/rtp/239.3.1.217:4220
-CGTN,http://114.252.126.65:7000/rtp/239.3.1.216:4220
-CGTN,http://114.252.126.65:7000/rtp/239.3.1.215:4220
-CGTN,http://123.183.24.27:6666/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CGTN俄语,http://1.82.70.21:8008/rtp/239.111.205.87:5140
-CGTN阿语,http://1.82.70.21:8008/rtp/239.111.205.86:5140
-CGTN,http://222.223.119.21:8888/newlive/live/hls/18/live.m3u8
-CGTN,http://60.211.167.226:8888/newlive/live/hls/18/live.m3u8
-Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
 CCTV1综合,http://113.110.72.132:808/hls/113/index.m3u8
 CCTV2财经,http://113.110.72.132:808/hls/114/index.m3u8
 CCTV3综艺,http://113.110.72.132:808/hls/115/index.m3u8
@@ -461,6 +444,24 @@ CCTV12社会与法,http://91tv.x3322.net:9921/tsfile/live/0012_1.m3u8
 CCTV13新闻,http://91tv.x3322.net:9921/tsfile/live/0013_1.m3u8
 CCTV14少儿,http://91tv.x3322.net:9921/tsfile/live/0014_1.m3u8
 CCTV17农业农村,http://91tv.x3322.net:9921/tsfile/live/1004_1.m3u8
+中国新闻,#genre#
+CGTN,http://1.82.70.21:8008/rtp/239.111.205.32:5140
+CGTN,http://222.223.119.21:8888/newlive/live/hls/18/live.m3u8
+CGTN,http://60.211.167.226:8888/newlive/live/hls/18/live.m3u8
+CGTN,http://114.252.126.65:7000/rtp/239.3.1.215:4220
+CGTN,http://123.183.24.27:6666/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CGTN,http://171.108.239.31:8181/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+CGTN,http://171.108.239.8:8181/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+CGTN纪录,http://1.82.70.21:8008/rtp/239.111.205.85:5140
+CGTN法语,http://1.82.70.21:8008/rtp/239.111.205.34:5140
+CGTN法语,http://114.252.126.65:7000/rtp/239.3.1.218:4220
+CGTN俄语,http://114.252.126.65:7000/rtp/239.3.1.220:4220
+CGTN俄语,http://1.82.70.21:8008/rtp/239.111.205.87:5140
+CGTN西班牙语,http://1.82.70.21:8008/rtp/239.111.205.33:5140
+CGTN西班牙语,http://114.252.126.65:7000/rtp/239.3.1.217:4220
+CGTN阿语,http://1.82.70.21:8008/rtp/239.111.205.86:5140
+CGTN纪录,http://114.252.126.65:7000/rtp/239.3.1.216:4220
+Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
 卫视,#genre#
 北京卫视,http://60.211.167.226:8888/newlive/live/hls/19/live.m3u8
 北京卫视,http://222.223.119.21:8888/newlive/live/hls/19/live.m3u8
@@ -491,6 +492,7 @@ CCTV17农业农村,http://91tv.x3322.net:9921/tsfile/live/1004_1.m3u8
 北京卫视,http://115.231.200.110:9901/tsfile/live/0122_1.m3u8?key=txiptv
 北京卫视,http://1.69.0.241:9901/tsfile/live/0122_1.m3u8?key=txiptv
 北京卫视,http://escape.ali-cdn.gitv.tv/gitv_live/G_BEIJING-HQ/G_BEIJING-HQ.m3u8
+北京卫视,http://113.57.103.216:9000/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://60.211.167.226:8888/newlive/live/hls/20/live.m3u8
 东方卫视,http://112.17.52.85/PLTV/88888888/224/3221233692/index.m3u8
 东方卫视,http://mu520.wicp.net:50085/hls/28/index.m3u8
@@ -537,6 +539,7 @@ CCTV17农业农村,http://91tv.x3322.net:9921/tsfile/live/1004_1.m3u8
 天津卫视,http://36.248.137.69:60033/tsfile/live/0135_1.m3u8?key=txiptv
 天津卫视,http://101.65.34.182:9901/tsfile/live/0135_1.m3u8?key=txiptv
 天津卫视,http://1.69.0.241:9901/tsfile/live/0135_1.m3u8?key=txiptv
+天津卫视,http://113.57.103.216:9000/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://60.211.167.226:8888/newlive/live/hls/31/live.m3u8
 重庆卫视,http://112.17.52.85/PLTV/88888888/224/3221233677/index.m3u8
 重庆卫视,http://mu520.wicp.net:50085/hls/43/index.m3u8
@@ -1546,8 +1549,6 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 张家界桑植综合,https://liveplay-srs.voc.com.cn/hls/tv/185_938292.m3u8
 株洲攸县综合,https://liveplay-srs.voc.com.cn/hls/tv/158_423c80.m3u8
 湖北,#genre#
-湖北经视,http://113.57.103.216:9000/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北影视,http://113.57.103.216:9000/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 武汉新闻综合,http://stream.appwuhan.com/1tzb/sd/live.m3u8
 武汉新闻综合,https://epg.pw/stream/277c2b350a2b37b80dd8a4b766d55c7bf7b44e2b0cdfbe38024cf5803f80ace4.m3u8
 武汉经济,http://stream.appwuhan.com/4tzb/sd/live.m3u8
@@ -2109,6 +2110,13 @@ IHOT未知1,http://112.17.52.85/PLTV/88888888/224/3221233638/index.m3u8
 IHOT未知2,http://112.17.52.85/PLTV/88888888/224/3221233652/index.m3u8
 IHOT未知3,http://112.17.52.85/PLTV/88888888/224/3221233674/index.m3u8
 IHOT未知4,http://112.17.52.85/PLTV/88888888/224/3221233688/index.m3u8
+HBO,#genre#
+HBO,http://ali.hlspull.yximgs.com/live/twlivemzzlzpwzdctdfhdvzdzduzlvcbeywezweefshzfhhzszzcxhbo.flv
+HBO Family,http://ali.hlspull.yximgs.com/live/twlivezzozzxcvyhzszhtezwfhfvzzdvbdzszzzhzlzszvcelevenerfyi.flv
+HBO Signature,http://ali.hlspull.yximgs.com/live/twlivetzcvszgczyhpvobzxclmvhzogdzbodbszhlelevendhbosignature.flv
+CINEMAX,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvbzzzbvyvblcfybzxdbczcfdvsfcbzbnztcznemzx.flv
+AXN,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvbzzzfzvzhslcfybzssxszbczcfdvsfcbzbnztyzxn.flv
+BOO,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbncvshhzszcvndfncvbdzpxyzhzchzszbhzezzzvboo.flv
 海外,#genre#
 欧洲华文1台,http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
 欧洲华文2台,http://vvlive.eztv.vip/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
@@ -2190,12 +2198,6 @@ Love Nature,https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0e
 Tastemate Travelᴴᴰ,https://tastemadetravel-vizio.amagi.tv/playlist720_p.m3u8
 Travexp,https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
 Motorvisison TV,https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
-AXN,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvbzzzfzvzhslcfybzssxszbczcfdvsfcbzbnztyzxn.flv
-CINEMAX ,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvbzzzbvyvblcfybzxdbczcfdvsfcbzbnztcznemzx.flv
-HBO Family,http://ali.hlspull.yximgs.com/live/twlivezzozzxcvyhzszhtezwfhfvzzdvbdzszzzhzlzszvcelevenerfyi.flv
-HBO,http://ali.hlspull.yximgs.com/live/twlivemzzlzpwzdctdfhdvzdzduzlvcbeywezweefshzfhhzszzcxhbo.flv
-HBO Signature,http://ali.hlspull.yximgs.com/live/twlivetzcvszgczyhpvobzxclmvhzogdzbodbszhlelevendhbosignature.flv
-BOO,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbncvshhzszcvndfncvbdzpxyzhzchzszbhzezzzvboo.flv
 斗鱼,#genre#
 斗鱼探险,http://epg.112114.xyz/douyu/3485629
 斗鱼搞笑1,http://epg.112114.xyz/douyu/9220456
