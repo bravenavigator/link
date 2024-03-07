@@ -445,7 +445,7 @@ CCTV12社会与法,http://91tv.x3322.net:9921/tsfile/live/0012_1.m3u8
 CCTV13新闻,http://91tv.x3322.net:9921/tsfile/live/0013_1.m3u8
 CCTV14少儿,http://91tv.x3322.net:9921/tsfile/live/0014_1.m3u8
 CCTV17农业农村,http://91tv.x3322.net:9921/tsfile/live/1004_1.m3u8
-外文,#genre#
+外语,#genre#
 CGTN,http://1.82.70.21:8008/rtp/239.111.205.32:5140
 CGTN,http://222.223.119.21:8888/newlive/live/hls/18/live.m3u8
 CGTN,http://60.211.167.226:8888/newlive/live/hls/18/live.m3u8
@@ -861,6 +861,7 @@ Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482
 河北卫视,http://101.74.28.70:9901/tsfile/live/0117_1.m3u8?key=txiptv
 河北卫视,http://1.69.0.241:9901/tsfile/live/0117_1.m3u8?key=txiptv
 陕西卫视,http://113.12.72.152:9901/tsfile/live/1039_1.m3u8?key=txiptv
+陕西卫视,http://1.82.70.21:8009/rtp/239.111.205.35:5140
 陕西卫视,http://221.213.43.82:8888/newlive/live/hls/41/live.m3u8
 陕西卫视,http://123.138.216.44:9902/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
 陕西卫视,http://123.52.43.144:8888/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -925,6 +926,7 @@ Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482
 甘肃卫视,http://113.12.72.152:9901/tsfile/live/1034_1.m3u8?key=txiptv
 甘肃卫视,https://hls.gstv.com.cn/49048r/6e1sy2.m3u8
 甘肃卫视,http://221.213.43.82:8888/newlive/live/hls/36/live.m3u8
+甘肃卫视,http://111.225.114.162:808/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
 宁夏卫视,http://113.12.72.152:9901/tsfile/live/1038_1.m3u8?key=txiptv
 宁夏卫视,https://epg.pw/stream/5ba9406f5db6d6511f0b15b6fb7b728b6d82abe3a53a42ac1176ef67023d274f.m3u8
 宁夏卫视,http://221.213.43.82:8888/newlive/live/hls/40/live.m3u8
@@ -1514,6 +1516,12 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 金鹰卡通,http://123.182.208.248:8088/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://123.52.43.144:8888/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://218.76.32.193:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰纪实,http://123.182.208.248:8088/tsfile/live/faacts/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰纪实,http://111.225.114.162:808/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰纪实,http://121.19.134.153:808/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰纪实,http://171.108.239.31:8181/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰纪实,http://171.108.239.8:8181/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰纪实,http://218.76.32.193:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 茶频道,http://114.252.126.65:7000/rtp/239.3.1.165:8001
 快乐垂钓,http://114.252.126.65:7000/rtp/239.3.1.164:8001
 长沙新闻综合,rtmp://35848.lssplay.aodianyun.com/guangdianyun_35848/tv_channel_346?auth_key=1936692784-0-0-9042421539d8424068f7e575f090dbca
@@ -2096,6 +2104,18 @@ CHC家庭影院,http://110.52.99.109:9901/tsfile/live/1035_1.m3u8
 CHC家庭影院,http://60.211.167.226:8888/newlive/live/hls/55/live.m3u8
 CHC家庭影院,http://27.217.213.217:18888/rtp/239.253.248.152:8000
 CHC家庭影院,http://1.69.0.241:9901/tsfile/live/1030_1.m3u8?key=txiptv
+CHC动作电影,http://112.235.200.195:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC动作电影,http://112.235.202.127:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC动作电影,http://112.235.200.61:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC动作电影,http://112.235.202.159:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC家庭影院,http://112.235.200.195:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC家庭影院,http://112.235.202.127:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC家庭影院,http://112.235.200.61:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC家庭影院,http://112.235.202.159:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC高清电影,http://112.235.200.195:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC高清电影,http://112.235.202.127:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC高清电影,http://112.235.200.61:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC高清电影,http://112.235.202.159:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 IHOT,#genre#
 IHOT爱悬疑,http://112.17.52.85/PLTV/88888888/224/3221233650/index.m3u8
 IHOT爱科幻,http://112.17.52.85/PLTV/88888888/224/3221233656/index.m3u8
