@@ -452,7 +452,6 @@ CGTN,http://114.252.126.65:7000/rtp/239.3.1.215:4220
 CGTN,http://123.183.24.27:6666/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 CGTN,http://171.108.239.31:8181/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 CGTN,http://171.108.239.8:8181/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-CGTN纪录,http://1.82.70.21:8008/rtp/239.111.205.85:5140
 CGTN法语,http://1.82.70.21:8008/rtp/239.111.205.34:5140
 CGTN法语,http://114.252.126.65:7000/rtp/239.3.1.218:4220
 CGTN俄语,http://114.252.126.65:7000/rtp/239.3.1.220:4220
@@ -460,6 +459,7 @@ CGTN俄语,http://1.82.70.21:8008/rtp/239.111.205.87:5140
 CGTN西班牙语,http://1.82.70.21:8008/rtp/239.111.205.33:5140
 CGTN西班牙语,http://114.252.126.65:7000/rtp/239.3.1.217:4220
 CGTN阿语,http://1.82.70.21:8008/rtp/239.111.205.86:5140
+CGTN纪录,http://1.82.70.21:8008/rtp/239.111.205.85:5140
 CGTN纪录,http://114.252.126.65:7000/rtp/239.3.1.216:4220
 Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
 卫视,#genre#
