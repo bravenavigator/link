@@ -530,7 +530,6 @@ CCTV10科教,http://aiyun.work.gd/jd.php?id=CCTV10科教
 CCTV12社会与法,http://aiyun.work.gd/jd.php?id=CCTV12社会与法
 CCTV13新闻,http://aiyun.work.gd/jd.php?id=CCTV13新闻
 CCTV14少儿,http://aiyun.work.gd/jd.php?id=CCTV14少儿
-CCTV16奥林匹克,http://aiyun.work.gd/jd.php?id=CCTV16奥林匹克
 CCTV17农业农村,http://aiyun.work.gd/jd.php?id=CCTV17农业农村
 外语,#genre#
 CGTN,http://1.82.70.21:8008/rtp/239.111.205.32:5140
