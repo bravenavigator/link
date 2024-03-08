@@ -1278,6 +1278,7 @@ BRTV体育休闲,http://111.207.22.10:8888/newlive/live/hls/59/live.m3u8
 BRTV纪实科教,http://91tv.x3322.net:9921/tsfile/live/1002_1.m3u8
 BRTV纪实科教,https://epg.pw/stream/544cc09b12f4a7e88dcf6d03ac6f42925ce17749273bdc3f324897c1593df622.m3u8
 BRTV纪实科教,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
+BRTV纪实科教,http://159.75.85.63:6798
 BRTV卡酷少儿,http://60.211.167.226:8888/newlive/live/hls/53/live.m3u8
 BRTV卡酷少儿,http://123.112.210.212:4022/rtp/239.3.1.189:8000
 BRTV卡酷少儿,http://27.217.213.217:18888/rtp/239.253.248.61:8000
@@ -1314,6 +1315,12 @@ BRTV国际频道,http://111.207.22.10:8888/newlive/live/hls/58/live.m3u8
 崇明电视台,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
 嘉定电视台,https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8
 天津,#genre#
+天津卫视,http://acc.tohsaka.cn:9999/rtp/225.1.1.111:5002
+天津体育,http://acc.tohsaka.cn:9999/rtp/225.1.1.122:5002
+天津都市,http://acc.tohsaka.cn:9999/rtp/225.1.1.128:5002
+天津新闻,http://acc.tohsaka.cn:9999/rtp/225.1.1.130:5002
+天津文艺,http://acc.tohsaka.cn:9999/rtp/225.1.1.131:5002
+天津影视,http://acc.tohsaka.cn:9999/rtp/225.1.1.149:5002
 滨海新闻,http://traffic.jbh.tjbh.com/live/bhtv1/playlist.m3u8
 滨海综艺,http://traffic.jbh.tjbh.com/live/bhtv2/playlist.m3u8
 滨海影视,http://traffic.jbh.tjbh.com/live/bhtv3/playlist.m3u8
@@ -1338,8 +1345,10 @@ BRTV国际频道,http://111.207.22.10:8888/newlive/live/hls/58/live.m3u8
 凤凰资讯,https://epg.pw/stream/1b9dc2b8c181bd5f66d4cedf01cb070a677cc2b4db537cf9d2e4d388e271a9c9.m3u8
 TVB翡翠台,http://91tv.x3322.net:9921/tsfile/live/1006_1.m3u8
 TVB翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+TVB新闻,https://i.125011.xyz/tvb.php?id=0&hq
 TVB新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
 TVB新闻,http://bziyunshao.synology.me:8890/bysid/83
+TVB财经,https://i.125011.xyz/tvb.php?id=2&hq
 TVB财经,http://live.cooltv.top/tv/tvb.php?id=2
 TVB财经,http://r.jdshipin.com/jUx8K
 TVB财经,http://bziyunshao.synology.me:8890/bysid/85
@@ -1773,12 +1782,15 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 海口3,http://153.0.158.159:16080/live/tv2403.m3u8
 江西,#genre#
 江西新闻,http://111.74.155.231:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=0&authid=0
+江西都市,http://111.74.155.231:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0
 江西经济生活,http://111.74.155.231:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0
 江西公共农业,http://111.74.155.231:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=0&authid=0
 江西教育,http://111.74.155.231:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=0&authid=0
+南昌新闻,rtmp://tv.drs.ncntv.com.cn/channellive/nczhpd
 南昌新闻,http://live.cooltv.top/tv/nctv.php?id=1
 南昌资讯,http://live.cooltv.top/tv/nctv.php?id=3
 南昌文旅,http://live.cooltv.top/tv/nctv.php?id=2
+南昌科教生活,rtmp://tv.drs.ncntv.com.cn/channellive/nckjpd
 赣州新闻综合,http://wb.jxgztv.com/live/gztv1.flv
 赣州新闻综合,http://wb.jxgztv.com/live/gztv1.m3u8
 赣州公共,http://wb.jxgztv.com/live/gztv2.flv
@@ -2333,6 +2345,7 @@ BOO,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbncvshhzszcvndfncvbdzpxyzh
 欧洲华文1台,http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
 欧洲华文2台,http://vvlive.eztv.vip/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
 欧洲华文6台,http://vvlive.eztv.vip/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-4d45d97f017e545dd368719f8dd48ffe
+金砖中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 美国Fox News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 美国Fox News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 美国Fox News,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
@@ -2342,6 +2355,7 @@ BOO,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbncvshhzszcvndfncvbdzpxyzh
 美国ABC News,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 美国ABC News,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
 美国CBS News,https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
+美国NBC News,http://41.205.93.154/NBC/index.m3u8
 美国Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 美国Bloomberg HT,https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
 美国Bloomberg HT,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
@@ -2353,6 +2367,7 @@ BOO,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbncvshhzszcvndfncvbdzpxyzh
 英国Reuters TV,https://reuters-reutersnow-1-us.plex.wurl.tv/c0c0829237382f291cc46a0368586aa7.m3u8
 卡塔尔AL Jazeera,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 卡塔尔AL Jazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+卡塔尔AL Jazeera,https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
 卡塔尔AL Jazeera,https://epg.pw/stream/b7ed4a30861d17378eae7b5b2ba31e8d12f8d6679a4e66cd8425dda5f6eff50a.m3u8
 法国Euronews,https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
 法国Euronews,http://livetv.ktv.zone/73/play.m3u8
