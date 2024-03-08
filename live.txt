@@ -1438,7 +1438,9 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 中视综合,rtmp://f13h.mine.nu/sat/tv091
 中视经典综艺,http://198.16.100.90:8278/zhongshi_twn/playlist.m3u8?tid=14379667&ct=17988&tsum=de63d02f44741580b5070077d1949841
 中视经典综艺,http://198.16.100.90:8278/zhongshi_twn/playlist.m3u8?tid=mffe9aaf8765f&ct=18335&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
+东森财经,https://ctrl.laotv.la/live/DongsenMovie/index.m3u8
 东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+东森电影,https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8
 大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 华语电视,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
 番薯电视,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8?blog.ntnas.top
