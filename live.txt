@@ -2,6 +2,7 @@
 CCTV13新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=357606504
 CCTV13新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=362790504
 CCTV13新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=1635962688
+CCTV13新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=357606504-0-showto
 CCTV13新闻,http://112.17.52.85/PLTV/88888888/224/3221233712/index.m3u8
 CCTV13新闻,http://222.223.119.21:8888/newlive/live/hls/15/live.m3u8
 CCTV13新闻,http://60.211.167.226:8888/newlive/live/hls/15/live.m3u8
