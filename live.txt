@@ -1842,7 +1842,6 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 赣州教育,http://wb.jxgztv.com/live/gztv3.flv
 宜春万载综合,http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
 福建,#genre#
-东南卫视,http://117.27.190.42:9901/tsfile/live/23281_1.m3u8?key=txiptv
 福建综合,http://117.27.190.42:9901/tsfile/live/23284_1.m3u8?key=txiptv
 福建新闻,http://117.27.190.42:9901/tsfile/live/23286_1.m3u8?key=txiptv
 福建公共,http://117.27.190.42:9901/tsfile/live/23285_1.m3u8?key=txiptv
@@ -2397,8 +2396,8 @@ BOO,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbncvshhzszcvndfncvbdzpxyzh
 美国CNN News,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
 美国CNN News,https://rakuten-cnninternational-1-de.lg.wurl.tv/playlist.m3u8
 美国CNN News,https://epg.pw/stream/bf9c7383dcea9ef705a2779742a6a1b2aae2ff582e0103bd2a7ecfba56f12c5d.m3u8
+美国CBN News,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 美国ABC News,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
-美国CBS News,https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
 美国NBC News,http://41.205.93.154/NBC/index.m3u8
 美国Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 美国Bloomberg HT,https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
@@ -2428,9 +2427,10 @@ BOO,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbncvshhzszcvndfncvbdzpxyzh
 日本NHKWorld News,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 日本NHKWorld News,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 日本NTV News,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+俄罗斯Russia Today EN,http://69.64.57.208:8080/russiatoday/playlist.m3u8
+俄罗斯Russia Today EN,https://rt-glb.rttv.com/live/rtnews/playlist_2500Kb.m3u8
+俄罗斯Russia Today FR,http://69.64.57.208:8080/rtfrance/playlist.m3u8
 俄罗斯Известия,https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
-俄罗斯Russia Today,https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-俄罗斯Russia Today,https://rt-rtd.rttv.com/live/rtnews/playlist.m3u8
 俄罗斯中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 韩国ArirangTV,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 韩国ArirangTV,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
