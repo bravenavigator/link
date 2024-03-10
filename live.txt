@@ -1968,7 +1968,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 河南法制,http://123.160.233.118:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 河南法制,http://123.52.43.144:8888/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 梨园频道,http://123.160.233.118:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-梨园频道,http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8
+梨园频道,http://183.188.20.105:6001/rtp/226.0.2.115:8832
 郑州新密新闻,http://tvpull.dxhmt.cn:9081/tv/10183-2.m3u8
 郑州新密新闻,http://live.dxhmt.cn:9081/tv/10183-2.m3u8
 郑州登封综合,http://live.dxhmt.cn:9081/tv/10185-1.m3u8
