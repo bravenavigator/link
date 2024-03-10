@@ -1302,6 +1302,7 @@ BRTV卡酷少儿,http://218.76.32.193:9901/tsfile/live/1008_1.m3u8?key=txiptv&pl
 BRTV国际频道,http://123.112.210.212:4022/rtp/239.3.1.235:8000
 BRTV国际频道,http://111.207.22.10:8888/newlive/live/hls/58/live.m3u8
 淘剧场,https://epg.pw/stream/048d8fe525fd37fed2c701d3297a3a03e5612d2fc444f2df0e0c42fde251a6e7.ctv
+晴彩广场舞,http://majian.ixiaobai.net:58888/rtp/239.37.0.224:5540
 房山综合,http://live.funhillrm.com/2/sd/live.m3u8
 上海,#genre#
 上海新闻,http://222.71.90.218:8888/newlive/live/hls/55/live.m3u8
@@ -1311,6 +1312,8 @@ BRTV国际频道,http://111.207.22.10:8888/newlive/live/hls/58/live.m3u8
 点掌财经,https://epg.pw/stream/a438b7c61aa6f89a563fdfc6728289c739620c234c00a7f2cb2f0b1355a926ed.m3u8
 点掌财经,https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
 生活时尚,http://27.217.213.217:18888/rtp/239.253.248.99:8000
+乐游频道,http://majian.ixiaobai.net:58888/rtp/239.37.0.236:5540
+法制天地,http://majian.ixiaobai.net:58888/rtp/239.37.0.238:5540
 欢笑剧场,http://1.82.70.21:8008/rtp/239.112.205.236:5140
 哈哈炫动,http://116.231.138.209:9901/tsfile/live/1005_1.m3u8?key=txiptv
 五星体育,http://222.71.90.218:8888/newlive/live/hls/56/live.m3u8
@@ -2332,6 +2335,9 @@ CHC高清电影,http://112.235.200.195:9901/tsfile/live/1012_1.m3u8?key=txiptv&p
 CHC高清电影,http://112.235.202.127:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC高清电影,http://112.235.200.61:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC高清电影,http://112.235.202.159:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC动作电影,http://majian.ixiaobai.net:58888/rtp/239.37.0.186:5540
+CHC高清电影,http://majian.ixiaobai.net:58888/rtp/239.37.0.187:5540
+CHC家庭影院,http://majian.ixiaobai.net:58888/rtp/239.37.0.188:5540
 IHOT,#genre#
 HBO,#genre#
 HBO,http://ali.hlspull.yximgs.com/live/twlivemzzlzpwzdctdfhdvzdzduzlvcbeywezweefshzfhhzszzcxhbo.flv
