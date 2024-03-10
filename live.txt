@@ -1312,8 +1312,10 @@ BRTV国际频道,http://111.207.22.10:8888/newlive/live/hls/58/live.m3u8
 点掌财经,https://epg.pw/stream/a438b7c61aa6f89a563fdfc6728289c739620c234c00a7f2cb2f0b1355a926ed.m3u8
 点掌财经,https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
 生活时尚,http://27.217.213.217:18888/rtp/239.253.248.99:8000
+生活时尚,http://majian.ixiaobai.net:58888/rtp/239.37.0.240:5540
 乐游频道,http://majian.ixiaobai.net:58888/rtp/239.37.0.236:5540
 法制天地,http://majian.ixiaobai.net:58888/rtp/239.37.0.238:5540
+都市剧场,http://majian.ixiaobai.net:58888/rtp/239.37.0.241:5540
 欢笑剧场,http://1.82.70.21:8008/rtp/239.112.205.236:5140
 哈哈炫动,http://116.231.138.209:9901/tsfile/live/1005_1.m3u8?key=txiptv
 五星体育,http://222.71.90.218:8888/newlive/live/hls/56/live.m3u8
