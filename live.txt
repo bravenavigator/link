@@ -1295,9 +1295,8 @@ BRTV体育休闲,http://123.112.210.212:4022/rtp/239.3.1.243:8000
 BRTV体育休闲,http://111.207.22.10:8888/newlive/live/hls/59/live.m3u8
 BRTV纪实科教,http://91tv.x3322.net:9921/tsfile/live/1002_1.m3u8
 BRTV纪实科教,http://qnap.yjnhome.com:4000/udp/239.3.1.115:8000
-BRTV纪实科教,https://epg.pw/stream/544cc09b12f4a7e88dcf6d03ac6f42925ce17749273bdc3f324897c1593df622.m3u8
-BRTV纪实科教,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
-BRTV纪实科教,http://159.75.85.63:6798
+BRTV纪实科教8K,https://epg.pw/stream/544cc09b12f4a7e88dcf6d03ac6f42925ce17749273bdc3f324897c1593df622.m3u8
+BRTV纪实科教8K,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 BRTV卡酷少儿,http://60.211.167.226:8888/newlive/live/hls/53/live.m3u8
 BRTV卡酷少儿,http://123.112.210.212:4022/rtp/239.3.1.189:8000
 BRTV卡酷少儿,http://27.217.213.217:18888/rtp/239.253.248.61:8000
@@ -1317,7 +1316,7 @@ BRTV国际频道,http://111.207.22.10:8888/newlive/live/hls/58/live.m3u8
 淘精彩,http://qnap.yjnhome.com:4000/udp/239.3.1.178:8001
 淘萌宠,http://qnap.yjnhome.com:4000/udp/239.3.1.102:8001
 淘Baby,http://qnap.yjnhome.com:4000/udp/239.3.1.238:8001
-晴彩广场舞,http://majian.ixiaobai.net:58888/rtp/239.37.0.224:5540
+晴彩广场舞,http://majian.ixiaobai.net:58888/rtp/239.37.0.223:5540
 房山综合,http://live.funhillrm.com/2/sd/live.m3u8
 上海,#genre#
 上海新闻,http://222.71.90.218:8888/newlive/live/hls/55/live.m3u8
