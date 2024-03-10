@@ -1493,7 +1493,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 徐州铜山二套,http://stream.tstvxmt.com/ts3/sd/live.m3u8
 连云港新闻综合,http://live.lyg1.com/zhpd/sd/live.m3u8
 连云港东海综合,http://donghai-tv-hls.cm.jstv.com/donghai-tv/donghaixinwensp.m3u8
-泰州二套,http://stream1.mytaizhou.net/xwzhnew/playlist.m3u8
+泰州二套,http://stream1.mytaizhou.net/jjshnew/playlist.m3u8
 泰州三套,http://stream1.mytaizhou.net/ysylnew/playlist.m3u8
 泰州靖江新闻综合,http://visit.jjbctv.com:1935/live/xwzhpc/playlist.m3u8
 泰州靖江新闻综合,https://epg.pw/stream/1e6105d2650da2828108e5aa3a285d18fd2284c3529f17fa56b715329b6301df.m3u8
