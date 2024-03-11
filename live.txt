@@ -525,12 +525,14 @@ CGTN,http://123.183.24.27:6666/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&aut
 CGTN,http://171.108.239.31:8181/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 CGTN,http://171.108.239.8:8181/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 CGTN,http://121.19.134.153:808/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+CGTN法语,https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
 CGTN法语,http://1.82.70.21:8008/rtp/239.111.205.34:5140
 CGTN法语,http://114.252.126.65:7000/rtp/239.3.1.218:4220
 CGTN俄语,http://114.252.126.65:7000/rtp/239.3.1.220:4220
 CGTN俄语,http://1.82.70.21:8008/rtp/239.111.205.87:5140
 CGTN西班牙语,http://1.82.70.21:8008/rtp/239.111.205.33:5140
 CGTN西班牙语,http://114.252.126.65:7000/rtp/239.3.1.217:4220
+CGTN阿拉伯语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
 CGTN阿拉伯语,http://1.82.70.21:8008/rtp/239.111.205.86:5140
 CGTN外语纪录,http://1.82.70.21:8008/rtp/239.111.205.85:5140
 CGTN外语纪录,http://114.252.126.65:7000/rtp/239.3.1.216:4220
@@ -1274,6 +1276,10 @@ CGTN外语纪录,http://123.6.102.32:11789/51.php?id=2022574703.m3u8
 东源台,http://php.jdshipin.com:8880/chudian.php?id=dytv
 乐昌电视台,http://php.jdshipin.com:8880/chudian.php?id=lctv
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8
+广东健康,http://glive.grtn.cn/live/health.m3u8
+广东生活,http://glive.grtn.cn/live/life.m3u8
+广东纪录,http://glive.grtn.cn/live/jilupian.m3u8
+广东文化,http://glive.grtn.cn/live/wenhua_test0203.m3u8
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1612881417-0-0-bc7ddba066481bc805fc1e800654e721
 北京,#genre#
@@ -1317,6 +1323,7 @@ BRTV国际频道,http://111.207.22.10:8888/newlive/live/hls/58/live.m3u8
 淘萌宠,http://qnap.yjnhome.com:4000/udp/239.3.1.102:8001
 淘Baby,http://qnap.yjnhome.com:4000/udp/239.3.1.238:8001
 晴彩广场舞,http://majian.ixiaobai.net:58888/rtp/239.37.0.223:5540
+石景山综合,http://live.sjsrm.com/bjsjs/sd/live.m3u8?zbeid
 房山综合,http://live.funhillrm.com/2/sd/live.m3u8
 上海,#genre#
 新闻综合,http://php.jdshipin.com:8880/bst.php?id=shxwzh
@@ -1367,12 +1374,14 @@ BRTV国际频道,http://111.207.22.10:8888/newlive/live/hls/58/live.m3u8
 西青新闻综合,http://221.238.209.44:81/hls/live1.m3u8
 宝坻一套,https://hb2stream1.baoxinwen.com/d6387fc7a8836e78/6385068498053235715_1597997122.m3u8?auth_key=1893456000-0-0-93ea48b07ddd03f4904079b7659e81a4
 重庆,#genre#
+重庆新闻,http://183.65.9.200:8888/udp/235.254.196.199:7980
 重庆新闻,https://sjlivecdn9.cbg.cn/202906282314/app_2/_definst_/ls_3.stream/chunklist.m3u8
+重庆娱乐,http://183.65.9.200:8888/udp/235.254.198.187:7980
 重庆汽摩,http://218.89.240.144:59901/tsfile/live/1010_1.m3u8?key=txiptv
 潼南综合,http://183.230.184.51:65500/tntv1.m3u8
-大足综合,http://218.201.85.71:3170/m3u8?zzhongqd
 璧山综合,http://222.179.42.129:8181/hls1.m3u8
 大足综合,http://218.201.85.71:3170/m3u8
+万源综合,http://live.wanyuannews.com/wytv/hd/live.m3u8
 港澳,#genre#
 凤凰中文,http://117.27.190.42:9901/tsfile/live/23280_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰中文,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1640,6 +1649,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?zanhd
 安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv
 合肥民生,http://api2.52tb.xyz/info?id=588&token=20230405tndmhg
+合肥肥西综合,http://112.30.194.221:20080/live/7210e3a27cc64ac4a3f7aba2e2b683d5/hls.m3u8
 池州新闻综合,http://wjsp.chiznews.com:8037/live/xwzh.m3u8
 池州新闻综合,http://cm.wshls.homecdn.com/live/4abdd.m3u8
 池州文教生活,http://wjsp.chiznews.com:8037/live/wjsh.m3u8
