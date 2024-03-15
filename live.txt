@@ -394,6 +394,7 @@ CCTV17农业农村,http://114.252.126.65:7000/rtp/239.3.1.151:8144
 CCTV17农业农村,http://101.74.28.70:9901/tsfile/live/1009_1.m3u8?key=txiptv
 CCTV17农业农村,http://1.69.0.241:9901/tsfile/live/0017_1.m3u8?key=txiptv
 CCTV17农业农村,http://mu520.wicp.net:50085/hls/17/index.m3u8
+CCTV4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8 
 CCTV兵器科技,http://183.185.172.84:8085/rtp/226.0.2.223:9696
 CCTV兵器科技,http://majian.ixiaobai.net:58888/rtp/239.37.0.084:5540
 CCTV兵器科技,http://123.6.102.32:11789/51.php?id=2012513403.m3u8
@@ -1030,6 +1031,7 @@ CGTN外语纪录,http://123.6.102.32:11789/51.php?id=2022574703.m3u8
 新疆卫视,http://111.59.63.32:9901/tsfile/live/1039_1.m3u8
 新疆卫视,http://221.213.43.82:8888/newlive/live/hls/38/live.m3u8
 新疆卫视,https://epg.pw/stream/788702ed504aeda3322f8db5973d9fc056ede56e02560b365a5cc69efc07874a.m3u8
+兵团卫视,http://123.6.102.32:11789/702.php?id=2022606703.m3u8
 兵团卫视,https://epg.pw/stream/d84efa5eb598b5211d873bf4c345d5e25800edcf2b6cea4cc78e5c909b15b625.m3u8
 兵团卫视,https://test5.btzx.com.cn/live/2023bt.stream/chunklist_w901976294.m3u8
 西藏卫视,http://113.12.72.152:9901/tsfile/live/1035_1.m3u8?key=txiptv
@@ -1828,6 +1830,9 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 张家界桑植综合,https://liveplay-srs.voc.com.cn/hls/tv/185_938292.m3u8
 株洲攸县综合,https://liveplay-srs.voc.com.cn/hls/tv/158_423c80.m3u8
 湖北,#genre#
+湖北经视,http://58.19.38.233:8888/newlive/live/hls/44/live.m3u8
+湖北生活,http://58.19.38.233:8888/newlive/live/hls/45/live.m3u8
+湖北影视,http://58.19.38.233:8888/newlive/live/hls/46/live.m3u8
 武汉新闻综合,http://stream.appwuhan.com/1tzb/sd/live.m3u8
 武汉新闻综合,https://epg.pw/stream/277c2b350a2b37b80dd8a4b766d55c7bf7b44e2b0cdfbe38024cf5803f80ace4.m3u8
 武汉经济,http://stream.appwuhan.com/4tzb/sd/live.m3u8
