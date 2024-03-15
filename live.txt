@@ -1385,12 +1385,12 @@ BRTV国际频道,http://111.207.22.10:8888/newlive/live/hls/58/live.m3u8
 万源综合,http://live.wanyuannews.com/wytv/hd/live.m3u8
 港澳,#genre#
 凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,http://117.27.190.42:9901/tsfile/live/23280_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰中文,https://epg.pw/stream/15ed3bc8cdc099b666c85c694e7ef54dee3593c1ee660d69b69b4ef335bd389b.m3u8
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯,http://livetv.skycf.eu.org/live.m3u8?c=2
 凤凰资讯,http://117.27.190.42:9901/tsfile/live/23279_1.m3u8?key=txiptv&playlive=1&authid=0
