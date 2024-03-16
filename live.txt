@@ -1,8 +1,4 @@
 央视,#genre#
-CCTV13新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=357606504
-CCTV13新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=362790504
-CCTV13新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=1635962688
-CCTV13新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=357606504-0-showto
 CCTV13新闻,http://60.211.167.226:8888/newlive/live/hls/15/live.m3u8
 CCTV13新闻,http://222.223.119.21:8888/newlive/live/hls/15/live.m3u8
 CCTV13新闻,http://mu520.wicp.net:50085/hls/13/index.m3u8
@@ -25,6 +21,7 @@ CCTV13新闻,http://112.235.202.250:9901/tsfile/live/0014_1.m3u8?key=txiptv&play
 CCTV13新闻,http://112.235.200.195:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13新闻,http://112.235.202.159:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13新闻,http://123.160.233.118:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1综合,http://110.52.99.109:9901/tsfile/live/1000_1.m3u8
 CCTV1综合,http://60.211.167.226:8888/newlive/live/hls/2/live.m3u8
 CCTV1综合,http://221.213.70.18:9901/tsfile/live/0001_1.m3u8?=TG@YYDSyouzai=key=txiptv&playlive=1&authid=0=TG@YYDSyouzai
 CCTV1综合,http://222.223.119.21:8888/newlive/live/hls/2/live.m3u8
@@ -75,6 +72,7 @@ CCTV2财经,http://1.69.0.241:9901/tsfile/live/0002_1.m3u8?key=txiptv
 CCTV2财经,http://112.235.200.195:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2财经,http://112.235.202.159:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2财经,http://123.138.216.44:9902/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3综艺,http://110.52.99.109:9901/tsfile/live/1002_1.m3u8
 CCTV3综艺,http://221.213.70.18:9901/tsfile/live/0003_1.m3u8?=TG@YYDSyouzai=key=txiptv&playlive=1&authid=0=TG@YYDSyouzai
 CCTV3综艺,http://60.174.137.146:9901/tsfile/live/0003_1.m3u8?key=txiptv&url=tvzb.com
 CCTV3综艺,http://mu520.wicp.net:50085/hls/3/index.m3u8
@@ -123,6 +121,7 @@ CCTV4中文国际,http://111.225.114.162:808/tsfile/live/0004_1.m3u8?key=txiptv&
 CCTV4中文国际,http://112.235.202.159:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4中文国际,http://58.210.60.226:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4中文国际,http://112.235.200.85:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5体育,http://110.52.99.109:9901/tsfile/live/1071_1.m3u8
 CCTV5体育,http://221.213.70.18:9901/tsfile/live/0005_1.m3u8?=TG@YYDSyouzai=key=txiptv&playlive=1&authid=0=TG@YYDSyouzai
 CCTV5体育,http://mu520.wicp.net:50085/hls/5/index.m3u8
 CCTV5体育,http://116.231.138.209:9901/tsfile/live/0005_1.m3u8?key=txiptv
@@ -168,6 +167,7 @@ CCTV5+体育赛事,http://112.235.202.159:9901/tsfile/live/1000_1.m3u8?key=txipt
 CCTV5+体育赛事,http://123.183.24.27:6666/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5+体育赛事,http://112.235.200.195:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV6电影,http://221.213.70.18:9901/tsfile/live/0006_1.m3u8?=TG@YYDSyouzai=key=txiptv&playlive=1&authid=0=TG@YYDSyouzai
+CCTV6电影,http://110.52.99.109:9901/tsfile/live/1005_1.m3u8
 CCTV6电影,http://mu520.wicp.net:50085/hls/6/index.m3u8
 CCTV6电影,http://58.210.60.226:9901/tsfile/live/0006_1.m3u8?key=txiptv
 CCTV6电影,http://58.19.182.187:9901/tsfile/live/0006_1.m3u8?key=txiptv
@@ -216,6 +216,7 @@ CCTV7国防军事,http://112.235.200.195:9901/tsfile/live/0007_1.m3u8?key=txiptv
 CCTV7国防军事,http://113.57.103.216:9000/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV7国防军事,http://123.182.208.248:8088/tsfile/live/faacts/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV7国防军事,http://112.235.202.159:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8电视剧,http://110.52.99.109:9901/tsfile/live/1007_1.m3u8
 CCTV8电视剧,http://mu520.wicp.net:50085/hls/8/index.m3u8
 CCTV8电视剧,http://110.80.17.38:9901/tsfile/live/0008_1.m3u8?key=txiptv
 CCTV8电视剧,http://58.210.60.226:9901/tsfile/live/0008_1.m3u8?key=txiptv
@@ -238,6 +239,7 @@ CCTV8电视剧,http://101.74.28.70:9901/tsfile/live/0008_1.m3u8?key=txiptv
 CCTV8电视剧,http://1.69.0.241:9901/tsfile/live/0008_1.m3u8?key=txiptv
 CCTV8电视剧,http://58.210.60.226:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV9纪录,http://60.211.167.226:8888/newlive/live/hls/11/live.m3u8
+CCTV9纪录,http://110.52.99.109:9901/tsfile/live/1008_1.m3u8
 CCTV9纪录,http://221.213.70.18:9901/tsfile/live/0009_1.m3u8?=TG@YYDSyouzai=key=txiptv&playlive=1&authid=0=TG@YYDSyouzai
 CCTV9纪录,http://222.223.119.21:8888/newlive/live/hls/11/live.m3u8
 CCTV9纪录,http://mu520.wicp.net:50085/hls/9/index.m3u8
