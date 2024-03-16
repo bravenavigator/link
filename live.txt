@@ -2516,8 +2516,6 @@ crt汽车,http://majian.ixiaobai.net:58888/rtp/239.37.0.100:5540
 延边-2,https://epg.pw/stream/ae4d5ebb6f83c370816cf09f28f4008a06d10e3dd0181cbfacfebfd52fee3c7d.m3u8
 辽源新闻综合,http://majian.ixiaobai.net:58888/rtp/239.37.0.250:5540
 甘肃,#genre#
-吴忠综合,http://live.kanwz.net/zhpd/sd/live.m3u8?zningxd
-吴忠公共,http://live.kanwz.net/ggpd/sd/live.m3u8?zningxd
 平凉崆峒综合,http://125.74.200.110:10080/hls/001/001_live.m3u8
 宁夏,#genre#
 宁夏卫视,https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8
