@@ -3,8 +3,8 @@ CCTV13新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key
 CCTV13新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=362790504
 CCTV13新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=1635962688
 CCTV13新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=357606504-0-showto
-CCTV13新闻,http://222.223.119.21:8888/newlive/live/hls/15/live.m3u8
 CCTV13新闻,http://60.211.167.226:8888/newlive/live/hls/15/live.m3u8
+CCTV13新闻,http://222.223.119.21:8888/newlive/live/hls/15/live.m3u8
 CCTV13新闻,http://mu520.wicp.net:50085/hls/13/index.m3u8
 CCTV13新闻,https://pi.0472.org/tv/mzt.php?auth=230918
 CCTV13新闻,http://58.19.182.187:9901/tsfile/live/0013_1.m3u8?key=txiptv
