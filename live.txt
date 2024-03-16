@@ -1536,6 +1536,7 @@ TVB明珠台,http://aiyun.work.gd/jd.php?id=明珠台
 镜新闻,http://livetv.skycf.eu.org/live.m3u8?c=10
 立场新闻,http://livetv.skycf.eu.org/live.m3u8?c=12
 东森新闻,http://livetv.skycf.eu.org/live.m3u8?c=9
+东森财经,http://livetv.skycf.eu.org/live.m3u8?c=14
 东森财经,https://ctrl.laotv.la/live/DongsenMovie/index.m3u8
 东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 东森电影,https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8
