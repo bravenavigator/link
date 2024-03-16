@@ -1468,6 +1468,8 @@ BRTV国际频道,http://111.207.22.10:8888/newlive/live/hls/58/live.m3u8
 重庆,#genre#
 重庆新闻,http://27.9.90.105:8010/udp/225.0.4.188:7980
 重庆新闻,http://183.65.9.200:8888/udp/235.254.196.199:7980
+重庆新闻,https://sjlivecdn9.cbg.cn/202906282314/app_2/_definst_/ls_3.stream/chunklist.m3u8
+重庆新闻,https://sjlivecdn9.cbg.cn/204912315959/app_2/_definst_/ls_3.stream/chunklist.m3u8
 重庆社会与法,http://27.9.90.105:8010/udp/225.0.4.190:7980
 重庆娱乐,http://183.65.9.200:8888/udp/235.254.198.187:7980
 重庆少儿,http://27.9.90.105:8010/udp/225.0.4.191:7980
