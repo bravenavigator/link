@@ -1477,7 +1477,12 @@ BRTV国际频道,http://111.207.22.10:8888/newlive/live/hls/58/live.m3u8
 潼南综合,http://183.230.184.51:65500/tntv1.m3u8
 璧山综合,http://222.179.42.129:8181/hls1.m3u8
 大足综合,http://218.201.85.71:3170/m3u8
+万载综合,http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
 万源综合,http://live.wanyuannews.com/wytv/hd/live.m3u8
+梁平综合,https://qxlmlive9.cbg.cn/applive/lplive01/chunklist.m3u8
+酉阳综合,http://qxlmlive9.cbg.cn/applive/youytv01/playlist.m3u8
+巫山综合,https://qxlmlive9.cbg.cn/applive/wspd001/chunklist.m3u8
+永川综合,https://qxlmlive9.cbg.cn/applive/yctv01/playlist.m3u8
 港澳,#genre#
 凤凰中文,http://180.142.145.135:8181/tsfile/live/1001_1.m3u8
 凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
