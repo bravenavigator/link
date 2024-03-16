@@ -1296,6 +1296,7 @@ CGTN新闻,http://111.196.131.234:8012/rtp/239.3.1.215:4220
 深圳都市,http://livepull-tcyzb.sztv.com.cn/showto_live/dushi01.m3u8
 深圳都市,https://epg.pw/stream/42922b3bab314ce0217fdf746165de08e00d0556ebf961ee63049811baacc5ac.m3u8
 深圳都市,http://61.141.202.118:9901/tsfile/live/0126_2.m3u8?key=txiptv&playlive=1&authid=0
+深圳财经生活,http://183.17.224.90:8888/udp/239.77.1.242:5146
 深圳电视剧,http://61.141.202.118:9901/tsfile/live/0126_3.m3u8?key=txiptv&playlive=1&authid=0
 广东健康,http://glive.grtn.cn/live/health.m3u8
 广东生活,http://glive.grtn.cn/live/life.m3u8
