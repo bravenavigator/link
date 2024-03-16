@@ -1467,11 +1467,9 @@ BRTV国际频道,http://111.207.22.10:8888/newlive/live/hls/58/live.m3u8
 宝坻一套,https://hb2stream1.baoxinwen.com/d6387fc7a8836e78/6385068498053235715_1597997122.m3u8?auth_key=1893456000-0-0-93ea48b07ddd03f4904079b7659e81a4
 重庆,#genre#
 重庆新闻,http://27.9.90.105:8010/udp/225.0.4.188:7980
-重庆新闻,http://183.65.9.200:8888/udp/235.254.196.199:7980
 重庆新闻,https://sjlivecdn9.cbg.cn/202906282314/app_2/_definst_/ls_3.stream/chunklist.m3u8
 重庆新闻,https://sjlivecdn9.cbg.cn/204912315959/app_2/_definst_/ls_3.stream/chunklist.m3u8
 重庆社会与法,http://27.9.90.105:8010/udp/225.0.4.190:7980
-重庆娱乐,http://183.65.9.200:8888/udp/235.254.198.187:7980
 重庆少儿,http://27.9.90.105:8010/udp/225.0.4.191:7980
 重庆汽摩,http://27.9.90.105:8010/udp/225.0.4.195:7980
 重庆汽摩,http://218.89.240.144:59901/tsfile/live/1010_1.m3u8?key=txiptv
@@ -1710,7 +1708,6 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 杭州萧山生活,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
 杭州余杭新闻综合,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
 杭州余杭未来,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
-求索纪录,http://183.65.9.200:8888/udp/235.254.199.251:7980
 宁波TV1,http://125.109.8.238:9999/rtp/233.50.201.168:5140
 宁波TV2,http://125.109.8.238:9999/rtp/233.50.201.178:5140
 宁波TV3,http://125.109.8.238:9999/rtp/233.50.201.179:5140
