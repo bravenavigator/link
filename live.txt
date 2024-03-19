@@ -1193,7 +1193,6 @@ BRTV国际频道,http://111.207.22.10:8888/newlive/live/hls/58/live.m3u8
 点掌财经,https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
 东方影视,http://php.jdshipin.com:8880/bst.php?id=dfys
 上海外语,http://php.jdshipin.com:8880/bst.php?id=shics
-生活时尚,http://125.109.8.238:9999/rtp/233.50.201.187:5140
 生活时尚,http://27.217.213.217:18888/rtp/239.253.248.99:8000
 生活时尚,http://majian.ixiaobai.net:58888/rtp/239.37.0.240:5540
 生活时尚,http://php.jdshipin.com:8880/bst.php?id=shss
@@ -1205,7 +1204,6 @@ BRTV国际频道,http://111.207.22.10:8888/newlive/live/hls/58/live.m3u8
 七彩戏剧,http://php.jdshipin.com:8880/bst.php?id=qcxj
 都市剧场,http://majian.ixiaobai.net:58888/rtp/239.37.0.241:5540
 欢笑剧场,http://php.jdshipin.com:8880/bst.php?id=hxjc
-法制天地,http://125.109.8.238:9999/rtp/233.50.201.191:5140
 哈哈炫动,http://116.231.138.209:9901/tsfile/live/1005_1.m3u8?key=txiptv
 哈哈炫动,http://php.jdshipin.com:8880/bst.php?id=hhxd
 动漫秀场,http://php.jdshipin.com:8880/bst.php?id=dmxc
@@ -1264,7 +1262,6 @@ BRTV国际频道,http://111.207.22.10:8888/newlive/live/hls/58/live.m3u8
 凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰中文,http://125.109.8.238:9999/rtp/233.50.200.191:5140
 凤凰中文,http://117.27.190.42:9901/tsfile/live/23280_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰中文,https://epg.pw/stream/15ed3bc8cdc099b666c85c694e7ef54dee3593c1ee660d69b69b4ef335bd389b.m3u8
 凤凰资讯,http://180.142.145.135:8181/tsfile/live/1000_1.m3u8
@@ -1273,7 +1270,6 @@ BRTV国际频道,http://111.207.22.10:8888/newlive/live/hls/58/live.m3u8
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯,http://livetv.skycf.eu.org/live.m3u8?c=2
-凤凰资讯,http://125.109.8.238:9999/rtp/233.50.200.192:5140
 凤凰资讯,http://117.27.190.42:9901/tsfile/live/23279_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰资讯,https://epg.pw/stream/1b9dc2b8c181bd5f66d4cedf01cb070a677cc2b4db537cf9d2e4d388e271a9c9.m3u8
 凤凰香港,http://180.142.145.135:8181/tsfile/live/1002_1.m3u8
@@ -1462,8 +1458,6 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 钱江频道,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 钱江频道,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-钱江频道,http://125.109.8.238:9999/rtp/233.50.201.132:5140
-之江记录,http://125.109.8.238:9999/rtp/233.50.202.25:5140
 之江记录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 浙江经济生活,http://125.125.198.35:8888/rtp/233.50.201.133:5140
 浙江教育,http://125.125.198.35:8888/rtp/233.50.201.134:5140
@@ -1471,25 +1465,14 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 浙江新闻,http://125.125.198.35:8888/rtp/233.50.201.137:5140
 浙江少儿,http://125.125.198.35:8888/rtp/233.50.201.138:5140
 杭州综合,http://www.372583307.top:4022/udp/233.50.201.173:5140
-杭州综合,http://125.109.8.238:9999/rtp/233.50.201.173:5140
-杭州明珠,http://125.109.8.238:9999/rtp/233.50.201.174:5140
-杭州生活,http://125.109.8.238:9999/rtp/233.50.201.175:5140
-杭州影视,http://125.109.8.238:9999/rtp/233.50.201.176:5140
-杭州青少年,http://125.109.8.238:9999/rtp/233.50.201.177:5140
-杭州余杭未来,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
 杭州余杭综合,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
+杭州余杭未来频道,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
 杭州萧山新闻综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
 杭州萧山新闻综合,https://epg.pw/stream/51e0a1fe5c006c955e68548c9b2a13ce3d35adb30579eaf00b11a9ec52ee9fe0.m3u8
 杭州萧山新闻综合,https://epg.pw/stream/1c41768e993a54617b9a22c65c9d4dcaea80759097ee0a859f1e8590955ddad7.m3u8
 杭州萧山新闻综合,https://epg.pw/stream/cede68951d48333a2399042d97d25182fc83beb5887aa2b690e71cfcfd4b883f.m3u8
 杭州萧山新闻综合,https://epg.pw/stream/8dbcece5a97f047d759bdda16148b9b675e6800179ce53814533b0dc5664f4d9.m3u8
 杭州萧山生活,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
-杭州余杭新闻综合,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
-杭州余杭未来,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
-宁波TV1,http://125.109.8.238:9999/rtp/233.50.201.168:5140
-宁波TV2,http://125.109.8.238:9999/rtp/233.50.201.178:5140
-宁波TV3,http://125.109.8.238:9999/rtp/233.50.201.179:5140
-宁波TV4,http://125.109.8.238:9999/rtp/233.50.201.180:5140
 宁波TV1,http://www.372583307.top:4022/udp/233.50.201.168:5140
 宁波TV2,http://www.372583307.top:4022/udp/233.50.201.178:5140
 宁波TV3,http://www.372583307.top:4022/udp/233.50.201.179:5140
@@ -1518,7 +1501,6 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 绍兴上虞新闻综合,https://epg.pw/stream/e63025abaea02e0d05819b11fe7e0db7abb525d2204b9ca0e62bde8ab371d68d.m3u8
 绍兴新昌新闻综合,https://epg.pw/stream/7f856c798f5a5167cf5966b25d0ab5d352c40c5975d4a78d25e6a92c0251cb89.m3u8
 绍兴新昌新闻综合,https://epg.pw/stream/117353e7f349e9841ea7d79852cc8cb8fa4449dd2ddffa9bec27e2babfdba2f9.m3u8
-温州新闻,http://125.109.8.238:9999/rtp/233.50.201.87:5140
 温州龙游新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
 温州龙游新闻综合,https://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
 温州龙游生活娱乐,https://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
