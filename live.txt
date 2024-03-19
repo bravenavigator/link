@@ -1219,6 +1219,7 @@ TVB明珠,http://1.65.195.85:9981/stream/channelid/1803382046?profile=pass
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?$1024x576
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 台湾,#genre#
+中天新闻,http://us1.qqvr.online:9000/live.m3u8?c=3
 中天新闻,http://livetv.skycf.eu.org/live.m3u8?c=7
 中天新闻,http://ali.hlspull.yximgs.com/live/twlivepzztvvzzzyzuuzzfvbscvzdztwzfszzszzzcvuyzemzeztxw.flv
 中天亚洲,http://livetv.skycf.eu.org/live.m3u8?c=3
