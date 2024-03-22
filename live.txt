@@ -815,7 +815,7 @@ Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482
 西藏卫视,http://113.12.72.152:9901/tsfile/live/1035_1.m3u8?key=txiptv
 西藏卫视,http://221.213.43.82:8888/newlive/live/hls/37/live.m3u8
 海峡卫视,http://php.jdshipin.com:8880/bst.php?id=hxws
-海峡中文,http://27.154.214.56:8888/rtp/239.61.2.151:8894
+海峡卫视,http://27.154.214.56:8888/rtp/239.61.2.151:8894
 海峡卫视,http://117.27.190.42:9901/tsfile/live/23283_1.m3u8?key=txiptv
 厦门卫视,https://xiamenalic.v.myalicdn.com/xiamen/xiamen_1/index.m3u8
 三沙卫视,http://222.189.51.62:8888/newlive/live/hls/49/live.m3u8
@@ -890,7 +890,7 @@ Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482
 湖北卫视,http://118.81.242.246:9999/tsfile/live/0132_1.m3u8
 黑龙江卫视,http://118.81.242.246:9999/tsfile/live/0143_1.m3u8
 辽宁卫视,http://118.81.242.246:9999/tsfile/live/0121_1.m3u8
-上海卫视,http://118.81.242.246:9999/tsfile/live/0107_1.m3u8
+东方卫视,http://118.81.242.246:9999/tsfile/live/0107_1.m3u8
 江苏卫视,http://118.81.242.246:9999/tsfile/live/0127_1.m3u8
 北京卫视,http://118.81.242.246:9999/tsfile/live/0122_1.m3u8
 四川卫视,http://118.81.242.246:9999/tsfile/live/0123_1.m3u8
