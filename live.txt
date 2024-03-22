@@ -2189,10 +2189,8 @@ crt汽车,http://majian.ixiaobai.net:58888/rtp/239.37.0.100:5540
 巴彦淖尔经济生活,http://mmitv.top/test/tianma.php?id=bynrjj
 巴彦淖尔影视娱乐,http://mmitv.top/test/tianma.php?id=bynrys
 新疆,#genre#
-伊犁经济法制,http://110.153.180.106:55555/out_4/index.m3u8?zxinjd
 伊犁经济法制,http://110.153.180.106:55555/out_4/index.m3u8
 伊犁汉语,http://110.153.180.106:55555/out_1/index.m3u8
-伊犁汉语,http://110.153.180.106:55555/out_1/index.m3u8?zxinjd
 伊犁维语,http://110.153.180.106:55555/out_2/index.m3u8
 伊犁哈萨克语,http://110.153.180.106:55555/out_3/index.m3u8
 伊犁奎屯汉语,http://218.84.12.186:8001/hls/main/playlist.m3u8
@@ -2206,6 +2204,7 @@ crt汽车,http://majian.ixiaobai.net:58888/rtp/239.37.0.100:5540
 可克达拉综合,http://test5.btzx.com.cn/live/kkdl.stream/playlist.m3u8
 克拉玛依汉语,https://klmyzb.rcsxzx.com/hls/klmy1.m3u8
 克拉玛依维语,https://klmyzb.rcsxzx.com/hls/klmy2.m3u8
+克拉玛依影视,https://klmyzb.rcsxzx.com/hls/klmy3.m3u8
 卡拉玛依汉语综合,http://klmysjtzb.rcsxzx.com/hls/klmy1.m3u8
 卡拉玛依维语综合,http://klmysjtzb.rcsxzx.com/hls/klmy2.m3u8
 卡拉玛依影视,http://klmysjtzb.rcsxzx.com/hls/klmy3.m3u8
