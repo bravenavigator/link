@@ -2079,11 +2079,16 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 黑龙江文体,https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
 哈尔滨新闻综合,https://masterpull.hljtv.com/live/sPvVy8Ju.m3u8
 吉林,#genre#
-长影频道,http://majian.ixiaobai.net:58888/rtp/239.37.0.125:5540
+吉林都市.http://hls.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/1.m3u8
+吉林公共,http://hls.avap.jilintv.cn/zqvk7vpj/channel/44dcb20ec810463cb517f1814c1b3ce9/1.m3u8
+吉林影视,http://hls.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/1.m3u8
+吉林生活,http://hls.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/1.m3u8
+吉林乡村,http://hls.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/1.m3u8
 吉林教育,http://majian.ixiaobai.net:58888/rtp/239.37.0.126:5540
 吉林篮球,http://majian.ixiaobai.net:58888/rtp/239.37.0.211:5540
 吉林篮球,http://majian.ixiaobai.net:58888/rtp/239.37.0.213:5540
 吉林篮球,http://majian.ixiaobai.net:58888/rtp/239.37.0.214:5540
+长影频道,http://majian.ixiaobai.net:58888/rtp/239.37.0.125:5540
 东北欢乐风,https://epg.pw/stream/ba4638b7178314a10cfc89e46f24b0912a8a5a037112f3985b7b2555de859d73.ctv
 crt综合,http://p2hs.vzan.com/slowlive/749916310257845276/live.m3u8
 crt综合,http://majian.ixiaobai.net:58888/rtp/239.37.0.096:5540
