@@ -951,10 +951,7 @@ Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482
 湖北卫视,http://110.72.70.55:808/hls/1010/index.m3u8
 广东卫视,http://110.72.70.55:808/hls/1002/index.m3u8
 广东,#genre#
-广东新闻,http://183.238.248.83:9000/udp/239.21.0.93:3712
-广东新闻,http://nas147.myds.me:8888/udp/239.77.0.173:5146
 广东新闻,http://php.jdshipin.com:8880/chudian.php?id=gdxw
-广东珠江,http://nas147.myds.me:8888/udp/239.77.0.1:5146
 广东珠江,http://121.199.57.64:8000/newbee?id=239.77.0.114:5146
 广东珠江,http://183.238.248.83:9000/udp/239.20.0.64:3144
 广东珠江,http://php.jdshipin.com:8880/chudian.php?id=gdzj
@@ -964,7 +961,6 @@ Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482
 广东民生,http://php.jdshipin.com:8880/chudian.php?id=gdms
 广东少儿,http://php.jdshipin.com:8880/chudian.php?id=gdse
 广东体育,http://218.13.170.98:9901/tsfile/live/0019_1.m3u8
-广东体育,http://nas147.myds.me:8888/udp/239.77.0.112:5146
 广东体育,http://php.jdshipin.com:8880/chudian.php?id=gdty
 广东移动,http://ci.emdoor.tech:8080/touchtv.php?pk=2463
 广东移动,http://php.jdshipin.com:8880/chudian.php?id=gdyd
