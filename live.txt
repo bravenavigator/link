@@ -2388,12 +2388,12 @@ CHC动作电影,http://majian.ixiaobai.net:58888/rtp/239.37.0.186:5540
 CHC高清电影,http://majian.ixiaobai.net:58888/rtp/239.37.0.187:5540
 CHC家庭影院,http://majian.ixiaobai.net:58888/rtp/239.37.0.188:5540
 HBO,#genre#
-BOO,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbncvshhzszcvndfncvbdzpxyzhzchzszbhzezzzvboo.flv
+HBO,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbncvshhzszcvndfncvbdzpxyzhzchzszbhzezzzvboo.flv
 HBO,http://ali.hlspull.yximgs.com/live/huanqiuhklivemjjljpwjdctdfhdvjdjdujlvcbeywejweefshjfhhjsjjcxhbo.flv
 HBO,http://ali.hlspull.yximgs.com/live/twlivemzzlzpwzdctdfhdvzdzduzlvcbeywezweefshzfhhzszzcxhbo.flv
 HBO Family,http://ali.hlspull.yximgs.com/live/huanqiuhklivetjcvsjgcjyhpvobjxclmvhjogdjbodbsjhlelevendhbosignature.flv
 HBO Family,http://ali.hlspull.yximgs.com/live/twlivezzozzxcvyhzszhtezwfhfvzzdvbdzszzzhzlzszvcelevenerfyi.flv
-BOO Signature,http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbncvshhjsjcvndfncvbdjpxyjhjchjsjbhjejjjvboo.flv
+HBO Signature,http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbncvshhjsjcvndfncvbdjpxyjhjchjsjbhjejjjvboo.flv
 HBO Signature,http://ali.hlspull.yximgs.com/live/twlivetzcvszgczyhpvobzxclmvhzogdzbodbszhlelevendhbosignature.flv
 CINEMAX,http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvbjjjbvyvblcfybjxdbcjcfdvsfcbjbnjtcjnemjx.flv
 CINEMAX,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvbzzzbvyvblcfybzxdbczcfdvsfcbzbnztcznemzx.flv
