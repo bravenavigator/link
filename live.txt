@@ -1313,8 +1313,6 @@ RTHK32,http://ali.hlspull.yximgs.com/live/huanqiuhklivejpjjecxvjjusjfjjfdhnbthjj
 中视 HD,http://ali.hlspull.yximgs.com/live/huanqiuhklivejphfwnmfdcjfxcvhjjwjfbfjdyujjnmfcbsfjejtyhsdjs.flv
 中视 HD,http://183.6.122.31:8091/TW/zs.live.flv
 中视 HD,rtmp://f13h.mine.nu/sat/tv091
-公视 HD,http://ali.hlspull.yximgs.com/live/huanqiuhklivencxtdtejhlvmjsjwjejwttyjhvcbjjjsjntjvbjugsxw.flv
-公视 HD,http://livetv.skycf.eu.org/live.m3u8?c=8
 镜新闻,http://ali.hlspull.yximgs.com/live/huanqiuhkliveexcvjjocvuojxucfdexjpjjyxchvljxjfejhcelethjjdxw.flv
 镜新闻,http://livetv.skycf.eu.org/live.m3u8?c=10
 壹新闻,http://ali.hlspull.yximgs.com/live/huanqiuhklivemjfoyjvjsdvbnwejtjujjxjcvfjjsjfhfjddjjlhtbchyxw.flv
@@ -1328,15 +1326,10 @@ RTHK32,http://ali.hlspull.yximgs.com/live/huanqiuhklivejpjjecxvjjusjfjjfdhnbthjj
 东森财经,http://livetv.skycf.eu.org/live.m3u8?c=14
 东森财经,https://ctrl.laotv.la/live/DongsenMovie/index.m3u8
 东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-东森戏剧,http://183.6.122.31:8091/TW/dsxj.live.flv
-东森戏剧,http://ali.hlspull.yximgs.com/live/huanqiuhkliveyvjojmfdycvbjcxljdjfxdcvnjvdwspjcophjfvjtycxjpjjmendsxd.flv
-东森电影,http://183.6.122.31:8091/TW/dsyp.live.flv
-东森电影,http://183.6.122.31:8091/TW/dsdy.live.flv
-东森电影,https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8
-东森电影,http://ali.hlspull.yximgs.com/live/huanqiuhklivejowdxnjltdjhecvxcjjejjejyhjdyduojuomdfjhjjjdjsjy.flv
-东森洋片,http://ali.hlspull.yximgs.com/live/huanqiuhklivejmjptdjjxfjwetjvbjstjjjsutyhdjhfljjfhfhyjwjsyp.flv
 三立新闻,http://ali.hlspull.yximgs.com/live/huanqiuhklivehmcyoywjjubjdfjfvchtjujxcjxvcbsjfsdxcbmjsllivexw.flv
 三立LIVE,http://ali.hlspull.yximgs.com/live/huanqiuhklivehmcyoywjjubjfdjfvchtcbsjjjvfjhncvndvbsxcbmjsllive.flv
+公视 HD,http://ali.hlspull.yximgs.com/live/huanqiuhklivencxtdtejhlvmjsjwjejwttyjhvcbjjjsjntjvbjugsxw.flv
+公视 HD,http://livetv.skycf.eu.org/live.m3u8?c=8
 TVBS新闻,http://ali.hlspull.yximgs.com/live/huanqiuhklivejojwhjxojhjjjlfhjljsjcnxjfvbhjdjwjfjjdsswvtvbsxw.flv
 TVBS新闻,http://livetv.skycf.eu.org/live.m3u8?c=5
 TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8 
@@ -1376,6 +1369,13 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 爱尔达,http://183.6.122.31:8091/TW/aed300.live.flv
 爱尔达影剧,http://ali.hlspull.yximgs.com/live/huanqiuhklivesfbxcvjsfjdhnfcvbsxjdnjsvmvbsjjjfdhyujmjbvnjslhxd.flv
 壹电影,http://183.6.122.31:8091/TW/ydy.live.flv
+东森戏剧,http://183.6.122.31:8091/TW/dsxj.live.flv
+东森戏剧,http://ali.hlspull.yximgs.com/live/huanqiuhkliveyvjojmfdycvbjcxljdjfxdcvnjvdwspjcophjfvjtycxjpjjmendsxd.flv
+东森电影,http://183.6.122.31:8091/TW/dsyp.live.flv
+东森电影,http://183.6.122.31:8091/TW/dsdy.live.flv
+东森电影,https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8
+东森电影,http://ali.hlspull.yximgs.com/live/huanqiuhklivejowdxnjltdjhecvxcjjejjejyhjdyduojuomdfjhjjjdjsjy.flv
+东森洋片,http://ali.hlspull.yximgs.com/live/huanqiuhklivejmjptdjjxfjwetjvbjstjjjsutyhdjhfljjfhfhyjwjsyp.flv
 龙祥电影,http://ali.hlspull.yximgs.com/live/huanqiuhklivemjloehjbjjjpvboydetjewsjhthjyujfjwetyjjjhflxsj.flv
 龙华戏剧,http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvnjjsfjvbhslcfvxcvjsjbcvjfdvjsfcbjbnjtyjd.flv
 龙华洋片,http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvbjjjfjvjhslcfvxcvxsjbcvjfdvsfcbjbnjtyxty.flv
