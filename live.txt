@@ -755,7 +755,6 @@ BRTV卡酷少儿,http://114.252.126.65:7000/rtp/239.3.1.189:8000
 睛彩广场舞,http://111.196.131.234:8012/rtp/239.3.1.128:8001
 BRTV卡酷少儿,http://majian.ixiaobai.net:58888/rtp/239.37.0.76:5540
 BRTV纪实科教,http://majian.ixiaobai.net:58888/rtp/239.37.0.101:5540
-BesTV生活,http://majian.ixiaobai.net:58888/rtp/239.37.0.213:5540
 睛彩篮球,http://majian.ixiaobai.net:58888/rtp/239.37.0.38:5540
 睛彩羽毛球,http://majian.ixiaobai.net:58888/rtp/239.37.0.40:5540
 睛彩竞技,http://majian.ixiaobai.net:58888/rtp/239.37.0.41:5540
