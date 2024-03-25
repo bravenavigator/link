@@ -258,8 +258,6 @@ CCTV4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 中国教育4,http://111.196.131.234:8012/rtp/239.3.1.213:4220
 中国教育4,http://111.196.131.234:8012/rtp/239.3.1.214:4220
 外语,#genre#
-CGTN英语,http://222.223.119.21:8888/newlive/live/hls/18/live.m3u8
-CGTN英语,http://60.211.167.226:8888/newlive/live/hls/18/live.m3u8
 CGTN英语,http://114.252.126.65:7000/rtp/239.3.1.215:4220
 CGTN英语,http://171.108.239.31:8181/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 CGTN英语,http://171.108.239.8:8181/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
