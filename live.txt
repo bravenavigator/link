@@ -1326,7 +1326,6 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 湖南,#genre#
 湖南都市,http://110.52.99.109:9901/tsfile/live/1025_1.m3u8
 湖南都市,http://110.52.99.109:9901/tsfile/live/1031_1.m3u8
-湖南国际,http://110.52.99.109:9901/tsfile/live/1027_1.m3u8
 湖南都市,http://222.240.82.92:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南经视,http://222.241.145.143:8888/udp/239.76.251.86:9000
 湖南经视,http://222.240.82.92:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1337,6 +1336,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 湖南电影,http://110.52.99.109:9901/tsfile/live/1022_1.m3u8
 湖南电视剧,http://222.240.82.92:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南教育,http://222.241.154.37:9901/tsfile/live/23027_1.m3u8
+湖南国际,http://110.52.99.109:9901/tsfile/live/1027_1.m3u8
 金鹰纪实,http://110.52.99.109:9901/tsfile/live/1063_1.m3u8
 金鹰纪实,http://majian.ixiaobai.net:58888/rtp/239.37.0.161:5540
 金鹰纪实,http://111.196.131.234:8012/rtp/239.3.1.58:8156
