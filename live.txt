@@ -212,6 +212,7 @@ CCTV17农业农村,http://mu520.wicp.net:50085/hls/17/index.m3u8
 CCTV兵器科技,http://majian.ixiaobai.net:58888/rtp/239.37.0.084:5540
 CCTV世界地理,http://majian.ixiaobai.net:58888/rtp/239.37.0.079:5540
 CCTV文化精品,http://majian.ixiaobai.net:58888/rtp/239.37.0.083:5540
+CCTV女性时尚,,http://majian.ixiaobai.net:58888/rtp/239.37.0.069:5540
 CCTV风云音乐,http://majian.ixiaobai.net:58888/rtp/239.37.0.081:5540
 CCTV风云剧场,http://majian.ixiaobai.net:58888/rtp/239.37.0.114:5540
 CCTV怀旧剧场,http://majian.ixiaobai.net:58888/rtp/239.37.0.082:5540
@@ -266,14 +267,6 @@ CCTV10科教,http://majian.ixiaobai.net:58888/rtp/239.37.0.7:5540
 CCTV1综合,http://majian.ixiaobai.net:58888/rtp/239.37.0.8:5540
 CCTV4K,http://majian.ixiaobai.net:58888/rtp/239.37.0.34:5540
 CCTV1综合,http://majian.ixiaobai.net:58888/rtp/239.37.0.55:5540
-CCTV女性时尚,,http://majian.ixiaobai.net:58888/rtp/239.37.0.69:5540
-CCTV第一剧场,http://majian.ixiaobai.net:58888/rtp/239.37.0.78:5540
-CCTV世界地理,http://majian.ixiaobai.net:58888/rtp/239.37.0.79:5540
-CCTV风云足球,http://majian.ixiaobai.net:58888/rtp/239.37.0.80:5540
-CCTV风云音乐,http://majian.ixiaobai.net:58888/rtp/239.37.0.81:5540
-CCTV怀旧剧场,http://majian.ixiaobai.net:58888/rtp/239.37.0.82:5540
-CCTV文化精品,http://majian.ixiaobai.net:58888/rtp/239.37.0.83:5540
-CCTV兵器科技,http://majian.ixiaobai.net:58888/rtp/239.37.0.84:5540
 CCTV1综合,http://majian.ixiaobai.net:58888/rtp/239.37.0.108:5540
 CCTV5+体育赛事,http://majian.ixiaobai.net:58888/rtp/239.37.0.121:5540
 CCTV1综合,http://majian.ixiaobai.net:58888/rtp/239.37.0.150:5540
@@ -740,6 +733,7 @@ BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
 BRTV新闻,https://live.funhillrm.com/5/sd/live.m3u8
 BRTV财经,http://111.196.131.234:8012/rtp/239.3.1.116:8000
 BRTV财经,http://qnap.yjnhome.com:4000/udp/239.3.1.116:8000
+BesTV生活,http://majian.ixiaobai.net:58888/rtp/239.37.0.213:5540
 BRTV生活,http://111.196.131.234:8012/rtp/239.3.1.117:8000
 BRTV生活,http://qnap.yjnhome.com:4000/udp/239.3.1.117:8000
 BRTV文艺,http://111.196.131.234:8012/rtp/239.3.1.242:8000
@@ -796,7 +790,6 @@ BRTV国际频道,http://111.207.22.10:8888/newlive/live/hls/58/live.m3u8
 睛彩竞技,http://majian.ixiaobai.net:58888/rtp/239.37.0.41:5540
 睛彩广场舞,http://majian.ixiaobai.net:58888/rtp/239.37.0.42:5540
 睛彩竞技,http://majian.ixiaobai.net:58888/rtp/239.37.0.215:5540
-睛彩广场舞,http://majian.ixiaobai.net:58888/rtp/239.37.0.223:5540
 朝阳融媒,http://111.196.131.234:8012/rtp/239.3.1.163:8001
 石景山综合,http://live.sjsrm.com/bjsjs/sd/live.m3u8?zbeid
 房山综合,http://live.funhillrm.com/2/sd/live.m3u8
@@ -1938,15 +1931,10 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 长影频道,http://majian.ixiaobai.net:58888/rtp/239.37.0.125:5540
 东北欢乐风,https://epg.pw/stream/ba4638b7178314a10cfc89e46f24b0912a8a5a037112f3985b7b2555de859d73.ctv
 CRT综合,http://majian.ixiaobai.net:58888/rtp/239.37.0.096:5540
-CRT综合,http://majian.ixiaobai.net:58888/rtp/239.37.0.96:5540
 CRT市民生活,http://majian.ixiaobai.net:58888/rtp/239.37.0.098:5540
-CRT市民生活,http://majian.ixiaobai.net:58888/rtp/239.37.0.98:5540
 CRT经济,http://majian.ixiaobai.net:58888/rtp/239.37.0.099:5540
-CRT经济,http://majian.ixiaobai.net:58888/rtp/239.37.0.99:5540
-CRT汽车,http://majian.ixiaobai.net:58888/rtp/239.37.0.100:5540
 CRT汽车,http://majian.ixiaobai.net:58888/rtp/239.37.0.100:5540
 CRT文旅体育,http://majian.ixiaobai.net:58888/rtp/239.37.0.097:5540
-CRT文旅体育,http://majian.ixiaobai.net:58888/rtp/239.37.0.97:5540
 延边-1,http://live.ybtvyun.com/video/s10016-af95004b6d1a/index.m3u8
 延边-2,http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8
 延边-2,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
