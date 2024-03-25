@@ -222,6 +222,7 @@ CCTV电视指南,http://majian.ixiaobai.net:58888/rtp/239.37.0.115:5540
 CCTV风云足球,http://majian.ixiaobai.net:58888/rtp/239.37.0.080:5540
 CCTV高尔夫网球,http://majian.ixiaobai.net:58888/rtp/239.37.0.230:5540
 CCTV央视台球,http://majian.ixiaobai.net:58888/rtp/239.37.0.163:5540
+CCTV重温经典,http://222.218.159.106:8181/tsfile/live/1085_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV重温经典,http://1.62.64.234/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 CCTV4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 中国教育1,http://27.217.213.217:18888/rtp/239.253.248.110:8000
