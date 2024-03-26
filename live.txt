@@ -538,6 +538,7 @@ Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482
 吉林卫视,http://114.252.126.65:7000/rtp/239.3.1.240:8172
 甘肃卫视,http://113.12.72.152:9901/tsfile/live/1034_1.m3u8?key=txiptv
 宁夏卫视,http://113.12.72.152:9901/tsfile/live/1038_1.m3u8?key=txiptv
+宁夏卫视,https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
 青海卫视,http://113.12.72.152:9901/tsfile/live/1037_1.m3u8?key=txiptv
 青海卫视,http://36.248.137.69:60033/tsfile/live/0140_1.m3u8?key=txiptv
