@@ -986,6 +986,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 苏州文化生活,http://tylive.kan0512.com/norecord/norecord_csztv3.m3u8
 苏州常熟综合,http://cstvplay.21cs.cn/cstv1/cstv1.m3u8
 苏州常熟民生经济,http://cstvplay.21cs.cn/cstv2/cstv2.m3u8
+苏州吴江新闻综合,https://ctlive2.wjdaily.com/wjtv/ch1.m3u8
 无锡新闻综合,http://stream.thmz.com/wxtv1/playlist.m3u8?_upt=fc1bade31704045630
 无锡新闻综合,http://stream.thmz.com/wxtv1/playlist.m3u8?_upt=bbe24a1a1704861870
 无锡新闻综合,http://stream.thmz.com/wxtv1/playlist.m3u8
@@ -1012,6 +1013,15 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 镇江一套,https://epg.pw/stream/b71cb8847f56152f3d58e9b91368d1e647088849e09ac441e4ceebab99c75847.m3u8
 镇江二套,http://cm-wshls.homecdn.com/live/2aa16.m3u8
 镇江二套,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
+南通新闻综合,http://nt-hls.ntjoy.com/live/4f1.m3u8
+南通新闻综合,http://nt-hls.ntjoy.com/live/4f1.flv
+南通新闻综合,rtmp://nt-hls.ntjoy.com/live/4f1
+南通二套,http://nt-hls.ntjoy.com/live/4f3.m3u8
+南通二套,http://nt-hls.ntjoy.com/live/4f3.flv
+南通二套,rtmp://nt-hls.ntjoy.com/live/4f3
+南通崇川公共,http://nt-hls.ntjoy.com/live/4f5.m3u8
+南通崇川公共,http://nt-hls.ntjoy.com/live/4f5.flv
+南通崇川公共,rtmp://nt-hls.ntjoy.com/live/4f5
 南通如东新闻,http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8
 南通海安新闻综合,http://haian-tv-hls.cm.jstv.com/haian-tv/haaxwzh.m3u8
 扬州一套,http://cm-wshls.homecdn.com/live/8bb.m3u8
