@@ -895,6 +895,7 @@ TVB明珠,http://1.65.195.85:9981/stream/channelid/1803382046?profile=pass
 澳门卫视,http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
 澳门卫视,https://live4.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
 澳门莲花,http://moss.hk3.345888.xyz.cdn.cloudflare.net/11/lotus.php
+澳视澳门,http://1b6467f415.iok.la:9931/tsfile/live/1039_1.m3u8
 澳视澳门,http://61.244.22.5/ch1/ch1.live/playelist.m3u8
 澳视澳门,http://61.244.22.5/ch1/ch1.live/playlist.m3u8
 澳视澳门,http://61.244.22.5/ch1/ch1.live/index.m3u8
@@ -926,12 +927,13 @@ TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 台视HD,rtmp://f13h.mine.nu/sat/tv071
 华视HD,rtmp://f13h.mine.nu/sat/tv111
 公视HD,http://livetv.skycf.eu.org/live.m3u8?c=8
+寰宇财经,https://ali.hlspull.yximgs.com/live/15daa09a08f8ca55ae67161faf8cd423.flv
 东森财经,http://livetv.skycf.eu.org/live.m3u8?c=14
 东森财经,https://ctrl.laotv.la/live/DongsenMovie/index.m3u8
-寰宇财经,https://ali.hlspull.yximgs.com/live/15daa09a08f8ca55ae67161faf8cd423.flv
+东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+东森电影,http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8
 大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 华语电视,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
-东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
