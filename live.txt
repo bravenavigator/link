@@ -848,7 +848,6 @@ BRTV纪实科教,http://majian.ixiaobai.net:58888/rtp/239.37.0.101:5540
 凤凰中文,http://118.254.202.28:8888/udp/239.76.246.7:1234
 凤凰中文,http://183.6.122.31:8091/HK/fhzw.live.flv
 凤凰中文,http://117.27.190.42:9901/tsfile/live/23280_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰中文,http://ali.hlspull.yximgs.com/live/huanqiuhklivetvjjpcpvuejljydjjyfjoxvchjwhjwdojjjhjjlsjhbjfhjw.flv
 凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯,https://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯,https://play-flive.ifeng.com/live/06OLEEWQKN4.flv
@@ -861,29 +860,18 @@ BRTV纪实科教,http://majian.ixiaobai.net:58888/rtp/239.37.0.101:5540
 凤凰资讯,http://118.254.202.28:8888/udp/239.76.246.8:1234
 凤凰资讯,http://27.154.214.56:8888/rtp/239.61.2.183:9086
 凤凰资讯,http://220.189.108.176:19888/rtp/233.50.200.192:5140
-凤凰资讯,http://183.6.122.31:8091/HK/fhzx.live.flv
-凤凰资讯,http://111.173.81.3:3001/HK/fhzx/hls.m3u8
 凤凰资讯,http://117.27.190.42:9901/tsfile/live/23279_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰资讯,http://ali.hlspull.yximgs.com/live/huanqiuhklivetvjjpcpdvuejljyjjyfjoxvchjwhjwojjjhdjjlsjhbjfhjx.flv
 凤凰香港,http://113.64.145.228:8081/hls/38/index.m3u8
 凤凰香港,http://113.64.145.200:8081/hls/38/index.m3u8
-凤凰香港,http://183.6.122.31:8091/HK/fhxg.live.flv
-凤凰香港,http://111.173.81.3:3001/HK/fhxg/hls.m3u8
 凤凰香港,https://epg.pw/stream/8352ad260441ed0064f63f7a25eb3a7268a68b391f08a345b9bdbefd51aa330f.m3u8
 凤凰影视,http://221.7.175.154:8445/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 TVB翡翠台,http://1b6467f415.iok.la:9931/tsfile/live/1007_1.m3u8
-TVB翡翠台,http://111.173.81.3:3001/HK/tvb/hls.m3u8
-TVB翡翠台,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwwjpthjyjtjjjxcxbfhjjfjvhdtjdvbtvjsjxjfsjjcvbctvbfc.flv
 TVB翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
-TVB新闻,http://183.6.122.31:8091/HK/wxxw.live.flv
-TVB新闻,http://111.173.81.3:3001/HK/wxxw/hls.m3u8
 TVB新闻,https://s2.pub/cctv-12
-TVB新闻,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwjpthljjsjsjjbvdljdmnbjhdhyjyjtvbwxxw.flv
 TVB新闻,http://1.65.195.85:9981/stream/channelid/2051586642?profile=pass
 TVB新闻,https://i.125011.xyz/tvb.php?id=0&hq
 TVB新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
 TVB新闻,http://bziyunshao.synology.me:8890/bysid/83
-TVB财经,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwylwpthjyjjfjxvjlmnduhyjmtvbwxcd.flv
 TVB财经,http://1.65.195.85:9981/stream/channelid/1781676223?profile=pass
 TVB财经,https://i.125011.xyz/tvb.php?id=2&hq
 TVB财经,http://live.cooltv.top/tv/tvb.php?id=2
@@ -892,46 +880,21 @@ TVB财经,http://bziyunshao.synology.me:8890/bysid/85
 TVB华丽台,http://v2h.jdshipin.com/jade/jade.stream/chunklist.m3u8
 TVB华丽台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 TVB娱乐,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
-TVB星河,http://ali.hlspull.yximgs.com/live/huanqiuhklivejjmjptvjsjjwxnhjjwjjtjjjtyfjsjjsjcfjxfjwmxjdtvbxh.flv
 TVB星河,http://1b6467f415.iok.la:9931/tsfile/live/1008_1.m3u8
 TVB星河,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
 TVB功夫,https://ali.hlspull.yximgs.com/live/12344.flv
 TVB明珠,http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8
-TVB明珠,http://ali.hlspull.yximgs.com/live/huanqiuhklivetcfjhvdjjxcodwoetjmncthvbstyreyhbnnvbdjjwthjyjtvbmj.flv
-TVB明珠,http://183.6.122.31:8091/HK/mz.live.flv
-TVB明珠,http://111.173.81.3:3001/HK/mz/hls.m3u8
 TVB明珠,http://1.65.195.85:9981/stream/channelid/1803382046?profile=pass
-J2,http://183.6.122.31:8091/HK/2.live.flv
-J2,http://111.173.81.3:3001/HK/22/hls.m3u8
-J2,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwohdpthjyfiplhdftujfbvdimhdjnbjsjbcvxjfjsehbvbjtvbd2.flv
-J5,http://183.6.122.31:8091/HK/j5.live.flv
-J5,http://111.173.81.3:3001/HK/j5/hls.m3u8
-开电视77台,http://183.6.122.31:8091/HK/hoy77.live.flv
-开电视77台,http://111.173.81.3:3001/HK/hoy77/hls.m3u8
-开电视77台,http://ali.hlspull.yximgs.com/live/huanqiuhkliveyvjojmfdyjjdjdjhdnowspjjlfjhjtycxjfjjojtspjjmehoytv.flv
-开电视78台,http://111.173.81.3:3001/HK/hoy78/hls.m3u8
-开电视78台,http://183.6.122.31:8091/HK/hoy78.live.flv
-开电视78台,http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbncvshhjsjcvndfncvbdjpeyjhxchjsjjhjejjjyxxw.flv
-VIUTV,http://183.6.122.31:8091/HK/viu.live.flv
-VIUTV,http://111.173.81.3:3001/HK/viu/hls.m3u8
-VIUTV,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhtjjnjjdldjlujobnmjjhnbbmdjlpthjyjvjutv.flv
-VIUTV6,http://111.173.81.3:3001/HK/viu6/hls.m3u8
-VIUTV6,http://183.6.122.31:8091/HK/viu6.live.flv
-VIUTV6,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwjptdjbehjtyhbvhfjcvsjjfyjtvjutvsjx.flv
-RTHK31,http://ali.hlspull.yximgs.com/live/huanqiuhklivehpjdthpthcvhnjujulsfjhcvbjuyhbnjyjthj31.flv
-RTHK32,http://ali.hlspull.yximgs.com/live/huanqiuhklivejpjjecxvjjusjfjjfdhnbthjjsjfwdtncyjthj32.flv
 澳门卫视,http://61.244.22.5/ch3/ch3.live/index.m3u8
 澳门卫视,http://61.244.22.5/ch3/ch3.live/chunklist.m3u8
 澳门卫视,http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
 澳门卫视,http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
 澳门卫视,https://live4.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
-澳门莲花,http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbncvshhjsjcvndcbvdbneyjhxchjjhbnjjhjejjmlh.flv
 澳门莲花,http://moss.hk3.345888.xyz.cdn.cloudflare.net/11/lotus.php
 澳视澳门,http://61.244.22.5/ch1/ch1.live/playelist.m3u8
 澳视澳门,http://61.244.22.5/ch1/ch1.live/playlist.m3u8
 澳视澳门,http://61.244.22.5/ch1/ch1.live/index.m3u8
 亚洲武侠,https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3u8
-天映频道,http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvnjjsfjvbhfhcvxcvjsjbcvjfdvjsfcbjbnjtypj.flv
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?$1024x576
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 台湾,#genre#
@@ -1971,18 +1934,6 @@ CHC高清电影,http://112.235.202.159:9901/tsfile/live/1012_1.m3u8?key=txiptv&p
 CHC动作电影,http://majian.ixiaobai.net:58888/rtp/239.37.0.186:5540
 CHC高清电影,http://majian.ixiaobai.net:58888/rtp/239.37.0.187:5540
 CHC家庭影院,http://majian.ixiaobai.net:58888/rtp/239.37.0.188:5540
-HBO,#genre#
-HBO,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbncvshhzszcvndfncvbdzpxyzhzchzszbhzezzzvboo.flv
-HBO,http://ali.hlspull.yximgs.com/live/huanqiuhklivemjjljpwjdctdfhdvjdjdujlvcbeywejweefshjfhhjsjjcxhbo.flv
-HBO,http://ali.hlspull.yximgs.com/live/twlivemzzlzpwzdctdfhdvzdzduzlvcbeywezweefshzfhhzszzcxhbo.flv
-HBO Family,http://ali.hlspull.yximgs.com/live/huanqiuhklivetjcvsjgcjyhpvobjxclmvhjogdjbodbsjhlelevendhbosignature.flv
-HBO Family,http://ali.hlspull.yximgs.com/live/twlivezzozzxcvyhzszhtezwfhfvzzdvbdzszzzhzlzszvcelevenerfyi.flv
-HBO Signature,http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbncvshhjsjcvndfncvbdjpxyjhjchjsjbhjejjjvboo.flv
-HBO Signature,http://ali.hlspull.yximgs.com/live/twlivetzcvszgczyhpvobzxclmvhzogdzbodbszhlelevendhbosignature.flv
-CINEMAX,http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvbjjjbvyvblcfybjxdbcjcfdvsfcbjbnjtcjnemjx.flv
-CINEMAX,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvbzzzbvyvblcfybzxdbczcfdvsfcbzbnztcznemzx.flv
-AXN,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvbzzzfzvzhslcfybzssxszbczcfdvsfcbzbnztyzxn.flv
-AXN,http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvbjjjfjvjhslcfybjssxsjbcjcfdvsfcbjbnjtyjxn.flv
 海外,#genre#
 欧洲华文1台,http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
 欧洲华文2台,http://vvlive.eztv.vip/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
@@ -2062,14 +2013,12 @@ AXN,http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvbjjjfjvjhslcfyb
 英国Sky Sport 3,https://donelfantastic.github.io/live/skysportsNz3.m3u8
 英国Sky Sport 6,https://donelfantastic.github.io/live/skysportsNz6.m3u8
 英国Sky Sport 7,https://donelfantastic.github.io/live/skysportsNz7.m3u8
-美国Discoveryᴴᴰ,http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvnjjsfjvbhfhcvbcvjfdvbnjcjjsjjjejjtspj.flv
 美国Discoveryᴴᴰ,http://typicamn.russtv.net/iptv/349W3XS8ENP64A/9011/index.m3u8
 美国National Geographicᴴᴰ,http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 美国Ski TV,https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SynapseTV/193.m3u8
 美国Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 Wild Planet,https://d3c7duantorcb1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/77466ab3-8e6b-497f-9bf9-7b20f2536a20/3.m3u8
 Wild Planet,https://d3c7duantorcb1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/77466ab3-8e6b-497f-9bf9-7b20f2536a20/3.m3u8
-Animal Wild Planet,http://ali.hlspull.yximgs.com/live/huanqiuhklivexcvbpjyhvjcvnjjsfjvbhfhcjhbnjsjbcvjfdvjsfcbjbnjjwxj.flv
 Ski TV,https://d2xeo83q8fcni6.cloudfront.net/scheduler/scheduleMaster/193.m3u8
 Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
@@ -2077,13 +2026,6 @@ Love Nature,https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0e
 Tastemate Travelᴴᴰ,https://tastemadetravel-vizio.amagi.tv/playlist720_p.m3u8
 Travexp,https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
 Motorvisison TV,https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
-博斯高球Ⅰ,http://ali.hlspull.yximgs.com/live/huanqiuhklivejmxjcvpjojjdejhdbcxhvjsjtjhwojjfsjjjhvcxvhbsjjyj.flv
-博斯高球Ⅱ,http://ali.hlspull.yximgs.com/live/huanqiuhklivetvjjpcpvuejljyjdjyfjoxvchjwhjwojdjjhjjlsjhbjbsjjej.flv
-ELTA体育Ⅰ,http://ali.hlspull.yximgs.com/live/huanqiuhklivejejpjxcvjpjojdxcvdjojdjpoedhopjfvxcjhetouhjjvjjjtyy.flv
-ELTA体育Ⅱ,http://ali.hlspull.yximgs.com/live/huanqiuhklivecxvpjetjdcxojvmjljjtjwjpohudscbcxojcvmnfujlbhhjtye.flv
-ELTA体育Ⅲ,http://ali.hlspull.yximgs.com/live/huanqiuhklivecxvpjeyjdcxojvmjljbtjwjhojudscbcxojcvmnfujlbhhjtys.flv
-ELTA体育Ⅳ,http://ali.hlspull.yximgs.com/live/huanqiuhklivexcvbpjyhvjbvnjjsfjvbhfhcjhbnjsjbcvjfdvjsfcbjbnjlys.flv
-ELEVEN 1,http://ali.hlspull.yximgs.com/live/huanqiuhklivejjojjxcvyhjsjhtejwfhfvjjdvbdjsjjjhjljsjvcelevend.flv
 斗鱼,#genre#
 斗鱼探险,http://epg.112114.xyz/douyu/3485629
 斗鱼搞笑1,http://epg.112114.xyz/douyu/9220456
