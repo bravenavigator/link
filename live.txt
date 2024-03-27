@@ -724,8 +724,13 @@ Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482
 清远文旅生活,https://huodong.zuiqingyuan.com/dianshi/newwenlvshenghuo.m3u8?token=B86ouFGGfrmwNY9CDr8t932
 肇庆综合,http://ci.emdoor.tech:8080/touchtv.php?pk=1232
 肇庆生活,http://ci.emdoor.tech:8080/touchtv.php?pk=2525
+汕头综合,http://183.237.246.14:9931/tsfile/live/1131_1.m3u8?key=txiptv&playlive=1&authid=0
 汕头综合,http://120.238.13.198:8000/hls/65/index.m3u8
+汕头综合,https://stqznews.top/tv/live/stzhhd.php
+汕头经济,http://183.237.246.14:9931/tsfile/live/1132_1.m3u8?key=txiptv&playlive=1&authid=0
 汕头经济,http://120.238.13.198:8000/hls/66/index.m3u8
+汕头经济,https://stqznews.top/tv/live/stjjhd.php
+汕头文旅体育,http://183.237.246.14:9931/tsfile/live/1133_1.m3u8?key=txiptv&playlive=1&authid=0
 潮州综合,http://time-vod-qhlive.sobeylive.com/czbtv2019/czzhpd.m3u8
 潮州民生,http://time-vod-qhlive.sobeylive.com/czbtv2019/czggpd.m3u8
 潮州民生,http://120.238.13.198:8000/hls/67/index.m3u8
@@ -880,6 +885,7 @@ BRTV纪实科教,http://majian.ixiaobai.net:58888/rtp/239.37.0.101:5540
 永川综合,https://qxlmlive9.cbg.cn/applive/yctv01/playlist.m3u8
 开州综合,https://qxlmlive9.cbg.cn/applive/kzpd01/chunklist.m3u8
 港澳,#genre#
+凤凰中文,http://wouu.net:9977/udp/239.93.0.162:2192
 凤凰中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,https://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,https://play-flive.ifeng.com/live/06OLEGEGM4G.flv
@@ -895,6 +901,7 @@ BRTV纪实科教,http://majian.ixiaobai.net:58888/rtp/239.37.0.101:5540
 凤凰中文,http://183.6.122.31:8091/HK/fhzw.live.flv
 凤凰中文,http://117.27.190.42:9901/tsfile/live/23280_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰中文,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰资讯,http://wouu.net:9977/udp/239.93.0.118:2191
 凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯,https://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯,https://play-flive.ifeng.com/live/06OLEEWQKN4.flv
