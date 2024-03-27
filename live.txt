@@ -920,8 +920,8 @@ BRTV纪实科教,http://majian.ixiaobai.net:58888/rtp/239.37.0.101:5540
 凤凰香港,http://113.64.145.200:8081/hls/38/index.m3u8
 凤凰香港,https://epg.pw/stream/8352ad260441ed0064f63f7a25eb3a7268a68b391f08a345b9bdbefd51aa330f.m3u8
 凤凰香港,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
-TVB翡翠台,http://1b6467f415.iok.la:9931/tsfile/live/1007_1.m3u8
-TVB翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+TVB翡翠,http://1b6467f415.iok.la:9931/tsfile/live/1007_1.m3u8
+TVB翡翠,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 TVB新闻,https://s2.pub/cctv-12
 TVB新闻,http://1.65.195.85:9981/stream/channelid/2051586642?profile=pass
 TVB新闻,https://i.125011.xyz/tvb.php?id=0&hq
@@ -932,8 +932,8 @@ TVB财经,https://i.125011.xyz/tvb.php?id=2&hq
 TVB财经,http://live.cooltv.top/tv/tvb.php?id=2
 TVB财经,http://r.jdshipin.com/jUx8K
 TVB财经,http://bziyunshao.synology.me:8890/bysid/85
-TVB华丽台,http://v2h.jdshipin.com/jade/jade.stream/chunklist.m3u8
-TVB华丽台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+TVB华丽,http://v2h.jdshipin.com/jade/jade.stream/chunklist.m3u8
+TVB华丽,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 TVB娱乐,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
 TVB星河,http://1b6467f415.iok.la:9931/tsfile/live/1008_1.m3u8
 TVB星河,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
