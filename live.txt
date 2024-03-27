@@ -239,6 +239,7 @@ CCTV4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 中国教育4,http://111.196.131.234:8012/rtp/239.3.1.213:4220
 中国教育4,http://111.196.131.234:8012/rtp/239.3.1.214:4220
 中国交通,http://majian.ixiaobai.net:58888/rtp/239.37.0.226:5540
+中国气象,http://ddns.cyruslee.top:8888/udp/239.77.0.141:5146
 CCTV9纪录,http://majian.ixiaobai.net:58888/rtp/239.37.0.1:5540
 CCTV17农业农村,http://majian.ixiaobai.net:58888/rtp/239.37.0.2:5540
 CCTV2财经,http://majian.ixiaobai.net:58888/rtp/239.37.0.3:5540
@@ -648,9 +649,11 @@ Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482
 广东,#genre#
 广东卫视,http://218.13.170.98:9901/tsfile/live/0017_1.m3u8
 广东新闻,http://php.jdshipin.com:8880/chudian.php?id=gdxw
+广东珠江,http://ddns.cyruslee.top:8888/udp/239.77.0.001:5146
 广东珠江,http://xjayrf.eatuo.com:9901/tsfile/live/1011_1.m3u8
 广东珠江,http://php.jdshipin.com:8880/chudian.php?id=gdzj
 经济科教,http://218.13.170.98:9901/tsfile/live/0018_1.m3u8
+广东影视,http://ddns.cyruslee.top:8888/udp/239.77.0.217:5146
 广东影视,http://ci.emdoor.tech:8080/touchtv.php?pk=1199
 广东影视,http://php.jdshipin.com:8880/chudian.php?id=gdys
 广东民生,http://ddns.cyruslee.top:8888/udp/239.77.0.225:5146
@@ -660,6 +663,7 @@ Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482
 广东体育,http://php.jdshipin.com:8880/chudian.php?id=gdty
 广东移动,http://ci.emdoor.tech:8080/touchtv.php?pk=2463
 广东移动,http://php.jdshipin.com:8880/chudian.php?id=gdyd
+大湾区卫视,http://ddns.cyruslee.top:8888/udp/239.77.0.215:5146
 广东健康,http://glive.grtn.cn/live/health.m3u8
 广东生活,http://glive.grtn.cn/live/life.m3u8
 广东纪录,http://glive.grtn.cn/live/jilupian.m3u8
@@ -705,6 +709,8 @@ Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482
 佛山顺德,http://php.jdshipin.com:8880/fstv.php?id=fssd
 东莞新闻综合,http://php.jdshipin.com:8880/0769.php?id=xwzh
 东莞生活资讯,http://php.jdshipin.com:8880/0769.php?id=shzx
+珠海-2,http://ddns.cyruslee.top:8888/udp/239.77.0.154:5146
+茂名综合,http://ddns.cyruslee.top:8888/udp/239.77.0.206:5146
 肇庆综合,http://ci.emdoor.tech:8080/touchtv.php?pk=1232
 肇庆生活,http://ci.emdoor.tech:8080/touchtv.php?pk=2525
 汕头综合,http://120.238.13.198:8000/hls/65/index.m3u8
@@ -1099,6 +1105,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 钱江频道,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 之江记录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 之江记录,http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+求索记录,http://ddns.cyruslee.top:8888/udp/239.77.0.021:5146
 浙江经济生活,http://125.125.198.35:8888/rtp/233.50.201.133:5140
 浙江教育,http://125.125.198.35:8888/rtp/233.50.201.134:5140
 浙江民生,http://125.125.198.35:8888/rtp/233.50.201.136:5140
@@ -1299,7 +1306,9 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 金鹰卡通,http://majian.ixiaobai.net:58888/rtp/239.37.0.61:5540
 金鹰卡通,http://223.151.49.74:59901/tsfile/live/0019_1.m3u8
 金鹰卡通,http://118.254.202.28:8888/udp/239.76.245.120:1234
-金鹰卡通,http://123.52.43.144:8888/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0茶频道,http://majian.ixiaobai.net:58888/rtp/239.37.0.245:5540
+金鹰卡通,http://123.52.43.144:8888/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+茶频道,http://majian.ixiaobai.net:58888/rtp/239.37.0.245:5540
+茶频道,http://ddns.cyruslee.top:8888/udp/239.77.0.015:5146
 茶频道,http://114.252.126.65:7000/rtp/239.3.1.165:8001
 快乐垂钓,http://majian.ixiaobai.net:58888/rtp/239.37.0.244:5540
 快乐垂钓,http://114.252.126.65:7000/rtp/239.3.1.164:8001
