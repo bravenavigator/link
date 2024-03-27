@@ -653,7 +653,6 @@ Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482
 广东珠江,http://php.jdshipin.com:8880/chudian.php?id=gdzj
 经济科教,http://218.13.170.98:9901/tsfile/live/0018_1.m3u8
 广东影视,http://ddns.cyruslee.top:8888/udp/239.77.0.217:5146
-广东影视,http://ci.emdoor.tech:8080/touchtv.php?pk=1199
 广东影视,http://php.jdshipin.com:8880/chudian.php?id=gdys
 广东民生,http://ddns.cyruslee.top:8888/udp/239.77.0.225:5146
 广东少儿,http://php.jdshipin.com:8880/chudian.php?id=gdse
