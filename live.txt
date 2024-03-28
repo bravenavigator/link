@@ -405,6 +405,7 @@ Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482
 深圳卫视,http://27.217.213.217:18888/rtp/239.253.248.91:8000
 深圳卫视,http://113.12.72.152:9901/tsfile/live/1026_1.m3u8?key=txiptv
 深圳卫视,http://114.252.126.65:7000/rtp/239.3.1.134:8020
+深圳卫视,http://ddns.cyruslee.top:8888/udp/239.77.0.130:5146
 江苏卫视,http://223.151.49.74:59901/tsfile/live/0127_1.m3u8?key=txiptv
 江苏卫视,http://mu520.wicp.net:50085/hls/29/index.m3u8
 江苏卫视,http://221.213.70.18:9901/tsfile/live/0130_1.m3u8?=TG@YYDSyouzai=key=txiptv&playlive=1&authid=0=TG@YYDSyouzai
@@ -758,12 +759,10 @@ Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482
 肇庆综合,http://ci.emdoor.tech:8080/touchtv.php?pk=1232
 肇庆生活,http://ci.emdoor.tech:8080/touchtv.php?pk=2525
 汕头综合,http://183.237.246.14:9931/tsfile/live/1131_1.m3u8?key=txiptv&playlive=1&authid=0
-汕头综合,http://120.238.13.198:8000/hls/65/index.m3u8
+汕头综合,http://ddns.cyruslee.top:8888/udp/239.77.0.025:5146
 汕头综合,https://stqznews.top/tv/live/stzhhd.php
 汕头经济,http://183.237.246.14:9931/tsfile/live/1132_1.m3u8?key=txiptv&playlive=1&authid=0
-汕头经济,http://120.238.13.198:8000/hls/66/index.m3u8
 汕头经济,https://stqznews.top/tv/live/stjjhd.php
-汕头文旅体育,http://183.237.246.14:9931/tsfile/live/1133_1.m3u8?key=txiptv&playlive=1&authid=0
 潮州综合,http://time-vod-qhlive.sobeylive.com/czbtv2019/czzhpd.m3u8
 潮州民生,http://time-vod-qhlive.sobeylive.com/czbtv2019/czggpd.m3u8
 潮州民生,http://120.238.13.198:8000/hls/67/index.m3u8
