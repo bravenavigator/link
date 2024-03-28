@@ -756,12 +756,10 @@ Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482
 茂名综合,http://ddns.cyruslee.top:8888/udp/239.77.0.206:5146
 清远综合,https://huodong.zuiqingyuan.com/dianshi/newxinwenpingdao.m3u8?token=B86ouFGGfrmwNY9CDr8t
 清远文旅生活,https://huodong.zuiqingyuan.com/dianshi/newwenlvshenghuo.m3u8?token=B86ouFGGfrmwNY9CDr8t932
+汕头综合,https://stqznews.top/tv/live/stzhhd.php
 肇庆综合,http://ci.emdoor.tech:8080/touchtv.php?pk=1232
 肇庆生活,http://ci.emdoor.tech:8080/touchtv.php?pk=2525
-汕头综合,http://183.237.246.14:9931/tsfile/live/1131_1.m3u8?key=txiptv&playlive=1&authid=0
 汕头综合,http://ddns.cyruslee.top:8888/udp/239.77.0.025:5146
-汕头综合,https://stqznews.top/tv/live/stzhhd.php
-汕头经济,http://183.237.246.14:9931/tsfile/live/1132_1.m3u8?key=txiptv&playlive=1&authid=0
 汕头经济,https://stqznews.top/tv/live/stjjhd.php
 汕头文旅体育,https://stqznews.top/tv/live/stwlhd.php
 潮州综合,http://time-vod-qhlive.sobeylive.com/czbtv2019/czzhpd.m3u8
@@ -1024,7 +1022,9 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 华语电视,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
-番薯电视,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8?blog.ntnas.top
+番薯电视,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+番薯电视,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
+番薯电视,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 江苏,#genre#
 江苏新闻,http://222.189.51.62:8888/newlive/live/hls/55/live.m3u8
 江苏新闻,http://222.188.68.38:8888/newlive/live/hls/26/live.m3u8
@@ -1606,6 +1606,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 郑州新密新闻,http://tvpull.dxhmt.cn:9081/tv/10183-2.m3u8
 郑州新密新闻,http://live.dxhmt.cn:9081/tv/10183-2.m3u8
 郑州登封综合,http://live.dxhmt.cn:9081/tv/10185-1.m3u8
+郑州登封综合,http://tvpull.dxhmt.cn:9081/tv/10185-1.m3u8
 郑州巩义综合,http://live.dxhmt.cn:9081/tv/10181-1.m3u8
 洛阳一套,http://wshls.live.migucloud.com/live/C788MHFD_C0/playlist.m3u8
 洛阳二套,http://wshls.live.migucloud.com/live/CXGQPXRK_C0/playlist.m3u8
@@ -2055,9 +2056,7 @@ CRT文旅体育,http://majian.ixiaobai.net:58888/rtp/239.37.0.097:5540
 蒙语文化,http://tljdh.vip:9901/tsfile/live/1015_1.m3u8
 包头新闻,http://live.btgdt.com/channels/btgd/xwzh/flv:500k/live
 包头新闻,http://live.btgdt.com/channels/btgd/xwzh/m3u8:500k/live
-鄂尔多斯新闻综合,http://live.erdszs.org.cn/lsdream/h2mxgj4/1000/live.m3u8
-鄂尔多斯经济服务,http://live.erdszs.org.cn/lsdream/ogvfqcp/1000/live.m3u8
-鄂尔多斯蒙语综合,http://live.erdszs.org.cn/lsdream/3lZr8dK/1000/live.m3u8
+鄂尔多斯新闻综合,http://nemglt02.chunfengyun.top:9000/udp/239.125.2.165:4154
 鄂尔多斯伊金霍洛综合,https://cms-play.yjhlnews.cn/live/vedio.m3u8
 鄂尔多斯鄂托克综合,http://110.19.181.138:10080/hls/F509Rh7GR/F509Rh7GR_live.m3u8
 鄂尔多斯鄂托克综合,http://live.zcznbj.cn/hls/F509Rh7GR/F509Rh7GR_live.m3u8
