@@ -1880,9 +1880,8 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 黑龙江文体,https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
 哈尔滨新闻综合,https://masterpull.hljtv.com/live/sPvVy8Ju.m3u8
 哈尔滨巴彦综合,https://masterpull.hljtv.com/live/vAtZi96R.m3u8
-哈尔滨宾综合,https://masterpull.hljtv.com/live/DlkgB2B7.m3u8
 哈尔滨方正综合,https://masterpull.hljtv.com/live/sSN2Uyb2.m3u8
-哈尔滨尚志市综合,https://masterpull.hljtv.com/live/EQnKvoc9.m3u8
+哈尔滨尚志综合,https://masterpull.hljtv.com/live/EQnKvoc9.m3u8
 哈尔滨通河综合,https://masterpull.hljtv.com/live/b71kCDir.m3u8
 哈尔滨五常综合,https://masterpull.hljtv.com/live/R9bOklLT.m3u8
 哈尔滨依兰综合,https://masterpull.hljtv.com/live/4sTJDdbE.m3u8
