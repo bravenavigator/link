@@ -280,6 +280,7 @@ CCTV8电视剧,http://majian.ixiaobai.net:58888/rtp/239.37.0.234:5540
 CCTV1综合,http://majian.ixiaobai.net:58888/rtp/239.37.0.235:5540
 中国教育1,http://majian.ixiaobai.net:58888/rtp/239.37.0.188:5540
 中国教育1,http://majian.ixiaobai.net:58888/rtp/239.37.0.193:5540
+CCTV1综合,http://120.224.178.16:9901/tsfile/live/0001_1.m3u8
 CCTV2财经,http://120.224.178.16:9901/tsfile/live/0002_1.m3u8
 CCTV4中文国际,http://120.224.178.16:9901/tsfile/live/0004_1.m3u8
 CCTV5+体育赛事,http://120.224.178.16:9901/tsfile/live/0016_1.m3u8
@@ -291,6 +292,7 @@ CCTV12社会与法,http://120.224.178.16:9901/tsfile/live/0012_1.m3u8
 CCTV13新闻,http://120.224.178.16:9901/tsfile/live/0013_1.m3u8
 CCTV14少儿,http://120.224.178.16:9901/tsfile/live/0014_1.m3u8
 CCTV15音乐,http://120.224.178.16:9901/tsfile/live/0015_1.m3u8
+CCTV1综合,http://111.196.131.234:8012/rtp/239.3.1.129:8008
 CCTV2财经,http://111.196.131.234:8012/rtp/239.3.1.60:8084
 CCTV3综艺,http://111.196.131.234:8012/rtp/239.3.1.172:8001
 CCTV4中文国际,http://111.196.131.234:8012/rtp/239.3.1.105:8092
