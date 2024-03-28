@@ -923,6 +923,8 @@ BRTV纪实科教,http://majian.ixiaobai.net:58888/rtp/239.37.0.101:5540
 凤凰中文,https://play-flive.ifeng.com/live/06OLEGEGM4G.flv
 凤凰中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.flv
 凤凰中文,rtmp://play-flive.ifeng.com/live/06OLEGEGM4G
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,http://113.64.145.228:8081/hls/37/index.m3u8
 凤凰中文,http://113.64.145.200:8081/hls/37/index.m3u8
 凤凰中文,http://27.154.214.56:8888/rtp/239.61.2.184:9092
@@ -939,6 +941,8 @@ BRTV纪实科教,http://majian.ixiaobai.net:58888/rtp/239.37.0.101:5540
 凤凰资讯,https://play-flive.ifeng.com/live/06OLEEWQKN4.flv
 凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.flv
 凤凰资讯,rtmp://play-flive.ifeng.com/live/06OLEEWQKN4
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯,http://113.64.145.200:8081/hls/36/index.m3u8
 凤凰资讯,http://113.64.145.228:8081/hls/36/index.m3u8
 凤凰资讯,http://118.254.202.28:8888/udp/239.76.253.134:9000
