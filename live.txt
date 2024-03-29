@@ -219,10 +219,10 @@ CCTV15音乐,http://114.252.126.65:7000/rtp/239.3.1.153:8136
 CCTV15音乐,http://36.248.137.69:60033/tsfile/live/0015_1.m3u8?key=txiptv
 CCTV14少儿,http://218.13.170.98:9901/tsfile/live/0014_1.m3u8
 CCTV15音乐,http://218.13.170.98:9901/tsfile/live/0015_1.m3u8
-CCTV17农业农村,http://218.13.170.98:9901/tsfile/live/0016_1.m3u8
 CCTV16奥林匹克,http://mu520.wicp.net:50085/hls/16/index.m3u8
 CCTV16奥林匹克,http://111.196.131.234:8012/rtp/239.3.1.184:8001
 CCTV17农业农村,http://mu520.wicp.net:50085/hls/17/index.m3u8
+CCTV17农业农村,http://218.13.170.98:9901/tsfile/live/0016_1.m3u8
 CCTV17农业农村,http://111.196.131.234:8012/rtp/239.3.1.151:8144
 CCTV17农业农村,http://223.151.49.74:59901/tsfile/live/0017_1.m3u8?key=txiptv
 CCTV17农业农村,http://218.89.240.144:59901/tsfile/live/0019_1.m3u8?key=txiptv
@@ -2193,11 +2193,13 @@ CHC家庭影院,http://majian.ixiaobai.net:58888/rtp/239.37.0.188:5540
 俄罗斯Russia Today EN,https://rt-glb.rttv.com/live/rtnews/playlist_2500Kb.m3u8
 俄罗斯Russia Today FR,http://69.64.57.208:8080/rtfrance/playlist.m3u8
 俄罗斯Известия,https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
-俄罗斯中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+俄罗斯TV BRICS CN,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+印度WION,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 韩国ArirangTV,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 韩国ArirangTV,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 韩国ArirangTV,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 韩国KBS WORLD,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
+韩国KBS WORLD,https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
 韩国KBC,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 韩国MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 韩国KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
@@ -2229,22 +2231,31 @@ CHC家庭影院,http://majian.ixiaobai.net:58888/rtp/239.37.0.188:5540
 英国Sky Sport 6,https://donelfantastic.github.io/live/skysportsNz6.m3u8
 英国Sky Sport 7,https://donelfantastic.github.io/live/skysportsNz7.m3u8
 美国EDGE Sport,https://edgesport-samsunguk.amagi.tv/playlist.m3u8
+美国Fight Network,https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
+美国Tennis Channel,https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 新加坡ESPN,http://143.244.60.30/ESPN/index.m3u8
 法国EUROSPORT 1,http://54.39.17.6/eurosport/mono.m3u8
 美国Discoveryᴴᴰ,http://88.212.7.11/live/test_discovery_hd_hevc/playlist.m3u8
 美国National Geographicᴴᴰ,http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 美国Ski TV,https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SynapseTV/193.m3u8
 美国Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-Wild Planet,https://d3c7duantorcb1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/77466ab3-8e6b-497f-9bf9-7b20f2536a20/3.m3u8
-Wild Planet,https://d3c7duantorcb1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/77466ab3-8e6b-497f-9bf9-7b20f2536a20/3.m3u8
-Animal Planet,http://41.205.93.154/ANIMALPLANET/index.m3u8
-Ski TV,https://d2xeo83q8fcni6.cloudfront.net/scheduler/scheduleMaster/193.m3u8
-Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
-Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-Love Nature,https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+英国Wild Planet,https://d3c7duantorcb1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/77466ab3-8e6b-497f-9bf9-7b20f2536a20/3.m3u8
+英国Wild Planet,https://d3c7duantorcb1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/77466ab3-8e6b-497f-9bf9-7b20f2536a20/3.m3u8
+美国Animal Planet,http://41.205.93.154/ANIMALPLANET/index.m3u8
+法国Ski TV,https://d2xeo83q8fcni6.cloudfront.net/scheduler/scheduleMaster/193.m3u8
+英国Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+英国Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+英国Love Nature,https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 Tastemate Travelᴴᴰ,https://tastemadetravel-vizio.amagi.tv/playlist720_p.m3u8
-Travexp,https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
-Motorvisison TV,https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+印度Travexp,https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
+印度Xplore,http://xlpore-samsungus.amagi.tv/playlist1080p.m3u8
+德国Motorvisison TV,https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+美国HBO,http://41.205.93.154/HBO/index.m3u8
+美国The Weather Channel,https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/3.m3u8
+美国History,http://41.205.93.154/HISTORY/index.m3u8
+法国TRACE Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+法国Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+音乐欣赏3,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAguOaa4gUo_J_z6gI.mp4
 斗鱼,#genre#
 斗鱼探险,http://epg.112114.xyz/douyu/3485629
 斗鱼搞笑1,http://epg.112114.xyz/douyu/9220456
