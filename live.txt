@@ -369,9 +369,7 @@ CCTV9纪录,http://110.7.128.178:8096/tsfile/live/0009_1.m3u8
 CGTN英语,http://171.108.239.31:8181/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 CGTN英语,http://171.108.239.8:8181/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 CGTN英语,http://114.252.126.65:7000/rtp/239.3.1.215:4220
-CGTN英语,http://171.108.239.31:8181/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-CGTN英语,http://171.108.239.8:8181/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-CGTN新闻,http://111.196.131.234:8012/rtp/239.3.1.215:4220
+CGTN英语,http://111.196.131.234:8012/rtp/239.3.1.215:4220
 CGTN法语,https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
 CGTN法语,http://114.252.126.65:7000/rtp/239.3.1.218:4220
 CGTN法语,http://111.196.131.234:8012/rtp/239.3.1.218:4220
