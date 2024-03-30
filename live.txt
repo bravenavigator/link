@@ -353,7 +353,7 @@ CCTV4中文国际,http://110.7.128.174:8096/tsfile/live/0005_1.m3u8
 CCTV4中文国际,http://110.7.128.176:8096/tsfile/live/0005_1.m3u8
 CCTV4中文国际,http://110.7.128.177:8096/tsfile/live/0005_1.m3u8
 CCTV4中文国际,http://110.7.128.178:8096/tsfile/live/0005_1.m3u8
-CCTV6,http://110.7.128.17:8096/tsfile/live/0006_1.m3u8
+CCTV6电影,http://110.7.128.17:8096/tsfile/live/0006_1.m3u8
 CCTV6电影,http://110.7.128.171:8096/tsfile/live/0006_1.m3u8
 CCTV6电影,http://110.7.128.173:8096/tsfile/live/0006_1.m3u8
 CCTV6电影,http://110.7.128.174:8096/tsfile/live/0006_1.m3u8
