@@ -820,7 +820,6 @@ Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482
 广东体育,http://120.238.13.198:8000/hls/56/index.m3u8
 广东体育,http://ddns.cyruslee.top:8888/udp/239.77.0.112:5146
 广东体育,http://php.jdshipin.com:8880/chudian.php?id=gdty
-广东移动,http://ci.emdoor.tech:8080/touchtv.php?pk=2463
 广东移动,http://php.jdshipin.com:8880/chudian.php?id=gdyd
 大湾区卫视,http://ddns.cyruslee.top:8888/udp/239.77.0.215:5146
 大湾区卫视,http://php.jdshipin.com:8880/chudian.php?id=nfws
@@ -874,8 +873,6 @@ Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482
 茂名综合,http://ddns.cyruslee.top:8888/udp/239.77.0.206:5146
 清远综合,https://huodong.zuiqingyuan.com/dianshi/newxinwenpingdao.m3u8?token=B86ouFGGfrmwNY9CDr8t
 清远文旅生活,https://huodong.zuiqingyuan.com/dianshi/newwenlvshenghuo.m3u8?token=B86ouFGGfrmwNY9CDr8t932
-肇庆综合,http://ci.emdoor.tech:8080/touchtv.php?pk=1232
-肇庆生活,http://ci.emdoor.tech:8080/touchtv.php?pk=2525
 汕头综合,https://stqznews.top/tv/live/stzhhd.php
 汕头综合,http://120.238.13.198:8000/hls/65/index.m3u8
 汕头经济生活,https://stqznews.top/tv/live/stjjhd.php
@@ -893,7 +890,6 @@ Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482
 梅州二套,http://pili-live-hls.xianchangliving.gdmztv.com/meizhou-xianchangliving/mztv2.m3u8
 惠州惠东综合,http://php.jdshipin.com:8880/chudian.php?id=hdzh
 惠州惠阳综合,http://php.jdshipin.com:8880/chudian.php?id=hytv
-江门新会综合,http://ci.emdoor.tech:8080/touchtv.php?pk=2490
 江门新会综合,http://php.jdshipin.com:8880/chudian.php?id=xhzh
 江门开平综合,http://php.jdshipin.com:8880/chudian.php?id=kpzh
 江门开平生活,http://php.jdshipin.com:8880/chudian.php?id=kpsh
@@ -906,10 +902,8 @@ Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482
 茂名信宜综合,http://php.jdshipin.com:8880/chudian.php?id=xyzh
 肇庆广宁综合,http://php.jdshipin.com:8880/chudian.php?id=gnzh
 肇庆怀集综合,http://php.jdshipin.com:8880/chudian.php?id=hjzh
-肇庆怀集综合,http://ci.emdoor.tech:8080/touchtv.php?pk=2462
 河源紫金综合,http://php.jdshipin.com:8880/chudian.php?id=zjzh
 河源东源台,http://php.jdshipin.com:8880/chudian.php?id=dytv
-河源连平综合,http://ci.emdoor.tech:8080/touchtv.php?pk=2520
 清远英德新闻综合,http://php.jdshipin.com:8880/chudian.php?id=ydxw
 韶关乐昌综合,http://php.jdshipin.com:8880/chudian.php?id=lctv
 潮州潮安综合,http://php.jdshipin.com:8880/chudian.php?id=cazh
