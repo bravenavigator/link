@@ -2277,7 +2277,6 @@ CHC家庭影院,http://120.238.13.198:8000/hls/103/index.m3u8
 美国CBN News,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 美国ABC News,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
 美国ABC News,http://41.205.93.154/ABC/index.m3u8
-美国ABC WEST,http://23.237.100.82:8000/ABC_WEST/manifest.m3u8
 美国NBC News,http://41.205.93.154/NBC/index.m3u8
 美国Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 美国Bloomberg HT,https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
@@ -2286,7 +2285,6 @@ CHC家庭影院,http://120.238.13.198:8000/hls/103/index.m3u8
 美国PBS World Channel,https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/HasBahCa.m3u8
 美国PBS World Channel,https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
 英国BBC World News,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-英国BBC World News,http://livetv.ktv.zone/60/play.m3u8
 英国Sky News,https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
 英国Reuters TV,https://reuters-reutersnow-1-us.plex.wurl.tv/c0c0829237382f291cc46a0368586aa7.m3u8
 卡塔尔AL Jazeera,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
@@ -2322,7 +2320,6 @@ CHC家庭影院,http://120.238.13.198:8000/hls/103/index.m3u8
 韩国KBC,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 韩国MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 韩国KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
-新加坡Channel NewsAsia,https://epg.pw/stream/686859a78a892c5ba9886574bd68c82fb84e4024860d784847c29443e291ef71.m3u8
 新加坡Channel NewsAsia,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 新加坡Channel NewsAsia,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 新加坡Channel NewsAsia,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
@@ -2339,7 +2336,6 @@ CHC家庭影院,http://120.238.13.198:8000/hls/103/index.m3u8
 阿联酋Sharjahtv,https://epg.pw/stream/015719860ea5e8844ebfbfb66fe6898892d6f68dfe31337cfa95312689cb1f99.m3u8
 阿联酋DUBAI ONE,http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8?checkedby:iptvcat.com
 尼日利亚TSTV,http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
-埃塞俄比亚addistv,https://epg.pw/stream/cf66e94f476d3d328d04c3b0b71da1979d6435fdb1a7fda45179f89f1e40c8db.m3u8
 英国BBC Earth,http://typicamn.russtv.net/iptv/349W3XS8ENP64A/6855/index.m3u8
 英国BBC travel,https://ab96b349d4d14d80a1f8530a0bce4488.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-de_BBCTravel/playlist.m3u8?
 英国Sky Sports football,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7336/index.m3u8
