@@ -883,8 +883,12 @@ Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482
 佛山顺德,http://php.jdshipin.com:8880/fstv.php?id=fssd
 东莞新闻综合,http://php.jdshipin.com:8880/0769.php?id=xwzh
 东莞生活资讯,http://php.jdshipin.com:8880/0769.php?id=shzx
+珠海一套,http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.155:5146
+珠海二套,http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.154:5146
 珠海二套,http://ddns.cyruslee.top:8888/udp/239.77.0.154:5146
-湛江综合,http://ddns.cyruslee.top:8888/udp/239.77.0.141:5146
+湛江新闻综合,http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.141:5146
+湛江新闻综合,http://ddns.cyruslee.top:8888/udp/239.77.0.141:5146
+湛江公共,http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.140:5146
 茂名综合,http://ddns.cyruslee.top:8888/udp/239.77.0.206:5146
 清远综合,https://huodong.zuiqingyuan.com/dianshi/newxinwenpingdao.m3u8?token=B86ouFGGfrmwNY9CDr8t
 清远文旅生活,https://huodong.zuiqingyuan.com/dianshi/newwenlvshenghuo.m3u8?token=B86ouFGGfrmwNY9CDr8t932
