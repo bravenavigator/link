@@ -1222,8 +1222,8 @@ BRTV纪实科教,http://majian.ixiaobai.net:58888/rtp/239.37.0.101:5540
 魅力足球,http://php.jdshipin.com:8880/bst.php?id=mlzq
 魅力足球,http://php.jdshipin.com:8880/bst.php?id=mlyyhd/4000000
 新视觉频道,http://php.jdshipin.com:8880/bst.php?id=xsj
-新视觉,http://php.jdshipin.com:8880/bst.php?id=xsjhd/4000000
-新视觉,http://php.jdshipin.com:8880/bst.php?id=xsjhd8m/8000000
+新视觉频道,http://php.jdshipin.com:8880/bst.php?id=xsjhd/4000000
+新视觉频道,http://php.jdshipin.com:8880/bst.php?id=xsjhd8m/8000000
 崇明综合,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
 嘉定综合,https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8
 天津,#genre#
