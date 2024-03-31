@@ -733,6 +733,7 @@ Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482
 兵团卫视,https://epg.pw/stream/d84efa5eb598b5211d873bf4c345d5e25800edcf2b6cea4cc78e5c909b15b625.m3u8
 兵团卫视,https://test5.btzx.com.cn/live/2023bt.stream/chunklist_w901976294.m3u8
 西藏卫视,http://113.12.72.152:9901/tsfile/live/1035_1.m3u8
+西藏卫视,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel66/index.m3u8
 海峡卫视,http://php.jdshipin.com:8880/bst.php?id=hxws
 海峡卫视,http://27.154.214.56:8888/rtp/239.61.2.151:8894
 海峡卫视,http://117.27.190.42:9901/tsfile/live/23283_1.m3u8?key=txiptv
