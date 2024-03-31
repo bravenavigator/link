@@ -1391,6 +1391,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 浙江,#genre#
 浙江新闻,http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+浙江新闻,http://125.210.152.19:9121/live/hzgq-zjnewsgq-h264.m3u8
 浙江经济生活,http://101.71.176.182:8888/newlive/live/hls/51/live.m3u8
 浙江经济生活,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江经济生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
@@ -1408,6 +1409,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 钱江频道,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 钱江频道,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+钱江频道,http://125.210.152.19:9121/live/hzgq-qjtvgq-h264.m3u8
 之江记录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 之江记录,http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 求索记录,http://ddns.cyruslee.top:8888/udp/239.77.0.021:5146
