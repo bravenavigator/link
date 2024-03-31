@@ -1329,6 +1329,7 @@ TVB功夫,https://ali.hlspull.yximgs.com/live/12344.flv
 TVB功夫,https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3u8
 TVB明珠,http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8
 TVB明珠,http://1.65.195.85:9981/stream/channelid/1803382046?profile=pass
+星空卫视,http://183.237.246.14:9931/tsfile/live/1039_1.m3u8
 澳门卫视,http://61.244.22.5/ch3/ch3.live/index.m3u8
 澳门卫视,http://61.244.22.5/ch3/ch3.live/chunklist.m3u8
 澳门卫视,http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
