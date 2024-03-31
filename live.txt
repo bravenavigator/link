@@ -8,6 +8,7 @@ CCTV13新闻,http://27.217.213.217:18888/rtp/239.253.248.14:8000
 CCTV13新闻,http://113.12.72.152:9901/tsfile/live/1013_1.m3u8?key=txiptv
 CCTV13新闻,http://114.252.126.65:7000/rtp/239.3.1.124:8128
 CCTV13新闻,http://36.248.137.69:60033/tsfile/live/0013_1.m3u8?key=txiptv
+CCTV13新闻,http://live.chunfei.top/live02/cctv.m3u8?channel=cctvnews
 CCTV1综合,http://110.52.99.109:9901/tsfile/live/1000_1.m3u8
 CCTV1综合,http://221.213.70.18:9901/tsfile/live/0001_1.m3u8?=TG@YYDSyouzai=key=txiptv&playlive=1&authid=0=TG@YYDSyouzai
 CCTV1综合,http://60.174.137.146:9901/tsfile/live/0001_1.m3u8?key=txiptv&url=tvzb.com
@@ -713,6 +714,7 @@ Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482
 吉林卫视,http://114.252.126.65:7000/rtp/239.3.1.240:8172
 吉林卫视,http://61.136.172.236:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://117.27.190.42:9901/tsfile/live/23258_1.m3u8?key=txiptv&playlive=1&authid=0
+甘肃卫视,https://hlss.gstv.com.cn/49048r/6e1sy2.m3u8
 甘肃卫视,http://113.12.72.152:9901/tsfile/live/1034_1.m3u8?key=txiptv
 甘肃卫视,http://218.13.170.98:9901/tsfile/live/0141_1.m3u8
 甘肃卫视,http://117.27.190.42:9901/tsfile/live/23277_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -730,6 +732,8 @@ Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482
 内蒙古卫视,https://epg.pw/stream/4771a189ad19420bb986b757be6eebee1b68d9f586e1580a742e4a63d015a966.m3u8
 新疆卫视,http://106.124.91.222:9901/tsfile/live/21212_1.m3u8
 新疆卫视,http://113.12.72.152:9901/tsfile/live/1036_1.m3u8
+新疆卫视,http://49.71.78.122/hlslive-tx-cdn.ysp.cctv.cn/ysp/2019927403.m3u8
+新疆卫视,http://106.124.91.222:9901/tsfile/live/21212_1.m3u8
 兵团卫视,https://epg.pw/stream/d84efa5eb598b5211d873bf4c345d5e25800edcf2b6cea4cc78e5c909b15b625.m3u8
 兵团卫视,https://test5.btzx.com.cn/live/2023bt.stream/chunklist_w901976294.m3u8
 西藏卫视,http://113.12.72.152:9901/tsfile/live/1035_1.m3u8
@@ -2281,7 +2285,6 @@ CRT文旅体育,http://majian.ixiaobai.net:58888/rtp/239.37.0.097:5540
 延边图们-1,http://majian.ixiaobai.net:58888/rtp/239.37.0.163:5540
 辽源新闻综合,http://majian.ixiaobai.net:58888/rtp/239.37.0.250:5540
 甘肃,#genre#
-甘肃卫视,https://hlss.gstv.com.cn/49048r/6e1sy2.m3u8
 经济频道,https://hlss.gstv.com.cn/49048r/10iv1j.m3u8
 文化影视,https://hlss.gstv.com.cn/49048r/w1l6d5.m3u8
 公共应急,https://hlss.gstv.com.cn/49048r/3t5xyc.m3u8
@@ -2325,9 +2328,12 @@ CRT文旅体育,http://majian.ixiaobai.net:58888/rtp/239.37.0.097:5540
 新闻综合,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800
 新闻综合,http://tljdh.vip:9901/tsfile/live/1016_1.m3u8
 新闻综合,http://api2.52tb.xyz/info?id=781&token=20230405tndmhg
+新闻综合,https://epg.pw/stream/d7aa1346ac7eb6557177de5d526cbf5ca3f027ffa89d3f95472c1f6c5b8a5b2c.m3u8
 经济生活,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=8e4b7cf6a2c8a75f74aef1a8a07cef43&txTime=771E8800
+经济生活,http://1.30.18.218:20080/hls/30/index.m3u8
 少儿频道,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800
 文体娱乐,https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800
+文体娱乐,https://epg.pw/stream/3e3a5613a7d58aabfefe76df40a9f69517a73afc939cb080ebcd56723a461cc0.m3u8
 农牧频道,https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f17746112ad1b7&txTime=771E8800
 农牧频道,http://api2.52tb.xyz/info?id=886&token=20230405tndmhg
 农牧频道,https://epg.pw/stream/f426a12024c3d2a6271d7b4e1514b8da71aeef77a9033c211e1e49a8386a8668.m3u8
@@ -2370,13 +2376,14 @@ CRT文旅体育,http://majian.ixiaobai.net:58888/rtp/239.37.0.097:5540
 卡拉玛依汉语综合,http://klmysjtzb.rcsxzx.com/hls/klmy1.m3u8
 卡拉玛依维语综合,http://klmysjtzb.rcsxzx.com/hls/klmy2.m3u8
 卡拉玛依影视,http://klmysjtzb.rcsxzx.com/hls/klmy3.m3u8
-十三师新星综合,http://test5.btzx.com.cn/live/13TV.stream/playlist.m3u8
+新星综合,http://test5.btzx.com.cn/live/13TV.stream/playlist.m3u8
+昆玉综合,http://test5.btzx.com.cn/live/14TV.stream/playlist.m3u8
 巴音郭楞综合,http://file.loulannews.cn/nmip-media/channellive/channel101476/playlist.m3u8
 巴音郭楞维语,http://file.loulannews.cn/nmip-media/channellive/channel102433/playlist.m3u8
 巴音郭楞维语,http://file.loulannews.cn/nmip-media/channellive/channel103824/playlist.m3u8
 巴音郭楞教育,http://file.loulannews.cn/nmip-media/channellive/channel104199/playlist.m3u8
-塔城裕民哈语,http://117.190.130.4:8081/out_2/index.m3u8?zxinjd
-塔城裕民汉语,http://117.190.130.4:8081/out_1/index.m3u8?zxinjd
+塔城裕民哈语,http://117.190.130.4:8081/out_2/index.m3u8
+塔城裕民汉语,http://117.190.130.4:8081/out_1/index.m3u8
 西藏,#genre#
 西藏影视文化,http://220.182.45.198:20088/tsfile/live/1003_1.m3u8
 西藏藏语卫视,http://php.jdshipin.com:8880/xztv.php?id=zy
