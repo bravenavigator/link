@@ -240,6 +240,7 @@ CCTV17农业农村,http://114.252.126.65:7000/rtp/239.3.1.151:8144
 CCTV17农业农村,http://222.173.134.150:8888/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV兵器科技,http://majian.ixiaobai.net:58888/rtp/239.37.0.084:5540
 CCTV世界地理,http://majian.ixiaobai.net:58888/rtp/239.37.0.079:5540
+CCTV世界地理,http://113.9.161.31:88/hls/118/index.m3u8CCTV
 CCTV文化精品,http://majian.ixiaobai.net:58888/rtp/239.37.0.083:5540
 CCTV女性时尚,http://majian.ixiaobai.net:58888/rtp/239.37.0.069:5540
 CCTV风云音乐,http://majian.ixiaobai.net:58888/rtp/239.37.0.081:5540
@@ -251,7 +252,8 @@ CCTV电视指南,http://majian.ixiaobai.net:58888/rtp/239.37.0.115:5540
 CCTV风云足球,http://majian.ixiaobai.net:58888/rtp/239.37.0.080:5540
 CCTV高尔夫网球,http://majian.ixiaobai.net:58888/rtp/239.37.0.230:5540
 CCTV央视台球,http://majian.ixiaobai.net:58888/rtp/239.37.0.163:5540
-CCTV重温经典,http://1.62.64.234/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
+CCTV央视台球,http://113.9.161.31:88/hls/51/index.m3u8
+重温经典,http://1.62.64.234/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 CCTV4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 看天下,http://php.jdshipin.com:8880/bst.php?id=ktxjx8m/8000000
 中国教育1,http://27.217.213.217:18888/rtp/239.253.248.110:8000
@@ -277,7 +279,6 @@ CCTV1综合,http://majian.ixiaobai.net:58888/rtp/239.37.0.55:5540
 CCTV1综合,http://majian.ixiaobai.net:58888/rtp/239.37.0.108:5540
 CCTV5+体育赛事,http://majian.ixiaobai.net:58888/rtp/239.37.0.121:5540
 CCTV1综合,http://majian.ixiaobai.net:58888/rtp/239.37.0.150:5540
-CCTV央视台球,http://majian.ixiaobai.net:58888/rtp/239.37.0.162:5540
 CCTV1综合,http://majian.ixiaobai.net:58888/rtp/239.37.0.197:5540
 CCTV1综合,http://majian.ixiaobai.net:58888/rtp/239.37.0.204:5540
 CCTV1综合,http://majian.ixiaobai.net:58888/rtp/239.37.0.221:5540
@@ -1194,6 +1195,7 @@ BRTV纪实科教,http://majian.ixiaobai.net:58888/rtp/239.37.0.101:5540
 生活时尚,http://majian.ixiaobai.net:58888/rtp/239.37.0.240:5540
 生活时尚,http://php.jdshipin.com:8880/bst.php?id=shss
 乐游频道,http://majian.ixiaobai.net:58888/rtp/239.37.0.236:5540
+乐游频道,http://113.9.161.31:88/hls/114/index.m3u8
 乐游频道,http://php.jdshipin.com:8880/bst.php?id=leyou
 乐游频道,http://php.jdshipin.com:8880/bst.php?id=qjshd/4000000
 纪实人文,http://majian.ixiaobai.net:58888/rtp/239.37.0.152:5540
@@ -1206,6 +1208,7 @@ BRTV纪实科教,http://majian.ixiaobai.net:58888/rtp/239.37.0.101:5540
 七彩戏剧,http://php.jdshipin.com:8880/bst.php?id=qcxj
 七彩戏剧,http://php.jdshipin.com:8880/bst.php?id=qcxjhd8m/8000000
 都市剧场,http://majian.ixiaobai.net:58888/rtp/239.37.0.241:5540
+都市剧场,http://113.9.161.31:88/hls/125/index.m3u8
 都市剧场,http://php.jdshipin.com:8880/bst.php?id=dsjc
 都市剧场,http://php.jdshipin.com:8880/bst.php?id=dsjchd/4000000
 欢笑剧场,http://php.jdshipin.com:8880/bst.php?id=hxjc
@@ -1215,6 +1218,7 @@ BRTV纪实科教,http://majian.ixiaobai.net:58888/rtp/239.37.0.101:5540
 哈哈炫动,http://php.jdshipin.com:8880/bst.php?id=hhxd
 哈哈炫动,http://php.jdshipin.com:8880/bst.php?id=hhxdhd/4000000
 动漫秀场,http://majian.ixiaobai.net:58888/rtp/239.37.0.242:5540
+动漫秀场,http://113.9.161.31:88/hls/39/index.m3u8
 动漫秀场,http://php.jdshipin.com:8880/bst.php?id=dmxc
 动漫秀场,http://php.jdshipin.com:8880/bst.php?id=dmxchd/4000000
 动漫秀场,http://php.jdshipin.com:8880/bst.php?id=dmxc8m/8000000
@@ -1897,6 +1901,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 南宁宾阳综合,https://live.gxrb.com.cn/gx/binyang/index.m3u8
 桂林新闻综合,https://pull.gltvs.com/live/glxw/playlist.m3u8?v=b0528684bf934e120e1c30fc808e6576&t=1796868188
 桂林新闻综合,https://pull.gltvs.com:443/live/glxw/playlist.m3u8?v=b0528684bf934e120e1c30fc808e6576&t=1796868188
+北海新闻综合,https://live.gxrb.com.cn/gx/beihai/index.m3u8
 北海新闻综合,http://rtmp.gdlive.gdmain.com/live/09em4xbl.m3u8
 北海新闻综合,http://rtmp.gdlive.gdmain.com/live/09em4xbl.flv
 贺州综合,http://zhz.gxhzxw.com:2935/live/HZXW-HD/playlist.m3u8
@@ -2368,7 +2373,6 @@ CRT文旅体育,http://majian.ixiaobai.net:58888/rtp/239.37.0.097:5540
 延边-2,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 延边-2,https://epg.pw/stream/b29a59ae604e03f418fb64afe7793f3bd6e00c9905ebd638d4a0b58716c74023.m3u8
 延边-2,https://epg.pw/stream/ae4d5ebb6f83c370816cf09f28f4008a06d10e3dd0181cbfacfebfd52fee3c7d.m3u8
-延边图们-1,http://majian.ixiaobai.net:58888/rtp/239.37.0.163:5540
 辽源新闻综合,http://majian.ixiaobai.net:58888/rtp/239.37.0.250:5540
 甘肃,#genre#
 经济频道,https://hlss.gstv.com.cn/49048r/10iv1j.m3u8
