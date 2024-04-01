@@ -499,9 +499,6 @@ Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482
 重庆卫视,http://218.13.170.98:9901/tsfile/live/1012_1.m3u8
 重庆卫视,http://58.220.219.14:9901/tsfile/live/0142_1.m3u8?key=txiptv
 重庆卫视,https://sjlivecdn9.cbg.cn/204912315959/app_2/_definst_/ls_2.stream/chunklist.m3u8
-重庆卫视,http://gmxw.7766.org:808/hls/53/index.m3u8
-重庆卫视,https://live.v1.mk/api/bestv.php?id=cqws8m/8000000
-重庆卫视,https://live.v1.mk/api/ghyx.php?id=ChongQingHD_6000
 广东卫视,http://mu520.wicp.net:50085/hls/36/index.m3u8
 广东卫视,http://221.213.70.18:9901/tsfile/live/0139_1.m3u8?=TG@YYDSyouzai=key=txiptv&playlive=1&authid=0=TG@YYDSyouzai
 广东卫视,http://58.19.182.187:9901/tsfile/live/0125_1.m3u8?key=txiptv
