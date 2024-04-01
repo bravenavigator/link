@@ -1276,8 +1276,7 @@ BRTV纪实科教,http://majian.ixiaobai.net:58888/rtp/239.37.0.101:5540
 凤凰中文,rtmp://play-flive.ifeng.com/live/06OLEGEGM4G
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰中文,http://113.64.145.228:8081/hls/37/index.m3u8
-凤凰中文,http://113.64.145.200:8081/hls/37/index.m3u8
+凤凰中文,http://113.64.145.195:8081/hls/37/index.m3u8
 凤凰中文,http://27.154.214.56:8888/rtp/239.61.2.184:9092
 凤凰中文,http://220.189.108.176:19888/rtp/233.50.200.191:5140
 凤凰中文,http://118.254.202.28:8888/udp/239.76.246.134:1234
@@ -1294,8 +1293,7 @@ BRTV纪实科教,http://majian.ixiaobai.net:58888/rtp/239.37.0.101:5540
 凤凰资讯,rtmp://play-flive.ifeng.com/live/06OLEEWQKN4
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰资讯,http://113.64.145.200:8081/hls/36/index.m3u8
-凤凰资讯,http://113.64.145.228:8081/hls/36/index.m3u8
+凤凰资讯,http://113.64.145.195:8081/hls/36/index.m3u8
 凤凰资讯,http://118.254.202.28:8888/udp/239.76.253.134:9000
 凤凰资讯,http://118.254.202.28:8888/udp/239.76.246.135:1234
 凤凰资讯,http://118.254.202.28:8888/udp/239.76.246.8:1234
@@ -1305,8 +1303,7 @@ BRTV纪实科教,http://majian.ixiaobai.net:58888/rtp/239.37.0.101:5540
 凤凰资讯,http://wouu.net:9977/udp/239.93.0.118:2191
 凤凰资讯,http://livetv.skycf.eu.org/live.m3u8?c=2
 凤凰资讯,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰香港,http://113.64.145.200:8081/hls/38/index.m3u8
-凤凰香港,http://113.64.145.228:8081/hls/38/index.m3u8
+凤凰香港,http://113.64.145.195:8081/hls/38/index.m3u8
 凤凰香港,https://epg.pw/stream/8352ad260441ed0064f63f7a25eb3a7268a68b391f08a345b9bdbefd51aa330f.m3u8
 凤凰香港,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 华语影院,http://php.jdshipin.com:8880/bst.php?id=hyyy8m/8000000
