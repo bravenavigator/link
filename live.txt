@@ -1303,6 +1303,7 @@ BRTV纪实科教,http://majian.ixiaobai.net:58888/rtp/239.37.0.101:5540
 凤凰资讯,http://220.189.108.176:19888/rtp/233.50.200.192:5140
 凤凰资讯,http://117.27.190.42:9901/tsfile/live/23279_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰资讯,http://wouu.net:9977/udp/239.93.0.118:2191
+凤凰资讯,http://livetv.skycf.eu.org/live.m3u8?c=2
 凤凰资讯,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰香港,http://113.64.145.200:8081/hls/38/index.m3u8
 凤凰香港,http://113.64.145.228:8081/hls/38/index.m3u8
