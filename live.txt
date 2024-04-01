@@ -70,6 +70,7 @@ CCTV4中文国际,http://114.252.126.65:7000/rtp/239.3.1.213:4220
 CCTV4中文国际,http://36.248.137.69:60033/tsfile/live/0004_1.m3u8?key=txiptv
 CCTV4中文国际,http://58.210.60.226:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4中文国际,https://iptv.luas.edu.cn/liverespath/c70d81eefb04fef7777c2a5aab4ddc9459ce4246/0baa43f537-0-0-5bc4eda6a2031a1140906b86d867a79e/index.m3u8
+CCTV4中文国际,http://livetv.skycf.eu.org/live.m3u8?c=1
 CCTV5体育,http://110.52.99.109:9901/tsfile/live/1071_1.m3u8
 CCTV5体育,http://221.213.70.18:9901/tsfile/live/0005_1.m3u8?=TG@YYDSyouzai=key=txiptv&playlive=1&authid=0=TG@YYDSyouzai
 CCTV5体育,http://mu520.wicp.net:50085/hls/5/index.m3u8
