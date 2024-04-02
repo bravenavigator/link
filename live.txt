@@ -2500,11 +2500,16 @@ CRT文旅体育,http://majian.ixiaobai.net:58888/rtp/239.37.0.097:5540
 延边-2,https://epg.pw/stream/ae4d5ebb6f83c370816cf09f28f4008a06d10e3dd0181cbfacfebfd52fee3c7d.m3u8
 辽源新闻综合,http://majian.ixiaobai.net:58888/rtp/239.37.0.250:5540
 甘肃,#genre#
-经济频道,https://hlss.gstv.com.cn/49048r/10iv1j.m3u8
-文化影视,https://hlss.gstv.com.cn/49048r/w1l6d5.m3u8
-公共应急,https://hlss.gstv.com.cn/49048r/3t5xyc.m3u8
-少儿频道,https://hlss.gstv.com.cn/49048r/922k96.m3u8
-都市频道,https://hlss.gstv.com.cn/49048r/l54391.m3u8
+甘肃经济, http://www.pr666.site:4040/udp/239.255.30.253:8231
+甘肃公共, http://www.pr666.site:4040/udp/239.255.30.251:8231
+甘肃都市, http://www.pr666.site:4040/udp/239.255.30.252:8231
+甘肃文化影视, http://www.pr666.site:4040/udp/239.255.30.250:8231
+甘肃少儿, http://www.pr666.site:4040/udp/239.255.30.254:8231
+甘肃经济,https://hlss.gstv.com.cn/49048r/10iv1j.m3u8
+甘肃文化影视,https://hlss.gstv.com.cn/49048r/w1l6d5.m3u8
+甘肃公共,https://hlss.gstv.com.cn/49048r/3t5xyc.m3u8
+甘肃少儿,https://hlss.gstv.com.cn/49048r/922k96.m3u8
+甘肃都市,https://hlss.gstv.com.cn/49048r/l54391.m3u8
 平凉崆峒综合,http://125.74.200.110:10080/hls/001/001_live.m3u8
 宁夏,#genre#
 宁夏公共,https://hls.ningxiahuangheyun.com/live/nxgg1M.m3u8
