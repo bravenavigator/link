@@ -1701,6 +1701,9 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 黄山祁门新闻综合,http://wyhawk.x3322.net:8888/udp/238.1.79.14:4224
 黄山祁门新闻综合,http://file.qmxrmt.com/nmip-media/channellive/channel108622/playlist.m3u8
 黄山歙县综合,http://112.30.194.221:20080/live/4b3024127d1c472986ccdcb454f81a9f/hls.m3u8
+芜湖湾沚综合,http://wyhawk.x3322.net:8888/udp/238.1.78.187:7368
+芜湖南陵综合,http://wyhawk.x3322.net:8888/udp/238.1.78.189:7384
+芜湖繁昌综合,http://wyhawk.x3322.net:8888/udp/238.1.78.190:7392
 亳州利辛新闻综合,https://live.fst1994.net/hls/lixinxw/index.m3u8
 亳州利辛文化旅游,https://live.fst1994.net/hls/lixinys/index.m3u8
 亳州蒙城综合,http://wyhawk.x3322.net:8888/udp/238.1.79.19:4264
