@@ -1501,7 +1501,6 @@ TVB明珠,http://1.65.195.85:9981/stream/channelid/1803382046?profile=pass
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?$1024x576
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 台湾,#genre#
-其它,#genre#
 中天新闻,http://ytb.taoiptv.com/live.m3u8?c=9
 中天新闻,http://livetv.skycf.eu.org/live.m3u8?c=7
 中视综合,rtmp://f13h.mine.nu/sat/tv091
@@ -1530,6 +1529,7 @@ TVB明珠,http://1.65.195.85:9981/stream/channelid/1803382046?profile=pass
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 华视综合,rtmp://f13h.mine.nu/sat/tv111
 华视新闻,http://livetv.skycf.eu.org/live.m3u8?c=13
+TVBS新闻,http://ytb.taoiptv.com/live.m3u8?c=11
 TVBS新闻,http://livetv.skycf.eu.org/live.m3u8?c=5
 TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
