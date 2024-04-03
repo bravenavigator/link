@@ -2132,6 +2132,9 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 山东少儿,http://222.173.134.150:8888/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 青岛综合,http://119.165.183.182:8888/udp/239.253.254.243:8000
 青岛生活,http://119.165.183.182:8888/udp/239.253.254.244:8000
+青岛莱西综合,http://119.165.183.182:8888/udp/239.253.254.247:8000
+青岛崂山综合,http://119.165.183.182:8888/udp/239.253.254.242:8000
+青岛平度综合,http://119.165.183.182:8888/udp/239.253.254.248:8000
 菏泽一套,http://live.hznet.tv:1935/live/live1/500k/tzwj_video.m3u8
 菏泽二套,http://live.hznet.tv:1935/live/live2/500k/tzwj_video.m3u8
 菏泽三套,http://live.hznet.tv:1935/live/live3/500k/tzwj_video.m3u8
@@ -2390,7 +2393,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 沧州任丘一套,https://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
 陕西,#genre#
 新闻资讯,http://1.82.144.16:4022/rtp/239.111.205.28:5140
-陕西公共1,http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226334/index.m3u8
+陕西公共,http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226334/index.m3u8
 陕西生活,http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226331/index.m3u8
 陕西生活,http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226329/index.m3u8
 都市青春,http://1.82.144.16:4022/rtp/239.111.205.42:5140
