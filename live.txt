@@ -822,7 +822,6 @@ CGTN英语,http://119.165.183.182:8888/udp/239.253.254.189:8000
 吉林卫视,http://114.252.126.65:7000/rtp/239.3.1.240:8172
 吉林卫视,http://61.136.172.236:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://117.27.190.42:9901/tsfile/live/23258_1.m3u8?key=txiptv&playlive=1&authid=0
-甘肃卫视,https://hlss.gstv.com.cn/49048r/6e1sy2.m3u8
 甘肃卫视,http://www.pr666.site:4040/udp/239.255.30.249:8231
 甘肃卫视,http://119.165.183.182:8888/udp/239.253.254.74:8000
 甘肃卫视,http://113.12.72.152:9901/tsfile/live/1034_1.m3u8?key=txiptv
