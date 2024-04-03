@@ -25,6 +25,7 @@ CCTV1综合,http://49.87.154.246:9901/tsfile/live/0001_1.m3u8?key=txiptv&playliv
 CCTV1综合,http://219.145.93.74:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1综合,http://58.210.23.42:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1综合,http://fxgm.fxjf.work:19901/tsfile/live/0001_1.m3u8
+CCTV1综合,http://123.184.70.100:801/hls/72/index.m3u8
 CCTV2财经,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
 CCTV2财经,http://221.213.70.18:9901/tsfile/live/0002_1.m3u8?=TG@YYDSyouzai=key=txiptv&playlive=1&authid=0=TG@YYDSyouzai
 CCTV2财经,http://60.174.137.146:9901/tsfile/live/0002_1.m3u8?key=txiptv&url=tvzb.com
@@ -162,6 +163,7 @@ CCTV10科教,http://36.248.137.69:60033/tsfile/live/0010_1.m3u8?key=txiptv
 CCTV10科教,http://101.65.34.182:9901/tsfile/live/0010_1.m3u8?key=txiptv
 CCTV10科教,http://123.138.216.44:9902/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV10科教,http://111.74.155.231:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV10科教,http://123.184.70.100:801/hls/78/index.m3u8
 CCTV11戏曲,http://mu520.wicp.net:50085/hls/11/index.m3u8
 CCTV11戏曲,https://epg.pw/stream/748505633a520c17012bc2a44c6986e85f7314f56f5e6c0bec23efa70fdcceb7.m3u8
 CCTV11戏曲,http://223.151.49.74:59901/tsfile/live/0011_1.m3u8?key=txiptv
