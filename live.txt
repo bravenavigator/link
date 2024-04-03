@@ -25,6 +25,7 @@ CCTV1综合,http://49.87.154.246:9901/tsfile/live/0001_1.m3u8?key=txiptv&playliv
 CCTV1综合,http://219.145.93.74:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1综合,http://58.210.23.42:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1综合,https://iptv.luas.edu.cn/liverespath/b455c7a019d404d571655c457e0ee8a9440a7802/e0eea3f2cd-0-0-7b16046e28b9e794d06c5fbcc82d37b9/index.m3u8
+CCTV1综合,http://fxgm.fxjf.work:19901/tsfile/live/0001_1.m3u8
 CCTV2财经,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
 CCTV2财经,http://221.213.70.18:9901/tsfile/live/0002_1.m3u8?=TG@YYDSyouzai=key=txiptv&playlive=1&authid=0=TG@YYDSyouzai
 CCTV2财经,http://60.174.137.146:9901/tsfile/live/0002_1.m3u8?key=txiptv&url=tvzb.com
@@ -40,6 +41,7 @@ CCTV2财经,http://222.92.7.170:3333/tsfile/live/0002_1.m3u8?key=txiptv
 CCTV2财经,http://101.65.34.182:9901/tsfile/live/0002_1.m3u8?key=txiptv
 CCTV2财经,http://123.138.216.44:9902/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2财经,https://iptv.luas.edu.cn/liverespath/6b13fe5368d391761312a985ace065c0ecad2f5e/877097d2fa-0-0-b7736e6941fd5cb71f45ef9397b68092/index.m3u8
+CCTV2财经,http://fxgm.fxjf.work:19901/tsfile/live/0002_1.m3u8
 CCTV3综艺,http://110.52.99.109:9901/tsfile/live/1002_1.m3u8
 CCTV3综艺,http://221.213.70.18:9901/tsfile/live/0003_1.m3u8?=TG@YYDSyouzai=key=txiptv&playlive=1&authid=0=TG@YYDSyouzai
 CCTV3综艺,http://60.174.137.146:9901/tsfile/live/0003_1.m3u8?key=txiptv&url=tvzb.com
@@ -55,6 +57,7 @@ CCTV3综艺,http://218.89.240.144:59901/tsfile/live/0003_1.m3u8?key=txiptv
 CCTV3综艺,http://111.74.155.231:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV3综艺,https://iptv.luas.edu.cn/liverespath/f76f9947c68be18d7a456e25aa59a08c5747e6a5/a75c405c16-0-0-dfdfc6539b46fbb9e1c885d1e280acc3/index.m3u8
 CCTV3综艺,https://iptv.luas.edu.cn/liverespath/f76f9947c68be18d7a456e25aa59a08c5747e6a5/0df24da9ec-0-0-dca40ddadd2a051ce1a83536d9310820/index.m3u8
+CCTV3综艺,http://fxgm.fxjf.work:19901/tsfile/live/0003_1.m3u8
 CCTV4中文国际,http://221.213.70.18:9901/tsfile/live/0004_1.m3u8?=TG@YYDSyouzai=key=txiptv&playlive=1&authid=0=TG@YYDSyouzai
 CCTV4中文国际,http://mu520.wicp.net:50085/hls/4/index.m3u8
 CCTV4中文国际,http://58.19.182.187:9901/tsfile/live/0004_1.m3u8?key=txiptv
@@ -727,6 +730,7 @@ CGTN英语,http://119.165.183.182:8888/udp/239.253.254.189:8000
 云南卫视,http://113.12.72.152:9901/tsfile/live/1025_1.m3u8?key=txiptv
 云南卫视,http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
 云南卫视,http://111.74.155.231:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=0&authid=0
+云南卫视,http://fxgm.fxjf.work:19901/tsfile/live/0119_1.m3u8
 贵州卫视,http://221.213.70.18:9901/tsfile/live/0125_1.m3u8?=TG@YYDSyouzai=key=txiptv&playlive=1&authid=0=TG@YYDSyouzai
 贵州卫视,http://58.19.182.187:9901/tsfile/live/0120_1.m3u8?key=txiptv
 贵州卫视,http://220.182.45.198:20088/tsfile/live/0120_1.m3u8?key=txiptv
@@ -2539,6 +2543,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 辽宁都市,http://jd.sy012.com:4000/udp/232.0.0.42:8856
 辽宁生活,http://jd.sy012.com:4000/udp/232.0.0.212:9242
 辽宁经济,http://jd.sy012.com:4000/udp/232.0.0.155:9320
+辽宁影视剧,http://fxgm.fxjf.work:19901/tsfile/live/1001_1.m3u8
 辽宁体育,http://fxgm.fxjf.work:19901/tsfile/live/1003_1.m3u8
 辽宁移动电视,http://jd.sy012.com:4000/udp/232.0.0.167:9338
 黑龙江,#genre#
@@ -2775,6 +2780,8 @@ CHC高清电影,http://222.141.133.92:8888/rtp/225.1.4.207:1260
 CHC动作电影,http://119.165.183.182:8888/udp/239.253.254.153:8000
 CHC高清电影,http://119.165.183.182:8888/udp/239.253.254.154:8000
 CHC家庭影院,http://119.165.183.182:8888/udp/239.253.254.152:8000
+CHC动作电影,http://fxgm.fxjf.work:19901/tsfile/live/1015_1.m3u8
+CHC家庭影院,http://fxgm.fxjf.work:19901/tsfile/live/1014_1.m3u8
 海外,#genre#
 欧洲华文1台,http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
 欧洲华文2台,http://vvlive.eztv.vip/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
