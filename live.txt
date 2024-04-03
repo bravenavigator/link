@@ -1483,9 +1483,6 @@ TVB功夫,https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3
 TVB功夫,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 TVB明珠,http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8
 TVB明珠,http://1.65.195.85:9981/stream/channelid/1803382046?profile=pass
-港台电视33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
-港台电视34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
-星空卫视,http://183.237.246.14:9931/tsfile/live/1039_1.m3u8
 澳门卫视,http://61.244.22.5/ch3/ch3.live/index.m3u8
 澳门卫视,http://61.244.22.5/ch3/ch3.live/chunklist.m3u8
 澳门卫视,http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
@@ -1496,6 +1493,7 @@ TVB明珠,http://1.65.195.85:9981/stream/channelid/1803382046?profile=pass
 澳门莲花,http://moss.hk3.345888.xyz.cdn.cloudflare.net/11/lotus.php
 澳门体育,http://61.244.22.5/ch4/sport_ch4.live/index.m3u8
 澳门综艺,http://61.244.22.5/ch6/hd_ch6.live/index.m3u8
+澳视澳门，http://183.237.246.14:9931/tsfile/live/1039_1.m3u8
 澳视澳门,http://1b6467f415.iok.la:9931/tsfile/live/1039_1.m3u8
 澳视澳门,http://61.244.22.5/ch1/ch1.live/playelist.m3u8
 澳视澳门,http://61.244.22.5/ch1/ch1.live/playlist.m3u8
