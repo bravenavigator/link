@@ -87,6 +87,7 @@ CCTV5体育,http://114.252.126.65:7000/rtp/239.3.1.173:8001
 CCTV5体育,http://113.81.20.104:9901/tsfile/live/0005_1.m3u8
 CCTV5体育,http://36.248.137.69:60033/tsfile/live/0005_1.m3u8?key=txiptv
 CCTV5体育,http://101.65.34.182:9901/tsfile/live/0005_1.m3u8?key=txiptv
+CCTV5体育,http://acc.tohsaka.cn:9999/rtp/225.1.1.160:5002
 CCTV5+体育赛事,https://epg.pw/stream/086db2bb0313ea69b64e6c5241778b8b5933b629e4bd09ecab5e744b122ed865.m3u8
 CCTV5+体育赛事,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 CCTV5+体育赛事,http://223.151.49.74:59901/tsfile/live/0018_1.m3u8?key=txiptv
@@ -94,6 +95,7 @@ CCTV5+体育赛事,http://220.182.45.198:20088/tsfile/live/0016_1.m3u8?key=txipt
 CCTV5+体育赛事,http://218.89.240.144:59901/tsfile/live/0016_1.m3u8?key=txiptv
 CCTV5+体育赛事,http://113.12.72.152:9901/tsfile/live/1005_1.m3u8?key=txiptv
 CCTV5+体育赛事,http://61.136.172.236:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+体育赛事,http://acc.tohsaka.cn:9999/rtp/225.1.1.121:5002
 CCTV6电影,http://221.213.70.18:9901/tsfile/live/0006_1.m3u8?=TG@YYDSyouzai=key=txiptv&playlive=1&authid=0=TG@YYDSyouzai
 CCTV6电影,http://110.52.99.109:9901/tsfile/live/1005_1.m3u8
 CCTV6电影,http://mu520.wicp.net:50085/hls/6/index.m3u8
@@ -495,6 +497,7 @@ CGTN英语,http://119.165.183.182:8888/udp/239.253.254.189:8000
 北京卫视,http://113.57.103.216:9000/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://123.138.216.44:9902/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://117.27.190.42:9901/tsfile/live/23257_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://acc.tohsaka.cn:9999/rtp/225.1.1.113:5002
 东方卫视,http://mu520.wicp.net:50085/hls/28/index.m3u8
 东方卫视,http://221.213.70.18:9901/tsfile/live/0135_2.m3u8?=TG@YYDSyouzai=key=txiptv&playlive=1&authid=0=TG@YYDSyouzai
 东方卫视,http://58.210.60.226:9901/tsfile/live/0107_1.m3u8?key=txiptv
@@ -538,6 +541,7 @@ CGTN英语,http://119.165.183.182:8888/udp/239.253.254.189:8000
 重庆卫视,http://218.13.170.98:9901/tsfile/live/1012_1.m3u8
 重庆卫视,http://58.220.219.14:9901/tsfile/live/0142_1.m3u8?key=txiptv
 重庆卫视,https://sjlivecdn9.cbg.cn/204912315959/app_2/_definst_/ls_2.stream/chunklist.m3u8
+重庆卫视,http://acc.tohsaka.cn:9999/rtp/225.1.1.155:5002
 广东卫视,http://mu520.wicp.net:50085/hls/36/index.m3u8
 广东卫视,http://221.213.70.18:9901/tsfile/live/0139_1.m3u8?=TG@YYDSyouzai=key=txiptv&playlive=1&authid=0=TG@YYDSyouzai
 广东卫视,http://58.19.182.187:9901/tsfile/live/0125_1.m3u8?key=txiptv
@@ -616,6 +620,7 @@ CGTN英语,http://119.165.183.182:8888/udp/239.253.254.189:8000
 湖南卫视,http://101.65.34.182:9901/tsfile/live/0019_1.m3u8?key=txiptv
 湖南卫视,http://111.74.155.231:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=0&authid=0
 湖南卫视,http://117.27.190.42:9901/tsfile/live/23276_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://acc.tohsaka.cn:9999/rtp/225.1.1.114:5002
 安徽卫视,http://223.151.49.74:59901/tsfile/live/0130_1.m3u8?key=txiptv
 安徽卫视,http://mu520.wicp.net:50085/hls/35/index.m3u8
 安徽卫视,http://61.136.172.236:9901/tsfile/live/0130_1.m3u8?ah
@@ -1165,6 +1170,7 @@ BRTV国际频道,http://webmail.axxe.top:4022/udp/239.3.1.235:8000
 淘Baby,http://webmail.axxe.top:4022/udp/239.3.1.238:8001
 淘剧场,http://webmail.axxe.top:4022/udp/239.3.1.95:8001
 萌宠TV,http://webmail.axxe.top:4022/udp/239.3.1.102:8001
+睛彩影视,http://acc.tohsaka.cn:9999/rtp/225.1.1.141:5002
 睛彩竞技,http://111.196.131.234:8012/rtp/239.3.1.125:8001
 睛彩篮球,http://111.196.131.234:8012/rtp/239.3.1.126:8001
 睛彩羽毛球,http://111.196.131.234:8012/rtp/239.3.1.127:8001
@@ -1205,15 +1211,16 @@ BRTV国际频道,http://webmail.axxe.top:4022/udp/239.3.1.235:8000
 纪实人文,http://120.238.13.198:8000/hls/90/index.m3u8
 法治天地,http://majian.ixiaobai.net:58888/rtp/239.37.0.238:5540
 法治天地,http://www.pr666.site:4040/udp/239.255.29.24:8231
-法治天地,http://119.165.183.182:8888/udp/239.253.254.96:8000
-法治天地,http://www.pr666.site:4040/udp/239.255.29.24:8231
+法治天地,http://acc.tohsaka.cn:9999/rtp/225.1.1.237:5002
 法治天地,http://119.165.183.182:8888/udp/239.253.254.96:8000
 金色学堂,http://majian.ixiaobai.net:58888/rtp/239.37.0.239:5540
+金色学堂,http://acc.tohsaka.cn:9999/rtp/225.1.1.236:5002
 都市剧场,http://www.pr666.site:4040/udp/239.255.29.41:8231
 都市剧场,http://www.pr666.site:4040/udp/239.255.29.22:8231
 都市剧场,http://majian.ixiaobai.net:58888/rtp/239.37.0.241:5540
 都市剧场,http://119.165.183.182:8888/udp/239.253.254.98:8000
 都市剧场,http://113.9.161.31:88/hls/125/index.m3u8
+都市剧场,http://acc.tohsaka.cn:9999/rtp/225.1.1.146:5002
 欢笑剧场,http://www.pr666.site:4040/udp/239.255.29.7:8231
 欢笑剧场,http://www.pr666.site:4040/udp/239.255.29.19:8231
 欢笑剧场,http://hy.baojihzjc.com:9001/rtp/239.112.205.236:5140
@@ -1222,8 +1229,10 @@ BRTV国际频道,http://webmail.axxe.top:4022/udp/239.3.1.235:8000
 动漫秀场,http://majian.ixiaobai.net:58888/rtp/239.37.0.242:5540
 动漫秀场,http://119.165.183.182:8888/udp/239.253.254.115:8000
 动漫秀场,http://113.9.161.31:88/hls/39/index.m3u8
+动漫秀场,http://acc.tohsaka.cn:9999/rtp/225.1.1.134:5002
 五星体育,http://222.71.90.218:8888/newlive/live/hls/56/live.m3u8
 五星体育,http://222.71.189.186:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+魅力足球,http://acc.tohsaka.cn:9999/rtp/225.1.1.137:5002
 魅力足球,http://119.165.183.182:8888/udp/239.253.254.100:8000
 崇明综合,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
 嘉定综合,https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8
@@ -1806,6 +1815,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 金鹰纪实,http://majian.ixiaobai.net:58888/rtp/239.37.0.161:5540
 金鹰纪实,http://111.196.131.234:8012/rtp/239.3.1.58:8156
 金鹰纪实,http://120.238.13.198:8000/hls/88/index.m3u8
+金鹰纪实,http://acc.tohsaka.cn:9999/rtp/225.1.1.124:5002
 金鹰卡通,http://majian.ixiaobai.net:58888/rtp/239.37.0.61:5540
 金鹰卡通,http://223.151.49.74:59901/tsfile/live/0019_1.m3u8
 金鹰卡通,http://118.254.202.28:8888/udp/239.76.245.120:1234
