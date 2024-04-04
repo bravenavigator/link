@@ -244,8 +244,8 @@ CCTV风云足球,http://majian.ixiaobai.net:58888/rtp/239.37.0.080:5540
 CCTV高尔夫网球,http://majian.ixiaobai.net:58888/rtp/239.37.0.230:5540
 CCTV央视台球,http://majian.ixiaobai.net:58888/rtp/239.37.0.163:5540
 CCTV央视台球,http://113.9.161.31:88/hls/51/index.m3u8
-CCTV4K,http://1.62.64.234/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 CCTV4中文国际美洲,http://gmxw.7766.org:808/hls/71/index.m3u8
+CCTV4K,http://1.62.64.234/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 CCTV4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 CCTV4K,http://123.6.102.32:11789/5550.php?id=2022575203.m3u8
 CCTV8K,http://123.6.102.32:11789/5550.php?id=2020603423.m3u8
