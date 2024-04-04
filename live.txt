@@ -244,6 +244,7 @@ CCTV风云足球,http://majian.ixiaobai.net:58888/rtp/239.37.0.080:5540
 CCTV高尔夫网球,http://majian.ixiaobai.net:58888/rtp/239.37.0.230:5540
 CCTV央视台球,http://majian.ixiaobai.net:58888/rtp/239.37.0.163:5540
 CCTV央视台球,http://113.9.161.31:88/hls/51/index.m3u8
+CCTV4中文国际美洲,http://111.196.131.234:8012/rtp/239.3.1.214:4220
 CCTV4中文国际美洲,http://gmxw.7766.org:808/hls/71/index.m3u8
 CCTV4K,http://1.62.64.234/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 CCTV4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
@@ -258,7 +259,6 @@ CCTV8K,http://123.6.102.32:11789/5550.php?id=2020603463.m3u8
 中国教育1,http://111.196.131.234:8012/rtp/239.3.1.57:8152
 中国教育1,http://111.196.131.234:8012/rtp/239.3.1.129:8008
 中国教育4,http://111.196.131.234:8012/rtp/239.3.1.213:4220
-中国教育4,http://111.196.131.234:8012/rtp/239.3.1.214:4220
 中国交通,http://majian.ixiaobai.net:58888/rtp/239.37.0.226:5540
 CCTV9纪录,http://majian.ixiaobai.net:58888/rtp/239.37.0.1:5540
 CCTV17农业农村,http://majian.ixiaobai.net:58888/rtp/239.37.0.2:5540
@@ -480,7 +480,7 @@ CGTN法语,http://123.6.102.32:11789/5550.php?id=2022574903.m3u8
 CGTN俄语,http://123.6.102.32:11789/5550.php?id=2022574803.m3u8
 CGTN阿拉伯语,http://123.6.102.32:11789/5550.php?id=2022574603.m3u8
 CGTN西班牙语,http://123.6.102.32:11789/5550.php?id=2022571703.m3u8
-CGTN外语纪录,http://123.6.102.32:11789/5550.php?id=2022574703.m3u8
+CGTN中国纪实,http://123.6.102.32:11789/5550.php?id=2022574703.m3u8
 CGTN西班牙语,http://hy.baojihzjc.com:9001/rtp/239.111.205.33:5140
 CGTN法语,http://hy.baojihzjc.com:9001/rtp/239.111.205.34:5140
 CGTN英语,http://125.46.135.6:9999/rtp/225.1.5.34:1344
