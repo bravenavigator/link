@@ -245,11 +245,12 @@ CCTV高尔夫网球,http://majian.ixiaobai.net:58888/rtp/239.37.0.230:5540
 CCTV央视台球,http://majian.ixiaobai.net:58888/rtp/239.37.0.163:5540
 CCTV央视台球,http://113.9.161.31:88/hls/51/index.m3u8
 CCTV4K,http://1.62.64.234/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
-甘肃卫视,http://majian.ixiaobai.net:58888/rtp/239.37.0.034:5540
+CCTV4中文国际美洲,http://gmxw.7766.org:808/hls/71/index.m3u8
 CCTV4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 CCTV4K,http://123.6.102.32:11789/5550.php?id=2022575203.m3u8
 CCTV8K,http://123.6.102.32:11789/5550.php?id=2020603423.m3u8
 CCTV8K,http://123.6.102.32:11789/5550.php?id=2020603463.m3u8
+早期教育,http://gmxw.7766.org:808/hls/100/index.m3u8
 中国教育1,http://27.217.213.217:18888/rtp/239.253.248.110:8000
 中国教育1,http://114.252.126.65:7000/rtp/239.3.1.57:8152
 中国教育4,http://27.217.213.217:18888/rtp/239.253.248.108:8000
@@ -445,8 +446,20 @@ CCTV兵器科技,http://gmxw.7766.org:808/hls/21/index.m3u8
 CCTV央视台球,http://gmxw.7766.org:808/hls/73/index.m3u8
 CCTV17农业农村,http://gmxw.7766.org:808/hls/35/index.m3u8
 CCTV4中文国际,http://gmxw.7766.org:808/hls/67/index.m3u8
-CCTV4中文国际美洲,http://gmxw.7766.org:808/hls/71/index.m3u8
+CCTV风云剧场,http://gmxw.7766.org:808/hls/95/index.m3u8
+CCTV文化精品,http://gmxw.7766.org:808/hls/97/index.m3u8
+CCTV第一剧场,http://gmxw.7766.org:808/hls/98/index.m3u8
+CCTV风云音乐,http://gmxw.7766.org:808/hls/99/index.m3u8
+CCTV风云足球,http://gmxw.7766.org:808/hls/133/index.m3u8
+CCTV高尔夫网球,http://gmxw.7766.org:808/hls/174/index.m3u8
+CCTV3综艺,http://gmxw.7766.org:808/hls/92/index.m3u8
+CCTV5体育,http://gmxw.7766.org:808/hls/93/index.m3u8
+CCTV6电影,http://gmxw.7766.org:808/hls/94/index.m3u8
+CCTV8电视剧,http://gmxw.7766.org:808/hls/95/index.m3u8
+CCTV15音乐,http://gmxw.7766.org:808/hls/102/index.m3u8
 中国教育1,http://gmxw.7766.org:808/hls/79/index.m3u8
+中国教育1,http://gmxw.7766.org:808/hls/122/index.m3u8
+CCTV16奥林匹克,http://gmxw.7766.org:808/hls/169/index.m3u8
 外语,#genre#
 CGTN英语,http://114.252.126.65:7000/rtp/239.3.1.215:4220
 CGTN英语,http://111.196.131.234:8012/rtp/239.3.1.215:4220
@@ -491,6 +504,7 @@ CGTN英语,http://gmxw.7766.org:808/hls/77/index.m3u8
 CGTN西班牙语,http://gmxw.7766.org:808/hls/81/index.m3u8
 CGTN法语,http://gmxw.7766.org:808/hls/82/index.m3u8
 CGTN阿拉伯语,http://gmxw.7766.org:808/hls/84/index.m3u8
+CGTN俄语,http://gmxw.7766.org:808/hls/85/index.m3u8
 卫视,#genre#
 北京卫视,http://223.151.49.74:59901/tsfile/live/0122_1.m3u8?key=txiptv
 北京卫视,http://mu520.wicp.net:50085/hls/27/index.m3u8
@@ -811,6 +825,7 @@ CGTN阿拉伯语,http://gmxw.7766.org:808/hls/84/index.m3u8
 吉林卫视,http://114.252.126.65:7000/rtp/239.3.1.240:8172
 吉林卫视,http://61.136.172.236:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://117.27.190.42:9901/tsfile/live/23258_1.m3u8?key=txiptv&playlive=1&authid=0
+甘肃卫视,http://majian.ixiaobai.net:58888/rtp/239.37.0.034:5540
 甘肃卫视,http://www.pr666.site:4040/udp/239.255.30.249:8231
 甘肃卫视,http://119.165.183.182:8888/udp/239.253.254.74:8000
 甘肃卫视,http://113.12.72.152:9901/tsfile/live/1034_1.m3u8?key=txiptv
@@ -1000,6 +1015,9 @@ CGTN阿拉伯语,http://gmxw.7766.org:808/hls/84/index.m3u8
 江苏卫视,http://gmxw.7766.org:808/hls/38/index.m3u8
 天津卫视,http://gmxw.7766.org:808/hls/42/index.m3u8
 河北卫视,http://gmxw.7766.org:808/hls/54/index.m3u8
+东方卫视,http://gmxw.7766.org:808/hls/114/index.m3u8
+甘肃卫视,http://gmxw.7766.org:808/hls/122/index.m3u8
+海南卫视,http://gmxw.7766.org:808/hls/124/index.m3u8
 广东,#genre#
 广东卫视,http://218.13.170.98:9901/tsfile/live/0017_1.m3u8
 广东新闻,http://113.101.119.52:808/hls/106/index.m3u8
@@ -1026,6 +1044,7 @@ CGTN阿拉伯语,http://gmxw.7766.org:808/hls/84/index.m3u8
 广东民生,http://gmxw.7766.org:808/hls/18/index.m3u8
 广东民生,http://ddns.cyruslee.top:8888/udp/239.77.0.225:5146
 广东少儿,http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.250:5146
+广东少儿,http://gmxw.7766.org:808/hls/175/index.m3u8
 广东体育,http://218.13.170.98:9901/tsfile/live/0019_1.m3u8
 广东体育,http://120.238.13.198:8000/hls/56/index.m3u8
 广东体育,http://gmxw.7766.org:808/hls/2/index.m3u8
@@ -1036,6 +1055,7 @@ CGTN阿拉伯语,http://gmxw.7766.org:808/hls/84/index.m3u8
 嘉佳卡通,http://gmxw.7766.org:808/hls/8/index.m3u8
 大湾区卫视,http://ddns.cyruslee.top:8888/udp/239.77.0.215:5146
 大湾区卫视,http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.215:5146
+大湾区卫视,http://gmxw.7766.org:808/hls/132/index.m3u8
 广东健康,http://glive.grtn.cn/live/health.m3u8
 广东生活,http://glive.grtn.cn/live/life.m3u8
 广东纪录,http://glive.grtn.cn/live/jilupian.m3u8
@@ -1069,6 +1089,7 @@ CGTN阿拉伯语,http://gmxw.7766.org:808/hls/84/index.m3u8
 深圳都市,http://livepull-tcyzb.sztv.com.cn/showto_live/dushi01.m3u8
 深圳都市,http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.176:5146
 深圳都市,http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.124:5146
+深圳都市,http://gmxw.7766.org:808/hls/140/index.m3u8
 深圳都市,https://epg.pw/stream/42922b3bab314ce0217fdf746165de08e00d0556ebf961ee63049811baacc5ac.m3u8
 深圳都市,https://epg.pw/stream/42922b3bab314ce0217fdf746165de08e00d0556ebf961ee63049811baacc5ac.m3u8
 深圳公共,http://gmxw.7766.org:808/hls/156/index.m3u8
@@ -1083,7 +1104,9 @@ CGTN阿拉伯语,http://gmxw.7766.org:808/hls/84/index.m3u8
 深圳电视剧,http://gmxw.7766.org:808/hls/141/index.m3u8
 深圳体育健康,http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.128:5146
 深圳体育健康,http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.140:5146
+深圳体育健康,http://gmxw.7766.org:808/hls/158/index.m3u8
 深圳少儿,http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.244:5146
+深圳少儿,http://gmxw.7766.org:808/hls/157/index.m3u8
 深圳宝安,http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.67:5146
 深圳龙岗,http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.223:5146
 深圳龙岗,http://liveplay.sznews.com/66_showto_live/2647.m3u8
@@ -1228,6 +1251,7 @@ BRTV国际频道,http://webmail.axxe.top:4022/udp/239.3.1.235:8000
 纪实人文,http://125.46.135.6:9999/rtp/225.1.4.170:1222
 纪实人文,http://222.141.133.92:8888/rtp/225.1.4.170:1222
 纪实人文,http://120.238.13.198:8000/hls/90/index.m3u8
+纪实人文,http://gmxw.7766.org:808/hls/173/index.m3u8
 法治天地,http://majian.ixiaobai.net:58888/rtp/239.37.0.238:5540
 法治天地,http://www.pr666.site:4040/udp/239.255.29.24:8231
 法治天地,http://acc.tohsaka.cn:9999/rtp/225.1.1.237:5002
@@ -1835,6 +1859,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 金鹰纪实,http://111.196.131.234:8012/rtp/239.3.1.58:8156
 金鹰纪实,http://120.238.13.198:8000/hls/88/index.m3u8
 金鹰纪实,http://acc.tohsaka.cn:9999/rtp/225.1.1.124:5002
+金鹰纪实,http://gmxw.7766.org:808/hls/171/index.m3u8
 金鹰卡通,http://majian.ixiaobai.net:58888/rtp/239.37.0.61:5540
 金鹰卡通,http://223.151.49.74:59901/tsfile/live/0019_1.m3u8
 金鹰卡通,http://118.254.202.28:8888/udp/239.76.245.120:1234
