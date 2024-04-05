@@ -845,7 +845,6 @@ CGTN俄语,http://gmxw.7766.org:808/hls/85/index.m3u8
 吉林卫视,http://117.27.190.42:9901/tsfile/live/23258_1.m3u8?key=txiptv&playlive=1&authid=0
 甘肃卫视,http://majian.ixiaobai.net:58888/rtp/239.37.0.034:5540
 甘肃卫视,http://www.pr666.site:4040/udp/239.255.30.249:8231
-甘肃卫视,http://113.12.72.152:9901/tsfile/live/1034_1.m3u8
 甘肃卫视,http://110.80.17.38:9901/tsfile/live/0141_1.m3u8?key=txiptv
 甘肃卫视,http://119.165.183.182:8888/udp/239.253.254.74:8000
 甘肃卫视,http://113.12.72.152:9901/tsfile/live/1034_1.m3u8?key=txiptv
@@ -853,12 +852,10 @@ CGTN俄语,http://gmxw.7766.org:808/hls/85/index.m3u8
 甘肃卫视,http://218.13.170.98:9901/tsfile/live/0141_1.m3u8
 甘肃卫视,http://117.27.190.42:9901/tsfile/live/23277_1.m3u8?key=txiptv&playlive=1&authid=0
 宁夏卫视,https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8
-宁夏卫视,http://113.12.72.152:9901/tsfile/live/1038_1.m3u8
 宁夏卫视,http://113.12.72.152:9901/tsfile/live/1038_1.m3u8?key=txiptv
 青海卫视,http://110.80.17.38:9901/tsfile/live/0140_1.m3u8?key=txiptv
 青海卫视,http://222.173.134.150:8888/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 青海卫视,http://222.240.82.92:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
-青海卫视,http://113.12.72.152:9901/tsfile/live/1037_1.m3u8
 青海卫视,http://113.12.72.152:9901/tsfile/live/1037_1.m3u8?key=txiptv
 青海卫视,http://36.248.137.69:60033/tsfile/live/0140_1.m3u8?key=txiptv
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=1da074361609506578
@@ -873,7 +870,6 @@ CGTN俄语,http://gmxw.7766.org:808/hls/85/index.m3u8
 兵团卫视,https://epg.pw/stream/d84efa5eb598b5211d873bf4c345d5e25800edcf2b6cea4cc78e5c909b15b625.m3u8
 西藏卫视,http://113.12.72.152:9901/tsfile/live/1035_1.m3u8
 西藏卫视,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel66/index.m3u8
-西藏卫视,http://113.12.72.152:9901/tsfile/live/1035_1.m3u8
 海峡卫视,http://27.154.214.56:8888/rtp/239.61.2.151:8894
 海峡卫视,http://117.27.190.42:9901/tsfile/live/23283_1.m3u8?key=txiptv
 厦门卫视,https://xiamenalic.v.myalicdn.com/xiamen/xiamen_1/index.m3u8
