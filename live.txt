@@ -1,5 +1,6 @@
 央视,#genre#
 CCTV13新闻,http://223.151.49.74:59901/tsfile/live/0013_1.m3u8?key=txiptv
+CCTV13新闻,http://60.174.137.146:9901/tsfile/live/0013_1.m3u8
 CCTV13新闻,http://218.89.240.144:59901/tsfile/live/0013_1.m3u8?key=txiptv
 CCTV13新闻,http://mu520.wicp.net:50085/hls/13/index.m3u8
 CCTV13新闻,http://58.19.182.187:9901/tsfile/live/0013_1.m3u8?key=txiptv
@@ -100,6 +101,7 @@ CCTV6电影,http://218.89.240.144:59901/tsfile/live/0006_1.m3u8?key=txiptv
 CCTV6电影,http://113.12.72.152:9901/tsfile/live/1006_1.m3u8?key=txiptv
 CCTV6电影,http://101.65.34.182:9901/tsfile/live/0006_1.m3u8?key=txiptv
 CCTV6电影,http://220.180.229.250:9901/tsfile/live/0006_1.m3u8?key=txiptv
+CCTV6电影,http://60.174.137.146:9901/tsfile/live/0006_1.m3u8
 CCTV6电影,http://58.210.60.226:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV6电影,http://61.136.172.236:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV6电影,http://123.138.216.44:9902/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -127,6 +129,7 @@ CCTV8电视剧,http://113.12.72.152:9901/tsfile/live/1008_1.m3u8?key=txiptv
 CCTV8电视剧,http://101.65.34.182:9901/tsfile/live/0008_1.m3u8?key=txiptv
 CCTV8电视剧,http://220.180.229.250:9901/tsfile/live/0008_1.m3u8?key=txiptv
 CCTV8电视剧,http://58.210.60.226:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8电视剧,http://60.174.137.146:9901/tsfile/live/0008_1.m3u8
 CCTV9纪录,http://110.52.99.109:9901/tsfile/live/1008_1.m3u8
 CCTV9纪录,http://221.213.70.18:9901/tsfile/live/0009_1.m3u8?=TG@YYDSyouzai=key=txiptv&playlive=1&authid=0=TG@YYDSyouzai
 CCTV9纪录,http://mu520.wicp.net:50085/hls/9/index.m3u8
@@ -141,6 +144,7 @@ CCTV9纪录,http://27.217.213.217:18888/rtp/239.253.248.79:8000
 CCTV9纪录,http://113.12.72.152:9901/tsfile/live/1009_1.m3u8?key=txiptv
 CCTV9纪录,http://220.180.229.250:9901/tsfile/live/0009_1.m3u8?key=txiptv
 CCTV9纪录,http://111.74.155.231:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV9纪录,http://60.174.137.146:9901/tsfile/live/0009_1.m3u8
 CCTV10科教,http://221.213.70.18:9901/tsfile/live/0010_1.m3u8?=TG@YYDSyouzai=key=txiptv&playlive=1&authid=0=TG@YYDSyouzai
 CCTV10科教,http://mu520.wicp.net:50085/hls/10/index.m3u8
 CCTV10科教,http://58.210.60.226:9901/tsfile/live/0010_1.m3u8?key=txiptv
