@@ -1361,6 +1361,7 @@ BRTV纪实科教8K,https://epg.pw/stream/544cc09b12f4a7e88dcf6d03ac6f42925ce1774
 BRTV卡酷少儿,http://111.196.131.234:8012/rtp/239.3.1.189:8000
 BRTV卡酷少儿,http://27.217.213.217:18888/rtp/239.253.248.61:8000
 BRTV卡酷少儿,http://113.12.72.152:9901/tsfile/live/1050_1.m3u8?key=txiptv
+BRTV卡酷少儿,http://220.182.45.198:20088/tsfile/live/1006_1.m3u8
 BRTV卡酷少儿,http://majian.ixiaobai.net:58888/rtp/239.37.0.76:5540
 BRTV纪实科教,http://majian.ixiaobai.net:58888/rtp/239.37.0.101:5540
 BRTV新闻,http://webmail.axxe.top:4022/udp/239.3.1.159:8000
@@ -2105,6 +2106,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 金鹰卡通,http://majian.ixiaobai.net:58888/rtp/239.37.0.61:5540
 金鹰卡通,http://223.151.49.74:59901/tsfile/live/0019_1.m3u8
 金鹰卡通,http://118.254.202.28:8888/udp/239.76.245.120:1234
+金鹰卡通,http://220.182.45.198:20088/tsfile/live/1007_1.m3u8
 金鹰卡通,http://123.52.43.144:8888/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 茶频道,http://majian.ixiaobai.net:58888/rtp/239.37.0.245:5540
 茶频道,http://ddns.cyruslee.top:8888/udp/239.77.0.015:5146
@@ -2614,18 +2616,18 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 阳泉新闻综合,https://live.yqrtv.com/xwpd/sd/live.m3u8
 阳泉科教,https://live.yqrtv.com/xwchne/sd/live.m3u8
 云南,#genre#
-云南都市,http://221.213.70.18:9901/tsfile/live/0128_1.m3u8?=TG@YYDSyouzai=key=txiptv&playlive=1&authid=0=TG@YYDSyouzai
+云南都市,http://221.213.70.18:9901/tsfile/live/0128_1.m3u8
 云南都市,http://221.213.43.82:8888/newlive/live/hls/53/live.m3u8
 云南都市,http://tvlive.ynradio.com/live/yunnandushi/chunks.m3u8
 云南都市,http://tvlive.ynradio.com/live/yunnandushi/playlist.m3u8
-云南娱乐,http://221.213.70.18:9901/tsfile/live/0124_1.m3u8?=TG@YYDSyouzai=key=txiptv&playlive=1&authid=0=TG@YYDSyouzai
+云南娱乐,http://221.213.70.18:9901/tsfile/live/0124_1.m3u8
 云南娱乐,http://tvlive.ynradio.com/live/yunnanyule/chunks.m3u8
 云南娱乐,http://tvlive.ynradio.com/live/yunnanyule/playlist.m3u8
 云南影视,http://221.213.43.82:8888/newlive/live/hls/55/live.m3u8
 云南少儿,http://221.213.43.82:8888/newlive/live/hls/56/live.m3u8
 云南少儿,http://tvlive.ynradio.com/live/yunnanshaoer/chunks.m3u8
 云南少儿,http://tvlive.ynradio.com/live/yunnanshaoer/playlist.m3u8
-云南康旅,http://221.213.70.18:9901/tsfile/live/0127_1.m3u8?=TG@YYDSyouzai=key=txiptv&playlive=1&authid=0=TG@YYDSyouzai
+云南康旅,http://221.213.70.18:9901/tsfile/live/0127_1.m3u8
 云南康旅,http://tvlive.ynradio.com/live/yunnangonggong/chunks.m3u8
 云南康旅,http://tvlive.ynradio.com/live/yunnangonggong/playlist.m3u8
 云南康旅,https://epg.pw/stream/6b179f8058c63a37624e915473dd2db178df841b3e4ca66d92292f4a45664313.m3u8
