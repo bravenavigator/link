@@ -2801,9 +2801,11 @@ CRT文旅体育,http://majian.ixiaobai.net:58888/rtp/239.37.0.097:5540
 塔城裕民哈语,http://117.190.130.4:8081/out_2/index.m3u8
 塔城裕民汉语,http://117.190.130.4:8081/out_1/index.m3u8
 西藏,#genre#
+拉萨综合,http://220.182.45.198:20088/tsfile/live/1004_1.m3u8
+拉萨文化旅游,http://220.182.45.198:20088/tsfile/live/1001_1.m3u8
+拉萨藏语综合,http://220.182.45.198:20088/tsfile/live/1002_1.m3u8
 西藏影视文化,http://220.182.45.198:20088/tsfile/live/1003_1.m3u8
-西藏藏语卫视,http://php.jdshipin.com:8880/xztv.php?id=zy
-林芝工布江达县广播电视台,http://php.jdshipin.com:8880/chudian.php?id=gbjd
+林芝工布江达县综合http://php.jdshipin.com:8880/chudian.php?id=gbjd
 BesTV,#genre#
 热门综艺,http://php.jdshipin.com:8880/bst.php?id=rmzy
 热门综艺,http://php.jdshipin.com:8880/bst.php?id=rmzy8m/8000000
