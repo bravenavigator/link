@@ -239,6 +239,7 @@ CCTV4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 CCTV4K,http://123.6.102.32:11789/5550.php?id=2022575203.m3u8
 CCTV8K,http://123.6.102.32:11789/5550.php?id=2020603423.m3u8
 CCTV8K,http://123.6.102.32:11789/5550.php?id=2020603463.m3u8
+重温经典,http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 老故事,http://110.52.99.109:9901/tsfile/live/1039_1.m3u8
 早期教育,http://gmxw.7766.org:808/hls/100/index.m3u8
 中国教育1,http://27.217.213.217:18888/rtp/239.253.248.110:8000
