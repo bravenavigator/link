@@ -897,6 +897,7 @@ CGTN俄语,http://gmxw.7766.org:808/hls/85/index.m3u8
 延边卫视,https://epg.pw/stream/e62732d5ec879b9bd722931c588ebd651378265bdef75851ac7c5b776b6be991.m3u8
 延边卫视,https://epg.pw/stream/2c315ffc8f8501d31b82a47f0e65c47661e4f9fb6e45a5d9026fe47fe0563dba.m3u8
 延边卫视,https://epg.pw/stream/f8b011a72bc4a208b05e644becd195a02fd6a7937bb4bacaf635def8eede2b71.m3u8
+康巴卫视,http://218.89.240.144:59901/tsfile/live/1010_1.m3u8?key=txiptv
 康巴卫视,http://220.182.45.198:20088/tsfile/live/0134_1.m3u8
 安多卫视,http://stream.qhbtv.com/adws/playlist.m3u8
 安多卫视,http://stream.qhbtv.com/adws/playlist.m3u8?_upt=739abf201649062902
@@ -1545,7 +1546,6 @@ BRTV纪实科教,https://cdn2.jdshipin.com/api/bst2.php?id=dajs8m/8000000
 重庆影视,http://123.145.76.59:8002/rtp/225.0.4.192:7980
 重庆娱乐,http://27.10.72.86:8005/udp/225.0.4.194:7980
 重庆少儿,http://27.10.72.86:8005/udp/225.0.4.191:7980
-重庆汽摩,http://218.89.240.144:59901/tsfile/live/1010_1.m3u8?key=txiptv
 重庆移动,http://27.10.72.86:8001/udp/225.0.4.215:7980
 潼南综合,http://183.230.184.51:65500/tntv1.m3u8
 璧山综合,http://222.179.42.129:8181/hls1.m3u8
