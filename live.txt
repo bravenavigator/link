@@ -1,5 +1,7 @@
 央视,#genre#
+CCTV13新闻,http://live.chunfei.top/live02/cctv.m3u8?channel=cctvnews
 CCTV13新闻,http://223.151.49.74:59901/tsfile/live/0013_1.m3u8?key=txiptv
+CCTV13新闻,http://124.128.73.58:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13新闻,http://60.174.137.146:9901/tsfile/live/0013_1.m3u8
 CCTV13新闻,http://218.89.240.144:59901/tsfile/live/0013_1.m3u8?key=txiptv
 CCTV13新闻,http://mu520.wicp.net:50085/hls/13/index.m3u8
@@ -13,6 +15,7 @@ CCTV13新闻,http://live.chunfei.top/live02/cctv.m3u8?channel=cctvnews
 CCTV1综合,http://110.52.99.109:9901/tsfile/live/1000_1.m3u8
 CCTV1综合,http://221.213.70.18:9901/tsfile/live/0001_1.m3u8?=TG@YYDSyouzai=key=txiptv&playlive=1&authid=0=TG@YYDSyouzai
 CCTV1综合,http://60.174.137.146:9901/tsfile/live/0001_1.m3u8?key=txiptv&url=tvzb.com
+CCTV1综合,http://111.9.163.109:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1综合,http://mu520.wicp.net:50085/hls/1/index.m3u8
 CCTV1综合,http://223.151.49.74:59901/tsfile/live/0001_1.m3u8?key=txiptv
 CCTV1综合,http://113.12.72.152:9901/tsfile/live/1000_1.m3u8?key=txiptv
@@ -27,8 +30,10 @@ CCTV1综合,http://58.210.23.42:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive
 CCTV1综合,http://fxgm.fxjf.work:19901/tsfile/live/0001_1.m3u8
 CCTV1综合,http://123.184.70.100:801/hls/72/index.m3u8
 CCTV2财经,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
+CCTV2财经,http://liveop.cctv.cn:80/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
 CCTV2财经,http://221.213.70.18:9901/tsfile/live/0002_1.m3u8?=TG@YYDSyouzai=key=txiptv&playlive=1&authid=0=TG@YYDSyouzai
 CCTV2财经,http://60.174.137.146:9901/tsfile/live/0002_1.m3u8?key=txiptv&url=tvzb.com
+CCTV2财经,http://111.9.163.109:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2财经,http://mu520.wicp.net:50085/hls/2/index.m3u8
 CCTV2财经,http://58.210.60.226:9901/tsfile/live/0002_1.m3u8?key=txiptv
 CCTV2财经,http://223.151.49.74:59901/tsfile/live/0002_1.m3u8?key=txiptv
@@ -40,6 +45,7 @@ CCTV2财经,http://113.12.72.152:9901/tsfile/live/1001_1.m3u8?key=txiptv
 CCTV2财经,http://101.65.34.182:9901/tsfile/live/0002_1.m3u8?key=txiptv
 CCTV2财经,http://123.138.216.44:9902/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2财经,http://fxgm.fxjf.work:19901/tsfile/live/0002_1.m3u8
+CCTV3综艺,http://58.220.219.14:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3综艺,http://110.52.99.109:9901/tsfile/live/1002_1.m3u8
 CCTV3综艺,http://221.213.70.18:9901/tsfile/live/0003_1.m3u8?=TG@YYDSyouzai=key=txiptv&playlive=1&authid=0=TG@YYDSyouzai
 CCTV3综艺,http://60.174.137.146:9901/tsfile/live/0003_1.m3u8?key=txiptv&url=tvzb.com
@@ -81,6 +87,7 @@ CCTV5体育,http://113.12.72.152:9901/tsfile/live/1004_1.m3u8?key=txiptv
 CCTV5体育,http://113.81.20.104:9901/tsfile/live/0005_1.m3u8
 CCTV5体育,http://36.248.137.69:60033/tsfile/live/0005_1.m3u8?key=txiptv
 CCTV5体育,http://101.65.34.182:9901/tsfile/live/0005_1.m3u8?key=txiptv
+CCTV5体育,http://110.7.128.210:8096/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5体育,http://acc.tohsaka.cn:9999/rtp/225.1.1.160:5002
 CCTV5+体育赛事,https://epg.pw/stream/086db2bb0313ea69b64e6c5241778b8b5933b629e4bd09ecab5e744b122ed865.m3u8
 CCTV5+体育赛事,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
@@ -90,6 +97,7 @@ CCTV5+体育赛事,http://218.89.240.144:59901/tsfile/live/0016_1.m3u8?key=txipt
 CCTV5+体育赛事,http://113.12.72.152:9901/tsfile/live/1005_1.m3u8?key=txiptv
 CCTV5+体育赛事,http://61.136.172.236:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5+体育赛事,http://acc.tohsaka.cn:9999/rtp/225.1.1.121:5002
+CCTV6电影,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 CCTV6电影,http://221.213.70.18:9901/tsfile/live/0006_1.m3u8?=TG@YYDSyouzai=key=txiptv&playlive=1&authid=0=TG@YYDSyouzai
 CCTV6电影,http://110.52.99.109:9901/tsfile/live/1005_1.m3u8
 CCTV6电影,http://mu520.wicp.net:50085/hls/6/index.m3u8
@@ -103,6 +111,7 @@ CCTV6电影,http://113.12.72.152:9901/tsfile/live/1006_1.m3u8?key=txiptv
 CCTV6电影,http://101.65.34.182:9901/tsfile/live/0006_1.m3u8?key=txiptv
 CCTV6电影,http://220.180.229.250:9901/tsfile/live/0006_1.m3u8?key=txiptv
 CCTV6电影,http://60.174.137.146:9901/tsfile/live/0006_1.m3u8
+CCTV6电影,http://61.138.128.226:19901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV6电影,http://58.210.60.226:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV6电影,http://61.136.172.236:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV6电影,http://123.138.216.44:9902/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
