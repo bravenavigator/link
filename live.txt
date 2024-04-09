@@ -242,6 +242,7 @@ CCTV电视指南,http://majian.ixiaobai.net:58888/rtp/239.37.0.115:5540
 CCTV风云足球,http://majian.ixiaobai.net:58888/rtp/239.37.0.080:5540
 CCTV高尔夫网球,http://majian.ixiaobai.net:58888/rtp/239.37.0.230:5540
 CCTV央视台球,http://majian.ixiaobai.net:58888/rtp/239.37.0.163:5540
+CCTV4K,http://majian.ixiaobai.net:58888/rtp/239.37.0.034:5540
 CCTV4K,http://1.62.64.234/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 CCTV4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 CCTV4K,http://123.6.102.32:11789/5550.php?id=2022575203.m3u8
@@ -865,7 +866,6 @@ CGTN中国纪实,http://183.11.239.36:808/hls/77/index.m3u8
 吉林卫视,http://61.136.172.236:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://117.27.190.42:9901/tsfile/live/23258_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://111.75.151.236:50085/newlive/live/hls/35/live.m3u8
-甘肃卫视,http://majian.ixiaobai.net:58888/rtp/239.37.0.034:5540
 甘肃卫视,http://www.pr666.site:4040/udp/239.255.30.249:8231
 甘肃卫视,http://110.80.17.38:9901/tsfile/live/0141_1.m3u8?key=txiptv
 甘肃卫视,http://119.165.183.182:8888/udp/239.253.254.74:8000
