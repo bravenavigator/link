@@ -9,7 +9,6 @@ CCTV13新闻,http://58.19.182.187:9901/tsfile/live/0013_1.m3u8?key=txiptv
 CCTV13新闻,http://27.217.213.217:18888/rtp/239.253.248.14:8000
 CCTV13新闻,http://113.12.72.152:9901/tsfile/live/1013_1.m3u8?key=txiptv
 CCTV13新闻,http://36.248.137.69:60033/tsfile/live/0013_1.m3u8?key=txiptv
-CCTV1综合,http://110.52.99.109:9901/tsfile/live/1000_1.m3u8
 CCTV1综合,http://221.213.70.18:9901/tsfile/live/0001_1.m3u8?=TG@YYDSyouzai=key=txiptv&playlive=1&authid=0=TG@YYDSyouzai
 CCTV1综合,http://60.174.137.146:9901/tsfile/live/0001_1.m3u8?key=txiptv&url=tvzb.com
 CCTV1综合,http://111.9.163.109:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -22,6 +21,7 @@ CCTV1综合,http://218.89.240.144:59901/tsfile/live/0001_1.m3u8?key=txiptv
 CCTV1综合,http://221.226.4.10:9901/tsfile/live/0001_1.m3u8?key=txiptv
 CCTV1综合,http://49.87.154.246:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1综合,http://fxgm.fxjf.work:19901/tsfile/live/0001_1.m3u8
+CCTV1综合,http://110.52.99.109:9901/tsfile/live/1000_1.m3u8
 CCTV1综合,http://123.184.70.100:801/hls/72/index.m3u8
 CCTV2财经,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
 CCTV2财经,http://liveop.cctv.cn:80/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
