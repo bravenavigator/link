@@ -1132,7 +1132,6 @@ Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482
 揭阳综合,http://120.238.13.198:8000/hls/62/index.m3u8
 揭阳生活,http://183.237.246.14:9931/tsfile/live/1135_1.m3u8
 揭阳生活,http://120.238.13.198:8000/hls/63/index.m3u8
-揭阳普宁综合,http://120.238.13.198:8000/hls/61/index.m3u8
 梅州一套,http://pili-live-hls.xianchangliving.gdmztv.com/meizhou-xianchangliving/mztv1.m3u8
 梅州一套,http://php.jdshipin.com:8880/chudian.php?id=mzzh
 梅州二套,http://pili-live-hls.xianchangliving.gdmztv.com/meizhou-xianchangliving/mztv2.m3u8
@@ -1157,6 +1156,7 @@ Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482
 韶关乐昌综合,http://php.jdshipin.com:8880/chudian.php?id=lctv
 潮州潮安综合,http://php.jdshipin.com:8880/chudian.php?id=cazh
 揭阳普宁综合,http://php.jdshipin.com:8880/chudian.php?id=pnzh
+揭阳普宁综合,http://120.238.13.198:8000/hls/61/index.m3u8
 梅州山歌,http://183.237.246.14:9931/tsfile/live/1005_1.m3u8
 梅州平远综合,http://183.237.246.14:9931/tsfile/live/1097_1.m3u8
 梅州丰顺综合,http://183.237.246.14:9931/tsfile/live/1100_1.m3u8
