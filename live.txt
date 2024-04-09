@@ -534,6 +534,7 @@ CGTN阿拉伯语,http://183.11.239.36:808/hls/84/index.m3u8
 CGTN法语,http://183.11.239.36:808/hls/82/index.m3u8
 CGTN西班牙语,http://183.11.239.36:808/hls/81/index.m3u8
 CGTN英文记录,http://183.11.239.36:808/hls/77/index.m3u8
+Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
 卫视,#genre#
 北京卫视,http://223.151.49.74:59901/tsfile/live/0122_1.m3u8?key=txiptv
 北京卫视,http://mu520.wicp.net:50085/hls/27/index.m3u8
