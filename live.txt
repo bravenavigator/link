@@ -9,10 +9,10 @@ CCTV13新闻,http://58.19.182.187:9901/tsfile/live/0013_1.m3u8?key=txiptv
 CCTV13新闻,http://27.217.213.217:18888/rtp/239.253.248.14:8000
 CCTV13新闻,http://113.12.72.152:9901/tsfile/live/1013_1.m3u8?key=txiptv
 CCTV13新闻,http://36.248.137.69:60033/tsfile/live/0013_1.m3u8?key=txiptv
+CCTV1综合,http://223.151.49.74:59901/tsfile/live/0001_1.m3u8?key=txiptv
 CCTV1综合,http://60.174.137.146:9901/tsfile/live/0001_1.m3u8?key=txiptv&url=tvzb.com
 CCTV1综合,http://111.9.163.109:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1综合,http://mu520.wicp.net:50085/hls/1/index.m3u8
-CCTV1综合,http://223.151.49.74:59901/tsfile/live/0001_1.m3u8?key=txiptv
 CCTV1综合,http://113.12.72.152:9901/tsfile/live/1000_1.m3u8?key=txiptv
 CCTV1综合,http://27.217.213.217:18888/rtp/239.253.248.77:8000
 CCTV1综合,http://iptv.lidy.cc:1314/rtp/239.93.0.184:5140
