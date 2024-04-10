@@ -359,7 +359,6 @@ CCTV第一剧场,http://183.11.239.36:808/hls/98/index.m3u8
 中国教育1,http://183.11.239.36:808/hls/122/index.m3u8
 中国教育4,http://183.11.239.36:808/hls/79/index.m3u8
 中国交通,http://183.11.239.36:808/hls/172/index.m3u8
-央视,#genre#
 CCTV3综艺,http://110.7.128.162:8096/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4中文国际,http://110.7.128.162:8096/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5体育体育,http://110.7.128.162:8096/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
