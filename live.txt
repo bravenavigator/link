@@ -1,4 +1,4 @@
-📡央视,#genre#
+📡　央视,#genre#
 CCTV13新闻,http://live.chunfei.top/live02/cctv.m3u8?channel=cctvnews
 CCTV13新闻,http://223.151.49.74:59901/tsfile/live/0013_1.m3u8?key=txiptv
 CCTV13新闻,http://124.128.73.58:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -497,7 +497,7 @@ CCTV8电视剧,http://61.138.128.226:19901/tsfile/live/0009_1.m3u8?key=txiptv&pl
 CCTV9纪录,http://61.138.128.226:19901/tsfile/live/0009_2.m3u8?key=txiptv&playlive=1&authid=0
 CCTV11戏曲,http://61.138.128.226:19901/tsfile/live/0011_2.m3u8?key=txiptv&playlive=1&authid=0
 CCTV12社会与法,http://61.138.128.226:19901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-📡外语,#genre#
+📡　外语,#genre#
 CGTN英语,http://111.196.131.234:8012/rtp/239.3.1.215:4220
 CGTN法语,https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
 CGTN法语,http://111.196.131.234:8012/rtp/239.3.1.218:4220
@@ -525,7 +525,7 @@ CGTN西班牙语,https://tv.iill.top/live/cgtne
 CGTN法语,https://tv.iill.top/live/cgtnf
 CGTN阿拉伯语,https://tv.iill.top/live/cgtna
 CGTN俄语,https://tv.iill.top/live/cgtnr
-📡卫视,#genre#
+📡　卫视,#genre#
 北京卫视,http://223.151.49.74:59901/tsfile/live/0122_1.m3u8?key=txiptv
 北京卫视,http://mu520.wicp.net:50085/hls/27/index.m3u8
 北京卫视,http://123.113.5.78:8688/rtp/239.3.1.241:8000
@@ -1142,7 +1142,7 @@ CGTN俄语,https://tv.iill.top/live/cgtnr
 广东卫视,http://183.11.239.36:808/hls/80/index.m3u8
 广西卫视,http://183.11.239.36:808/hls/56/index.m3u8
 海南卫视,http://183.11.239.36:808/hls/124/index.m3u8
-📺广东,#genre#
+📺　广东,#genre#
 广东卫视,http://111.75.151.236:50085/newlive/live/hls/25/live.m3u8
 广东新闻,http://183.11.239.36:808/hls/5/index.m3u8
 广东新闻,http://gmxw.7766.org:808/hls/5/index.m3u8
@@ -1299,7 +1299,7 @@ CGTN俄语,https://tv.iill.top/live/cgtnr
 梅州山歌,http://183.237.246.14:9931/tsfile/live/1005_1.m3u8
 梅州平远综合,http://183.237.246.14:9931/tsfile/live/1097_1.m3u8
 梅州丰顺综合,http://183.237.246.14:9931/tsfile/live/1100_1.m3u8
-📺北京,#genre#
+📺　北京,#genre#
 BRTV新闻,http://111.196.131.234:8012/rtp/239.3.1.159:8000
 BRTV新闻,https://epg.pw/stream/3e01e04a6bd9beb64ce9550b799c1f1e2806d096cf391f4c31510a1b1da7e5a1.m3u8
 BRTV新闻,https://epg.pw/stream/80307082824983f38685364e741bd9738d2632ac1c9c0b22e7a5817d4fb4d0c4.m3u8
@@ -1367,7 +1367,7 @@ BRTV纪实科教,https://cdn2.jdshipin.com/api/bst2.php?id=dajs8m/8000000
 房山综合,http://live.funhillrm.com/2/sd/live.m3u8
 通州融媒,http://111.196.131.234:8012/rtp/239.3.1.221:8001
 密云综合,http://111.196.131.234:8012/rtp/239.3.1.154:8001
-📺上海,#genre#
+📺　上海,#genre#
 上海新闻,https://cdn2.jdshipin.com/api/bst2.php?id=xwzhhd8m/8000000
 上海新闻,http://php.jdshipin.com:8880/bst.php?id=shxwzh
 上海新闻,http://php.jdshipin.com:8880/bst.php?id=xwzhhd/4000000
@@ -1478,7 +1478,7 @@ BRTV纪实科教,https://cdn2.jdshipin.com/api/bst2.php?id=dajs8m/8000000
 崇明综合,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
 嘉定综合,https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8
 浦东综合,https://pdtvlive.pudongtv.cn/live/pdtv.m3u8?txSecret=99368ed29876877386e7dbcf28e43d34&txTime=677384DB
-📺天津,#genre#
+📺　天津,#genre#
 天津卫视,http://acc.tohsaka.cn:9999/rtp/225.1.1.111:5002
 天津新闻,http://acc.tohsaka.cn:9999/rtp/225.1.1.130:5002
 天津都市,http://acc.tohsaka.cn:9999/rtp/225.1.1.128:5002
@@ -1491,7 +1491,7 @@ BRTV纪实科教,https://cdn2.jdshipin.com/api/bst2.php?id=dajs8m/8000000
 滨海影视,http://traffic.jbh.tjbh.com/live/bhtv3/playlist.m3u8
 西青新闻综合,http://221.238.209.44:81/hls/live1.m3u8
 宝坻一套,https://hb2stream1.baoxinwen.com/d6387fc7a8836e78/6385068498053235715_1597997122.m3u8?auth_key=1893456000-0-0-93ea48b07ddd03f4904079b7659e81a4
-📺重庆,#genre#
+📺　重庆,#genre#
 重庆新闻,http://123.145.51.46:8005/udp/225.0.4.188:7980
 重庆新闻,http://27.11.49.156:8008/udp/225.0.4.188:7980
 重庆新闻,https://sjlivecdn9.cbg.cn/204912315959/app_2/_definst_/ls_3.stream/chunklist.m3u8
@@ -1513,7 +1513,7 @@ BRTV纪实科教,https://cdn2.jdshipin.com/api/bst2.php?id=dajs8m/8000000
 巫山综合,https://qxlmlive9.cbg.cn/applive/wspd001/chunklist.m3u8
 永川综合,https://qxlmlive9.cbg.cn/applive/yctv01/playlist.m3u8
 开州综合,https://qxlmlive9.cbg.cn/applive/kzpd01/chunklist.m3u8
-✨港澳,#genre#
+✨　港澳,#genre#
 凤凰中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,https://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,https://play-flive.ifeng.com/live/06OLEGEGM4G.flv
@@ -1608,7 +1608,7 @@ TVB明珠,http://1.65.195.85:9981/stream/channelid/1803382046?profile=pass
 澳门莲花,http://moss.hk3.345888.xyz.cdn.cloudflare.net/11/lotus.php
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?$1024x576
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-✨台湾,#genre#
+✨　台湾,#genre#
 中天新闻,http://livetv.skycf.eu.org/live.m3u8?c=7
 中视综合,rtmp://f13h.mine.nu/sat/tv091
 中视新闻,http://livetv.skycf.eu.org/live.m3u8?c=6
@@ -1650,7 +1650,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 番薯电视,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 番薯电视,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 番薯电视,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-📺江苏,#genre#
+📺　江苏,#genre#
 江苏新闻,http://222.189.51.62:8888/newlive/live/hls/55/live.m3u8
 江苏新闻,http://222.188.68.38:8888/newlive/live/hls/26/live.m3u8
 江苏城市,http://58.220.219.14:9901/tsfile/live/0120_3.m3u8?key=txiptv
@@ -1763,7 +1763,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 淮安淮安公共,http://live1.habctv.com/ggpdsl/sd/live.m3u8
 淮安金湖新闻综合,http://jinhu-tv-hls.cm.jstv.com/jinhu-tv/jinhuzh.m3u8
 江阴新闻综合,http://221.228.70.101:8080/live/xinwen.m3u8
-📺浙江,#genre#
+📺　浙江,#genre#
 浙江新闻,http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江经济生活,http://101.71.176.182:8888/newlive/live/hls/51/live.m3u8
@@ -1867,7 +1867,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 衢州衢江综合,http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8
 衢州衢江综合,https://epg.pw/stream/f3219833480ea0beebc14ecbb50d37f9f3600b64c8ecfaec5910421183b3c19d.m3u8
 衢州江山综合,http://play-sh.quklive.com/live/1623117710666335.m3u8
-📺安徽,#genre#
+📺　安徽,#genre#
 安徽经济生活,http://wyhawk.x3322.net:8888/udp/238.1.79.44:4464
 安徽经济生活,http://159.75.166.157/php/ah.php?id=ahjj
 安徽经济生活,http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8
@@ -1958,7 +1958,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 亳州利辛文化旅游,https://live.fst1994.net/hls/lixinys/index.m3u8
 亳州蒙城综合,http://wyhawk.x3322.net:8888/udp/238.1.79.19:4264
 铜陵义安综合,http://wyhawk.x3322.net:8888/udp/238.1.78.211:7560
-📺四川,#genre#
+📺　四川,#genre#
 四川新闻,http://218.89.240.144:59901/tsfile/live/1006_1.m3u8
 四川文化旅游,http://218.89.240.144:59901/tsfile/live/1007_1.m3u8
 峨眉电影,http://218.89.240.144:59901/tsfile/live/1011_1.m3u8
@@ -2030,7 +2030,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 甘孜康定综合,http://m3u8-kd.channel.ganzitv.com/nmip-media-yajiang/channellive/channel100663/playlist.m3u8?zsicd
 凉山普格综合,http://175.153.116.219:8086/0.m3u8
 凉山西昌综合,http://xcfb.screx.com.cn:18085/hlsnew1/channel1.m3u8
-📺湖南,#genre#
+📺　湖南,#genre#
 湖南经视,http://222.241.145.143:8888/udp/239.76.253.103:9000
 湖南经视,http://222.241.145.143:8888/udp/239.76.251.86:9000
 湖南经视,http://222.241.145.143:8888/udp/239.76.246.103:1234
@@ -2161,7 +2161,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 岳阳汨罗综合,https://liveplay-srs.voc.com.cn/hls/tv/166_a4ad1b.m3u8
 张家界桑植综合,https://liveplay-srs.voc.com.cn/hls/tv/185_938292.m3u8
 株洲攸县综合,https://liveplay-srs.voc.com.cn/hls/tv/158_423c80.m3u8
-📺湖北,#genre#
+📺　湖北,#genre#
 湖北经视,http://58.19.38.233:8888/newlive/live/hls/44/live.m3u8
 湖北经视,http://59.173.243.210:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北公共,http://59.173.243.210:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -2189,7 +2189,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 荆门新闻综合,https://epg.pw/stream/9530f08f03324e997bf7d72bf233cd0a8d70e5511d3495d41ced5bc9b36d8316.m3u8
 荆门公共,http://stream.jmtv.com.cn/ngpd/sd/live.m3u8
 荆门科技文旅,http://stream.jmtv.com.cn/ggsh/sd/live.m3u8
-📺海南,#genre#
+📺　海南,#genre#
 海南卫视,https://live3.hnntv.cn/srs/tv/lywsgq.m3u8
 三沙卫视,https://live3.hnntv.cn/srs/tv/ssws.m3u8
 海南自贸,https://live3.hnntv.cn/srs/tv/jjpd.m3u8
@@ -2203,7 +2203,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 海口综合,http://153.0.158.159:16080/live/tv2401.m3u8
 海口生活娱乐,http://153.0.158.159:16080/live/tv2402.m3u8
 海口城乡经济,http://153.0.158.159:16080/live/tv2403.m3u8
-📺江西,#genre#
+📺　江西,#genre#
 江西新闻,http://111.74.155.231:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=0&authid=0
 江西经济生活,http://111.74.155.231:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0
 江西经济生活,http://111.75.151.236:50085/newlive/live/hls/18/live.m3u8
@@ -2219,7 +2219,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 赣州公共,http://wb.jxgztv.com/live/gztv2.flv
 赣州教育,http://wb.jxgztv.com/live/gztv3.flv
 宜春万载综合,http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
-📺福建,#genre#
+📺　福建,#genre#
 福建新闻,http://110.80.17.38:9901/tsfile/live/0122_1.m3u8?key=txiptv
 福建综合,http://117.27.190.42:9901/tsfile/live/23284_1.m3u8?key=txiptv
 福建新闻,http://117.27.190.42:9901/tsfile/live/23286_1.m3u8?key=txiptv
@@ -2258,7 +2258,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 漳州漳浦综合,http://220.161.87.62:8090/hls/0/index.m3u8
 漳州漳浦综合,https://epg.pw/stream/56eb02707eb276bcf6a207859256e48ffb2e9e03fab764bcce746f4bf6b5a8bb.m3u8
 漳州云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8
-📺广西,#genre#
+📺　广西,#genre#
 广西新闻,http://113.12.72.152:9901/tsfile/live/1043_1.m3u8
 广西都市,http://113.12.72.152:9901/tsfile/live/1044_1.m3u8
 广西影视,http://113.12.72.152:9901/tsfile/live/1046_1.m3u8
@@ -2293,7 +2293,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 贵港新闻综合,http://110.72.68.117:808/hls/7/index.m3u8
 贵港新闻综合,http://110.72.76.50:808/hls/7/index.m3u8
 崇左天等综合,https://live.gxrb.com.cn/gx/tiandeng/index.m3u8
-📺山东,#genre#
+📺　山东,#genre#
 山东齐鲁,http://124.128.73.58:9901/tsfile/live/1000_1.m3u8
 山东生活,http://livealone.iqilu.com/iqilu/shpdhjOF03kn.m3u8
 山东综艺,http://124.128.73.58:9901/tsfile/live/1002_1.m3u8
@@ -2315,7 +2315,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 临沂新闻综合,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel111841/playlist.m3u8
 临沂公共,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel113571/playlist.m3u8
 临沂农科,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel115062/playlist.m3u8
-📺河南,#genre#
+📺　河南,#genre#
 武术世界,http://27.154.214.56:8888/rtp/239.61.3.22:9652
 武术世界,http://majian.ixiaobai.net:58888/rtp/239.37.0.076:5540
 文物宝库,http://27.154.214.56:8888/rtp/239.61.3.21:9646
@@ -2430,7 +2430,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 济源一套,http://live.dxhmt.cn:9081/tv/19001-1.m3u8
 济源一套,http://tvpull.dxhmt.cn:9081/tv/19001-1.m3u8
 濮阳南乐综合,http://live.dxhmt.cn:9081/tv/10923-1.m3u8
-📺河北,#genre#
+📺　河北,#genre#
 河北公共,http://123.182.208.248:8088/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 河北经济生活,http://123.182.208.248:8088/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 河北都市,http://123.182.208.248:8088/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -2492,7 +2492,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 商丘永城新闻,http://live.dxhmt.cn:9081/tv/11481-1.m3u8
 许昌襄城综合,http://live.dxhmt.cn:9081/tv/11025-1.m3u8
 许昌建安综合,http://live.dxhmt.cn:9081/tv/11003-1.m3u8
-📺陕西,#genre#
+📺　陕西,#genre#
 新闻资讯,http://1.82.144.16:4022/rtp/239.111.205.28:5140
 陕西公共,http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226334/index.m3u8
 陕西生活,http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226331/index.m3u8
@@ -2533,7 +2533,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 汉中城固综合,https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225944/index.m3u8
 汉中西乡融媒,https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225862/index.m3u8
 咸阳旬邑综合,https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225985/index.m3u8
-📺山西,#genre#
+📺　山西,#genre#
 山西经济与科技,http://liveflash.sxrtv.com/live/sxfinance.m3u8?sub_m3u8=true&edge_slice=true
 山西经济与科技,http://live.cooltv.top/tv/tide.php?id=sxjj
 山西经济与科技,http://live.cooltv.top/tv/cutv.php?id=sxjj
@@ -2576,7 +2576,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 忻州定襄综合,http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8?zshanxd
 阳泉新闻综合,https://live.yqrtv.com/xwpd/sd/live.m3u8
 阳泉科教,https://live.yqrtv.com/xwchne/sd/live.m3u8
-📺云南,#genre#
+📺　云南,#genre#
 云南都市,http://tvlive.ynradio.com/live/yunnandushi/chunks.m3u8
 云南都市,http://tvlive.ynradio.com/live/yunnandushi/playlist.m3u8
 云南娱乐,http://tvlive.ynradio.com/live/yunnanyule/chunks.m3u8
@@ -2611,13 +2611,13 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 昭通巧家综合,http://livebroadcast.ccwb.cn/live/w1593303918254963.m3u8
 玉溪新平综合,http://livebroadcast.ccwb.cn/live/w1615257519790969.m3u8
 德宏公共,https://ali-play.lezhibo.com/lezhibo/e6a8b2ecf53b4ea4b0aef1e91d20cd51.m3u8
-📺贵州,#genre#
+📺　贵州,#genre#
 天元围棋,http://110.52.99.109:9901/tsfile/live/1041_1.m3u8
 安顺新闻综合,http://hplayer1.juyun.tv/camera/133635181.m3u8
 安顺公共,http://hplayer1.juyun.tv/camera/116587130.m3u8
 铜仁松桃新闻,http://live.strmtzx.cn/stxw/sd/live.m3u8
 黔南综合,rtmp://tv.qntv.net/channellive/ch1?zguizd
-📺辽宁,#genre#
+📺　辽宁,#genre#
 辽宁都市,http://jd.sy012.com:4000/udp/232.0.0.42:8856
 辽宁生活,http://jd.sy012.com:4000/udp/232.0.0.212:9242
 辽宁经济,http://jd.sy012.com:4000/udp/232.0.0.155:9320
@@ -2630,7 +2630,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 黑龙江公共农业,https://idclive.hljtv.com:4430/live/hljgg_hd.m3u8
 黑龙江影视,https://idclive.hljtv.com:4430/live/hljys_hd.m3u8
 黑龙江文体,https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
-📺吉林,#genre#
+📺　吉林,#genre#
 吉林都市.http://hls.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/1.m3u8,
 吉林都市,http://61.138.128.226:19901/tsfile/live/1000_1.m3u8
 吉林公共,http://hls.avap.jilintv.cn/zqvk7vpj/channel/44dcb20ec810463cb517f1814c1b3ce9/1.m3u8
@@ -2664,7 +2664,7 @@ CRT文旅体育,http://majian.ixiaobai.net:58888/rtp/239.37.0.097:5540
 延边-2,https://epg.pw/stream/b29a59ae604e03f418fb64afe7793f3bd6e00c9905ebd638d4a0b58716c74023.m3u8
 延边-2,https://epg.pw/stream/ae4d5ebb6f83c370816cf09f28f4008a06d10e3dd0181cbfacfebfd52fee3c7d.m3u8
 辽源新闻综合,http://majian.ixiaobai.net:58888/rtp/239.37.0.250:5540
-📺甘肃,#genre#
+📺　甘肃,#genre#
 甘肃经济, http://www.pr666.site:4040/udp/239.255.30.253:8231
 甘肃公共, http://www.pr666.site:4040/udp/239.255.30.251:8231
 甘肃都市, http://www.pr666.site:4040/udp/239.255.30.252:8231
@@ -2679,7 +2679,7 @@ CRT文旅体育,http://majian.ixiaobai.net:58888/rtp/239.37.0.097:5540
 嘉峪关综合,http://www.pr666.site:4040/udp/239.255.29.36:8231
 嘉峪关公共,http://www.pr666.site:4040/udp/239.255.29.35:8231
 平凉崆峒综合,http://125.74.200.110:10080/hls/001/001_live.m3u8
-📺宁夏,#genre#
+📺　宁夏,#genre#
 宁夏公共,https://hls.ningxiahuangheyun.com/live/nxgg1M.m3u8
 宁夏经济,https://hls.ningxiahuangheyun.com/live/nxjj1M.m3u8
 宁夏少儿,https://hls.ningxiahuangheyun.com/live/nxse1M.m3u8
@@ -2689,7 +2689,7 @@ CRT文旅体育,http://majian.ixiaobai.net:58888/rtp/239.37.0.097:5540
 吴忠公共,http://live.kanwz.net/ggpd/sd/live.m3u8
 吴忠公共,http://live.kanwz.net/ggpd/sd/live.m3u8?zningxd
 临夏综合,http://124.152.34.102:8030/wCMq71/wCMq71_0.m3u8
-📺青海,#genre#
+📺　青海,#genre#
 青海经视,http://stream.qhbtv.com/qhsh/playlist.m3u8
 青海经视,http://stream.qhbtv.com/qhsh/sd/live.m3u8?_upt=19e710bb1704862305
 青海经视,http://stream.qhbtv.com/qhsh/sd/live.m3u8?_upt=14fd1cad1706341975
@@ -2740,7 +2740,7 @@ CRT文旅体育,http://majian.ixiaobai.net:58888/rtp/239.37.0.097:5540
 巴彦淖尔新闻综合,http://mmitv.top/test/tianma.php?id=bynrzh
 巴彦淖尔经济生活,http://mmitv.top/test/tianma.php?id=bynrjj
 巴彦淖尔影视娱乐,http://mmitv.top/test/tianma.php?id=bynrys
-📺新疆,#genre#
+📺　新疆,#genre#
 伊犁经济法制,http://110.153.180.106:55555/out_4/index.m3u8
 伊犁汉语,http://110.153.180.106:55555/out_1/index.m3u8
 伊犁维语,http://110.153.180.106:55555/out_2/index.m3u8
@@ -2768,7 +2768,7 @@ CRT文旅体育,http://majian.ixiaobai.net:58888/rtp/239.37.0.097:5540
 巴音郭楞教育,http://file.loulannews.cn/nmip-media/channellive/channel104199/playlist.m3u8
 塔城裕民哈语,http://117.190.130.4:8081/out_2/index.m3u8
 塔城裕民汉语,http://117.190.130.4:8081/out_1/index.m3u8
-📺西藏,#genre#
+📺　西藏,#genre#
 林芝工布江达县综合,http://php.jdshipin.com:8880/chudian.php?id=gbjd
 🎬BesTV,#genre#
 热门综艺,http://php.jdshipin.com:8880/bst.php?id=rmzy
@@ -2812,7 +2812,7 @@ CRT文旅体育,http://majian.ixiaobai.net:58888/rtp/239.37.0.097:5540
 戏曲精选,https://cdn2.jdshipin.com/api/bst2.php?id=xqjx8m/8000000
 看天下精选,https://cdn2.jdshipin.com/api/bst2.php?id=ktxjx8m/8000000
 百变课堂,https://cdn2.jdshipin.com/api/bst2.php?id=bbkt8m/8000000
-🎬CHC,#genre#
+🎬 CHC,#genre#
 CHC高清电影,http://110.52.99.109:9901/tsfile/live/1033_1.m3u8
 CHC高清电影,http://fxgm.fxjf.work:19901/tsfile/live/1016_1.m3u8
 CHC高清电影,http://58.19.182.187:9901/tsfile/live/1011_1.m3u8?key=txiptv
@@ -2851,7 +2851,7 @@ CHC家庭影院,http://fxgm.fxjf.work:19901/tsfile/live/1014_1.m3u8
 CHC家庭电影,http://183.237.246.14:9931/tsfile/live/1046_1.m3u8
 CHC动作电影,http://183.237.246.14:9931/tsfile/live/1047_1.m3u8
 CHC高清电影,http://183.237.246.14:9931/tsfile/live/1126_1.m3u8
-✨海外,#genre#
+✨　海外,#genre#
 欧洲华文1台,http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
 欧洲华文2台,http://vvlive.eztv.vip/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
 欧洲华文6台,http://vvlive.eztv.vip/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-4d45d97f017e545dd368719f8dd48ffe
