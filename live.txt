@@ -177,8 +177,8 @@ CCTV4K,http://majian.ixiaobai.net:58888/rtp/239.37.0.034:5540
 CCTV4K,http://majian.ixiaobai.net:58888/rtp/239.37.0.34:5540
 CCTV4K,http://1.62.64.234/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 CCTV4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
-CCTV4k,https://tv.iill.top/live/cctv4k
-CCTV8k,https://tv.iill.top/live/cctv8k
+CCTV4K,https://tv.iill.top/live/cctv4k
+CCTV8K,https://tv.iill.top/live/cctv8k
 重温经典,http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 早期教育,http://gmxw.7766.org:808/hls/100/index.m3u8
 中国教育1,http://27.217.213.217:18888/rtp/239.253.248.110:8000
@@ -2812,7 +2812,7 @@ CRT文旅体育,http://majian.ixiaobai.net:58888/rtp/239.37.0.097:5540
 戏曲精选,https://cdn2.jdshipin.com/api/bst2.php?id=xqjx8m/8000000
 看天下精选,https://cdn2.jdshipin.com/api/bst2.php?id=ktxjx8m/8000000
 百变课堂,https://cdn2.jdshipin.com/api/bst2.php?id=bbkt8m/8000000
-🎬 CHC,#genre#
+🎬　CHC,#genre#
 CHC高清电影,http://110.52.99.109:9901/tsfile/live/1033_1.m3u8
 CHC高清电影,http://fxgm.fxjf.work:19901/tsfile/live/1016_1.m3u8
 CHC高清电影,http://58.19.182.187:9901/tsfile/live/1011_1.m3u8?key=txiptv
