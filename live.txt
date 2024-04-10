@@ -40,7 +40,7 @@ CCTV3综艺,http://110.52.99.109:9901/tsfile/live/1002_1.m3u8
 CCTV3综艺,http://mu520.wicp.net:50085/hls/3/index.m3u8
 CCTV3综艺,http://58.19.182.187:9901/tsfile/live/0003_1.m3u8?key=txiptv
 CCTV3综艺,http://223.151.49.74:59901/tsfile/live/0003_1.m3u8?key=txiptv
-xCCTV3综艺,http://113.12.72.152:9901/tsfile/live/1002_1.m3u8?key=txiptv
+CCTV3综艺,http://113.12.72.152:9901/tsfile/live/1002_1.m3u8?key=txiptv
 CCTV3综艺,http://218.89.240.144:59901/tsfile/live/0003_1.m3u8?key=txiptv
 CCTV3综艺,http://111.74.155.231:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV3综艺,http://fxgm.fxjf.work:19901/tsfile/live/0003_1.m3u8
