@@ -1583,8 +1583,9 @@ TVB星河,http://1b6467f415.iok.la:9931/tsfile/live/1008_1.m3u8
 TVB星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 TVB星河,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
 TVB功夫,https://ali.hlspull.yximgs.com/live/12344.flv
-TVB功夫,https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3u8
+TVB功夫,https://s2.pub/cctv-20
 TVB功夫,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
+TVB功夫,https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3u8
 TVB明珠,http://xjayrf.eatuo.com:9901/tsfile/live/1005_1.m3u8
 TVB明珠,http://183.237.246.14:9931/tsfile/live/1009_1.m3u8
 TVB明珠,http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8
@@ -1610,6 +1611,7 @@ TVB明珠,http://1.65.195.85:9981/stream/channelid/1803382046?profile=pass
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 ✨　台湾,#genre#
 中天新闻,http://livetv.skycf.eu.org/live.m3u8?c=7
+中天亚洲,http://livetv.skycf.eu.org/live.m3u8?c=3
 中视综合,rtmp://f13h.mine.nu/sat/tv091
 中视新闻,http://livetv.skycf.eu.org/live.m3u8?c=6
 立场新闻,http://livetv.skycf.eu.org/live.m3u8?c=12
@@ -1639,13 +1641,15 @@ TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-公视综合,http://livetv.skycf.eu.org/live.m3u8?c=8
+公视新闻,http://livetv.skycf.eu.org/live.m3u8?c=8
 大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来体育,https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
+ELE体育1,rtmp://f13h.mine.nu/sat/tv731
+ELE体育2,rtmp://f13h.mine.nu/sat/tv741
 华语电视,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
 番薯电视,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 番薯电视,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
