@@ -1590,6 +1590,7 @@ TVB明珠,http://xjayrf.eatuo.com:9901/tsfile/live/1005_1.m3u8
 TVB明珠,http://183.237.246.14:9931/tsfile/live/1009_1.m3u8
 TVB明珠,http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8
 TVB明珠,http://1.65.195.85:9981/stream/channelid/1803382046?profile=pass
+港台电视32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
 港台电视33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
 港台电视34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8
 港台电视35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
@@ -1612,7 +1613,7 @@ TVB明珠,http://1.65.195.85:9981/stream/channelid/1803382046?profile=pass
 ✨　台湾,#genre#
 中天新闻,http://livetv.skycf.eu.org/live.m3u8?c=7
 中天亚洲,http://livetv.skycf.eu.org/live.m3u8?c=3
-中视综合,rtmp://f13h.mine.nu/sat/tv091
+中视频道,rtmp://f13h.mine.nu/sat/tv091
 中视新闻,http://livetv.skycf.eu.org/live.m3u8?c=6
 立场新闻,http://livetv.skycf.eu.org/live.m3u8?c=12
 镜新闻,http://livetv.skycf.eu.org/live.m3u8?c=10
@@ -1621,18 +1622,21 @@ TVB明珠,http://1.65.195.85:9981/stream/channelid/1803382046?profile=pass
 东森财经,https://ctrl.laotv.la/live/DongsenMovie/index.m3u8
 东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 东森电影,http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8
-民视综合,rtmp://f13h.mine.nu/sat/tv051
+三立新闻,http://livetv.skycf.eu.org/live.m3u8?c=12
+三立戏剧,http://mywlkj.ddns.net:754/tv/tw3.php?id=6
+民视频道,rtmp://f13h.mine.nu/sat/tv051
 民视新闻,http://livetv.skycf.eu.org/live.m3u8?c=11
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 台视新闻,http://livetv.skycf.eu.org/live.m3u8?c=4
 台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
-台视综合,rtmp://f13h.mine.nu/sat/tv071
+台视频道,rtmp://f13h.mine.nu/sat/tv071
 台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-华视综合,rtmp://f13h.mine.nu/sat/tv111
+华视频道,rtmp://f13h.mine.nu/sat/tv111
 华视新闻,http://livetv.skycf.eu.org/live.m3u8?c=13
+TVBS频道,http://mywlkj.ddns.net:754/tv/tw3.php?id=3
 TVBS新闻,http://livetv.skycf.eu.org/live.m3u8?c=5
 TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
@@ -1643,6 +1647,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 公视新闻,http://livetv.skycf.eu.org/live.m3u8?c=8
 大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+华语电视,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
@@ -1650,10 +1655,13 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
 ELE体育1,rtmp://f13h.mine.nu/sat/tv731
 ELE体育2,rtmp://f13h.mine.nu/sat/tv741
-华语电视,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
 番薯电视,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 番薯电视,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 番薯电视,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+八大戏剧,http://mywlkj.ddns.net:754/tv/tw3.php?id=4
+星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 📺　江苏,#genre#
 江苏新闻,http://222.189.51.62:8888/newlive/live/hls/55/live.m3u8
 江苏新闻,http://222.188.68.38:8888/newlive/live/hls/26/live.m3u8
