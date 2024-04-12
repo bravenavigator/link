@@ -2888,12 +2888,8 @@ CRT文旅体育,http://majian.ixiaobai.net:58888/rtp/239.37.0.097:5540
 萌小鬼片,http://159.75.85.63:35455/douyu/3928
 神乐影剧,http://159.75.85.63:35455/douyu/122402
 可乐影院,http://159.75.85.63:35455/douyu/20415
-小宇60帧,http://159.75.85.63:35455/douyu/323876
-花卷陪看,http://159.75.85.63:35455/douyu/52787
 漫威剧情,http://159.75.85.63:35455/douyu/6140589
-霍格沃茨,http://159.75.85.63:35455/douyu/8814650
-吃奶滴虫,http://159.75.85.63:35455/douyu/263824
-周星驰,http://tc-tct.douyucdn2.cn/dyliveflv1a/3637778raLSXdOdu_2000.m3u8
+星爷经典,http://tc-tct.douyucdn2.cn/dyliveflv1a/3637778raLSXdOdu_2000.m3u8
 🎬BesTV,#genre#
 热门综艺,http://php.jdshipin.com:8880/bst.php?id=rmzy
 热门综艺,http://php.jdshipin.com:8880/bst.php?id=rmzy8m/8000000
