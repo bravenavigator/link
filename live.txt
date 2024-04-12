@@ -639,6 +639,7 @@ CGTN俄语,https://tv.iill.top/live/cgtnr
 浙江卫视,http://223.151.49.74:59901/tsfile/live/0124_1.m3u8?key=txiptv
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+浙江卫视,http://121.27.126.103:809/hls/26/index.m3u8
 浙江卫视,http://mu520.wicp.net:50085/hls/30/index.m3u8
 浙江卫视,http://110.80.17.38:9901/tsfile/live/0124_1.m3u8?key=txiptv
 浙江卫视,http://218.89.240.144:59901/tsfile/live/0124_1.m3u8?key=txiptv
@@ -2427,15 +2428,14 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 河北公共,http://121.27.126.103:809/hls/62/index.m3u8
 河北都市,http://121.27.126.103:809/hls/59/index.m3u8
 河北影视剧,http://121.27.126.103:809/hls/60/index.m3u8
-河北影视,http://121.27.126.103:809/hls/26/index.m3u8
 河北农民,http://121.27.126.103:809/hls/63/index.m3u8
-河北娱乐,http://121.27.126.103:809/hls/65/index.m3u8
-河北生活,http://121.27.126.103:809/hls/66/index.m3u8
 石家庄新闻综合,http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8
 石家庄新闻综合,https://epg.pw/stream/e7cb9300d09219cdf7e4a4c39ab0c9328f0abe0e2b9272d3a2f5afb1576d9a68.m3u8
 石家庄都市,http://pluslive1.sjzntv.cn/dushi/playlist.m3u8
 石家庄都市,https://epg.pw/stream/de65f82aee82beb140a0d077456efbf1cf0aa8927b52f107acc45775c4f8d471.m3u8
+石家庄生活,http://121.27.126.103:809/hls/66/index.m3u8
 石家庄生活,http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8
+石家庄娱乐,http://121.27.126.103:809/hls/65/index.m3u8
 石家庄娱乐,http://pluslive1.sjzntv.cn/yule/playlist.m3u8
 石家庄鹿泉综合,https://jwliveqxzb.hebyun.com.cn/luquanyi/luquanyi.m3u8
 石家庄鹿泉综合,https://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8
