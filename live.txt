@@ -816,11 +816,11 @@ CGTN俄语,https://tv.iill.top/live/cgtnr
 陕西卫视,http://123.52.43.144:8888/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
 陕西卫视,http://113.12.72.152:9901/tsfile/live/1039_1.m3u8
 陕西卫视,http://hy.baojihzjc.com:9001/rtp/239.111.205.35:5140
+山西卫视,http://113.12.72.152:9901/tsfile/live/1028_1.m3u8?key=txiptv
 山西卫视,http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
 山西卫视,https://epg.pw/stream/c70bdd34e4df8d4813d6c785a8967191453215bcde8b72ab4801aabe4ce5fd74.m3u8
 山西卫视,https://epg.pw/stream/f3585857f1474c6f9527ea29a7a99115a86855d9addb67619aa9a033299b48eb.m3u8
 山西卫视,http://80ec27bff7f9ae80b961481da488e302.livehwc3.cn/liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d04ce01474da4193c8863ea281ec4759
-山西卫视,http://113.12.72.152:9901/tsfile/live/1028_1.m3u8?key=txiptv
 辽宁卫视,http://mu520.wicp.net:50085/hls/32/index.m3u8
 辽宁卫视,http://218.13.170.98:9901/tsfile/live/0121_1.m3u8
 辽宁卫视,http://218.89.240.144:59901/tsfile/live/0121_1.m3u8?key=txiptv
