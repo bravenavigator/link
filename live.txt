@@ -818,6 +818,7 @@ CGTN俄语,https://tv.iill.top/live/cgtnr
 陕西卫视,http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
 陕西卫视,http://123.52.43.144:8888/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
 陕西卫视,http://113.12.72.152:9901/tsfile/live/1039_1.m3u8
+陕西卫视,http://222.240.82.92:9901/tsfile/live/0136_1.m3u8
 陕西卫视,http://hy.baojihzjc.com:9001/rtp/239.111.205.35:5140
 山西卫视,http://113.12.72.152:9901/tsfile/live/1028_1.m3u8?key=txiptv
 山西卫视,http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
@@ -856,6 +857,7 @@ CGTN俄语,https://tv.iill.top/live/cgtnr
 甘肃卫视,http://113.12.72.152:9901/tsfile/live/1034_1.m3u8?key=txiptv
 甘肃卫视,http://218.13.170.98:9901/tsfile/live/0141_1.m3u8
 甘肃卫视,http://117.27.190.42:9901/tsfile/live/23277_1.m3u8?key=txiptv&playlive=1&authid=0
+甘肃卫视,http://222.240.82.92:9901/tsfile/live/0141_1.m3u8
 宁夏卫视,https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8
 宁夏卫视,http://113.12.72.152:9901/tsfile/live/1038_1.m3u8?key=txiptv
 青海卫视,http://110.80.17.38:9901/tsfile/live/0140_1.m3u8?key=txiptv
@@ -2221,8 +2223,8 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 凉山普格综合,http://175.153.116.219:8086/0.m3u8
 凉山西昌综合,http://xcfb.screx.com.cn:18085/hlsnew1/channel1.m3u8
 📺　湖南,#genre#
-湖南经视,http://222.240.82.92:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南经视,http://223.151.49.74:59901/tsfile/live/1003_1.m3u8
+湖南经视,http://222.240.82.92:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南经视,http://dp.sxtv.top:88/live/yfy.php?id=43024
 湖南都市,http://110.52.99.109:9901/tsfile/live/1031_1.m3u8
 湖南都市,http://222.240.82.92:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -2236,8 +2238,8 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 湖南电影,http://110.52.99.109:9901/tsfile/live/1030_1.m3u8
 湖南电影,http://223.151.49.74:59901/tsfile/live/1001_1.m3u8
 湖南电影,http://dp.sxtv.top:88/live/yfy.php?id=43029
-湖南电视剧,http://222.240.82.92:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南电视剧,http://223.151.49.74:59901/tsfile/live/1000_1.m3u8
+湖南电视剧,http://222.240.82.92:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南教育,http://222.241.154.37:9901/tsfile/live/23027_1.m3u8
 湖南教育,http://dp.sxtv.top:88/live/yfy.php?id=43021
 湖南爱晚,http://dp.sxtv.top:88/live/yfy.php?id=43080
