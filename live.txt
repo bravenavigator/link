@@ -2962,7 +2962,7 @@ CHC高清电影,http://183.237.246.14:9931/tsfile/live/1126_1.m3u8
 可乐影院,http://159.75.85.63:35455/douyu/20415
 漫威剧情,http://159.75.85.63:35455/douyu/6140589
 星爷经典,http://tc-tct.douyucdn2.cn/dyliveflv1a/3637778raLSXdOdu_2000.m3u8
-✨　海外,#genre#
+☀　海外,#genre#
 欧洲华文1台,http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
 欧洲华文2台,http://vvlive.eztv.vip/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
 欧洲华文6台,http://vvlive.eztv.vip/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-4d45d97f017e545dd368719f8dd48ffe
