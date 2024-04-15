@@ -2410,6 +2410,16 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 临沂公共,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel113571/playlist.m3u8
 临沂农科,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel115062/playlist.m3u8
 📺　河南,#genre#
+河南都市,http://dp.sxtv.top:88/live/yfy.php?id=41101
+河南民生,http://dp.sxtv.top:88/live/yfy.php?id=41102
+河南电视剧,http://dp.sxtv.top:88/live/yfy.php?id=41104
+河南公共,http://dp.sxtv.top:88/live/yfy.php?id=41106
+郑州新闻综合,http://dp.sxtv.top:88/live/yfy.php?id=41112
+周口新闻综合,http://dp.sxtv.top:88/live/yfy.php?id=41113
+新乡新闻综合,http://dp.sxtv.top:88/live/yfy.php?id=41119
+焦作新闻综合,http://dp.sxtv.top:88/live/yfy.php?id=41120
+南阳新闻综合,http://dp.sxtv.top:88/live/yfy.php?id=41127
+信阳新闻综合,http://dp.sxtv.top:88/live/yfy.php?id=41128
 梨园频道,http://222.223.118.222:2180/live/lypd/index.m3u8
 武术世界,http://27.154.214.56:8888/rtp/239.61.3.22:9652
 武术世界,http://majian.ixiaobai.net:58888/rtp/239.37.0.076:5540
@@ -2544,6 +2554,10 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 石家庄鹿泉综合,https://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8?zhebd
 秦皇岛昌黎综合,https://jwliveqxzb.hebyun.com.cn/clzhpd/clzhpd.m3u8
 秦皇岛昌黎综合,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
+唐山新闻综合,http://dp.sxtv.top:88/live/yfy.php?id=13110
+唐山生活服务,http://dp.sxtv.top:88/live/yfy.php?id=13111
+唐山影视,http://dp.sxtv.top:88/live/yfy.php?id=13112
+唐山公共,http://dp.sxtv.top:88/live/yfy.php?id=13113
 唐山迁西综合,https://jwliveqxzb.hebyun.com.cn/qxzhpd/qxzhpd.m3u8
 唐山迁西综合,https://jwcdnqx.hebyun.com.cn/live/qxzhpd/1500k/tzwj_video.m3u8
 廊坊大厂一套,http://60.10.185.184:1935/live/dc1.stream/playlist.m3u8
