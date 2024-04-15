@@ -760,7 +760,6 @@ CGTN俄语,https://tv.iill.top/live/cgtnr
 四川卫视,http://117.27.190.42:9901/tsfile/live/23260_1.m3u8?key=txiptv&playlive=1&authid=0
 四川卫视,http://mu520.wicp.net:50085/hls/54/index.m3u8
 海南卫视,http://111.75.151.236:50085/newlive/live/hls/42/live.m3u8
-海南卫视,http://113.57.103.216:9000/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 海南卫视,http://222.71.189.186:9901/tsfile/live/0114_6.m3u8?key=txiptv&playlive=1&authid=0
 海南卫视,http://117.27.190.42:9901/tsfile/live/23272_1.m3u8?key=txiptv&playlive=1&authid=0
 海南卫视,http://117.27.190.42:9901/tsfile/live/23273_1.m3u8?key=txiptv&playlive=1&authid=0
