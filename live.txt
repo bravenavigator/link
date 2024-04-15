@@ -858,6 +858,7 @@ CGTN俄语,https://tv.iill.top/live/cgtnr
 甘肃卫视,http://117.27.190.42:9901/tsfile/live/23277_1.m3u8?key=txiptv&playlive=1&authid=0
 宁夏卫视,https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8
 宁夏卫视,http://113.12.72.152:9901/tsfile/live/1038_1.m3u8?key=txiptv
+宁夏卫视,http://dp.sxtv.top:88/live/yfy.php?id=69
 青海卫视,http://110.80.17.38:9901/tsfile/live/0140_1.m3u8?key=txiptv
 青海卫视,http://222.173.134.150:8888/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 青海卫视,http://222.240.82.92:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -872,12 +873,15 @@ CGTN俄语,https://tv.iill.top/live/cgtnr
 新疆卫视,http://106.124.91.222:9901/tsfile/live/21212_1.m3u8
 新疆卫视,http://113.12.72.152:9901/tsfile/live/1036_1.m3u8
 新疆卫视,http://49.71.78.122/hlslive-tx-cdn.ysp.cctv.cn/ysp/2019927403.m3u8
+新疆卫视,http://dp.sxtv.top:88/live/yfy.php?id=64
 兵团卫视,http://mobilelive-ds.ysp.cctv.cn/ysp/2022606701.m3u8
 兵团卫视,http://mobilelive-ds.ysp.cctv.cn/ysp/2022606701_fhd.m3u8
 兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 兵团卫视,https://test5.btzx.com.cn/live/2023bt.stream/chunklist_w901976294.m3u8
 兵团卫视,https://epg.pw/stream/d84efa5eb598b5211d873bf4c345d5e25800edcf2b6cea4cc78e5c909b15b625.m3u8
+兵团卫视,http://dp.sxtv.top:88/live/yfy.php?id=67
 西藏卫视,http://113.12.72.152:9901/tsfile/live/1035_1.m3u8
+西藏卫视,http://dp.sxtv.top:88/live/yfy.php?id=66
 西藏卫视,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel66/index.m3u8
 海峡卫视,http://27.154.214.56:8888/rtp/239.61.2.151:8894
 海峡卫视,http://117.27.190.42:9901/tsfile/live/23283_1.m3u8?key=txiptv
