@@ -2322,8 +2322,8 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 福建综合,http://117.27.190.42:9901/tsfile/live/23284_1.m3u8?key=txiptv
 福建新闻,http://117.27.190.42:9901/tsfile/live/23286_1.m3u8?key=txiptv
 福建经济,http://117.27.190.42:9901/tsfile/live/23289_1.m3u8?key=txiptv
-福建公共,http://110.80.17.38:9901/tsfile/live/0130_1.m3u8?key=txiptv
-福建公共,http://117.27.190.42:9901/tsfile/live/23285_1.m3u8?key=txiptv
+福建乡村振兴公共,http://110.80.17.38:9901/tsfile/live/0130_1.m3u8?key=txiptv
+福建乡村振兴公共,http://117.27.190.42:9901/tsfile/live/23285_1.m3u8?key=txiptv
 福建电视剧,http://117.27.190.42:9901/tsfile/live/23287_1.m3u8?key=txiptv
 福建旅游,http://110.80.17.38:9901/tsfile/live/0138_1.m3u8?key=txiptv
 福建文体,http://117.27.190.42:9901/tsfile/live/23291_1.m3u8?key=txiptv
