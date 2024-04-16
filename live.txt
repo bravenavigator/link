@@ -1582,8 +1582,9 @@ BRTV纪实科教,http://php.jdshipin.com:8880/bst.php?id=bjjskj
 BRTV卡酷少儿,http://php.jdshipin.com:8880/bst.php?id=kkse
 BRTV卡酷少儿,https://cdn2.jdshipin.com/api/bst2.php?id=kkse8m/8000000
 BRTV纪实科教,https://cdn2.jdshipin.com/api/bst2.php?id=dajs8m/8000000
-BRTV纪实科教,http://dp.sxtv.top:88/live/cqyx.php?id=bjayjsSD
 BRTV卡酷少儿,http://dp.sxtv.top:88/live/bestv.php?id=kkse
+BRTV纪实科教,http://dp.sxtv.top:88/live/cqyx.php?id=bjayjsSD
+BRTV纪实科教,http://dp.sxtv.top:88/live/bestv.php?id=bjjskj
 朝阳融媒,http://111.196.131.234:8012/rtp/239.3.1.163:8001
 石景山综合,http://live.sjsrm.com/bjsjs/sd/live.m3u8
 房山综合,http://live.funhillrm.com/2/sd/live.m3u8
