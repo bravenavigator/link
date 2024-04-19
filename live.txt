@@ -1842,6 +1842,7 @@ BRTV纪实科教,http://dp.sxtv.top:88/live/bestv.php?id=bjjskj
 凤凰香港,http://113.64.145.195:8081/hls/38/index.m3u8
 凤凰香港,http://www.pr666.site:4040/udp/239.255.30.123:8231
 凤凰香港,http://146.56.153.245:20121/bysid/259
+凤凰香港,http://mywlkj.ddns.net:754/tv/fhhk.m3u8
 凤凰香港,http://183.204.13.13/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 TVB翡翠,http://183.237.246.14:9931/tsfile/live/1007_1.m3u8
 TVB翡翠,http://1b6467f415.iok.la:9931/tsfile/live/1007_1.m3u8
