@@ -661,6 +661,28 @@ CCTV5+体育赛事,http://dp.sxtv.top:88/live/bestv.php?id=cctv5p
 CCTV5+体育赛事,http://dp.sxtv.top:88/live/bestv.php?id=cctv5p2
 中国教育1,http://dp.sxtv.top:88/live/bestv.php?id=zgjy1
 中国教育4,http://dp.sxtv.top:88/live/bestv.php?id=zgjy4
+CCTV2,http://1.30.18.218:20080/hls/2/index.m3u8
+CCTV2,http://1.24.190.98:10080/hls/2/index.m3u8
+CCTV4,http://1.30.18.218:20080/hls/4/index.m3u8
+CCTV4,http://1.24.190.98:10080/hls/4/index.m3u8
+CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+CCTV2,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
+CCTV2,http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2022576703.m3u8
+CCTV3,http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2022576503.m3u8
+CCTV4,http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2022576603.m3u8
+CCTV5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+CCTV5+,http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2022576303.m3u8
+CCTV5+,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+CCTV6,https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
+CCTV8,http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2022576103.m3u8
+CCTV8,https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
+CCTV9,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
+CCTV12,http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2022575803.m3u8
+CCTV13,http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2022575703.m3u8
+CCTV14,http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2022575603.m3u8
+CCTV15,http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2022575503.m3u8
+CCTV16,http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2022575403.m3u8
+CCTV17,http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2022575303.m3u8
 📡　外语,#genre#
 CGTN英语,http://111.196.131.234:8012/rtp/239.3.1.215:4220
 CGTN法语,https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
@@ -1358,6 +1380,19 @@ CGTN俄语,https://www.sxtv.top/cctv.php?id=cgtnr
 兵团卫视,http://dp.sxtv.top:88/live/yfy.php?id=67
 宁夏卫视,http://dp.sxtv.top:88/live/yfy.php?id=69
 内蒙古卫视,http://dp.sxtv.top:88/live/yfy.php?id=93
+湖南卫视,http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2000296203.m3u8
+东方卫视,http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2000292403.m3u8
+江苏卫视,http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2000295603.m3u8
+重庆卫视,http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2000297803.m3u8
+江西卫视,http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2000294103.m3u8
+山东卫视,http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2000294803.m3u8
+河南卫视,http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2000296103.m3u8
+湖北卫视,http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2000294503.m3u8
+东南卫视,http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2000292503.m3u8
+河北卫视,http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2000293403.m3u8
+广西卫视,http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2000294203.m3u8
+内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
+贵州卫视,http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2000293303.m3u8
 📺　广东,#genre#
 广东新闻,http://113.101.119.52:808/hls/106/index.m3u8
 广东新闻,http://183.11.239.36:808/hls/5/index.m3u8
@@ -1842,6 +1877,7 @@ TVB明珠,http://xjayrf.eatuo.com:9901/tsfile/live/1005_1.m3u8
 TVB明珠,http://183.237.246.14:9931/tsfile/live/1009_1.m3u8
 TVB明珠,http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8
 TVB明珠,http://1.65.195.85:9981/stream/channelid/1803382046?profile=pass
+香港卫视,http://113.64.145.61:8081/hls/37/index.m3u8
 港台电视32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
 港台电视33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
 港台电视34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8
@@ -2460,6 +2496,8 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 福州平潭综合,http://117.27.190.42:9901/tsfile/live/23299_1.m3u8?key=txiptv
 厦门-1,http://117.27.190.42:9901/tsfile/live/23293_1.m3u8?key=txiptv
 厦门-2,http://117.27.190.42:9901/tsfile/live/23294_1.m3u8?key=txiptv
+厦门-2,http://27.154.214.56:8888/rtp/239.61.3.56:9854
+厦门-2,http://117.30.215.40:4022/rtp/239.61.3.56:9854
 南平一套,http://117.27.190.42:9901/tsfile/live/23295_1.m3u8?key=txiptv
 宁德综合,http://117.27.190.42:9901/tsfile/live/23296_1.m3u8?key=txiptv
 龙岩综合,http://live.lytv.net.cn/zhpwd/hd/live.m3u8
