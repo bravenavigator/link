@@ -1,5 +1,4 @@
 📡　央视,#genre#
-tv,url
 CCTV13新闻,http://live.chunfei.top/live02/cctv.m3u8?channel=cctvnews
 CCTV13新闻,http://dp.sxtv.top:88/live/bestv.php?id=cctv13
 CCTV13新闻,http://dp.sxtv.top:88/live/cqyx.php?id=CCTVNewsHD
