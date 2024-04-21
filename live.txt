@@ -595,6 +595,7 @@ CGTN俄语,https://www.sxtv.top/cctv.php?id=cgtnr
 浙江卫视,http://60.174.137.146:9901/tsfile/live/1031_1.m3u8
 湖南卫视,http://60.174.137.146:9901/tsfile/live/1030_1.m3u8
 东南卫视,http://60.174.137.146:9901/tsfile/live/0137_1.m3u8
+兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 北京卫视,http://110.80.17.38:9901/tsfile/live/0122_2.m3u8
 天津卫视,http://110.80.17.38:9901/tsfile/live/0135_1.m3u8
 重庆卫视,http://110.80.17.38:9901/tsfile/live/0142_1.m3u8
