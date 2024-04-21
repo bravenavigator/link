@@ -315,8 +315,9 @@ CCTV2财经,http://121.27.126.103:809/hls/2/index.m3u8
 CCTV3综艺,http://121.27.126.103:809/hls/3/index.m3u8
 CCTV5体育,http://121.27.126.103:809/hls/5/index.m3u8
 CCTV6电影,http://121.27.126.103:809/hls/6/index.m3u8
+CCTV8电视剧,http://121.27.126.103:809/hls/8/index.m3u8
 CCTV10科教,http://121.27.126.103:809/hls/10/index.m3u8
-CCTV12法制,http://121.27.126.103:809/hls/12/index.m3u8
+CCTV12社会与法,http://121.27.126.103:809/hls/12/index.m3u8
 CCTV13新闻,http://121.27.126.103:809/hls/13/index.m3u8
 CCTV14少儿,http://121.27.126.103:809/hls/14/index.m3u8
 CCTV1综合,http://123.184.70.100:801/hls/72/index.m3u8
@@ -808,19 +809,11 @@ CGTN俄语,https://www.sxtv.top/cctv.php?id=cgtnr
 辽宁卫视,http://113.57.109.36:9901/tsfile/live/0121_1.m3u8
 深圳卫视,http://113.57.109.36:9901/tsfile/live/0126_1.m3u8
 深圳卫视,http://115.149.139.141:10001/tsfile/live/1032_1.m3u8
-湖南卫视,http://121.27.126.103:809/hls/25/index.m3u8
-浙江卫视http://121.27.126.103:809/hls/31/index.m3u8
-深圳卫视http://121.27.126.103:809/hls/34/index.m3u8
-山东卫视http://121.27.126.103:809/hls/35/index.m3u8
-广东卫视http://121.27.126.103:809/hls/36/index.m3u8
-甘肃卫视,http://121.27.126.103:809/hls/59/index.m3u8
-新疆卫视,http://121.27.126.103:809/hls/60/index.m3u8
-贵州卫视,http://121.27.126.103:809/hls/62/index.m3u8
-江西卫视,http://121.27.126.103:809/hls/63/index.m3u8
-吉林卫视,http://121.27.126.103:809/hls/65/index.m3u8
-内蒙古卫视,http://121.27.126.103:809/hls/66/index.m3u8
-陕西卫视,http://121.27.126.103:809/hls/67/index.m3u8
-青海卫视,http://121.27.126.103:809/hls/69/index.m3u8
+湖南卫视,http://121.27.126.103:809/hls/19/index.m3u8
+广东卫视,http://121.27.126.103:809/hls/25/index.m3u8
+浙江卫视,http://121.27.126.103:809/hls/26/index.m3u8
+安徽卫视,http://121.27.126.103:809/hls/29/index.m3u8
+四川卫视,http://121.27.126.103:809/hls/31/index.m3u8
 辽宁卫视,http://123.163.55.234:9901/tsfile/live/0121_1.m3u8
 陕西卫视,http://123.52.43.144:8888/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://140.249.29.31/tlive-test-cdn.ysp.cctv.cn/ysp/2000292403.m3u8
@@ -2068,19 +2061,18 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 张家界桑植综合,https://liveplay-srs.voc.com.cn/hls/tv/185_938292.m3u8
 株洲攸县综合,https://liveplay-srs.voc.com.cn/hls/tv/158_423c80.m3u8
 📺　湖北,#genre#
-湖北经视,http://58.19.38.233:8888/newlive/live/hls/44/live.m3u8
-湖北经视,http://59.173.243.210:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北公共,http://59.173.243.210:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北生活,http://58.19.38.233:8888/newlive/live/hls/45/live.m3u8
-湖北影视,http://113.57.103.216:9000/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北影视,http://58.19.38.233:8888/newlive/live/hls/46/live.m3u8
-武汉新闻综合,http://59.173.243.210:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-武汉文体,http://59.173.243.210:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
-武汉科技生活,http://59.173.243.210:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-武汉电视剧,http://59.173.243.210:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
-武汉教育,http://59.173.243.210:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北综合,http://59.173.243.210:9901/tsfile/live/1020_1.m3u8
+湖北公共新闻,http://59.173.243.210:9901/tsfile/live/1034_1.m3u8
+湖北经视,http://59.173.243.210:9901/tsfile/live/1019_1.m3u8
+湖北影视,http://59.173.243.210:9901/tsfile/live/1000_1.m3u8
+湖北垄上,http://59.173.243.210:9901/tsfile/live/1031_1.m3u8
+武汉新闻综合,http://59.173.243.210:9901/tsfile/live/1003_1.m3u8
+武汉电视剧,http://59.173.243.210:9901/tsfile/live/1038_1.m3u8
+武汉科技生活,http://59.173.243.210:9901/tsfile/live/1002_1.m3u8
+武汉教育,http://59.173.243.210:9901/tsfile/live/1001_1.m3u8
+武汉文体,http://59.173.243.210:9901/tsfile/live/0119_1.m3u8
+武汉外语,http://59.173.243.210:9901/tsfile/live/1012_1.m3u8
 武汉教育,https://epg.pw/stream/c5bc53591db0451f2626ddff43e2de1460de1cbb8d7225d9d8c45e9660e9cb51.m3u8
-武汉外语,http://59.173.243.210:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 十堰新闻综合,http://p8.vzan.com/slowlive/034028687228317362/live.m3u8
 十堰新闻综合,https://p8.vzan.com/slowlive/034028687228317362/live.m3u8
 十堰经济旅游,https://p8.vzan.com/slowlive/701367497774448672/live.m3u8
