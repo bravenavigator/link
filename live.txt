@@ -494,6 +494,9 @@ CCTV5+体育赛事,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 CCTV6电影,https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
 CCTV8电视剧,https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
 CCTV9纪录,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
+CCTV5体育,http://zhangjiang.lawangxian.com:9901/tsfile/live/0005_1.m3u8
+CCTV6电影,http://zhangjiang.lawangxian.com:9901/tsfile/live/0006_1.m3u8
+CCTV9纪录,http://zhangjiang.lawangxian.com:9901/tsfile/live/0009_1.m3u8
 📡　外语,#genre#
 CGTN英语,http://111.196.131.234:8012/rtp/239.3.1.215:4220
 CGTN法语,https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
@@ -1037,6 +1040,7 @@ CGTN俄语,https://www.sxtv.top/cctv.php?id=cgtnr
 浙江卫视,https://cdn2.jdshipin.com/api/bst2.php?id=zjwshd8m/8000000
 宁夏卫视,https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8
 兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
+四川卫视,http://zhangjiang.lawangxian.com:9901/tsfile/live/0107_8.m3u8
 内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
 重庆卫视,https://sjlivecdn9.cbg.cn/204912315959/app_2/_definst_/ls_2.stream/chunklist.m3u8
 兵团卫视,https://test5.btzx.com.cn/live/2023bt.stream/chunklist_w901976294.m3u8
@@ -1351,6 +1355,7 @@ BRTV纪实科教,http://dp.sxtv.top:88/live/bestv.php?id=bjjskj
 法治天地,http://php.jdshipin.com:8880/bst.php?id=fztd8m/8000000
 法治天地,http://dp.sxtv.top:88/live/bestv.php?id=fztd
 法治天地,http://dp.sxtv.top:88/live/cqyx.php?id=fazhi
+法治天地,http://zhangjiang.lawangxian.com:9901/tsfile/live/0107_12.m3u8
 金色学堂,http://majian.ixiaobai.net:58888/rtp/239.37.0.239:5540
 金色学堂,http://acc.tohsaka.cn:9999/rtp/225.1.1.236:5002
 金色学堂,http://php.jdshipin.com:8880/bst.php?id=jsxt
