@@ -1,7 +1,7 @@
 📡　央视,#genre#
 CCTV13新闻,http://live.chunfei.top/live02/cctv.m3u8?channel=cctvnews
-CCTV2财经,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
 CCTV1综合,http://223.151.49.74:59901/tsfile/live/0001_1.m3u8?key=txiptv
+CCTV2财经,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
 CCTV2财经,http://223.151.49.74:59901/tsfile/live/0002_1.m3u8?key=txiptv
 CCTV3综艺,http://223.151.49.74:59901/tsfile/live/0003_1.m3u8?key=txiptv
 CCTV4中文国际,http://223.151.49.74:59901/tsfile/live/0004_1.m3u8?key=txiptv
@@ -559,12 +559,13 @@ CGTN西班牙语,https://tv.iill.top/live/cgtne
 CGTN法语,https://tv.iill.top/live/cgtnf
 CGTN阿拉伯语,https://tv.iill.top/live/cgtna
 CGTN俄语,https://tv.iill.top/live/cgtnr
-CGTN,https://www.sxtv.top/cctv.php?id=cgtn
+CGTN英语,https://www.sxtv.top/cctv.php?id=cgtn
 CGTN英文记录,https://www.sxtv.top/cctv.php?id=cgtnjl
 CGTN西班牙语,https://www.sxtv.top/cctv.php?id=cgtne
 CGTN法语,https://www.sxtv.top/cctv.php?id=cgtnf
 CGTN阿拉伯语,https://www.sxtv.top/cctv.php?id=cgtna
 CGTN俄语,https://www.sxtv.top/cctv.php?id=cgtnr
+CGTN英语,http://223.151.49.74:59901/tsfile/live/0016_1.m3u8?key=txiptv
 📡　卫视,#genre#
 北京卫视,http://124.128.73.58:9901/tsfile/live/0122_1.m3u8
 东方卫视,http://60.174.137.146:9901/tsfile/live/1026_1.m3u8
