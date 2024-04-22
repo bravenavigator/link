@@ -125,7 +125,7 @@ CCTV高尔夫网球,http://113.24.136.66:8082/udp/239.1.1.102:8102
 CCTV1综合,http://36.248.137.69:60033/tsfile/live/0001_1.m3u8
 CCTV2财经,http://36.248.137.69:60033/tsfile/live/0002_1.m3u8
 CCTV3综艺,http://36.248.137.69:60033/tsfile/live/0003_1.m3u8
-CCTV4国际,http://36.248.137.69:60033/tsfile/live/0004_1.m3u8
+CCTV4中文国际,http://36.248.137.69:60033/tsfile/live/0004_1.m3u8
 CCTV5体育,http://36.248.137.69:60033/tsfile/live/0005_1.m3u8
 CCTV6电影,http://36.248.137.69:60033/tsfile/live/0006_1.m3u8
 CCTV7国防军事,http://36.248.137.69:60033/tsfile/live/0007_1.m3u8
