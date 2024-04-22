@@ -48,6 +48,8 @@ CCTV怀旧剧场,http://dp.sxtv.top:88/live/cqyx.php?id=hjjcHD
 CCTV风云剧场,http://dp.sxtv.top:88/live/cqyx.php?id=fyjcHD
 CCTV风云音乐,http://dp.sxtv.top:88/live/cqyx.php?id=fyyyHD
 CCTV风云足球,http://dp.sxtv.top:88/live/cqyx.php?id=fyzqHD
+CCTV高尔夫网球,http://113.24.136.66:8084/udp/239.1.1.102:8102
+CCTV央视台球,http://113.24.136.66:8084/udp/239.1.1.100:8100
 CCTV羽毛球,http://61.178.184.39:8029/rtp/239.255.29.31:8231?Cf=cfss.cc
 CCTV电视指南,http://113.24.136.66:8084/udp/239.1.1.90:8090
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
@@ -92,9 +94,7 @@ CCTV第一剧场,http://113.24.136.66:8084/udp/239.1.1.94:8094
 CCTV怀旧剧场,http://113.24.136.66:8084/udp/239.1.1.95:8095
 CCTV风云音乐,http://113.24.136.66:8084/udp/239.1.1.96:8096
 CCTV兵器科技,http://113.24.136.66:8084/udp/239.1.1.97:8097
-CCTV央视台球,http://113.24.136.66:8084/udp/239.1.1.100:8100
 CCTV风云足球,http://113.24.136.66:8084/udp/239.1.1.101:8101
-CCTV高尔夫网球,http://113.24.136.66:8084/udp/239.1.1.102:8102
 CCTV1综合,http://113.24.136.66:8082/udp/239.1.1.7:8007
 CCTV2财经,http://113.24.136.66:8082/udp/239.1.1.8:8008
 CCTV3综艺,http://113.24.136.66:8082/udp/239.1.1.9:8009
