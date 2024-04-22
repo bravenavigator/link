@@ -866,7 +866,7 @@ CGTN英语,http://223.151.49.74:59901/tsfile/live/0016_1.m3u8?key=txiptv
 海南卫视,http://111.75.151.236:50085/newlive/live/hls/42/live.m3u8
 四川卫视,http://111.75.151.236:50085/newlive/live/hls/43/live.m3u8
 贵州卫视,http://111.75.151.236:50085/newlive/live/hls/45/live.m3u8
-陕西卫视,http://111.75.151.236:50085/newlive/live/hls/51/live.m3u8
+河北卫视,http://111.75.151.236:50085/newlive/live/hls/51/live.m3u8
 北京卫视,http://113.12.72.152:9901/tsfile/live/1017_1.m3u8?key=txiptv
 东方卫视,http://113.12.72.152:9901/tsfile/live/1018_1.m3u8?key=txiptv
 广东卫视,http://113.12.72.152:9901/tsfile/live/1019_1.m3u8?key=txiptv
