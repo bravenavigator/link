@@ -1981,7 +1981,6 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 衢州衢江综合,https://epg.pw/stream/f3219833480ea0beebc14ecbb50d37f9f3600b64c8ecfaec5910421183b3c19d.m3u8
 衢州江山综合,http://play-sh.quklive.com/live/1623117710666335.m3u8
 📺　安徽,#genre#
-广西,#genre#
 安徽经济生活,http://159.75.166.157/php/ah.php?id=ahjj
 安徽公共,http://159.75.166.157/php/ah.php?id=ahgg
 安徽农业科教,http://159.75.166.157/php/ah.php?id=ahnk
