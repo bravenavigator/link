@@ -1207,7 +1207,6 @@ CGTN英语,http://223.151.49.74:59901/tsfile/live/0016_1.m3u8?key=txiptv
 山西卫视,https://epg.pw/stream/f3585857f1474c6f9527ea29a7a99115a86855d9addb67619aa9a033299b48eb.m3u8
 延边卫视,https://epg.pw/stream/f8b011a72bc4a208b05e644becd195a02fd6a7937bb4bacaf635def8eede2b71.m3u8
 📺　广东,#genre#
-广东珠江,http://xjayrf.eatuo.com:9901/tsfile/live/1011_1.m3u8
 广东珠江,http://113.86.204.95:9999/udp/239.77.0.1:5146
 广东珠江,http://113.86.204.95:9999/udp/239.77.0.114:5146
 广东新闻,http://113.86.204.95:9999/udp/239.77.0.173:5146
@@ -1384,7 +1383,7 @@ CGTN英语,http://223.151.49.74:59901/tsfile/live/0016_1.m3u8?key=txiptv
 潮州民生,http://time-vod-qhlive.sobeylive.com/czbtv2019/czggpd.m3u8
 梅州一套,http://pili-live-hls.xianchangliving.gdmztv.com/meizhou-xianchangliving/mztv1.m3u8
 梅州二套,http://pili-live-hls.xianchangliving.gdmztv.com/meizhou-xianchangliving/mztv2.m3u8
-经济科教,http://113.86.205.10:808/hls/129/index.m3u8
+广东珠江,http://xjayrf.eatuo.com:9901/tsfile/live/1011_1.m3u8
 深圳都市,https://epg.pw/stream/42922b3bab314ce0217fdf746165de08e00d0556ebf961ee63049811baacc5ac.m3u8
 深圳电视剧,http://61.141.202.118:9901/tsfile/live/0126_3.m3u8?key=txiptv&playlive=1&authid=0
 深圳龙岗,http://liveplay.sznews.com/66_showto_live/2647.m3u8
