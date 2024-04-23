@@ -1993,10 +1993,8 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 安徽影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be.flv
 安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
 安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv
-安徽国际,http://api2.52tb.xyz/info?id=586&token=20230405tndmhg
 安徽导视,https://livehls1.appcoo.com/liveshopping/949E0A98C9D0C311/6D925141BC1F8C28/index.m3u8
 安徽影视,https://epg.pw/stream/a34aa2b2f8b89143f5d1d219d14e07aff3a540dcee1a8827a7493d54a6dbe218.ctv
-合肥民生,http://api2.52tb.xyz/info?id=588&token=20230405tndmhg
 合肥肥西综合,http://112.30.194.221:20080/live/7210e3a27cc64ac4a3f7aba2e2b683d5/hls.m3u8
 合肥肥西综合,http://112.30.194.221:20080/live/7210e3a27cc64ac4a3f7aba2e2b683d5.flv
 池州新闻综合,http://wjsp.chiznews.com:8037/live/xwzh.m3u8
@@ -2756,7 +2754,6 @@ CRT文旅体育,http://majian.ixiaobai.net:58888/rtp/239.37.0.097:5540
 📺　西藏,#genre#
 西藏藏语卫视,http://php.jdshipin.com:8880/xztv.php?id=zy
 西藏影视文化,http://php.jdshipin.com:8880/xztv.php?id=ys
-林芝工布江达县综合,http://php.jdshipin.com:8880/chudian.php?id=gbjd
 🎬BesTV,#genre#
 热门综艺,http://php.jdshipin.com:8880/bst.php?id=rmzy
 热门综艺,http://php.jdshipin.com:8880/bst.php?id=rmzy8m/8000000
