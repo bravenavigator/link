@@ -2623,17 +2623,17 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 黑龙江文体,https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
 📺　吉林,#genre#
 吉林都市,http://61.138.128.226:19901/tsfile/live/1000_1.m3u8
-吉林公共,http://hls.avap.jilintv.cn/zqvk7vpj/channel/44dcb20ec810463cb517f1814c1b3ce9/1.m3u8
 吉林公共,http://61.138.128.226:19901/tsfile/live/1004_1.m3u8
 吉林综艺,http://61.138.128.226:19901/tsfile/live/1005_1.m3u8
-吉林影视,http://hls.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/1.m3u8
 吉林影视,http://61.138.128.226:19901/tsfile/live/1001_1.m3u8
-吉林生活,http://hls.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/1.m3u8
-吉林乡村,http://hls.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/1.m3u8
 吉林乡村,http://61.138.128.226:19901/tsfile/live/1003_1.m3u8
 吉林教育,http://61.138.128.226:19901/tsfile/live/1009_1.m3u8
 长影频道,http://61.138.128.226:19901/tsfile/live/1010_1.m3u8
 东北戏曲,http://61.138.128.226:19901/tsfile/live/1007_1.m3u8
+吉林公共,http://hls.avap.jilintv.cn/zqvk7vpj/channel/44dcb20ec810463cb517f1814c1b3ce9/1.m3u8
+吉林生活,http://hls.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/1.m3u8
+吉林乡村,http://hls.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/1.m3u8
+吉林影视,http://hls.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/1.m3u8
 📺　甘肃,#genre#
 甘肃经济, http://www.pr666.site:4040/udp/239.255.30.253:8231
 甘肃公共, http://www.pr666.site:4040/udp/239.255.30.251:8231
