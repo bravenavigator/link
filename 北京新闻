@@ -146,7 +146,8 @@ CCTV5+体育赛事,http://111.15.174.107:8969/tsfile/live/0016_1.m3u8?key=txiptv
 CCTV4中文国际,http://112.235.202.94:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV7国防军事,http://112.235.202.94:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5+体育赛事,http://112.235.202.94:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2财经,http://115.171.86.251:9901/tsfile/live/16001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2财经,http://115.171.86.251:9901/tsfile/live/16001_1.m3u8
+中国教育1,http://115.171.86.251:9901/tsfile/live/16058_1.m3u8
 CCTV1综合,http://123.154.30.3:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV3综艺,http://123.154.30.3:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV7国防军事,http://123.154.30.3:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -1797,7 +1798,6 @@ BRTV卡酷少儿,https://cdn2.jdshipin.com/api/bst2.php?id=kkse8m/8000000
 BRTV纪实科教,https://cdn2.jdshipin.com/api/bst2.php?id=dajs8m/8000000
 BRTV新闻,https://epg.pw/stream/3e01e04a6bd9beb64ce9550b799c1f1e2806d096cf391f4c31510a1b1da7e5a1.m3u8
 BRTV新闻,https://epg.pw/stream/80307082824983f38685364e741bd9738d2632ac1c9c0b22e7a5817d4fb4d0c4.m3u8
-教育电视台-1,http://115.171.86.251:9901/tsfile/live/16058_1.m3u8
 淘电影,http://115.171.86.251:9901/tsfile/live/1000_1.m3u8
 淘电影,http://123.115.195.226:8888/rtp/239.3.1.250:8001
 淘电影,http://111.196.131.234:8012/rtp/239.3.1.250:8001
