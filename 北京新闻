@@ -1092,6 +1092,7 @@ CGTN英语,http://111.11.98.205:9900/hls/16/index.m3u8
 浙江卫视,http://61.138.128.226:19901/tsfile/live/1044_1.m3u8
 辽宁卫视,http://61.141.202.118:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://61.182.33.218:8000/hls/21/index.m3u8
+内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
 宁夏卫视,https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8
 安徽卫视,https://www.sxtv.top/cctv.php?id=ahws
 北京卫视,https://www.sxtv.top/cctv.php?id=bjws
@@ -1488,12 +1489,8 @@ CGTN英语,http://111.11.98.205:9900/hls/16/index.m3u8
 深圳卫视,http://218.13.170.98:9901/tsfile/live/1005_1.m3u8
 重庆卫视,http://218.13.170.98:9901/tsfile/live/1012_1.m3u8
 安多卫视,http://stream.qhBRTV.com/adws/playlist.m3u8
-安多卫视,http://stream.qhBRTV.com/adws/playlist.m3u8?_upt=739abf201649062902
 安多卫视,http://stream.qhBRTV.com/adws/sd/live.m3u8
 青海卫视,http://stream.qhBRTV.com/qhws/sd/live.m3u8
-青海卫视,http://stream.qhBRTV.com/qhws/sd/live.m3u8?_upt=1da074361609506578
-青海卫视,http://stream.qhBRTV.com/qhws/sd/live.m3u8?_upt=63cf437e1591689484
-青海卫视,http://stream.qhBRTV.com/qhws/sd/live.m3u8?_upt=f35a89681647856030
 安徽卫视,http://tv.sh021.cn/api/dgysp.php?id=ahws
 云南卫视,http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
 云南卫视,http://tvlive.ynradio.com/live/yunnanweishi/playlist.m3u8
@@ -1530,7 +1527,6 @@ CGTN英语,http://111.11.98.205:9900/hls/16/index.m3u8
 山西卫视,http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
 兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 四川卫视,http://zhangjiang.lawangxian.com:9901/tsfile/live/0107_8.m3u8
-内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
 重庆卫视,https://sjlivecdn9.cbg.cn/204912315959/app_2/_definst_/ls_2.stream/chunklist.m3u8
 兵团卫视,https://test5.btzx.com.cn/live/2023bt.stream/chunklist_w901976294.m3u8
 安多卫视,https://epg.pw/stream/0dbf2527893daab2f9cad63020dde0c2cc00c138857fdd4add555a8a8e246187.m3u8
