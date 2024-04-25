@@ -2237,6 +2237,11 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 经济生活,http://60.12.183.46:9901/tsfile/live/0117_1.m3u8
 浙江科教影视,http://60.12.183.46:9901/tsfile/live/0115_1.m3u8
 钱江频道,http://60.12.183.46:9901/tsfile/live/0132_1.m3u8
+杭州综合,http://124.90.208.196:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
+杭州明珠,http://124.90.208.196:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
+杭州影视,http://124.90.208.196:9901/tsfile/live/0124_2.m3u8?key=txiptv&playlive=0&authid=0
+杭州生活,http://124.90.208.196:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0
+浙江少儿,http://124.90.208.196:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
 杭州综合,http://www.372583307.top:4022/udp/233.50.201.173:5140
 杭州综合,http://125.210.152.19:9121/live/hzgq-hzzhgq-h264.m3u8
 杭州明珠,http://125.210.152.19:9121/live/hzgq-xhmzgq-h264.m3u8
@@ -2642,6 +2647,8 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 洛阳新安综合,http://live.dxhmt.cn:9081/tv/10323-1.m3u8
 洛阳栾川综合,http://live.dxhmt.cn:9081/tv/10324-1.m3u8
 洛阳嵩县综合,http://tvpull.dxhmt.cn:9081/tv/10325-1.m3u8
+开封新闻	http://222.89.107.42:9876/tsfile/live/0139_8.m3u8?key=txiptv&playlive=1&authid=0
+开封公共	http://222.89.107.42:9876/tsfile/live/0017_2.m3u8?key=txiptv&playlive=1&authid=0
 开封兰考新闻,http://tvpull.dxhmt.cn:9081/tv/10225-1.m3u8
 开封兰考新闻,http://live.dxhmt.cn:9081/tv/10225-1.m3u8
 开封杞县新闻综合,http://live.dxhmt.cn:9081/tv/10221-1.m3u8
