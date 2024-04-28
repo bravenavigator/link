@@ -1986,12 +1986,16 @@ BRTV新闻,https://epg.pw/stream/80307082824983f38685364e741bd9738d2632ac1c9c0b2
 凤凰香港,http://146.56.153.245:20121/bysid/259
 凤凰香港,http://mywlkj.ddns.net:754/tv/fhhk.m3u8
 凤凰香港,http://183.204.13.13/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
+有线新闻,http://119.23.61.191:8088/HK/hoy78/hls.m3u8
+有线综合,http://119.23.61.191:8088/HK/hoy77/hls.m3u8
+TVB翡翠,http://60.30.198.43:5080/HK/tvb/hls.m3u8
 TVB翡翠,http://119.125.129.134:9901/tsfile/live/1007_1.m3u8?key=txiptv
 TVB翡翠,http://183.237.246.14:9931/tsfile/live/1007_1.m3u8
 TVB翡翠,http://1b6467f415.iok.la:9931/tsfile/live/1007_1.m3u8
 TVB新闻,http://nz189l149.bb27109.ctm.net:8892/bysid/83
 TVB新闻,https://tv.iill.top/tvb/2
 TVB新闻,https://s2.pub/cctv-12
+TVB新闻,http://66.165.240.154:8080/live/TVBwxxwt/hls.m3u8
 TVB新闻,http://1.65.195.85:9981/stream/channelid/2051586642?profile=pass
 TVB新闻,http://zsntlqj.xicp.net:8896/bysid/83
 TVB新闻,https://i.125011.xyz/tvb.php?id=0&hq
@@ -2016,11 +2020,20 @@ TVB功夫,https://s2.pub/cctv-20
 TVB功夫,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 TVB功夫,http://tvbox6.com/tv/yximgs.php?id=68
 TVB功夫,https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3u8
+TVB Plus,http://ncdsrti.7766.org:7550/hls/chunklistxqsltvbj5.m3u8
+TVB明珠,http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8
+TVB明珠,http://1.65.195.85:9981/stream/channel/1e6d7deb90c81326e1598c0ff5d14bfe?profile=matroska
 TVB明珠,http://nz189l149.bb27109.ctm.net:8892/bysid/2
 TVB明珠,http://xjayrf.eatuo.com:9901/tsfile/live/1005_1.m3u8
 TVB明珠,http://183.237.246.14:9931/tsfile/live/1009_1.m3u8
 TVB明珠,http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8
 TVB明珠,http://1.65.195.85:9981/stream/channelid/1803382046?profile=pass
+Now新闻,http://60.30.198.43:5080/HK/nowxw/hls.m3u8
+Now星影,http://60.30.198.43:5080/HK/xy/hls.m3u8
+Now爆谷,http://60.30.198.43:5080/HK/bg/hls.m3u8
+Now英超,http://60.30.198.43:5080/HK/nowty2/hls.m3u8
+Now英超,http://220.246.126.166:9981/stream/channel/dc8db4742fcbe0da67fa417159b6fadd
+Now体育,http://60.30.198.43:5080/HK/nowty/hls.m3u8
 香港卫视,http://113.64.145.61:8081/hls/37/index.m3u8
 港台电视32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
 港台电视33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
@@ -2045,13 +2058,15 @@ TVB明珠,http://1.65.195.85:9981/stream/channelid/1803382046?profile=pass
 澳门莲花,https://tv.iill.top/mo/lhws
 澳门莲花,http://moss.hk3.345888.xyz.cdn.cloudflare.net/11/lotus.php
 美亚电影,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+天映经典,http://220.246.126.166:9981/stream/channel/41c88a7e33fa037c959dc05514e19417
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?$1024x576
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 ✨　台湾,#genre#
 中天新闻,http://livetv.skycf.eu.org/live.m3u8?c=7
 中天亚洲,http://livetv.skycf.eu.org/live.m3u8?c=3
-中视频道,rtmp://f13h.mine.nu/sat/tv091
 中视新闻,http://livetv.skycf.eu.org/live.m3u8?c=6
+中视频道,rtmp://f13h.mine.nu/sat/tv091
+中视闽南,rtmp://f13h.mine.nu/sat/tv091
 立场新闻,http://livetv.skycf.eu.org/live.m3u8?c=12
 镜新闻,http://livetv.skycf.eu.org/live.m3u8?c=10
 东森新闻,http://livetv.skycf.eu.org/live.m3u8?c=9
@@ -2072,6 +2087,7 @@ TVB明珠,http://1.65.195.85:9981/stream/channelid/1803382046?profile=pass
 台视频道,rtmp://f13h.mine.nu/sat/tv071
 台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+台视闽南,rtmp://f13h.mine.nu/sat/tv071
 华视频道,rtmp://f13h.mine.nu/sat/tv111
 华视新闻,http://livetv.skycf.eu.org/live.m3u8?c=13
 TVBS频道,http://mywlkj.ddns.net:754/tv/tw3.php?id=3
@@ -2086,6 +2102,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 公视新闻,http://livetv.skycf.eu.org/live.m3u8?c=8
 大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 华语电视,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
+华视闽南,rtmp://f13h.mine.nu/sat/tv111
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
