@@ -2062,6 +2062,7 @@ Now体育,http://60.30.198.43:5080/HK/nowty/hls.m3u8
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?$1024x576
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 ✨　台湾,#genre#
+中天新闻,http://154.yfvodcdn.com:8080/live/ztylt01/hls.m3u8
 中天新闻,http://livetv.skycf.eu.org/live.m3u8?c=7
 中天亚洲,http://livetv.skycf.eu.org/live.m3u8?c=3
 中视新闻,http://livetv.skycf.eu.org/live.m3u8?c=6
