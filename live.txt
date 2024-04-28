@@ -1,5 +1,5 @@
 📡　央视,#genre#
-CCTV13新闻,http://live.chunfei.top/live02/cctv.m3u8?channel=cctvnews
+CCTV13新闻,http://223.151.49.74:59901/tsfile/live/0013_1.m3u8?key=txiptv
 CCTV1综合,http://223.151.49.74:59901/tsfile/live/0001_1.m3u8?key=txiptv
 CCTV2财经,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
 CCTV2财经,http://223.151.49.74:59901/tsfile/live/0002_1.m3u8?key=txiptv
@@ -17,7 +17,6 @@ CCTV9纪录,http://223.151.49.74:59901/tsfile/live/0009_1.m3u8?key=txiptv
 CCTV10科教,http://223.151.49.74:59901/tsfile/live/0010_1.m3u8?key=txiptv
 CCTV11戏曲,http://223.151.49.74:59901/tsfile/live/0011_1.m3u8?key=txiptv
 CCTV12社会与法,http://223.151.49.74:59901/tsfile/live/0012_1.m3u8?key=txiptv
-CCTV13新闻,http://223.151.49.74:59901/tsfile/live/0013_1.m3u8?key=txiptv
 CCTV14少儿,http://223.151.49.74:59901/tsfile/live/0014_1.m3u8?key=txiptv
 CCTV15音乐,http://223.151.49.74:59901/tsfile/live/0015_1.m3u8?key=txiptv
 CCTV16奥林匹克,http://mu520.wicp.net:50085/hls/16/index.m3u8
