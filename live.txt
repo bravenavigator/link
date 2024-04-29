@@ -2454,7 +2454,7 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 临沂农科,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel115062/playlist.m3u8
 📺　河南,#genre#
 河南公共,http://222.89.107.42:9876/tsfile/live/0139_6.m3u8?key=txiptv&playlive=1&authid=0
-河南戏曲http://222.89.107.42:9876/tsfile/live/0139_7.m3u8?key=txiptv&playlive=1&authid=0
+河南戏曲,http://222.89.107.42:9876/tsfile/live/0139_7.m3u8?key=txiptv&playlive=1&authid=0
 梨园频道,http://222.223.118.222:2180/live/lypd/index.m3u8
 武术世界,http://27.154.214.56:8888/rtp/239.61.3.22:9652
 武术世界,http://majian.ixiaobai.net:58888/rtp/239.37.0.076:5540
