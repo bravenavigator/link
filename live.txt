@@ -657,8 +657,8 @@ CGTN英语,http://223.151.49.74:59901/tsfile/live/0016_1.m3u8?key=txiptv
 CGTN英语,http://111.11.98.205:9900/hls/16/index.m3u8
 📡　卫视,#genre#
 北京卫视,http://123.6.102.32:11789/357.php?id=2000272103.m3u8
-天津卫视,http://123.6.102.32:11789/357.php?id=2019927003.m3u8
 东方卫视,http://123.6.102.32:11789/357.php?id=2000292403.m3u8
+天津卫视,http://123.6.102.32:11789/357.php?id=2019927003.m3u8
 重庆卫视,http://123.6.102.32:11789/357.php?id=2000297803.m3u8
 广东卫视,http://123.6.102.32:11789/357.php?id=2000292703.m3u8
 深圳卫视,http://123.6.102.32:11789/357.php?id=2000292203.m3u8
@@ -677,12 +677,19 @@ CGTN英语,http://111.11.98.205:9900/hls/16/index.m3u8
 广西卫视,http://123.6.102.32:11789/357.php?id=2000294203.m3u8
 贵州卫视,http://123.6.102.32:11789/357.php?id=2000293303.m3u8
 海南卫视,http://123.6.102.32:11789/357.php?id=2000291503.m3u8
+陕西卫视,http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
+山西卫视,http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
+甘肃卫视,http://www.pr666.site:4040/udp/239.255.30.249:8231
+宁夏卫视,https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8
 辽宁卫视,http://123.6.102.32:11789/357.php?id=2000281303.m3u8
 黑龙江卫视,http://123.6.102.32:11789/357.php?id=2000293903.m3u8
 吉林卫视,http://124.128.73.58:9901/tsfile/live/0116_1.m3u8
 新疆卫视,http://123.6.102.32:11789/357.php?id=2019927403.m3u8
 兵团卫视,http://123.6.102.32:11789/357.php?id=2022606703.m3u8
 内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
+西藏卫视,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel66/index.m3u8
+深圳卫视,http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225592/index.m3u8
+陕西卫视,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel55/index.m3u8
 青海卫视,http://124.128.73.58:9901/tsfile/live/0140_1.m3u8
 北京卫视,http://124.128.73.58:9901/tsfile/live/0122_1.m3u8
 天津卫视,http://124.128.73.58:9901/tsfile/live/0135_1.m3u8
@@ -870,7 +877,6 @@ CGTN英语,http://111.11.98.205:9900/hls/16/index.m3u8
 湖北卫视,http://36.249.150.254:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 江西卫视,http://36.249.150.254:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://36.249.150.254:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-甘肃卫视,http://www.pr666.site:4040/udp/239.255.30.249:8231
 北京卫视,http://110.80.17.38:9901/tsfile/live/0122_2.m3u8
 天津卫视,http://110.80.17.38:9901/tsfile/live/0135_1.m3u8
 重庆卫视,http://110.80.17.38:9901/tsfile/live/0142_1.m3u8
@@ -1017,7 +1023,6 @@ CGTN英语,http://111.11.98.205:9900/hls/16/index.m3u8
 浙江卫视,http://61.138.128.226:19901/tsfile/live/1044_1.m3u8
 辽宁卫视,http://61.141.202.118:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://61.182.33.218:8000/hls/21/index.m3u8
-宁夏卫视,https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8
 北京卫视,http://60.12.183.46:9901/tsfile/live/0015_2.m3u8
 江苏卫视,http://60.12.183.46:9901/tsfile/live/0017_1.m3u8
 东方卫视,http://60.12.183.46:9901/tsfile/live/0018_1.m3u8
@@ -1239,10 +1244,6 @@ CGTN英语,http://111.11.98.205:9900/hls/16/index.m3u8
 东方卫视,http://220.180.229.250:9901/tsfile/live/0125_1.m3u8?key=txiptv
 安徽卫视,http://220.180.229.250:9901/tsfile/live/0130_1.m3u8?key=txiptv
 湖北卫视,http://220.180.229.250:9901/tsfile/live/0132_1.m3u8?key=txiptv
-陕西卫视,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel55/index.m3u8
-西藏卫视,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel66/index.m3u8
-陕西卫视,http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
-深圳卫视,http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225592/index.m3u8
 甘肃卫视,http://27.154.214.56:8888/rtp/239.61.2.225:9338
 海峡卫视,http://27.154.214.56:8888/rtp/239.61.2.151:8894
 甘肃卫视,http://14.29.76.30:9901/tsfile/live/0141_1.m3u8
@@ -1279,7 +1280,6 @@ CGTN英语,http://111.11.98.205:9900/hls/16/index.m3u8
 天津卫视,http://58.220.219.14:9901/tsfile/live/0135_1.m3u8
 江西卫视,http://58.220.219.14:9901/tsfile/live/0138_1.m3u8
 黑龙江卫视,http://58.220.219.14:9901/tsfile/live/0143_1.m3u8
-山西卫视,http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 云南卫视,http://fxgm.fxjf.work:19901/tsfile/live/0119_1.m3u8
