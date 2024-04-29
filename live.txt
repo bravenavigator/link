@@ -2462,12 +2462,10 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 河南电视剧,http://mail.long365.net:4000/rtp/225.1.4.55:1084
 河南国际,http://mail.long365.net:4000/rtp/225.1.4.102:1131
 河南移动,http://mail.long365.net:4000/rtp/225.1.5.40:1350
-梨园频道,http://mail.long365.net:4000/rtp/225.1.4.99:1128
+河南戏曲,http://mail.long365.net:4000/rtp/225.1.4.99:1128
 文物宝库,http://mail.long365.net:4000/rtp/225.1.4.100:1129
 武术世界,http://mail.long365.net:4000/rtp/225.1.4.101:1130
 河南导视,http://mail.long365.net:4000/rtp/225.1.4.194:1244
-梨园频道,http://175.10.59.126:4022/udp/239.76.245.179:1234
-梨园频道,http://175.10.59.126:4022/udp/239.76.252.179:9000
 河南公共,http://222.89.107.42:9876/tsfile/live/0139_6.m3u8?key=txiptv&playlive=1&authid=0
 河南戏曲,http://222.89.107.42:9876/tsfile/live/0139_7.m3u8?key=txiptv&playlive=1&authid=0
 梨园频道,http://222.223.118.222:2180/live/lypd/index.m3u8
