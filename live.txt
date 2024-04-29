@@ -36,9 +36,10 @@ CCTV风云足球,http://123.6.102.32:11789/357.php?id=2012514203.m3u8
 CCTV高尔夫网球,http://123.6.102.32:11789/357.php?id=2012512503.m3u8
 CCTV央视台球,http://123.6.102.32:11789/357.php?id=2012513703.m3u8
 CCTV电视指南,http://123.6.102.32:11789/357.php?id=2012514003.m3u8
+CCTV重温经典,http://125.210.150.58:9090/live/hzgq-cwjdgq-h264.m3u8
+CCTV重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 中国教育1,http://123.6.102.32:11789/357.php?id=2022823803.m3u8
 中国教育4,http://110.80.17.38:9901/tsfile/live/1000_1.m3u8
-CCTV重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 CCTV1综合,http://183.204.13.157/ysp.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576803.m3u8
 CCTV2财经,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
 CCTV6电影,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
