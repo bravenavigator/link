@@ -1926,8 +1926,8 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 纬来体育,https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
 纬来篮球,https://cloud.yumixiu768.com/tmp/123.m3u8
-ELE体育1,rtmp://f13h.mine.nu/sat/tv731
-ELE体育2,rtmp://f13h.mine.nu/sat/tv741
+ELEVEN1台,rtmp://f13h.mine.nu/sat/tv731
+ELEVEN2台,rtmp://f13h.mine.nu/sat/tv741
 番薯电视,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 番薯电视,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 番薯电视,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
