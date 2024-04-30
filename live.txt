@@ -1818,16 +1818,6 @@ BRTV新闻,https://epg.pw/stream/80307082824983f38685364e741bd9738d2632ac1c9c0b2
 重庆新闻,http://sjlivecdn9.cbg.cn/203000000000/app_2/_definst_/ls_3.stream/chunklist.m3u8
 重庆新闻,https://sjlivecdn9.cbg.cn/204912315959/app_2/_definst_/ls_3.stream/chunklist.m3u8
 重庆新闻,https://sjlivecdn9.cbg.cn/202906282314/app_2/_definst_/ls_3.stream/chunklist.m3u8
-重庆新闻,http://113.206.189.140:55555/udp/225.0.4.188:7980
-重庆社会,http://113.206.189.140:55555/udp/225.0.4.190:7980
-重庆少儿,http://113.206.189.140:55555/udp/225.0.4.191:7980
-重庆影视,http://113.206.189.140:55555/udp/225.0.4.192:7980
-重庆科教,http://113.206.189.140:55555/udp/225.0.4.193:7980
-重庆娱乐,http://113.206.189.140:55555/udp/225.0.4.194:7980
-重庆汽摩,http://113.206.189.140:55555/udp/225.0.4.195:7980
-重庆时尚,http://113.206.189.140:55555/udp/225.0.4.196:7980
-重庆农村,http://113.206.189.140:55555/udp/225.0.4.189:7980
-重庆移动,http://113.206.189.140:55555/udp/225.0.4.215:7980
 潼南综合,http://183.230.184.51:65500/tntv1.m3u8
 璧山综合,http://222.179.42.129:8181/hls1.m3u8
 大足综合,http://218.201.85.71:3170/m3u8
@@ -1837,9 +1827,8 @@ BRTV新闻,https://epg.pw/stream/80307082824983f38685364e741bd9738d2632ac1c9c0b2
 永川综合,https://qxlmlive9.cbg.cn/applive/yctv01/playlist.m3u8
 开州综合,https://qxlmlive9.cbg.cn/applive/kzpd01/chunklist.m3u8
 ✨　港澳,#genre#
-凤凰资讯,http://www.lebaobei.top:6868/udp/239.255.30.70:8231
-凤凰中文,http://www.lebaobei.top:6868/udp/239.255.30.50:8231
-凤凰香港,http://www.lebaobei.top:6868/udp/239.255.30.123:8231
+凤凰资讯,http://171.108.239.76:8181/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰资讯,http://115.239.99.237:7000/rtp/233.50.200.192:5140
 凤凰资讯,http://vl15191373.imwork.net:8880/udp/239.93.0.118:2191
 凤凰资讯,http://vl15191373.imwork.net:8880/udp/239.93.1.4:2191
 凤凰资讯,http://175.10.59.126:4022/udp/239.76.246.135:1234
@@ -1860,6 +1849,7 @@ BRTV新闻,https://epg.pw/stream/80307082824983f38685364e741bd9738d2632ac1c9c0b2
 凤凰资讯,http://146.56.153.245:20121/bysid/257
 凤凰资讯,http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰资讯,http://wouu.net:9977/rtp/239.93.0.118:2191?Cf=cfss.cc
+凤凰中文,http://115.239.99.237:7000/rtp/233.50.200.191:5140
 凤凰中文,http://vl15191373.imwork.net:8880/udp/239.93.0.162:2192
 凤凰中文,http://vl15191373.imwork.net:8880/udp/239.93.1.9:2192
 凤凰中文,http://175.10.59.126:4022/udp/239.76.246.134:1234
@@ -1875,6 +1865,7 @@ BRTV新闻,https://epg.pw/stream/80307082824983f38685364e741bd9738d2632ac1c9c0b2
 凤凰中文,http://kuanglong.vicp.hk:2121/udp/239.93.16.31:8012
 凤凰中文,http://146.56.153.245:20121/bysid/258
 凤凰中文,http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰香港,http://171.108.239.76:8181/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰香港,http://113.64.145.195:8081/hls/38/index.m3u8
 凤凰香港,http://www.pr666.site:4040/udp/239.255.30.123:8231
 凤凰香港,http://146.56.153.245:20121/bysid/259
@@ -2001,7 +1992,6 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 纬来体育,https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
 纬来篮球,https://cloud.yumixiu768.com/tmp/123.m3u8
-MOMO综合,rtmp://f13h.mine.nu/sat/tv761
 ELEVEN1台,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN2台,rtmp://f13h.mine.nu/sat/tv741
 番薯电视,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
