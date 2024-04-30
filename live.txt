@@ -574,6 +574,7 @@ CGTN英语,http://111.11.98.205:9900/hls/16/index.m3u8
 黑龙江卫视,http://124.128.73.58:9901/tsfile/live/0143_1.m3u8
 吉林卫视,http://124.128.73.58:9901/tsfile/live/0116_1.m3u8
 内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
+新疆卫视,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2019927403.m3u8
 新疆卫视,http://106.124.91.222:9901/tsfile/live/21212_1.m3u8
 兵团卫视,http://mobilelive-ds.ysp.cctv.cn/ysp/2022606701.m3u8
 兵团卫视,http://mobilelive-ds.ysp.cctv.cn/ysp/2022606701_fhd.m3u8
@@ -2772,6 +2773,7 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 新疆九套,http://106.124.91.222:9901/tsfile/live/21220_1.m3u8
 新疆十套,http://106.124.91.222:9901/tsfile/live/21221_1.m3u8
 新疆十一套,http://106.124.91.222:9901/tsfile/live/21222_1.m3u8
+新疆十二套,https://tvbox.netsite.cc/proxy/2128293013/2128293013.m3u8
 伊犁经济法制,http://110.153.180.106:55555/out_4/index.m3u8
 伊犁汉语,http://110.153.180.106:55555/out_1/index.m3u8
 伊犁维语,http://110.153.180.106:55555/out_2/index.m3u8
