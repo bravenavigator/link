@@ -730,6 +730,7 @@ CGTN英语,http://111.11.98.205:9900/hls/16/index.m3u8
 湖北卫视,http://120.224.178.16:9901/tsfile/live/1004_1.m3u8
 河北卫视,http://120.224.178.16:9901/tsfile/live/1005_1.m3u8
 辽宁卫视,http://120.224.178.16:9901/tsfile/live/1006_1.m3u8
+三沙卫视,http://117.9.130.7:50000/udp/225.1.1.182:5002
 湖南卫视,http://110.178.52.190:8083/udp/239.1.1.28:8028
 贵州卫视,http://110.7.128.17:8096/tsfile/live/0120_1.m3u8
 辽宁卫视,http://110.7.128.17:8096/tsfile/live/0121_1.m3u8
@@ -1581,6 +1582,7 @@ BRTV新闻,https://epg.pw/stream/80307082824983f38685364e741bd9738d2632ac1c9c0b2
 新视觉频道,http://php.jdshipin.com:8880/bst.php?id=xsjhd/4000000
 新视觉频道,http://php.jdshipin.com:8880/bst.php?id=xsjhd8m/8000000
 新视觉频道,https://cdn2.jdshipin.com/api/bst2.php?id=xsjhd8m/8000000
+金色学堂,http://117.9.130.7:50000/udp/225.1.1.236:5002
 乐游频道,http://124.128.73.58:9901/tsfile/live/1006_1.m3u8
 纪实人文,http://111.11.98.205:9900/hls/64/index.m3u8
 五星体育,http://61.173.95.181:4022/rtp/239.45.3.210:5140?Cf=cfss.cc
@@ -1616,6 +1618,7 @@ BRTV新闻,https://epg.pw/stream/80307082824983f38685364e741bd9738d2632ac1c9c0b2
 滨海新闻,http://traffic.jbh.tjbh.com/live/bhtv1/playlist.m3u8
 滨海综艺,http://traffic.jbh.tjbh.com/live/bhtv2/playlist.m3u8
 滨海影视,http://traffic.jbh.tjbh.com/live/bhtv3/playlist.m3u8
+蓟州综合,http://117.9.130.7:50000/udp/225.1.1.93:5002
 西青新闻综合,http://221.238.209.44:81/hls/live1.m3u8
 宝坻一套,https://hb2stream1.baoxinwen.com/d6387fc7a8836e78/6385068498053235715_1597997122.m3u8?auth_key=1893456000-0-0-93ea48b07ddd03f4904079b7659e81a4
 📺　重庆,#genre#
