@@ -1,6 +1,6 @@
 📡　央视,#genre#
-CCTV1综合,http://183.204.13.157/ysp.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576803.m3u8
 CCTV13新闻,http://223.151.49.74:59901/tsfile/live/0013_1.m3u8?key=txiptv
+CCTV1综合,http://183.204.13.157/ysp.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576803.m3u8
 CCTV1综合,http://223.151.49.74:59901/tsfile/live/0001_1.m3u8?key=txiptv
 CCTV2财经,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
 CCTV2财经,http://223.151.49.74:59901/tsfile/live/0002_1.m3u8?key=txiptv
