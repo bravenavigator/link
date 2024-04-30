@@ -1860,7 +1860,6 @@ CQTV移动,http://113.206.189.140:55555/udp/225.0.4.215:7980
 有线新闻,http://119.23.61.191:8088/HK/hoy78/hls.m3u8
 有线综合,http://119.23.61.191:8088/HK/hoy77/hls.m3u8
 TVB翡翠,http://60.30.198.43:5080/HK/tvb/hls.m3u8
-TVB翡翠,http://119.125.129.134:9901/tsfile/live/1007_1.m3u8?key=txiptv
 TVB翡翠,http://183.237.246.14:9931/tsfile/live/1007_1.m3u8
 TVB翡翠,http://1b6467f415.iok.la:9931/tsfile/live/1007_1.m3u8
 TVB新闻,http://nz189l149.bb27109.ctm.net:8892/bysid/83
@@ -1899,6 +1898,7 @@ TVB明珠,http://xjayrf.eatuo.com:9901/tsfile/live/1005_1.m3u8
 TVB明珠,http://183.237.246.14:9931/tsfile/live/1009_1.m3u8
 TVB明珠,http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8
 TVB明珠,http://1.65.195.85:9981/stream/channelid/1803382046?profile=pass
+Now新闻,http://58.87.99.251:8090/HK/nowxingying/hls.m3u8
 Now新闻,http://60.30.198.43:5080/HK/nowxw/hls.m3u8
 Now星影,http://60.30.198.43:5080/HK/xy/hls.m3u8
 Now爆谷,http://60.30.198.43:5080/HK/bg/hls.m3u8
@@ -1942,6 +1942,7 @@ Now体育,http://60.30.198.43:5080/HK/nowty/hls.m3u8
 东森新闻,http://livetv.skycf.eu.org/live.m3u8?c=9
 东森财经,http://livetv.skycf.eu.org/live.m3u8?c=14
 东森财经,https://ctrl.laotv.la/live/DongsenMovie/index.m3u8
+东森超视,rtmp://f13h.mine.nu/sat/tv051
 东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 东森电影,http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8
 三立新闻,http://livetv.skycf.eu.org/live.m3u8?c=12
@@ -1952,8 +1953,8 @@ Now体育,http://60.30.198.43:5080/HK/nowty/hls.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 民视频道,rtmp://f13h.mine.nu/sat/tv051
 台视新闻,http://livetv.skycf.eu.org/live.m3u8?c=4
-台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 台视新闻,http://154.yfvodcdn.com:8080/live/tyxltsxw3/hls.m3u8
+台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 台视频道,rtmp://f13h.mine.nu/sat/tv071
@@ -1977,6 +1978,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 纬来体育,https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
 纬来篮球,https://cloud.yumixiu768.com/tmp/123.m3u8
+MOMO综合,rtmp://f13h.mine.nu/sat/tv761
 ELEVEN1台,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN2台,rtmp://f13h.mine.nu/sat/tv741
 番薯电视,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
