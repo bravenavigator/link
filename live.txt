@@ -565,6 +565,7 @@ CGTN英语,http://111.11.98.205:9900/hls/16/index.m3u8
 云南卫视,http://124.128.73.58:9901/tsfile/live/0119_1.m3u8
 广西卫视,http://124.128.73.58:9901/tsfile/live/0113_1.m3u8
 贵州卫视,http://124.128.73.58:9901/tsfile/live/0120_1.m3u8
+海南卫视,https://live3.hnntv.cn/srs/tv/lywsgq.m3u8
 辽宁卫视,http://124.128.73.58:9901/tsfile/live/0121_1.m3u8
 黑龙江卫视,http://124.128.73.58:9901/tsfile/live/0143_1.m3u8
 吉林卫视,http://124.128.73.58:9901/tsfile/live/0116_1.m3u8
@@ -1193,6 +1194,7 @@ CGTN英语,http://111.11.98.205:9900/hls/16/index.m3u8
 四川卫视,http://121.27.126.103:809/hls/31/index.m3u8
 山西卫视,http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
 兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
+三沙卫视,https://live3.hnntv.cn/srs/tv/ssws.m3u8
 甘肃卫视,http://gzly.hkychina.com:6001/udp/239.252.219.140:5140
 甘肃卫视,http://vl15191373.imwork.net:8880/udp/239.93.0.81:5140
 四川卫视,http://zhangjiang.lawangxian.com:9901/tsfile/live/0107_8.m3u8
@@ -2214,8 +2216,6 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 荆门公共,http://stream.jmtv.com.cn/ngpd/sd/live.m3u8
 荆门科技文旅,http://stream.jmtv.com.cn/ggsh/sd/live.m3u8
 📺　海南,#genre#
-海南卫视,https://live3.hnntv.cn/srs/tv/lywsgq.m3u8
-三沙卫视,https://live3.hnntv.cn/srs/tv/ssws.m3u8
 海南自贸,https://live3.hnntv.cn/srs/tv/jjpd.m3u8
 海南新闻,https://live3.hnntv.cn/srs/tv/xwpd.m3u8
 海南公共,https://live3.hnntv.cn/srs/tv/ggpd.m3u8
