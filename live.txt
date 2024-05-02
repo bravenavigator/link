@@ -568,7 +568,6 @@ CCTV3综艺,http://fxgm.fxjf.work:19901/tsfile/live/0003_1.m3u8
 早期教育,http://gmxw.7766.org:808/hls/100/index.m3u8
 CCTV15音乐,http://gmxw.7766.org:808/hls/102/index.m3u8
 CCTV世界地理,http://gmxw.7766.org:808/hls/11/index.m3u8
-中国教育1,http://gmxw.7766.org:808/hls/122/index.m3u8
 CCTV电视指南,http://gmxw.7766.org:808/hls/13/index.m3u8
 CCTV风云足球,http://gmxw.7766.org:808/hls/133/index.m3u8
 CCTV16奥林匹克,http://gmxw.7766.org:808/hls/169/index.m3u8
@@ -578,6 +577,7 @@ CCTV女性时尚,http://gmxw.7766.org:808/hls/12/index.m3u8
 CCTV17农业农村,http://gmxw.7766.org:808/hls/35/index.m3u8
 CCTV4中文国际,http://gmxw.7766.org:808/hls/67/index.m3u8
 CCTV央视台球,http://gmxw.7766.org:808/hls/73/index.m3u8
+中国教育1,http://gmxw.7766.org:808/hls/122/index.m3u8
 中国教育1,http://gmxw.7766.org:808/hls/79/index.m3u8
 CCTV3综艺,http://gmxw.7766.org:808/hls/92/index.m3u8
 CCTV5体育,http://gmxw.7766.org:808/hls/93/index.m3u8
