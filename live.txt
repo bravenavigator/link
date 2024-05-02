@@ -180,7 +180,6 @@ CCTV15音乐,http://110.72.83.244:8181/tsfile/live/0015_1.m3u8?key=txiptv&playli
 CCTV15音乐,http://111.225.114.68:808/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15音乐,http://121.19.134.140:808/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15音乐,http://111.225.115.1:808/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV16奥林匹克,http://111.225.114.68:808/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV16奥林匹克,http://110.72.83.244:8181/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV16奥林匹克,http://121.19.134.140:808/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV16奥林匹克,http://110.72.86.193:8181/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -675,6 +674,7 @@ CGTN英语,http://223.151.49.74:59901/tsfile/live/0016_1.m3u8?key=txiptv
 CGTN英语,http://111.11.98.205:9900/hls/16/index.m3u8
 CGTN英语,http://171.108.239.109:8181/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 CGTN英语,http://171.108.239.28:8181/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+CGTN英语,http://111.225.114.68:808/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 CGTN纪录,http://171.108.239.109:8181/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 CGTN纪录,http://171.108.239.28:8181/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 📡　卫视,#genre#
