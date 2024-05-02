@@ -1,8 +1,6 @@
 📡　央视,#genre#
 CCTV13新闻,http://127.0.0.1
 CCTV1综合,http://127.0.0.1
-CCTV1综合,http://127.0.0.1
-CCTV2财经,http://127.0.0.1
 CCTV2财经,http://127.0.0.1
 CCTV3综艺,http://127.0.0.1
 CCTV4中文国际,http://127.0.0.1
@@ -10,7 +8,6 @@ CCTV4中文国际美洲,http://127.0.0.1
 CCTV4中文国际欧洲,http://127.0.0.1
 CCTV5体育,http://127.0.0.1
 CCTV5+体育赛事,http://127.0.0.1
-CCTV6电影,http://127.0.0.1
 CCTV6电影,http://127.0.0.1
 CCTV7国防军事,http://127.0.0.1
 CCTV8电视剧,http://127.0.0.1
@@ -22,28 +19,12 @@ CCTV14少儿,http://127.0.0.1
 CCTV15音乐,http://127.0.0.1
 CCTV16奥林匹克,http://127.0.0.1
 CCTV17农业农村,http://127.0.0.1
-CCTV1综合,http://127.0.0.1
-CCTV2财经,http://127.0.0.1
-CCTV3综艺,http://127.0.0.1
-CCTV4中文国际,http://127.0.0.1
-CCTV5体育,http://127.0.0.1
-CCTV5+体育赛事,http://127.0.0.1
-CCTV6电影,http://127.0.0.1
-CCTV7国防军事,http://127.0.0.1
-CCTV8电视剧,http://127.0.0.1
-CCTV9纪录,http://127.0.0.1
-CCTV10科教,http://127.0.0.1
-CCTV11戏曲,http://127.0.0.1
-CCTV12社会与法,http://127.0.0.1
-CCTV13新闻,http://127.0.0.1
-CCTV14少儿,http://127.0.0.1
-CCTV15音乐,http://127.0.0.1
-CCTV重温经典,http://127.0.0.1
+CCTV4K高清,http://127.0.0.1
 CCTV重温经典,http://127.0.0.1
 CCTV兵器科技,http://127.0.0.1
 CCTV世界地理,http://127.0.0.1
 CCTV央视文化精品,http://127.0.0.1
-CCTV女性时尚,,http://127.0.0.1
+CCTV女性时尚,http://127.0.0.1
 CCTV第一剧场,http://127.0.0.1
 CCTV怀旧剧场,http://127.0.0.1
 CCTV风云音乐,http://127.0.0.1
