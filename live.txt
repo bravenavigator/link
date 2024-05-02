@@ -1298,6 +1298,8 @@ CGTN英语,http://111.11.98.205:9900/hls/16/index.m3u8
 潮州民生,http://113.71.148.79:5555/udp/239.253.43.75:5146
 揭阳综合,http://113.71.148.79:5555/udp/239.77.0.229:5146
 揭阳生活,http://113.71.148.79:5555/udp/239.77.0.251:5146
+梅州一套,http://pili-live-hls.xianchangliving.gdmztv.com/meizhou-xianchangliving/mztv1.m3u8
+梅州二套,http://pili-live-hls.xianchangliving.gdmztv.com/meizhou-xianchangliving/mztv2.m3u8
 广东体育,http://171.108.239.91:8181/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://171.108.239.90:8181/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://171.108.239.76:8181/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1573,8 +1575,6 @@ CGTN英语,http://111.11.98.205:9900/hls/16/index.m3u8
 佛山影视,http://222.217.243.135:8181/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 潮州综合,http://time-vod-qhlive.sobeylive.com/czBRTV2019/czzhpd.m3u8
 潮州民生,http://time-vod-qhlive.sobeylive.com/czBRTV2019/czggpd.m3u8
-梅州一套,http://pili-live-hls.xianchangliving.gdmztv.com/meizhou-xianchangliving/mztv1.m3u8
-梅州二套,http://pili-live-hls.xianchangliving.gdmztv.com/meizhou-xianchangliving/mztv2.m3u8
 清远新闻综合,https://huodong.zuiqingyuan.com/dianshi/newxinwenpingdao.m3u8?token=B86ouFGGfrmwNY9CDr8t
 清远文旅生活,https://huodong.zuiqingyuan.com/dianshi/newwenlvshenghuo.m3u8?token=B86ouFGGfrmwNY9CDr8t932
 📺　北京,#genre#
@@ -2471,14 +2471,14 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 南宁新闻综合,http://171.108.239.90:8181/tsfile/live/1115_1.m3u8?key=txiptv&playlive=1&authid=0
 南宁新闻综合,http://171.108.239.91:8181/tsfile/live/1115_1.m3u8?key=txiptv&playlive=1&authid=0
 南宁新闻综合,http://171.108.239.52:8181/tsfile/live/1115_1.m3u8?key=txiptv&playlive=1&authid=0
-南宁影视娱乐,http://171.108.239.76:8181/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-南宁影视娱乐,http://171.108.239.90:8181/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-南宁影视娱乐,http://171.108.239.52:8181/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-南宁影视娱乐,http://171.108.239.91:8181/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 南宁公共,http://171.108.239.91:8181/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 南宁公共,http://171.108.239.90:8181/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 南宁公共,http://171.108.239.52:8181/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 南宁公共,http://171.108.239.76:8181/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+南宁影视娱乐,http://171.108.239.76:8181/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+南宁影视娱乐,http://171.108.239.90:8181/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+南宁影视娱乐,http://171.108.239.52:8181/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+南宁影视娱乐,http://171.108.239.91:8181/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 南宁新闻综合,http://222.218.158.95:8181/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 南宁公共,http://222.218.158.95:8181/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 南宁影视娱乐,http://222.218.158.95:8181/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
