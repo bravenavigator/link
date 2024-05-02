@@ -1804,7 +1804,6 @@ BRTV新闻,https://epg.pw/stream/80307082824983f38685364e741bd9738d2632ac1c9c0b2
 凤凰中文,http://kuanglong.vicp.hk:2121/udp/239.93.16.31:8012
 凤凰中文,http://146.56.153.245:20121/bysid/258
 凤凰中文,http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
-凤凰香港,http://171.108.239.76:8181/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰香港,http://113.64.145.195:8081/hls/38/index.m3u8
 凤凰香港,http://www.pr666.site:4040/udp/239.255.30.123:8231
 凤凰香港,http://146.56.153.245:20121/bysid/259
