@@ -1969,6 +1969,9 @@ BRTV新闻,https://epg.pw/stream/80307082824983f38685364e741bd9738d2632ac1c9c0b2
 永川综合,https://qxlmlive9.cbg.cn/applive/yctv01/playlist.m3u8
 开州综合,https://qxlmlive9.cbg.cn/applive/kzpd01/chunklist.m3u8
 ✨　港澳,#genre#
+凤凰资讯,http://113.64.145.93:8081/hls/36/index.m3u8
+凤凰卫视,http://113.64.145.93:8081/hls/37/index.m3u8
+凤凰香港,http://113.64.145.93:8081/hls/38/index.m3u8
 凤凰资讯,http://110.72.83.244:8181/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰资讯,http://110.72.86.193:8181/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰资讯,http://110.72.86.202:8181/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0
