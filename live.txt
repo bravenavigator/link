@@ -80,7 +80,6 @@ CCTV怀旧剧场,http://118.254.203.236:8888/udp/239.76.247.53:1234
 CCTV怀旧剧场,http://118.254.203.236:8888/udp/239.76.254.53:9000
 CCTV高尔夫网球,http://118.254.203.236:8888/udp/239.76.254.62:9000
 CCTV高尔夫网球,http://118.254.203.236:8888/udp/239.76.247.62:1234
-
 CCTV2财经,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
 CCTV6电影,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 CCTV3综艺,http://110.72.86.202:8181/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
