@@ -38,6 +38,49 @@ CCTV电视指南,http://127.0.0.1
 中国教育4,http://127.0.0.1
 中国交通,http://127.0.0.1
 中国天气,http://127.0.0.1
+CCTV高尔夫网球,http://183.204.13.131/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012512503.m3u8
+CCTV央视台球,http://183.204.13.146/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513703.m3u8
+CCTV风云音乐,http://222.223.118.222:2180/live/fyyy/index.m3u8
+CCTV风云剧场,http://222.223.118.222:2180/live/fyjc/index.m3u8
+CCTV文化精品,http://222.223.118.222:2180/live/whjp/index.m3u8
+CCTV世界地理,http://222.223.118.222:2180/live/sjdl/index.m3u8
+CCTV兵器科技,http://222.223.118.222:2180/live/gfjs/index.m3u8
+CCTV第一剧场,http://222.223.118.222:2180/live/dyjc/index.m3u8
+CCTV怀旧剧场,http://222.223.118.222:2180/live/hjjc/index.m3u8
+CCTV风云音乐,http://221.198.168.25:8888/udp/225.1.2.176:5002
+CCTV风云足球,http://221.198.168.25:8888/udp/225.1.2.168:5002
+CCTV风云剧场,http://221.198.168.25:8888/udp/225.1.2.174:5002
+CCTV电视指南,http://221.198.168.25:8888/udp/225.1.2.167:5002
+CCTV央视台球,http://221.198.168.25:8888/udp/225.1.2.170:5002
+CCTV第一剧场,http://221.198.168.25:8888/udp/225.1.2.175:5002
+CCTV怀旧剧场,http://221.198.168.25:8888/udp/225.1.2.173:5002
+CCTV高尔夫网球,http://221.198.168.25:8888/udp/225.1.2.169:5002
+CCTV风云音乐,http://106.116.3.171:8890/udp/239.254.201.221:7259
+CCTV风云足球,http://106.116.3.171:8890/udp/239.254.201.222:7251
+CCTV风云剧场,http://106.116.3.171:8890/udp/239.254.201.219:7257
+CCTV电视指南,http://106.116.3.171:8890/udp/239.254.201.217:7250
+CCTV央视台球,http://106.116.3.171:8890/udp/239.254.201.171:7176
+CCTV第一剧场,http://106.116.3.171:8890/udp/239.254.201.218:7258
+CCTV怀旧剧场,http://106.116.3.171:8890/udp/239.254.201.220:7256
+CCTV高尔夫网球,http://106.116.3.171:8890/udp/239.254.201.223:7252
+CCTV风云音乐,http://118.254.203.236:8888/udp/239.76.247.51:1234
+CCTV风云音乐,http://118.254.203.236:8888/udp/239.76.254.51:9000
+CCTV风云剧场,http://118.254.203.236:8888/udp/239.76.254.50:9000
+CCTV文化精品,http://118.254.203.236:8888/udp/239.76.254.56:9000
+CCTV文化精品,http://118.254.203.236:8888/udp/239.76.247.56:1234
+CCTV世界地理,http://118.254.203.236:8888/udp/239.76.247.57:1234
+CCTV世界地理,http://118.254.203.236:8888/udp/239.76.254.57:9000
+CCTV兵器科技,http://118.254.203.236:8888/udp/239.76.247.59:1234
+CCTV兵器科技,http://118.254.203.236:8888/udp/239.76.254.59:9000
+CCTV电视指南,http://118.254.203.236:8888/udp/239.76.254.61:9000
+CCTV电视指南,http://118.254.203.236:8888/udp/239.76.247.61:1234
+CCTV央视台球,http://118.254.203.236:8888/udp/239.76.247.58:1234
+CCTV央视台球,http://118.254.203.236:8888/udp/239.76.254.58:9000
+CCTV怀旧剧场,http://118.254.203.236:8888/udp/239.76.247.53:1234
+CCTV怀旧剧场,http://118.254.203.236:8888/udp/239.76.254.53:9000
+CCTV高尔夫网球,http://118.254.203.236:8888/udp/239.76.254.62:9000
+CCTV高尔夫网球,http://118.254.203.236:8888/udp/239.76.247.62:1234
+
 CCTV2财经,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
 CCTV6电影,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 CCTV3综艺,http://110.72.86.202:8181/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1325,31 +1368,31 @@ CGTN俄语,http://127.0.0.1
 CGTN西语,http://127.0.0.1
 CGTN阿语,http://127.0.0.1
 CGTN纪录,http://127.0.0.1
-CGTN英语	http://111.225.114.68:808/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-CGTN英语	http://171.108.239.109:8181/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-CGTN纪录	http://171.108.239.109:8181/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
-CGTN英语	http://171.108.239.28:8181/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-CGTN纪录	http://171.108.239.28:8181/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
-CGTN法语	https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
-CGTN阿语	https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
-CGTN英语	http://111.196.131.234:8012/rtp/239.3.1.215:4220
-CGTN法语	http://111.196.131.234:8012/rtp/239.3.1.218:4220
-CGTN俄语	http://111.196.131.234:8012/rtp/239.3.1.220:4220
-CGTN西语	http://111.196.131.234:8012/rtp/239.3.1.217:4220
-CGTN阿语	http://111.196.131.234:8012/rtp/239.3.1.219:4220
-CGTN纪录	http://111.196.131.234:8012/rtp/239.3.1.216:4220
-CGTN西语	http://hy.baojihzjc.com:9001/rtp/239.111.205.33:5140
-CGTN法语	http://hy.baojihzjc.com:9001/rtp/239.111.205.34:5140
-CGTN英语	http://gmxw.7766.org:808/hls/77/index.m3u8
-CGTN西语	http://gmxw.7766.org:808/hls/81/index.m3u8
-CGTN法语	http://gmxw.7766.org:808/hls/82/index.m3u8
-CGTN阿语	http://gmxw.7766.org:808/hls/84/index.m3u8
-CGTN俄语	http://gmxw.7766.org:808/hls/85/index.m3u8
-CGTN俄语	http://183.11.239.36:808/hls/85/index.m3u8
-CGTN阿语	http://183.11.239.36:808/hls/84/index.m3u8
-CGTN法语	http://183.11.239.36:808/hls/82/index.m3u8
-CGTN西语	http://183.11.239.36:808/hls/81/index.m3u8
-CGTN纪录	http://183.11.239.36:808/hls/77/index.m3u8
+CGTN英语,http://111.225.114.68:808/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+CGTN英语,http://171.108.239.109:8181/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+CGTN纪录,http://171.108.239.109:8181/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
+CGTN英语,http://171.108.239.28:8181/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+CGTN纪录,http://171.108.239.28:8181/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
+CGTN法语,https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
+CGTN阿语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
+CGTN英语,http://111.196.131.234:8012/rtp/239.3.1.215:4220
+CGTN法语,http://111.196.131.234:8012/rtp/239.3.1.218:4220
+CGTN俄语,http://111.196.131.234:8012/rtp/239.3.1.220:4220
+CGTN西语,http://111.196.131.234:8012/rtp/239.3.1.217:4220
+CGTN阿语,http://111.196.131.234:8012/rtp/239.3.1.219:4220
+CGTN纪录,http://111.196.131.234:8012/rtp/239.3.1.216:4220
+CGTN西语,http://hy.baojihzjc.com:9001/rtp/239.111.205.33:5140
+CGTN法语,http://hy.baojihzjc.com:9001/rtp/239.111.205.34:5140
+CGTN英语,http://gmxw.7766.org:808/hls/77/index.m3u8
+CGTN西语,http://gmxw.7766.org:808/hls/81/index.m3u8
+CGTN法语,http://gmxw.7766.org:808/hls/82/index.m3u8
+CGTN阿语,http://gmxw.7766.org:808/hls/84/index.m3u8
+CGTN俄语,http://gmxw.7766.org:808/hls/85/index.m3u8
+CGTN俄语,http://183.11.239.36:808/hls/85/index.m3u8
+CGTN阿语,http://183.11.239.36:808/hls/84/index.m3u8
+CGTN法语,http://183.11.239.36:808/hls/82/index.m3u8
+CGTN西语,http://183.11.239.36:808/hls/81/index.m3u8
+CGTN纪录,http://183.11.239.36:808/hls/77/index.m3u8
 Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
 📺　广东,#genre#
 广东健康,http://glive.grtn.cn/live/health.m3u8
