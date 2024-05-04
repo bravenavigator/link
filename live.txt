@@ -82,6 +82,9 @@ CCTV高尔夫网球,http://118.254.203.236:8888/udp/239.76.254.62:9000
 CCTV高尔夫网球,http://118.254.203.236:8888/udp/239.76.247.62:1234
 CCTV第一剧场,http://183.92.4.163:4000/udp/228.0.0.235:6108
 CCTV风云足球,http://183.92.4.163:4000/udp/228.0.0.236:6108
+CCTV1综合,http://tvpull.dxhmt.cn/tv/11081-2.m3u8
+CCTV2财经,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
+CCTV6电影,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 CCTV1综合,http://183.204.13.157/ysp.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576803.m3u8
 CCTV2财经,http://183.204.13.157/ysp.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576703.m3u8
 CCTV3综艺,http://183.204.13.157/ysp.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576503.m3u8
@@ -99,8 +102,6 @@ CCTV14少儿,http://183.204.13.157/ysp.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/
 CCTV15音乐,http://183.204.13.157/ysp.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575503.m3u8
 CCTV16奥林匹克,http://183.204.13.157/ysp.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575403.m3u8
 CCTV17农业农村,http://183.204.13.157/ysp.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575303.m3u8
-CCTV2财经,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
-CCTV6电影,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 CCTV5+体育赛事,http://110.72.83.244:8181/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV6电影,http://110.72.83.244:8181/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV7国防军事,http://110.72.83.244:8181/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1989,7 +1990,6 @@ BRTV新闻,https://epg.pw/stream/80307082824983f38685364e741bd9738d2632ac1c9c0b2
 嘉定综合,https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8
 崇明综合,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
 📺　天津,#genre#
-天津卫视,http://acc.tohsaka.cn:9999/rtp/225.1.1.111:5002
 天津新闻,http://acc.tohsaka.cn:9999/rtp/225.1.1.130:5002
 天津都市,http://acc.tohsaka.cn:9999/rtp/225.1.1.128:5002
 天津文艺,http://acc.tohsaka.cn:9999/rtp/225.1.1.131:5002
