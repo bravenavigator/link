@@ -2759,14 +2759,9 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 河池罗城综合,http://111.12.75.177:9100/lctvlive/lch.m3u8?zguangxd
 崇左天等综合,https://live.gxrb.com.cn/gx/tiandeng/index.m3u8
 📺　山东,#genre#
-山东新闻,http://112.235.202.94:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-山东生活,http://112.235.202.94:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-山东综艺,http://112.235.202.94:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-山东少儿,http://112.235.202.94:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-山东体育,http://112.235.202.94:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+山东齐鲁,http://111.15.174.107:8969/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 山东文旅,http://111.15.174.107:8969/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 山东综艺,http://111.15.174.107:8969/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-山东齐鲁,http://111.15.174.107:8969/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 山东体育,http://111.15.174.107:8969/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 山东齐鲁,http://111.14.181.15:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 山东公共,http://111.14.181.15:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
