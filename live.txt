@@ -2632,7 +2632,7 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 益阳沅江综合,https://liveplay-srs.voc.com.cn/hls/tv/163_2c7011.m3u8
 益阳南县综合,http://hnstnx.chinashadt.com:2037/live/10001.stream/playlist.m3u8
 益阳永州蓝山综合,https://liveplay-srs.voc.com.cn/hls/tv/26_370917.m3u8
-新田综合,http://play-a2.quklive.com/live/1668150678653241.m3u8
+永州新田综合,http://play-a2.quklive.com/live/1668150678653241.m3u8
 岳阳汨罗综合,https://liveplay-srs.voc.com.cn/hls/tv/166_a4ad1b.m3u8
 张家界桑植综合,https://liveplay-srs.voc.com.cn/hls/tv/185_938292.m3u8
 株洲攸县综合,https://liveplay-srs.voc.com.cn/hls/tv/158_423c80.m3u8
