@@ -3243,7 +3243,7 @@ CHC动作电影,http://110.52.99.109:9901/tsfile/live/1034_1.m3u8
 CHC家庭影院,http://110.52.99.109:9901/tsfile/live/1035_1.m3u8
 CHC动作电影,http://110.52.99.109:9901/tsfile/live/1036_1.m3u8
 CHC家庭影院,http://hy.baojihzjc.com:9001/rtp/239.112.205.205:5140
-CHC高清电影,http://hy.baojihzjc.com:9001/rtp/239.112.205.206:5140
+CHC影迷电影,http://hy.baojihzjc.com:9001/rtp/239.112.205.206:5140
 🎬　电影,#genre#
 1905电影(亚洲),http://xxw.me0.cn/1905dy.php?id=1905a
 1905电影(国际),http://xxw.me0.cn/1905dy.php?id=1905b
