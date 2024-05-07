@@ -1436,6 +1436,7 @@ Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482
 广东综艺 http://113.71.148.79:5555/udp/239.77.1.237:5146
 广东综艺,http://113.71.148.79:5555/udp/239.77.0.244:5146
 广东综艺http://113.71.148.79:5555/udp/239.77.0.245:5146
+广东体育,http://116.21.122.2:4433/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://113.71.148.79:5555/udp/239.77.0.112:5146
 广东体育,http://113.71.148.79:5555/udp/239.77.0.168:5146
 广东少儿,http://113.71.148.79:5555/udp/239.77.0.250:5146
@@ -2643,6 +2644,7 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 湖北公共,http://183.92.4.163:4000/udp/228.0.0.124:6108
 湖北影视,http://183.92.4.163:4000/udp/228.0.0.205:6108
 湖北教育,http://183.92.4.163:4000/udp/228.0.0.206:6108
+湖北经视,http://221.234.25.122:9999/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北综合,http://59.173.243.210:9901/tsfile/live/1020_1.m3u8
 湖北公共新闻,http://59.173.243.210:9901/tsfile/live/1034_1.m3u8
 湖北经视,http://59.173.243.210:9901/tsfile/live/1019_1.m3u8
@@ -3310,6 +3312,12 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 辽宁体育,http://fxgm.fxjf.work:19901/tsfile/live/1003_1.m3u8
 辽宁教育,http://fxgm.fxjf.work:19901/tsfile/live/1005_1.m3u8
 辽宁移动,http://fxgm.fxjf.work:19901/tsfile/live/1009_1.m3u8
+辽宁体育,http://42.5.185.253:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁公共,http://42.5.185.253:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁影视剧,http://42.5.185.253:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁生活,http://42.5.185.253:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁经济,http://42.5.185.253:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁都市,http://42.5.185.253:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁都市,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000610
 辽宁北方,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000071
 辽宁生活,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000073
