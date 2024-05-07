@@ -1809,6 +1809,7 @@ Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482
 潮州民生,http://time-vod-qhlive.sobeylive.com/czBRTV2019/czggpd.m3u8
 清远新闻综合,https://huodong.zuiqingyuan.com/dianshi/newxinwenpingdao.m3u8?token=B86ouFGGfrmwNY9CDr8t
 清远文旅生活,https://huodong.zuiqingyuan.com/dianshi/newwenlvshenghuo.m3u8?token=B86ouFGGfrmwNY9CDr8t932
+清远文旅生活,https://zqy-live.nanyuecloud.com/qingyuandianshi/qingyuandianshistream.m3u8?auth_key=601634549257-0-0-73ab89e29b6bf8ef7b5144cf0c04935a
 📺　北京,#genre#
 BRTV新闻,http://111.196.131.234:8012/rtp/239.3.1.159:8000
 BRTV财经,http://111.196.131.234:8012/rtp/239.3.1.116:8000
