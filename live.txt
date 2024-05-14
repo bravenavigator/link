@@ -156,11 +156,6 @@ CCTV15音乐,http://110.72.83.244:8181/tsfile/live/0015_1.m3u8?key=txiptv&playli
 CCTV16奥林匹克,http://110.72.83.244:8181/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV17农业农村,http://110.72.83.244:8181/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 中国教育1,http://110.72.83.244:8181/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV1综合,http://171.108.239.109:8181/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV3综艺,http://171.108.239.109:8181/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4中文国际,http://171.108.239.109:8181/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5+体育赛事,http://171.108.239.109:8181/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV9纪录,http://171.108.239.109:8181/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1综合,http://223.151.49.74:59901/tsfile/live/0001_1.m3u8?key=txiptv
 CCTV2财经,http://223.151.49.74:59901/tsfile/live/0002_1.m3u8?key=txiptv
 CCTV3综艺,http://223.151.49.74:59901/tsfile/live/0003_1.m3u8?key=txiptv
@@ -1446,8 +1441,6 @@ CGTN西语,http://127.0.0.1
 CGTN阿语,http://127.0.0.1
 CGTN纪录,http://127.0.0.1
 CGTN英语,http://221.234.25.122:9999/tsfile/live/0128_2.m3u8?key=txiptv&playlive=1&authid=0
-CGTN英语,http://171.108.239.109:8181/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-CGTN纪录,http://171.108.239.109:8181/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 CGTN英语,http://171.108.239.28:8181/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 CGTN纪录,http://171.108.239.28:8181/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 CGTN法语,https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
@@ -2932,9 +2925,7 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 广西都市,http://110.72.83.244:8181/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 广西综艺,http://171.108.239.76:8181/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 广西综艺,http://110.72.83.244:8181/tsfile/live/1081_1.m3u8?key=txiptv&playlive=1&authid=0
-广西综艺,http://171.108.239.109:8181/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 广西影视,http://171.108.239.76:8181/tsfile/live/1097_1.m3u8?key=txiptv&playlive=1&authid=0
-广西影视,http://171.108.239.109:8181/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
 广西影视,http://171.108.239.28:8181/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
 广西影视,http://110.72.83.244:8181/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
 广西都市,http://110.72.83.244:8181/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -3521,9 +3512,6 @@ CHC动作电影,http://58.19.13.92:9901/tsfile/live/1037_1.m3u8?key=txiptv&playl
 CHC电影,http://58.19.13.92:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC动作电影,http://222.218.158.95:8181/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC家庭影院,http://222.218.158.95:8181/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC动作电影,http://171.108.239.109:8181/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC家庭影院,http://171.108.239.109:8181/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC影迷电影,http://171.108.239.109:8181/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC动作电影,http://171.108.239.52:8181/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC家庭影院,http://171.108.239.52:8181/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC家庭影院,http://171.108.239.76:8181/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
