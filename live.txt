@@ -2157,10 +2157,13 @@ Now爆谷,http://60.30.198.43:5080/HK/bg/hls.m3u8
 Now英超,http://60.30.198.43:5080/HK/nowty2/hls.m3u8
 Now英超,http://220.246.126.166:9981/stream/channel/dc8db4742fcbe0da67fa417159b6fadd
 Now体育,http://60.30.198.43:5080/HK/nowty/hls.m3u8
+港台电视32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
 港台电视32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
 港台电视33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
 港台电视34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8
 港台电视35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
+C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/01.m3u8
+C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 澳门卫视,http://tdm.jdshipin.com/ch3/ch3.live/playlist.m3u8
 澳门卫视,https://live4.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
 澳门资讯,http://nz189l149.bb27109.ctm.net:8891/bysid/94
