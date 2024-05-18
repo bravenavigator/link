@@ -3201,6 +3201,7 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 石家庄新闻,http://123.182.209.50:8088/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 石家庄都市,http://123.182.209.50:8088/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 石家庄娱乐,http://123.182.209.50:8088/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+石家庄生活,http://123.182.209.50:8088/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 石家庄新闻,http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8
 石家庄娱乐,http://pluslive1.sjzntv.cn/yule/playlist.m3u8
 石家庄生活,http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8
