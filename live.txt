@@ -3502,13 +3502,13 @@ CHC动作电影,http://127.0.0.1
 CHC家庭影院,http://127.0.0.1
 CHC影迷电影,http://61.184.128.243:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC动作电影,http://61.184.128.243:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC家庭电影,http://61.184.128.243:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC家庭影院,http://61.184.128.243:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC动作电影,http://58.19.38.162:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC影迷电影,http://58.19.38.162:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC家庭影院,http://58.19.13.92:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC动作电影,http://58.19.13.92:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC电影,http://58.19.13.92:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC影迷电影,http://58.19.13.92:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC动作电影,http://222.218.158.95:8181/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC家庭影院,http://222.218.158.95:8181/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC动作电影,http://171.108.239.52:8181/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
