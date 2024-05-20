@@ -1366,7 +1366,6 @@ CCTV17农业农村,http://php.jdshipin.com:8880/bst.php?id=cctv17hd8m/8000000
 海峡卫视,http://27.154.214.56:8888/rtp/239.61.2.151:8894
 湖南卫视,http://110.178.52.190:8083/udp/239.1.1.28:8028
 辽宁卫视,http://61.141.202.118:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-内蒙古卫视,https://livestreambt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
 宁夏卫视,https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8
 三沙卫视,http://117.9.130.7:50000/udp/225.1.1.182:5002
 三沙卫视,https://live3.hnntv.cn/srs/tv/ssws.m3u8
@@ -3397,18 +3396,10 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 吉林乡村,http://hls.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/1.m3u8
 吉林影视,http://hls.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/1.m3u8
 📺内蒙古,#genre#
-新闻综合,https://livestreambt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800
-经济生活,https://livestreambt.nmtv.cn/nmtv/2317general.m3u8?txSecret=8e4b7cf6a2c8a75f74aef1a8a07cef43&txTime=771E8800
 经济生活,http://1.30.18.218:20080/hls/30/index.m3u8
-少儿频道,https://livestreambt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800
-文体娱乐,https://livestreambt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800
-文体娱乐,https://epg.pw/stream/3e3a5613a7d58aabfefe76df40a9f69517a73afc939cb080ebcd56723a461cc0.m3u8
-农牧频道,https://livestreambt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f17746112ad1b7&txTime=771E8800
 农牧频道,https://epg.pw/stream/f426a12024c3d2a6271d7b4e1514b8da71aeef77a9033c211e1e49a8386a8668.m3u8
-蒙语卫视,https://livestreambt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880
 蒙语卫视,http://tljdh.vip:9901/tsfile/live/1012_1.m3u8
 蒙语卫视,http://tljdh.vip:9901/tsfile/live/0109_1.m3u8
-蒙语文化,https://livestreambt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4cbf0ba32649ca5&txTime=771E8800
 蒙语文化,http://tljdh.vip:9901/tsfile/live/1015_1.m3u8
 包头新闻,http://live.btgdt.com/channels/btgd/xwzh/flv:500k/live
 包头新闻,http://live.btgdt.com/channels/btgd/xwzh/m3u8:500k/live
