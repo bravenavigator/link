@@ -2519,7 +2519,9 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 梨园频道,http://222.223.118.222:2180/live/lypd/index.m3u8
 武术世界,http://27.154.214.56:8888/rtp/239.61.3.22:9652
 文物宝库,http://27.154.214.56:8888/rtp/239.61.3.21:9646
+武术世界,http://live.dxhmt.cn:9080/live/yshnpre.m3u8
 郑州新闻综合,http://dp.sxtv.top:88/ljes/yfy.php?id=41112
+郑州教育,https://livezzutv.chinamcache.com/live/zb01.m3u8?auth_key=1677911572-0-0-f4af513ba8c09e7801f4700f1573be2c
 郑铁有线,http://39.162.27.11:8081/newlive/live/hls/1/live.m3u8
 郑州新郑一套,http://tvpull.dxhmt.cn:9081/tv/101841.m3u8
 郑州新郑一套,http://live.dxhmt.cn:9081/tv/101841.m3u8
@@ -2548,9 +2550,9 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 开封杞县新闻综合,http://live.dxhmt.cn:9081/tv/102211.m3u8
 开封通许新闻综合,http://live.dxhmt.cn:9081/tv/102221.m3u8
 开封尉氏新闻综合,http://live.dxhmt.cn:9081/tv/102231.m3u8
-焦作新闻综合,http://dp.sxtv.top:88/ljes/yfy.php?id=41120
 焦作新闻综合,http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8
 焦作公共,http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8
+焦作新闻综合,http://dp.sxtv.top:88/ljes/yfy.php?id=41120
 焦作孟州综合,http://tvpull.dxhmt.cn:9081/tv/108831.m3u8
 焦作孟州综合,http://live.dxhmt.cn:9081/tv/108831.m3u8
 焦作武陟综合,http://live.dxhmt.cn:9081/tv/108231.m3u8
