@@ -81,12 +81,11 @@ CCTV13新闻,http://58.19.38.162:9901/tsfile/live/1012_1.m3u8
 CCTV14少儿,http://58.19.38.162:9901/tsfile/live/1013_1.m3u8
 CCTV5+体育赛事,http://58.19.38.162:9901/tsfile/live/1014_1.m3u8
 CCTV1综合,http://58.19.13.92:9901/tsfile/live/1000_1.m3u8
-CCTV2财经,http://58.19.13.92:9901/tsfile/live/1001_1.m3u8
 CCTV3综艺,http://58.19.13.92:9901/tsfile/live/1002_1.m3u8
 CCTV4中文国际,http://58.19.13.92:9901/tsfile/live/1003_1.m3u8
 CCTV5体育,http://58.19.13.92:9901/tsfile/live/1004_1.m3u8
 CCTV6电影,http://58.19.13.92:9901/tsfile/live/1005_1.m3u8
-CCTV7国防军事,http://58.19.13.92:9901/tsfile/live/1006_1.m3u8
+CCTV7国防军事,http://58.19.13.92:9901/tsfile/live/1001_1.m3u8
 CCTV8电视剧,http://58.19.13.92:9901/tsfile/live/1007_1.m3u8
 CCTV2财经,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
 CCTV2财经,http://112.99.200.2:9901/tsfile/live/0002_2.m3u8
@@ -3279,6 +3278,7 @@ CHC影迷电影,http://58.19.38.162:9901/tsfile/live/1038_1.m3u8
 CHC家庭影院,http://58.19.13.92:9901/tsfile/live/1036_1.m3u8
 CHC动作电影,http://58.19.13.92:9901/tsfile/live/1037_1.m3u8
 CHC影迷电影,http://58.19.13.92:9901/tsfile/live/1038_1.m3u8
+CHC动作电影,http://58.19.13.92:9901/tsfile/live/1006_1.m3u8
 CHC动作电影,http://222.218.158.95:8181/tsfile/live/1019_1.m3u8
 CHC家庭影院,http://222.218.158.95:8181/tsfile/live/1018_1.m3u8
 CHC动作电影,http://171.108.239.52:8181/tsfile/live/1007_1.m3u8
