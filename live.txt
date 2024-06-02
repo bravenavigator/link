@@ -126,7 +126,7 @@ CCTV15音乐,http://59.62.8.250:9901/tsfile/live/0015_1.m3u8
 CCTV风云足球,http://59.62.8.250:9901/tsfile/live/0108_1.m3u8
 CCTV1综合,http://120.224.178.16:9901/tsfile/live/0001_1.m3u8
 CCTV2财经,http://120.224.178.16:9901/tsfile/live/0002_1.m3u8
-CCTV4国际,http://120.224.178.16:9901/tsfile/live/0004_1.m3u8
+CCTV4中文国际,http://120.224.178.16:9901/tsfile/live/0004_1.m3u8
 CCTV5+体育赛事,http://120.224.178.16:9901/tsfile/live/0016_1.m3u8
 CCTV7国防军事,http://120.224.178.16:9901/tsfile/live/0007_1.m3u8
 CCTV9纪录,http://120.224.178.16:9901/tsfile/live/0009_1.m3u8
@@ -406,6 +406,7 @@ CCTV8电视剧,https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
 CCTV重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 CCTV2财经,http://1.24.190.98:10080/hls/2/index.m3u8
 CCTV4中文国际,http://1.24.190.98:10080/hls/4/index.m3u8
+CCTV4K高清,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 中国教育1,http://112.99.200.2:9901/tsfile/live/0001_2.m3u8
 中国教育4,http://110.80.17.38:9901/tsfile/live/1000_1.m3u8
 早期教育,http://183.11.239.36:808/hls/100/index.m3u8
@@ -2894,9 +2895,10 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 经济生活,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=8e4b7cf6a2c8a75f74aef1a8a07cef43&txTime=771E8800
 文体娱乐,https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800
 农牧频道,https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f17746112ad1b7&txTime=771E8800
+内蒙少儿,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800农牧频
 蒙语卫视,https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880
 蒙语文化,https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4cbf0ba32649ca5&txTime=771E8800
-农牧频道,https://epg.pw/stream/f426a12024c3d2a6271d7b4e1514b8da71aeef77a9033c211e1e49a8386a8668.m3u8
+道,https://epg.pw/stream/f426a12024c3d2a6271d7b4e1514b8da71aeef77a9033c211e1e49a8386a8668.m3u8
 包头新闻,http://live.btgdt.com/channels/btgd/xwzh/flv:500k/live
 包头新闻,http://live.btgdt.com/channels/btgd/xwzh/m3u8:500k/live
 鄂尔多斯新闻综合,http://nemglt02.chunfengyun.top:9000/udp/239.125.2.165:4154
