@@ -65,6 +65,7 @@ CCTV高尔夫网球,http://118.254.203.236:8888/udp/239.76.247.62:1234
 CCTV第一剧场,http://183.92.4.163:4000/udp/228.0.0.235:6108
 CCTV风云足球,http://58.19.38.162:9901/tsfile/live/1034_1.m3u8
 CCTV风云足球,http://59.62.8.250:9901/tsfile/live/0108_1.m3u8
+CCTV1综合,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 CCTV2财经,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
 CCTV6电影,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 CCTV1综合,http://59.173.243.210:9901/tsfile/live/0001_1.m3u8
