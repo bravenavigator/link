@@ -959,6 +959,7 @@ CCTV4K高清,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist
 宁夏卫视,https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8
 陕西卫视,http://hy.baojihzjc.com:9001/rtp/239.111.205.35:5140
 深圳卫视,http://115.149.139.141:10001/tsfile/live/1032_1.m3u8
+西藏卫视,http://tv.cry33.com/xizang.php?id=0
 西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws
 内蒙古卫视,https://epg.pw/stream/4771a189ad19420bb986b757be6eebee1b68d9f586e1580a742e4a63d015a966.m3u8
 河北卫视,https://epg.pw/stream/ae75031b916d67ed14f35c4dc7bf3e1a374102ce26b27df9bc7e3497e745f426.m3u8
@@ -2952,7 +2953,9 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 塔城裕民哈语,http://117.190.130.4:8081/out_2/index.m3u8
 塔城裕民汉语,http://117.190.130.4:8081/out_1/index.m3u8
 📺　西藏,#genre#
+西藏藏语卫视,http://tv.cry33.com/xizang.php?id=1
 西藏藏语卫视,http://php.jdshipin.com:8880/xztv.php?id=zy
+西藏影视文化,http://tv.cry33.com/xizang.php?id=2
 西藏影视文化,http://php.jdshipin.com:8880/xztv.php?id=ys
 🎬BesTV,#genre#
 热门综艺,http://php.jdshipin.com:8880/bst.php?id=rmzy
