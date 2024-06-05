@@ -459,6 +459,7 @@ CCTV4K高清,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist
 康巴卫视,http://127.0.0.1
 安多卫视,http://127.0.0.1
 延边卫视,http://127.0.0.1
+海峡卫视,http://36.248.137.69:60033/tsfile/live/0150_1.m3u8
 东方卫视,http://58.37.189.47:8088/udp/239.45.3.146:5140
 湖北卫视,http://59.173.243.210:9901/tsfile/live/1018_1.m3u8
 湖南卫视,http://59.173.243.210:9901/tsfile/live/1022_1.m3u8
@@ -2231,7 +2232,6 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 福建旅游,http://36.248.137.69:60033/tsfile/live/1004_1.m3u8
 福建经济生活,http://36.248.137.69:60033/tsfile/live/1005_1.m3u8
 福建文体,http://36.248.137.69:60033/tsfile/live/1006_1.m3u8
-海峡卫视,http://36.248.137.69:60033/tsfile/live/0150_1.m3u8
 福建教育,http://36.248.137.69:60033/tsfile/live/1008_1.m3u8
 福建少儿,http://36.248.137.69:60033/tsfile/live/1007_1.m3u8
 福建综合,http://27.154.214.56:8888/rtp/239.61.2.1:8000
