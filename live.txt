@@ -67,6 +67,12 @@ CCTV风云足球,http://58.19.38.162:9901/tsfile/live/1034_1.m3u8
 CCTV风云足球,http://59.62.8.250:9901/tsfile/live/0108_1.m3u8
 CCTV1综合,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 CCTV2财经,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
+CCTV2财经,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
+CCTV5体育,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+CCTV6电影,https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
+CCTV9纪录,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
+CCTV13新闻,https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
+CCTV16奥林匹克,https://node1.olelive.com:6443/live/CCTV16HD/hls.m3u8
 CCTV6电影,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 CCTV1综合,http://59.173.243.210:9901/tsfile/live/0001_1.m3u8
 CCTV2财经,http://59.173.243.210:9901/tsfile/live/0002_1.m3u8
@@ -461,6 +467,7 @@ CCTV4K高清,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist
 延边卫视,http://127.0.0.1
 海峡卫视,http://36.248.137.69:60033/tsfile/live/0150_1.m3u8
 东方卫视,http://58.37.189.47:8088/udp/239.45.3.146:5140
+重庆卫视,,https://sjlivecdn9.cbg.cn/202506252322/app_2/_definst_/ls_2.stream/chunklist.m3u8
 湖北卫视,http://59.173.243.210:9901/tsfile/live/1018_1.m3u8
 湖南卫视,http://59.173.243.210:9901/tsfile/live/1022_1.m3u8
 江苏卫视,http://59.173.243.210:9901/tsfile/live/1023_1.m3u8
