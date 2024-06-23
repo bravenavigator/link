@@ -2807,6 +2807,11 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 黑龙江影视,https://idclive.hljtv.com:4430/live/hljys_hd.m3u8
 黑龙江文体,https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
 📺　吉林,#genre#
+吉林卫视,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/1.m3u8
+吉林都市,https://hls.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/1.m3u8
+吉林生活,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/1.m3u8
+吉林影视,https://hls.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/1.m3u8
+吉林乡村,https://hls.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/1.m3u8
 吉林都市,http://61.138.128.226:19901/tsfile/live/1000_1.m3u8
 吉林公共,http://61.138.128.226:19901/tsfile/live/1004_1.m3u8
 吉林综艺,http://61.138.128.226:19901/tsfile/live/1005_1.m3u8
