@@ -121,7 +121,7 @@ CCTV11戏曲,http://110.80.17.38:9901/tsfile/live/0011_1.m3u8
 CCTV12社会与法,http://110.80.17.38:9901/tsfile/live/0012_1.m3u8
 CCTV13新闻,http://110.80.17.38:9901/tsfile/live/0013_1.m3u8
 CCTV14少儿,http://110.80.17.38:9901/tsfile/live/0014_1.m3u8
-CCTV17农业农村,http://110.80.17.38:9901/tsfile/live/0007_1.m3u8
+CCTV7国防军事,http://110.80.17.38:9901/tsfile/live/0007_1.m3u8
 CCTV1综合,http://218.89.240.144:59901/tsfile/live/0001_1.m3u8
 CCTV2财经,http://218.89.240.144:59901/tsfile/live/0002_1.m3u8
 CCTV3综艺,http://218.89.240.144:59901/tsfile/live/0003_1.m3u8
