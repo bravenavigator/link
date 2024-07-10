@@ -2255,10 +2255,13 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 宁夏经济,https://hls.ningxiahuangheyun.com/live/nxjj1M.m3u8
 宁夏少儿,https://hls.ningxiahuangheyun.com/live/nxse1M.m3u8
 宁夏文旅,https://hls.ningxiahuangheyun.com/live/nxwl1M.m3u8
+西宁新闻,https://liveout.xntv.tv/a65jur/96iln2.m3u8
+西宁生活,https://liveout.xntv.tv/a65jur/90p2i1.m3u8
 吴忠综合,http://live.kanwz.net/zhpd/sd/live.m3u8
 吴忠综合,http://live.kanwz.net/zhpd/sd/live.m3u8?zningxd
 吴忠公共,http://live.kanwz.net/ggpd/sd/live.m3u8
 吴忠公共,http://live.kanwz.net/ggpd/sd/live.m3u8?zningxd
+门源综合,http://livecdn.dmqhyadmin.com/hls/xjmenyuan.m3u8
 临夏综合,http://124.152.34.102:8030/wCMq71/wCMq71_0.m3u8
 📺　青海,#genre#
 青海经视,http://stream.qhbtv.com/qhsh/sd/live.m3u8
