@@ -1129,7 +1129,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 靖天国际,http://extraott.com:80/live/7921751389/6097373662/5519.m3u8
 大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 华语电视,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
-爱尔达戏剧,http://extraott.com:80/live/7921751389/6097373662/5546.m3u8
+亚洲美食台,http://extraott.com:80/live/7921751389/6097373662/5566.m3u8
 纬来日本,http://extraott.com:80/live/7921751389/6097373662/5495.m3u8
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
@@ -1139,13 +1139,19 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 纬来篮球,https://cloud.yumixiu768.com/tmp/123.m3u8
 博斯体育1台,http://extraott.com:80/live/7921751389/6097373662/5558.m3u8
 博斯体育2台,http://extraott.com:80/live/7921751389/6097373662/5557.m3u8
+博斯高球1台,http://extraott.com:80/live/7921751389/6097373662/5560.m3u8
+博斯高球2台,http://extraott.com:80/live/7921751389/6097373662/5559.m3u8
 MoMo综合,rtmp://f13h.mine.nu/sat/tv761
 ELEVEN1台,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN2台,rtmp://f13h.mine.nu/sat/tv741
+SKYLINK TELEVISION 2,http://extraott.com:80/live/7921751389/6097373662/473535.m3u8
+SKYLINK TELEVISION,http://extraott.com:80/live/7921751389/6097373662/473536.m3u8
 番薯电视,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 番薯电视,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 番薯电视,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+爱尔达戏剧,http://extraott.com:80/live/7921751389/6097373662/5546.m3u8
+龙华偶像,http://extraott.com:80/live/7921751389/6097373662/5518.m3u8
 八大戏剧,http://mywlkj.ddns.net:754/tv/tw3.php?id=4
 星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
