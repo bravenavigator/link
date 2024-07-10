@@ -1163,7 +1163,9 @@ ELEVEN2台,rtmp://f13h.mine.nu/sat/tv741
 星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 📺　江苏,#genre#
+江苏城市,https://025365.xyz:8082/jstv.php?id=jscs
 江苏城市,http://58.220.219.14:9901/tsfile/live/0120_3.m3u8
+江苏综艺,https://025365.xyz:8082/jstv.php?id=jszy
 江苏综艺,http://58.220.219.14:9901/tsfile/live/0120_4.m3u8
 南京生活,http://live.nbs.cn/channels/njtv/shpd/nbs06.m3u8
 南京娱乐,http://live.nbs.cn/channels/njtv/ylpd/500k.m3u8
@@ -1664,10 +1666,14 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 荆门公共,http://stream.jmtv.com.cn/ngpd/sd/live.m3u8
 荆门科技文旅,http://stream.jmtv.com.cn/ggsh/sd/live.m3u8
 📺　安徽,#genre#
+安徽经济生活,http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8
+安徽经济生活,http://wyflv.ahwanyun.cn/live/eac499adad7b49ff9cfa79ba84693959.m3u8
 安徽经济生活,http://159.75.166.157/php/ah.php?id=ahjj
 安徽公共,http://159.75.166.157/php/ah.php?id=ahgg
 安徽农业科教,http://159.75.166.157/php/ah.php?id=ahnk
 安徽影视,http://159.75.166.157/php/ah.php?id=ahys
+安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
+安徽综艺体育,http://wyflv.ahwanyun.cn/live/c41f112b83f644ddb082669501c8ecd3.m3u8
 安徽综艺体育,http://159.75.166.157/php/ah.php?id=ahzy
 安徽国际,http://159.75.166.157/php/ah.php?id=ahgj
 安徽经济生活,http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8
@@ -2197,6 +2203,12 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 山西社会与法治,http://live.cooltv.top/tv/cutv.php?id=sxkj
 山西文体生活,http://live.cooltv.top/tv/tide.php?id=sxwtsh
 山西文体生活,http://live.cooltv.top/tv/cutv.php?id=sxgg
+山西卫视,http://1.70.35.72:8085/udp/239.1.1.1:8001
+山西黄河,http://1.70.35.72:8085/udp/239.1.1.2:8002
+山西经济与科技,http://1.70.35.72:8085/udp/239.1.1.3:8003
+山西影视,http://1.70.35.72:8085/udp/239.1.1.4:8004
+山西社会与法治,http://1.70.35.72:8085/udp/239.1.1.5:8005
+山西文体生活,http://1.70.35.72:8085/udp/239.1.1.6:8006
 晋中综合,http://jzlive.jztvnews.com:90/live/jzzh.m3u8
 晋中公共,http://jzlive.jztvnews.com:90/live/jzgg.m3u8
 晋中灵石综合,https://livestream.lsxrmtzx.com/live/video.m3u8
