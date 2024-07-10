@@ -794,7 +794,6 @@ CGTN阿语,http://gmxw.7766.org:808/hls/84/index.m3u8
 CGTN俄语,http://gmxw.7766.org:808/hls/85/index.m3u8
 Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3ed4c4f47848295648250f4b8/live.isml/.m3u8
 📺　广东,#genre#
-广东新闻,http://183.236.32.24:9901/hls/1037/index.m3u8
 广东新闻,http://gmxw.7766.org:808/hls/5/index.m3u8
 广东新闻,http://183.11.239.36:808/hls/5/index.m3u8
 广东珠江,http://183.236.32.24:9901/hls/1036/index.m3u8
@@ -802,25 +801,20 @@ Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3ed4c4f478482956
 广东珠江,http://ddns.cyruslee.top:8888/udp/239.77.0.1:5146
 广东珠江,http://218.13.170.98:9901/tsfile/live/1000_1.m3u8
 广东珠江,http://183.11.239.36:808/hls/83/index.m3u8
-经济科教,http://183.236.32.24:9901/hls/1044/index.m3u8
 经济科教,http://gmxw.7766.org:808/hls/4/index.m3u8
 经济科教,http://218.13.170.98:9901/tsfile/live/0018_1.m3u8
 经济科教,http://183.237.246.14:9931/tsfile/live/1016_1.m3u8
 经济科教,http://183.11.239.36:808/hls/4/index.m3u8
-广东民生,http://183.236.32.24:9901/hls/1038/index.m3u8
 广东民生,http://gmxw.7766.org:808/hls/18/index.m3u8
 广东民生,http://ddns.cyruslee.top:8888/udp/239.77.0.225:5146
 广东民生,http://183.11.239.36:808/hls/18/index.m3u8
-广东影视,http://183.236.32.24:9901/hls/1045/index.m3u8
 广东影视,http://gmxw.7766.org:808/hls/6/index.m3u8
 广东影视,http://183.11.239.36:808/hls/6/index.m3u8
 广东综艺,http://ddns.cyruslee.top:8888/udp/239.77.0.244:5146
-广东体育,http://183.236.32.24:9901/hls/1039/index.m3u8
 广东体育,http://gmxw.7766.org:808/hls/2/index.m3u8
 广东体育,http://218.13.170.98:9901/tsfile/live/0019_1.m3u8
 广东体育,http://183.237.246.14:9931/tsfile/live/1014_1.m3u8
 广东体育,http://183.11.239.36:808/hls/2/index.m3u8
-广东少儿,http://183.236.32.24:9901/hls/1046/index.m3u8
 广东少儿,http://gmxw.7766.org:808/hls/175/index.m3u8
 广东少儿,http://183.237.246.14:9931/tsfile/live/1019_1.m3u8
 广东少儿,http://183.11.239.36:808/hls/175/index.m3u8
