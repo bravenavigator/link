@@ -794,44 +794,56 @@ CGTN阿语,http://gmxw.7766.org:808/hls/84/index.m3u8
 CGTN俄语,http://gmxw.7766.org:808/hls/85/index.m3u8
 Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3ed4c4f47848295648250f4b8/live.isml/.m3u8
 📺　广东,#genre#
+广东新闻,http://183.236.32.24:9901/hls/1037/index.m3u8
 广东新闻,http://gmxw.7766.org:808/hls/5/index.m3u8
 广东新闻,http://183.11.239.36:808/hls/5/index.m3u8
+广东珠江,http://183.236.32.24:9901/hls/1036/index.m3u8
 广东珠江,http://gmxw.7766.org:808/hls/83/index.m3u8
 广东珠江,http://ddns.cyruslee.top:8888/udp/239.77.0.1:5146
 广东珠江,http://218.13.170.98:9901/tsfile/live/1000_1.m3u8
 广东珠江,http://183.11.239.36:808/hls/83/index.m3u8
+经济科教,http://183.236.32.24:9901/hls/1044/index.m3u8
 经济科教,http://gmxw.7766.org:808/hls/4/index.m3u8
 经济科教,http://218.13.170.98:9901/tsfile/live/0018_1.m3u8
 经济科教,http://183.237.246.14:9931/tsfile/live/1016_1.m3u8
 经济科教,http://183.11.239.36:808/hls/4/index.m3u8
+广东民生,http://183.236.32.24:9901/hls/1038/index.m3u8
 广东民生,http://gmxw.7766.org:808/hls/18/index.m3u8
 广东民生,http://ddns.cyruslee.top:8888/udp/239.77.0.225:5146
 广东民生,http://183.11.239.36:808/hls/18/index.m3u8
+广东影视,http://183.236.32.24:9901/hls/1045/index.m3u8
 广东影视,http://gmxw.7766.org:808/hls/6/index.m3u8
 广东影视,http://183.11.239.36:808/hls/6/index.m3u8
 广东综艺,http://ddns.cyruslee.top:8888/udp/239.77.0.244:5146
+广东体育,http://183.236.32.24:9901/hls/1039/index.m3u8
 广东体育,http://gmxw.7766.org:808/hls/2/index.m3u8
 广东体育,http://218.13.170.98:9901/tsfile/live/0019_1.m3u8
 广东体育,http://183.237.246.14:9931/tsfile/live/1014_1.m3u8
 广东体育,http://183.11.239.36:808/hls/2/index.m3u8
+广东少儿,http://183.236.32.24:9901/hls/1046/index.m3u8
 广东少儿,http://gmxw.7766.org:808/hls/175/index.m3u8
 广东少儿,http://183.237.246.14:9931/tsfile/live/1019_1.m3u8
 广东少儿,http://183.11.239.36:808/hls/175/index.m3u8
+嘉佳卡通,http://183.236.32.24:9901/hls/1047/index.m3u8
 嘉佳卡通,http://gmxw.7766.org:808/hls/8/index.m3u8
 嘉佳卡通,http://183.11.239.36:808/hls/8/index.m3u8
 大湾区卫视,http://gmxw.7766.org:808/hls/132/index.m3u8
 大湾区卫视,http://183.11.239.36:808/hls/132/index.m3u8
+广州综合,http://183.236.32.24:9901/hls/1040/index.m3u8
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=439b0fd2cf766b363c93a59cbcbe1370&txTime=18d00acf488
 广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
 广州综合,http://183.237.246.14:9931/tsfile/live/1137_1.m3u8
+广州新闻,http://183.236.32.24:9901/hls/1041/index.m3u8
 广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=6f73647cae387d01a3c2132074132a83&txTime=18d00acf487
 广州新闻,http://tencentplaygzrb.gztv.com/sec/xinwen.m3u8
 广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
 广州新闻,http://ddns.cyruslee.top:8888/udp/239.253.43.72:5146
+广州影视,http://183.236.32.24:9901/hls/1042/index.m3u8
 广州影视,https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=7e9bddad7c8911626ed1d2c09fc605d9&txTime=18d00acf487
 广州影视,http://tencentplaygzrb.gztv.com/sec/yingshi.m3u8
 广州影视,http://php.jdshipin.com:8880/gztv.php?id=yingshi
+广州法治,http://183.236.32.24:9901/hls/1043/index.m3u8
 广州法治,https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=31e9eb294789e59e351fc1f0ab3178bc&txTime=18d00acf487
 广州法治,http://tencentplaygzrb.gztv.com/sec/fazhi.m3u8
 广州法治,http://php.jdshipin.com:8880/gztv.php?id=fazhi
@@ -910,6 +922,7 @@ BRTV纪实科教,http://121.27.126.103:809/hls/61/index.m3u8
 BRTV纪实科教,http://111.11.98.205:9900/hls/66/index.m3u8
 BRTV纪实科教8K,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 BRTV纪实科教8K,http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
+BRTV卡酷少儿,http://183.236.32.24:9901/hls/1048/index.m3u8
 BRTV卡酷少儿,http://111.196.131.234:8012/rtp/239.3.1.189:8000
 BRTV新闻,http://222.129.36.84:8888/rtp/239.3.1.159:8000
 BRTV影视,http://222.129.36.84:8888/rtp/239.3.1.158:8000
@@ -1004,6 +1017,7 @@ BRTV新闻,https://epg.pw/stream/80307082824983f38685364e741bd9738d2632ac1c9c0b2
 新视觉频道,http://183.237.246.14:9931/tsfile/live/1105_1.m3u8
 五星体育,http://58.37.189.47:8088/udp/239.45.3.210:5140
 五星体育,http://210.22.75.86:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+哈哈炫动,http://183.236.32.24:9901/hls/1050/index.m3u8
 哈哈炫动,http://58.37.189.47:8088/udp/239.45.1.55:5140
 📺　天津,#genre#
 天津新闻,http://acc.tohsaka.cn:9999/rtp/225.1.1.130:5002
@@ -1127,6 +1141,7 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 江苏城市,http://58.220.219.14:9901/tsfile/live/0120_3.m3u8
 江苏综艺,https://025365.xyz:8082/jstv.php?id=jszy
 江苏综艺,http://58.220.219.14:9901/tsfile/live/0120_4.m3u8
+优漫卡通,http://183.236.32.24:9901/hls/1051/index.m3u8
 南京生活,http://live.nbs.cn/channels/njtv/shpd/nbs06.m3u8
 南京娱乐,http://live.nbs.cn/channels/njtv/ylpd/500k.m3u8
 南京娱乐,http://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8
@@ -1551,6 +1566,7 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 金鹰纪实,http://gmxw.7766.org:808/hls/171/index.m3u8
 金鹰纪实,http://php.jdshipin.com:8880/bst.php?id=jyjs
 金鹰纪实,http://php.jdshipin.com:8880/bst.php?id=jyjs8m/8000000
+金鹰卡通,http://183.236.32.24:9901/hls/1049/index.m3u8
 金鹰卡通,http://223.151.49.74:59901/tsfile/live/0019_1.m3u8
 茶频道,http://ddns.cyruslee.top:8888/udp/239.77.0.015:5146
 茶频道,http://php.jdshipin.com:8880/bst.php?id=cpd
