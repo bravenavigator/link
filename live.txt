@@ -439,7 +439,7 @@ CCTV4K高清,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist
 深圳卫视,http://219.159.194.57:8181/tsfile/live/0126_1.m3u8
 天津卫视,http://219.159.194.57:8181/tsfile/live/0135_1.m3u8
 湖北卫视,http://219.159.194.57:8181/tsfile/live/0132_1.m3u8
-黑龙江卫视+,http://219.159.194.57:8181/tsfile/live/0143_2.m3u8
+黑龙江卫视,http://219.159.194.57:8181/tsfile/live/0143_2.m3u8
 广东卫视,http://219.159.194.57:8181/tsfile/live/0125_1.m3u8
 江苏卫视,http://219.159.194.57:8181/tsfile/live/0127_1.m3u8
 吉林卫视,http://219.159.194.57:8181/tsfile/live/0116_1.m3u8
