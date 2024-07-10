@@ -1908,6 +1908,7 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 新闻频道,http://61.136.67.238:50085/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 公共频道,http://61.136.67.238:50085/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 新农村频道,http://61.136.67.238:50085/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+河南戏曲,http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8
 梨园频道,http://222.223.118.222:2180/live/lypd/index.m3u8
 武术世界,http://live.dxhmt.cn:9080/live/yshnpre.m3u8
 郑州新闻综合,http://dp.sxtv.top:88/ljes/yfy.php?id=41112
