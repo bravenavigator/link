@@ -302,6 +302,7 @@ CCTV央视台球,http://gmxw.7766.org:808/hls/73/index.m3u8
 CCTV文化精品,http://gmxw.7766.org:808/hls/97/index.m3u8
 CCTV第一剧场,http://gmxw.7766.org:808/hls/98/index.m3u8
 CCTV风云音乐,http://gmxw.7766.org:808/hls/99/index.m3u8
+CCTV4中文国际美洲,http://gzly.hkychina.com:6001/udp/239.252.219.193:5140
 CCTV2财经,http://222.240.82.92:9901/tsfile/live/0002_1.m3u8
 CCTV3综艺,http://222.240.82.92:9901/tsfile/live/0003_1.m3u8
 CCTV4中文国际,http://222.240.82.92:9901/tsfile/live/0004_1.m3u8
@@ -376,6 +377,9 @@ CCTV4K高清,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist
 中国教育4,http://121.19.134.225:808/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
 中国交通,http://111.225.115.176:808/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
 中国交通,http://121.19.134.225:808/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV文化精品,http://gzly.hkychina.com:6001/udp/239.252.219.81:5140
+CCTV第一剧场,http://gzly.hkychina.com:6001/udp/239.252.219.86:5140
+CCTV高尔夫网球,http://gzly.hkychina.com:6001/udp/239.252.219.95:5140
 📡　卫视,#genre#
 北京卫视,http://127.0.0.1
 东方卫视,http://127.0.0.1
@@ -1095,6 +1099,7 @@ BRTV新闻,https://epg.pw/stream/80307082824983f38685364e741bd9738d2632ac1c9c0b2
 新闻综合,http://58.37.189.47:8088/udp/239.45.3.209:5140
 新闻综合,http://210.22.75.86:9901/tsfile/live/0107_4.m3u8?key=txiptv&playlive=1&authid=0
 都市频道,http://58.37.189.47:8088/udp/239.45.3.236:5140
+东方财经,http://gzly.hkychina.com:6001/udp/239.252.219.57:5140
 第一财经,http://58.37.189.47:8088/udp/239.45.3.211:5140
 点掌财经,https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
 点掌财经,https://epg.pw/stream/a438b7c61aa6f89a563fdfc6728289c739620c234c00a7f2cb2f0b1355a926ed.m3u8
@@ -1418,6 +1423,7 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 杭州生活,http://125.210.152.19:9121/live/hzgqhzshgqh264.m3u8
 杭州影视,http://125.210.152.19:9121/live/hzgqhzysgqh264.m3u8
 杭州少体,http://125.210.152.19:9121/live/hzgqhzsegqh264.m3u8
+求索记录,http://gzly.hkychina.com:6001/udp/239.252.220.224:5140
 求索记录,http://ddns.cyruslee.top:8888/udp/239.77.0.021:5146
 杭州余杭综合,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
 杭州余杭未来,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
