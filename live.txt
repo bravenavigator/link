@@ -302,6 +302,8 @@ CCTV央视台球,http://gmxw.7766.org:808/hls/73/index.m3u8
 CCTV文化精品,http://gmxw.7766.org:808/hls/97/index.m3u8
 CCTV第一剧场,http://gmxw.7766.org:808/hls/98/index.m3u8
 CCTV风云音乐,http://gmxw.7766.org:808/hls/99/index.m3u8
+CCTV高尔夫网球,http://ddns.cyruslee.top:8888/udp/239.253.43.22:5146
+CCTV怀旧剧场,http://ddns.cyruslee.top:8888/udp/239.253.43.25:5146
 CCTV4中文国际美洲,http://gzly.hkychina.com:6001/udp/239.252.219.193:5140
 CCTV2财经,http://222.240.82.92:9901/tsfile/live/0002_1.m3u8
 CCTV3综艺,http://222.240.82.92:9901/tsfile/live/0003_1.m3u8
@@ -407,6 +409,7 @@ CCTV15音乐,http://111.14.181.15:9901/tsfile/live/0015_1.m3u8?key=txiptv&playli
 中国交通,http://111.225.115.176:808/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
 中国交通,http://121.19.134.225:808/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
 中国教育4,http://1.24.190.98:10080/hls/19/index.m3u8
+中国教育1,http://ddns.cyruslee.top:8888/udp/239.77.1.144:5146
 CCTV文化精品,http://gzly.hkychina.com:6001/udp/239.252.219.81:5140
 CCTV第一剧场,http://gzly.hkychina.com:6001/udp/239.252.219.86:5140
 CCTV高尔夫网球,http://gzly.hkychina.com:6001/udp/239.252.219.95:5140
@@ -952,6 +955,7 @@ CGTN阿语,http://gmxw.7766.org:808/hls/84/index.m3u8
 CGTN俄语,http://gmxw.7766.org:808/hls/85/index.m3u8
 CGTN俄语,http://1.24.190.98:10080/hls/21/index.m3u8
 CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
+CGTN西语,http://ddns.cyruslee.top:8888/udp/239.77.0.221:5146
 Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3ed4c4f47848295648250f4b8/live.isml/.m3u8
 📺　广东,#genre#
 广东新闻,http://219.159.194.57:8181/tsfile/live/1007_1.m3u8
@@ -1194,7 +1198,8 @@ BRTV新闻,https://epg.pw/stream/80307082824983f38685364e741bd9738d2632ac1c9c0b2
 都市剧场,http://183.237.246.14:9931/tsfile/live/1107_1.m3u8
 欢笑剧场,http://183.237.246.14:9931/tsfile/live/1106_1.m3u8
 欢笑剧场,http://hy.baojihzjc.com:9001/rtp/239.112.205.236:5140
-新视觉频道,http://183.237.246.14:9931/tsfile/live/1105_1.m3u8
+新视觉,http://183.237.246.14:9931/tsfile/live/1105_1.m3u8
+新视觉,http://1b6467f415.iok.la:9931/tsfile/live/1105_1.m3u8
 五星体育,http://58.37.189.47:8088/udp/239.45.3.210:5140
 五星体育,http://210.22.75.86:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 哈哈炫动,http://58.37.189.47:8088/udp/239.45.1.55:5140
@@ -1593,6 +1598,7 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 山东体育,http://120.224.178.16:9901/tsfile/live/0111_1.m3u8
 山东体育,http://fangke.blueswords.com:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
 山东教育,http://182.46.8.160:8018/hls/16/index.m3u8
+梁山影视,http://111.14.181.15:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 济南综合,http://124.128.73.58:9901/tsfile/live/1003_1.m3u8
 济铁电视,http://8.137.59.151:3000/shandong/qilu.php?id=jnjrtv&playlist.m3u8
 济南长清新闻,http://8.137.59.151:3000/shandong/qilu.php?id=jncqxw&playlist.m3u8
@@ -2142,6 +2148,7 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 河南戏曲,http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8
 梨园频道,http://222.223.118.222:2180/live/lypd/index.m3u8
 武术世界,http://live.dxhmt.cn:9080/live/yshnpre.m3u8
+武术世界,http://ddns.cyruslee.top:8888/udp/239.77.1.108:5146
 郑州新闻综合,http://dp.sxtv.top:88/ljes/yfy.php?id=41112
 郑州教育,https://livezzutv.chinamcache.com/live/zb01.m3u8?auth_key=1677911572-0-0-f4af513ba8c09e7801f4700f1573be2c
 郑铁有线,http://39.162.27.11:8081/newlive/live/hls/1/live.m3u8
