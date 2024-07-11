@@ -366,6 +366,9 @@ CCTV4K高清,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist
 早期教育,http://gmxw.7766.org:808/hls/100/index.m3u8
 中国教育1,http://gmxw.7766.org:808/hls/122/index.m3u8
 中国教育1,http://gmxw.7766.org:808/hls/79/index.m3u8
+中国教育1,http://111.225.115.176:808/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+中国教育1,http://121.19.134.225:808/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
+中国教育4,http://121.19.134.225:808/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
 中国交通,http://111.225.115.176:808/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
 中国交通,http://121.19.134.225:808/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
 📡　卫视,#genre#
