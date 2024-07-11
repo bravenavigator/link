@@ -406,6 +406,7 @@ CCTV4K高清,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist
 康巴卫视,http://127.0.0.1
 安多卫视,http://127.0.0.1
 延边卫视,http://127.0.0.1
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 广西卫视,http://171.108.239.99:8181/tsfile/live/1058_1.m3u8
 广东卫视,http://171.108.239.99:8181/tsfile/live/1059_1.m3u8
 湖南卫视,http://171.108.239.99:8181/tsfile/live/1060_1.m3u8
@@ -810,6 +811,8 @@ CCTV4K高清,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist
 云南卫视,http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
 云南卫视,http://tvlive.ynradio.com/live/yunnanweishi/playlist.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
+内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/720p.m3u8
 云南卫视,https://epg.pw/stream/b0c9d738954f837090f9545d6ff5942a58cd00c65770ba2c94ad2db8597d9da9.m3u8
 河北卫视,https://epg.pw/stream/ae75031b916d67ed14f35c4dc7bf3e1a374102ce26b27df9bc7e3497e745f426.m3u8
 兵团卫视,https://epg.pw/stream/d84efa5eb598b5211d873bf4c345d5e25800edcf2b6cea4cc78e5c909b15b625.m3u8
