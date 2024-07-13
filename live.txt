@@ -1681,9 +1681,9 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 淮安金湖新闻综合,http://jinhutvhls.cm.jstv.com/jinhutv/jinhuzh.m3u8
 江阴新闻综合,http://221.228.70.101:8080/live/xinwen.m3u8
 📺　浙江,#genre#
-浙江教育科技,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+浙江新闻,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 浙江影视娱乐,http://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
-浙江台少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江国际频道,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江新闻,http://aliml.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江新闻,https://aliml.cztv.com/channels/lantian/channel007/1080p.m3u8
