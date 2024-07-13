@@ -501,6 +501,7 @@ CCTV15音乐,http://111.14.181.15:9901/tsfile/live/0015_1.m3u8?key=txiptv&playli
 第一剧场,http://123.189.36.4:9901/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0
 第一剧场,http://123.189.36.39:9901/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0
 中国教育1,http://ddns.cyruslee.top:8888/udp/239.77.1.144:5146
+CCTV6电影,http://cdn.jdshipin.com:8880/ysp.php?id=cctv6
 CCTV文化精品,http://gzly.hkychina.com:6001/udp/239.252.219.81:5140
 CCTV第一剧场,http://gzly.hkychina.com:6001/udp/239.252.219.86:5140
 CCTV高尔夫网球,http://gzly.hkychina.com:6001/udp/239.252.219.95:5140
