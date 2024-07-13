@@ -2314,11 +2314,14 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 广西都市,http://171.108.239.99:8181/tsfile/live/1106_1.m3u8
 广西新闻,http://171.108.239.99:8181/tsfile/live/1107_1.m3u8
 南宁新闻综合,http://171.108.239.99:8181/tsfile/live/1115_1.m3u8
-南宁影视娱乐,http://171.108.239.99:8181/tsfile/live/1017_1.m3u8
 南宁公共,http://171.108.239.99:8181/tsfile/live/1018_1.m3u8
+南宁影视娱乐,http://171.108.239.99:8181/tsfile/live/1017_1.m3u8
 南宁新闻综合,https://hls.nntv.cn/nnlive/XWZH_24.m3u8
-南宁公共,https://hls.nntv.cn/nnlive/GGPD_24.m3u8
+南宁都市生活,http://hls.nntv.cn/nnlive/WLSH_24.m3u8
+南宁影视娱乐,http://hls.nntv.cn/nnlive/YSYL_244.m3u8
 南宁文旅生活,https://hls.nntv.cn/nnlive/WLSH_24.m3u8
+南宁公共,http://hls.nntv.cn/nnlive/GGPD_24.m3u8
+南宁公共,https://hls.nntv.cn/nnlive/GGPD_24.m3u8
 南宁老友live,https://hls.nntv.cn/nnlive/LYL1_24.m3u8
 南宁隆安综合,https://hls.nntv.cn/nnlive/LATV_24.m3u8
 南宁宾阳综合,https://live.gxrb.com.cn/gx/binyang/index.m3u8
@@ -2327,6 +2330,9 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 北海新闻综合,https://live.gxrb.com.cn/gx/beihai/index.m3u8
 北海新闻综合,http://rtmp.gdlive.gdmain.com/live/09em4xbl.m3u8
 北海新闻综合,http://rtmp.gdlive.gdmain.com/live/09em4xbl.flv
+梧州新闻综合,http://live.wzrtv.cn:80/xwzh1/sd/live.m3u8
+梧州公共,http://live.wzrtv.cn:80/ggpd1/sd/live.m3u8
+梧州教育生活,http://live.wzrtv.cn:80/jysh1/sd/live.m3u8
 贺州综合,http://zhz.gxhzxw.com:2935/live/HZXWHD/playlist.m3u8
 河池罗城综合,http://111.12.75.177:9100/lctvlive/lch.m3u8?zguangxd
 崇左天等综合,https://live.gxrb.com.cn/gx/tiandeng/index.m3u8
