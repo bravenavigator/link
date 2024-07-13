@@ -1138,7 +1138,6 @@ Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3ed4c4f478482956
 广东新闻,http://183.11.239.36:808/hls/5/index.m3u8
 广东珠江,http://203.88.42.189:55555/udp/239.10.0.63:1025
 广东珠江,http://203.88.42.189:55555/udp/239.10.0.62:1025
-广东珠江,http://tplaylive.grtn.cn/live/lizhi.m3u8
 广东珠江,http://14.212.185.27:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
 广东珠江,http://ddns.cyruslee.top:8888/udp/239.77.0.1:5146
 广东珠江,http://183.11.239.36:808/hls/83/index.m3u8
@@ -1478,12 +1477,12 @@ TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
 TVB Plus,http://138.113.24.59/libof.kesx.top/live/5658kwkojtz.m3u8
 TVB Plus,http://ha.jmied.com/aa/aa.m3u8?auth_key=1661958232-0-0-114df08fce17ecb21f6bf42de85e7600
 TVB Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+TVB J2,http://php.jdshipin.com:8880/smt.php?id=j2_twn
 RTHK31,http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
 RTHK32,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
 RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
 RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
 RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
-J2,http://php.jdshipin.com:8880/smt.php?id=j2_twn
 VIUTV,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
 澳门Macau,http://grandprix2023.asuscomm.com:8891/bysid/96.m3u8
 澳视澳门,http://grandprix2023.asuscomm.com:8891/bysid/91.m3u8
@@ -1505,7 +1504,7 @@ VIUTV,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
 壹电视新闻,http://extraott.com:80/live/7921751389/6097373662/5532.m3u8
 壹电视旅游,http://extraott.com:80/live/7921751389/6097373662/5533.m3u8
 镜新闻,http://livetv.skycf.eu.org/live.m3u8?c=10
-东森新闻,http://livetv.skycf.eu.org/live.m3u8?c=9
+东森新闻,https://stream.freetv.fun/3c39204a43b38809d7ca92a73dcb9263c9c3690fd81b5b27532fd26896789489.m3u8
 东森财经,http://livetv.skycf.eu.org/live.m3u8?c=14
 东森财经,https://ctrl.laotv.la/live/DongsenMovie/index.m3u8
 东森超视,rtmp://f13h.mine.nu/sat/tv331
@@ -1550,7 +1549,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 公视新闻,http://livetv.skycf.eu.org/live.m3u8?c=8
 年代新闻,https://bsex.serv00.net/Smart.php?id=niandainews_twn
 年代新闻,http://extraott.com:80/live/7921751389/6097373662/5509.m3u8
-靖天国际,http://extraott.com:80/live/7921751389/6097373662/5519.m3u8
+靖天国际,https://stream.freetv.fun/a9a4812881a3d4a36a13e260956a2b4bff4a20cda605a6588978a4da9443b16b.m3u8
 大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 华语电视,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
 亚洲美食台,http://extraott.com:80/live/7921751389/6097373662/5566.m3u8
@@ -1582,7 +1581,6 @@ SKYLINK TELEVISION,http://extraott.com:80/live/7921751389/6097373662/473536.m3u8
 爱尔达戏剧,http://extraott.com:80/live/7921751389/6097373662/5546.m3u8
 龙华偶像,http://extraott.com:80/live/7921751389/6097373662/5518.m3u8
 八大戏剧,http://mywlkj.ddns.net:754/tv/tw3.php?id=4
-星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 📺　江苏,#genre#
 江苏城市,https://025365.xyz:8082/jstv.php?id=jscs
