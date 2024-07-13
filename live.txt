@@ -35,6 +35,8 @@ CCTV央视台球,http://127.0.0.1
 CCTV电视指南,http://127.0.0.1
 早期教育,http://127.0.0.1
 中国教育1,http://127.0.0.1
+中国教育2,http://127.0.0.1
+中国教育3,http://127.0.0.1
 中国教育4,http://127.0.0.1
 中国交通,http://127.0.0.1
 中国天气,http://127.0.0.1
@@ -478,6 +480,10 @@ CCTV12社会与法,http://111.14.181.15:9901/tsfile/live/0012_1.m3u8?key=txiptv&
 CCTV13新闻,http://111.14.181.15:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV14少儿,http://111.14.181.15:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15音乐,http://111.14.181.15:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+中国教育1,http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801.m3u8
+中国教育2,http://hwylivehd.centv.cn/cetv2/2020tsytk.m3u8
+中国教育3,http://hwylivehd.centv.cn/cetv3/bjdm.m3u8
+中国教育4,http://hwylivehd.centv.cn/cetv4/zjpd.m3u8
 早期教育,http://183.11.239.36:808/hls/100/index.m3u8
 中国教育1,http://183.11.239.36:808/hls/122/index.m3u8
 中国教育4,http://183.11.239.36:808/hls/79/index.m3u8
@@ -492,6 +498,8 @@ CCTV15音乐,http://111.14.181.15:9901/tsfile/live/0015_1.m3u8?key=txiptv&playli
 中国交通,http://111.225.115.176:808/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
 中国交通,http://121.19.134.225:808/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
 中国教育4,http://1.24.190.98:10080/hls/19/index.m3u8
+第一剧场,http://123.189.36.4:9901/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0
+第一剧场,http://123.189.36.39:9901/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0
 中国教育1,http://ddns.cyruslee.top:8888/udp/239.77.1.144:5146
 CCTV文化精品,http://gzly.hkychina.com:6001/udp/239.252.219.81:5140
 CCTV第一剧场,http://gzly.hkychina.com:6001/udp/239.252.219.86:5140
@@ -1460,6 +1468,8 @@ RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/st
 RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
 J2,http://php.jdshipin.com:8880/smt.php?id=j2_twn
 VIUTV,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
+澳门Macau,http://grandprix2023.asuscomm.com:8891/bysid/96.m3u8
+澳视澳门,http://grandprix2023.asuscomm.com:8891/bysid/91.m3u8
 澳视澳门,http://183.237.246.14:9931/tsfile/live/1039_1.m3u8
 澳视澳门,http://1b6467f415.iok.la:9931/tsfile/live/1039_1.m3u8
 澳门莲花,https://tv.iill.top/mo/lhws
@@ -1519,6 +1529,7 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 公视新闻,http://livetv.skycf.eu.org/live.m3u8?c=8
+年代新闻,https://bsex.serv00.net/Smart.php?id=niandainews_twn
 年代新闻,http://extraott.com:80/live/7921751389/6097373662/5509.m3u8
 靖天国际,http://extraott.com:80/live/7921751389/6097373662/5519.m3u8
 大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
@@ -2297,6 +2308,7 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 广西都市,http://116.9.204.242:9901/tsfile/live/1002_1.m3u8
 广西综艺,http://116.9.204.242:9901/tsfile/live/0125_1.m3u8
 广西影视,http://116.9.204.242:9901/tsfile/live/0124_1.m3u8
+广西国际,https://mobilelive.gxtv.cn/live/nn_live1009/playlist.m3u8
 广西综艺,http://171.108.239.99:8181/tsfile/live/1000_1.m3u8
 广西影视,http://171.108.239.99:8181/tsfile/live/1097_1.m3u8
 广西都市,http://171.108.239.99:8181/tsfile/live/1106_1.m3u8
@@ -2712,6 +2724,7 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 辽阳新闻综合,http://120.76.248.139/live/bfgd/4200000280.m3u8
 盘锦新闻综合,http://120.76.248.139/live/bfgd/4200000283.m3u8
 营口新闻综合,http://120.76.248.139/live/bfgd/4200000278.m3u8
+辽宁公共,http://123.189.36.4:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁都市,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000610
 辽宁北方,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000071
 辽宁生活,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000073
