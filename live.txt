@@ -1413,8 +1413,8 @@ BRTV新闻,https://epg.pw/stream/80307082824983f38685364e741bd9738d2632ac1c9c0b2
 天津新闻,http://acc.tohsaka.cn:9999/rtp/225.1.1.130:5002
 天津都市,http://nas.hssvm.com:8888/udp/225.1.1.128:5002
 天津文艺,http://acc.tohsaka.cn:9999/rtp/225.1.1.131:5002
-天津文艺,http://121.199.57.64:8000/newbee?id=239.5.1.31:5000
-天津影视,http://acc.tohsaka.cn:9999/rtp/225.1.1.149:5002
+天津文艺,http://nas.hssvm.com:8888/udp/225.1.1.131:5002
+天津影视,http://nas.hssvm.com:8888/udp/225.1.1.149:5002
 天津体育,http://117.9.130.7:50000/udp/225.1.1.122:5002
 天津体育,http://acc.tohsaka.cn:9999/rtp/225.1.1.122:5002
 滨海新闻,http://traffic.jbh.tjbh.com/live/bhtv1/playlist.m3u8
