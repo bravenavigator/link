@@ -1503,8 +1503,8 @@ VIUTV,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
 东森LIVE,https://z02.ubtvfans.com/live/rx2/1358/7eb08c8701281a6117ea7b14e3e55ffc/index.m3u8
 东森MOMO,http://extraott.com:80/live/7921751389/6097373662/5510.m3u8
 东森电影,http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8
-寰宇财经,http://extraott.com:80/live/7921751389/6097373662/5525.m3u8
 寰宇新闻,http://extraott.com:80/live/7921751389/6097373662/5523.m3u8
+寰宇财经,http://extraott.com:80/live/7921751389/6097373662/5525.m3u8
 镜新闻,https://z02.ubtvfans.com/live/rx6/463/afaae728b5cba11234acb1b96059aedf/index.m3u8
 大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 民视HD,rtmp://f13h.mine.nu/sat/tv051
@@ -1523,6 +1523,7 @@ VIUTV,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
 三立新闻,https://z02.ubtvfans.com/live/rx6/320/fe69b133c10d8cf53971acc52a35ddff/index.m3u8
 三立都会,https://z02.ubtvfans.com/live/rx1/38/dbc9e71b82a92091ea990df3bd8d5b3a/index.m3u8
 三立台湾,http://extraott.com:80/live/7921751389/6097373662/5505.m3u8
+三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
 年代新闻,http://extraott.com:80/live/7921751389/6097373662/5509.m3u8
 年代新闻,https://bsex.serv00.net/Smart.php?id=niandainews_twn
 年代新闻,https://z02.ubtvfans.com/live/rx1/1099/4392a37019300b097bd520e9b64653d7/index.m3u8
@@ -1556,12 +1557,15 @@ MoMo综合,rtmp://f13h.mine.nu/sat/tv761
 SKYLINK TELEVISION 2,http://extraott.com:80/live/7921751389/6097373662/473535.m3u8
 SKYLINK TELEVISION,http://extraott.com:80/live/7921751389/6097373662/473536.m3u8
 爱尔达戏剧,http://extraott.com:80/live/7921751389/6097373662/5546.m3u8
+八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
+八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
 八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
 八大戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
 AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 番薯电视,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 番薯电视,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 番薯电视,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 龙华偶像,http://extraott.com:80/live/7921751389/6097373662/5518.m3u8
 GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 漫迪日本,http://extraott.com:80/live/7921751389/6097373662/5512.m3u8
