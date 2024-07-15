@@ -1109,7 +1109,7 @@ CGTN西语,http://203.88.42.189:55555/udp/239.11.0.105:1025
 CGTN俄语,http://203.88.42.189:55555/udp/239.11.0.108:1025
 CGTN英语,http://120.234.49.38:7000/udp/239.21.0.109:3776
 CGTN英语,http://cdn.jdshipin.com:8880/ysp.php?id=cgtn
-CGTN记录,http://cdn.jdshipin.com:8880/ysp.php?id=cgtnjl
+CGTN纪录,http://cdn.jdshipin.com:8880/ysp.php?id=cgtnjl
 CGTN西语,http://cdn.jdshipin.com:8880/ysp.php?id=cgtne
 CGTN法语,http://cdn.jdshipin.com:8880/ysp.php?id=cgtnf
 CGTN阿语,http://cdn.jdshipin.com:8880/ysp.php?id=cgtna
@@ -1466,8 +1466,8 @@ TVB财经,http://php.jdshipin.com:8880/smt.php?id=tvbcaijing_twn
 TVB财经,http://live.cooltv.top/tv/tvb.php?id=2
 TVB娱乐,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
-TVB星河,http://1b6467f415.iok.la:9931/tsfile/live/1008_1.m3u8
 TVB星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+TVB星河,http://1b6467f415.iok.la:9931/tsfile/live/1008_1.m3u8
 TVB功夫,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 TVB明珠,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
 TVB明珠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=mzt
@@ -1539,7 +1539,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 华语电视,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
 纬来综合,http://extraott.com:80/live/7921751389/6097373662/5490.m3u8
 纬来电视·,http://extraott.com:80/live/7921751389/6097373662/5491.m3u8
-纬来精彩,http://extraott.com:80/live/7921751389/6097373662/5494.m3u8
+纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
 纬来日本,http://extraott.com:80/live/7921751389/6097373662/5495.m3u8
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
 纬来体育,http://extraott.com:80/live/7921751389/6097373662/5492.m3u8
@@ -1556,6 +1556,9 @@ MoMo综合,rtmp://f13h.mine.nu/sat/tv761
 SKYLINK TELEVISION 2,http://extraott.com:80/live/7921751389/6097373662/473535.m3u8
 SKYLINK TELEVISION,http://extraott.com:80/live/7921751389/6097373662/473536.m3u8
 爱尔达戏剧,http://extraott.com:80/live/7921751389/6097373662/5546.m3u8
+八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
+八大戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
+AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 番薯电视,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 番薯电视,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 番薯电视,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
