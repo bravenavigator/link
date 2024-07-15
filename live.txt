@@ -1685,32 +1685,14 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 淮安金湖新闻综合,http://jinhutvhls.cm.jstv.com/jinhutv/jinhuzh.m3u8
 江阴新闻综合,http://221.228.70.101:8080/live/xinwen.m3u8
 📺　浙江,#genre#
-浙江新闻,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-浙江影视娱乐,http://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
-浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-浙江新闻,http://aliml.cztv.com/channels/lantian/channel007/1080p.m3u8
-浙江新闻,https://aliml.cztv.com/channels/lantian/channel007/1080p.m3u8
-浙江经济生活,http://aliml.cztv.com/channels/lantian/channel003/1080p.m3u8
-浙江经济生活,https://aliml.cztv.com/channels/lantian/channel003/1080p.m3u8
-浙江民生,http://aliml.cztv.com/channels/lantian/channel006/1080p.m3u8
-浙江民生,https://aliml.cztv.com/channels/lantian/channel006/1080p.m3u8
-浙江教育科技,http://aliml.cztv.com/channels/lantian/channel004/1080p.m3u8
-浙江教育科技,https://aliml.cztv.com/channels/lantian/channel004/1080p.m3u8
-浙江少儿,http://aliml.cztv.com/channels/lantian/channel008/1080p.m3u8
-浙江少儿,https://aliml.cztv.com/channels/lantian/channel008/1080p.m3u8
-浙江国际,http://aliml.cztv.com/channels/lantian/channel010/1080p.m3u8
-浙江国际,https://aliml.cztv.com/channels/lantian/channel010/1080p.m3u8
-钱江频道,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-钱江频道,http://aliml.cztv.com/channels/lantian/channel002/1080p.m3u8
-钱江频道,https://aliml.cztv.com/channels/lantian/channel002/1080p.m3u8
-之江记录,https://aliml.cztv.com/channels/lantian/channel012/1080p.m3u8
-之江记录,http://aliml.cztv.com/channels/lantian/channel012/1080p.m3u8
-浙江新闻,http://60.12.183.46:9901/tsfile/live/1000_1.m3u8
-浙江少儿,http://60.12.183.46:9901/tsfile/live/1007_1.m3u8
-经济生活,http://60.12.183.46:9901/tsfile/live/0117_1.m3u8
-浙江教育科技,http://60.12.183.46:9901/tsfile/live/0115_1.m3u8
-钱江频道,http://60.12.183.46:9901/tsfile/live/0132_1.m3u8
+浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+浙江经济生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江教科影视,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+钱江频道,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 杭州综合,http://124.90.208.196:9901/tsfile/live/0121_1.m3u8
 杭州明珠,http://124.90.208.196:9901/tsfile/live/0116_1.m3u8
 杭州影视,http://124.90.208.196:9901/tsfile/live/0124_2.m3u8
@@ -2735,6 +2717,7 @@ CHC影迷电影,http://hy.baojihzjc.com:9001/rtp/239.112.205.206:5140
 美国CNN News,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
 美国CNN News,https://rakutencnninternational1de.lg.wurl.tv/playlist.m3u8
 美国CNN News,https://epg.pw/stream/bf9c7383dcea9ef705a2779742a6a1b2aae2ff582e0103bd2a7ecfba56f12c5d.m3u8
+美国CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 美国CBN News,https://bcovlivea.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/useast1/734546207001/playlist.m3u8
 美国ABC News,https://abciviewmediapackagestreams2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
 美国ABC News,http://41.205.93.154/ABC/index.m3u8
@@ -2749,6 +2732,7 @@ CHC影迷电影,http://hy.baojihzjc.com:9001/rtp/239.112.205.206:5140
 英国Sky News,https://skynewsaulive.akamaized.net/hls/live/2002690/skynewsauextra2/master.m3u8
 英国Reuters TV,https://reutersreutersnow1us.plex.wurl.tv/c0c0829237382f291cc46a0368586aa7.m3u8
 卡塔尔AL Jazeera,https://livehlswebaje.getaj.net/AJE/01.m3u8
+卡塔尔AL Jazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 卡塔尔AL Jazeera,http://livehlswebaje.getaj.net/AJE/01.m3u8
 卡塔尔AL Jazeera,https://livehlsv3aje.getaj.net/AJEV3/index.m3u8
 卡塔尔AL Jazeera,https://epg.pw/stream/b7ed4a30861d17378eae7b5b2ba31e8d12f8d6679a4e66cd8425dda5f6eff50a.m3u8
