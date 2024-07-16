@@ -1343,6 +1343,7 @@ CCTV高尔夫网球,http://120.234.49.38:7000/udp/239.21.0.72:3628
 内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/720p.m3u8
 新疆卫视,http://cdn.jdshipin.com:8880/ysp.php?id=xjws
+
 云南卫视,https://epg.pw/stream/b0c9d738954f837090f9545d6ff5942a58cd00c65770ba2c94ad2db8597d9da9.m3u8
 河北卫视,https://epg.pw/stream/ae75031b916d67ed14f35c4dc7bf3e1a374102ce26b27df9bc7e3497e745f426.m3u8
 兵团卫视,https://epg.pw/stream/d84efa5eb598b5211d873bf4c345d5e25800edcf2b6cea4cc78e5c909b15b625.m3u8
@@ -2876,7 +2877,6 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 鄂尔多斯伊金霍洛综合,https://cmsplay.yjhlnews.cn/live/vedio.m3u8
 鄂尔多斯鄂托克综合,http://110.19.181.138:10080/hls/F509Rh7GR/F509Rh7GR_live.m3u8
 鄂尔多斯鄂托克综合,http://live.zcznbj.cn/hls/F509Rh7GR/F509Rh7GR_live.m3u8
-鄂托克旗电视台,http://110.19.181.138:10080/hls/F509Rh7GR/F509Rh7GR_live.m3u8
 乌兰察布新闻综合,https://pluslive.wrBRTV.cn/xwzhpd/sd/live.m3u8
 乌兰察布经济生活,https://pluslive.wrBRTV.cn/jjshpd/sd/live.m3u8
 乌海新闻综合,http://live.wuhainews.org.cn/xwzh/playlist.m3u8
@@ -2979,6 +2979,7 @@ CHC影迷电影,http://hy.baojihzjc.com:9001/rtp/239.112.205.206:5140
 欧洲华文2台,http://vvlive.eztv.vip/huawen2/huawen2.m3u8?auth_key=166141893600bc9f000c6daa2def0b71d5389778b0d3
 欧洲华文6台,http://vvlive.eztv.vip/huawen6/huawen6.m3u8?auth_key=1660814676004d45d97f017e545dd368719f8dd48ffe
 金砖中文,http://brics.bonustv.ru/cdn/brics/chinese/tracksv1a1/index.m3u8
+美国Fox News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 美国Fox News,https://foxfoxnewsnowsamsungus.amagi.tv/playlist.m3u8
 美国Fox News,https://foxfoxnewsnowsamsungus.amagi.tv/playlist720p.m3u8
 美国Fox News,http://foxfoxnewsnowsamsungus.amagi.tv/playlist.m3u8
@@ -2988,6 +2989,7 @@ CHC影迷电影,http://hy.baojihzjc.com:9001/rtp/239.112.205.206:5140
 美国CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 美国CBN News,https://bcovlivea.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/useast1/734546207001/playlist.m3u8
 美国ABC News,https://abciviewmediapackagestreams2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
+美国ABC News,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
 美国ABC News,http://41.205.93.154/ABC/index.m3u8
 美国NBC News,http://41.205.93.154/NBC/index.m3u8
 美国Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
