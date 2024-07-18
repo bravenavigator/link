@@ -1534,7 +1534,7 @@ BRTV新闻,https://epg.pw/stream/80307082824983f38685364e741bd9738d2632ac1c9c0b2
 都市剧场,http://113.9.152.139:88/hls/125/index.m3u8
 欢笑剧场,http://183.237.246.14:9931/tsfile/live/1106_1.m3u8
 欢笑剧场,http://hy.baojihzjc.com:9001/rtp/239.112.205.236:5140
-欢乐剧场,http://113.9.152.139:88/hls/111/index.m3u8
+欢笑剧场,http://113.9.152.139:88/hls/111/index.m3u8
 新视觉,http://183.237.246.14:9931/tsfile/live/1105_1.m3u8
 新视觉,http://1b6467f415.iok.la:9931/tsfile/live/1105_1.m3u8
 五星体育,http://58.37.189.47:8088/udp/239.45.3.210:5140
