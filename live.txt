@@ -390,6 +390,8 @@ CCTV风云足球,http://183.11.239.36:808/hls/133/index.m3u8
 CCTV高尔夫网球,http://183.11.239.36:808/hls/174/index.m3u8
 CCTV央视台球,http://183.11.239.36:808/hls/73/index.m3u8
 CCTV电视指南,http://183.11.239.36:808/hls/13/index.m3u8
+CCTV世界地理,http://113.9.152.139:88/hls/118/index.m3u8
+CCTV风云足球,http://113.9.152.139:88/hls/156/index.m3u8
 CCTV4中文国际,http://124.128.73.58:9901/tsfile/live/0004_1.m3u8
 CCTV7国防军事,http://124.128.73.58:9901/tsfile/live/0007_1.m3u8
 CCTV10科教,http://124.128.73.58:9901/tsfile/live/0010_1.m3u8
@@ -1652,6 +1654,7 @@ BRTV新闻,https://epg.pw/stream/80307082824983f38685364e741bd9738d2632ac1c9c0b2
 新闻综合,http://210.22.75.86:9901/tsfile/live/0107_4.m3u8?key=txiptv&playlive=1&authid=0
 都市频道,http://58.37.189.47:8088/udp/239.45.3.236:5140
 东方财经,http://gzly.hkychina.com:6001/udp/239.252.219.57:5140
+东方财经,http://113.9.152.139:88/hls/84/index.m3u8
 第一财经,http://58.37.189.47:8088/udp/239.45.3.211:5140
 点掌财经,https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
 点掌财经,https://epg.pw/stream/a438b7c61aa6f89a563fdfc6728289c739620c234c00a7f2cb2f0b1355a926ed.m3u8
@@ -1661,13 +1664,17 @@ BRTV新闻,https://epg.pw/stream/80307082824983f38685364e741bd9738d2632ac1c9c0b2
 上海外语,http://58.37.189.47:8088/udp/239.45.1.127:5140
 纪实频道,http://210.22.75.86:9901/tsfile/live/0107_3.m3u8?key=txiptv&playlive=1&authid=0
 乐游频道,http://124.128.73.58:9901/tsfile/live/1006_1.m3u8
+乐游频道,http://113.9.152.139:88/hls/114/index.m3u8
 都市剧场,http://183.237.246.14:9931/tsfile/live/1107_1.m3u8
+都市剧场,http://113.9.152.139:88/hls/125/index.m3u8
 欢笑剧场,http://183.237.246.14:9931/tsfile/live/1106_1.m3u8
 欢笑剧场,http://hy.baojihzjc.com:9001/rtp/239.112.205.236:5140
+欢乐剧场,http://113.9.152.139:88/hls/111/index.m3u8
 新视觉,http://183.237.246.14:9931/tsfile/live/1105_1.m3u8
 新视觉,http://1b6467f415.iok.la:9931/tsfile/live/1105_1.m3u8
 五星体育,http://58.37.189.47:8088/udp/239.45.3.210:5140
 五星体育,http://210.22.75.86:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+精彩体育,http://113.9.152.139:88/hls/304/index.m3u8
 哈哈炫动,http://58.37.189.47:8088/udp/239.45.1.55:5140
 📺　天津,#genre#
 天津新闻,http://acc.tohsaka.cn:9999/rtp/225.1.1.130:5002
@@ -2387,6 +2394,7 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 📺　贵州,#genre#
 天元围棋,http://110.52.99.109:9901/tsfile/live/1041_1.m3u8
 天元围棋,http://120.76.248.139/live/bfgd/4200000633.m3u8
+天元围棋,http://113.9.152.139:88/hls/128/index.m3u8
 安顺新闻综合,http://hplayer1.juyun.tv/camera/133635181.m3u8
 安顺公共,http://hplayer1.juyun.tv/camera/116587130.m3u8
 铜仁松桃新闻,http://live.strmtzx.cn/stxw/sd/live.m3u8
@@ -2839,6 +2847,7 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 黑龙江新闻法治,https://idclive.hljtv.com:4430/live/hljxw_hd.m3u8
 黑龙江都市,https://idclive.hljtv.com:4430/live/dushi_hd.m3u8
 黑龙江公共农业,https://idclive.hljtv.com:4430/live/hljgg_hd.m3u8
+黑龙江影视,http://113.9.152.139:88/hls/24/index.m3u8
 黑龙江影视,https://idclive.hljtv.com:4430/live/hljys_hd.m3u8
 黑龙江文体,https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
 📺　吉林,#genre#
