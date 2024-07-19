@@ -23,6 +23,7 @@ CCTV4K高清,http://127.0.0.1
 CCTV重温经典,http://127.0.0.1
 CCTV兵器科技,http://127.0.0.1
 CCTV世界地理,http://127.0.0.1
+CCTV卫生健康,http://127.0.0.1
 CCTV文化精品,http://127.0.0.1
 CCTV女性时尚,http://127.0.0.1
 CCTV第一剧场,http://127.0.0.1
