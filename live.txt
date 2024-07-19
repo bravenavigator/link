@@ -2263,8 +2263,10 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 南宁老友live,https://hls.nntv.cn/nnlive/LYL1_24.m3u8
 南宁隆安综合,https://hls.nntv.cn/nnlive/LATV_24.m3u8
 南宁宾阳综合,https://live.gxrb.com.cn/gx/binyang/index.m3u8
+南宁宾阳综合,https://rtmp.gdlive.gdmain.com:443/live/lgmzjyml.m3u8
 桂林新闻综合,https://pull.gltvs.com/live/glxw/playlist.m3u8?v=b0528684bf934e120e1c30fc808e6576&t=1796868188
 桂林新闻综合,https://pull.gltvs.com:443/live/glxw/playlist.m3u8?v=b0528684bf934e120e1c30fc808e6576&t=1796868188
+桂林资源综合,https://rtmp.gdlive.gdmain.com:443/live/5z4yjgm0.m3u8
 北海新闻综合,https://live.gxrb.com.cn/gx/beihai/index.m3u8
 北海新闻综合,http://rtmp.gdlive.gdmain.com/live/09em4xbl.m3u8
 北海新闻综合,http://rtmp.gdlive.gdmain.com/live/09em4xbl.flv
@@ -2272,7 +2274,9 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 梧州公共,http://live.wzrtv.cn:80/ggpd1/sd/live.m3u8
 梧州教育生活,http://live.wzrtv.cn:80/jysh1/sd/live.m3u8
 贺州综合,http://zhz.gxhzxw.com:2935/live/HZXWHD/playlist.m3u8
-河池罗城综合,http://111.12.75.177:9100/lctvlive/lch.m3u8?zguangxd
+河池罗城综合,http://111.12.75.177:9100/lctvlive/lch.m3u8
+河池罗城综合,http://www.3jlc.cn:80/lctvlive/lcm.m3u8
+河池东兰综合,https://rtmp.gdlive.gdmain.com:443/live/09aony85.m3u8
 崇左天等综合,https://live.gxrb.com.cn/gx/tiandeng/index.m3u8
 📺　海南,#genre#
 海南自贸,https://live3.hnntv.cn/srs/tv/jjpd.m3u8
