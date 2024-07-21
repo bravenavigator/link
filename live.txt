@@ -1654,7 +1654,6 @@ myTV SUPER 直播足球6台,https://mytv.btjson.us.kg/stream/tvb/mytvsuper6/mast
 中天新闻,https://lzoq.serv00.net/daili/Smartv.php?id=ctinews
 中天新闻,https://lzo.us.kg/daili/Smartv.php?id=ctinews
 中天新闻,http://xyt.186738613.xyz/Smartv.php?id=ctinews
-中天新闻,https://lzoq.serv00.net/daili/Smartv.php?id=ctinews
 中天亚洲,http://extraott.com:80/live/7921751389/6097373662/5555.m3u8
 中视HD,rtmp://f13h.mine.nu/sat/tv091
 东森新闻,https://z02.ubtvfans.com/live/rx1/2766/11a206130aa9aeef32670d759dca953d/index.m3u8
@@ -1665,10 +1664,15 @@ myTV SUPER 直播足球6台,https://mytv.btjson.us.kg/stream/tvb/mytvsuper6/mast
 东森MOMO,http://extraott.com:80/live/7921751389/6097373662/5510.m3u8
 东森电影,http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8
 TAIWAN Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-寰宇新闻,http://extraott.com:80/live/7921751389/6097373662/5523.m3u8
-寰宇财经,http://extraott.com:80/live/7921751389/6097373662/5525.m3u8
 镜新闻,https://z02.ubtvfans.com/live/rx6/463/afaae728b5cba11234acb1b96059aedf/index.m3u8
 大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+TVBS新闻,https://mytv.btjson.us.kg/stream/tvb/null-22/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
+TVBS新闻,http://extraott.com:80/live/7921751389/6097373662/5499.m3u8
+TVBS亚洲,https://mytv.btjson.us.kg/stream/tvb/null-14/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 民视HD,rtmp://f13h.mine.nu/sat/tv051
 民视第一台,https://z02.ubtvfans.com/live/rx1/34/d6fc071b304e36d2997065d5c2545774/index.m3u8
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
@@ -1691,15 +1695,10 @@ TAIWAN Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap
 年代新闻,https://z02.ubtvfans.com/live/rx1/1099/4392a37019300b097bd520e9b64653d7/index.m3u8
 年代新闻,https://z02.ubtvfans.com/live/rx1/2719/e6c557b196839b722c4e29b89f91f5cd/index.m3u8
 年代新闻,https://z02.ubtvfans.com/live/rx2/1359/6e0559f331258fcf623b86a7ceb6de18/index.m3u8
-TVBS新闻,https://mytv.btjson.us.kg/stream/tvb/null-22/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
-TVBS新闻,http://extraott.com:80/live/7921751389/6097373662/5499.m3u8
-TVBS亚洲,https://mytv.btjson.us.kg/stream/tvb/null-14/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 壹电视新闻,http://extraott.com:80/live/7921751389/6097373662/5532.m3u8
 壹电视旅游,http://extraott.com:80/live/7921751389/6097373662/5533.m3u8
+寰宇新闻,http://extraott.com:80/live/7921751389/6097373662/5523.m3u8
+寰宇财经,http://extraott.com:80/live/7921751389/6097373662/5525.m3u8
 华视HD,rtmp://f13h.mine.nu/sat/tv111
 华语电视,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
 纬来综合,http://extraott.com:80/live/7921751389/6097373662/5490.m3u8
