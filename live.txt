@@ -343,6 +343,10 @@ CCTV央视台球,http://183.11.239.36:808/hls/73/index.m3u8
 CCTV电视指南,http://183.11.239.36:808/hls/13/index.m3u8
 CCTV世界地理,http://113.9.152.139:88/hls/118/index.m3u8
 CCTV风云足球,http://113.9.152.139:88/hls/156/index.m3u8
+CCTV央视台球,http://113.9.152.139:88/hls/158/index.m3u8
+CCTV风云音乐,http://113.9.152.139:88/hls/113/index.m3u8
+CCTV文化精品,http://113.9.152.139:88/hls/161/index.m3u8
+CCTV电视指南,http://113.9.152.139:88/hls/163/index.m3u8
 CCTV4中文国际,http://124.128.73.58:9901/tsfile/live/0004_1.m3u8
 CCTV7国防军事,http://124.128.73.58:9901/tsfile/live/0007_1.m3u8
 CCTV10科教,http://124.128.73.58:9901/tsfile/live/0010_1.m3u8
@@ -526,6 +530,7 @@ CCTV15音乐,http://111.14.181.15:9901/tsfile/live/0015_1.m3u8?key=txiptv&playli
 中国教育4,http://183.11.239.36:808/hls/79/index.m3u8
 中国交通,http://183.11.239.36:808/hls/172/index.m3u8
 中国交通,http://120.234.49.38:7000/udp/239.20.0.68:3128
+早期教育,http://113.9.152.139:88/hls/157/index.m3u8
 早期教育,http://gmxw.7766.org:808/hls/100/index.m3u8
 早期教育,http://58.248.112.203:8006/GD_CUCC/G_CETV-ZQJY-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBZgEcPJzku%2FK%2BhOejG8m3LLDzTKwBfpzpjpJgpyYO6Z%2F
 中国教育1,http://gmxw.7766.org:808/hls/122/index.m3u8
@@ -2209,6 +2214,7 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 玉溪新平综合,http://livebroadcast.ccwb.cn/live/w1615257519790969.m3u8
 德宏公共,https://aliplay.lezhibo.com/lezhibo/e6a8b2ecf53b4ea4b0aef1e91d20cd51.m3u8
 📺　贵州,#genre#
+天元围棋,http://113.9.152.139:88/hls/128/index.m3u8
 天元围棋,http://110.52.99.109:9901/tsfile/live/1041_1.m3u8
 天元围棋,http://120.76.248.139/live/bfgd/4200000633.m3u8
 天元围棋,http://113.9.152.139:88/hls/128/index.m3u8
