@@ -1726,6 +1726,7 @@ SKYLINK TELEVISION,http://extraott.com:80/live/7921751389/6097373662/473536.m3u8
 八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
 八大戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
 AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
+星影台，http://tv.517300.xyz:8080/stream/tvb/null-1/master.m3u8?u=tvbaby&p=f1abe1b083d12d181ae136cfc75b8d18a8ecb43ac4e9d1a36d6a9c75b6016b61
 番薯电视,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 番薯电视,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 番薯电视,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
