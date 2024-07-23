@@ -1777,6 +1777,11 @@ TAIWAN Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap
 GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 漫迪日本,http://extraott.com:80/live/7921751389/6097373662/5512.m3u8
 📺　江苏,#genre#
+江苏城市,http://ipv4.sunjianwu.fun:8800/udp/239.49.8.107:8000
+江苏综艺,http://ipv4.sunjianwu.fun:8800/udp/239.49.8.108:8000
+江苏影视,http://ipv4.sunjianwu.fun:8800/udp/239.49.8.118:8000
+江苏体育,http://ipv4.sunjianwu.fun:8800/udp/239.49.8.117:8000
+江苏教育,http://ipv4.sunjianwu.fun:8800/udp/239.49.8.122:8000
 江苏城市,https://025365.xyz:8082/jstv.php?id=jscs
 江苏城市,http://58.220.219.14:9901/tsfile/live/0120_3.m3u8
 江苏综艺,https://025365.xyz:8082/jstv.php?id=jszy
