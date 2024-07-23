@@ -1687,8 +1687,8 @@ myTV SUPER 直播足球4台,https://mytv.btjson.us.kg/stream/tvb/mytvsuper4/mast
 myTV SUPER 直播足球5台,https://mytv.btjson.us.kg/stream/tvb/mytvsuper5/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 myTV SUPER 直播足球6台,https://mytv.btjson.us.kg/stream/tvb/mytvsuper6/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 ✨　台湾,#genre#
-中天新闻,http://aa3.kkwk111.top/Smartv.php?id=ctinews
 中天新闻,https://lzoq.serv00.net/daili/Smartv.php?id=ctinews
+中天新闻,http://aa3.kkwk111.top/Smartv.php?id=ctinews
 中天新闻,https://lzo.us.kg/daili/Smartv.php?id=ctinews
 中天新闻,http://xyt.186738613.xyz/Smartv.php?id=ctinews
 中天亚洲,http://extraott.com:80/live/7921751389/6097373662/5555.m3u8
