@@ -1479,12 +1479,12 @@ Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3ed4c4f478482956
 📺　北京,#genre#
 BRTV新闻,http://111.196.131.234:8012/rtp/239.3.1.159:8000
 BRTV财经,http://111.196.131.234:8012/rtp/239.3.1.116:8000
-BRTV生活,http://111.196.131.234:8012/rtp/239.3.1.117:8000
+BRTV生活,http://qnap.yjnhome.com:4000/udp/239.3.1.117:8000
 BRTV文艺,http://111.196.131.234:8012/rtp/239.3.1.242:8000
-BRTV影视,http://111.196.131.234:8012/rtp/239.3.1.158:8000
+BRTV影视,http://qnap.yjnhome.com:4000/udp/239.3.1.250:8001
 BRTV体育休闲,http://111.196.131.234:8012/rtp/239.3.1.243:8000
 BRTV国际频道,http://111.196.131.234:8012/rtp/239.3.1.235:8000
-BRTV纪实科教,http://111.196.131.234:8012/rtp/239.3.1.115:8000
+BRTV纪实科教,http://victoryblackcat.dscloud.me:8888/rtp/239.253.93.190:6358
 BRTV纪实科教,http://121.27.126.103:809/hls/61/index.m3u8
 BRTV纪实科教,http://111.11.98.205:9900/hls/66/index.m3u8
 BRTV纪实科教8K,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
@@ -1512,8 +1512,6 @@ BRTV纪实科教,http://1.203.76.124:7788/udp/225.1.8.105:8002
 BRTV卡酷少儿,http://1.203.76.124:7788/udp/225.1.8.35:8000
 BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
 BRTV新闻,https://live.funhillrm.com/5/sd/live.m3u8
-BRTV生活,http://qnap.yjnhome.com:4000/udp/239.3.1.117:8000
-BRTV影视,http://qnap.yjnhome.com:4000/udp/239.3.1.250:8001
 BRTV纪实科教,http://php.jdshipin.com:8880/bst.php?id=bjjskj
 BRTV卡酷少儿,http://php.jdshipin.com:8880/bst.php?id=kkse
 BRTV卡酷少儿,https://cdn2.jdshipin.com/api/bst2.php?id=kkse8m/8000000
@@ -1581,6 +1579,8 @@ BRTV纪实科教,https://cdn2.jdshipin.com/api/bst2.php?id=dajs8m/8000000
 东方影视,http://210.22.75.86:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 上海娱乐,http://210.22.75.86:9901/tsfile/live/0107_5.m3u8?key=txiptv&playlive=1&authid=0
 上海外语,http://58.37.189.47:8088/udp/239.45.1.127:5140
+法治天地,http://victoryblackcat.dscloud.me:8888/rtp/239.253.93.241:6419
+生活时尚,http://victoryblackcat.dscloud.me:8888/rtp/239.253.93.226:6404
 纪实频道,http://210.22.75.86:9901/tsfile/live/0107_3.m3u8?key=txiptv&playlive=1&authid=0
 乐游频道,http://124.128.73.58:9901/tsfile/live/1006_1.m3u8
 乐游频道,http://113.9.152.139:88/hls/114/index.m3u8
@@ -1698,11 +1698,8 @@ myTV SUPER 直播足球6台,https://mytv.btjson.us.kg/stream/tvb/mytvsuper6/mast
 中天新闻,http://xyt.186738613.xyz/Smartv.php?id=ctinews
 中天亚洲,http://extraott.com:80/live/7921751389/6097373662/5555.m3u8
 中视HD,rtmp://f13h.mine.nu/sat/tv091
-东森新闻,https://z02.ubtvfans.com/live/rx1/2766/11a206130aa9aeef32670d759dca953d/index.m3u8
 东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-东森超视,https://z02.ubtvfans.com/live/rx1/80/1b79a8a00f6ef2e6e5f73f98084d4d02/index.m3u8
 东森超视,rtmp://f13h.mine.nu/sat/tv331
-东森LIVE,https://z02.ubtvfans.com/live/rx2/1358/7eb08c8701281a6117ea7b14e3e55ffc/index.m3u8
 东森MOMO,http://extraott.com:80/live/7921751389/6097373662/5510.m3u8
 东森电影,http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8
 TVBS新闻,https://mytv.btjson.us.kg/stream/tvb/null-22/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
@@ -1716,7 +1713,6 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-民视第一台,https://z02.ubtvfans.com/live/rx1/34/d6fc071b304e36d2997065d5c2545774/index.m3u8
 台视HD,rtmp://f13h.mine.nu/sat/tv071
 台视综合,http://extraott.com:80/live/7921751389/6097373662/5500.m3u8
 台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
@@ -1724,17 +1720,10 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 台视台湾,http://extraott.com:80/live/7921751389/6097373662/5502.m3u8
 三立综合,http://extraott.com:80/live/7921751389/6097373662/5503.m3u8
-三立新闻,https://z02.ubtvfans.com/live/rx2/43/a2a42f6d385474b87e182c306a9c370d/index.m3u8
-三立新闻,https://z02.ubtvfans.com/live/rx6/320/fe69b133c10d8cf53971acc52a35ddff/index.m3u8
-三立都会,https://z02.ubtvfans.com/live/rx1/38/dbc9e71b82a92091ea990df3bd8d5b3a/index.m3u8
 三立台湾,http://extraott.com:80/live/7921751389/6097373662/5505.m3u8
 三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
 年代新闻,http://extraott.com:80/live/7921751389/6097373662/5509.m3u8
 年代新闻,https://bsex.serv00.net/Smart.php?id=niandainews_twn
-年代新闻,https://z02.ubtvfans.com/live/rx1/1099/4392a37019300b097bd520e9b64653d7/index.m3u8
-年代新闻,https://z02.ubtvfans.com/live/rx1/2719/e6c557b196839b722c4e29b89f91f5cd/index.m3u8
-年代新闻,https://z02.ubtvfans.com/live/rx2/1359/6e0559f331258fcf623b86a7ceb6de18/index.m3u8
-镜新闻,https://z02.ubtvfans.com/live/rx6/463/afaae728b5cba11234acb1b96059aedf/index.m3u8
 大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 壹电视新闻,http://extraott.com:80/live/7921751389/6097373662/5532.m3u8
 壹电视旅游,http://extraott.com:80/live/7921751389/6097373662/5533.m3u8
@@ -1769,6 +1758,7 @@ AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 龙华偶像,http://extraott.com:80/live/7921751389/6097373662/5518.m3u8
 TAIWAN Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 博斯高球1台,http://extraott.com:80/live/7921751389/6097373662/5560.m3u8
 博斯高球2台,http://extraott.com:80/live/7921751389/6097373662/5559.m3u8
 博斯体育1台,http://extraott.com:80/live/7921751389/6097373662/5558.m3u8
@@ -2289,6 +2279,7 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 安顺公共,http://hplayer1.juyun.tv/camera/116587130.m3u8
 铜仁松桃新闻,http://live.strmtzx.cn/stxw/sd/live.m3u8
 黔南综合,rtmp://tv.qntv.net/channellive/ch1?zguizd
+毕节七星关综合,https://p8.vzan.com:443/slowlive/147077707554082780/live.m3u8
 📺　广西,#genre#
 广西新闻,http://116.9.204.242:9901/tsfile/live/1001_1.m3u8
 广西都市,http://116.9.204.242:9901/tsfile/live/1002_1.m3u8
@@ -2565,14 +2556,13 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 曲艺大观,http://hy.baojihzjc.com:9001/rtp/239.111.205.31:5140
 体育休闲,http://hy.baojihzjc.com:9001/rtp/239.111.205.36:5140
 体育休闲,http://1.82.144.16:4022/rtp/239.111.205.36:5140
+西安新闻综合,https://xatv-yd1.xiancity.cn/live/1/index.m3u8
+西安都市,https://xatv-yd1.xiancity.cn/live/2/index.m3u8
+西安商务资讯,https://xatv-yd1.xiancity.cn/live/3/index.m3u8
+西安戏剧影视,https://xatv-yd1.xiancity.cn/live/4/index.m3u8
+西安丝路,https://xatv-yd1.xiancity.cn/live/5/index.m3u8
 西安新闻综合,http://183.204.13.237/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225668/index.m3u8
-西安新闻综合,https://xatvyd1.xiancity.cn/live/1/index.m3u8
 西安新闻综合,https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225668/index.m3u8
-西安都市,https://xatvyd1.xiancity.cn/live/2/index.m3u8
-西安商务资讯,https://xatvyd1.xiancity.cn/live/3/index.m3u8
-西安影视,https://xatvyd1.xiancity.cn/live/4/index.m3u8
-西安丝路,https://xatvyd1.xiancity.cn/live/5/index.m3u8
-西安移动电视,https://xatvyd1.xiancity.cn/live/7/index.m3u8
 延安综合,http://lives.cloud.yanews.cn/video/s10001YATV1/index.m3u8
 延安公共,http://lives.cloud.yanews.cn/video/s10001YATV2/index.m3u8
 延安宝塔电视台,https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225885/index.m3u8
@@ -2679,6 +2669,8 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 📺　青海,#genre#
 青海经视,http://stream.qhbtv.com/qhsh/sd/live.m3u8
 青海都市,http://stream.qhbtv.com/qhds/sd/live.m3u8
+青海经视,http://stream.qhbtv.com/qhsh/playlist.m3u8
+青海都市,http://stream.qhbtv.com/qhds/playlist.m3u8
 西宁新闻综合,https://liveout.xntv.tv/a65jur/96iln2.m3u8
 西宁生活服务,https://liveout.xntv.tv/a65jur/90p2i1.m3u8
 西宁湟中综合,http://livecdn.dmqhyadmin.com/hls/xjhuangzhong.m3u8
