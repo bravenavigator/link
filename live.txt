@@ -1345,16 +1345,13 @@ Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3ed4c4f478482956
 广东珠江,http://14.121.146.11:30001/udp/239.77.0.114:5146
 广东珠江,http://14.212.185.27:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
 广东珠江,http://120.238.84.44:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-广东珠江,http://58.252.12.164:8000/udp/239.77.0.1:5146
 广东体育,http://113.119.39.206:4433/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://116.21.121.116:4433/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://171.108.239.79:8181/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 广东民生,http://14.121.146.11:554/udp/239.77.0.225:5146
 广东民生,http://14.121.146.11:30001/udp/239.77.0.225:5146
-广东民生,http://58.252.12.164:8000/udp/239.77.0.225:5146
 广东少儿,http://14.121.146.11:554/udp/239.77.0.250:5146
 广东少儿,http://14.121.146.11:30001/udp/239.77.0.250:5146
-广东综艺,http://58.252.12.164:8000/rtp/239.77.0.245:5146
 广东影视,http://14.121.146.11:554/udp/239.77.0.217:5146
 广东影视,http://14.121.146.11:30001/udp/239.77.0.217:5146
 广东影视,http://171.108.239.80:8181/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -2340,6 +2337,10 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 梨园频道,http://222.223.118.222:2180/live/lypd/index.m3u8
 武术世界,http://live.dxhmt.cn:9080/live/yshnpre.m3u8
 武术世界,http://ddns.cyruslee.top:8888/udp/239.77.1.108:5146
+梨园频道,http://xuys.top:8888/udp/225.1.2.104:5002
+梨园频道,http://victoryblackcat.dscloud.me:8888/rtp/239.253.93.133:6441
+文物宝库,http://victoryblackcat.dscloud.me:8888/rtp/239.253.93.180:6437
+武术世界,http://victoryblackcat.dscloud.me:8888/rtp/239.253.93.46:6434
 郑州新闻综合,http://dp.sxtv.top:88/ljes/yfy.php?id=41112
 郑州教育,https://livezzutv.chinamcache.com/live/zb01.m3u8?auth_key=1677911572-0-0-f4af513ba8c09e7801f4700f1573be2c
 郑铁有线,http://39.162.27.11:8081/newlive/live/hls/1/live.m3u8
