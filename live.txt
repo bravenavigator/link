@@ -1361,6 +1361,7 @@ Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3ed4c4f478482956
 广东综艺,http://120.234.49.38:7000/udp/239.20.0.61:3156
 广东综艺,http://ddns.cyruslee.top:8888/udp/239.77.0.244:5146
 广东体育,http://203.88.42.189:55555/udp/239.10.0.47:1025
+广东体育,http://113.93.48.244:2000/udp/239.77.0.112:5146
 广东体育,http://14.212.185.27:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
 广东体育,http://gmxw.7766.org:808/hls/2/index.m3u8
 广东体育,http://218.13.170.98:9901/tsfile/live/0019_1.m3u8
