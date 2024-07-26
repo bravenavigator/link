@@ -2962,6 +2962,8 @@ CHC影迷电影,http://hy.baojihzjc.com:9001/rtp/239.112.205.206:5140
 ☀　海外,#genre#
 欧洲华文2台,http://vvlive.eztv.vip/hwetnew/hwetnew.m3u8?auth_key=1710810771-0-0-c5ce71079eaa4d245127b05375ae371f
 中国PopC,https://mytv.btjson.us.kg/stream/tvb/popc/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+中国CSPAN,https://sxg.btjson.us.kg/thetv/cspan
+中国CSPAN 2,https://sxg.btjson.us.kg/thetv/cspan-2
 美国Fox News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 美国Fox News,https://sxg.btjson.us.kg/thetv/fox-news-channel
 美国Fox Business,https://sxg.btjson.us.kg/thetv/fox-business-network
@@ -2970,21 +2972,34 @@ CHC影迷电影,http://hy.baojihzjc.com:9001/rtp/239.112.205.206:5140
 美国FOX Sports 2,https://sxg.btjson.us.kg/thetv/fox-sports-2
 美国CNN News,https://epg.pw/stream/bf9c7383dcea9ef705a2779742a6a1b2aae2ff582e0103bd2a7ecfba56f12c5d.m3u8
 美国CNN News,https://sxg.btjson.us.kg/thetv/cnn
+美国HLN,https://sxg.btjson.us.kg/thetv/hln
 美国ABC News,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
 美国ABC News,http://41.205.93.154/ABC/index.m3u8
 美国CNBC News,https://sxg.btjson.us.kg/thetv/cnbc
 美国Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 美国Bloomberg HT,https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
+美国Bloomberg HT,https://sxg.btjson.us.kg/thetv/boomerang
 美国YahooFinance,https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 美国ZooMoo,https://mytv.btjson.us.kg/stream/tvb/zoomoo/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 美国Nick Jr.,https://mytv.btjson.us.kg/stream/tvb/nickjr/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 美国Nickelodeon,https://mytv.btjson.us.kg/stream/tvb/nickelodeon/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+美国TeenNick,https://sxg.btjson.us.kg/thetv/teennick
+美国Cartoon Network,https://sxg.btjson.us.kg/thetv/cartoon-network
 美国AghapyKids,https://5b622f07944df.streamlock.net/aghapykids.tv/aghapykids2/playlist.m3u8
+美国Universal Kids,https://sxg.btjson.us.kg/thetv/universal-kids
 美国WildEarth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 美国ROCK Action,https://mytv.btjson.us.kg/stream/tvb/rockaction/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 美国ROCK,https://mytv.btjson.us.kg/stream/tvb/rock/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+美国DA&E,https://sxg.btjson.us.kg/thetv/ae
+美国DAMC,https://sxg.btjson.us.kg/thetv/amc
+美国DFYI,https://sxg.btjson.us.kg/thetv/fyi
+美国DBravo,https://sxg.btjson.us.kg/thetv/bravo
 美国HBO,http://41.205.93.154/HBO/index.m3u8
 美国HBO Comedy,https://sxg.btjson.us.kg/thetv/hbo-comedy-hd
+美国HBO East,https://sxg.btjson.us.kg/thetv/hbo-east
+美国HBO Signature,https://sxg.btjson.us.kg/thetv/hbo-signature
+美国HBO Zone HD,https://sxg.btjson.us.kg/thetv/hbo-zone-hd
+美国DAmerican Heroes Channel,https://sxg.btjson.us.kg/thetv/american-heroes-channel
 美国Global Trekker,https://mytv.btjson.us.kg/stream/tvb/globaltrekker/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 美国Discovery,https://sxg.btjson.us.kg/thetv/discovery
 美国Discovery Family Channel,https://sxg.btjson.us.kg/thetv/discovery-family-channel
@@ -2993,6 +3008,21 @@ CHC影迷电影,http://hy.baojihzjc.com:9001/rtp/239.112.205.206:5140
 美国Disney Channel (East),https://sxg.btjson.us.kg/thetv/disney-channel-east
 美国Disney Junior,https://sxg.btjson.us.kg/thetv/disney-junior
 美国Disney XD,https://sxg.btjson.us.kg/thetv/disney-xd
+美国Animal Planet,https://sxg.btjson.us.kg/thetv/animal-planet
+美国ACMT,https://sxg.btjson.us.kg/thetv/cmt
+美国Comedy Central,https://sxg.btjson.us.kg/thetv/comedy-central
+美国DDestination America,https://sxg.btjson.us.kg/thetv/destination-america
+美国Food Network,https://sxg.btjson.us.kg/thetv/food-network
+美国FX,https://sxg.btjson.us.kg/thetv/fx
+美国FX Movie,https://sxg.btjson.us.kg/thetv/fx-movie
+美国FXX,https://sxg.btjson.us.kg/thetv/fxx
+美国HGTV,https://sxg.btjson.us.kg/thetv/hgtv
+美国VICE,https://sxg.btjson.us.kg/thetv/vice
+美国ReelzChannel,https://sxg.btjson.us.kg/thetv/reelzchannel
+美国ESPN,https://sxg.btjson.us.kg/thetv/espn
+美国ESPN2,https://sxg.btjson.us.kg/thetv/espn2
+美国ESPNews,https://sxg.btjson.us.kg/thetv/espnews
+美国ESPNU,https://sxg.btjson.us.kg/thetv/espnu
 美国Tennis Channel,https://sxg.btjson.us.kg/beesport/Tennis_Channel_Live_TV
 美国Fight Network,https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 卡塔尔AL Jazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
@@ -3001,6 +3031,7 @@ CHC影迷电影,http://hy.baojihzjc.com:9001/rtp/239.112.205.206:5140
 俄罗斯Russia Today EN,https://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
 俄罗斯Russia Today FR,http://69.64.57.208:8080/rtfrance/playlist.m3u8
 英国RT français,http://69.64.57.208/rtfrance/playlist.m3u8
+英国BBC America,https://sxg.btjson.us.kg/thetv/bbc-america
 英国Love Nature,https://mytv.btjson.us.kg/stream/tvb/lovenaturehd/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 英国Sky Sports News,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2477/index.m3u8
 英国Sky Sports News,https://sxg.btjson.us.kg/beesport/Sky_Sports_News_Live_TV
