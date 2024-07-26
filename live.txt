@@ -3004,9 +3004,6 @@ CHC影迷电影,http://hy.baojihzjc.com:9001/rtp/239.112.205.206:5140
 美国Discovery Family Channel,https://sxg.btjson.us.kg/thetv/discovery-family-channel
 美国Discovery Life,https://sxg.btjson.us.kg/beesport/Discovery_Life_Live_TV
 美国Discovery Life,https://sxg.btjson.us.kg/thetv/discovery-life
-美国Disney Channel (East),https://sxg.btjson.us.kg/thetv/disney-channel-east
-美国Disney Junior,https://sxg.btjson.us.kg/thetv/disney-junior
-美国Disney XD,https://sxg.btjson.us.kg/thetv/disney-xd
 美国Animal Planet,https://sxg.btjson.us.kg/thetv/animal-planet
 美国ACMT,https://sxg.btjson.us.kg/thetv/cmt
 美国Comedy Central,https://sxg.btjson.us.kg/thetv/comedy-central
