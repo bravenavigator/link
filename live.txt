@@ -2993,9 +2993,9 @@ CHC影迷电影,http://hy.baojihzjc.com:9001/rtp/239.112.205.206:5140
 美国DAMC,https://sxg.btjson.us.kg/thetv/amc
 美国DFYI,https://sxg.btjson.us.kg/thetv/fyi
 美国DBravo,https://sxg.btjson.us.kg/thetv/bravo
-美国HBO,http://41.205.93.154/HBO/index.m3u8
 美国HBO Comedy,https://sxg.btjson.us.kg/thetv/hbo-comedy-hd
 美国HBO East,https://sxg.btjson.us.kg/thetv/hbo-east
+美国HBO East,http://41.205.93.154/HBO/index.m3u8
 美国HBO Signature,https://sxg.btjson.us.kg/thetv/hbo-signature
 美国HBO Zone HD,https://sxg.btjson.us.kg/thetv/hbo-zone-hd
 美国DAmerican Heroes Channel,https://sxg.btjson.us.kg/thetv/american-heroes-channel
