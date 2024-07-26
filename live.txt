@@ -2982,10 +2982,10 @@ CHC影迷电影,http://hy.baojihzjc.com:9001/rtp/239.112.205.206:5140
 美国Nick Jr.,https://mytv.btjson.us.kg/stream/tvb/nickjr/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 美国Nickelodeon,https://mytv.btjson.us.kg/stream/tvb/nickelodeon/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 美国TeenNick,https://sxg.btjson.us.kg/thetv/teennick
-美国TLC,https://sxg.btjson.us.kg/thetv/tlc
 美国Cartoon Network,https://sxg.btjson.us.kg/thetv/cartoon-network
 美国AghapyKids,https://5b622f07944df.streamlock.net/aghapykids.tv/aghapykids2/playlist.m3u8
 美国Universal Kids,https://sxg.btjson.us.kg/thetv/universal-kids
+美国TLC,https://sxg.btjson.us.kg/thetv/tlc
 美国WildEarth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 美国ROCK Action,https://mytv.btjson.us.kg/stream/tvb/rockaction/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 美国ROCK,https://mytv.btjson.us.kg/stream/tvb/rock/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
