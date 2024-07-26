@@ -2968,8 +2968,6 @@ CHC影迷电影,http://hy.baojihzjc.com:9001/rtp/239.112.205.206:5140
 美国Fox News,https://sxg.btjson.us.kg/thetv/fox-news-channel
 美国Fox Business,https://sxg.btjson.us.kg/thetv/fox-business-network
 美国Fox 5,https://lnc-wnyw.tubi.video/index.m3u8
-美国FOX Sports 1,https://sxg.btjson.us.kg/thetv/fox-sports-1
-美国FOX Sports 2,https://sxg.btjson.us.kg/thetv/fox-sports-2
 美国CNN News,https://epg.pw/stream/bf9c7383dcea9ef705a2779742a6a1b2aae2ff582e0103bd2a7ecfba56f12c5d.m3u8
 美国CNN News,https://sxg.btjson.us.kg/thetv/cnn
 美国HLN,https://sxg.btjson.us.kg/thetv/hln
@@ -3021,6 +3019,8 @@ CHC影迷电影,http://hy.baojihzjc.com:9001/rtp/239.112.205.206:5140
 美国HGTV,https://sxg.btjson.us.kg/thetv/hgtv
 美国VICE,https://sxg.btjson.us.kg/thetv/vice
 美国ReelzChannel,https://sxg.btjson.us.kg/thetv/reelzchannel
+美国FOX Sports 1,https://sxg.btjson.us.kg/thetv/fox-sports-1
+美国FOX Sports 2,https://sxg.btjson.us.kg/thetv/fox-sports-2
 美国ESPN,https://sxg.btjson.us.kg/thetv/espn
 美国ESPN2,https://sxg.btjson.us.kg/thetv/espn2
 美国ESPNews,https://sxg.btjson.us.kg/thetv/espnews
