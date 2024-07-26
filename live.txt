@@ -2988,10 +2988,12 @@ CHC影迷电影,http://hy.baojihzjc.com:9001/rtp/239.112.205.206:5140
 美国Global Trekker,https://mytv.btjson.us.kg/stream/tvb/globaltrekker/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 美国Discovery,https://sxg.btjson.us.kg/thetv/discovery
 美国Discovery Family Channel,https://sxg.btjson.us.kg/thetv/discovery-family-channel
+美国Discovery Life,https://sxg.btjson.us.kg/beesport/Discovery_Life_Live_TV
 美国Discovery Life,https://sxg.btjson.us.kg/thetv/discovery-life
 美国Disney Channel (East),https://sxg.btjson.us.kg/thetv/disney-channel-east
 美国Disney Junior,https://sxg.btjson.us.kg/thetv/disney-junior
 美国Disney XD,https://sxg.btjson.us.kg/thetv/disney-xd
+美国Tennis Channel,https://sxg.btjson.us.kg/beesport/Tennis_Channel_Live_TV
 美国Fight Network,https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 卡塔尔AL Jazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 卡塔尔AL Jazeera,https://epg.pw/stream/b7ed4a30861d17378eae7b5b2ba31e8d12f8d6679a4e66cd8425dda5f6eff50a.m3u8
@@ -3000,10 +3002,19 @@ CHC影迷电影,http://hy.baojihzjc.com:9001/rtp/239.112.205.206:5140
 俄罗斯Russia Today FR,http://69.64.57.208:8080/rtfrance/playlist.m3u8
 英国RT français,http://69.64.57.208/rtfrance/playlist.m3u8
 英国Love Nature,https://mytv.btjson.us.kg/stream/tvb/lovenaturehd/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-英国Sky Sports football,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7336/index.m3u8
 英国Sky Sports News,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2477/index.m3u8
+英国Sky Sports News,https://sxg.btjson.us.kg/beesport/Sky_Sports_News_Live_TV
+英国Sky Sports football,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7336/index.m3u8
+英国Sky Sports Football,https://sxg.btjson.us.kg/beesport/Sky_Sports_Football_Live_TV
 英国Sky Sports Cricket,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7343/index.m3u8
+英国Sky Sports Premier League,https://sxg.btjson.us.kg/beesport/Sky_Sports_Premier_League
+英国Sky Sports Tennis,https://sxg.btjson.us.kg/beesport/Sky_Sports_Tennis
+英国Sky Sports Arena,https://sxg.btjson.us.kg/beesport/Sky_Sports_Arena_Live_TV
+英国Sky Sports Cricket,https://sxg.btjson.us.kg/beesport/Sky_Sports_Cricket_Live_TV
+英国Sky Sports F1,https://sxg.btjson.us.kg/beesport/Sky_Sports_F1_Live_TV
 法国EUROSPORT 1,http://54.39.17.6/eurosport/mono.m3u8
+法国Eurosport 1,https://sxg.btjson.us.kg/beesport/Eurosport_1_Live_TV
+法国Eurosport 2,https://sxg.btjson.us.kg/beesport/Eurosport_2_Live_TV
 法国Mezzo Live,https://mytv.btjson.us.kg/stream/tvb/mezzolivehd/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 法国FashionBox,https://mytv.btjson.us.kg/stream/tvb/fashionbox/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 德国Motorvisison TV,https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
@@ -3024,4 +3035,4 @@ CHC影迷电影,http://hy.baojihzjc.com:9001/rtp/239.112.205.206:5140
 印度尼西亚CNN Indonésia,https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w366707841_b384000_sleng.m3u8
 阿联酋Sharjahtv,https://epg.pw/stream/015719860ea5e8844ebfbfb66fe6898892d6f68dfe31337cfa95312689cb1f99.m3u8
 朝鲜KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-Music,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAguOaa4gUo_J_z6gI.mp4
+Music,https://sxg.btjson.us.kg/thetv/mtv
