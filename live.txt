@@ -1289,6 +1289,7 @@ Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3ed4c4f478482956
 广东新闻,http://14.212.185.27:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 广东新闻,http://gmxw.7766.org:808/hls/5/index.m3u8
 广东新闻,http://183.11.239.36:808/hls/5/index.m3u8
+广东珠江,http://php.jdshipin.com:8880/xsj.php?id=gdzj
 广东珠江,http://203.88.42.189:55555/udp/239.10.0.63:1025
 广东珠江,http://203.88.42.189:55555/udp/239.10.0.62:1025
 广东珠江,http://14.212.185.27:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -1315,6 +1316,7 @@ Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3ed4c4f478482956
 广东综艺,http://120.234.49.38:7000/udp/239.20.0.60:3160
 广东综艺,http://120.234.49.38:7000/udp/239.20.0.61:3156
 广东综艺,http://ddns.cyruslee.top:8888/udp/239.77.0.244:5146
+广东体育,http://php.jdshipin.com:8880/xsj.php?id=gdty
 广东体育,http://203.88.42.189:55555/udp/239.10.0.47:1025
 广东体育,http://113.93.48.244:2000/udp/239.77.0.112:5146
 广东体育,http://14.212.185.27:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -1360,6 +1362,7 @@ Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3ed4c4f478482956
 大湾区卫视,http://171.108.239.79:8181/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 大湾区卫视,http://171.108.239.80:8181/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 广州综合,http://203.88.42.189:55555/udp/239.11.0.138:1025
+广州综合,http://php.jdshipin.com:8880/xsj.php?id=gzzh
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=439b0fd2cf766b363c93a59cbcbe1370&txTime=18d00acf488
 广州综合,http://183.236.32.24:9901/hls/1040/index.m3u8
@@ -1372,6 +1375,7 @@ Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3ed4c4f478482956
 广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
 广州新闻,http://ddns.cyruslee.top:8888/udp/239.253.43.72:5146
 广州影视,http://203.88.42.189:55555/udp/239.11.0.140:1025
+广州影视,http://php.jdshipin.com:8880/xsj.php?id=gzys
 广州影视,https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=7e9bddad7c8911626ed1d2c09fc605d9&txTime=18d00acf487
 广州影视,http://tencentplaygzrb.gztv.com/sec/yingshi.m3u8
 广州影视,http://183.236.32.24:9901/hls/1042/index.m3u8
@@ -1381,6 +1385,7 @@ Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3ed4c4f478482956
 广州法治,http://php.jdshipin.com:8880/gztv.php?id=fazhi
 广州法治,http://183.236.32.24:9901/hls/1043/index.m3u8
 广州竞赛,http://203.88.42.189:55555/udp/239.11.0.142:1025
+广州竞赛,http://php.jdshipin.com:8880/xsj.php?id=gzjs
 广州竞赛,https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=49c8041461997c7a97dbcc3c7fd11b4f&txTime=18d00acf487
 广州竞赛,http://tencentplaygzrb.gztv.com/sec/jingsai.m3u8
 广州竞赛,http://php.jdshipin.com:8880/gztv.php?id=jingsai
@@ -1628,60 +1633,92 @@ BRTV纪实科教,https://cdn2.jdshipin.com/api/bst2.php?id=dajs8m/8000000
 永川综合,https://qxlmlive9.cbg.cn/applive/yctv01/playlist.m3u8
 开州综合,https://qxlmlive9.cbg.cn/applive/kzpd01/chunklist.m3u8
 ✨　港澳,#genre#
-凤凰资讯,https://mytv.btjson.us.kg/stream/tvb/null-18/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+凤凰资讯,http://php.jdshipin.com:8880/xsj.php?id=phtv-info
 凤凰资讯,https://tv.sd.cn/sichuan?id=239.93.0.118:2191
 凤凰资讯,http://110.185.171.226:96/fhzb.php?type=1&id=0701pin72
 凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
 凤凰资讯,http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8
 凤凰资讯,http://wouu.net:9977/udp/239.93.0.118:2191
 凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰中文,https://mytv.btjson.us.kg/stream/tvb/null-17/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+凤凰中文,http://php.jdshipin.com:8880/xsj.php?id=phtv-cn
 凤凰中文,https://tv.sd.cn/sichuan?id=239.93.0.162:2192
 凤凰中文,http://110.185.171.226:96/fhzb.php?type=1&id=0701pcc72
 凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
-凤凰香港,https://mytv.btjson.us.kg/stream/tvb/null-19/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+凤凰香港,http://php.jdshipin.com:8880/xsj.php?id=phtv-hk
 凤凰香港,http://110.185.171.226:96/fhzb.php?type=1&id=0701phk72
 凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
 凤凰香港,http://php.jdshipin.com:8880/smt.php?id=tvbcaijing_twn
 凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
-TVB翡翠,https://mytv.btjson.us.kg/stream/tvb/null/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+TVB翡翠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+TVB翡翠,http://php.jdshipin.com:8880/xsj.php?id=golden-jade
 TVB翡翠,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 TVB翡翠,http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8
 TVB翡翠,http://183.237.246.14:9931/tsfile/live/1007_1.m3u8
 TVB翡翠,http://1b6467f415.iok.la:9931/tsfile/live/1007_1.m3u8
 TVB华丽,http://php.jdshipin.com:8880/smt.php?id=Wlt
 TVB新闻,http://live.cooltv.top/tv/tvb.php?id=2
-TVB新闻,https://mytv.btjson.us.kg/stream/tvb/null-1/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+TVB新闻,http://php.jdshipin.com:8880/xsj.php?id=tvb-news
 TVB新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 TVB新闻,http://zsntlqj.xicp.net:8896/bysid/83
 TVB新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
 TVB财经,http://live.cooltv.top/tv/tvb.php?id=2
-TVB娱乐,https://mytv.btjson.us.kg/stream/tvb/null-9/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+TVB娱乐,http://php.jdshipin.com:8880/xsj.php?id=TVB%20ylxw
 TVB娱乐,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
+TVB星河,http://php.jdshipin.com:8880/xsj.php?id=tvb-xinghe
 TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
 TVB星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 TVB星河,http://1b6467f415.iok.la:9931/tsfile/live/1008_1.m3u8
 TVB功夫,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
-TVB明珠,https://mytv.btjson.us.kg/stream/tvb/null-2/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 TVB明珠,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
 TVB明珠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=mzt
 TVB明珠,http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8
 TVB明珠,http://183.237.246.14:9931/tsfile/live/1009_1.m3u8
-TVB Plus,https://mytv.btjson.us.kg/stream/tvb/tvbplus/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 TVB Plus,http://grandprix2023.asuscomm.com:8892/bysid/82.m3u8
+TVB Plus,http://php.jdshipin.com:8880/xsj.php?id=tvb-plus
 TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
 TVB Plus,http://php.jdshipin.com:8880/smt.php?id=j2_twn
 TVB Plus,http://ha.jmied.com/aa/aa.m3u8?auth_key=1661958232-0-0-114df08fce17ecb21f6bf42de85e7600
-SUPER Kids,https://mytv.btjson.us.kg/stream/tvb/superkidschannel/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+NOW新闻,http://php.jdshipin.com:8880/xsj.php?id=now-news
+NOW财经,http://php.jdshipin.com:8880/xsj.php?id=now-finance
+NOW直播,http://php.jdshipin.com:8880/xsj.php?id=now-direct
+NOW星影,http://php.jdshipin.com:8880/xsj.php?id=now-baogu-superstars
+NOW紫金国际,http://php.jdshipin.com:8880/xsj.php?id=now-jelli
+NOW华剧,http://php.jdshipin.com:8880/xsj.php?id=now-chinese-drama
+NOW HBO Hits,http://php.jdshipin.com:8880/xsj.php?id=now-hbo-hits
+NOW HBO Family,http://php.jdshipin.com:8880/xsj.php?id=now-hbof-amily
+NOW HBO Signature,http://php.jdshipin.com:8880/xsj.php?id=now-hbo-signature
+Now Sports 641,http://php.jdshipin.com:8880/xsj.php?id=now-sports641
+Now NBA,http://php.jdshipin.com:8880/xsj.php?id=now-nba
+Now Sports精选,http://php.jdshipin.com:8880/xsj.php?id=now-sports-prime
+Now Sports 1,http://php.jdshipin.com:8880/xsj.php?id=now-sports-1
+Now Sports 2,http://php.jdshipin.com:8880/xsj.php?id=now-sports-2
+Now Sports 3,http://php.jdshipin.com:8880/xsj.php?id=now-sports-3
+Now Sports 4,http://php.jdshipin.com:8880/xsj.php?id=now-sports-4
+Now Sports 5,http://php.jdshipin.com:8880/xsj.php?id=now-sports-5
+Now Sports 6,http://php.jdshipin.com:8880/xsj.php?id=now-sports-6
+Now Sports 7,http://php.jdshipin.com:8880/xsj.php?id=now-sports-7
+Now Sports Plus,http://php.jdshipin.com:8880/xsj.php?id=now-sports-plus
+Now Sports 英超1,http://php.jdshipin.com:8880/xsj.php?id=now-sports-premier-league1
+Now beIN SPORTS 1,http://php.jdshipin.com:8880/xsj.php?id=now-bein-sports1
+Now beIN SPORTS 2,http://php.jdshipin.com:8880/xsj.php?id=now-bein-sports2
+Now 668,http://php.jdshipin.com:8880/xsj.php?id=now-668
+HOY资讯,http://php.jdshipin.com:8880/xsj.php?id=hoy-info
+HOY国际财经,http://php.jdshipin.com:8880/xsj.php?id=hoy-ibc
+HKC 18台,http://php.jdshipin.com:8880/xsj.php?id=hkc18
+Viu TV,http://php.jdshipin.com:8880/xsj.php?id=viutv
+RTHK31,http://php.jdshipin.com:8880/xsj.php?id=rthk31
 RTHK31,http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
+RTHK32,http://php.jdshipin.com:8880/xsj.php?id=rthk32
 RTHK32,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
 RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
 RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
 RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
 VIUTV,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
+澳门资讯,http://php.jdshipin.com:8880/xsj.php?id=tdm-information
 澳门Macau,http://grandprix2023.asuscomm.com:8891/bysid/96.m3u8
 澳门Macau,http://61.244.22.5/ch3/ch3.live/chunklist.m3u8
+澳视澳门,http://php.jdshipin.com:8880/xsj.php?id=tdm
 澳视澳门,http://grandprix2023.asuscomm.com:8891/bysid/91.m3u8
 澳视澳门,http://183.237.246.14:9931/tsfile/live/1039_1.m3u8
 澳视澳门,http://1b6467f415.iok.la:9931/tsfile/live/1039_1.m3u8
@@ -1691,12 +1728,13 @@ VIUTV,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
 美亚电影,http://cdn12.jdshipin.com/smt1.php?id=meiyamovie_twn
 星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-myTV SUPER FREE,https://mytv.btjson.us.kg/stream/tvb/mytvsuperfree/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-myTV SUPER 18台,https://mytv.btjson.us.kg/stream/tvb/mytvsuper18/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-myTV SUPER 直播足球3台,https://mytv.btjson.us.kg/stream/tvb/mytvsuper3/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-myTV SUPER 直播足球4台,https://mytv.btjson.us.kg/stream/tvb/mytvsuper4/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-myTV SUPER 直播足球5台,https://mytv.btjson.us.kg/stream/tvb/mytvsuper5/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-myTV SUPER 直播足球6台,https://mytv.btjson.us.kg/stream/tvb/mytvsuper6/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+粤语片,http://php.jdshipin.com:8880/xsj.php?id=tvb-yueyu
+亚洲片,http://php.jdshipin.com:8880/xsj.php?id=tvb-asia-drama
+华语片,http://php.jdshipin.com:8880/xsj.php?id=tvb-drama
+黄金华剧片,http://php.jdshipin.com:8880/xsj.php?id=golden-chinese-drama
+千禧经典片,http://php.jdshipin.com:8880/xsj.php?id=tvb-classic
+NowViu剧集,http://php.jdshipin.com:8880/xsj.php?id=now-viu-drama
+MovieMovie,http://php.jdshipin.com:8880/xsj.php?id=moviemovie
 ✨　台湾,#genre#
 中天新闻,https://lzoq.serv00.net/daili/Smartv.php?id=ctinews
 中天新闻,http://aa3.kkwk111.top/Smartv.php?id=ctinews
@@ -1708,10 +1746,8 @@ myTV SUPER 直播足球6台,https://mytv.btjson.us.kg/stream/tvb/mytvsuper6/mast
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 东森MOMO,http://extraott.com:80/live/7921751389/6097373662/5510.m3u8
 东森电影,http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8
-TVBS新闻,https://mytv.btjson.us.kg/stream/tvb/null-22/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS新闻,http://extraott.com:80/live/7921751389/6097373662/5499.m3u8
-TVBS亚洲,https://mytv.btjson.us.kg/stream/tvb/null-14/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
@@ -1752,6 +1788,7 @@ MoMo综合,rtmp://f13h.mine.nu/sat/tv761
 SKYLINK TELEVISION 2,http://extraott.com:80/live/7921751389/6097373662/473535.m3u8
 SKYLINK TELEVISION,http://extraott.com:80/live/7921751389/6097373662/473536.m3u8
 靖天映画,http://metatvpro.xyz:25461/live/W1045/4329/13134.m3u8
+天映频道,http://php.jdshipin.com:8880/xsj.php?id=celestial
 爱尔达戏剧,http://extraott.com:80/live/7921751389/6097373662/5546.m3u8
 八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
 八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
@@ -2851,18 +2888,6 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 西藏藏语卫视,http://php.jdshipin.com:8880/xztv.php?id=zy
 西藏影视文化,http://tv.cry33.com/xizang.php?id=2
 西藏影视文化,http://php.jdshipin.com:8880/xztv.php?id=ys
-🎬　港剧,#genre#
-黄金翡翠,https://mytv.btjson.us.kg/stream/tvb/null-3/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-黄金华剧,https://mytv.btjson.us.kg/stream/tvb/null-8/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-亚洲华剧,https://mytv.btjson.us.kg/stream/tvb/null-7/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-千禧经典,https://mytv.btjson.us.kg/stream/tvb/null-4/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-华语剧台,https://mytv.btjson.us.kg/stream/tvb/null-5/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-天映经典,https://mytv.btjson.us.kg/stream/tvb/null-12/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-创世电视,https://mytv.btjson.us.kg/stream/tvb/null-15/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-戏曲台,https://mytv.btjson.us.kg/stream/tvb/null-10/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-粤语片台,https://mytv.btjson.us.kg/stream/tvb/null-6/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-美亚电影,https://mytv.btjson.us.kg/stream/tvb/null-11/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-中国电影,https://mytv.btjson.us.kg/stream/tvb/null-13/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 🎬　CHC,#genre#
 CHC影迷电影,http://127.0.0.1
 CHC动作电影,http://127.0.0.1
@@ -2916,7 +2941,6 @@ CHC影迷电影,http://hy.baojihzjc.com:9001/rtp/239.112.205.206:5140
 星爷经典,http://tctct.douyucdn2.cn/dyliveflv1a/3637778raLSXdOdu_2000.m3u8
 ☀　海外,#genre#
 欧洲华文2台,http://vvlive.eztv.vip/hwetnew/hwetnew.m3u8?auth_key=1710810771-0-0-c5ce71079eaa4d245127b05375ae371f
-中国PopC,https://mytv.btjson.us.kg/stream/tvb/popc/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 中国CSPAN,https://sxg.btjson.us.kg/thetv/cspan
 中国CSPAN 2,https://sxg.btjson.us.kg/thetv/cspan-2
 美国Fox News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
