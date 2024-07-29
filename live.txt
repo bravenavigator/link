@@ -1673,11 +1673,11 @@ TVB明珠,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
 TVB明珠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=mzt
 TVB明珠,http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8
 TVB明珠,http://183.237.246.14:9931/tsfile/live/1009_1.m3u8
-TVB Plus,http://grandprix2023.asuscomm.com:8892/bysid/82.m3u8
 TVB Plus,http://php.jdshipin.com:8880/xsj.php?id=tvb-plus
 TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
 TVB Plus,http://php.jdshipin.com:8880/smt.php?id=j2_twn
 TVB Plus,http://ha.jmied.com/aa/aa.m3u8?auth_key=1661958232-0-0-114df08fce17ecb21f6bf42de85e7600
+TVB Plus,http://grandprix2023.asuscomm.com:8892/bysid/82.m3u8
 NOW新闻,http://php.jdshipin.com:8880/xsj.php?id=now-news
 NOW财经,http://php.jdshipin.com:8880/xsj.php?id=now-finance
 NOW直播,http://php.jdshipin.com:8880/xsj.php?id=now-direct
@@ -1706,6 +1706,8 @@ HOY资讯,http://php.jdshipin.com:8880/xsj.php?id=hoy-info
 HOY国际财经,http://php.jdshipin.com:8880/xsj.php?id=hoy-ibc
 HKC 18台,http://php.jdshipin.com:8880/xsj.php?id=hkc18
 Viu TV,http://php.jdshipin.com:8880/xsj.php?id=viutv
+Viu TV,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
+NowViu剧集,http://php.jdshipin.com:8880/xsj.php?id=now-viu-drama
 RTHK31,http://php.jdshipin.com:8880/xsj.php?id=rthk31
 RTHK31,http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
 RTHK32,http://php.jdshipin.com:8880/xsj.php?id=rthk32
@@ -1713,7 +1715,6 @@ RTHK32,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
 RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
 RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
 RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
-VIUTV,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
 澳门资讯,http://php.jdshipin.com:8880/xsj.php?id=tdm-information
 澳门Macau,http://grandprix2023.asuscomm.com:8891/bysid/96.m3u8
 澳门Macau,http://61.244.22.5/ch3/ch3.live/chunklist.m3u8
@@ -1726,15 +1727,14 @@ VIUTV,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
 澳视葡文,http://61.244.22.5/ch2/ch2.live/chunklist.m3u8
 美亚电影,http://cdn12.jdshipin.com/smt1.php?id=meiyamovie_twn
 星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
-面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-粤语片,http://php.jdshipin.com:8880/xsj.php?id=tvb-yueyu
-亚洲片,http://php.jdshipin.com:8880/xsj.php?id=tvb-asia-drama
-华语片,http://php.jdshipin.com:8880/xsj.php?id=tvb-drama
-黄金华剧片,http://php.jdshipin.com:8880/xsj.php?id=golden-chinese-drama
-千禧经典片,http://php.jdshipin.com:8880/xsj.php?id=tvb-classic
-黄金翡翠,http://php.jdshipin.com:8880/xsj.php?id=golden-jade
-NowViu剧集,http://php.jdshipin.com:8880/xsj.php?id=now-viu-drama
+MYTV SUPER 粤语片,http://php.jdshipin.com:8880/xsj.php?id=tvb-yueyu
+MYTV SUPER 亚洲片,http://php.jdshipin.com:8880/xsj.php?id=tvb-asia-drama
+MYTV SUPER 华语片,http://php.jdshipin.com:8880/xsj.php?id=tvb-drama
+MYTV SUPER 黄金华剧片,http://php.jdshipin.com:8880/xsj.php?id=golden-chinese-drama
+MYTV SUPER 千禧经典片,http://php.jdshipin.com:8880/xsj.php?id=tvb-classic
+MYTV SUPER 黄金翡翠,http://php.jdshipin.com:8880/xsj.php?id=golden-jade
 MovieMovie,http://php.jdshipin.com:8880/xsj.php?id=moviemovie
+面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 ✨　台湾,#genre#
 中天新闻,https://lzoq.serv00.net/daili/Smartv.php?id=ctinews
 中天新闻,http://aa3.kkwk111.top/Smartv.php?id=ctinews
