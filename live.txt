@@ -1490,6 +1490,10 @@ Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3ed4c4f478482956
 BRTV生活,http://qnap.yjnhome.com:4000/udp/239.3.1.117:8000
 BRTV影视,http://1.203.184.43:4022/udp/225.1.8.82:8000
 BRTV影视,http://qnap.yjnhome.com:4000/udp/239.3.1.250:8001
+BRTV卡酷少儿,http://59.174.224.32:8880/rtp/239.69.1.193:10800
+BRTV卡酷少儿,http://59.172.144.204:10000/rtp/239.69.1.193:10800
+BRTV卡酷少儿,http://221.234.164.33:8888/rtp/239.69.1.193:10800
+BRTV卡酷少儿,http://218.80.79.205:4022/udp/239.45.0.8:5140
 萌宠TV,http://218.241.192.50:8808/udp/239.3.1.102:8001
 淘Baby,http://218.241.192.50:8808/udp/239.3.1.238:8001
 淘剧场,http://218.241.192.50:8808/udp/239.3.1.95:8001
@@ -1526,6 +1530,15 @@ BRTV影视,http://qnap.yjnhome.com:4000/udp/239.3.1.250:8001
 五星体育,http://58.37.189.47:8088/udp/239.45.3.210:5140
 五星体育,http://210.22.75.86:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 精彩体育,http://113.9.152.139:88/hls/304/index.m3u8
+动漫秀场,http://218.80.79.205:4022/udp/239.45.3.134:5140
+动漫秀场,http://27.129.160.131:60000/rtp/239.254.201.165:6358
+动漫秀场,http://171.119.204.140:6000/rtp/226.0.2.183:9376
+动漫秀场,http://171.118.251.172:8003/rtp/226.0.2.183:9376
+动漫秀场,http://223.12.204.134:8082/udp/239.1.1.80:8080
+动漫秀场,http://171.118.153.147:8085/rtp/226.0.2.183:9376
+动漫秀场,http://171.118.153.147:8084/rtp/226.0.2.183:9376
+动漫秀场,http://223.10.37.46:8082/udp/239.1.1.80:8080
+哈哈炫动,http://218.80.79.205:4022/udp/239.45.1.55:5140
 哈哈炫动,http://58.37.189.47:8088/udp/239.45.1.55:5140
 📺　天津,#genre#
 天津新闻,http://nas.hssvm.com:8888/udp/225.1.1.130:5002
@@ -1576,7 +1589,8 @@ BRTV影视,http://qnap.yjnhome.com:4000/udp/239.3.1.250:8001
 凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰中文,http://wouu.net:9977/rtp/239.93.0.162:2192?Cf=cfss.cc
-香港凤凰,http://146.56.153.245:20121/bysid/259
+凤凰中文,http://122.224.232.218:8888/rtp/233.50.200.191:5140
+凤凰香港,http://146.56.153.245:20121/bysid/259
 凤凰香港,http://php.jdshipin.com:8880/xsj.php?id=phtv-hk
 凤凰香港,http://110.185.171.226:96/fhzb.php?type=1&id=0701phk72
 凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
@@ -1587,6 +1601,12 @@ TVB翡翠,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 TVB翡翠,http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8
 TVB翡翠,http://183.237.246.14:9931/tsfile/live/1007_1.m3u8
 TVB翡翠,http://1b6467f415.iok.la:9931/tsfile/live/1007_1.m3u8
+TVB翡翠,http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8
+TVB翡翠,http://61.238.177.254:30261/stream/channelid/1548166379
+TVB翡翠,http://nz171l122.bb60246.ctm.net:8889/bysid/1.m3u8
+TVB翡翠,http://113.83.152.56:8182/bynumber/1
+TVB翡翠,http://zsntlqj.xicp.net:8895/bysid/1.m3u8
+TVB翡翠,http://beishan008.asuscomm.com:8889/bysid/1.m3u8
 TVB华丽,http://php.jdshipin.com:8880/smt.php?id=Wlt
 TVB新闻,http://live.cooltv.top/tv/tvb.php?id=2
 TVB新闻,http://php.jdshipin.com:8880/xsj.php?id=tvb-news
@@ -1605,6 +1625,9 @@ TVB明珠,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
 TVB明珠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=mzt
 TVB明珠,http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8
 TVB明珠,http://183.237.246.14:9931/tsfile/live/1009_1.m3u8
+TVB明珠,http://grandprix2023.asuscomm.com:8892/bysid/2.m3u8
+TVB明珠,http://nz171l122.bb60246.ctm.net:8892/bysid/2.m3u8
+TVB明珠,http://61.238.177.254:30261/stream/channelid/1310877729
 TVB Plus,http://php.jdshipin.com:8880/xsj.php?id=tvb-plus
 TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
 TVB Plus,http://php.jdshipin.com:8880/smt.php?id=j2_twn
@@ -1639,7 +1662,8 @@ HOY国际财经,http://php.jdshipin.com:8880/xsj.php?id=hoy-ibc
 HKC 18台,http://php.jdshipin.com:8880/xsj.php?id=hkc18
 Viu TV,http://php.jdshipin.com:8880/xsj.php?id=viutv
 Viu TV,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
-NowViu剧集,http://php.jdshipin.com:8880/xsj.php?id=now-viu-drama
+NowViu,http://php.jdshipin.com:8880/xsj.php?id=now-viu-drama
+J2,http://fm1077.serv00.net/Smart.php?id=j2_twn
 RTHK31,http://php.jdshipin.com:8880/xsj.php?id=rthk31
 RTHK31,http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
 RTHK32,http://php.jdshipin.com:8880/xsj.php?id=rthk32
