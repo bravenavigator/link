@@ -1487,7 +1487,6 @@ Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3ed4c4f478482956
 梅州山歌,http://183.237.246.14:9931/tsfile/live/1005_1.m3u8
 梅州丰顺综合,http://183.237.246.14:9931/tsfile/live/1100_1.m3u8
 📺　北京,#genre#
-其它,#genre#
 BRTV生活,http://qnap.yjnhome.com:4000/udp/239.3.1.117:8000
 BRTV影视,http://1.203.184.43:4022/udp/225.1.8.82:8000
 BRTV影视,http://qnap.yjnhome.com:4000/udp/239.3.1.250:8001
