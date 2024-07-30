@@ -1487,28 +1487,18 @@ Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3ed4c4f478482956
 梅州山歌,http://183.237.246.14:9931/tsfile/live/1005_1.m3u8
 梅州丰顺综合,http://183.237.246.14:9931/tsfile/live/1100_1.m3u8
 📺　北京,#genre#
+其它,#genre#
 BRTV生活,http://qnap.yjnhome.com:4000/udp/239.3.1.117:8000
-BRTV影视,http://qnap.yjnhome.com:4000/udp/239.3.1.250:8001
 BRTV影视,http://1.203.184.43:4022/udp/225.1.8.82:8000
-BRTV纪实科教,http://victoryblackcat.dscloud.me:8888/rtp/239.253.93.190:6358
-BRTV纪实科教,http://121.27.126.103:809/hls/61/index.m3u8
-BRTV纪实科教,http://111.11.98.205:9900/hls/66/index.m3u8
-BRTV纪实科教8K,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
-BRTV纪实科教8K,http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
-BRTV卡酷少儿,http://183.236.32.24:9901/hls/1048/index.m3u8
-BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
-BRTV新闻,https://live.funhillrm.com/5/sd/live.m3u8
-BRTV纪实科教,http://php.jdshipin.com:8880/bst.php?id=bjjskj
-BRTV卡酷少儿,http://php.jdshipin.com:8880/bst.php?id=kkse
-BRTV卡酷少儿,https://cdn2.jdshipin.com/api/bst2.php?id=kkse8m/8000000
-BRTV纪实科教,https://cdn2.jdshipin.com/api/bst2.php?id=dajs8m/8000000
+BRTV影视,http://qnap.yjnhome.com:4000/udp/239.3.1.250:8001
+萌宠TV,http://218.241.192.50:8808/udp/239.3.1.102:8001
+淘Baby,http://218.241.192.50:8808/udp/239.3.1.238:8001
+淘剧场,http://218.241.192.50:8808/udp/239.3.1.95:8001
+淘电影,http://218.241.192.50:8808/udp/239.3.1.250:8001
+淘娱乐,http://218.241.192.50:8808/udp/239.3.1.100:8001
 淘剧场,http://qnap.yjnhome.com:4000/udp/239.3.1.95:8001
 萌宠TV,http://qnap.yjnhome.com:4000/udp/239.3.1.102:8001
 淘Baby,http://qnap.yjnhome.com:4000/udp/239.3.1.238:8001
-睛彩影视,http://acc.tohsaka.cn:9999/rtp/225.1.1.141:5002
-精彩影视,http://13457610200.8866.org:2018/live/精彩影视/index.m3u8
-睛彩篮球,http://13457610200.8866.org:2018/live/睛彩篮球/index.m3u8
-房山综合,http://live.funhillrm.com/2/sd/live.m3u8
 📺　上海,#genre#
 新闻综合,http://58.37.189.47:8088/udp/239.45.3.209:5140
 新闻综合,http://210.22.75.86:9901/tsfile/live/0107_4.m3u8?key=txiptv&playlive=1&authid=0
