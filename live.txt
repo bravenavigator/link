@@ -1254,8 +1254,8 @@ CGTN俄语,http://127.0.0.1
 CGTN西语,http://127.0.0.1
 CGTN阿语,http://127.0.0.1
 CGTN纪录,http://127.0.0.1
-CGTN英语,https://mytv.btjson.us.kg/stream/tvb/cgtn-1/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-CGTN纪录,https://mytv.btjson.us.kg/stream/tvb/cgtn/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+CGTN英语,https://tvb.mytvsuper.us.kg/stream/tvb/cgtn-1/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+CGTN纪录,https://tvb.mytvsuper.us.kg/stream/tvb/cgtn/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 CGTN英语,http://203.88.42.189:55555/udp/239.11.0.103:1025
 CGTN纪录,http://203.88.42.189:55555/udp/239.11.0.104:1025
 CGTN西语,http://203.88.42.189:55555/udp/239.11.0.105:1025
@@ -1612,6 +1612,7 @@ TVB翡翠,http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8
 TVB翡翠,http://61.238.177.254:30261/stream/channelid/1548166379
 TVB翡翠,http://nz171l122.bb60246.ctm.net:8889/bysid/1.m3u8
 TVB翡翠,http://113.83.152.56:8182/bynumber/1
+TVB翡翠,http://113.64.94.175:9901/tsfile/live/1007_1.m3u8
 TVB翡翠,http://zsntlqj.xicp.net:8895/bysid/1.m3u8
 TVB翡翠,http://beishan008.asuscomm.com:8889/bysid/1.m3u8
 TVB华丽,http://php.jdshipin.com:8880/smt.php?id=Wlt
@@ -1627,6 +1628,7 @@ TVB星河,http://php.jdshipin.com:8880/xsj.php?id=tvb-xinghe
 TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
 TVB星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 TVB星河,http://1b6467f415.iok.la:9931/tsfile/live/1008_1.m3u8
+TVB星河,https://tvb.mytvsuper.us.kg/stream/tvb/null-25/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 TVB功夫,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 TVB明珠,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
 TVB明珠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=mzt
@@ -1711,8 +1713,10 @@ MovieMovie,http://php.jdshipin.com:8880/xsj.php?id=moviemovie
 东森超视,rtmp://220.130.201.73/sat/tv331
 东森MOMO,http://extraott.com:80/live/7921751389/6097373662/5510.m3u8
 东森电影,http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8
+TVBS新闻,https://tvb.mytvsuper.us.kg/stream/tvb/null-22/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS新闻,http://extraott.com:80/live/7921751389/6097373662/5499.m3u8
+TVBS亚洲,https://tvb.mytvsuper.us.kg/stream/tvb/null-14/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
@@ -1744,6 +1748,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 纬来综合,http://extraott.com:80/live/7921751389/6097373662/5490.m3u8
 纬来电视,http://extraott.com:80/live/7921751389/6097373662/5491.m3u8
 纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
+纬来电影,https://api.btbt.im/live?id=videoland-movie
 纬来日本,http://extraott.com:80/live/7921751389/6097373662/5495.m3u8
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
 纬来体育,http://extraott.com:80/live/7921751389/6097373662/5492.m3u8
