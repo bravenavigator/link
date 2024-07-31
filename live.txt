@@ -557,7 +557,7 @@ CCTV高尔夫网球,http://gzly.hkychina.com:6001/udp/239.252.219.95:5140
 CCTV4欧洲,http://120.234.49.38:7000/udp/239.21.0.107:3768
 CCTV4美洲,http://120.234.49.38:7000/udp/239.21.0.108:3772
 CCTV高尔夫网球,http://120.234.49.38:7000/udp/239.21.0.72:3628
-CCTV1综合,https://mytv.btjson.us.kg/stream/tvb/null-20/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+CCTV1综合,https://tvb.mytvsuper.us.kg/stream/tvb/null-20/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 📡　卫视,#genre#
 北京卫视,http://127.0.0.1
 东方卫视,http://127.0.0.1
@@ -1194,7 +1194,7 @@ CCTV1综合,https://mytv.btjson.us.kg/stream/tvb/null-20/master.m3u8?u=btjson&p=
 湖北卫视,http://fangke.blueswords.com:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 河北卫视,http://fangke.blueswords.com:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁卫视,http://fangke.blueswords.com:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-东方卫视,https://mytv.btjson.us.kg/stream/tvb/null-16/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+东方卫视,https://tvb.mytvsuper.us.kg/stream/tvb/null-16/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 甘肃卫视,http://14.29.76.30:9901/tsfile/live/0141_1.m3u8
 辽宁卫视,http://61.141.202.118:9901/tsfile/live/0121_1.m3u8
 三沙卫视,http://106.124.91.222:9901/tsfile/live/21215_1.m3u8
@@ -2958,8 +2958,8 @@ CHC影迷电影,http://fxgm.fxjf.work:19901/tsfile/live/1016_1.m3u8
 美国Universal Kids,https://sxg.btjson.us.kg/thetv/universal-kids
 美国TLC,https://sxg.btjson.us.kg/thetv/tlc
 美国WildEarth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-美国ROCK Action,https://mytv.btjson.us.kg/stream/tvb/rockaction/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-美国ROCK,https://mytv.btjson.us.kg/stream/tvb/rock/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+美国ROCK Action,https://tvb.mytvsuper.us.kg/stream/tvb/rockaction/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+美国ROCK,https://tvb.mytvsuper.us.kg/stream/tvb/rock/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 美国DA&E,https://sxg.btjson.us.kg/thetv/ae
 美国DAMC,https://sxg.btjson.us.kg/thetv/amc
 美国DFYI,https://sxg.btjson.us.kg/thetv/fyi
@@ -2970,7 +2970,7 @@ CHC影迷电影,http://fxgm.fxjf.work:19901/tsfile/live/1016_1.m3u8
 美国HBO Signature,https://sxg.btjson.us.kg/thetv/hbo-signature
 美国HBO Zone HD,https://sxg.btjson.us.kg/thetv/hbo-zone-hd
 美国DAmerican Heroes Channel,https://sxg.btjson.us.kg/thetv/american-heroes-channel
-美国Global Trekker,https://mytv.btjson.us.kg/stream/tvb/globaltrekker/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+美国Global Trekker,https://tvb.mytvsuper.us.kg/stream/tvb/globaltrekker/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 美国Discovery,https://sxg.btjson.us.kg/thetv/discovery
 美国Discovery Family Channel,https://sxg.btjson.us.kg/thetv/discovery-family-channel
 美国Discovery Life,https://sxg.btjson.us.kg/beesport/Discovery_Life_Live_TV
@@ -3022,16 +3022,16 @@ CHC影迷电影,http://fxgm.fxjf.work:19901/tsfile/live/1016_1.m3u8
 德国Motorvisison TV,https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 德国DW,https://tvb.mytvsuper.us.kg/stream/tvb/dw/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 日本NHK World-Japan,https://tvb.mytvsuper.us.kg/stream/tvb/nhkworldjapan/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-日本AXN,https://mytv.btjson.us.kg/stream/tvb/axn/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-日本Animax,https://mytv.btjson.us.kg/stream/tvb/animax/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+日本AXN,https://tvb.mytvsuper.us.kg/stream/tvb/axn/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+日本Animax,https://tvb.mytvsuper.us.kg/stream/tvb/animax/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 印度WION,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-新加坡Channel NewsAsia,https://mytv.btjson.us.kg/stream/tvb/null-23/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+新加坡Channel NewsAsia,https://tvb.mytvsuper.us.kg/stream/tvb/null-23/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 新加坡Channel NewsAsia,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 新加坡Channel NewsAsia,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 新加坡ESPN,http://143.244.60.30/ESPN/index.m3u8
 韩国KBC,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 韩国KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
-韩国KIX,https://mytv.btjson.us.kg/stream/tvb/kix/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+韩国KIX,https://tvb.mytvsuper.us.kg/stream/tvb/kix/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 泰国ASTV News,http://news1.live14.com/stream/news1_hi.m3u8
 印度尼西亚CNBC Indonesia,https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/pikotv.m3u8
 印度尼西亚CNN Indonésia,https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w366707841_b384000_sleng.m3u8
