@@ -2958,6 +2958,7 @@ CHC影迷电影,http://fxgm.fxjf.work:19901/tsfile/live/1016_1.m3u8
 美国Universal Kids,https://sxg.btjson.us.kg/thetv/universal-kids
 美国TLC,https://sxg.btjson.us.kg/thetv/tlc
 美国WildEarth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+美国Science,https://sxg.btjson.us.kg/thetv/science
 美国ROCK Action,https://tvb.mytvsuper.us.kg/stream/tvb/rockaction/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 美国ROCK,https://tvb.mytvsuper.us.kg/stream/tvb/rock/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 美国DA&E,https://sxg.btjson.us.kg/thetv/ae
@@ -2976,6 +2977,7 @@ CHC影迷电影,http://fxgm.fxjf.work:19901/tsfile/live/1016_1.m3u8
 美国Discovery Life,https://sxg.btjson.us.kg/beesport/Discovery_Life_Live_TV
 美国Discovery Life,https://sxg.btjson.us.kg/thetv/discovery-life
 美国Animal Planet,https://sxg.btjson.us.kg/thetv/animal-planet
+美国History,https://sxg.btjson.us.kg/thetv/history
 美国ACMT,https://sxg.btjson.us.kg/thetv/cmt
 美国Comedy Central,https://sxg.btjson.us.kg/thetv/comedy-central
 美国DDestination America,https://sxg.btjson.us.kg/thetv/destination-america
@@ -2983,10 +2985,17 @@ CHC影迷电影,http://fxgm.fxjf.work:19901/tsfile/live/1016_1.m3u8
 美国FX,https://sxg.btjson.us.kg/thetv/fx
 美国FX Movie,https://sxg.btjson.us.kg/thetv/fx-movie
 美国FXX,https://sxg.btjson.us.kg/thetv/fxx
+美国Showtime Extreme,https://sxg.btjson.us.kg/thetv/showtime-e
+美国Showtime 2,https://sxg.btjson.us.kg/thetv/showtime-2
 美国TBS,https://sxg.btjson.us.kg/thetv/tbs
 美国HGTV,https://sxg.btjson.us.kg/thetv/hgtv
 美国VICE,https://sxg.btjson.us.kg/thetv/vice
 美国ReelzChannel,https://sxg.btjson.us.kg/thetv/reelzchannel
+美国Lifetime,https://sxg.btjson.us.kg/thetv/lifetime
+美国Lifetime Movies,https://sxg.btjson.us.kg/thetv/lmn
+美国Outdoor Channel,https://sxg.btjson.us.kg/thetv/outdoor-channel
+美国NFL Network,https://sxg.btjson.us.kg/thetv/nfl-network
+美国NHL Network,https://sxg.btjson.us.kg/thetv/nhl-network
 美国FOX Sports 1,https://sxg.btjson.us.kg/thetv/fox-sports-1
 美国FOX Sports 2,https://sxg.btjson.us.kg/thetv/fox-sports-2
 美国ESPN,https://sxg.btjson.us.kg/thetv/espn
