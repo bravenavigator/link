@@ -1709,10 +1709,6 @@ RTHK33,https://tvb.mytvsuper.us.kg/stream/tvb/33-1/master.m3u8?u=btjson&p=213f25
 RTHK34,https://tvb.mytvsuper.us.kg/stream/tvb/34/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 RTHK35,https://tvb.mytvsuper.us.kg/stream/tvb/35/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 RTHK36,https://tvb.mytvsuper.us.kg/stream/tvb/33/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-澳视澳门,http://grandprix2023.asuscomm.com:8891/bysid/91.m3u8
-澳视葡语,http://grandprix2023.asuscomm.com:8891/bysid/92.m3u8
-澳视资讯,http://grandprix2023.asuscomm.com:8891/bysid/94.m3u8
-澳门Macau,http://grandprix2023.asuscomm.com:8891/bysid/96.m3u8
 澳门资讯,http://php.jdshipin.com:8880/xsj.php?id=tdm-information
 澳门Macau,http://grandprix2023.asuscomm.com:8891/bysid/96.m3u8
 澳门Macau,http://61.244.22.5/ch3/ch3.live/chunklist.m3u8
@@ -1722,7 +1718,11 @@ RTHK36,https://tvb.mytvsuper.us.kg/stream/tvb/33/master.m3u8?u=btjson&p=213f2541
 澳视澳门,http://1b6467f415.iok.la:9931/tsfile/live/1039_1.m3u8
 澳视澳门,http://61.244.22.5/ch1/ch1.live/playelist.m3u8
 澳门莲花,https://tv.iill.top/mo/lhws
-澳视葡文,http://61.244.22.5/ch2/ch2.live/chunklist.m3u8
+澳视葡语,http://61.244.22.5/ch2/ch2.live/chunklist.m3u8
+澳视澳门,http://grandprix2023.asuscomm.com:8891/bysid/91.m3u8
+澳视葡语,http://grandprix2023.asuscomm.com:8891/bysid/92.m3u8
+澳视资讯,http://grandprix2023.asuscomm.com:8891/bysid/94.m3u8
+澳门Macau,http://grandprix2023.asuscomm.com:8891/bysid/96.m3u8
 美亚电影,http://cdn12.jdshipin.com/smt1.php?id=meiyamovie_twn
 星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 MYTV SUPER 粤语片,http://php.jdshipin.com:8880/xsj.php?id=tvb-yueyu
