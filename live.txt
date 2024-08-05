@@ -43,7 +43,7 @@ CCTV电视指南,http://127.0.0.1
 中国天气,http://127.0.0.1
 CCTV1综合,http://111.32.201.156/hlslive-tx-cdn.ysp.cctv.cn/512/2024078203.m3u8
 CCTV2财经,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
-CCTV5体育,http://1639.hsmedia.top:8080/newlive/live/hls/7/live.m3u8
+CCTV5+体育赛事,http://1639.hsmedia.top:8080/newlive/live/hls/7/live.m3u8
 CCTV6电影,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 CCTV6电影,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
 CCTV14少儿,http://1639.hsmedia.top:8080/newlive/live/hls/16/live.m3u8
