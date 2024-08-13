@@ -1626,9 +1626,11 @@ TVB翡翠,http://113.83.152.56:8182/bynumber/1
 TVB翡翠,http://113.64.94.175:9901/tsfile/live/1007_1.m3u8
 TVB翡翠,http://zsntlqj.xicp.net:8895/bysid/1.m3u8
 TVB翡翠,http://beishan008.asuscomm.com:8889/bysid/1.m3u8
+TVB翡翠,http://cdn3.1678520.xyz/live/?id=fct
 TVB翡翠,https://tvb.mytvsuper.us.kg/stream/tvb/null-33/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 TVB翡翠,https://tvb.mytvsuper.us.kg/stream/tvb/null/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 TVB翡翠,https://tvb.mytvsuper.us.kg/stream/tvb/4k/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+TVB华丽,http://cdn3.1678520.xyz/live/?id=fct2
 TVB华丽,http://php.jdshipin.com:8880/smt.php?id=Wlt
 TVB新闻,http://live.cooltv.top/tv/tvb.php?id=2
 TVB新闻,http://php.jdshipin.com:8880/xsj.php?id=tvb-news
@@ -1720,6 +1722,7 @@ RTHK36,https://tvb.mytvsuper.us.kg/stream/tvb/33/master.m3u8?u=btjson&p=213f2541
 澳视葡语,http://61.244.22.5/ch2/ch2.live/chunklist.m3u8
 美亚电影,http://cdn12.jdshipin.com/smt1.php?id=meiyamovie_twn
 星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+龙华日韩,http://cdn3.1678520.xyz/live/?id=lhrh
 MYTV SUPER 粤语片,http://php.jdshipin.com:8880/xsj.php?id=tvb-yueyu
 MYTV SUPER 亚洲片,http://php.jdshipin.com:8880/xsj.php?id=tvb-asia-drama
 MYTV SUPER 华语片,http://php.jdshipin.com:8880/xsj.php?id=tvb-drama
@@ -2884,6 +2887,9 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 CHC影迷电影,http://127.0.0.1
 CHC动作电影,http://127.0.0.1
 CHC家庭影院,http://127.0.0.1
+CHC动作电影,http://183.189.213.105:8000/rtp/226.0.2.94:8012
+CHC影迷电影,http://183.189.213.105:8000/rtp/226.0.2.93:8004
+CHC家庭影院,http://183.189.213.105:8000/rtp/226.0.2.240:9820
 CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1036_1.m3u8
 CHC动作电影,http://58.19.38.162:9901/tsfile/live/1037_1.m3u8
 CHC影迷电影,http://58.19.38.162:9901/tsfile/live/1038_1.m3u8
