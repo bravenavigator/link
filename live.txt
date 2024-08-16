@@ -47,6 +47,21 @@ CCTV5+体育赛事,http://1639.hsmedia.top:8080/newlive/live/hls/7/live.m3u8
 CCTV6电影,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 CCTV6电影,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
 CCTV14少儿,http://1639.hsmedia.top:8080/newlive/live/hls/16/live.m3u8
+CCTV1综合,https://live.goodiptv.club/api/cqyx.php?id=cctv1HD
+CCTV3综艺,https://live.goodiptv.club/api/cqyx.php?id=cctv3HD
+CCTV5体育,https://live.goodiptv.club/api/cqyx.php?id=cctv5HD
+CCTV6电影,https://live.goodiptv.club/api/cqyx.php?id=cctv6HD
+CCTV9纪录,https://live.goodiptv.club/api/cqyx.php?id=cctv9HD
+CCTV第一剧场,https://live.goodiptv.club/api/cqyx.php?id=diyijuchangHD
+CCTV都市剧场,https://live.goodiptv.club/api/cqyx.php?id=dsjcHD
+CCTV风云剧场,https://live.goodiptv.club/api/cqyx.php?id=fyjcHD
+CCTV风云音乐,https://live.goodiptv.club/api/cqyx.php?id=fyyyHD
+CCTV高尔夫网球,https://live.goodiptv.club/api/cqyx.php?id=golfHD
+CCTV魅力足球,https://live.goodiptv.club/api/cqyx.php?id=mlzqHD
+CCTV央视台球,https://live.goodiptv.club/api/cqyx.php?id=ystqHD
+CCTV12社会与法,https://live.goodiptv.club/api/cqyx.php?id=cctv12HD
+CCTV16奥林匹克,https://live.goodiptv.club/api/cqyx.php?id=cctv16HD
+CCTV17农业农村,https://live.goodiptv.club/api/cqyx.php?id=cctv17HD
 CCTV重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 CCTV重温经典,http://120.76.248.139/live/bfgd/4200000635.m3u8
 CCTV重温经典,http://36.108.172.237:10097/stream/channelid/1129822714
@@ -600,6 +615,14 @@ CCTV1综合,https://tvb.mytvsuper.us.kg/stream/tvb/null-20/master.m3u8?u=btjson&
 安多卫视,http://127.0.0.1
 延边卫视,http://127.0.0.1
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+宁夏卫视,https://hls.ningxiahuangheyun.com/tv/nxws.m3u8
+东南卫视,https://live.goodiptv.club/api/cqyx.php?id=dongnanHD
+东南卫视,https://live.goodiptv.club/api/cqyx.php?id=henanHD
+东方卫视,https://live.goodiptv.club/api/cqyx.php?id=shanghaiHD
+吉林卫视,https://live.goodiptv.club/api/cqyx.php?id=jilinHD
+天津卫视,https://live.goodiptv.club/api/cqyx.php?id=tianjinHD
+深圳卫视,https://live.goodiptv.club/api/cqyx.php?id=shenzhenHD
 天津卫视,http://60.10.139.10:8801/hls/23/index.m3u8
 东方卫视,http://60.10.139.10:8801/hls/22/index.m3u8
 东南卫视,http://60.10.139.10:8801/hls/21/index.m3u8
@@ -1200,6 +1223,7 @@ CCTV1综合,https://tvb.mytvsuper.us.kg/stream/tvb/null-20/master.m3u8?u=btjson&
 辽宁卫视,http://61.141.202.118:9901/tsfile/live/0121_1.m3u8
 三沙卫视,http://106.124.91.222:9901/tsfile/live/21215_1.m3u8
 深圳卫视,http://115.149.139.141:10001/tsfile/live/1032_1.m3u8
+安徽卫视,http://115.149.139.141:10001/tsfile/live/1028_1.m3u8
 宁夏卫视,https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8
 宁夏卫视,https://hls.ningxiahuangheyun.com/live/nxws1M.flv
 宁夏卫视,rtmp://hls.ningxiahuangheyun.com/live/nxws1M
@@ -2941,7 +2965,7 @@ CHC影迷电影,http://fxgm.fxjf.work:19901/tsfile/live/1016_1.m3u8
 星爷经典,http://tctct.douyucdn2.cn/dyliveflv1a/3637778raLSXdOdu_2000.m3u8
 🌏　海外,#genre#
 欧洲华文2台,http://vvlive.eztv.vip/hwetnew/hwetnew.m3u8?auth_key=1710810771-0-0-c5ce71079eaa4d245127b05375ae371f
-中国CSPAN,https://sxg.btjson.us.kg/thetv/cspan
+金砖英文,http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8中国CSPAN,https://sxg.btjson.us.kg/thetv/cspan
 中国CSPAN 2,https://sxg.btjson.us.kg/thetv/cspan-2
 美国Fox News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 美国Fox News,https://sxg.btjson.us.kg/thetv/fox-news-channel
