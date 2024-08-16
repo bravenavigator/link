@@ -53,11 +53,9 @@ CCTV5体育,https://live.goodiptv.club/api/cqyx.php?id=cctv5HD
 CCTV6电影,https://live.goodiptv.club/api/cqyx.php?id=cctv6HD
 CCTV9纪录,https://live.goodiptv.club/api/cqyx.php?id=cctv9HD
 CCTV第一剧场,https://live.goodiptv.club/api/cqyx.php?id=diyijuchangHD
-CCTV都市剧场,https://live.goodiptv.club/api/cqyx.php?id=dsjcHD
 CCTV风云剧场,https://live.goodiptv.club/api/cqyx.php?id=fyjcHD
 CCTV风云音乐,https://live.goodiptv.club/api/cqyx.php?id=fyyyHD
 CCTV高尔夫网球,https://live.goodiptv.club/api/cqyx.php?id=golfHD
-CCTV魅力足球,https://live.goodiptv.club/api/cqyx.php?id=mlzqHD
 CCTV央视台球,https://live.goodiptv.club/api/cqyx.php?id=ystqHD
 CCTV12社会与法,https://live.goodiptv.club/api/cqyx.php?id=cctv12HD
 CCTV16奥林匹克,https://live.goodiptv.club/api/cqyx.php?id=cctv16HD
@@ -1554,6 +1552,7 @@ BRTV卡酷少儿,http://218.80.79.205:4022/udp/239.45.0.8:5140
 纪实频道,http://210.22.75.86:9901/tsfile/live/0107_3.m3u8?key=txiptv&playlive=1&authid=0
 乐游频道,http://124.128.73.58:9901/tsfile/live/1006_1.m3u8
 乐游频道,http://113.9.152.139:88/hls/114/index.m3u8
+都市剧场,https://live.goodiptv.club/api/cqyx.php?id=dsjcHD
 都市剧场,http://183.237.246.14:9931/tsfile/live/1107_1.m3u8
 都市剧场,http://113.9.152.139:88/hls/125/index.m3u8
 欢笑剧场,http://183.237.246.14:9931/tsfile/live/1106_1.m3u8
