@@ -1563,6 +1563,7 @@ BRTV卡酷少儿,http://218.80.79.205:4022/udp/239.45.0.8:5140
 新视觉,http://1b6467f415.iok.la:9931/tsfile/live/1105_1.m3u8
 五星体育,http://58.37.189.47:8088/udp/239.45.3.210:5140
 五星体育,http://210.22.75.86:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+魅力足球,https://live.goodiptv.club/api/cqyx.php?id=mlzqHD
 魅力足球,https://livednow.com/migu/796070308?sign=gAAAAABmqO-
 精彩体育,http://113.9.152.139:88/hls/304/index.m3u8
 动漫秀场,http://218.80.79.205:4022/udp/239.45.3.134:5140
