@@ -1546,17 +1546,18 @@ myTV SUPER 直播足球4台,https://tvb.mytvsuper.us.kg/stream/tvb/mytvsuper4/ma
 myTV SUPER 直播足球5台,https://tvb.mytvsuper.us.kg/stream/tvb/mytvsuper5/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 myTV SUPER 直播足球6台,https://tvb.mytvsuper.us.kg/stream/tvb/mytvsuper6/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 ✨　台湾,#genre#
-中天新闻,https://lzoq.serv00.net/daili/Smartv.php?id=ctinews
 中天新闻,http://aa3.kkwk111.top/Smartv.php?id=ctinews
-中天新闻,https://lzo.us.kg/daili/Smartv.php?id=ctinews
-中天新闻,http://xyt.186738613.xyz/Smartv.php?id=ctinews
+中天综合,https://stream1.freetv.fun/448ea05fe06ec8f25e5f6123b02c9bd2d8747c0414d79b36f054d69e58a4301c.ctv
 中天亚洲,http://extraott.com:80/live/7921751389/6097373662/5555.m3u8
 中视HD,rtmp://f13h.mine.nu/sat/tv091
 中视HD,rtmp://220.130.201.73/sat/tv091
+东森新闻,https://stream1.freetv.fun/06662348c5d655eada3055681991e16181b0fb309c68d52463437f1d8e20b599.m3u8
+东森新闻,https://stream1.freetv.fun/dong-sen-xin-wen-8.ctv
 东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 东森超视,rtmp://220.130.201.73/sat/tv331
 东森MOMO,http://extraott.com:80/live/7921751389/6097373662/5510.m3u8
+东森电影,https://stream1.freetv.fun/dong-sen-yang-pian-6.ctv
 东森电影,http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8
 TVBS新闻,https://tvb.mytvsuper.us.kg/stream/tvb/null-22/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
@@ -1567,22 +1568,36 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 民视HD,rtmp://f13h.mine.nu/sat/tv051
 民视HD,rtmp://220.130.201.73/sat/tv051
+民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-12.m3u8
+民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-3.m3u8
+民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-10.m3u8
+民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-20.ctv
+民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-6.m3u8
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 台视HD,rtmp://f13h.mine.nu/sat/tv071
 台视HD,rtmp://220.130.201.73/sat/tv071
 台视综合,http://extraott.com:80/live/7921751389/6097373662/5500.m3u8
+台视新闻,https://stream1.freetv.fun/tai-shi-xin-wen-18.m3u8
+台视新闻,https://stream1.freetv.fun/tai-shi-xin-wen-2.m3u8
 台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 台视台湾,http://extraott.com:80/live/7921751389/6097373662/5502.m3u8
+三立新闻,https://stream1.freetv.fun/a97a103dc92d94b93dcc836a385d40739a3220f141df8d6333ba8e7a84f54464.ctv
+三立新闻,https://stream1.freetv.fun/san-li-xin-wen-2.ctv
 三立综合,http://extraott.com:80/live/7921751389/6097373662/5503.m3u8
+三立都会,https://stream1.freetv.fun/a2abe78388038c7b7187e49d210b5e04cccb546e3808c459470e4ed685a877d7.ctv
 三立台湾,http://extraott.com:80/live/7921751389/6097373662/5505.m3u8
 三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
+镜新闻,https://stream1.freetv.fun/xin-wen-4.ctv
+镜新闻,https://stream1.freetv.fun/xin-wen-2.m3u8
+镜新闻,https://stream1.freetv.fun/xin-wen-1.m3u8
 华视HD,rtmp://f13h.mine.nu/sat/tv111
 华视HD,rtmp://220.130.201.73/sat/tv111
 年代新闻,http://extraott.com:80/live/7921751389/6097373662/5509.m3u8
+年代新闻,https://stream1.freetv.fun/nian-dai-xin-wen-4.ctv
 年代新闻,https://bsex.serv00.net/Smart.php?id=niandainews_twn
 大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 壹电视新闻,http://extraott.com:80/live/7921751389/6097373662/5532.m3u8
@@ -1594,6 +1609,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 纬来综合,http://extraott.com:80/live/7921751389/6097373662/5490.m3u8
 纬来电视,http://extraott.com:80/live/7921751389/6097373662/5491.m3u8
 纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
+纬来电影,https://stream1.freetv.fun/wei-lai-dian-ying-3.ctv
 纬来电影,https://api.btbt.im/live?id=videoland-movie
 纬来日本,http://extraott.com:80/live/7921751389/6097373662/5495.m3u8
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
@@ -1602,6 +1618,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 纬来体育,rtmp://220.130.201.73/sat/tv721
 纬来育乐,rtmp://220.130.201.73/sat/tv701
+纬来日本,https://stream1.freetv.fun/wei-lai-ri-ben-4.ctv
 纬来日本,rtmp://220.130.201.73/sat/tv771
 亚洲美食台,http://extraott.com:80/live/7921751389/6097373662/5566.m3u8
 ELEVEN1台,rtmp://f13h.mine.nu/sat/tv731
@@ -1610,6 +1627,7 @@ MoMo综合,rtmp://f13h.mine.nu/sat/tv761
 SKYLINK TELEVISION 2,http://extraott.com:80/live/7921751389/6097373662/473535.m3u8
 SKYLINK TELEVISION,http://extraott.com:80/live/7921751389/6097373662/473536.m3u8
 靖天映画,http://metatvpro.xyz:25461/live/W1045/4329/13134.m3u8
+龙祥电影,https://stream1.freetv.fun/long-xiang-dian-ying-6.ctv
 天映频道,http://php.jdshipin.com:8880/xsj.php?id=celestial
 爱尔达戏剧,http://extraott.com:80/live/7921751389/6097373662/5546.m3u8
 八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
