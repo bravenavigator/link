@@ -1604,6 +1604,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 壹电视旅游,http://extraott.com:80/live/7921751389/6097373662/5533.m3u8
 寰宇新闻,http://extraott.com:80/live/7921751389/6097373662/5523.m3u8
 寰宇财经,http://extraott.com:80/live/7921751389/6097373662/5525.m3u8
+非凡新闻,rtmp://f13h.mine.nu/sat/tv581
 华语电视,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 纬来综合,http://extraott.com:80/live/7921751389/6097373662/5490.m3u8
