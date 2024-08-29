@@ -1630,9 +1630,8 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 华视ᴴᴰ,rtmp://f13h.mine.nu/sat/tv111
 华视ᴴᴰ,rtmp://220.130.201.73/sat/tv111
 华视ᴴᴰ,rtmp://59.124.75.138/sat/tv111
-年代新闻,http://extraott.com:80/live/7921751389/6097373662/5509.m3u8
+年代新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8529/.m3u8
 年代新闻,https://stream1.freetv.fun/nian-dai-xin-wen-4.ctv
-年代新闻,https://bsex.serv00.net/Smart.php?id=niandainews_twn
 大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 壹电视新闻,http://extraott.com:80/live/7921751389/6097373662/5532.m3u8
 壹电视旅游,http://extraott.com:80/live/7921751389/6097373662/5533.m3u8
