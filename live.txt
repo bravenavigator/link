@@ -1623,7 +1623,6 @@ TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 华视ᴴᴰ,rtmp://220.130.201.73/sat/tv111
 华视ᴴᴰ,rtmp://59.124.75.138/sat/tv111
 年代新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8529/.m3u8
-年代新闻,https://stream1.freetv.fun/nian-dai-xin-wen-4.ctv
 大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 壹电视新闻,https://stream1.freetv.fun/4c8adef47c01115677bc13b65593946135e6fe8c470fad1db810248c3ca10150.m3u8
 寰宇台湾,https://stream1.freetv.fun/huan-yu-tai-wan-1.m3u8
@@ -1643,7 +1642,9 @@ TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 纬来日本,rtmp://220.130.201.73/sat/tv771
 ELEVEN1台,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN2台,rtmp://f13h.mine.nu/sat/tv741
-MoMo综合,rtmp://f13h.mine.nu/sat/tv761
+MOMO綜合,rtmp://f13h.mine.nu/sat/tv761
+MOMO综合,rtmp://59.124.75.138/sat/tv761
+MOMO儿童,http://37.27.111.214:8080/live/3/hls.m3u8
 靖天映画,http://metatvpro.xyz:25461/live/W1045/4329/13134.m3u8
 龙祥电影,https://stream1.freetv.fun/long-xiang-dian-ying-6.ctv
 天映频道,http://php.jdshipin.com:8880/xsj.php?id=celestial
