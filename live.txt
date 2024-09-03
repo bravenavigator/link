@@ -1583,9 +1583,7 @@ myTV SUPER 直播足球6台,https://tvb.mytvsuper.us.kg/stream/tvb/mytvsuper6/ma
 中视ᴴᴰ,rtmp://f13h.mine.nu/sat/tv091
 中视ᴴᴰ,rtmp://220.130.201.73/sat/tv091
 中视ᴴᴰ,rtmp://59.124.75.138:1935/sat/tv091
-东森新闻,https://stream1.freetv.fun/06662348c5d655eada3055681991e16181b0fb309c68d52463437f1d8e20b599.m3u8
 东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8
-东森新闻,https://stream1.freetv.fun/dong-sen-xin-wen-8.ctv
 东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 东森超视,rtmp://59.124.75.138:1935/sat/tv331
