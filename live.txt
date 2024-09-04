@@ -46,6 +46,13 @@ CCTV5+体育赛事,http://1639.hsmedia.top:8080/newlive/live/hls/7/live.m3u8
 CCTV6电影,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 CCTV6电影,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
 CCTV14少儿,http://1639.hsmedia.top:8080/newlive/live/hls/16/live.m3u8
+CCTV电视指南,http://dl.lck.xyz:4000/udp/239.253.43.19:5146
+CCTV第一剧场,http://gd.ikhs.cn:8880/rtp/239.69.1.74:10084
+CCTV兵器科技,http://gd.ikhs.cn:8880/rtp/239.69.1.79:10114
+CCTV风云足球,http://gd.ikhs.cn:8880/rtp/239.69.1.81:10126
+CCTV高尔夫网球,http://gd.ikhs.cn:8880/rtp/239.69.1.83:10138
+CCTV世界地理,http://gd.ikhs.cn:8880/rtp/239.69.1.91:10186
+CCTV央视台球,http://gd.ikhs.cn:8880/rtp/239.69.1.98:10224
 CCTV1综合,https://live.goodiptv.club/api/cqyx.php?id=cctv1HD
 CCTV3综艺,https://live.goodiptv.club/api/cqyx.php?id=cctv3HD
 CCTV5体育,https://live.goodiptv.club/api/cqyx.php?id=cctv5HD
@@ -1151,6 +1158,7 @@ CGTN西语,http://pi.0472.org/live/cgtne.m3u8?token=240413
 CGTN法语,http://pi.0472.org/live/cgtnf.m3u8?token=240413
 CGTN阿语,http://pi.0472.org/live/cgtna.m3u8?token=240413
 CGTN俄语,http://pi.0472.org/live/cgtnr.m3u8?token=240413
+ABC英语互动,http://37.27.111.214:8080/live/54/hls.m3u8
 Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3ed4c4f47848295648250f4b8/live.isml/.m3u8
 📺　广东,#genre#
 广东新闻,http://14.212.185.27:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -1574,7 +1582,7 @@ myTV SUPER 直播足球6台,https://tvb.mytvsuper.us.kg/stream/tvb/mytvsuper6/ma
 中视ᴴᴰ,rtmp://f13h.mine.nu/sat/tv091
 中视ᴴᴰ,rtmp://220.130.201.73/sat/tv091
 中视ᴴᴰ,rtmp://59.124.75.138:1935/sat/tv091
-中视新闻ᴰ,http://37.27.111.214:8080/live/7/hls.m3u8
+中视新闻,http://37.27.111.214:8080/live/7/hls.m3u8
 中视经典,http://37.27.111.214:8080/live/47/hls.m3u8
 中视箐采,http://37.27.111.214:8080/live/48/hls.m3u8
 东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8
