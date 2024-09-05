@@ -1209,7 +1209,6 @@ RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/st
 中天新闻,http://aa3.kkwk111.top/Smartv.php?id=ctinews
 中天综合,https://stream1.freetv.fun/448ea05fe06ec8f25e5f6123b02c9bd2d8747c0414d79b36f054d69e58a4301c.ctv
 中视ᴴᴰ,rtmp://f13h.mine.nu/sat/tv091
-中视ᴴᴰ,rtmp://220.130.201.73/sat/tv091
 中视ᴴᴰ,rtmp://59.124.75.138:1935/sat/tv091
 中视新闻,http://37.27.111.214:8080/live/7/hls.m3u8
 中视经典,http://37.27.111.214:8080/live/47/hls.m3u8
@@ -1218,7 +1217,6 @@ RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/st
 东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 东森超视,rtmp://59.124.75.138:1935/sat/tv331
-东森超视,rtmp://220.130.201.73/sat/tv331
 东森电影,https://stream1.freetv.fun/dong-sen-dian-ying-1.m3u8
 东森电影,http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
@@ -1228,7 +1226,6 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS欢乐,https://stream1.freetv.fun/tvbshuan-le-3.m3u8
 TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 民视ᴴᴰ,rtmp://f13h.mine.nu/sat/tv051
-民视ᴴᴰ,rtmp://220.130.201.73/sat/tv051
 民视ᴴᴰ,rtmp://59.124.75.138/sat/tv051
 民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-12.m3u8
 民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-3.m3u8
@@ -1242,7 +1239,6 @@ TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 民视第一,http://tv.tvbox6.icu/tv/tw9.php?id=4
 民视旅游,http://37.27.111.214:8080/live/82/hls.m3u8
 台视ᴴᴰ,rtmp://f13h.mine.nu/sat/tv071
-台视ᴴᴰ,rtmp://220.130.201.73/sat/tv071
 台视ᴴᴰ,rtmp://59.124.75.138/sat/tv071
 台视新闻,https://live.wcetv.com/hls/m3u8/ttvnews.m3u8
 台视新闻,https://live.wcetv.com/hls/master-ttvnews.m3u8
@@ -1262,7 +1258,6 @@ TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 镜新闻,https://stream1.freetv.fun/xin-wen-1.m3u8
 镜新闻,https://stream1.freetv.fun/jing-xin-wen-2.m3u8
 华视ᴴᴰ,rtmp://f13h.mine.nu/sat/tv111
-华视ᴴᴰ,rtmp://220.130.201.73/sat/tv111
 华视ᴴᴰ,rtmp://59.124.75.138/sat/tv111
 年代新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8529/.m3u8
 大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
@@ -1278,10 +1273,7 @@ TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
-纬来体育,rtmp://220.130.201.73/sat/tv721
-纬来育乐,rtmp://220.130.201.73/sat/tv701
 纬来日本,https://stream1.freetv.fun/wei-lai-ri-ben-4.ctv
-纬来日本,rtmp://220.130.201.73/sat/tv771
 ELEVEN1台,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN2台,rtmp://f13h.mine.nu/sat/tv741
 MOMO綜合,rtmp://f13h.mine.nu/sat/tv761
