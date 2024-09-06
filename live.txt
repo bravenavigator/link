@@ -417,6 +417,15 @@ CCTV高尔夫网球,http://gzly.hkychina.com:6001/udp/239.252.219.95:5140
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 宁夏卫视,https://hls.ningxiahuangheyun.com/tv/nxws.m3u8
+湖南卫视,http://60.223.224.176:8888/newlive/live/hls/22/live.m3u8
+东方卫视,http://60.223.224.176:8888/newlive/live/hls/19/live.m3u8
+浙江卫视,http://60.223.224.176:8888/newlive/live/hls/23/live.m3u8
+江苏卫视,http://60.223.224.176:8888/newlive/live/hls/21/live.m3u8
+广东卫视,http://60.223.224.176:8888/newlive/live/hls/20/live.m3u8
+北京卫视,http://60.223.224.176:8888/newlive/live/hls/18/live.m3u8
+河南卫视,http://60.223.224.176:8888/newlive/live/hls/32/live.m3u8
+湖北卫视,http://60.223.224.176:8888/newlive/live/hls/33/live.m3u8
+山西卫视,http://60.223.224.176:8888/newlive/live/hls/43/live.m3u8
 山西卫视,http://113.25.252.226:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://119.163.199.98:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁卫视,http://119.163.199.98:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
