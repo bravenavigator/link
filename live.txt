@@ -1193,7 +1193,6 @@ BRTV卡酷少儿,http://218.80.79.205:4022/udp/239.45.0.8:5140
 ✨　港澳,#genre#
 凤凰资讯,https://tv.sd.cn/sichuan?id=239.93.0.118:2191
 凤凰资讯,http://wouu.net:9977/rtp/239.93.0.118:2191?Cf=cfss.cc
-凤凰资讯,http://122.224.232.226:8888/udp/233.50.200.192:5140
 凤凰资讯,http://s.cdhongyuan.cn:4022/udp/239.93.0.118:2191
 凤凰资讯,http://s.cdhongyuan.cn:4022/udp/239.93.1.4:2191
 凤凰中文,https://tv.sd.cn/sichuan?id=239.93.0.162:2192
