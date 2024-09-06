@@ -1193,11 +1193,12 @@ BRTV卡酷少儿,http://218.80.79.205:4022/udp/239.45.0.8:5140
 ✨　港澳,#genre#
 凤凰资讯,https://tv.sd.cn/sichuan?id=239.93.0.118:2191
 凤凰资讯,http://wouu.net:9977/rtp/239.93.0.118:2191?Cf=cfss.cc
-凤凰资讯,https://stream1.freetv.fun/xffeng-huang-zi-xun-2.m3u8
+凤凰资讯,http://122.224.232.226:8888/udp/233.50.200.192:5140
+凤凰资讯,http://s.cdhongyuan.cn:4022/udp/239.93.0.118:2191
+凤凰资讯,http://s.cdhongyuan.cn:4022/udp/239.93.1.4:2191
 凤凰中文,https://tv.sd.cn/sichuan?id=239.93.0.162:2192
 凤凰中文,http://wouu.net:9977/rtp/239.93.0.162:2192?Cf=cfss.cc
 凤凰中文,http://122.224.232.218:8888/rtp/233.50.200.191:5140
-凤凰香港,https://stream1.freetv.fun/xffeng-huang-xiang-gang-2.m3u8
 凤凰香港,http://124.244.149.194:65531/bysid/85
 凤凰香港,http://beishan008.asuscomm.com:8890/bysid/85.m3u8
 凤凰香港,http://zsntlqj.xicp.net:8896/bysid/85.m3u8
@@ -1232,7 +1233,7 @@ RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/st
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 ✨　台湾,#genre#
 中天新闻,http://aa3.kkwk111.top/Smartv.php?id=ctinews
-中天综合,https://stream1.freetv.fun/448ea05fe06ec8f25e5f6123b02c9bd2d8747c0414d79b36f054d69e58a4301c.ctv
+中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
 中视ᴴᴰ,rtmp://f13h.mine.nu/sat/tv091
 中视ᴴᴰ,rtmp://59.124.75.138:1935/sat/tv091
 中视新闻,http://37.27.111.214:8080/live/7/hls.m3u8
