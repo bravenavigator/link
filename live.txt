@@ -1385,10 +1385,8 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 无锡经济,http://stream.thmz.com/wxtv5/playlist.m3u8
 无锡生活,http://stream.thmz.com/wxtv4/playlist.m3u8
 无锡娱乐,http://stream.thmz.com/wxtv2/playlist.m3u8
-镇江新闻综合,http://zjtvwshls.homecdn.com/live/2aa50.m3u8
-镇江新闻综合,http://cmwshls.homecdn.com/live/2aa50.m3u8
-镇江社会民生,http://cmwshls.homecdn.com/live/2aa16.m3u8
-镇江社会民生,http://zjtvwshls.homecdn.com/live/2aa16.m3u8
+镇江新闻综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8
+镇江民生,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
 南通新闻综合,http://nthls.ntjoy.com/live/4f1.m3u8
 南通新闻综合,http://nthls.ntjoy.com/live/4f1.flv
 南通新闻综合,rtmp://nthls.ntjoy.com/live/4f1
