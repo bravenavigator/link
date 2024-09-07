@@ -1884,14 +1884,14 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 海口生活娱乐,http://153.0.158.159:16080/live/tv2402.m3u8
 海口城乡经济,http://153.0.158.159:16080/live/tv2403.m3u8
 📺　河南,#genre#
-新闻综合,http://123.160.235.240:85/tsfile/live/1003_1.m3u8
+新闻频道,http://123.160.235.240:85/tsfile/live/1003_1.m3u8
 都市频道,http://123.160.235.240:85/tsfile/live/1000_1.m3u8
 民生频道,http://123.160.235.240:85/tsfile/live/1001_1.m3u8
 法制频道,http://123.160.235.240:85/tsfile/live/1002_1.m3u8
 新闻频道,http://123.160.235.240:85/tsfile/live/1003_1.m3u8
 公共频道,http://123.160.235.240:85/tsfile/live/1004_1.m3u8
 移动戏曲,http://123.160.235.240:85/tsfile/live/1005_1.m3u8
-梨园频道,http://123.160.235.240:85/tsfile/live/1006_1.m3u8
+河南戏曲,http://123.160.235.240:85/tsfile/live/1006_1.m3u8
 都市频道,http://61.136.67.238:50085/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
 法制频道,http://61.136.67.238:50085/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 电视剧频道,http://61.136.67.238:50085/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
