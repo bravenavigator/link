@@ -1414,7 +1414,6 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 徐州铜山二套,http://stream.tstvxmt.com/ts3/sd/live.m3u8
 徐州新沂新闻,http://live.xysrmt.cn/xwzh/sd/live.m3u8?zjiangsd
 徐州新沂生活,http://live.xysrmt.cn/shpd/sd/live.m3u8?zjiangsd
-连云港新闻综合,http://live.lyg1.com/zhpd/sd/live.m3u8
 连云港东海综合,http://donghaitvhls.cm.jstv.com/donghaitv/donghaixinwensp.m3u8
 泰州一套,http://stream1.mytaizhou.net/xwzh/sd/live.m3u8?_upt=f97c80491706200828
 泰州二套,http://stream1.mytaizhou.net/jjshnew/playlist.m3u8
