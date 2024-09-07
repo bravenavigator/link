@@ -1465,9 +1465,8 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 宁波余姚综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 宁波象山综合,http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
 宁波鄞州一套,http://playa2.quklive.com/live/1668501533304136.m3u8
-绍兴新闻综合,http://live.shaoxing.com.cn/video/s10001sxhb/index.m3u8
-绍兴公共,http://live.shaoxing.com.cn/video/s10001sxtv2/index.m3u8
-绍兴文化影视,http://live.shaoxing.com.cn/video/s10001sxtv3/index.m3u8
+绍兴新闻综合,http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8
+绍兴文化影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 绍兴嵊州综合,https://hlsv2.quklive.com/live/1626935015913208/index.m3u8
 绍兴嵊州综合,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 绍兴诸暨综合,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8
