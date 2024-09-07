@@ -48,7 +48,7 @@ CCTV6电影,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8?key=txiptv&play
 CCTV1综合,http://123.160.235.240:85/tsfile/live/0001_1.m3u8
 CCTV2财经,http://123.160.235.240:85/tsfile/live/0002_1.m3u8
 CCTV3综艺,http://123.160.235.240:85/tsfile/live/0003_1.m3u8
-CCTV4国际,http://123.160.235.240:85/tsfile/live/0004_1.m3u8
+CCTV4中文国际,http://123.160.235.240:85/tsfile/live/0004_1.m3u8
 CCTV5体育,http://123.160.235.240:85/tsfile/live/0005_1.m3u8
 CCTV6电影,http://123.160.235.240:85/tsfile/live/0006_1.m3u8
 CCTV7国防军事,http://123.160.235.240:85/tsfile/live/0007_1.m3u8
