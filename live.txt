@@ -950,12 +950,12 @@ CCTV高尔夫网球,http://gzly.hkychina.com:6001/udp/239.252.219.95:5140
 山西卫视,http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
 云南卫视,http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
 云南卫视,http://tvlive.ynradio.com/live/yunnanweishi/playlist.m3u8
-青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
 内蒙古卫视,http://nas.zyshare.top:10000/udp/239.29.0.2:5000
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/720p.m3u8
 新疆卫视,http://ynxsj.7766.org:9901/tsfile/live/0110_1.m3u8?key=txiptv
+青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=1da074361609506578
 云南卫视,http://222.241.154.37:9901/tsfile/live/23043_1.m3u8?key=txiptv&playlive=1&authid=0
 海峡卫视,http://117.27.190.42:9998/tsfile/live/23283_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1179,6 +1179,8 @@ BRTV卡酷少儿,http://218.80.79.205:4022/udp/239.45.0.8:5140
 乐游频道,http://110.178.52.91:8084/udp/239.1.1.84:8084
 乐游频道,http://110.178.52.91:8085/udp/239.1.1.84:8084
 乐游频道,http://110.178.52.91:8083/udp/239.1.1.84:8084
+崇明电视台,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
+嘉定电视台,https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8
 📺　天津,#genre#
 天津新闻,http://nas.hssvm.com:8888/udp/225.1.1.130:5002
 天津文艺,http://nas.hssvm.com:8888/udp/225.1.1.131:5002
