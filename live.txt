@@ -1406,11 +1406,10 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 南通崇川公共,rtmp://nthls.ntjoy.com/live/4f5
 南通如东新闻,http://rudongtvhls.cm.jstv.com/rudongtv/rdxwzh.m3u8
 南通海安新闻综合,http://haiantvhls.cm.jstv.com/haiantv/haaxwzh.m3u8
-扬州一套,http://cmwshls.homecdn.com/live/8bb.m3u8
-扬州二套,http://cmwshls.homecdn.com/live/8bd.m3u8
-扬州三套,http://cmwshls.homecdn.com/live/8bf.m3u8
-扬州高邮一套,http://gaoyoutvhls.cm.jstv.com/gaoyoutv/gaoyouxw.m3u8
-扬州邗江,http://cmwshls.homecdn.com/live/8c3.m3u8
+扬州城市,http://cm-wshls.homecdn.com/live/8bd.m3u8
+扬州生活,http://cm-wshls.homecdn.com/live/8bf.m3u8
+扬州邗江,http://cm-wshls.homecdn.com/live/8c3.m3u8
+扬州高邮,http://gaoyou-tv-hls.cm.jstv.com/gaoyou-tv/gaoyouxw.m3u8
 徐州睢宁资讯,http://suiningtvhls.cm.jstv.com/suiningtv/suiningys.m3u8
 徐州睢宁生活教育,http://suiningtvhls.cm.jstv.com/suiningtv/suiningsh.m3u8
 徐州睢宁三农,http://suiningtvhls.cm.jstv.com/suiningtv/suiningsn.m3u8
