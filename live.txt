@@ -1381,7 +1381,7 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 南京信息,http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
 南京信息,https://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
 南京溧水新闻综合,http://live.lsrmw.cn/zhpd/sd/live.m3u8
-南京溧水影院娱乐,http://live.lsrmw.cn/ysyl/sd/live.m3u8
+南京江宁综合,https://jiangning-tv-hls.cm.jstv.com/jiangning-tv/jnxwzh.m3u8
 苏州新闻综合,http://tylive.kan0512.com/norecord/norecord_csztv1.m3u8
 苏州社会经济,http://tylive.kan0512.com/norecord/norecord_csztv2.m3u8
 苏州文化生活,http://tylive.kan0512.com/norecord/norecord_csztv3.m3u8
@@ -1420,8 +1420,9 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 徐州邳州综合,https://liveplus.pznews.com/pzzhpd/sd/live.m3u8
 徐州铜山一套,http://stream.tstvxmt.com/tstv1/sd/live.m3u8
 徐州铜山二套,http://stream.tstvxmt.com/ts3/sd/live.m3u8
-徐州新沂新闻,http://live.xysrmt.cn/xwzh/sd/live.m3u8?zjiangsd
-徐州新沂生活,http://live.xysrmt.cn/shpd/sd/live.m3u8?zjiangsd
+徐州新沂新闻,http://live.xysrmt.cn/xwzh/sd/live.m3u8
+徐州新沂生活,http://live.xysrmt.cn/shpd/sd/live.m3u8
+连云港新闻综合,http://live.lyg1.com/zhpd/sd/live.m3u8
 连云港东海综合,http://donghai-tv-hls.cm.jstv.com/donghaitv/donghaixinwensp.m3u8
 泰州一套,http://stream1.mytaizhou.net/xwzh/sd/live.m3u8?_upt=f97c80491706200828
 泰州二套,http://stream1.mytaizhou.net/jjshnew/playlist.m3u8
@@ -1438,6 +1439,7 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 淮安影院娱乐,http://live1.habc-tv.com/ysylsl/sd/live.m3u8?zjiangsd
 淮安淮安公共,http://live1.habc-tv.com/ggpdsl/sd/live.m3u8
 淮安金湖新闻综合,http://jinhu-tv-hls.cm.jstv.com/jinhutv/jinhuzh.m3u8
+淮安涟水综合,http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8
 江阴新闻综合,http://221.228.70.101:8080/live/xinwen.m3u8
 📺　浙江,#genre#
 浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
