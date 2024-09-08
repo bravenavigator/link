@@ -1565,6 +1565,7 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 郴州桂东融媒,https://liveplay-srs.voc.com.cn/hls/tv/174_6ab9f8.m3u8
 郴州桂阳综合,https://liveplay-srs.voc.com.cn/hls/tv/7_7c833e.m3u8
 郴州临武综合,https://liveplay-srs.voc.com.cn/hls/tv/148_feda2f.m3u8
+郴州嘉禾综合,https://liveplay-srs.voc.com.cn/hls/tv/184_e3af1a.m3u8
 衡阳耒阳新闻综合,https://liveplay-srs.voc.com.cn/hls/tv/27_e9e1e5.m3u8
 怀化洪江综合,https://liveplay-srs.voc.com.cn/hls/tv/34_5156ed.m3u8
 怀化麻阳综合,https://liveplay-srs.voc.com.cn/hls/tv/38_6f397d.m3u8
