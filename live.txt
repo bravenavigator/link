@@ -2390,7 +2390,9 @@ CHC家庭影院,http://php.jdshipin.com:8880/cqyx.php?id=chcjtyyhd
 金砖英文,http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
 中国CSPAN,https://sxg.btjson.us.kg/thetv/cspan
 中国CSPAN 2,https://sxg.btjson.us.kg/thetv/cspan-2
+美国Fox News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 美国Fox News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+美国Fox News,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 美国Fox News,https://sxg.btjson.us.kg/thetv/fox-news-channel
 美国Fox Business,https://sxg.btjson.us.kg/thetv/fox-business-network
 美国Fox 5,https://lnc-wnyw.tubi.video/index.m3u8
@@ -2398,7 +2400,6 @@ CHC家庭影院,http://php.jdshipin.com:8880/cqyx.php?id=chcjtyyhd
 美国CNN News,https://rakuten-cnninternational-1-de.lg.wurl.tv/playlist.m3u8
 美国HLN,https://sxg.btjson.us.kg/thetv/hln
 美国ABC News,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
-美国ABC News,http://41.205.93.154/ABC/index.m3u8
 美国CBN News,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 美国CNBC News,https://sxg.btjson.us.kg/thetv/cnbc
 美国PBS World Channel,https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/HasBahCa.m3u8
