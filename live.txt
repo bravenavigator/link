@@ -1000,7 +1000,6 @@ Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3ed4c4f478482956
 📺　广东,#genre#
 广东新闻,http://14.212.185.27:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 广东新闻,http://gmxw.7766.org:808/hls/5/index.m3u8
-广东新闻,https://stream1.freetv.fun/yan-dong-xin-wen-dx-2.m3u8
 广东珠江,http://php.jdshipin.com:8880/xsj.php?id=gdzj
 广东珠江,http://14.212.185.27:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
 广东珠江,http://183.236.32.24:9901/hls/1036/index.m3u8
@@ -1011,7 +1010,6 @@ Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3ed4c4f478482956
 经济科教,http://218.13.170.98:9901/tsfile/live/0018_1.m3u8
 广东民生,http://14.212.185.27:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
 广东民生,http://gmxw.7766.org:808/hls/18/index.m3u8
-广东民生,https://stream1.freetv.fun/yan-dong-gong-gong-dx-2.m3u8
 广东影视,http://gmxw.7766.org:808/hls/6/index.m3u8
 广东体育,http://php.jdshipin.com:8880/xsj.php?id=gdty
 广东体育,http://113.93.48.244:2000/udp/239.77.0.112:5146
@@ -1032,7 +1030,6 @@ Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3ed4c4f478482956
 广东体育,http://113.119.39.206:4433/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://116.21.121.116:4433/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://171.108.239.79:8181/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-5.m3u8
 广东民生,http://14.121.146.11:554/udp/239.77.0.225:5146
 广东民生,http://14.121.146.11:30001/udp/239.77.0.225:5146
 广东少儿,http://14.121.146.11:554/udp/239.77.0.250:5146
@@ -1090,7 +1087,6 @@ Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3ed4c4f478482956
 深圳财经生活,http://gmxw.7766.org:808/hls/151/index.m3u8
 深圳电视剧,http://gmxw.7766.org:808/hls/141/index.m3u8
 深圳电视剧,http://61.141.202.118:9901/tsfile/live/0126_3.m3u8
-深圳电视剧,https://stream1.freetv.fun/7e371d97f588aab4178a9da03f3744e27b161cb04e30fc582dfe8b07cb7aacfe.m3u8
 深圳娱乐,http://gmxw.7766.org:808/hls/155/index.m3u8
 深圳体育健康,http://gmxw.7766.org:808/hls/158/index.m3u8
 深圳少儿,http://gmxw.7766.org:808/hls/157/index.m3u8
@@ -1115,7 +1111,6 @@ Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3ed4c4f478482956
 东莞生活资讯,http://149.88.85.102:1354/0769.php?id=shzx
 东莞生活资讯,http://php.jdshipin.com:8880/0769.php?id=shzx
 东莞生活资讯,http://php.jdshipin.com:8880/PLTV/chudian.php?id=dggg
-茂名综合,https://stream1.freetv.fun/afa3d33a4a99917a2908ec3984adc3e484f9aa4300bd9e1e03b342534bea0bbb.m3u8
 清远新闻综合,https://huodong.zuiqingyuan.com/dianshi/newxinwenpingdao.m3u8?token=B86ouFGGfrmwNY9CDr8t
 清远文旅生活,https://huodong.zuiqingyuan.com/dianshi/newwenlvshenghuo.m3u8?token=B86ouFGGfrmwNY9CDr8t932
 汕头综合,http://211.97.63.3:801/hls/81/index.m3u8
