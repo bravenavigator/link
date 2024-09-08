@@ -1649,7 +1649,7 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 阜阳太和新闻综合,https://playhsbjstaticbgp.vzan.com/1110366022/109031811546416830/live.m3u8?zbid=1110366022&tpid=686842078&type=0
 宣城广德生活,http://tlive.gdtv.ah.cn/live/shenghuoTV.m3u8
 宣城绩溪新闻综合,http://xzbf.fst1994.cn/jxtv/jxzh.m3u8
-黄山祁门新闻综合,http://file.qmxrmt.com/nmipmedia/channellive/channel108622/playlist.m3u8
+黄山祁门新闻综合,http://file.qmxrmt.com/nmip-media/channellive/channel108622/playlist.m3u8
 黄山歙县综合,http://112.30.194.221:20080/live/4b3024127d1c472986ccdcb454f81a9f/hls.m3u8
 📺　江西,#genre#
 江西新闻,http://111.74.155.231:9901/tsfile/live/1024_1.m3u8
@@ -1713,9 +1713,9 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 成都双流综合,http://171.221.250.130:18888/27e684978eb642eeb90ab815f6cc51bf/c41893de5e8645b3b43aef1640859b0d.m3u8
 成都龙泉驿区综合,https://livepull.newslqy.com/live/fmzb1682404988829.m3u8
 峨眉综合,https://embl.emsyd.jrem.cn:443/aaa/003.m3u8?auth_key=166986158400f96c19f553b976f1f9800423b10baa5b
-乐山沙湾综合,http://tvfile.swrmt.com:80/nmipmedia/channellive/channel100064/playlist.m3u8
+乐山沙湾综合,http://tvfile.swrmt.com:80/nmip-media/channellive/channel100064/playlist.m3u8
 乐山夹江新闻综合,rtmp://tv.jjrm.org.cn/channellive/ch1
-乐山井研新闻综合,http://tvfile.jyrmt.cn:80/nmipmedia/channellive/channel104452/playlist.m3u8
+乐山井研新闻综合,http://tvfile.jyrmt.cn:80/nmip-media/channellive/channel104452/playlist.m3u8
 乐山犍为综合,http://r8.vzan.com:80/v/slowlive_230559508552681163.m3u8
 乐山五通桥综合,https://play.wtqrm.com:443/qtwz/wtqzb.m3u8?auth_key=16633235050001843919c015a267038d6e00fd1e1519
 眉山新闻综合,https://live1.scmstv.cn/gqpd/playlist.m3u8?_upt=3e1abc571704868799
@@ -1724,14 +1724,14 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 眉山公共,http://live2.scmstv.cn/ggpd/sd/live.m3u8
 眉山洪雅综合,http://117.172.215.250:8083/videos/live/35/39/GQVbrgob5CGJM/GQVbrgob5CGJM.M3U8
 眉山青神综合,http://lmt.scqstv.com/live1/live1.m3u8
-眉山彭山综合,http://m3u8tv.psrm.net:80/nmipmedia/channellive/channel100740/playlist.m3u8
+眉山彭山综合,http://m3u8tv.psrm.net:80/nmip-media/channellive/channel100740/playlist.m3u8
 眉山甘洛综合,http://dcpull.sctvcloud.com:80/live/4ba0f5ec018810005fe8143900000000/playlist.m3u8
 眉山江油综合,http://dcpull.sctvcloud.com:80/live/56ce76ab01881000f9f7f6c700000000/playlist.m3u8
-泸州新闻综合,http://m3u8.channel.luzhoubs.com/nmipmedia/channellive/channel106011/playlist.m3u8
-泸州公共,http://m3u8.channel.luzhoubs.com/nmipmedia/channellive/channel102221/playlist.m3u8
-泸州科教生活,http://file.luzhoubs.com/nmipmedia/channellive/channel103074/playlist.m3u8
-泸州科教生活,http://m3u8.channel.luzhoubs.com/nmipmedia/channellive/channel103074/playlist.m3u8
-泸州泸县综合,http://lxfile.lxxcb.cn/nmipmedia/channellive/channel103799/playlist.m3u8
+泸州新闻综合,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel106011/playlist.m3u8
+泸州公共,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel102221/playlist.m3u8
+泸州科教生活,http://file.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
+泸州科教生活,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
+泸州泸县综合,http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8
 达州新闻综合,http://tv.drs.dzxw.net:80/channellive/xwzhpddz1.flv
 达州新闻综合,http://tv.drs.dzxw.net/channellive/xwzhpddz1.flv
 达州文化生活,http://tv.drs.dzxw.net/channellive/ggpddz2.flv
@@ -1746,17 +1746,17 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 德阳仁寿综合,https://play.scrstv.com:443/TV/xwzh.m3u8?auth_key=1701335002003f433e2a59b5dcff4ed6e1328e60d981
 资阳乐至综合,http://175.155.106.72:89/live1/live1.m3u8
 南充蓬安综合,http://palive.patv123.com:8091/live/xwpd_800K.m3u8
-南充营山综合,http://file.ysxtv.cn/cms/videos/nmipmedia/channellive/channel4/playlist.m3u8
+南充营山综合,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
 绵阳盐亭综合,http://dcpull.sctvcloud.com:80/live/574a1afd018810007cdf2ae200000000/playlist.m3u8
 绵阳北川一套,http://dcpull.sctvcloud.com:80/live/561c239c01881000e4bfd3e600000000/playlist.m3u8
 广安新闻综合,http://live1.gatv.com.cn:85/live/XWZH.m3u8
 广安文旅乡村,http://live1.gatv.com.cn:85/live/GGPD.m3u8
 广安岳池综合,http://liveyc.cmc.yuechirmt.cn:80/live/yctv.m3u8?auth_key=171411239800d9a6bd74623c01c1c2f9576fe51e8b7b
 广元利州综合,http://tv.drs.lzgbdst.com:8100/channellive/lztv2.flv
-广元利州综合,http://tvfile.lzgbdst.com/nmipmedia/channellive/channel106876/playlist.m3u8
+广元利州综合,http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8
 广元苍溪综合,http://livecx.cxxrmt.com:80/cxdst/zb03.m3u8?auth_key=1692864295004edeb8a8702116ab36f44606c26719f4
-广元青川综合,http://qcfile.qcrmt.com:80/nmipmedia/channellive/channel100933/playlist.m3u8
-广元旺苍综合,http://channel.wcrmt.cn:80/nmipmedia/channellive/channel105268/playlist.m3u8
+广元青川综合,http://qcfile.qcrmt.com:80/nmip-media/channellive/channel100933/playlist.m3u8
+广元旺苍综合,http://channel.wcrmt.cn:80/nmip-media/channellive/channel105268/playlist.m3u8
 广元昭化综合,http://live.zhgBRTV.cn:3100/hls/kwqtkbbi/index.m3u8
 巴中平昌综合,http://dcpull.sctvcloud.com:80/live/56bd348f018810004a8741e000000000/playlist.m3u8
 宜宾叙州综合,http://pililivehls.ybcxjd.com/jdhlive/2108111201035597.m3u8
@@ -1769,8 +1769,8 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 阿坝金川综合,http://live.jinchuanrmt.com:90/live/zhxw.m3u8
 阿坝金川乡村,http://live.jinchuanrmt.com:90/live/jcxc.m3u8
 甘孜综合,http://tv.drs.ganzitv.com:8100/channellive/gztv.flv
-甘孜德格综合,http://dgfile.ganzitv.com:80/nmipmedia/channellive/channel101955/playlist.m3u8
-甘孜康定综合,http://m3u8kd.channel.ganzitv.com/nmipmediayajiang/channellive/channel100663/playlist.m3u8?zsicd
+甘孜德格综合,http://dgfile.ganzitv.com:80/nmip-media/channellive/channel101955/playlist.m3u8
+甘孜康定综合,http://m3u8kd.channel.ganzitv.com/nmip-mediayajiang/channellive/channel100663/playlist.m3u8?zsicd
 凉山普格综合,http://175.153.116.219:8086/0.m3u8
 凉山西昌综合,http://xcfb.screx.com.cn:18085/hlsnew1/channel1.m3u8
 📺　云南,#genre#
@@ -1787,17 +1787,17 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 云南康旅,http://tvlive.ynradio.com/live/yunnangonggong/playlist.m3u8
 丽江新闻综合,http://play.live.lijiangtv.com/live/tvzh.m3u8
 丽江文化旅游,http://play.live.lijiangtv.com/live/tvgg.m3u8
-西双版纳西双综合,http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel1/playlist.m3u8
-西双版纳文化旅游,http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel3/playlist.m3u8
+西双版纳西双综合,http://file.xsbnrtv.cn/vms/videos/nmip--media/channellive/channel1/playlist.m3u8
+西双版纳文化旅游,http://file.xsbnrtv.cn/vms/videos/nmip--media/channellive/channel3/playlist.m3u8
 个旧综合,http://tv.drs.hhtv.cc:8100/channellive/gjdst.flv
-个旧综合,http://file.hhtv.cc/cms/videos/nmipmedia/channellive/channel6/playlist.m3u8
+个旧综合,http://file.hhtv.cc/cms/videos/nmip-media/channellive/channel6/playlist.m3u8
 红河新闻综合,http://tv.drs.hhtv.cc:8100/channellive/hhtv1.flv?zyund
 红河公共,http://tv.drs.hhtv.cc:8100/channellive/hhtv2.flv?zyund
 红河元阳综合,http://tv.drs.hhtv.cc:8100/channellive/yydst.flv
 文山新闻综合,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv?zyund
-文山新闻综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmipmedia/channellive/channel7/playlist.m3u8
-文山公共,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmipmedia/channellive/channel8/playlist.m3u8
-文山麻栗坡综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmipmedia/channellive/channel18/playlist.m3u8
+文山新闻综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
+文山公共,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8
+文山麻栗坡综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8
 文山麻栗坡综合,http://tvdrs.wsrtv.com.cn:8100/channellive/mlptv.flv
 怒江综合,http://livebroadcast.ccwb.cn/live/w1620805130988936.m3u8?zyund
 怒江贡山综合,http://livebroadcast.ccwb.cn/live/w1609121671179943.m3u8
