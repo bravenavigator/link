@@ -1227,9 +1227,14 @@ BRTV卡酷少儿,http://218.80.79.205:4022/udp/239.45.0.8:5140
 凤凰资讯,http://wouu.net:9977/rtp/239.93.0.118:2191?Cf=cfss.cc
 凤凰资讯,http://s.cdhongyuan.cn:4022/udp/239.93.0.118:2191
 凤凰资讯,http://s.cdhongyuan.cn:4022/udp/239.93.1.4:2191
+凤凰资讯,http://wouu.net:9977/udp/239.93.0.118:2191
+凤凰资讯,http://www.372583307.top:4022/udp/233.50.200.192:5140
+凤凰资讯,http://vl15191373.imwork.net:8880/udp/239.93.1.4:2191
 凤凰中文,https://tv.sd.cn/sichuan?id=239.93.0.162:2192
 凤凰中文,http://wouu.net:9977/rtp/239.93.0.162:2192?Cf=cfss.cc
+凤凰中文,http://wouu.net:9977/udp/239.93.0.162:2192
 凤凰中文,http://122.224.232.218:8888/rtp/233.50.200.191:5140
+凤凰中文,https://tv.sd.cn/sichuan?id=239.93.0.162:2192
 凤凰香港,http://124.244.149.194:65531/bysid/85
 凤凰香港,http://beishan008.asuscomm.com:8890/bysid/85.m3u8
 凤凰香港,http://zsntlqj.xicp.net:8896/bysid/85.m3u8
@@ -1245,7 +1250,9 @@ TVB新闻,http://live.cooltv.top/tv/tvb.php?id=2
 TVB新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
 TVB新闻,http://live.cooltv.top/tv/tvb.php?id=2&hq
 TVB新闻,http://zsntlqj.xicp.net:8896/bysid/83
+TVB新闻,https://i.125011.xyz/tvb.php?id=0&hq
 TVB星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+TVB星河,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
 TVB功夫,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 TVB功夫,https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3u8
 TVB千禧经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
