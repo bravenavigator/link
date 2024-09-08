@@ -2386,10 +2386,7 @@ CHC家庭影院,http://php.jdshipin.com:8880/cqyx.php?id=chcjtyyhd
 漫威剧情,http://159.75.85.63:35455/douyu/6140589
 星爷经典,http://tctct.douyucdn2.cn/dyliveflv1a/3637778raLSXdOdu_2000.m3u8
 🌏　海外,#genre#
-欧洲华文2台,http://vvlive.eztv.vip/hwetnew/hwetnew.m3u8?auth_key=1710810771-0-0-c5ce71079eaa4d245127b05375ae371f
 金砖英文,http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
-中国CSPAN,https://sxg.btjson.us.kg/thetv/cspan
-中国CSPAN 2,https://sxg.btjson.us.kg/thetv/cspan-2
 美国Fox News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 美国Fox News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 美国Fox News,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
