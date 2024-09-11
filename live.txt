@@ -2490,8 +2490,3 @@ CHC家庭影院,http://php.jdshipin.com:8880/cqyx.php?id=chcjtyyhd
 尼日利亚TSTV,http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
 Tastemate Travelᴴᴰ,https://tastemadetravel-vizio.amagi.tv/playlist720_p.m3u8
 Music,https://sxg.btjson.us.kg/thetv/mtv
-🌏   TW,#genre#
-中视,rtmp://220.130.201.73/sat/tv091
-中视,mitv://generationnexxxt.com:19806/27826c4ed7234c0d8759bc7fe6786a18
-中视,mitv://generationnexxxt.com:19806/c4ede9c3d1a84d0b9afe57622abcb9e7
-中视,P2p://generationnexxxt.com:19806/c4ede9c3d1a84d0b9afe57622abcb9e7
