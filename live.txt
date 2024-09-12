@@ -357,7 +357,6 @@ CCTV高尔夫网球,http://gzly.hkychina.com:6001/udp/239.252.219.95:5140
 延边卫视,http://127.0.0.1
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
-宁夏卫视,https://hls.ningxiahuangheyun.com/tv/nxws.m3u8
 江西卫视,http://121.24.99.168:8090/hls/55/index.m3u8
 四川卫视,http://121.24.99.168:8090/hls/58/index.m3u8
 安徽卫视,http://121.24.99.168:8090/hls/81/index.m3u8
@@ -1087,14 +1086,14 @@ BRTV卡酷少儿,http://218.80.79.205:4022/udp/239.45.0.8:5140
 重庆社会与法,http://rihou.cc:567/cqyx.php?id=cqshyf
 重庆少儿,http://rihou.cc:567/cqyx.php?id=cqse
 重庆时尚,http://rihou.cc:567/cqyx.php?id=cqsssh
-重庆农村,http://rihou.cc:567/cqyx.php?id=cqxnc
+重庆新农村,http://rihou.cc:567/cqyx.php?id=cqxnc
 重庆科教,http://rihou.cc:567/cqyx.php?id=cqkj
 重庆移动,http://rihou.cc:567/cqyx.php?id=cqyd
 重庆社会与法,http://kms.erfiy.com:8884/udp/225.0.4.190:7980
 重庆科教,http://kms.erfiy.com:8884/udp/225.0.4.193:7980
 重庆娱乐,http://kms.erfiy.com:8884/udp/225.0.4.194:7980
 重庆汽摩,http://kms.erfiy.com:8884/udp/225.0.4.195:7980
-重庆农村,http://kms.erfiy.com:8884/udp/225.0.4.189:7980
+重庆新农村,http://kms.erfiy.com:8884/udp/225.0.4.189:7980
 潼南综合,http://183.230.184.51:65500/tntv1.m3u8
 璧山综合,http://222.179.42.129:8181/hls1.m3u8
 垫江综合,http://125.62.24.185:80/1.m3u8
