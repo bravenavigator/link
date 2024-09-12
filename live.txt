@@ -45,6 +45,9 @@ CCTV6电影,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 CCTV6电影,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
 CCTV6电影,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4美洲,http://ikuai.zlsip.top:4022/rtp/239.3.1.214:4220
+中国教育1,http://117.161.12.124/live/program/live/zgjy1t8m/8000000/mnf.m3u8
+中国教育4,http://117.161.12.124/live/program/live/zgjy4hd8m/8000000/mnf.m3u8
+中国教育1,http://121.24.99.168:8090/hls/67/index.m3u8
 CCTV4中文国际,http://121.24.99.168:8090/hls/12/index.m3u8
 CCTV14少儿,http://121.24.99.168:8090/hls/22/index.m3u8
 CCTV6电影,http://121.24.99.168:8090/hls/14/index.m3u8
@@ -1081,13 +1084,13 @@ BRTV卡酷少儿,http://218.80.79.205:4022/udp/239.45.0.8:5140
 📺　重庆,#genre#
 重庆新闻,https://sjlivecdn9.cbg.cn/202506252322/app_2/_definst_/ls_3.stream/chunklist.m3u8
 重庆新闻,http://rihou.cc:567/cqyx.php?id=cqxw
-重庆社法,http://rihou.cc:567/cqyx.php?id=cqshyf
+重庆社会与法,http://rihou.cc:567/cqyx.php?id=cqshyf
 重庆少儿,http://rihou.cc:567/cqyx.php?id=cqse
 重庆时尚,http://rihou.cc:567/cqyx.php?id=cqsssh
-重庆新村,http://rihou.cc:567/cqyx.php?id=cqxnc
+重庆农村,http://rihou.cc:567/cqyx.php?id=cqxnc
 重庆科教,http://rihou.cc:567/cqyx.php?id=cqkj
 重庆移动,http://rihou.cc:567/cqyx.php?id=cqyd
-重庆社会,http://kms.erfiy.com:8884/udp/225.0.4.190:7980
+重庆社会与法,http://kms.erfiy.com:8884/udp/225.0.4.190:7980
 重庆科教,http://kms.erfiy.com:8884/udp/225.0.4.193:7980
 重庆娱乐,http://kms.erfiy.com:8884/udp/225.0.4.194:7980
 重庆汽摩,http://kms.erfiy.com:8884/udp/225.0.4.195:7980
