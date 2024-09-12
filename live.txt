@@ -47,9 +47,14 @@ CCTV6电影,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8?key=txiptv&play
 CCTV4美洲,http://ikuai.zlsip.top:4022/rtp/239.3.1.214:4220
 CCTV4美洲,http://ikuai.zlsip.top:4022/rtp/239.3.1.214:4220
 CCTV4欧洲,http://ikuai.zlsip.top:4022/rtp/239.3.1.213:4220
+CCTV世界地理,http://home.yulei.online:9999/rtp/226.0.2.222:9688
+CCTV兵器科技,http://diyp.uk.to/zb/1725695663.php?id=bqkj
+CCTV风云剧场,http://diyp.uk.to/zb/1725695663.php?id=fyjc
+CCTV文化精品,http://diyp.uk.to/zb/1725695663.php?id=whjp
 中国教育1,http://117.161.12.124/live/program/live/zgjy1t8m/8000000/mnf.m3u8
 中国教育4,http://117.161.12.124/live/program/live/zgjy4hd8m/8000000/mnf.m3u8
 中国教育1,http://121.24.99.168:8090/hls/67/index.m3u8
+中国交通,http://ikuai.zlsip.top:4022/rtp/239.3.1.188:8001
 CCTV4中文国际,http://121.24.99.168:8090/hls/12/index.m3u8
 CCTV14少儿,http://121.24.99.168:8090/hls/22/index.m3u8
 CCTV6电影,http://121.24.99.168:8090/hls/14/index.m3u8
@@ -1110,6 +1115,7 @@ BRTV卡酷少儿,http://218.80.79.205:4022/udp/239.45.0.8:5140
 永川综合,https://qxlmlive9.cbg.cn/applive/yctv01/playlist.m3u8
 开州综合,https://qxlmlive9.cbg.cn/applive/kzpd01/chunklist.m3u8
 ✨　港澳,#genre#
+无线华丽台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 凤凰资讯,https://tv.sd.cn/sichuan?id=239.93.0.118:2191
 凤凰资讯,http://wouu.net:9977/rtp/239.93.0.118:2191?Cf=cfss.cc
 凤凰资讯,http://s.cdhongyuan.cn:4022/udp/239.93.0.118:2191
@@ -1125,6 +1131,7 @@ BRTV卡酷少儿,http://218.80.79.205:4022/udp/239.45.0.8:5140
 凤凰香港,http://124.244.149.194:65531/bysid/85
 凤凰香港,http://beishan008.asuscomm.com:8890/bysid/85.m3u8
 凤凰香港,http://zsntlqj.xicp.net:8896/bysid/85.m3u8
+TVB翡翠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 TVB翡翠,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 TVB翡翠,http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8
 TVB翡翠,http://183.237.246.14:9931/tsfile/live/1007_1.m3u8
@@ -1151,6 +1158,7 @@ RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/st
 RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
 RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
 RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream04/streamPlaylist.m3u8
+有线综合,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hoytv
 澳门Macau,http://61.244.22.5/ch3/ch3.live/chunklist.m3u8
 澳视澳门,http://183.237.246.14:9931/tsfile/live/1039_1.m3u8
 澳视澳门,http://1b6467f415.iok.la:9931/tsfile/live/1039_1.m3u8
@@ -1158,27 +1166,33 @@ RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream04/st
 澳门莲花,http://php.jdshipin.com:8880/amlh.php
 澳门莲花,https://tv.iill.top/mo/lhws
 澳视葡语,http://61.244.22.5/ch2/ch2.live/chunklist.m3u8
+Astr剧集台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 ✨　台湾,#genre#
-中天新闻,http://aa3.kkwk111.top/Smartv.php?id=ctinews
+中天新闻,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv009
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
 中视ᴴᴰ,rtmp://f13h.mine.nu/sat/tv091
 中视ᴴᴰ,rtmp://59.124.75.138:1935/sat/tv091
 中视新闻,http://37.27.111.214:8080/live/7/hls.m3u8
 中视经典,http://37.27.111.214:8080/live/47/hls.m3u8
+中视菁采,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv064
 中视箐采,http://37.27.111.214:8080/live/48/hls.m3u8
+中视闽南,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv040
 东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8
 东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 东森超视,rtmp://59.124.75.138:1935/sat/tv331
 东森电影,https://stream1.freetv.fun/dong-sen-dian-ying-1.m3u8
 东森电影,http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8
+TVBS新闻,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv072
+TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS欢乐,https://stream1.freetv.fun/tvbshuan-le-3.m3u8
-TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
+TVBS精采,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv067
+TVBS闽南,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv073
 民视ᴴᴰ,rtmp://f13h.mine.nu/sat/tv051
 民视ᴴᴰ,rtmp://59.124.75.138/sat/tv051
 民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-12.m3u8
@@ -1188,7 +1202,11 @@ TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+民视台湾,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv001
 民视台湾,https://stream1.freetv.fun/min-shi-tai-wan-3.m3u8
+民视闽南,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv002
+民视第一,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv003
+民视综艺,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv004
 民视综艺,http://37.27.111.214:8080/live/67/hls.m3u8
 民视第一,http://tv.tvbox6.icu/tv/tw9.php?id=4
 民视旅游,http://37.27.111.214:8080/live/82/hls.m3u8
@@ -1202,6 +1220,8 @@ TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+台视财经,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv056
+台视闽南,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv066
 台视卡通,http://37.27.111.214:8080/live/12/hls.m3u8
 三立新闻,https://stream1.freetv.fun/san-li-xin-wen-2.ctv
 三立综合,http://37.27.111.214:8080/live/31/hls.m3u8
@@ -1217,6 +1237,8 @@ TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 壹电视新闻,https://stream1.freetv.fun/4c8adef47c01115677bc13b65593946135e6fe8c470fad1db810248c3ca10150.m3u8
 寰宇台湾,https://stream1.freetv.fun/huan-yu-tai-wan-1.m3u8
+寰宇闽南,http://free.xiptv.x10.bz/4gtv.php?id=litv-longturn15
+非凡新闻,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv010
 非凡新闻,rtmp://f13h.mine.nu/sat/tv581
 华语电视,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
@@ -1233,6 +1255,15 @@ ELEVEN2台,rtmp://f13h.mine.nu/sat/tv741
 MOMO綜合,rtmp://f13h.mine.nu/sat/tv761
 MOMO综合,rtmp://59.124.75.138/sat/tv761
 MOMO儿童,http://37.27.111.214:8080/live/3/hls.m3u8
+靖天综合,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv046
+靖天资讯,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv065
+靖天戏剧,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv058
+靖天卡通,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv044
+靖天映画,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv055
+靖天日本,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv047
+靖天电影,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv061
+靖天育乐,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv062
+靖天国际,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv063
 靖天映画,http://metatvpro.xyz:25461/live/W1045/4329/13134.m3u8
 龙祥电影,https://stream1.freetv.fun/long-xiang-dian-ying-6.ctv
 天映频道,http://php.jdshipin.com:8880/xsj.php?id=celestial
@@ -1246,6 +1277,7 @@ AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+公视戏剧,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv042
 TAIWAN Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
