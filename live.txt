@@ -44,8 +44,6 @@ CCTV电视指南,http://127.0.0.1
 CCTV6电影,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 CCTV6电影,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
 CCTV6电影,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4美洲,http://ikuai.zlsip.top:4022/rtp/239.3.1.214:4220
-CCTV4欧洲,http://ikuai.zlsip.top:4022/rtp/239.3.1.213:4220
 CCTV世界地理,http://home.yulei.online:9999/rtp/226.0.2.222:9688
 CCTV兵器科技,http://diyp.uk.to/zb/1725695663.php?id=bqkj
 CCTV风云剧场,http://diyp.uk.to/zb/1725695663.php?id=fyjc
@@ -242,6 +240,7 @@ CCTV5体育,http://110.7.128.180:8096/tsfile/live/0005_1.m3u8
 CCTV3综艺,http://gmxw.7766.org:808/hls/92/index.m3u8
 CCTV4中文国际,http://gmxw.7766.org:808/hls/67/index.m3u8
 CCTV4美洲,http://gmxw.7766.org:808/hls/71/index.m3u8
+CCTV4欧洲,http://gmxw.7766.org:808/hls/67/index.m3u8
 CCTV5体育,http://gmxw.7766.org:808/hls/93/index.m3u8
 CCTV6电影,http://gmxw.7766.org:808/hls/94/index.m3u8
 CCTV15音乐,http://gmxw.7766.org:808/hls/102/index.m3u8
