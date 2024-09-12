@@ -1260,6 +1260,11 @@ TVBS闽南,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv073
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 纬来日本,https://stream1.freetv.fun/wei-lai-ri-ben-4.ctv
+龙华卡通,http://free.xiptv.x10.bz/4gtv.php?id=litv-longturn01
+龙华日韩,http://free.xiptv.x10.bz/4gtv.php?id=litv-longturn11
+龙华偶像,http://free.xiptv.x10.bz/4gtv.php?id=litv-longturn12
+龙华经典,http://free.xiptv.x10.bz/4gtv.php?id=litv-longturn21
+龙华戏剧,http://free.xiptv.x10.bz/4gtv.php?id=litv-longturn18
 ELEVEN1台,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN2台,rtmp://f13h.mine.nu/sat/tv741
 MOMO綜合,rtmp://f13h.mine.nu/sat/tv761
