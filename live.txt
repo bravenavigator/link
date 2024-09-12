@@ -45,6 +45,8 @@ CCTV6电影,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 CCTV6电影,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
 CCTV6电影,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4美洲,http://ikuai.zlsip.top:4022/rtp/239.3.1.214:4220
+CCTV4美洲,http://ikuai.zlsip.top:4022/rtp/239.3.1.214:4220
+CCTV4欧洲,http://ikuai.zlsip.top:4022/rtp/239.3.1.213:4220
 中国教育1,http://117.161.12.124/live/program/live/zgjy1t8m/8000000/mnf.m3u8
 中国教育4,http://117.161.12.124/live/program/live/zgjy4hd8m/8000000/mnf.m3u8
 中国教育1,http://121.24.99.168:8090/hls/67/index.m3u8
@@ -854,7 +856,10 @@ CGTN西语,http://127.0.0.1
 CGTN阿语,http://127.0.0.1
 CGTN纪录,http://127.0.0.1
 CGTN法语,https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
-CGTN阿语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
+CGTN法语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
+CGTN英语,http://ikuai.zlsip.top:4022/rtp/239.3.1.215:4220
+CGTN西语,http://ikuai.zlsip.top:4022/rtp/239.3.1.217:4220
+CGTN俄语,http://ikuai.zlsip.top:4022/rtp/239.3.1.220:4220
 CGTN俄语,http://1.24.190.98:10080/hls/21/index.m3u8
 CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 CGTN俄语,http://1.24.190.98:10080/hls/21/index.m3u8
