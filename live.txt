@@ -51,6 +51,11 @@ CCTV世界地理,http://home.yulei.online:9999/rtp/226.0.2.222:9688
 CCTV兵器科技,http://diyp.uk.to/zb/1725695663.php?id=bqkj
 CCTV风云剧场,http://diyp.uk.to/zb/1725695663.php?id=fyjc
 CCTV文化精品,http://diyp.uk.to/zb/1725695663.php?id=whjp
+CCTV兵器科技,http://rihou.cc:567/cqyx.php?id=bqkj
+CCTV风云剧场,http://rihou.cc:567/cqyx.php?id=fyjc
+CCTV文化精品,http://rihou.cc:567/cqyx.php?id=whjp
+CCTV早期教育,http://rihou.cc:567/cqyx.php?id=zqjy
+CCTV重温经典,http://rihou.cc:567/cqyx.php?id=cwjd
 中国教育1,http://117.161.12.124/live/program/live/zgjy1t8m/8000000/mnf.m3u8
 中国教育4,http://117.161.12.124/live/program/live/zgjy4hd8m/8000000/mnf.m3u8
 中国教育1,http://121.24.99.168:8090/hls/67/index.m3u8
