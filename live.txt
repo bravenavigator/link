@@ -277,12 +277,6 @@ CCTV10科教,http://36.248.137.69:60033/tsfile/live/0010_1.m3u8
 CCTV12社会与法,http://36.248.137.69:60033/tsfile/live/0012_1.m3u8
 CCTV14少儿,http://36.248.137.69:60033/tsfile/live/0014_1.m3u8
 CCTV17农业农村,http://36.248.137.69:60033/tsfile/live/0019_1.m3u8
-CCTV1综合,http://110.7.128.167:8096/tsfile/live/0001_1.m3u8
-CCTV9纪录,http://110.7.128.167:8096/tsfile/live/0009_1.m3u8
-CCTV1综合,http://110.7.128.171:8096/tsfile/live/0001_1.m3u8
-CCTV3综艺,http://110.7.128.171:8096/tsfile/live/0003_1.m3u8
-CCTV4中文国际,http://110.7.128.171:8096/tsfile/live/0005_1.m3u8
-CCTV9纪录,http://110.7.128.171:8096/tsfile/live/0009_1.m3u8
 CCTV1综合,http://110.7.128.180:8096/tsfile/live/0001_1.m3u8
 CCTV3综艺,http://110.7.128.180:8096/tsfile/live/0003_1.m3u8
 CCTV5体育,http://110.7.128.180:8096/tsfile/live/0005_1.m3u8
@@ -832,9 +826,6 @@ CCTV高尔夫网球,http://gzly.hkychina.com:6001/udp/239.252.219.95:5140
 重庆卫视,http://218.89.240.144:59901/tsfile/live/0142_1.m3u8
 黑龙江卫视,http://218.89.240.144:59901/tsfile/live/0143_1.m3u8
 康巴卫视,http://218.89.240.144:59901/tsfile/live/1010_1.m3u8
-贵州卫视,http://110.7.128.171:8096/tsfile/live/0120_1.m3u8
-北京卫视,http://110.7.128.171:8096/tsfile/live/0122_1.m3u8
-湖北卫视,http://110.7.128.171:8096/tsfile/live/0132_1.m3u8
 东方卫视,http://14.29.76.30:9901/tsfile/live/0107_1.m3u8
 甘肃卫视,http://14.29.76.30:9901/tsfile/live/0141_1.m3u8
 贵州卫视,http://14.29.76.30:9901/tsfile/live/0120_1.m3u8
