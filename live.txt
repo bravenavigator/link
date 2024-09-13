@@ -277,9 +277,6 @@ CCTV10科教,http://36.248.137.69:60033/tsfile/live/0010_1.m3u8
 CCTV12社会与法,http://36.248.137.69:60033/tsfile/live/0012_1.m3u8
 CCTV14少儿,http://36.248.137.69:60033/tsfile/live/0014_1.m3u8
 CCTV17农业农村,http://36.248.137.69:60033/tsfile/live/0019_1.m3u8
-CCTV1综合,http://110.7.128.180:8096/tsfile/live/0001_1.m3u8
-CCTV3综艺,http://110.7.128.180:8096/tsfile/live/0003_1.m3u8
-CCTV5体育,http://110.7.128.180:8096/tsfile/live/0005_1.m3u8
 CCTV3综艺,http://gmxw.7766.org:808/hls/92/index.m3u8
 CCTV4中文国际,http://gmxw.7766.org:808/hls/67/index.m3u8
 CCTV4美洲,http://gmxw.7766.org:808/hls/71/index.m3u8
@@ -1251,7 +1248,6 @@ BRTV国际,http://ikuai.zlsip.top:4022/rtp/239.3.1.235:8000
 宝坻一套,https://hb2stream1.baoxinwen.com/d6387fc7a8836e78/6385068498053235715_1597997122.m3u8?auth_key=18934560000093ea48b07ddd03f4904079b7659e81a4
 大港油田,http://nas.hssvm.com:8888/udp/225.1.2.14:5002
 📺　重庆,#genre#
-重庆新闻,https://sjlivecdn9.cbg.cn/202506252322/app_2/_definst_/ls_3.stream/chunklist.m3u8
 重庆新闻,http://rihou.cc:567/cqyx.php?id=cqxw
 重庆社会与法,http://rihou.cc:567/cqyx.php?id=cqshyf
 重庆少儿,http://rihou.cc:567/cqyx.php?id=cqse
