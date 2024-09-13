@@ -56,7 +56,6 @@ CCTV重温经典,http://rihou.cc:567/cqyx.php?id=cwjd
 中国教育1,http://117.161.12.124/live/program/live/zgjy1t8m/8000000/mnf.m3u8
 中国教育4,http://117.161.12.124/live/program/live/zgjy4hd8m/8000000/mnf.m3u8
 中国教育1,http://121.24.99.168:8090/hls/67/index.m3u8
-中国交通,http://ikuai.zlsip.top:4022/rtp/239.3.1.188:8001
 CCTV13新闻,http://58.48.5.186:1111/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15音乐,http://58.48.5.186:1111/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV12社会与法,http://58.48.5.186:1111/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1075,9 +1074,6 @@ CGTN阿语,http://127.0.0.1
 CGTN纪录,http://127.0.0.1
 CGTN法语,https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
 CGTN法语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
-CGTN英语,http://ikuai.zlsip.top:4022/rtp/239.3.1.215:4220
-CGTN西语,http://ikuai.zlsip.top:4022/rtp/239.3.1.217:4220
-CGTN俄语,http://ikuai.zlsip.top:4022/rtp/239.3.1.220:4220
 CGTN俄语,http://1.24.190.98:10080/hls/21/index.m3u8
 CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 CGTN俄语,http://1.24.190.98:10080/hls/21/index.m3u8
@@ -1236,29 +1232,14 @@ BRTV卡酷少儿,http://59.174.224.32:8880/rtp/239.69.1.193:10800
 BRTV卡酷少儿,http://59.172.144.204:10000/rtp/239.69.1.193:10800
 BRTV卡酷少儿,http://221.234.164.33:8888/rtp/239.69.1.193:10800
 BRTV卡酷少儿,http://218.80.79.205:4022/udp/239.45.0.8:5140
-BRTV影视,http://ikuai.zlsip.top:4022/rtp/239.3.1.158:8000
-BRTV财经,http://ikuai.zlsip.top:4022/rtp/239.3.1.116:8000
-BRTV生活,http://ikuai.zlsip.top:4022/rtp/239.3.1.117:8000
-BRTV科教,http://ikuai.zlsip.top:4022/rtp/239.3.1.115:8000
-BRTV体育,http://ikuai.zlsip.top:4022/rtp/239.3.1.243:8000
-BRTV国际,http://ikuai.zlsip.top:4022/rtp/239.3.1.235:8000
 淘剧场,http://218.241.192.50:8808/udp/239.3.1.95:8001
 淘电影,http://218.241.192.50:8808/udp/239.3.1.250:8001
 淘娱乐,http://218.241.192.50:8808/udp/239.3.1.100:8001
 萌宠TV,http://218.241.192.50:8808/udp/239.3.1.102:8001
 淘Baby,http://218.241.192.50:8808/udp/239.3.1.238:8001
-淘精彩,http://ikuai.zlsip.top:4022/rtp/239.3.1.178:8001
-淘娱乐,http://ikuai.zlsip.top:4022/rtp/239.3.1.100:8001
-淘Baby,http://ikuai.zlsip.top:4022/rtp/239.3.1.238:8001
-萌宠TV,http://ikuai.zlsip.top:4022/rtp/239.3.1.102:8001
 淘剧场,http://qnap.yjnhome.com:4000/udp/239.3.1.95:8001
 萌宠TV,http://qnap.yjnhome.com:4000/udp/239.3.1.102:8001
 淘Baby,http://qnap.yjnhome.com:4000/udp/239.3.1.238:8001
-睛彩竞技,http://ikuai.zlsip.top:4022/rtp/239.3.1.125:8001
-睛彩篮球,http://ikuai.zlsip.top:4022/rtp/239.3.1.126:8001
-睛彩羽毛球,http://ikuai.zlsip.top:4022/rtp/239.3.1.127:8001
-爱上4K,http://ikuai.zlsip.top:4022/rtp/239.3.1.236:2000
-朝阳融媒,http://ikuai.zlsip.top:4022/rtp/239.3.1.163:8001
 📺　上海,#genre#
 新闻综合,http://210.22.75.86:9901/tsfile/live/0107_4.m3u8
 新闻综合,http://58.41.27.144:18888/udp/239.45.3.209:5140
@@ -1343,7 +1324,6 @@ BRTV国际,http://ikuai.zlsip.top:4022/rtp/239.3.1.235:8000
 永川综合,https://qxlmlive9.cbg.cn/applive/yctv01/playlist.m3u8
 开州综合,https://qxlmlive9.cbg.cn/applive/kzpd01/chunklist.m3u8
 ✨　港澳,#genre#
-凤凰资讯,http://125.123.144.154:4022/rtp/233.50.200.192:5140
 凤凰资讯,https://tv.sd.cn/sichuan?id=239.93.0.118:2191
 凤凰资讯,http://wouu.net:9977/rtp/239.93.0.118:2191?Cf=cfss.cc
 凤凰资讯,http://s.cdhongyuan.cn:4022/udp/239.93.0.118:2191
@@ -1351,7 +1331,6 @@ BRTV国际,http://ikuai.zlsip.top:4022/rtp/239.3.1.235:8000
 凤凰资讯,http://wouu.net:9977/udp/239.93.0.118:2191
 凤凰资讯,http://www.372583307.top:4022/udp/233.50.200.192:5140
 凤凰资讯,http://vl15191373.imwork.net:8880/udp/239.93.1.4:2191
-凤凰中文,http://125.123.144.154:4022/rtp/233.50.200.191:5140
 凤凰中文,https://tv.sd.cn/sichuan?id=239.93.0.162:2192
 凤凰中文,http://wouu.net:9977/rtp/239.93.0.162:2192?Cf=cfss.cc
 凤凰中文,http://wouu.net:9977/udp/239.93.0.162:2192
@@ -1610,11 +1589,6 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 浙江教科影视,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 钱江频道,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-浙江教育,http://125.123.144.154:4022/rtp/233.50.201.134:5140
-浙江少儿,http://125.123.144.154:4022/rtp/233.50.201.138:5140
-浙江经济生活,http://125.123.144.154:4022/rtp/233.50.201.133:5140
-浙江新闻,http://125.123.144.154:4022/rtp/233.50.201.137:5140
-浙江民生休闲,http://125.123.144.154:4022/rtp/233.50.201.136:5140
 杭州综合,http://124.90.208.196:9901/tsfile/live/0121_1.m3u8
 杭州明珠,http://124.90.208.196:9901/tsfile/live/0116_1.m3u8
 杭州影视,http://124.90.208.196:9901/tsfile/live/0124_2.m3u8
