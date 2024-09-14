@@ -2264,11 +2264,11 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 阳泉新闻综合,https://live.yqrtv.com/xwpd/sd/live.m3u8
 阳泉科教,https://live.yqrtv.com/xwchne/sd/live.m3u8
 📺　甘肃,#genre#
-甘肃经济, http://www.pr666.site:4040/udp/239.255.30.253:8231
-甘肃公共, http://www.pr666.site:4040/udp/239.255.30.251:8231
-甘肃都市, http://www.pr666.site:4040/udp/239.255.30.252:8231
-甘肃文化影视, http://www.pr666.site:4040/udp/239.255.30.250:8231
-甘肃少儿, http://www.pr666.site:4040/udp/239.255.30.254:8231
+甘肃经济,http://www.pr666.site:4040/udp/239.255.30.253:8231
+甘肃公共,http://www.pr666.site:4040/udp/239.255.30.251:8231
+甘肃都市,http://www.pr666.site:4040/udp/239.255.30.252:8231
+甘肃文化影视,http://www.pr666.site:4040/udp/239.255.30.250:8231
+甘肃少儿,http://www.pr666.site:4040/udp/239.255.30.254:8231
 甘肃文化影视,http://www.lebaobei.top:6868/udp/239.255.30.250:8231
 甘肃公共,http://www.lebaobei.top:6868/udp/239.255.30.251:8231
 甘肃都市,http://www.lebaobei.top:6868/udp/239.255.30.252:8231
