@@ -2269,17 +2269,10 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 甘肃都市,http://www.pr666.site:4040/udp/239.255.30.252:8231
 甘肃文化影视,http://www.pr666.site:4040/udp/239.255.30.250:8231
 甘肃少儿,http://www.pr666.site:4040/udp/239.255.30.254:8231
-甘肃文化影视,http://www.lebaobei.top:6868/udp/239.255.30.250:8231
-甘肃公共,http://www.lebaobei.top:6868/udp/239.255.30.251:8231
-甘肃都市,http://www.lebaobei.top:6868/udp/239.255.30.252:8231
-甘肃经济,http://www.lebaobei.top:6868/udp/239.255.30.253:8231
-甘肃少儿,http://www.lebaobei.top:6868/udp/239.255.30.254:8231
 陇上生活,http://www.pr666.site:4040/udp/239.255.30.73:8231
 兰铁TV,http://dp.sxtv.top:88/ljes/yfy.php?id=41136
 嘉峪关综合,http://www.pr666.site:4040/udp/239.255.29.36:8231
 嘉峪关公共,http://www.pr666.site:4040/udp/239.255.29.35:8231
-嘉峪关综合,http://www.lebaobei.top:6868/udp/239.255.29.36:8231
-嘉峪关公共,http://www.lebaobei.top:6868/udp/239.255.29.35:8231
 平凉崆峒综合,http://125.74.200.110:10080/hls/001/001_live.m3u8
 📺　宁夏,#genre#
 宁夏公共,https://hls.ningxiahuangheyun.com/live/nxgg1M.m3u8
