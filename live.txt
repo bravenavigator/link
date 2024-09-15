@@ -1055,6 +1055,7 @@ CCTV高尔夫网球,http://gzly.hkychina.com:6001/udp/239.252.219.95:5140
 安多卫视,http://stream.qhbtv.com/adws/playlist.m3u8?_upt=848d1a991707377572
 安多卫视,http://stream.qhbtv.com/adws/playlist.m3u8?_upt=739abf201649062902
 康巴卫视,http://125.71.134.36:8466/udp/239.93.0.41:5140
+康巴卫视,http://218.89.240.144:59901/tsfile/live/1010_1.m3u8?key=txiptv
 三沙卫视,http://58.248.112.205:8006/GD_CUCC/G_SANSHA-HQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHVaHhm7EfB24tSDTA%2B4ZUJz1BWtWU81eWqPvN0PhI2pD
 延边卫视,http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
@@ -1068,7 +1069,6 @@ CGTN阿语,http://127.0.0.1
 CGTN纪录,http://127.0.0.1
 CGTN法语,https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
 CGTN法语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
-CGTN英语,http://218.89.240.144:59901/tsfile/live/1010_1.m3u8?key=txiptv
 CGTN俄语,http://1.24.190.98:10080/hls/21/index.m3u8
 CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 CGTN俄语,http://1.24.190.98:10080/hls/21/index.m3u8
