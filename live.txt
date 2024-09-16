@@ -1072,6 +1072,7 @@ CGTN法语,http://pi.0472.org/live/cgtnf.m3u8?token=240413
 CGTN阿语,http://pi.0472.org/live/cgtna.m3u8?token=240413
 CGTN俄语,http://pi.0472.org/live/cgtnr.m3u8?token=240413
 ABC英语互动,http://37.27.111.214:8080/live/54/hls.m3u8
+生活英语,http://37.27.111.214:8080/live/56/hls.m3u8
 Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3ed4c4f47848295648250f4b8/live.isml/.m3u8
 📺　广东,#genre#
 广东新闻,http://gmxw.7766.org:808/hls/5/index.m3u8
@@ -1371,9 +1372,9 @@ Astr剧集台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 ✨　台湾,#genre#
 中天新闻,http://50.7.234.10:8278/ctinews/playlist.m3u8?tid=MB0B9546410395464103&ct=19249&tsum=30c62d7eec5ce9a49a64c3fa3ff8a8b7
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
+中视ᴴᴰ,http://37.27.111.214:8080/live/7/hls.m3u8
 中视ᴴᴰ,rtmp://f13h.mine.nu/sat/tv091
 中视ᴴᴰ,rtmp://59.124.75.138:1935/sat/tv091
-中视ᴴᴰ,http://37.27.111.214:8080/live/7/hls.m3u8
 中视新闻,http://50.7.234.10:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd
 中视经典,http://37.27.111.214:8080/live/47/hls.m3u8
 中视经典,http://50.7.234.10:8278/zhongshi_twn/playlist.m3u8?tid=14379667&ct=17988&tsum=de63d02f44741580b5070077d1949841
@@ -1384,22 +1385,27 @@ Astr剧集台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 东森超视,rtmp://59.124.75.138:1935/sat/tv331
 东森电影,https://stream1.freetv.fun/dong-sen-dian-ying-1.m3u8
 东森电影,http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8
+TVBSᴴᴰ,http://37.27.111.214:8080/live/23/hls.m3u8
 TVBS新闻,http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MA4A2233260122332601&ct=19249&tsum=513a9dcb42fa8b98e1792d513dd3e2ee
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+TVBS欢乐,http://37.27.111.214:8080/live/24/hls.m3u8
 TVBS欢乐,https://stream1.freetv.fun/tvbshuan-le-3.m3u8
 民视ᴴᴰ,rtmp://f13h.mine.nu/sat/tv051
 民视ᴴᴰ,rtmp://59.124.75.138/sat/tv051
+民视ᴴᴰ,http://37.27.111.214:8080/live/6/hls.m3u8
 民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-3.m3u8
 民视新闻,https://stream1.freetv.fun/min-shi-xin-wen-6.m3u8
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+民视台湾,http://37.27.111.214:8080/live/5/hls.m3u8
 民视台湾,https://stream1.freetv.fun/min-shi-tai-wan-3.m3u8
 民视综艺,http://37.27.111.214:8080/live/67/hls.m3u8
+民视第一,http://37.27.111.214:8080/live/4/hls.m3u8
 民视第一,http://tv.tvbox6.icu/tv/tw9.php?id=4
 民视旅游,http://37.27.111.214:8080/live/82/hls.m3u8
 台视ᴴᴰ,rtmp://f13h.mine.nu/sat/tv071
@@ -1412,11 +1418,15 @@ TVBS欢乐,https://stream1.freetv.fun/tvbshuan-le-3.m3u8
 台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 台视卡通,http://37.27.111.214:8080/live/12/hls.m3u8
-三立新闻,https://stream1.freetv.fun/san-li-xin-wen-2.ctv
 三立综合,http://37.27.111.214:8080/live/31/hls.m3u8
+三立新闻,https://stream1.freetv.fun/san-li-xin-wen-2.ctv
 三立都会,https://stream1.freetv.fun/san-li-du-hui-1.m3u8
 三立戏剧,https://stream1.freetv.fun/san-li-xi-ju-1.m3u8
 三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
+寰宇新闻,http://37.27.111.214:8080/live/63/hls.m3u8
+寰宇财经,http://37.27.111.214:8080/live/65/hls.m3u8
+寰宇台湾,https://stream1.freetv.fun/huan-yu-tai-wan-1.m3u8
+镜新闻,http://37.27.111.214:8080/live/62/hls.m3u8
 镜新闻,https://stream1.freetv.fun/xin-wen-2.m3u8
 镜新闻,https://stream1.freetv.fun/xin-wen-1.m3u8
 镜新闻,https://stream1.freetv.fun/jing-xin-wen-2.m3u8
@@ -1427,8 +1437,9 @@ TVBS欢乐,https://stream1.freetv.fun/tvbshuan-le-3.m3u8
 壹电视新闻,https://stream1.freetv.fun/4c8adef47c01115677bc13b65593946135e6fe8c470fad1db810248c3ca10150.m3u8
 华视ᴴᴰ,rtmp://f13h.mine.nu/sat/tv111
 华视ᴴᴰ,rtmp://59.124.75.138/sat/tv111
+华视ᴴᴰ,http://37.27.111.214:8080/live/8/hls.m3u8
 大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-寰宇台湾,https://stream1.freetv.fun/huan-yu-tai-wan-1.m3u8
+全球财经,http://37.27.111.214:8080/live/64/hls.m3u8
 华语电视,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 纬来综合,https://stream1.freetv.fun/wei-lai-jing-cai-1.m3u8
@@ -1444,6 +1455,7 @@ ELEVEN2台,rtmp://f13h.mine.nu/sat/tv741
 MOMO綜合,rtmp://f13h.mine.nu/sat/tv761
 MOMO综合,rtmp://59.124.75.138/sat/tv761
 MOMO儿童,http://37.27.111.214:8080/live/3/hls.m3u8
+nickjr.,http://37.27.111.214:8080/live/22/hls.m3u8
 龙祥电影,https://stream1.freetv.fun/long-xiang-dian-ying-6.ctv
 天映频道,http://php.jdshipin.com:8880/xsj.php?id=celestial
 八大综合,https://stream1.freetv.fun/ba-da-zong-he-2.m3u8
@@ -1451,11 +1463,17 @@ MOMO儿童,http://37.27.111.214:8080/live/3/hls.m3u8
 八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
 八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
 八大戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
+亚洲旅游,http://37.27.111.214:8080/live/10/hls.m3u8
+生化旅游,http://37.27.111.214:8080/live/85/hls.m3u8
+旅游,http://37.27.111.214:8080/live/82/hls.m3u8
 AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
+龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
 星影台,http://tv.517300.xyz:8080/stream/tvb/null-1/master.m3u8?u=tvbaby&p=f1abe1b083d12d181ae136cfc75b8d18a8ecb43ac4e9d1a36d6a9c75b6016b61
+综艺,http://37.27.111.214:8080/live/67/hls.m3u8
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+智林体育,http://37.27.111.214:8080/live/77/hls.m3u8
 TAIWAN Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
