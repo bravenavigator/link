@@ -2379,14 +2379,14 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 营口新闻综合,http://120.76.248.139/live/bfgd/4200000278.m3u8
 📺黑龙江,#genre#
 黑龙江新闻法治,http://61.138.54.155:2233/hls/5/index.m3u8
-黑龙江都市http://61.138.54.155:2233/hls/4/index.m3u8
+黑龙江都市,http://61.138.54.155:2233/hls/4/index.m3u8
 黑龙江影视,http://61.138.54.155:2233/hls/2/index.m3u8
 黑龙江文体,http://61.138.54.155:2233/hls/3/index.m3u8
 黑龙江少儿,http://61.138.54.155:2233/hls/7/index.m3u8
 黑龙江科教,http://61.138.54.155:2233/hls/8/index.m3u8
 黑龙江新闻法治,https://idclive.hljtv.com:4430/live/hljxw_hd.m3u8
-黑龙江都市,https://idclive.hljtv.com:4430/live/dushi_hd.m3u8
 黑龙江公共农业,https://idclive.hljtv.com:4430/live/hljgg_hd.m3u8
+黑龙江都市,https://idclive.hljtv.com:4430/live/dushi_hd.m3u8
 黑龙江影视,https://idclive.hljtv.com:4430/live/hljys_hd.m3u8
 黑龙江文体,https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
 📺　吉林,#genre#
