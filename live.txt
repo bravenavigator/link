@@ -1439,6 +1439,7 @@ TVBS欢乐,https://stream1.freetv.fun/tvbshuan-le-3.m3u8
 华视ᴴᴰ,rtmp://59.124.75.138/sat/tv111
 华视ᴴᴰ,http://37.27.111.214:8080/live/8/hls.m3u8
 大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+公视戏剧,http://37.27.111.214:8080/live/87/hls.m3u8
 全球财经,http://37.27.111.214:8080/live/64/hls.m3u8
 华语电视,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
@@ -1474,8 +1475,13 @@ AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 智林体育,http://37.27.111.214:8080/live/77/hls.m3u8
+博思无限,http://37.27.111.214:8080/live/15/hls.m3u8
+博思高球,http://37.27.111.214:8080/live/13/hls.m3u8
+博思运动,http://37.27.111.214:8080/live/14/hls.m3u8
+博思网球,http://37.27.111.214:8080/live/16/hls.m3u8
 TAIWAN Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+GOOD2,http://37.27.111.214:8080/live/99/hls.m3u8
 GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 📺　江苏,#genre#
 江苏城市,http://ipv4.sunjianwu.fun:8800/udp/239.49.8.107:8000
