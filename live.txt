@@ -1268,7 +1268,7 @@ BRTV卡酷少儿,http://218.80.79.205:4022/udp/239.45.0.8:5140
 外语频道,http://117.161.12.124/live/program/live/wypdhd/4000000/mnf.m3u8
 五星体育,http://117.161.12.124/live/program/live/ssty/4000000/mnf.m3u8
 新视觉,http://117.161.12.124/live/program/live/xsjhd/4000000/mnf.m3u8
-乐游,http://117.161.12.124/live/program/live/qjshd/4000000/mnf.m3u8
+乐游频道,http://117.161.12.124/live/program/live/qjshd/4000000/mnf.m3u8
 哈哈炫动,http://117.161.12.124/live/program/live/hhxdhd/4000000/mnf.m3u8
 动漫秀场,http://117.161.12.124/live/program/live/dmxchd/4000000/mnf.m3u8
 欢笑剧场,http://117.161.12.124/live/program/live/hxjchd/4000000/mnf.m3u8
