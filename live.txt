@@ -1246,7 +1246,6 @@ BRTV卡酷少儿,http://218.80.79.205:4022/udp/239.45.0.8:5140
 新闻综合,http://58.41.27.144:18888/udp/239.45.3.209:5140
 新闻综合,http://218.80.79.205:4022/udp/239.45.3.209:5140
 都市频道,http://117.161.12.124/live/program/live/ylpdhd/4000000/mnf.m3u8
-都市剧场,http://183.237.246.14:9931/tsfile/live/1107_1.m3u8
 第一财经,http://117.161.12.124/live/program/live/dycjhd/4000000/mnf.m3u8
 点掌财经,https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
 外语频道,http://117.161.12.124/live/program/live/wypdhd/4000000/mnf.m3u8
@@ -1257,6 +1256,7 @@ BRTV卡酷少儿,http://218.80.79.205:4022/udp/239.45.0.8:5140
 乐游频道,http://117.161.12.124/live/program/live/qjshd/4000000/mnf.m3u8
 欢笑剧场,http://117.161.12.124/live/program/live/hxjchd/4000000/mnf.m3u8
 都市剧场,http://117.161.12.124/live/program/live/dsjchd/4000000/mnf.m3u8
+都市剧场,http://183.237.246.14:9931/tsfile/live/1107_1.m3u8
 新视觉,http://117.161.12.124/live/program/live/xsjhd/4000000/mnf.m3u8
 新视觉,http://183.237.246.14:9931/tsfile/live/1105_1.m3u8
 新视觉,http://1b6467f415.iok.la:9931/tsfile/live/1105_1.m3u8五星体育,http://117.161.12.124/live/program/live/ssty/4000000/mnf.m3u8
@@ -2032,8 +2032,8 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 河南公共,http://49.232.131.30:99/dxxw.php?id=hngg
 河南乡村,http://49.232.131.30:99/dxxw.php?id=hnxc
 河南梨园,http://49.232.131.30:99/dxxw.php?id=hnly
-河南文物宝库,http://49.232.131.30:99/dxxw.php?id=wwbk
-河南武术世界,http://49.232.131.30:99/dxxw.php?id=wspd
+文物宝库,http://49.232.131.30:99/dxxw.php?id=wwbk
+武术世界,http://49.232.131.30:99/dxxw.php?id=wspd
 河南睛彩中原,http://49.232.131.30:99/dxxw.php?id=jczy
 河南移动戏曲,http://49.232.131.30:99/dxxw.php?id=ydxj
 河南象视界,http://49.232.131.30:99/dxxw.php?id=xsj
@@ -2049,7 +2049,6 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 河南法治,http://43217878.xyz:5566/rtp/239.16.20.166:11660
 河南电视剧,http://43217878.xyz:5566/rtp/239.16.20.167:11670
 河南新闻,http://43217878.xyz:5566/rtp/239.16.20.168:11680
-河南欢腾购物,http://43217878.xyz:5566/rtp/239.16.20.169:11690
 河南公共,http://43217878.xyz:5566/rtp/239.16.20.170:11700
 河南梨园,http://43217878.xyz:5566/rtp/239.16.20.171:11710
 文物宝库,http://43217878.xyz:5566/rtp/239.16.20.172:11720
