@@ -1250,8 +1250,16 @@ BRTV卡酷少儿,http://218.80.79.205:4022/udp/239.45.0.8:5140
 五星体育,http://218.80.79.205:4022/udp/239.45.3.210:5140
 魅力足球,http://117.161.12.124/live/program/live/mlyyhd/4000000/mnf.m3u8
 动漫秀场,http://117.161.12.124/live/program/live/dmxchd/4000000/mnf.m3u8
-游戏风云,http://117.161.12.124/live/program/live/yxfyhd/4000000/mnf.m3u8
 哈哈炫动,http://117.161.12.124/live/program/live/hhxdhd/4000000/mnf.m3u8
+新闻综合,http://120.77.28.4:8648/mgu.php?id=shxwzh
+法治天地,http://120.77.28.4:8648/mgu.php?id=fztd
+东方影视,http://120.77.28.4:8648/mgu.php?id=dfys
+七彩戏剧,http://120.77.28.4:8648/mgu.php?id=qcxj
+欢笑剧场,http://120.77.28.4:8648/mgu.php?id=hxjc
+乐游频道,http://120.77.28.4:8648/mgu.php?id=ly
+魅力足球,http://120.77.28.4:8648/mgu.php?id=mlzq
+发现之旅,http://120.77.28.4:8648/mgu.php?id=fxzl
+中学生,http://120.77.28.4:8648/mgu.php?id=zxs
 崇明电视台,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
 嘉定电视台,https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8
 📺　天津,#genre#
