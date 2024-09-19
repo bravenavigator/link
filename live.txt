@@ -386,6 +386,7 @@ CCTV12社会与法,http://111.14.181.15:9901/tsfile/live/0012_1.m3u8?key=txiptv&
 CCTV13新闻,http://111.14.181.15:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV14少儿,http://111.14.181.15:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15音乐,http://111.14.181.15:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV17农业农村,http://210.22.75.86:9901/tsfile/live/1012_1.m3u8
 中国教育1,http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801.m3u8?key=txiptv&playlive=1&authid=0
 早期教育,http://gmxw.7766.org:808/hls/100/index.m3u8
 中国教育1,http://gmxw.7766.org:808/hls/122/index.m3u8
@@ -1236,7 +1237,7 @@ BRTV卡酷少儿,http://218.80.79.205:4022/udp/239.45.0.8:5140
 点掌财经,https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
 外语频道,http://117.161.12.124/live/program/live/wypdhd/4000000/mnf.m3u8
 东方影视,http://117.161.12.124/live/program/live/dsjpdhd/4000000/mnf.m3u8
-东方电影,http://210.22.75.86:9901/tsfile/live/1012_1.m3u8
+法治天地,http://120.77.28.4:8648/mgu.php?id=fztd
 生活时尚,http://117.161.12.124/live/program/live/shsshd/4000000/mnf.m3u8
 纪实频道,http://210.22.75.86:9901/tsfile/live/0107_3.m3u8
 乐游频道,http://117.161.12.124/live/program/live/qjshd/4000000/mnf.m3u8
@@ -1252,14 +1253,11 @@ BRTV卡酷少儿,http://218.80.79.205:4022/udp/239.45.0.8:5140
 动漫秀场,http://117.161.12.124/live/program/live/dmxchd/4000000/mnf.m3u8
 哈哈炫动,http://117.161.12.124/live/program/live/hhxdhd/4000000/mnf.m3u8
 新闻综合,http://120.77.28.4:8648/mgu.php?id=shxwzh
-法治天地,http://120.77.28.4:8648/mgu.php?id=fztd
 东方影视,http://120.77.28.4:8648/mgu.php?id=dfys
 七彩戏剧,http://120.77.28.4:8648/mgu.php?id=qcxj
 欢笑剧场,http://120.77.28.4:8648/mgu.php?id=hxjc
 乐游频道,http://120.77.28.4:8648/mgu.php?id=ly
 魅力足球,http://120.77.28.4:8648/mgu.php?id=mlzq
-发现之旅,http://120.77.28.4:8648/mgu.php?id=fxzl
-中学生,http://120.77.28.4:8648/mgu.php?id=zxs
 崇明电视台,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
 嘉定电视台,https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8
 📺　天津,#genre#
