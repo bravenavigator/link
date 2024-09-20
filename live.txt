@@ -1407,15 +1407,14 @@ TVBS欢乐,http://37.27.111.214:8080/live/24/hls.m3u8
 台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 台视卡通,http://37.27.111.214:8080/live/12/hls.m3u8
-三立综合,http://37.27.111.214:8080/live/31/hls.m3u8
-三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
 寰宇新闻,http://37.27.111.214:8080/live/63/hls.m3u8
 寰宇财经,http://37.27.111.214:8080/live/65/hls.m3u8
 镜新闻,http://37.27.111.214:8080/live/62/hls.m3u8
 非凡新闻,rtmp://f13h.mine.nu/sat/tv581
-靖天映画,http://metatvpro.xyz:25461/live/W1045/4329/13134.m3u8
 年代新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8529/.m3u8
 年代新闻,http://50.7.234.10:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
+三立综合,http://37.27.111.214:8080/live/31/hls.m3u8
+三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
 华视ᴴᴰ,rtmp://f13h.mine.nu/sat/tv111
 华视ᴴᴰ,rtmp://59.124.75.138/sat/tv111
 华视ᴴᴰ,http://37.27.111.214:8080/live/8/hls.m3u8
@@ -1436,6 +1435,7 @@ MOMO综合,rtmp://59.124.75.138/sat/tv761
 MOMO儿童,http://37.27.111.214:8080/live/3/hls.m3u8
 nickjr.,http://37.27.111.214:8080/live/22/hls.m3u8
 天映频道,http://php.jdshipin.com:8880/xsj.php?id=celestial
+靖天映画,http://metatvpro.xyz:25461/live/W1045/4329/13134.m3u8
 八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
 八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
 八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
