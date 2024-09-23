@@ -2604,6 +2604,8 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 CHC影迷电影,http://127.0.0.1
 CHC动作电影,http://127.0.0.1
 CHC家庭影院,http://127.0.0.1
+CHC动作电影,http://110.53.52.63:8888/newlive/live/hls/53/live.m3u8
+CHC家庭影院,http://110.53.52.63:8888/newlive/live/hls/51/live.m3u8
 CHC影迷电影,http://php.jdshipin.com:8880/cqyx.php?id=chcgqdyhd
 CHC动作电影,http://php.jdshipin.com:8880/cqyx.php?id=chcdzdyhd
 CHC家庭影院,http://php.jdshipin.com:8880/cqyx.php?id=chcjtyyhd
