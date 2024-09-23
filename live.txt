@@ -1358,8 +1358,6 @@ BRTV卡酷少儿,http://218.80.79.205:4022/udp/239.45.0.8:5140
 永川综合,https://qxlmlive9.cbg.cn/applive/yctv01/playlist.m3u8
 开州综合,https://qxlmlive9.cbg.cn/applive/kzpd01/chunklist.m3u8
 ✨　港澳,#genre#
-凤凰资讯,http://e2.woc.iiiya.cn:8888/udp/239.61.2.183:9086
-凤凰资讯,http://e2.woc.iiiya.cn:8888/udp/239.61.5.47:1025
 凤凰资讯,http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰资讯,https://tv.sd.cn/sichuan?id=239.93.0.118:2191
 凤凰资讯,http://wouu.net:9977/rtp/239.93.0.118:2191?Cf=cfss.cc
