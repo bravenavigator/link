@@ -1122,10 +1122,6 @@ CGTN俄语,https://0472.org/hls/cgtne.m3u8
 CGTN法语,https://0472.org/hls/cgtnf.m3u8
 CGTN西语,https://0472.org/hls/cgtnx.m3u8
 CGTN阿语,https://0472.org/hls/cgtna.m3u8
-CGTN俄语,http://1.24.190.98:10080/hls/21/index.m3u8
-CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
-CGTN俄语,http://1.24.190.98:10080/hls/21/index.m3u8
-CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 CGTN英语,http://gmxw.7766.org:808/hls/77/index.m3u8
 CGTN西语,http://gmxw.7766.org:808/hls/81/index.m3u8
 CGTN法语,http://gmxw.7766.org:808/hls/82/index.m3u8
