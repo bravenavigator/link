@@ -161,7 +161,7 @@ CCTV7国防军事,http://202.100.46.58:9901/tsfile/live/1006_1.m3u8?key=txiptv&p
 CCTV13新闻,http://202.100.46.58:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1综合,http://221.224.4.170:1111/tsfile/live/0001_1.m3u8
 CCTV2财经,http://221.224.4.170:1111/tsfile/live/0002_1.m3u8
-CCTV4国际,http://221.224.4.170:1111/tsfile/live/0004_1.m3u8
+CCTV4中文国际,http://221.224.4.170:1111/tsfile/live/0004_1.m3u8
 CCTV5体育,http://221.224.4.170:1111/tsfile/live/0005_1.m3u8
 CCTV6电影,http://221.224.4.170:1111/tsfile/live/0006_1.m3u8
 CCTV7国防军事,http://221.224.4.170:1111/tsfile/live/0007_1.m3u8
