@@ -1127,6 +1127,7 @@ CCTV高尔夫网球,http://gzly.hkychina.com:6001/udp/239.252.219.95:5140
 贵州卫视,http://113.57.109.48:1111/tsfile/live/1038_1.m3u8
 四川卫视,http://113.57.109.48:1111/tsfile/live/1039_1.m3u8
 新疆卫视,http://106.124.91.222:9901/tsfile/live/21212_1.m3u8
+甘肃卫视,http://110.189.102.15:9901/tsfile/live/0119_1.m3u8
 山东卫视,http://fangke.blueswords.com:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://fangke.blueswords.com:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://fangke.blueswords.com:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1998,10 +1999,12 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 四川新闻,http://61.157.139.15:9901/tsfile/live/2411_1.m3u8?key=txiptv&playlive=1&authid=0
 四川影视文艺,http://61.157.139.15:9901/tsfile/live/2412_1.m3u8?key=txiptv&playlive=1&authid=0
 四川新闻,http://218.89.240.144:59901/tsfile/live/1006_1.m3u8
+四川新闻,http://110.189.102.15:9901/tsfile/live/0117_1.m3u8
 四川经济,http://giwon.ddns.net:5555/udp/239.93.1.101:5140
 四川文化旅游,http://218.89.240.144:59901/tsfile/live/1007_1.m3u8
 四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
 峨眉电影,http://218.89.240.144:59901/tsfile/live/1011_1.m3u8
+峨眉电影,http://110.189.102.15:9901/tsfile/live/0118_1.m3u8
 成都新闻综合,http://117.72.68.25:9930/cdtvflv.php?id=cdxwzh
 成都经济资讯,http://117.72.68.25:9930/cdtvflv.php?id=cdjjzx
 成都都市生活,http://117.72.68.25:9930/cdtvflv.php?id=cddssh
@@ -2014,6 +2017,9 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 成都双流综合,http://171.221.250.130:18888/27e684978eb642eeb90ab815f6cc51bf/c41893de5e8645b3b43aef1640859b0d.m3u8
 成都龙泉驿区综合,https://live-pull.newslqy.com/live/fmzb1682404988829.m3u8
 峨眉综合,https://embl.emsyd.jrem.cn:443/aaa/003.m3u8?auth_key=1669861584-0-0-f96c19f553b976f1f9800423b10baa5b
+峨眉综合,http://110.189.102.15:9901/tsfile/live/0113_1.m3u8
+乐山综合,http://110.189.102.15:9901/tsfile/live/0116_1.m3u8
+乐山公共,http://110.189.102.15:9901/tsfile/live/0136_1.m3u8
 乐山沙湾综合,http://tvfile.swrmt.com:80/nmip-media/channellive/channel100064/playlist.m3u8
 乐山夹江新闻综合,rtmp://tv.jjrm.org.cn/channellive/ch1
 乐山井研新闻综合,http://tvfile.jyrmt.cn:80/nmip-media/channellive/channel104452/playlist.m3u8
