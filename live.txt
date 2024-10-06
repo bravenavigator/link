@@ -1543,14 +1543,14 @@ ViuTV,http://8.137.59.151:3000/laoshu1.php?key=6666&id=14
 ViuTV6,http://8.137.59.151:3000/laoshu1.php?key=6666&id=15
 ViuTV6,http://124.244.149.194:65530/bysid/96.m3u8 
 ViuTV,http://124.244.149.194:65530/bysid/99.m3u8 
-NOW新闻,http://8.137.59.151:3000/laoshu1.php?key=6666&id=16
 HOY TV,http://8.137.59.151:3000/laoshu1.php?key=6666&id=18
+HOY TV,http://8.137.59.151:3000/laoshu1.php?key=6666&id=4
 HOY资讯,http://8.137.59.151:3000/laoshu1.php?key=6666&id=19
 HOY国际财经,http://8.137.59.151:3000/laoshu1.php?key=6666&id=17
-香港有线新闻,http://8.137.59.151:3000/laoshu1.php?key=6666&id=4
 香港有线18,http://8.137.59.151:3000/laoshu1.php?key=6666&id=5
 香港有线18,http://ali.hlspull.yximgs.com/live/tboxprovhxqcvfhoeqfqhdoqqqyhcvxclqhqotqyq9qssqfdqcvhthofsqqhyx18.flv 
 香港有线18(普通话),http://8.137.59.151:3000/laoshu1.php?key=6666&id=6
+NOW新闻,http://8.137.59.151:3000/laoshu1.php?key=6666&id=16
 RTHK32,http://8.137.59.151:3000/laoshu1.php?key=6666&id=20
 RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
 RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
