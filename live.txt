@@ -1515,7 +1515,6 @@ TVB翡翠,http://nz171l122.bb60246.ctm.net:8889/bysid/1.m3u8
 TVB翡翠,http://zsntlqj.xicp.net:8895/bysid/1.m3u8
 TVB翡翠,http://beishan008.asuscomm.com:8889/bysid/1.m3u8
 TVB翡翠,http://58.250.155.2:8180/TV00000000000000000032@HHZT
-TVB新闻,http://8.137.59.151:3000/laoshu1.php?key=6666&id=4
 TVB新闻,http://124.244.149.194:65531/bysid/83.m3u8 
 TVB新闻,http://zsntlqj.xicp.net:8896/bysid/83
 TVB新闻,https://i.125011.xyz/tvb.php?id=0&hq
