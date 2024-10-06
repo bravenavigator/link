@@ -1540,9 +1540,9 @@ TVB Plus,http://124.244.149.194:65531/bysid/82.m3u8
 J2,http://8.137.59.151:3000/laoshu1.php?key=6666&id=9
 J2,http://fm1077.serv00.net/Smart.php?id=j2_twn
 ViuTV,http://8.137.59.151:3000/laoshu1.php?key=6666&id=14
-ViuTV6,http://8.137.59.151:3000/laoshu1.php?key=6666&id=15
-ViuTV6,http://124.244.149.194:65530/bysid/96.m3u8 
 ViuTV,http://124.244.149.194:65530/bysid/99.m3u8 
+NOW新闻,http://8.137.59.151:3000/laoshu1.php?key=6666&id=15
+NOW新闻,http://124.244.149.194:65530/bysid/96.m3u8 
 HOY 78,http://8.137.59.151:3000/laoshu1.php?key=6666&id=18
 HOY 78,http://8.137.59.151:3000/laoshu1.php?key=6666&id=4
 HOY 77,http://8.137.59.151:3000/laoshu1.php?key=6666&id=17
