@@ -62,7 +62,7 @@ CCTV8电视剧,http://119.135.1.16:6699/live/1008/index.m3u8
 CCTV9纪录,http://119.135.1.16:6699/live/1009/index.m3u8
 CCTV10科教,http://119.135.1.16:6699/live/1010/index.m3u8
 CCTV11戏曲,http://119.135.1.16:6699/live/1011/index.m3u8
-CCTV12社会科学,http://119.135.1.16:6699/live/1012/index.m3u8
+CCTV12社会与法,http://119.135.1.16:6699/live/1012/index.m3u8
 CCTV13新闻,http://119.135.1.16:6699/live/1013/index.m3u8
 CCTV14少儿,http://119.135.1.16:6699/live/1014/index.m3u8
 CCTV15音乐,http://119.135.1.16:6699/live/1015/index.m3u8
@@ -75,7 +75,7 @@ CCTV怀旧剧场,http://119.135.1.16:6699/live/1088/index.m3u8
 CCTV风云剧场,http://119.135.1.16:6699/live/1082/index.m3u8
 CCTV风云足球,http://119.135.1.16:6699/live/1080/index.m3u8
 CCTV文化精品,http://119.135.1.16:6699/live/1079/index.m3u8
-CCTV高尔网球,http://119.135.1.16:6699/live/1078/index.m3u8
+CCTV高尔夫网球,http://119.135.1.16:6699/live/1078/index.m3u8
 CCTV央视台球,http://119.135.1.16:6699/live/1077/index.m3u8
 CCTV电视指南,http://119.135.1.16:6699/live/1084/index.m3u8
 CCTV世界地理,http://182.104.192.98:8180/TV00000000000000000044
@@ -235,7 +235,7 @@ CCTV1综合,http://123.138.216.44:9902/tsfile/live/0001_1.m3u8?key=txiptv&playli
 CCTV2财经,http://123.138.216.44:9902/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV6电影,http://123.138.216.44:9902/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5+体育赛事,http://123.138.216.44:9902/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4国际,http://123.138.216.44:9902/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4中文国际,http://123.138.216.44:9902/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15音乐,http://123.138.216.44:9902/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3综艺,http://123.138.216.44:9902/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV7国防军事,http://123.138.216.44:9902/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
