@@ -1507,7 +1507,6 @@ ICS频道,http://116.233.34.25:7777/tsfile/live/1032_1.m3u8
 凤凰中文,http://117.27.190.42:9998/tsfile/live/23280_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰资讯,http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?key=txiptv&playlive=1&authid=0
 TVB翡翠,http://8.137.59.151:3000/laoshu1.php?key=6666&id=8
-TVB翡翠,http://61.238.177.254:30261/stream/channelid/1548166379?ticket=5f75f63aca255c84725490399715f10525e0871b&profile=pass
 TVB翡翠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 TVB翡翠,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 TVB翡翠,http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8
@@ -1519,8 +1518,6 @@ TVB翡翠,http://beishan008.asuscomm.com:8889/bysid/1.m3u8
 TVB翡翠,http://58.250.155.2:8180/TV00000000000000000032@HHZT
 TVB新闻,http://8.137.59.151:3000/laoshu1.php?key=6666&id=4
 TVB新闻,http://124.244.149.194:65531/bysid/83.m3u8 
-TVB新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq 
-TVB新闻,http://live.cooltv.top/tv/tvb.php?id=2&hq 
 TVB新闻,http://zsntlqj.xicp.net:8896/bysid/83
 TVB新闻,https://i.125011.xyz/tvb.php?id=0&hq
 TVB华丽,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
