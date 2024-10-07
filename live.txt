@@ -1625,6 +1625,7 @@ Astr剧集台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 ✨　台湾,#genre#
 中天新闻,http://8.137.59.151:3000/laoshu1.php?key=6666&id=21
+中天新闻,https://lzo.us.kg/daili/Smartv.php?id=ctinews
 中天新闻,http://50.7.234.10:8278/ctinews/playlist.m3u8?tid=MB0B9546410395464103&ct=19249&tsum=30c62d7eec5ce9a49a64c3fa3ff8a8b7
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
 中视ᴴᴰ,http://37.27.111.214:8080/live/7/hls.m3u8
