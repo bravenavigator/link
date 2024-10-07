@@ -1737,7 +1737,6 @@ ELEVEN2台,rtmp://f13h.mine.nu/sat/tv741
 MOMO综合,rtmp://f13h.mine.nu/sat/tv761
 MOMO综合,rtmp://59.124.75.138/sat/tv761
 MOMO儿童,http://37.27.111.214:8080/live/3/hls.m3u8
-nickjr.,http://37.27.111.214:8080/live/22/hls.m3u8
 八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
 八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
 八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
@@ -1772,6 +1771,7 @@ DAZN体育1,rtmp://f13h.mine.nu/sat/tv731
 DAZN体育2,rtmp://f13h.mine.nu/sat/tv741
 TAIWAN Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+nickjr.,http://37.27.111.214:8080/live/22/hls.m3u8
 GOOD2,http://37.27.111.214:8080/live/99/hls.m3u8
 GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 📺　江苏,#genre#
