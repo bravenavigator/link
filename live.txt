@@ -1590,7 +1590,6 @@ TVB明珠,http://124.244.149.194:65531/bysid/2.m3u8
 TVB明珠,http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8
 TVB Plus,http://8.137.59.151:3000/laoshu1.php?key=6666&id=11
 TVB Plus,http://124.244.149.194:65531/bysid/82.m3u8 
-TVB 18,http://ali.hlspull.yximgs.com/live/tboxprovhxqcvfhoeqfqhdoqqqyhcvxclqhqotqyq9qssqfdqcvhthofsqqhyx18.flv
 J2,http://8.137.59.151:3000/laoshu1.php?key=6666&id=9
 J2,http://fm1077.serv00.net/Smart.php?id=j2_twn
 ViuTV,http://8.137.59.151:3000/laoshu1.php?key=6666&id=14
@@ -1612,6 +1611,7 @@ RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream04/st
 RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8 
 RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8 
 RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8 
+香港有线18,http://ali.hlspull.yximgs.com/live/tboxprovhxqcvfhoeqfqhdoqqqyhcvxclqhqotqyq9qssqfdqcvhthofsqqhyx18.flv
 香港有线18,http://8.137.59.151:3000/laoshu1.php?key=6666&id=5
 香港有线18,http://8.137.59.151:3000/laoshu1.php?key=6666&id=6
 香港有线18,http://ali.hlspull.yximgs.com/live/tboxprovhxqcvfhoeqfqhdoqqqyhcvxclqhqotqyq9qssqfdqcvhthofsqqhyx18.flv 
