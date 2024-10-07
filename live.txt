@@ -1591,7 +1591,6 @@ TVB明珠,http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8
 TVB Plus,http://8.137.59.151:3000/laoshu1.php?key=6666&id=11
 TVB Plus,http://124.244.149.194:65531/bysid/82.m3u8 
 J2,http://8.137.59.151:3000/laoshu1.php?key=6666&id=9
-J2,http://fm1077.serv00.net/Smart.php?id=j2_twn
 ViuTV,http://8.137.59.151:3000/laoshu1.php?key=6666&id=14
 ViuTV,http://124.244.149.194:65530/bysid/99.m3u8 
 NOW新闻,http://8.137.59.151:3000/laoshu1.php?key=6666&id=15
@@ -2049,11 +2048,9 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 安徽综艺体育,http://wyflv.ahwanyun.cn/live/c41f112b83f644ddb082669501c8ecd3.m3u8
 安徽综艺体育,http://159.75.166.157/php/ah.php?id=ahzy
 安徽国际,http://159.75.166.157/php/ah.php?id=ahgj
-安徽经济生活,http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8
 安徽经济生活,http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959.flv
 安徽影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
 安徽影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be.flv
-安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
 安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv
 安徽导视,https://livehls1.appcoo.com/liveshopping/949E0A98C9D0C311/6D925141BC1F8C28/index.m3u8
 合肥肥西综合,http://112.30.194.221:20080/live/7210e3a27cc64ac4a3f7aba2e2b683d5/hls.m3u8
@@ -2808,6 +2805,11 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 内蒙少儿,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800
 蒙语卫视,https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880
 蒙语文化,https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4cbf0ba32649ca5&txTime=771E8800
+文体娱乐,http://1.183.141.194:8001/hls/17/index.m3u8
+农牧频道,http://1.183.141.194:8001/hls/18/index.m3u8
+新闻综合,http://1.183.141.194:8001/hls/19/index.m3u8
+经济生活,http://1.183.141.194:8001/hls/20/index.m3u8
+内蒙少儿,http://1.183.141.194:8001/hls/21/index.m3u8
 内蒙古足球,http://nmglive.imfc.cn/5n1r1c/182396.m3u8
 呼和浩特新闻综合,https://livestream-bt.nmtv.cn/nmtv/2331general.m3u8?txSecret=70072e9dff1f4042fcefde5b001af668&txTime=771E8800
 包头新闻,https://livestream-bt.nmtv.cn/nmtv/2358general.m3u8?txSecret=d5a1fe0898512f4a1d513bc0f9c5b751&txTime=771E8800
