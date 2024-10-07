@@ -1501,13 +1501,8 @@ ICS频道,http://116.233.34.25:7777/tsfile/live/1032_1.m3u8
 天津体育,http://111.167.49.238:5002/udp/225.1.1.122:5002
 天津科教,http://111.167.49.238:5002/udp/225.1.1.129:5002
 天津IPTV,http://111.167.49.238:5002/udp/225.1.2.123:5002
-滨海新闻,http://traffic.jbh.tjbh.com/live/bhtv1/playlist.m3u8
-滨海综艺,http://traffic.jbh.tjbh.com/live/bhtv2/playlist.m3u8
-滨海影视,http://traffic.jbh.tjbh.com/live/bhtv3/playlist.m3u8
 蓟州综合,http://117.9.130.7:50000/udp/225.1.1.93:5002
 西青新闻综合,http://221.238.209.44:81/hls/live1.m3u8
-宝坻一套,https://hb2stream1.baoxinwen.com/d6387fc7a8836e78/6385068498053235715_1597997122.m3u8?auth_key=18934560000093ea48b07ddd03f4904079b7659e81a4
-大港油田,http://111.167.49.238:5002/udp/225.1.2.14:5002
 📺　重庆,#genre#
 重庆新闻,http://rihou.cc:567/cqyx.php?id=cqxw
 重庆社会与法,http://rihou.cc:567/cqyx.php?id=cqshyf
