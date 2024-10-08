@@ -1730,8 +1730,6 @@ TVBS闽南,http://litv.zapi.us.kg/?id=4gtv-4gtv073
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
-ELEVEN1台,rtmp://f13h.mine.nu/sat/tv731
-ELEVEN2台,rtmp://f13h.mine.nu/sat/tv741
 MOMO综合,rtmp://f13h.mine.nu/sat/tv761
 MOMO综合,rtmp://59.124.75.138/sat/tv761
 MOMO儿童,http://37.27.111.214:8080/live/3/hls.m3u8
@@ -1764,6 +1762,8 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 博斯高球,http://37.27.111.214:8080/live/13/hls.m3u8
 博斯运动,http://37.27.111.214:8080/live/14/hls.m3u8
 博斯网球,http://37.27.111.214:8080/live/16/hls.m3u8
+ELEVEN1台,rtmp://f13h.mine.nu/sat/tv731
+ELEVEN2台,rtmp://f13h.mine.nu/sat/tv741
 ELTA体育3,rtmp://9hv9.mine.nu/sat/md011
 ELTA体育4,rtmp://9hv9.mine.nu/sat/md021
 DAZN体育1,rtmp://f13h.mine.nu/sat/tv731
