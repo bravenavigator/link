@@ -1661,6 +1661,8 @@ TVBS闽南,http://litv.zapi.us.kg/?id=4gtv-4gtv073
 民视ᴴᴰ,rtmp://f13h.mine.nu/sat/tv051
 民视ᴴᴰ,rtmp://59.124.75.138/sat/tv051
 民视ᴴᴰ,http://37.27.111.214:8080/live/6/hls.m3u8
+民视ᴴᴰ,http://litv.zapi.us.kg/?id=4gtv-4gtv002
+民视ᴴᴰ,http://litv.zapi.us.kg/?id=4gtv-4gtv155
 民视新闻,http://ali.hlspull.yximgs.com/live/tboxprocnbvqfhdquqqvcbnqftuqscxqfqeqyhqqvqfmsxw.flv
 民视新闻,http://litv.zapi.us.kg/?id=litv-ftv13
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
@@ -1677,8 +1679,6 @@ TVBS闽南,http://litv.zapi.us.kg/?id=4gtv-4gtv073
 民视旅游,http://litv.zapi.us.kg/?id=litv-ftv07
 民视影剧,http://litv.zapi.us.kg/?id=litv-ftv09
 民视综艺,http://litv.zapi.us.kg/?id=4gtv-4gtv004
-民视闽南,http://litv.zapi.us.kg/?id=4gtv-4gtv002
-民视闽南,http://litv.zapi.us.kg/?id=4gtv-4gtv155
 台视ᴴᴰ,rtmp://f13h.mine.nu/sat/tv071
 台视ᴴᴰ,rtmp://59.124.75.138/sat/tv071
 台视新闻,http://ali.hlspull.yximgs.com/live/tboxproncqqtqqudtqlqcvbcvntqqqsfwetqfvcbcxvdqbqfflvcqtsxw.flv 
@@ -1699,7 +1699,7 @@ TVBS闽南,http://litv.zapi.us.kg/?id=4gtv-4gtv073
 寰宇新闻,http://litv.zapi.us.kg/?id=litv-longturn14
 寰宇新闻,http://37.27.111.214:8080/live/63/hls.m3u8
 寰宇财经,http://37.27.111.214:8080/live/65/hls.m3u8
-寰宇闽南,http://litv.zapi.us.kg/?id=litv-longturn15
+寰宇台湾,http://litv.zapi.us.kg/?id=litv-longturn15
 华视ᴴᴰ,rtmp://f13h.mine.nu/sat/tv111
 华视ᴴᴰ,rtmp://59.124.75.138/sat/tv111
 华视ᴴᴰ,http://37.27.111.214:8080/live/8/hls.m3u8
@@ -1709,8 +1709,6 @@ TVBS闽南,http://litv.zapi.us.kg/?id=4gtv-4gtv073
 年代新闻,http://50.7.234.10:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
 靖天资讯,http://litv.zapi.us.kg/?id=4gtv-4gtv065
 靖天国际,http://litv.zapi.us.kg/?id=4gtv-4gtv063
-靖洋戏剧,http://litv.zapi.us.kg/?id=4gtv-4gtv045
-靖洋卡通,http://litv.zapi.us.kg/?id=4gtv-4gtv057
 靖天卡通,http://litv.zapi.us.kg/?id=4gtv-4gtv044
 靖天综合,http://litv.zapi.us.kg/?id=4gtv-4gtv046
 靖天日本,http://litv.zapi.us.kg/?id=4gtv-4gtv047
@@ -1744,9 +1742,6 @@ MOMO儿童,http://37.27.111.214:8080/live/3/hls.m3u8
 八大综艺,http://litv.zapi.us.kg/?id=4gtv-4gtv039
 亚洲旅游,http://37.27.111.214:8080/live/10/hls.m3u8
 生活旅游,http://37.27.111.214:8080/live/85/hls.m3u8
-天映频道,http://php.jdshipin.com:8880/xsj.php?id=celestial
-爱尔达娱乐,http://litv.zapi.us.kg/?id=4gtv-4gtv070
-AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 龙华电影,http://litv.zapi.us.kg/?id=litv-longturn03
 龙华戏剧,http://litv.zapi.us.kg/?id=litv-longturn18
 龙华经典,http://litv.zapi.us.kg/?id=litv-longturn21
@@ -1754,10 +1749,14 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 龙华日韩,http://litv.zapi.us.kg/?id=litv-longturn11
 龙华偶像,http://litv.zapi.us.kg/?id=litv-longturn12
 龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
+天映频道,http://php.jdshipin.com:8880/xsj.php?id=celestial
+爱尔达娱乐,http://litv.zapi.us.kg/?id=4gtv-4gtv070
+AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 星影台,http://tv.517300.xyz:8080/stream/tvb/null-1/master.m3u8?u=tvbaby&p=f1abe1b083d12d181ae136cfc75b8d18a8ecb43ac4e9d1a36d6a9c75b6016b61
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 智林体育,http://37.27.111.214:8080/live/77/hls.m3u8
 博斯魅力,http://litv.zapi.us.kg/?id=litv-longturn04
 博斯网球,http://litv.zapi.us.kg/?id=litv-longturn09
@@ -1770,7 +1769,8 @@ ELTA体育4,rtmp://9hv9.mine.nu/sat/md021
 DAZN体育1,rtmp://f13h.mine.nu/sat/tv731
 DAZN体育2,rtmp://f13h.mine.nu/sat/tv741
 TAIWAN Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+靖洋戏剧,http://litv.zapi.us.kg/?id=4gtv-4gtv045
+靖洋卡通,http://litv.zapi.us.kg/?id=4gtv-4gtv057
 nickjr.,http://37.27.111.214:8080/live/22/hls.m3u8
 GOOD2,http://37.27.111.214:8080/live/99/hls.m3u8
 GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
