@@ -680,7 +680,6 @@ CCTV高尔夫网球,http://gzly.hkychina.com:6001/udp/239.252.219.95:5140
 山东卫视,http://183.136.148.214:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://183.136.148.214:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,http://183.136.148.214:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
-宁夏卫视,http://183.136.148.214:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 四川卫视,http://202.100.46.58:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://202.100.46.58:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://202.100.46.58:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1849,6 +1848,7 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 钱江频道,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 钱江频道,http://183.136.148.214:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+杭州综合,http://183.136.148.214:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 杭州综合,http://124.90.208.196:9901/tsfile/live/0121_1.m3u8
 杭州明珠,http://124.90.208.196:9901/tsfile/live/0116_1.m3u8
 杭州生活,http://124.90.208.196:9901/tsfile/live/0135_1.m3u8
