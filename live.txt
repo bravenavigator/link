@@ -1612,7 +1612,6 @@ Astr剧集台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 东森超视,rtmp://59.124.75.138:1935/sat/tv331
 东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-东森电影,http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8
 镜新闻,http://ali.hlspull.yximgs.com/live/tboxproexcvqqocvuoqxucfdexqpqqyxchvlqxqfeqhcelethqqdxw.flv 
 镜新闻,http://37.27.111.214:8080/live/62/hls.m3u8
 壹新闻,http://ali.hlspull.yximgs.com/live/tboxpromqfoyqvqsdvbnweqtquqqxqcvfqqsqfhfqddqqlhtbchyxw.flv
