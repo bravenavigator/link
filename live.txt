@@ -1593,9 +1593,10 @@ Astr剧集台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 ✨　台湾,#genre#
 中天新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv009
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
-中视ᴴᴰ,http://37.27.111.214:8080/live/7/hls.m3u8
-中视ᴴᴰ,rtmp://f13h.mine.nu/sat/tv091
 中视ᴴᴰ,rtmp://59.124.75.138:1935/sat/tv091
+中视ᴴᴰ,http://litv.zapi.us.kg/?id=4gtv-4gtv040
+中视ᴴᴰ,rtmp://f13h.mine.nu/sat/tv091
+中视ᴴᴰ,http://37.27.111.214:8080/live/7/hls.m3u8
 中视新闻,http://ali.hlspull.yximgs.com/live/tboxpropnvqydstudqbsqcvbfqqqsqfqsqwetymqldhduqocnqsxw.flv 
 中视新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv074
 中视新闻,http://50.7.234.10:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd
@@ -1603,8 +1604,7 @@ Astr剧集台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 中视经典,http://37.27.111.214:8080/live/47/hls.m3u8
 中视经典,http://50.7.234.10:8278/zhongshi_twn/playlist.m3u8?tid=14379667&ct=17988&tsum=de63d02f44741580b5070077d1949841
 中视菁采,http://litv.zapi.us.kg/?id=4gtv-4gtv064
-中视箐采,http://37.27.111.214:8080/live/48/hls.m3u8
-中视闽南,http://litv.zapi.us.kg/?id=4gtv-4gtv040
+中视菁采,http://37.27.111.214:8080/live/48/hls.m3u8
 东森新闻,http://ali.hlspull.yximgs.com/live/tboxpromhqttuqqcvbyquoqdqqeqywefqqfbxfbxxvbqqqlqqhqsxw.flv 
 东森新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv152
 东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8
@@ -1621,6 +1621,11 @@ Astr剧集台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 非凡新闻,http://ali.hlspull.yximgs.com/live/tboxprosqtnfqqoqdcbfcxvqfuuqqweqqqsqyuhhdqsqhqynffxw.flv 
 非凡新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv010
 非凡新闻,rtmp://f13h.mine.nu/sat/tv581
+寰宇新闻,http://ali.hlspull.yximgs.com/live/tboxprophxehmffquxcxqveqeqyhmnqqxqqhqdhnqbnxfdqfhyxw.flv 
+寰宇新闻,http://litv.zapi.us.kg/?id=litv-longturn14
+寰宇新闻,http://37.27.111.214:8080/live/63/hls.m3u8
+寰宇财经,http://37.27.111.214:8080/live/65/hls.m3u8
+寰宇台湾,http://litv.zapi.us.kg/?id=litv-longturn15
 TVBSᴴᴰ,http://37.27.111.214:8080/live/23/hls.m3u8
 TVBSᴴᴰ,http://61.221.215.25:8800/hls/9/index.m3u8 
 TVBS新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv072
@@ -1670,11 +1675,6 @@ TVBS闽南,http://litv.zapi.us.kg/?id=4gtv-4gtv073
 三立新闻,http://ali.hlspull.yximgs.com/live/tboxprohmcyoywqqubqdfqfvchtquqxcqxvcbsqfsdxcbmqsllivexw.flv 
 三立新闻,http://211.72.65.236:8543/.m3u8
 三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
-寰宇新闻,http://ali.hlspull.yximgs.com/live/tboxprophxehmffquxcxqveqeqyhmnqqxqqhqdhnqbnxfdqfhyxw.flv 
-寰宇新闻,http://litv.zapi.us.kg/?id=litv-longturn14
-寰宇新闻,http://37.27.111.214:8080/live/63/hls.m3u8
-寰宇财经,http://37.27.111.214:8080/live/65/hls.m3u8
-寰宇台湾,http://litv.zapi.us.kg/?id=litv-longturn15
 华视ᴴᴰ,rtmp://f13h.mine.nu/sat/tv111
 华视ᴴᴰ,rtmp://59.124.75.138/sat/tv111
 华视ᴴᴰ,http://37.27.111.214:8080/live/8/hls.m3u8
