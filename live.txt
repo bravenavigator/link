@@ -316,6 +316,7 @@ CCTV15音乐,http://121.24.99.168:8090/hls/23/index.m3u8
 CCTV5+体育赛事,http://121.24.99.168:8090/hls/5/index.m3u8
 CCTV5+体育赛事,http://1639.hsmedia.top:8080/newlive/live/hls/7/live.m3u8
 CCTV14少儿,http://1639.hsmedia.top:8080/newlive/live/hls/16/live.m3u8
+CCTV重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 CCTV重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 CCTV重温经典,http://36.108.172.237:10097/stream/channelid/1129822714
 CCTV2财经,http://110.80.17.38:9901/tsfile/live/0002_1.m3u8?key=txiptv
@@ -1307,13 +1308,6 @@ ABC英语互动,http://37.27.111.214:8080/live/54/hls.m3u8
 生活英语,http://37.27.111.214:8080/live/56/hls.m3u8
 Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3ed4c4f47848295648250f4b8/live.isml/.m3u8
 📺　广东,#genre#
-广东珠江,http://27.46.95.202:808/hls/20/index.m3u8
-广东新闻,http://27.46.95.202:808/hls/21/index.m3u8
-广东公共,http://27.46.95.202:808/hls/22/index.m3u8
-广东国际,http://27.46.95.202:808/hls/23/index.m3u8
-广东影视,http://27.46.95.202:808/hls/26/index.m3u8
-广东少儿,http://27.46.95.202:808/hls/27/index.m3u8
-广东体育,http://27.46.95.202:808/hls/28/index.m3u8
 广东新闻,http://gmxw.7766.org:808/hls/5/index.m3u8
 广东珠江,http://218.13.170.98:9901/tsfile/live/1000_1.m3u8
 广东珠江,http://gmxw.7766.org:808/hls/83/index.m3u8
@@ -1333,6 +1327,7 @@ Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3ed4c4f478482956
 嘉佳卡通,http://gmxw.7766.org:808/hls/8/index.m3u8
 嘉佳卡通,http://183.236.32.24:9901/hls/1047/index.m3u8
 大湾区卫视,http://gmxw.7766.org:808/hls/132/index.m3u8
+广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 广东珠江,http://120.238.84.44:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://113.119.39.206:4433/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://116.21.121.116:4433/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1531,11 +1526,13 @@ ICS频道,http://116.233.34.25:7777/tsfile/live/1032_1.m3u8
 永川综合,https://qxlmlive9.cbg.cn/applive/yctv01/playlist.m3u8
 开州综合,https://qxlmlive9.cbg.cn/applive/kzpd01/chunklist.m3u8
 ✨　港澳,#genre#
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰资讯,https://tv.sd.cn/sichuan?id=239.93.0.118:2191
 凤凰资讯,http://wouu.net:9977/rtp/239.93.0.118:2191?Cf=cfss.cc
 凤凰资讯,http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰资讯,http://wouu.net:9977/udp/239.93.0.118:2191
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文,http://117.27.190.42:9998/tsfile/live/23280_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰中文,http://183.207.248.71/PLTV/3/224/3221228527/1.m3u8
 凤凰中文,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
@@ -1549,6 +1546,9 @@ ICS频道,http://116.233.34.25:7777/tsfile/live/1032_1.m3u8
 凤凰香港,http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰香港,http://beishan008.asuscomm.com:8890/bysid/85.m3u8
 凤凰香港,http://zsntlqj.xicp.net:8896/bysid/85.m3u8
+TVB翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct
+TVB翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+TVB翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
 TVB翡翠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 TVB翡翠,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 TVB翡翠,http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8
@@ -1562,6 +1562,7 @@ TVB新闻,http://124.244.149.194:65531/bysid/83.m3u8
 TVB新闻,http://zsntlqj.xicp.net:8896/bysid/83
 TVB新闻,https://i.125011.xyz/tvb.php?id=0&hq
 TVB华丽,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
+TVB娱乐新闻,https://cdn5.1678520.xyz/live/live2.1.php?id=j1
 TVB星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 TVB星河,https://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 TVB星河,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
@@ -1570,8 +1571,11 @@ TVB功夫,https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3
 TVB千禧经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 TVB明珠,http://124.244.149.194:65531/bysid/2.m3u8 
 TVB明珠,http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8
+TVB J1,https://cdn5.1678520.xyz/live/live2.1.php?id=j1
+TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 TVB Plus,http://124.244.149.194:65531/bysid/82.m3u8 
 ViuTV,http://124.244.149.194:65530/bysid/99.m3u8 
+HOY TV,http://cdn10.1678520.xyz/live/?id=hoy
 NOW新闻,http://124.244.149.194:65530/bysid/96.m3u8 
 RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
 RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
@@ -1717,6 +1721,7 @@ MOMO儿童,http://37.27.111.214:8080/live/3/hls.m3u8
 八大综艺,http://litv.zapi.us.kg/?id=4gtv-4gtv039
 亚洲旅游,http://37.27.111.214:8080/live/10/hls.m3u8
 生活旅游,http://37.27.111.214:8080/live/85/hls.m3u8
+龙华日韩,http://cdn3.1678520.xyz/live/?id=lhrh
 龙华电影,http://litv.zapi.us.kg/?id=litv-longturn03
 龙华戏剧,http://litv.zapi.us.kg/?id=litv-longturn18
 龙华经典,http://litv.zapi.us.kg/?id=litv-longturn21
@@ -1724,6 +1729,13 @@ MOMO儿童,http://37.27.111.214:8080/live/3/hls.m3u8
 龙华日韩,http://litv.zapi.us.kg/?id=litv-longturn11
 龙华偶像,http://litv.zapi.us.kg/?id=litv-longturn12
 龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
+龙华电影,http://cdn5.1689.us.kg/litv.php?id=litv-longturn03
+龙华日韩,http://cdn5.1689.us.kg/litv.php?id=litv-longturn11
+龙华卡通,http://cdn5.1689.us.kg/litv.php?id=litv-longturn01
+龙华偶像,http://cdn5.1689.us.kg/litv.php?id=litv-longturn12
+龙华戏剧,http://cdn5.1689.us.kg/litv.php?id=litv-longturn18
+龙华经典,http://cdn5.1689.us.kg/litv.php?id=litv-longturn21
+美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 天映频道,http://php.jdshipin.com:8880/xsj.php?id=celestial
 爱尔达娱乐,http://litv.zapi.us.kg/?id=4gtv-4gtv070
 AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
