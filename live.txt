@@ -1724,6 +1724,7 @@ MOMO儿童,http://37.27.111.214:8080/live/3/hls.m3u8
 龙华偶像,http://litv.zapi.us.kg/?id=litv-longturn12
 龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
 龙华电影,http://cdn5.1689.us.kg/litv.php?id=litv-longturn03
+龙华电影,http://114.33.60.49:8539/http/61.219.99.20:8068/hls/10/80/cstv10.m3u8
 龙华日韩,http://cdn5.1689.us.kg/litv.php?id=litv-longturn11
 龙华卡通,http://cdn5.1689.us.kg/litv.php?id=litv-longturn01
 龙华偶像,http://cdn5.1689.us.kg/litv.php?id=litv-longturn12
