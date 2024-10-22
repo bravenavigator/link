@@ -1307,11 +1307,6 @@ ABC英语互动,http://37.27.111.214:8080/live/54/hls.m3u8
 生活英语,http://37.27.111.214:8080/live/56/hls.m3u8
 Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3ed4c4f47848295648250f4b8/live.isml/.m3u8
 📺　广东,#genre#
-广东珠江,https://php.17186.eu.org/gdtv/web/gdzj.m3u8
-广东新闻,https://php.17186.eu.org/gdtv/web/gdxw.m3u8
-广东新闻,https://php.17186.eu.org/gdtv/web/xwpd.m3u8
-广东民生,https://php.17186.eu.org/gdtv/web/gdgg.m3u8
-广东体育,https://php.17186.eu.org/gdtv/web/gdty.m3u8
 经济科教,http://www.zzlag.top:9003/hls/29/index.m3u8
 广东体育,http://www.zzlag.top:9003/hls/30/index.m3u8
 广东珠江,http://www.zzlag.top:9003/hls/31/index.m3u8
