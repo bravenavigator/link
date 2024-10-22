@@ -1307,7 +1307,12 @@ ABC英语互动,http://37.27.111.214:8080/live/54/hls.m3u8
 生活英语,http://37.27.111.214:8080/live/56/hls.m3u8
 Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3ed4c4f47848295648250f4b8/live.isml/.m3u8
 📺　广东,#genre#
+广东珠江,https://php.17186.eu.org/gdtv/web/gdzj.m3u8
+广东新闻,https://php.17186.eu.org/gdtv/web/gdxw.m3u8
+广东新闻,https://php.17186.eu.org/gdtv/web/xwpd.m3u8
 广东新闻,http://gmxw.7766.org:808/hls/5/index.m3u8
+广东民生,https://php.17186.eu.org/gdtv/web/gdgg.m3u8
+广东体育,https://php.17186.eu.org/gdtv/web/gdty.m3u8
 广东珠江,http://218.13.170.98:9901/tsfile/live/1000_1.m3u8
 广东珠江,http://gmxw.7766.org:808/hls/83/index.m3u8
 经济科教,http://183.237.246.14:9931/tsfile/live/1016_1.m3u8
@@ -1551,6 +1556,7 @@ TVB翡翠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 TVB翡翠,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 TVB翡翠,http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8
 TVB翡翠,http://183.237.246.14:9931/tsfile/live/1007_1.m3u8
+TVB翡翠,http://mzitv.cn:9931/tsfile/live/1007_1.m3u8
 TVB翡翠,http://1b6467f415.iok.la:9931/tsfile/live/1007_1.m3u8
 TVB翡翠,http://nz171l122.bb60246.ctm.net:8889/bysid/1.m3u8
 TVB翡翠,http://zsntlqj.xicp.net:8895/bysid/1.m3u8
@@ -1565,9 +1571,11 @@ TVB星河,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
 TVB功夫,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 TVB功夫,https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3u8
 TVB千禧经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
+TVB明珠,http://mzitv.cn:9931/tsfile/live/1009_1.m3u8
 TVB明珠,http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8
 TVB J1,https://cdn5.1678520.xyz/live/live2.1.php?id=j1
 TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
+TVB Plus,https://hls.xhzb.tw/4987/j2_twn/playlist.m3u8?type=fdc
 HOY TV,http://cdn10.1678520.xyz/live/?id=hoy
 RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
 RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
@@ -1581,6 +1589,7 @@ RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/st
 澳门Macau,http://61.244.22.5/ch3/ch3.live/chunklist.m3u8
 澳视澳门,http://183.237.246.14:9931/tsfile/live/1039_1.m3u8
 澳视澳门,http://1b6467f415.iok.la:9931/tsfile/live/1039_1.m3u8
+澳视澳门,http://mzitv.cn:9931/tsfile/live/1043_1.m3u8
 澳视澳门,http://61.244.22.5/ch1/ch1.live/playelist.m3u8
 澳门莲花,http://php.jdshipin.com:8880/amlh.php
 澳门莲花,https://tv.iill.top/mo/lhws
@@ -1613,11 +1622,11 @@ Astr剧集台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 东森超视,rtmp://59.124.75.138:1935/sat/tv331
 东森超视,http://211.72.65.236:8525/.m3u8
 东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+东森电影,http://mzitv.cn:9931/tsfile/live/1039_1.m3u8
 镜新闻,http://37.27.111.214:8080/live/62/hls.m3u8
 壹新闻,http://211.72.65.236:8548/.m3u8
 非凡新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv010
 非凡新闻,rtmp://f13h.mine.nu/sat/tv581
-年代新聞,http://211.72.65.236:8529/.m3u8
 年代新闻,http://211.72.65.236:8539/.m3u8
 年代新闻,http://50.7.234.10:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
 寰宇新闻,http://litv.zapi.us.kg/?id=litv-longturn14
@@ -1625,7 +1634,6 @@ Astr剧集台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 寰宇财经,http://37.27.111.214:8080/live/65/hls.m3u8
 寰宇台湾,http://litv.zapi.us.kg/?id=litv-longturn15
 TVBSᴴᴰ,http://37.27.111.214:8080/live/23/hls.m3u8
-TVBSᴴᴰ,http://61.221.215.25:8800/hls/9/index.m3u8 
 TVBS新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv072
 TVBS新闻,http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MA4A2233260122332601&ct=19249&tsum=513a9dcb42fa8b98e1792d513dd3e2ee
 TVB NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
@@ -1730,6 +1738,9 @@ MOMO儿童,http://37.27.111.214:8080/live/3/hls.m3u8
 天映频道,http://php.jdshipin.com:8880/xsj.php?id=celestial
 爱尔达娱乐,http://litv.zapi.us.kg/?id=4gtv-4gtv070
 AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
+AMC电影,https://litv.zapi.us.kg/?id=4gtv-4gtv017
+CAT电影,https://litv.zapi.us.kg/?id=4gtv-4gtv076
+神乐影院,http://hlsa-akm.douyucdn.cn/85894rmovieChow_4000p.m3u8
 星影台,http://tv.517300.xyz:8080/stream/tvb/null-1/master.m3u8?u=tvbaby&p=f1abe1b083d12d181ae136cfc75b8d18a8ecb43ac4e9d1a36d6a9c75b6016b61
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
@@ -2952,8 +2963,10 @@ CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1036_1.m3u8
 电视剧频道14,http://zby.xjqxz.top/dzzypd2/live.m3u8
 电视剧频道15,http://zby.xjqxz.top/live12/live.m3u8
 💫️　电影,#genre#
+1905电影,http://php.jdshipin.com:8880/1905.php?id=1905dy2
 1905电影(亚洲),http://xxw.me0.cn/1905dy.php?id=1905a
 1905电影(国际),http://xxw.me0.cn/1905dy.php?id=1905b
+斗鱼电影，http://allinone.netsite.cc/douyu/6566671
 豆瓣高分,http://43.138.170.29:35455/douyu/8770422
 豆瓣高分,http://159.75.85.63:35455/douyu/8770422
 电影剧场,http://159.75.85.63:35455/douyu/7575350
