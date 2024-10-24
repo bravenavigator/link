@@ -1497,6 +1497,7 @@ ICS频道,http://116.233.34.25:7777/tsfile/live/1032_1.m3u8
 魅力足球,http://tvbox6.icu/tv/migu.php?id=mlzq
 乐游频道,http://tvbox6.icu/tv/migu.php?id=ly
 七彩戏剧,http://tvbox6.icu/tv/migu.php?id=qcxj崇明电视台,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
+崇明电视台,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
 嘉定电视台,https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8
 📺　天津,#genre#
 天津新闻,http://111.167.49.238:5002/udp/225.1.1.130:5002
