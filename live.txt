@@ -34,6 +34,7 @@ CCTV风云足球,http://127.0.0.1
 CCTV高尔夫网球,http://127.0.0.1
 CCTV央视台球,http://127.0.0.1
 CCTV电视指南,http://127.0.0.1
+中学生,http://rihou.cc:567/47193.php?id=zxs
 早期教育,http://127.0.0.1
 中国教育1,http://127.0.0.1
 中国教育2,http://127.0.0.1
@@ -1881,17 +1882,22 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江教科影视,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+浙江青少体育,http://183.136.148.214:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江青少体育,http://124.90.208.196:9901/tsfile/live/0137_1.m3u8
 之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 钱江频道,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 钱江频道,http://183.136.148.214:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+杭州综合,http://rihou.cc:567/47193.php?id=hzzh
+杭州明珠,http://rihou.cc:567/47193.php?id=hzmz
+杭州生活,http://rihou.cc:567/47193.php?id=hzsh
+杭州影视,http://rihou.cc:567/47193.php?id=hzys
+杭州少体,http://rihou.cc:567/47193.php?id=hzse
 杭州综合,http://183.136.148.214:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 杭州综合,http://124.90.208.196:9901/tsfile/live/0121_1.m3u8
 杭州明珠,http://124.90.208.196:9901/tsfile/live/0116_1.m3u8
 杭州生活,http://124.90.208.196:9901/tsfile/live/0135_1.m3u8
 杭州影视,http://183.136.148.214:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 杭州影视,http://124.90.208.196:9901/tsfile/live/0124_2.m3u8
-浙江青少体育,http://183.136.148.214:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江青少体育,http://124.90.208.196:9901/tsfile/live/0137_1.m3u8
 杭州综合,http://www.372583307.top:4022/udp/233.50.201.173:5140
 杭州综合,http://125.210.152.19:9121/live/hzgqhzzhgqh264.m3u8
 杭州明珠,http://125.210.152.19:9121/live/hzgqxhmzgqh264.m3u8
@@ -3000,6 +3006,7 @@ CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1036_1.m3u8
 漫威剧情,http://159.75.85.63:35455/douyu/6140589
 星爷经典,http://tctct.douyucdn2.cn/dyliveflv1a/3637778raLSXdOdu_2000.m3u8
 🌏　海外,#genre#
+金砖英文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 金砖英文,http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
 美国Fox News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 美国Fox News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
