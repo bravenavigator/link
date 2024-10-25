@@ -1631,10 +1631,12 @@ Astr剧集台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 东森超视,rtmp://59.124.75.138:1935/sat/tv331
 东森超视,http://211.72.65.236:8525/.m3u8
 东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+镜新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv075
 镜新闻,http://37.27.111.214:8080/live/62/hls.m3u8
 壹新闻,http://211.72.65.236:8548/.m3u8
 非凡新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv010
 非凡新闻,rtmp://f13h.mine.nu/sat/tv581
+非凡商业,http://litv.zapi.us.kg/?id=4gtv-4gtv048
 年代新闻,http://211.72.65.236:8539/.m3u8
 年代新闻,http://50.7.234.10:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
 寰宇新闻,http://litv.zapi.us.kg/?id=litv-longturn14
@@ -1749,6 +1751,9 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 AMC电影,https://litv.zapi.us.kg/?id=4gtv-4gtv017
 CAT电影,https://litv.zapi.us.kg/?id=4gtv-4gtv076
 神乐影院,http://hlsa-akm.douyucdn.cn/85894rmovieChow_4000p.m3u8
+家居生活,http://37.27.111.214:8080/live/26/hls.m3u8
+靖洋戏剧,http://litv.zapi.us.kg/?id=4gtv-4gtv045
+靖洋卡通,http://litv.zapi.us.kg/?id=4gtv-4gtv057
 星影台,http://tv.517300.xyz:8080/stream/tvb/null-1/master.m3u8?u=tvbaby&p=f1abe1b083d12d181ae136cfc75b8d18a8ecb43ac4e9d1a36d6a9c75b6016b61
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
@@ -1774,9 +1779,6 @@ LiveTV,http://37.27.111.214:8080/live/25/hls.m3u8
 HISTORY,http://37.27.111.214:8080/live/27/hls.m3u8
 HITS,http://37.27.111.214:8080/live/28/hls.m3u8
 CinemaWorld,http://37.27.111.214:8080/live/30/hls.m3u8
-幸福生活,http://37.27.111.214:8080/live/26/hls.m3u8
-靖洋戏剧,http://litv.zapi.us.kg/?id=4gtv-4gtv045
-靖洋卡通,http://litv.zapi.us.kg/?id=4gtv-4gtv057
 nickjr.,http://37.27.111.214:8080/live/22/hls.m3u8
 nickelodeon,http://37.27.111.214:8080/live/12/hls.m3u8
 MOMO,http://37.27.111.214:8080/live/3/hls.m3u8
