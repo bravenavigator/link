@@ -494,6 +494,12 @@ CCTV13新闻,http://111.14.181.15:9901/tsfile/live/0013_1.m3u8?key=txiptv&playli
 CCTV14少儿,http://111.14.181.15:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15音乐,http://111.14.181.15:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV17农业农村,http://210.22.75.86:9901/tsfile/live/1012_1.m3u8
+CCTV电视指南,http://111.165.213.195:8000/udp/225.1.2.167:5002
+CCTV风云音乐,http://111.165.213.195:8000/udp/225.1.2.176:5002
+CCTV风云足球,http://111.165.213.195:8000/udp/225.1.2.168:5002
+CCTV世界地理,http://111.165.213.195:8000/udp/225.1.2.171:5002
+CCTV文化精品,http://111.165.213.195:8000/udp/225.1.2.177:5002
+CCTV央视台球,http://111.165.213.195:8000/udp/225.1.2.170:5002
 中国教育1,http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801.m3u8?key=txiptv&playlive=1&authid=0
 早期教育,http://gmxw.7766.org:808/hls/100/index.m3u8
 中国教育1,http://gmxw.7766.org:808/hls/122/index.m3u8
@@ -2672,12 +2678,9 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 悦美生活,http://117.32.85.85:8025/rtp/239.111.205.30:5140
 曲艺大观,http://117.32.85.85:8025/rtp/239.111.205.31:5140
 全纪实,http://117.32.85.85:8025/rtp/239.111.205.3:5140
-新闻资讯,http://1.82.144.16:4022/rtp/239.111.205.28:5140
-都市青春,http://1.82.144.16:4022/rtp/239.111.205.42:5140
 都市青春,http://113.140.69.126:9901/tsfile/live/1001_1.m3u8
 曲艺大观,http://hy.baojihzjc.com:9001/rtp/239.111.205.31:5140
 体育休闲,http://hy.baojihzjc.com:9001/rtp/239.111.205.36:5140
-体育休闲,http://1.82.144.16:4022/rtp/239.111.205.36:5140
 西安新闻综合,https://xatv-yd1.xiancity.cn/live/1/index.m3u8
 西安都市,https://xatv-yd1.xiancity.cn/live/2/index.m3u8
 西安商务资讯,https://xatv-yd1.xiancity.cn/live/3/index.m3u8
