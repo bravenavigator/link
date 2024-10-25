@@ -54,7 +54,6 @@ CCTV世界地理,http://home.yulei.online:9999/rtp/226.0.2.222:9688
 中国教育1,http://111.225.112.50:808/tsfile/live/1034_1.m3u8
 中国教育4,http://111.225.112.50:808/tsfile/live/1038_1.m3u8
 中国交通,http://111.225.112.50:808/tsfile/live/1039_1.m3u8
-中国天气,http://110.177.146.171:888/udp/239.1.1.107:8107
 CCTV1综合,http://119.135.1.16:6699/live/1001/index.m3u8
 CCTV2财经,http://119.135.1.16:6699/live/1002/index.m3u8
 CCTV3综艺,http://119.135.1.16:6699/live/1003/index.m3u8
@@ -1479,13 +1478,6 @@ BRTV卡酷少儿,http://218.80.79.205:4022/udp/239.45.0.8:5140
 东方财经,http://116.233.34.25:7777/tsfile/live/1031_1.m3u8
 第一财经,http://116.233.34.25:7777/tsfile/live/1029_1.m3u8
 点掌财经,https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
-东方财经,http://110.177.146.171:888/udp/239.1.1.85:8085
-乐游频道,http://110.177.146.171:888/udp/239.1.1.84:8084
-魅力足球,http://110.177.146.171:888/udp/239.1.1.75:8075
-生活时尚,http://110.177.146.171:888/udp/239.1.1.76:8076
-法治天地,http://110.177.146.171:888/udp/239.1.1.79:8079
-动漫秀场,http://110.177.146.171:888/udp/239.1.1.80:8080
-都市剧场,http://110.177.146.171:888/udp/239.1.1.81:8081
 东方影视,http://116.233.34.25:7777/tsfile/live/1028_1.m3u8
 ICS频道,http://116.233.34.25:7777/tsfile/live/1032_1.m3u8
 上海教育,http://116.233.34.25:7777/tsfile/live/1033_1.m3u8
@@ -2744,10 +2736,6 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 山西影视,http://60.223.224.176:8888/newlive/live/hls/54/live.m3u8
 山西社会与法治,http://60.223.224.176:8888/newlive/live/hls/55/live.m3u8
 山西文体生活,http://60.223.224.176:8888/newlive/live/hls/56/live.m3u8
-山西黄河,http://110.177.146.171:888/udp/239.1.1.2:8002
-山西经济与科技,http://110.177.146.171:888/udp/239.1.1.3:8003
-山西影视,http://110.177.146.171:888/udp/239.1.1.4:8004
-山西社会与法治,http://110.177.146.171:888/udp/239.1.1.5:8005
 山西经济与科技,http://live.cooltv.top/tv/tide.php?id=sxjj
 山西经济与科技,http://live.cooltv.top/tv/cutv.php?id=sxjj
 山西社会与法治,http://live.cooltv.top/tv/cutv.php?id=sxkj
