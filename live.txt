@@ -34,7 +34,7 @@ CCTV风云足球,http://127.0.0.1
 CCTV高尔夫网球,http://127.0.0.1
 CCTV央视台球,http://127.0.0.1
 CCTV电视指南,http://127.0.0.1
-中学生,http://rihou.cc:567/47193.php?id=zxs
+中学生,http://127.0.0.1
 早期教育,http://127.0.0.1
 中国教育1,http://127.0.0.1
 中国教育2,http://127.0.0.1
@@ -42,6 +42,8 @@ CCTV电视指南,http://127.0.0.1
 中国教育4,http://127.0.0.1
 中国交通,http://127.0.0.1
 中国天气,http://127.0.0.1
+中学生,http://rihou.cc:567/47193.php?id=zxs
+中学生,http://121.24.98.154:8090/hls/24/index.m3u8
 CCTV6电影,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 CCTV6电影,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
 CCTV6电影,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8?key=txiptv&playlive=1&authid=0
