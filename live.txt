@@ -502,6 +502,7 @@ CCTV风云足球,http://111.165.213.195:8000/udp/225.1.2.168:5002
 CCTV世界地理,http://111.165.213.195:8000/udp/225.1.2.171:5002
 CCTV文化精品,http://111.165.213.195:8000/udp/225.1.2.177:5002
 CCTV央视台球,http://111.165.213.195:8000/udp/225.1.2.170:5002
+中国教育1,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022823801/timeshift.m3u8?delay=0&cdn=5202
 中国教育1,http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801.m3u8?key=txiptv&playlive=1&authid=0
 早期教育,http://gmxw.7766.org:808/hls/100/index.m3u8
 中国教育1,http://gmxw.7766.org:808/hls/122/index.m3u8
@@ -1256,6 +1257,7 @@ CCTV高尔夫网球,http://gzly.hkychina.com:6001/udp/239.252.219.95:5140
 西藏卫视,http://117.72.68.25:9930/xizang.php?id=0
 海南卫视,https://live3.hnntv.cn/srs/tv/lywsgq.m3u8
 三沙卫视,https://live3.hnntv.cn/srs/tv/ssws.m3u8
+兵团卫视,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0
 兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 兵团卫视,http://mobilelive-ds.ysp.cctv.cn/ysp/2022606701.m3u8
 兵团卫视,http://mobilelive-ds.ysp.cctv.cn/ysp/2022606701_fhd.m3u8
@@ -1318,6 +1320,13 @@ ABC英语互动,http://37.27.111.214:8080/live/54/hls.m3u8
 生活英语,http://37.27.111.214:8080/live/56/hls.m3u8
 Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3ed4c4f47848295648250f4b8/live.isml/.m3u8
 📺　广东,#genre#
+广东珠江,http://219.159.194.66:8181/tsfile/live/1000_1.m3u8
+广东新闻,http://219.159.194.66:8181/tsfile/live/1007_1.m3u8
+广东民生,http://219.159.194.66:8181/tsfile/live/1002_1.m3u8
+广东体育,http://219.159.194.66:8181/tsfile/live/1001_1.m3u8
+广东影视,http://219.159.194.66:8181/tsfile/live/1004_1.m3u8
+广东珠江,http://113.15.187.190:8181/tsfile/live/1000_1.m3u8
+广东新闻,http://113.15.187.190:8181/tsfile/live/1007_1.m3u8
 广东新闻,http://gmxw.7766.org:808/hls/5/index.m3u8
 广东珠江,http://218.13.170.98:9901/tsfile/live/1000_1.m3u8
 广东珠江,http://gmxw.7766.org:808/hls/83/index.m3u8
@@ -2970,6 +2979,7 @@ CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1036_1.m3u8
 漫威剧情,http://159.75.85.63:35455/douyu/6140589
 星爷经典,http://tctct.douyucdn2.cn/dyliveflv1a/3637778raLSXdOdu_2000.m3u8
 🌏　海外,#genre#
+CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 金砖英文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 金砖英文,http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
 美国Fox News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
@@ -3049,8 +3059,9 @@ CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1036_1.m3u8
 卡塔尔AL Jazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 卡塔尔AL Jazeera,https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
 卡塔尔AL Jazeera,https://epg.pw/stream/b7ed4a30861d17378eae7b5b2ba31e8d12f8d6679a4e66cd8425dda5f6eff50a.m3u8
-俄罗斯Russia Today EN,http://69.64.57.208:8080/russiatoday/playlist.m3u8
+俄罗斯Russia Today EN,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 俄罗斯Russia Today EN,https://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
+俄罗斯Russia Today EN,http://69.64.57.208:8080/russiatoday/playlist.m3u8
 俄罗斯Russia Today FR,http://69.64.57.208:8080/rtfrance/playlist.m3u8
 俄罗斯Известия,https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 英国Reuters TV,https://reuters-reutersnow-1-us.plex.wurl.tv/c0c0829237382f291cc46a0368586aa7.m3u8
