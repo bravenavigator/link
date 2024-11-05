@@ -65,6 +65,9 @@ CCTV6电影,http://171.120.67.127:9999/tsfile/live/0006_1.m3u8?key=txiptv&playli
 CCTV9纪录,http://171.120.67.127:9999/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1综合,http://171.120.67.127:9999/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5体育,http://171.120.67.127:9999/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6电影,http://42.48.50.232:9002/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13新闻,http://42.48.50.232:9002/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1综合,http://42.48.50.232:9002/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV10科教,http://171.14.89.49:9901/tsfile/live/0010_1.m3u8
 CCTV6电影,http://171.14.89.49:9901/tsfile/live/0006_1.m3u8
 CCTV11戏曲,http://171.14.89.49:9901/tsfile/live/0011_1.m3u8
@@ -571,6 +574,8 @@ CCTV高尔夫网球,http://gzly.hkychina.com:6001/udp/239.252.219.95:5140
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 安徽卫视,http://115.149.139.141:10001/tsfile/live/1028_1.m3u8?blog.ntnas.top
+湖南卫视,http://42.48.50.232:9002/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://42.48.50.232:9002/tsfile/live/0124_2.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,http://171.14.89.49:9901/tsfile/live/0120_1.m3u8
 湖南卫视,http://171.14.89.49:9901/tsfile/live/0128_1.m3u8
 江西卫视,http://171.14.89.49:9901/tsfile/live/0138_1.m3u8
@@ -1309,6 +1314,7 @@ CGTN俄语,http://127.0.0.1
 CGTN西语,http://127.0.0.1
 CGTN阿语,http://127.0.0.1
 CGTN纪录,http://127.0.0.1
+CGTN英语,http://42.48.50.232:9002/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 CGTN法语,https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
 CGTN阿语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
 CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
