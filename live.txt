@@ -560,6 +560,7 @@ CCTV高尔夫网球,http://gzly.hkychina.com:6001/udp/239.252.219.95:5140
 安徽卫视,http://115.149.139.141:10001/tsfile/live/1028_1.m3u8?blog.ntnas.top
 湖南卫视,http://42.48.50.232:9002/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://42.48.50.232:9002/tsfile/live/0124_2.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://113.218.190.140:8081/tsfile/live/0017_1.m3u8
 青海卫视,http://124.128.73.58:9901/tsfile/live/0140_1.m3u8
 重庆卫视,http://124.128.73.58:9901/tsfile/live/0142_1.m3u8
 安徽卫视,http://124.128.73.58:9901/tsfile/live/0130_1.m3u8
@@ -1278,6 +1279,7 @@ CGTN西语,http://127.0.0.1
 CGTN阿语,http://127.0.0.1
 CGTN纪录,http://127.0.0.1
 CGTN英语,http://42.48.50.232:9002/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+CGTN纪录,http://113.218.190.140:8081/tsfile/live/0016_1.m3u8
 CGTN法语,https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
 CGTN阿语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
 CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
@@ -1927,6 +1929,10 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 济宁综合,http://lives.jnnews.tv/video/s10001-JNTV-1/index.m3u8
 济宁公共,http://lives.jnnews.tv/video/s10001-JNTV3/index.m3u8
 📺　湖南,#genre#
+湖南都市,http://113.218.190.140:8081/tsfile/live/0018_1.m3u8
+湖南电影,http://113.218.190.140:8081/tsfile/live/0019_1.m3u8
+湖南娱乐,http://113.218.190.140:8081/tsfile/live/1000_1.m3u8
+湖南国际,http://113.218.190.140:8081/tsfile/live/1001_1.m3u8
 湖南都市,http://110.52.99.109:9901/tsfile/live/1031_1.m3u8
 湖南娱乐,http://110.52.99.109:9901/tsfile/live/1032_1.m3u8
 湖南电影,http://110.52.99.109:9901/tsfile/live/1030_1.m3u8
@@ -1948,6 +1954,7 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 湖南爱晚,http://116.128.242.83:9901/tsfile/live/0117_1.m3u8
 金鹰纪实,http://110.52.99.109:9901/tsfile/live/1063_1.m3u8
 金鹰纪实,http://gmxw.7766.org:808/hls/171/index.m3u8
+金鹰卡通,http://113.218.190.140:8081/tsfile/live/1002_1.m3u8
 金鹰卡通,http://183.236.32.24:9901/hls/1049/index.m3u8
 茶频道,http://110.178.52.91:8084/udp/239.1.1.77:8077
 茶频道,http://110.178.52.91:8083/udp/239.1.1.77:8077
