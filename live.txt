@@ -1528,20 +1528,17 @@ ICS频道,http://116.233.34.25:7777/tsfile/live/1032_1.m3u8
 开州综合,https://qxlmlive9.cbg.cn/applive/kzpd01/chunklist.m3u8
 ✨　港澳,#genre#
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://122.224.232.218:8888/rtp/233.50.200.192:5140
 凤凰资讯,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰资讯,http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰资讯,https://tv.sd.cn/sichuan?id=239.93.0.118:2191
 凤凰资讯,http://wouu.net:9977/rtp/239.93.0.118:2191?Cf=cfss.cc
-凤凰资讯,http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰资讯,http://wouu.net:9977/udp/239.93.0.118:2191
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文,http://122.224.232.218:8888/rtp/233.50.200.191:5140
 凤凰中文,http://117.27.190.42:9998/tsfile/live/23280_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰中文,http://183.207.248.71/PLTV/3/224/3221228527/1.m3u8
-凤凰中文,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰中文,https://tv.sd.cn/sichuan?id=239.93.0.162:2192
 凤凰中文,http://wouu.net:9977/rtp/239.93.0.162:2192?Cf=cfss.cc
 凤凰中文,http://wouu.net:9977/udp/239.93.0.162:2192
@@ -1549,7 +1546,6 @@ ICS频道,http://116.233.34.25:7777/tsfile/live/1032_1.m3u8
 凤凰中文,http://58.250.155.2:8180/TV00000000000000000031@HHZT
 凤凰香港,http://223.105.252.40/PLTV/3/224/3221228530/index.m3u8
 凤凰香港,http://203.205.220.174:80/qctv.fengshows.cn/live/0701phk72.m3u8
-凤凰香港,http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰香港,http://beishan008.asuscomm.com:8890/bysid/85.m3u8
 凤凰香港,http://zsntlqj.xicp.net:8896/bysid/85.m3u8
 TVB翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct
@@ -1587,19 +1583,17 @@ TVB千禧经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 TVB明珠,http://mzitv.cn:9931/tsfile/live/1009_1.m3u8
 TVB明珠,http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8
 TVB J1,https://cdn5.1678520.xyz/live/live2.1.php?id=j1
-TVB Plus,http://59.37.82.79/libof.kesx.top/live/5658kwkojtz.m3u8?wsSession=34ddf4374ff191cb5f2ae700-173017882520603&wsIPSercert=2cf86fa1192162f479d88440191be15c&wsiphost=local&wsBindIP=1
 TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
-TVB Plus,https://hls.xhzb.tw/4987/j2_twn/playlist.m3u8?type=fdc
 VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+NOW新闻,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b44-golive.flv
+NOW财经,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b45-golive.flv
+NOW爆谷,http://205.185.123.236:8899/1/baogutai/stream.m3u8
+NOW星影,http://205.185.123.236:8899/1/now/stream.m3u8
 HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 HOY TV,http://cdn10.1678520.xyz/live/?id=hoy
 HOY76,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b47-golive.flv
 HOY77,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b48-golive.flv
 HOY78,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b49-golive.flv
-NOW新闻,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b44-golive.flv
-NOW财经,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b45-golive.flv
-NOW爆谷,http://205.185.123.236:8899/1/baogutai/stream.m3u8
-NOW星影,http://205.185.123.236:8899/1/now/stream.m3u8
 RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
 RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
 RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8
