@@ -1609,6 +1609,7 @@ RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/st
 Astr剧集台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 ✨　台湾,#genre#
+中天新闻,http://211.72.65.236:8541/.m3u8
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
 中视ᴴᴰ,rtmp://f13h.mine.nu/sat/tv091
 中视ᴴᴰ,http://37.27.111.214:8080/live/7/hls.m3u8
