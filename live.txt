@@ -985,7 +985,6 @@ HITS,http://37.27.111.214:8080/live/28/hls.m3u8
 CinemaWorld,http://37.27.111.214:8080/live/30/hls.m3u8
 nickjr.,http://37.27.111.214:8080/live/22/hls.m3u8
 📺　江苏,#genre#
-台湾,#genre#
 南京新闻综合,http://live.nbs.cn/channels/njtv/xwpdb/nbs06.m3u8
 南京娱乐,http://live.nbs.cn/channels/njtv/ylpd/500k.m3u8
 南京娱乐,http://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8
