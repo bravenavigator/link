@@ -301,6 +301,16 @@ CCTV12社会与法,http://111.14.181.15:9901/tsfile/live/0012_1.m3u8?key=txiptv&
 CCTV13新闻,http://111.14.181.15:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV14少儿,http://111.14.181.15:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15音乐,http://111.14.181.15:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV文化精品,http://oa.hnjcwl.top:18888/udp/239.76.254.56:9000
+CCTV文化精品,http://oa.hnjcwl.top:18888/udp/239.76.247.56:1234
+CCTV央视台球,http://oa.hnjcwl.top:18888/udp/239.76.254.58:9000
+CCTV央视台球,http://oa.hnjcwl.top:18888/udp/239.76.247.58:1234
+CCTV世界地理,http://oa.hnjcwl.top:18888/udp/239.76.254.57:9000
+CCTV世界地理,http://oa.hnjcwl.top:18888/udp/239.76.247.57:1234
+CCTV怀旧剧场,http://oa.hnjcwl.top:18888/udp/239.76.254.53:9000
+CCTV怀旧剧场,http://oa.hnjcwl.top:18888/udp/239.76.247.53:1234
+CCTV电视指南,http://oa.hnjcwl.top:18888/udp/239.76.254.61:9000
+CCTV兵器科技,http://oa.hnjcwl.top:18888/udp/239.76.247.59:1234
 CCTV4K高清,http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/8cdd688b04e4495ba1635e218419d6f9/4000.m3u8
 中学生,http://121.24.98.154:8090/hls/24/index.m3u8
 中国教育1,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022823801/timeshift.m3u8?delay=0&cdn=5202
@@ -851,7 +861,6 @@ TVB翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 TVB翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
 TVB翡翠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 TVB翡翠,http://php.jdshipin.com:8880/smt.php?id=jade_twn
-TVB翡翠,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
 TVB翡翠,http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8
 TVB翡翠,http://183.237.246.14:9931/tsfile/live/1007_1.m3u8
 TVB翡翠,http://mzitv.cn:9931/tsfile/live/1007_1.m3u8
@@ -879,6 +888,7 @@ TVB千禧经典,http://205.185.123.236:8899/astro/qianxi/stream.m3u8
 TVB千禧经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 TVB明珠,http://mzitv.cn:9931/tsfile/live/1009_1.m3u8
 TVB明珠,http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8
+TVB J1,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
 TVB J1,https://cdn5.1678520.xyz/live/live2.1.php?id=j1
 TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
@@ -922,6 +932,7 @@ Astr剧集台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 非凡新闻,rtmp://f13h.mine.nu/sat/tv581
 年代新闻,http://50.7.234.10:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
+镜新闻,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
 TVBSᴴᴰ,http://37.27.111.214:8080/live/23/hls.m3u8
 TVB NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
