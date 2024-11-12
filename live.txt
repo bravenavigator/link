@@ -263,6 +263,8 @@ CCTV央视台球,http://gmxw.7766.org:808/hls/73/index.m3u8
 CCTV文化精品,http://gmxw.7766.org:808/hls/97/index.m3u8
 CCTV第一剧场,http://gmxw.7766.org:808/hls/98/index.m3u8
 CCTV风云音乐,http://gmxw.7766.org:808/hls/99/index.m3u8
+CCTV4美洲,http://111.193.238.245:8888/rtp/239.3.1.214:4220
+CCTV4欧洲,http://221.219.65.6:4000/rtp/239.3.1.213:4220
 CCTV6电影,http://61.138.128.226:19901/tsfile/live/0006_1.m3u8
 CCTV7国防军事,http://61.138.128.226:19901/tsfile/live/0008_1.m3u8
 CCTV8电视剧,http://61.138.128.226:19901/tsfile/live/0009_1.m3u8
