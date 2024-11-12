@@ -833,6 +833,8 @@ BRTV科教,http://114.243.103.165:8822/rtp/239.3.1.115:8000
 淘娱乐,http://218.241.192.50:8808/udp/239.3.1.100:8001
 📺　上海,#genre#
 点掌财经,https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
+都市剧场,http://183.237.246.14:9931/tsfile/live/1107_1.m3u8
+新视觉,http://1b6467f415.iok.la:9931/tsfile/live/1105_1.m3u8
 崇明电视台,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
 嘉定电视台,https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8
 📺　天津,#genre#
@@ -904,7 +906,8 @@ TVBJ1,http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
 TVBJ1,https://cdn5.1678520.xyz/live/live2.1.php?id=j1
 TVBJ1,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
 TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
-TVB亚洲剧集,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
+TVBPlus,http://grandprix2023.asuscomm.com:8892/bysid/82.m3u8
+VB亚洲剧集,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
 TVB翡翠剧集,http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
 TVB明珠剧集,http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
 VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
@@ -1092,6 +1095,7 @@ Nick动画,http://37.27.111.214:8080/live/12/hls.m3u8
 Nick动画,http://37.27.111.214:8080/live/22/hls.m3u8
 nickjr.,http://37.27.111.214:8080/live/22/hls.m3u8
 📺　江苏,#genre#
+江苏城市,http://58.220.219.14:9901/tsfile/live/0120_3.m3u8
 南京新闻综合,http://live.nbs.cn/channels/njtv/xwpdb/nbs06.m3u8
 南京娱乐,http://live.nbs.cn/channels/njtv/ylpd/500k.m3u8
 南京娱乐,http://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8
@@ -1103,6 +1107,9 @@ nickjr.,http://37.27.111.214:8080/live/22/hls.m3u8
 南京教科,http://live.nbs.cn/channels/njtv/jkpd/nbs06.m3u8
 南京少儿,http://live.nbs.cn/channels/njtv/sepd/nbs23.m3u8
 南京文旅纪录,http://live.nbs.cn/channels/njtv/wljl/nbs24.m3u8
+南京信息,http://live.nbs.cn/channels/njtv/xxpd/500k.m3u8
+南京信息,http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
+南京信息,https://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
 南京江宁综合,https://jiangning-tv-hls.cm.jstv.com/jiangning-tv/jnxwzh.m3u8
 苏州常熟综合,http://cstvplay.21cs.cn/cstv1/cstv1.m3u8
 苏州常熟民生经济,http://cstvplay.21cs.cn/cstv2/cstv2.m3u8
@@ -1201,6 +1208,7 @@ nickjr.,http://37.27.111.214:8080/live/22/hls.m3u8
 菏泽新闻综合,http://live.hznet.tv:1935/live/live1/500k/tzwj_video.m3u8
 菏泽经济生活,http://live.hznet.tv:1935/live/live2/500k/tzwj_video.m3u8
 菏泽影视,http://live.hznet.tv:1935/live/live3/500k/tzwj_video.m3u8
+济宁综合,http://lives.jnnews.tv/video/s10001-JNTV-1/index.m3u8
 济宁公共,http://lives.jnnews.tv/video/s10001-JNTV3/index.m3u8
 📺　湖南,#genre#
 湖南都市,http://113.218.190.140:8081/tsfile/live/0018_1.m3u8
@@ -1392,6 +1400,7 @@ nickjr.,http://37.27.111.214:8080/live/22/hls.m3u8
 贵州5,http://dsm.52mm.top:28888/rtp/238.255.2.5:5999
 贵州6,http://dsm.52mm.top:28888/rtp/238.255.2.6:5999
 贵阳2,http://dsm.52mm.top:28888/rtp/238.255.2.20:5999
+安顺公共,http://dsm.52mm.top:28888/rtp/238.255.2.158:5999
 铜仁松桃新闻,http://live.strmtzx.cn/stxw/sd/live.m3u8
 黔南综合,rtmp://tv.qntv.net/channellive/ch1?zguizd
 毕节七星关综合,https://p8.vzan.com:443/slowlive/147077707554082780/live.m3u8
@@ -1431,8 +1440,26 @@ nickjr.,http://37.27.111.214:8080/live/22/hls.m3u8
 河南睛彩中原,http://49.232.131.30:99/dxxw.php?id=jczy
 河南移动戏曲,http://49.232.131.30:99/dxxw.php?id=ydxj
 河南象视界,http://49.232.131.30:99/dxxw.php?id=xsj
+河南新闻,http://43217878.xyz:5566/rtp/239.16.20.216:12160
+河南都市,http://43217878.xyz:5566/rtp/239.16.20.164:11640
+河南民生,http://43217878.xyz:5566/rtp/239.16.20.165:11650
+河南法治,http://43217878.xyz:5566/rtp/239.16.20.166:11660
+河南电视剧,http://43217878.xyz:5566/rtp/239.16.20.167:11670
+河南新闻,http://43217878.xyz:5566/rtp/239.16.20.168:11680
+河南公共,http://43217878.xyz:5566/rtp/239.16.20.170:11700
+河南梨园,http://43217878.xyz:5566/rtp/239.16.20.171:11710
+文物宝库,http://43217878.xyz:5566/rtp/239.16.20.172:11720
+武术世界,http://43217878.xyz:5566/rtp/239.16.20.173:11730
+河南乡村,http://43217878.xyz:5566/rtp/239.16.20.195:11950
+河南电视剧,http://43217878.xyz:5566/rtp/239.16.20.197:11970
+河南移动电视,http://43217878.xyz:5566/rtp/239.16.20.204:12040
+河南戏曲,http://43217878.xyz:5566/rtp/239.16.10.148:2000
+河南移动戏曲,http://43217878.xyz:5566/rtp/239.16.20.120:11200
+睛彩中原,http://43217878.xyz:5566/rtp/239.16.20.122:11220
 河南戏曲,http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8
 武术世界,http://live.dxhmt.cn:9080/live/yshnpre.m3u8
+郑州商都,http://43217878.xyz:5566/rtp/239.16.10.155:2000
+郑州影视戏曲,http://43217878.xyz:5566/rtp/239.16.10.157:2000
 郑铁有线,http://39.162.27.11:8081/newlive/live/hls/1/live.m3u8
 郑州新郑一套,http://tvpull.dxhmt.cn:9081/tv/10184-1.m3u8
 郑州新郑一套,http://live.dxhmt.cn:9081/tv/10184-1.m3u8
@@ -1538,7 +1565,13 @@ nickjr.,http://37.27.111.214:8080/live/22/hls.m3u8
 濮阳南乐综合,http://live.dxhmt.cn:9081/tv/10923-1.m3u8
 商丘永城新闻,http://live.dxhmt.cn:9081/tv/11481-1.m3u8
 📺　河北,#genre#
+河北生活,http://121.24.98.154:8090/hls/26/index.m3u8
+河北农民,http://121.24.98.154:8090/hls/27/index.m3u8
+河北都市,http://121.24.98.154:8090/hls/28/index.m3u8
 河北影视,http://121.24.98.154:8090/hls/29/index.m3u8
+河北少儿科教,http://121.24.98.154:8090/hls/30/index.m3u8
+河北公共,http://121.24.98.154:8090/hls/31/index.m3u8
+相声小品,http://121.24.98.154:8090/hls/101/index.m3u8
 石家庄鹿泉综合,https://jwliveqxzb.hebyun.com.cn/luquanyi/luquanyi.m3u8
 张家口一套,http://nlive.zjkgdcs.com:8091/live/xwzhpd.m3u8
 秦皇岛昌黎综合,https://jwliveqxzb.hebyun.com.cn/clzhpd/clzhpd.m3u8
@@ -1588,9 +1621,11 @@ nickjr.,http://37.27.111.214:8080/live/22/hls.m3u8
 青海经视,http://stream.qhbtv.com/qhsh/sd/live.m3u8
 青海经视,http://stream.qhbtv.com/qhsh/playlist.m3u8
 青海都市,http://stream.qhbtv.com/qhds/sd/live.m3u8
+青海都市,http://stream.qhbtv.com/qhds/playlist.m3u8
 西宁新闻综合,https://liveout.xntv.tv/a65jur/96iln2.m3u8
 西宁生活服务,https://liveout.xntv.tv/a65jur/90p2i1.m3u8
 西宁湟中综合,http://livecdn.dmqhyadmin.com/hls/xjhuangzhong.m3u8
+西宁大通综合,http://dtrmlive.qhdtrm.cn/testpush/sd/live.m3u8
 海北门源综合,http://livecdn.dmqhyadmin.com/hls/xjmenyuan.m3u8
 海东民和综合,http://livecdn.dmqhyadmin.com/hls/xjminhe.m3u8
 海东化隆综合,http://livecdn.dmqhyadmin.com/hls/xjhualong.m3u8
@@ -1677,134 +1712,36 @@ CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1036_1.m3u8
 绝版电影,https://lunbo.freetv.top/yy/1355263385
 经典功夫,https://lunbo.freetv.top/yy/1355002394
 🌏　海外,#genre#
-CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-金砖英文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
-金砖英文,http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
-美国Fox News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 美国Fox News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-美国Fox News,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-美国Fox News,https://sxg.btjson.us.kg/thetv/fox-news-channel
-美国Fox Business,https://sxg.btjson.us.kg/thetv/fox-business-network
-美国Fox 5,https://lnc-wnyw.tubi.video/index.m3u8
-美国CNN News,https://sxg.btjson.us.kg/thetv/cnn
-美国CNN News,https://rakuten-cnninternational-1-de.lg.wurl.tv/playlist.m3u8
-美国HLN,https://sxg.btjson.us.kg/thetv/hln
-美国ABC News,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
 美国CBN News,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
-美国CNBC News,https://sxg.btjson.us.kg/thetv/cnbc
-美国PBS World Channel,https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/HasBahCa.m3u8
-美国PBS World Channel,https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
 美国Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-美国Bloomberg TV,https://bloomberg-bloombergtv-1-gb.samsung.wurl.tv/playlist.m3u8
 美国Bloomberg HT,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
 美国Bloomberg HT,https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
-美国Bloomberg HT,https://sxg.btjson.us.kg/thetv/boomerang
 美国YahooFinance,https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
-美国TeenNick,https://sxg.btjson.us.kg/thetv/teennick
-美国Cartoon Network,https://sxg.btjson.us.kg/thetv/cartoon-network
-美国AghapyKids,https://5b622f07944df.streamlock.net/aghapykids.tv/aghapykids2/playlist.m3u8
-美国Universal Kids,https://sxg.btjson.us.kg/thetv/universal-kids
-美国TLC,https://sxg.btjson.us.kg/thetv/tlc
 美国WildEarth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-美国Science,https://sxg.btjson.us.kg/thetv/science
-美国DA&E,https://sxg.btjson.us.kg/thetv/ae
-美国DAMC,https://sxg.btjson.us.kg/thetv/amc
-美国DFYI,https://sxg.btjson.us.kg/thetv/fyi
-美国DBravo,https://sxg.btjson.us.kg/thetv/bravo
-美国HBO Comedy,https://sxg.btjson.us.kg/thetv/hbo-comedy-hd
-美国HBO East,https://sxg.btjson.us.kg/thetv/hbo-east
 美国HBO East,http://41.205.93.154/HBO/index.m3u8
-美国HBO Signature,https://sxg.btjson.us.kg/thetv/hbo-signature
-美国HBO Zone HD,https://sxg.btjson.us.kg/thetv/hbo-zone-hd
-美国DAmerican Heroes Channel,https://sxg.btjson.us.kg/thetv/american-heroes-channel
-美国Discovery,https://sxg.btjson.us.kg/thetv/discovery
-美国Discovery Family Channel,https://sxg.btjson.us.kg/thetv/discovery-family-channel
-美国Discovery Life,https://sxg.btjson.us.kg/beesport/Discovery_Life_Live_TV
-美国Discovery Life,https://sxg.btjson.us.kg/thetv/discovery-life
-美国Animal Planet,https://sxg.btjson.us.kg/thetv/animal-planet
-美国History,https://sxg.btjson.us.kg/thetv/history
-美国ACMT,https://sxg.btjson.us.kg/thetv/cmt
-美国Comedy Central,https://sxg.btjson.us.kg/thetv/comedy-central
-美国DDestination America,https://sxg.btjson.us.kg/thetv/destination-america
-美国Food Network,https://sxg.btjson.us.kg/thetv/food-network
-美国FX,https://sxg.btjson.us.kg/thetv/fx
-美国FX Movie,https://sxg.btjson.us.kg/thetv/fx-movie
-美国FXX,https://sxg.btjson.us.kg/thetv/fxx
-美国Showtime Extreme,https://sxg.btjson.us.kg/thetv/showtime-e
-美国Showtime 2,https://sxg.btjson.us.kg/thetv/showtime-2
-美国TBS,https://sxg.btjson.us.kg/thetv/tbs
-美国HGTV,https://sxg.btjson.us.kg/thetv/hgtv
-美国VICE,https://sxg.btjson.us.kg/thetv/vice
-美国ReelzChannel,https://sxg.btjson.us.kg/thetv/reelzchannel
-美国Lifetime,https://sxg.btjson.us.kg/thetv/lifetime
-美国Lifetime Movies,https://sxg.btjson.us.kg/thetv/lmn
-美国Outdoor Channel,https://sxg.btjson.us.kg/thetv/outdoor-channel
-美国NFL Network,https://sxg.btjson.us.kg/thetv/nfl-network
-美国NHL Network,https://sxg.btjson.us.kg/thetv/nhl-network
-美国FOX Sports 1,https://sxg.btjson.us.kg/thetv/fox-sports-1
-美国FOX Sports 2,https://sxg.btjson.us.kg/thetv/fox-sports-2
-美国ESPN,https://sxg.btjson.us.kg/thetv/espn
-美国ESPN2,https://sxg.btjson.us.kg/thetv/espn2
-美国ESPNews,https://sxg.btjson.us.kg/thetv/espnews
-美国ESPNU,https://sxg.btjson.us.kg/thetv/espnu
-美国Tennis Channel,https://sxg.btjson.us.kg/beesport/Tennis_Channel_Live_TV
 美国Tennis Channel,https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 美国Fight Network,https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
-美国Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-美国Ski TV,https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SynapseTV/193.m3u8
 卡塔尔AL Jazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 卡塔尔AL Jazeera,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-卡塔尔AL Jazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 卡塔尔AL Jazeera,https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
 卡塔尔AL Jazeera,https://epg.pw/stream/b7ed4a30861d17378eae7b5b2ba31e8d12f8d6679a4e66cd8425dda5f6eff50a.m3u8
-俄罗斯Russia Today EN,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 俄罗斯Russia Today EN,https://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
 俄罗斯Russia Today EN,http://69.64.57.208:8080/russiatoday/playlist.m3u8
 俄罗斯Russia Today FR,http://69.64.57.208:8080/rtfrance/playlist.m3u8
 俄罗斯Известия,https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
-英国Reuters TV,https://reuters-reutersnow-1-us.plex.wurl.tv/c0c0829237382f291cc46a0368586aa7.m3u8
+金砖英文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+金砖英文,http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
 英国Reuters français,http://69.64.57.208/rtfrance/playlist.m3u8
-英国Sky News,https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
-英国BBC travel,https://ab96b349d4d14d80a1f8530a0bce4488.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-de_BBCTravel/playlist.m3u8
-英国Wild Planet,https://d3c7duantorcb1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/77466ab3-8e6b-497f-9bf9-7b20f2536a20/3.m3u8
-英国Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
-英国Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-英国Love Nature,https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
-英国Sky Sports News,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2477/index.m3u8
-英国Sky Sports football,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7336/index.m3u8
-英国Sky Sports Cricket,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7343/index.m3u8
-英国Sky Sports football,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7336/index.m3u8
-英国Sky Sports News,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2477/index.m3u8
-英国Sky Sports Cricket,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7343/index.m3u8
-英国Sky Sport 1,https://donelfantastic.github.io/live/skysportsNz1.m3u8
-英国Sky Sport 3,https://donelfantastic.github.io/live/skysportsNz3.m3u8
-英国Sky Sport 6,https://donelfantastic.github.io/live/skysportsNz6.m3u8
-英国Sky Sport 7,https://donelfantastic.github.io/live/skysportsNz7.m3u8
-法国Euronews,https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
-法国France24 News,https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_091/HD/playlist.m3u8
 德国Motorvisison TV,https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
-以色列i24 News,https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/profile_0/chunklist.m3u8
-日本NHKWorld News,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-日本NHKWorld News,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
-日本NTV News,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-印度WION,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-印度Travexp,https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
-印度Xplore,http://xlpore-samsungus.amagi.tv/playlist1080p.m3u8
-新加坡Channel NewsAsia,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-新加坡Channel NewsAsia,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-新加坡ESPN,http://143.244.60.30/ESPN/index.m3u8
-韩国ArirangTV,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-韩国ArirangTV,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+新加坡Channel News Asia,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+新加坡Channel News Asia,,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 韩国ArirangTV,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 韩国MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 韩国KBC,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-韩国KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
+印度WION,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+印度Travexp,https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
 泰国ASTV News,http://news1.live14.com/stream/news1_hi.m3u8
 泰国PBS,http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
 印度尼西亚CNBC Indonesia,https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/pikotv.m3u8
 印度尼西亚CNN Indonésia,https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w366707841_b384000_sleng.m3u8
-朝鲜KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-土耳其TRT World,https://tv-trtworld.live.trt.com.tr/master.m3u8
-尼日利亚TSTV,http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
-Tastemate Travelᴴᴰ,https://tastemadetravel-vizio.amagi.tv/playlist720_p.m3u8
-Music,https://sxg.btjson.us.kg/thetv/mtv
