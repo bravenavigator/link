@@ -909,7 +909,7 @@ TVBJ1,https://cdn5.1678520.xyz/live/live2.1.php?id=j1
 TVBJ1,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
 TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 TVBPlus,http://grandprix2023.asuscomm.com:8892/bysid/82.m3u8
-VB亚洲剧集,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
+TVB亚洲剧集,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
 TVB翡翠剧集,http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
 TVB明珠剧集,http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
 VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
@@ -939,7 +939,6 @@ RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/st
 澳门莲花,http://php.jdshipin.com:8880/amlh.php
 澳门莲花,https://tv.iill.top/mo/lhws
 澳视葡语,http://61.244.22.5/ch2/ch2.live/chunklist.m3u8
-莲花卫视,http://php.jdshipin.com:8880/amlh.php
 Astr剧集台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 ✨　台湾,#genre#
