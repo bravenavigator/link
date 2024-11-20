@@ -1031,9 +1031,7 @@ TVB翡翠剧集,http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
 TVB翡翠剧集,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
 TVB明珠剧集,http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
 VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
-VIUTV 96,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
-NOW爆谷,http://205.185.123.236:8899/1/baogutai/stream.m3u8
-NOW星影,http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
+VIUTV 6,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
 NOW星影,http://205.185.123.236:8899/1/now/stream.m3u8
 HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 HOY TV,http://cdn10.1678520.xyz/live/?id=hoy
@@ -1133,7 +1131,6 @@ TVBS欢乐,http://37.27.111.214:8080/live/24/hls.m3u8
 华视台湾,http://37.27.111.214:8080/live/8/hls.m3u8
 华视台湾,rtmp://f13h.mine.nu/sat/tv111
 三立综合,http://37.27.111.214:8080/live/31/hls.m3u8
-三立新闻,http://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8
 三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
 寰宇新闻,http://litv.zapi.us.kg/?id=litv-longturn14
 寰宇新闻,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
