@@ -981,6 +981,7 @@ TVB翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 TVB翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
 TVB翡翠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 TVB翡翠,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+TVB翡翠,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
 TVB翡翠,http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8
 TVB翡翠,http://183.237.246.14:9931/tsfile/live/1007_1.m3u8
 TVB翡翠,http://mzitv.cn:9931/tsfile/live/1007_1.m3u8
@@ -1022,7 +1023,6 @@ TVB明珠,http://mzitv.cn:9931/tsfile/live/1009_1.m3u8
 TVB明珠,http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8
 TVB J1,http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
 TVB J1,https://cdn5.1678520.xyz/live/live2.1.php?id=j1
-TVB J1,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
 TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
 TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 TVB Plus,http://grandprix2023.asuscomm.com:8892/bysid/82.m3u8
@@ -1057,11 +1057,11 @@ RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/st
 Astr剧集台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
+TV N,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 Channel 5,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
 Channel 8,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
 Channel U,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
-Love Nature HD,http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
-NHK World-Japan,http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
+Love Nature,http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
 Nick Jr,http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
 Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
 ROCK Action,http://aktv.top/AKTV/live/aktv3/rockaction/AKTV.m3u8
@@ -1071,7 +1071,6 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 ✨　台湾,#genre#
 中天新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv009
 中天新闻,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
-中天新闻,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 中天亚洲,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
 中视ᴴᴰ,http://37.27.111.214:8080/live/7/hls.m3u8
