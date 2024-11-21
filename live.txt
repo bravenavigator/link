@@ -344,13 +344,6 @@ CCTV14少儿,http://111.14.181.15:9901/tsfile/live/0014_1.m3u8?key=txiptv&playli
 CCTV15音乐,http://111.14.181.15:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4K高清,http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/8cdd688b04e4495ba1635e218419d6f9/4000.m3u8
 中国教育1,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022823801/timeshift.m3u8?delay=0&cdn=5202
-CCTV4欧洲,http://kxrj.site:64325/86/mg.php?id=cctv4o
-CCTV4美洲,http://kxrj.site:64325/86/mg.php?id=cctv4a
-CCTV4欧洲,https://api.livednow.org/migu/608807419?sign=gAAAAABnJcJqqvN9kTkAiHC8GdaGGmmbLi62YsEYOIuOPI9Lac2D2d4KyQai_cbU9d1Blh-fo0li6MavI-f58Er_gvlCd7t5C35cmlxT7M-_SLOpCAeJgeSr4BD0t2Qt_Lrj7ZNsq8dCuNIPRnB-w0rJUjAiBMu0RFBQJ30fHcImYBrTGcTWrqXF53LpJSl0ymgtMaVrO9Y-HiqIUJkzyN8e6BTQQykZiQ%3D%3D
-CCTV4美洲,https://api.livednow.org/migu/608807416?sign=gAAAAABnJcJqws7IJW3h6BlGge9WIDW3Fy0FRiXV5z_xNzVGu8g8B-0qw7tvyNyCVut8pWQCvFvKbhe1hY8cYKFLnYEBy0nIPd9wQZ407ZVV5Ca7zzDKkBo_MoXzKATjpoRRMIpGgGGhNcq4KIeU-5Wtu25PoFpJqE2csWr4hhqYu1_-DhfSOhUE6aePTI8INh7crU01j-d217PMhlw6fqS0cRoIqdQ3Ww%3D%3D
-中国教育1,https://api.livednow.org/migu/923287154?sign=gAAAAABnJcJqVnSXrUUkkYtDWAxHBieXZon2_B2kDSLm9uRif8tufnQMZcjl_RWKY3uwdHLw3clP4ObeP_RJCfjzNqvhDl56kIzLwahI8Rpl8YL2mC2bIKCEwo1CTMP3N7towvh9GjPz2p03gh4qPAFaBTwBczKVxvPMZJuY38uaXlaYqc1ZCAxb6IXrCuhMgtIk47Cy_Xr3f2yZPPNUxvfT_w7Apd4-wA%3D%3D
-中国教育2,https://api.livednow.org/migu/923287211?sign=gAAAAABnJcJqlMwKhypib47dsLMmTDrhIquQSbEM7k3NFiho8sMsjCHT4g572J4Z--cW7zs2z_6Lx0QQN3EtPgKjUeRYzAw_Pefu6uNdTfTWIxiPQBUlDBQAopWhjF5YyomATi-_zP6RZfvDmQL9fGjx83S2vkZBq3CHDShPVmtCSDb_q7lsjHNypuh-YPlAWJsoIfnocfSN3TiN1au-DXXraOO_mvUgDg%3D%3D
-中国教育4,https://api.livednow.org/migu/923287339?sign=gAAAAABnJcJqCVYw9IPx1b6k3F9j_qfxbMCLc7TORXvKiIop_NRc772AulEv8NPpujB0-VnMnhCKtowzqffwqNlNsPZ2NU3FZvye8jB2rjfY5NZegCwzp1GcKgtzhLE4eoO8Mi90IRTg0D8c9ca9KuZg91XnwvBGPb7qr1eiRVTnR5MdNMhWyiI1K_qp3klG-1aJvztKqB-8rlOLOAm6bWHZQuhHJ1B7YQ%3D%3D
 早期教育,http://183.11.239.36:808/hls/100/index.m3u8
 中国教育1,http://183.11.239.36:808/hls/122/index.m3u8
 中国教育4,http://183.11.239.36:808/hls/79/index.m3u8
@@ -359,6 +352,13 @@ CCTV4美洲,https://api.livednow.org/migu/608807416?sign=gAAAAABnJcJqws7IJW3h6Bl
 中国教育1,http://gmxw.7766.org:808/hls/122/index.m3u8
 中国教育4,http://gmxw.7766.org:808/hls/79/index.m3u8
 中国交通,http://gmxw.7766.org:808/hls/172/index.m3u8
+CCTV4欧洲,https://api.livednow.org/migu/608807419?sign=gAAAAABnJcJqqvN9kTkAiHC8GdaGGmmbLi62YsEYOIuOPI9Lac2D2d4KyQai_cbU9d1Blh-fo0li6MavI-f58Er_gvlCd7t5C35cmlxT7M-_SLOpCAeJgeSr4BD0t2Qt_Lrj7ZNsq8dCuNIPRnB-w0rJUjAiBMu0RFBQJ30fHcImYBrTGcTWrqXF53LpJSl0ymgtMaVrO9Y-HiqIUJkzyN8e6BTQQykZiQ%3D%3D
+CCTV4美洲,https://api.livednow.org/migu/608807416?sign=gAAAAABnJcJqws7IJW3h6BlGge9WIDW3Fy0FRiXV5z_xNzVGu8g8B-0qw7tvyNyCVut8pWQCvFvKbhe1hY8cYKFLnYEBy0nIPd9wQZ407ZVV5Ca7zzDKkBo_MoXzKATjpoRRMIpGgGGhNcq4KIeU-5Wtu25PoFpJqE2csWr4hhqYu1_-DhfSOhUE6aePTI8INh7crU01j-d217PMhlw6fqS0cRoIqdQ3Ww%3D%3D
+中国教育1,https://api.livednow.org/migu/923287154?sign=gAAAAABnJcJqVnSXrUUkkYtDWAxHBieXZon2_B2kDSLm9uRif8tufnQMZcjl_RWKY3uwdHLw3clP4ObeP_RJCfjzNqvhDl56kIzLwahI8Rpl8YL2mC2bIKCEwo1CTMP3N7towvh9GjPz2p03gh4qPAFaBTwBczKVxvPMZJuY38uaXlaYqc1ZCAxb6IXrCuhMgtIk47Cy_Xr3f2yZPPNUxvfT_w7Apd4-wA%3D%3D
+中国教育2,https://api.livednow.org/migu/923287211?sign=gAAAAABnJcJqlMwKhypib47dsLMmTDrhIquQSbEM7k3NFiho8sMsjCHT4g572J4Z--cW7zs2z_6Lx0QQN3EtPgKjUeRYzAw_Pefu6uNdTfTWIxiPQBUlDBQAopWhjF5YyomATi-_zP6RZfvDmQL9fGjx83S2vkZBq3CHDShPVmtCSDb_q7lsjHNypuh-YPlAWJsoIfnocfSN3TiN1au-DXXraOO_mvUgDg%3D%3D
+中国教育4,https://api.livednow.org/migu/923287339?sign=gAAAAABnJcJqCVYw9IPx1b6k3F9j_qfxbMCLc7TORXvKiIop_NRc772AulEv8NPpujB0-VnMnhCKtowzqffwqNlNsPZ2NU3FZvye8jB2rjfY5NZegCwzp1GcKgtzhLE4eoO8Mi90IRTg0D8c9ca9KuZg91XnwvBGPb7qr1eiRVTnR5MdNMhWyiI1K_qp3klG-1aJvztKqB-8rlOLOAm6bWHZQuhHJ1B7YQ%3D%3D
+CCTV4欧洲,http://kxrj.site:64325/86/mg.php?id=cctv4o
+CCTV4美洲,http://kxrj.site:64325/86/mg.php?id=cctv4a
 📡　卫视,#genre#
 北京卫视,http://127.0.0.1
 东方卫视,http://127.0.0.1
