@@ -1030,6 +1030,7 @@ TVB亚洲剧集,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
 TVB翡翠剧集,http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
 TVB翡翠剧集,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
 TVB明珠剧集,http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
+VIUTV,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
 VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 VIUTV 6,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
 NOW星影,http://205.185.123.236:8899/1/now/stream.m3u8
@@ -1059,6 +1060,12 @@ ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
 Channel 5,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
 Channel 8,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
 Channel U,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
+Love Nature HD,http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
+NHK World-Japan,http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
+Nick Jr,http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
+Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
+ROCK Action,http://aktv.top/AKTV/live/aktv3/rockaction/AKTV.m3u8
+Thrill,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
 ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 ✨　台湾,#genre#
