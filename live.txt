@@ -862,19 +862,24 @@ CGTN阿语,http://pi.0472.org/live/cgtna.m3u8?token=240413
 CGTN俄语,http://pi.0472.org/live/cgtnr.m3u8?token=240413
 ABC英语互动,http://37.27.111.214:8080/live/54/hls.m3u8
 📺　广东,#genre#
+广东新闻,http://113.15.187.53:8181/tsfile/live/1007_1.m3u8
 广东新闻,http://gmxw.7766.org:808/hls/5/index.m3u8
-广东珠江,http://218.13.170.98:9901/tsfile/live/1000_1.m3u8
 广东新闻,http://183.11.239.36:808/hls/5/index.m3u8
 广东新闻,http://183.237.246.14:9931/tsfile/live/1012_1.m3u8
+广东珠江,http://113.15.187.53:8181/tsfile/live/1000_1.m3u8
+广东珠江,http://218.13.170.98:9901/tsfile/live/1000_1.m3u8
 广东珠江,http://gmxw.7766.org:808/hls/83/index.m3u8
 广东珠江,http://120.238.84.44:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 广东珠江,http://183.237.246.14:9931/tsfile/live/1011_1.m3u8
+广东民生,http://113.15.187.53:8181/tsfile/live/1002_1.m3u8
 广东民生,http://gmxw.7766.org:808/hls/18/index.m3u8
 广东科教,http://113.15.187.53:8181/tsfile/live/1003_1.m3u8
 经济科教,http://gmxw.7766.org:808/hls/4/index.m3u8
 经济科教,http://183.237.246.14:9931/tsfile/live/1016_1.m3u8
 经济科教,http://218.13.170.98:9901/tsfile/live/0018_1.m3u8
+广东影视,http://113.15.187.53:8181/tsfile/live/1004_1.m3u8
 广东影视,http://gmxw.7766.org:808/hls/6/index.m3u8
+广东体育,http://113.15.187.53:8181/tsfile/live/1001_1.m3u8
 广东体育,http://gmxw.7766.org:808/hls/2/index.m3u8
 广东体育,http://218.13.170.98:9901/tsfile/live/0019_1.m3u8
 广东体育,http://183.237.246.14:9931/tsfile/live/1014_1.m3u8
@@ -1559,10 +1564,17 @@ nickjr.,http://37.27.111.214:8080/live/22/hls.m3u8
 黔南综合,rtmp://tv.qntv.net/channellive/ch1?zguizd
 毕节七星关综合,https://p8.vzan.com:443/slowlive/147077707554082780/live.m3u8
 📺　广西,#genre#
+广西新闻,http://113.15.187.53:8181/tsfile/live/1012_1.m3u8
+广西都市,http://113.15.187.53:8181/tsfile/live/1011_1.m3u8
+广西影视,http://113.15.187.53:8181/tsfile/live/1009_1.m3u8
+广西综艺,http://113.15.187.53:8181/tsfile/live/1010_1.m3u8
 广西新闻,http://116.9.204.242:9901/tsfile/live/1001_1.m3u8
 广西都市,http://116.9.204.242:9901/tsfile/live/1002_1.m3u8
 广西综艺旅游,http://116.9.204.242:9901/tsfile/live/0125_1.m3u8
 广西影视,http://116.9.204.242:9901/tsfile/live/0124_1.m3u8
+南宁新闻综合,http://113.15.187.53:8181/tsfile/live/0143_1.m3u8
+南宁影视娱乐,http://113.15.187.53:8181/tsfile/live/1013_1.m3u8
+南宁公共,http://113.15.187.53:8181/tsfile/live/1014_1.m3u8
 南宁新闻综合,https://hls.nntv.cn/nnlive/XWZH_24.m3u8
 南宁都市生活,http://hls.nntv.cn/nnlive/WLSH_24.m3u8
 南宁影视娱乐,http://hls.nntv.cn/nnlive/YSYL_244.m3u8
