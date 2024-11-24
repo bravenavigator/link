@@ -1162,6 +1162,7 @@ MOMOTV,rtmp://f13h.mine.nu/sat/tv761
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 古典音乐,http://litv.zapi.us.kg/?id=4gtv-4gtv059
 亚洲旅游,http://37.27.111.214:8080/live/10/hls.m3u8
+亚洲旅游,http://61.221.215.25:8800/hls/50/index.m3u8
 时尚运动,http://litv.zapi.us.kg/?id=4gtv-4gtv014
 华仁纪实,http://litv.zapi.us.kg/?id=4gtv-4gtv013
 幸福空间,http://37.27.111.214:8080/live/26/hls.m3u8
