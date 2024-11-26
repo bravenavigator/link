@@ -68,9 +68,8 @@ CCTV8电视剧,http://222.169.85.8:9901/tsfile/live/0008_1.m3u8?key=txiptv&playl
 CCTV9纪录,http://222.169.85.8:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13新闻,http://222.169.85.8:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5体育,http://222.169.85.8:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV8,http://116.117.104.29:8096/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8电视剧,http://116.117.104.29:8096/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV6电影,http://116.117.104.29:8096/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CGTN纪录,http://113.218.204.28:8081/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1综合,http://218.76.32.193:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4中文国际,http://218.76.32.193:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV9纪录,http://218.76.32.193:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -86,15 +85,15 @@ CCTV10科教,http://183.94.1.118:8801/tsfile/live/0010_1.m3u8?key=txiptv&playliv
 CCTV2财经,http://183.94.1.118:8801/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV7国防军事,http://183.94.1.118:8801/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV6电影,http://183.94.1.118:8801/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-国际,http://183.94.1.118:8801/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV中文国际,http://183.94.1.118:8801/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1综合,http://183.94.1.118:8801/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV14少儿,http://183.94.1.118:8801/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4国际,http://113.57.93.165:9900/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4中文国际,http://113.57.93.165:9900/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV8电视剧,http://113.57.93.165:9900/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV6电影,http://113.57.93.165:9900/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1综合,http://113.57.93.165:9900/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV12社会与法,http://113.57.93.165:9900/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV3-综艺,http://113.57.93.165:9900/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3综艺,http://113.57.93.165:9900/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1综合,http://58.48.5.186:1111/tsfile/live/0001_1.m3u8
 CCTV2财经,http://58.48.5.186:1111/tsfile/live/0002_1.m3u8
 CCTV3综艺,http://58.48.5.186:1111/tsfile/live/0003_1.m3u8
@@ -914,6 +913,7 @@ CGTN法语,https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LS
 CGTN阿语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
 CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 CGTN纪录,http://183.223.157.33:9901/tsfile/live/0017_1.m3u8
+CGTN纪录,http://113.218.204.28:8081/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 CGTN英语,https://0472.org/hls/cgtn.m3u8
 CGTN纪录,https://0472.org/hls/cgtnd.m3u8
 CGTN俄语,https://0472.org/hls/cgtne.m3u8
