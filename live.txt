@@ -443,6 +443,7 @@ CCTV4K高清,http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/8cdd688b
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/720p.m3u8
 安徽卫视,http://115.149.139.141:10001/tsfile/live/1028_1.m3u8?blog.ntnas.top
 吉林卫视,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/1.m3u8
+东方卫视,http://223.166.234.149:7777/tsfile/live/0107_1.m3u8?key=txiptv
 湖南卫视,http://42.48.50.232:9002/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://42.48.50.232:9002/tsfile/live/0124_2.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://218.76.32.193:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1034,22 +1035,21 @@ ABC英语互动,http://37.27.111.214:8080/live/54/hls.m3u8
 淘娱乐,http://218.241.192.50:8808/udp/239.3.1.100:8001
 📺　上海,#genre#
 新闻综合,http://223.166.234.149:7777/tsfile/live/1025_1.m3u8?key=txiptv
-东方卫视,http://223.166.234.149:7777/tsfile/live/0107_1.m3u8?key=txiptv
 都市频道,http://223.166.234.149:7777/tsfile/live/1026_1.m3u8?key=txiptv
-纪实人文,http://223.166.234.149:7777/tsfile/live/1027_1.m3u8?key=txiptv
-东方影视,http://223.166.234.149:7777/tsfile/live/1028_1.m3u8?key=txiptv
-第一财经,http://223.166.234.149:7777/tsfile/live/1029_1.m3u8?key=txiptv
-五星体育,http://223.166.234.149:7777/tsfile/live/1030_1.m3u8?key=txiptv
 东方财经,http://223.166.234.149:7777/tsfile/live/1031_1.m3u8?key=txiptv
-ICS频道,http://223.166.234.149:7777/tsfile/live/1032_1.m3u8?key=txiptv
-上海教育台,http://223.166.234.149:7777/tsfile/live/1033_1.m3u8?key=txiptv
-七彩戏剧,http://223.166.234.149:7777/tsfile/live/1034_1.m3u8?key=txiptv
-法治天地,http://223.166.234.149:7777/tsfile/live/1035_1.m3u8?key=txiptv
-金色学堂,http://223.166.234.149:7777/tsfile/live/1036_1.m3u8?key=txiptv
+第一财经,http://223.166.234.149:7777/tsfile/live/1029_1.m3u8?key=txiptv
 点掌财经,https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
+东方影视,http://223.166.234.149:7777/tsfile/live/1028_1.m3u8?key=txiptv
+纪实人文,http://223.166.234.149:7777/tsfile/live/1027_1.m3u8?key=txiptv
+ICS频道,http://223.166.234.149:7777/tsfile/live/1032_1.m3u8?key=txiptv
+上海教育,http://223.166.234.149:7777/tsfile/live/1033_1.m3u8?key=txiptv
+金色学堂,http://223.166.234.149:7777/tsfile/live/1036_1.m3u8?key=txiptv
+七彩戏剧,http://223.166.234.149:7777/tsfile/live/1034_1.m3u8?key=txiptv
 都市剧场,http://183.237.246.14:9931/tsfile/live/1107_1.m3u8
-崇明电视台,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
-嘉定电视台,https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8
+法治天地,http://223.166.234.149:7777/tsfile/live/1035_1.m3u8?key=txiptv
+五星体育,http://223.166.234.149:7777/tsfile/live/1030_1.m3u8?key=txiptv
+崇明综合,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
+嘉定综合,https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8
 📺　天津,#genre#
 📺　重庆,#genre#
 潼南综合,http://183.230.184.51:65500/tntv1.m3u8
