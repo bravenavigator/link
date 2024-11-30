@@ -388,6 +388,7 @@ CCTV13新闻,http://111.14.181.15:9901/tsfile/live/0013_1.m3u8?key=txiptv&playli
 CCTV14少儿,http://111.14.181.15:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15音乐,http://111.14.181.15:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4K高清,http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/8cdd688b04e4495ba1635e218419d6f9/4000.m3u8
+CCTV重温经典,http://120.76.248.139/live/bfgd/4200000635.m3u8
 中国教育1,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022823801/timeshift.m3u8?delay=0&cdn=5202
 中国教育1,http://113.57.20.158:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 早期教育,http://183.11.239.36:808/hls/100/index.m3u8
