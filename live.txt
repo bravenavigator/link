@@ -1978,6 +1978,7 @@ nickjr.,http://37.27.111.214:8080/live/22/hls.m3u8
 塔城裕民汉语,http://117.190.130.4:8081/out_1/index.m3u8
 📺　西藏,#genre#
 西藏藏语卫视,http://php.jdshipin.com:8880/xztv.php?id=zy
+西藏藏语卫视,https://tv.vtibet.cn/live/hzwxhy6YdkAatK.m3u8?secret=d2d47a1cacc46b5b484eb335ea2d1270&time=674c572a
 西藏影视文化,http://php.jdshipin.com:8880/xztv.php?id=ys
 🎬　CHC,#genre#
 CHC影迷电影,http://127.0.0.1
