@@ -1028,11 +1028,6 @@ ABC英语互动,http://37.27.111.214:8080/live/54/hls.m3u8
 河源综合,http://183.237.246.14:9931/tsfile/live/1121_1.m3u8
 河源公共,http://183.237.246.14:9931/tsfile/live/1079_1.m3u8
 📺　北京,#genre#
-北京新闻,https://stream1.freetv.fun/64fae43ed545e692f8de25aa933887a89816cd64486789ae8a81078a0667b063.ctv
-北京财经,https://stream1.freetv.fun/07ebd66bf3f0c9f6356a1a4d14e35efa8e2c2ef198d4d1b5ef83c9b84a26ce6b.ctv
-北京文艺,https://stream1.freetv.fun/80c7fe2708c24cd67bfd5ba6a8154308d17681de51d24568051ff46c6939db34.ctv
-北京生活,https://stream1.freetv.fun/a775a6a53d26dd3ef3f292a652a184c832df1bf1141a5d7652cd209988397df3.ctv
-北京影视,https://stream1.freetv.fun/f235e1d3991149eb1ec0ed3c687d17a8781a28fa0cd0f9ad93cfda9fad1a4998.ctv
 北京纪实科教,http://114.243.103.165:8822/rtp/239.3.1.115:8000
 北京纪实科教8K,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 北京纪实科教8K,http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
