@@ -1185,6 +1185,8 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 东森财经,http://litv.zapi.us.kg/?id=4gtv-4gtv153
 东森财经,http://146.56.173.26:9000/live.m3u8?token=Gb14vwrHn&c=195
 东森超视,rtmp://f13h.mine.nu/sat/tv331
+东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
 东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 非凡新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv010
 非凡新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv010
@@ -1200,6 +1202,7 @@ TVBS新闻,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
 TVBS新闻,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8 
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS台湾,http://litv.zapi.us.kg/?id=4gtv-4gtv073
 TVBS台湾,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
@@ -1225,6 +1228,7 @@ TVBS欢乐,http://37.27.111.214:8080/live/24/hls.m3u8
 台视ᴴᴰ,rtmp://f13h.mine.nu/sat/tv071
 台视新闻,https://live.wcetv.com/hls/m3u8/ttvnews.m3u8
 台视新闻,https://live.wcetv.com/hls/master-ttvnews.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8 
 台视财经,http://litv.zapi.us.kg/?id=4gtv-4gtv056
 台视台湾,rtmp://f13h.mine.nu/sat/tv071
 台视卡通,http://37.27.111.214:8080/live/12/hls.m3u8
