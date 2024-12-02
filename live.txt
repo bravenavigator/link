@@ -1193,7 +1193,6 @@ CCTV重温经典,http://120.76.248.139/live/bfgd/4200000635.m3u8
 海峡卫视,http://117.27.190.42:9998/tsfile/live/23283_1.m3u8?key=txiptv&playlive=1&authid=0
 海峡卫视,http://117.27.190.42:9998/tsfile/live/23283_1.m3u8?key=txiptv
 海峡卫视,http://php.jdshipin.com:8880/fujian.php?id=9
-内蒙古卫视,https://stream1.freetv.fun/nei-meng-gu-zong-he-1.m3u8
 安多卫视,http://stream.qhbtv.com/adws/playlist.m3u8?_upt=fa85a7111719921825
 安多卫视,http://stream.qhbtv.com/adws/playlist.m3u8?_upt=d60823ce1718441050
 安多卫视,http://stream.qhbtv.com/adws/playlist.m3u8?_upt=be54a04d1719055140
@@ -1234,7 +1233,6 @@ CGTN阿语,http://pi.0472.org/live/cgtna.m3u8?token=240413
 CGTN俄语,http://pi.0472.org/live/cgtnr.m3u8?token=240413
 ABC英语互动,http://37.27.111.214:8080/live/54/hls.m3u8
 📺　广东,#genre#
-广东新闻,https://stream1.freetv.fun/995036cf04dd76e5b4da9142a9558d9bfa25b0661a6392e76f23e2596239911d.m3u8
 广东新闻,http://gmxw.7766.org:808/hls/5/index.m3u8
 广东新闻,http://183.11.239.36:808/hls/5/index.m3u8
 广东新闻,http://183.237.246.14:9931/tsfile/live/1012_1.m3u8
