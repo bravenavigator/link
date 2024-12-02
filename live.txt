@@ -1612,7 +1612,6 @@ nickjr.,http://37.27.111.214:8080/live/22/hls.m3u8
 江苏城市,http://litchi-play-encrypted-site.jstv.com/live/jscs_live.m3u8?txSecret=e0aaeba4cdb70773f5835ceb03874ea3&txTime=968075ef
 江苏综艺,http://litchi-play-encrypted-site.jstv.com/live/jszy_live.m3u8?txSecret=8f05e7dc3cbdce6388653eee3e086285&txTime=968075ef
 江苏影视,http://litchi-play-encrypted-site.jstv.com/live/jsys_live.m3u8?txSecret=63814fa9d9e10c2a9d00b009519ac226&txTime=968075ef
-江苏教育,http://gxctcc-livod.ks-cdn.gitv.tv/gitv_live/G_JSJY/G_JSJY.m3u8
 江苏城市,http://58.220.219.14:9901/tsfile/live/0120_3.m3u8
 江苏体育休闲,http://121.232.178.93:5000/tsfile/live/0001_4.m3u8?key=txiptv&playlive=1&authid=0
 南京新闻综合,http://live.nbs.cn/channels/njtv/xwpdb/nbs06.m3u8
