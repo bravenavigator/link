@@ -168,7 +168,7 @@ CCTV5+体育赛事,http://171.106.217.25:8181/tsfile/live/faacts/0016_1.m3u8?key
 CCTV16奥林匹克,http://171.106.217.25:8181/tsfile/live/faacts/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3综艺,http://171.106.217.24:8181/tsfile/live/faacts/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV8电视剧,http://171.106.217.24:8181/tsfile/live/faacts/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV16,http://171.106.217.24:8181/tsfile/live/faacts/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV16奥林匹克,http://171.106.217.24:8181/tsfile/live/faacts/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV11戏曲,http://218.77.81.186:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13新闻,http://218.77.81.186:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV12社会与法,http://218.77.81.186:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -201,8 +201,8 @@ CCTV9纪录,http://59.48.75.130:3052/tsfile/live/0009_2.m3u8?key=txiptv&playlive
 CCTV6电影,http://59.48.75.130:3052/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV7国防军事,http://59.48.75.130:3052/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1综合,http://59.48.75.130:3052/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV8,http://202.100.46.58:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV3,http://202.100.46.58:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8电视剧,http://202.100.46.58:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3综艺,http://202.100.46.58:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV8电视剧,http://61.136.67.238:50085/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15音乐,http://61.136.67.238:50085/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2财经,http://120.0.52.241:8086/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
