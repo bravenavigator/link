@@ -1310,6 +1310,7 @@ ABC英语互动,http://37.27.111.214:8080/live/54/hls.m3u8
 北京纪实科教8K,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 北京纪实科教8K,http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 北京卡酷少儿,http://218.76.32.193:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卡酷少儿,http://61.138.128.226:19901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 淘剧场,http://218.241.192.50:8808/udp/239.3.1.95:8001
 淘娱乐,http://218.241.192.50:8808/udp/239.3.1.100:8001
 📺　上海,#genre#
@@ -1766,7 +1767,6 @@ nickjr.,http://37.27.111.214:8080/live/22/hls.m3u8
 金鹰卡通,http://218.76.32.193:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://106.118.70.182:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://113.218.204.28:8081/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-金鹰卡通,http://61.138.128.226:19901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 湘潭新闻综合,http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
 邵阳城步电视,https://liveplay-srs.voc.com.cn/hls/tv/169_b4d7a4.m3u8
 常德汉寿综合,https://liveplay-srs.voc.com.cn/hls/tv/31_226756.m3u8
