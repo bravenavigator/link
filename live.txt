@@ -39,7 +39,7 @@ CCTV电视指南,http://127.0.0.1
 中国教育2,http://127.0.0.1
 中国教育3,http://127.0.0.1
 中国教育4,http://127.0.0.1
-中国交通,http://127.0.0.1
+,http://127.0.0.1
 中国天气,http://127.0.0.1
 CCTV6电影,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
 CCTV6电影,http://42.48.50.232:9002/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -516,6 +516,7 @@ CCTV12社会与法,http://111.14.181.15:9901/tsfile/live/0012_1.m3u8?key=txiptv&
 CCTV13新闻,http://111.14.181.15:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV14少儿,http://111.14.181.15:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15音乐,http://111.14.181.15:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+中国交通,http://122.138.32.222:9999/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 中国教育4,http://121.19.134.139:808/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4K高清,http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/8cdd688b04e4495ba1635e218419d6f9/4000.m3u8
 CCTV重温经典,http://120.76.248.139/live/bfgd/4200000635.m3u8
@@ -1231,6 +1232,7 @@ CGTN西语,http://pi.0472.org/live/cgtne.m3u8?token=240413
 CGTN法语,http://pi.0472.org/live/cgtnf.m3u8?token=240413
 CGTN阿语,http://pi.0472.org/live/cgtna.m3u8?token=240413
 CGTN俄语,http://pi.0472.org/live/cgtnr.m3u8?token=240413
+CGTN英语,http://122.138.32.222:9999/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0
 ABC英语互动,http://37.27.111.214:8080/live/54/hls.m3u8
 📺　广东,#genre#
 广东新闻,http://gmxw.7766.org:808/hls/5/index.m3u8
@@ -1315,6 +1317,8 @@ ABC英语互动,http://37.27.111.214:8080/live/54/hls.m3u8
 北京卡酷少儿,http://61.138.128.226:19901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 淘剧场,http://218.241.192.50:8808/udp/239.3.1.95:8001
 淘娱乐,http://218.241.192.50:8808/udp/239.3.1.100:8001
+睛彩篮球,http://122.138.32.222:9999/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
+睛彩羽毛球,http://122.138.32.222:9999/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&authid=0
 📺　上海,#genre#
 新闻综合,http://223.166.234.149:7777/tsfile/live/1025_1.m3u8?key=txiptv
 都市频道,http://223.166.234.149:7777/tsfile/live/1026_1.m3u8?key=txiptv
@@ -1768,6 +1772,11 @@ nickjr.,http://37.27.111.214:8080/live/22/hls.m3u8
 金鹰纪实,http://gmxw.7766.org:808/hls/171/index.m3u8
 快乐垂钓,http://58.19.38.162:9901/tsfile/live/1033_1.m3u8
 金鹰卡通,http://218.76.32.193:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://171.106.217.20:8181/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://171.106.217.25:8181/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://171.106.217.24:8181/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://171.106.217.203:8181/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://61.138.128.226:19901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://106.118.70.182:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://113.218.204.28:8081/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 湘潭新闻综合,http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
