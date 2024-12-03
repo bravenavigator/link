@@ -1249,6 +1249,7 @@ ABC英语互动,http://37.27.111.214:8080/live/54/hls.m3u8
 广东体育,http://218.13.170.98:9901/tsfile/live/0019_1.m3u8
 广东体育,http://183.237.246.14:9931/tsfile/live/1014_1.m3u8
 广东少儿,http://gmxw.7766.org:808/hls/175/index.m3u8
+岭南戏曲,http://183.239.226.235:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 大湾区卫视,http://gmxw.7766.org:808/hls/132/index.m3u8
 嘉佳卡通,http://gmxw.7766.org:808/hls/8/index.m3u8
 广州综合,http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
@@ -1303,6 +1304,7 @@ ABC英语互动,http://37.27.111.214:8080/live/54/hls.m3u8
 东莞新闻综合,http://php.jdshipin.com:8880/0769.php?id=xwzh
 东莞生活资讯,http://php.jdshipin.com:8880/0769.php?id=shzx
 惠州一套,http://183.237.246.14:9931/tsfile/live/1110_1.m3u8
+汕尾综合,http://183.239.226.235:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
 河源综合,http://183.237.246.14:9931/tsfile/live/1121_1.m3u8
 河源公共,http://183.237.246.14:9931/tsfile/live/1079_1.m3u8
 📺　北京,#genre#
@@ -1615,6 +1617,7 @@ nickjr.,http://37.27.111.214:8080/live/22/hls.m3u8
 江苏影视,http://litchi-play-encrypted-site.jstv.com/live/jsys_live.m3u8?txSecret=63814fa9d9e10c2a9d00b009519ac226&txTime=968075ef
 江苏城市,http://58.220.219.14:9901/tsfile/live/0120_3.m3u8
 江苏体育休闲,http://121.232.178.93:5000/tsfile/live/0001_4.m3u8?key=txiptv&playlive=1&authid=0
+优漫卡通,http://121.232.178.93:5000/tsfile/live/0001_10.m3u8?key=txiptv&playlive=1&authid=0
 南京新闻综合,http://live.nbs.cn/channels/njtv/xwpdb/nbs06.m3u8
 南京娱乐,http://live.nbs.cn/channels/njtv/ylpd/500k.m3u8
 南京娱乐,http://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8
