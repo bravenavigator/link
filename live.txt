@@ -2292,11 +2292,6 @@ nickjr.,http://37.27.111.214:8080/live/22/hls.m3u8
 朔州怀仁综合,http://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc.m3u8
 忻州定襄综合,http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8
 📺　甘肃,#genre#
-甘肃公共,http://www.lebaobei.top:6868/udp/239.255.30.251:8231
-甘肃都市,http://www.lebaobei.top:6868/udp/239.255.30.252:8231
-甘肃经济,http://www.lebaobei.top:6868/udp/239.255.30.253:8231
-甘肃文化影视,http://www.lebaobei.top:6868/udp/239.255.30.250:8231
-甘肃少儿,http://www.lebaobei.top:6868/udp/239.255.30.254:8231
 平凉崆峒综合,http://125.74.200.110:10080/hls/001/001_live.m3u8
 📺　宁夏,#genre#
 吴忠综合,http://live.kanwz.net/zhpd/sd/live.m3u8
