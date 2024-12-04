@@ -1463,6 +1463,7 @@ TVB翡翠,http://1b6467f415.iok.la:9931/tsfile/live/1007_1.m3u8
 TVB翡翠,http://nz171l122.bb60246.ctm.net:8889/bysid/1.m3u8
 TVB翡翠,http://zsntlqj.xicp.net:8895/bysid/1.m3u8
 TVB翡翠,http://beishan008.asuscomm.com:8889/bysid/1.m3u8
+TVB翡翠,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 TVB新闻,http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
 TVB新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 TVB新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
@@ -1500,6 +1501,7 @@ TVB千禧经典,http://205.185.123.236:8899/astro/qianxi/stream.m3u8
 TVB明珠,http://mzitv.cn:9931/tsfile/live/1009_1.m3u8
 TVB明珠,http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8
 TVB J1,https://cdn5.1678520.xyz/live/live2.1.php?id=j1
+TVB J1,http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
 TVB Plus,http://cdn8.1678520.xyz/live/tvbp/stream.m3u8
 TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 TVB Plus,http://grandprix2023.asuscomm.com:8892/bysid/82.m3u8
