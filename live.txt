@@ -1476,6 +1476,7 @@ TVB华丽,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 TVB华丽,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 TVB华丽,http://cdn9.1689.us.kg/smt1.1.php?id=Tvbjade
 TVB娱乐,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
+TVB娱乐,http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
 TVB生活,http://v2h.jdshipin.com/finance2/finance2.stream/chunklist_w102.m3u8
 TVB生活,http://v2h.jdshipin.com/finance2/finance2.stream/chunklist.m3u8
 TVB生活,http://php.jdshipin.com/TVOD/iptv.php?id=tvbsh
@@ -1506,12 +1507,11 @@ TVB Plus,http://cdn8.1678520.xyz/live/tvbp/stream.m3u8
 TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 TVB Plus,http://grandprix2023.asuscomm.com:8892/bysid/82.m3u8
 TVB华语剧集,http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
+TVB华语剧集,http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
 TVB亚洲剧集,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
-TVB黄金剧集,http://aktv.top/AKTV/live/aktv/null-20/AKTV.m3u8
-TVB翡翠剧集,http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
-TVB明珠剧集,http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
-VIUTV,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
-VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+VIUTV-粤,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
+VIUTV-粤,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+VIUTV-英,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
 VIUTV 6,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
 NOW星影,http://205.185.123.236:8899/1/now/stream.m3u8
 HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
