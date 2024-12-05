@@ -2400,7 +2400,7 @@ nickjr.,http://37.27.111.214:8080/live/22/hls.m3u8
 CHC影迷电影,http://127.0.0.1
 CHC动作电影,http://127.0.0.1
 CHC家庭影院,http://127.0.0.1
-CHC家庭影院HD,http://113.57.109.48:1111/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC家庭影院,http://113.57.109.48:1111/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC动作电影,http://113.57.109.48:1111/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC影迷电影,http://113.57.109.48:1111/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
