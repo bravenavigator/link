@@ -1401,7 +1401,6 @@ ABC英语互动,http://37.27.111.214:8080/live/54/hls.m3u8
 北京纪实科教,http://114.243.103.165:8822/rtp/239.3.1.115:8000
 北京纪实科教8K,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 北京纪实科教8K,http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
-北京卡酷少儿,http://218.76.32.193:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卡酷少儿,http://61.138.128.226:19901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 淘剧场,http://218.241.192.50:8808/udp/239.3.1.95:8001
 淘娱乐,http://218.241.192.50:8808/udp/239.3.1.100:8001
@@ -2051,6 +2050,8 @@ nickjr.,http://37.27.111.214:8080/live/22/hls.m3u8
 甘孜德格综合,http://dgfile.ganzitv.com:80/nmip-media/channellive/channel101955/playlist.m3u8
 甘孜康定综合,http://m3u8-kd.channel.ganzitv.com/nmip-media-yajiang/channellive/channel100663/playlist.m3u8
 📺　云南,#genre#
+云南都市,http://220.164.192.48:50085/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
+云南娱乐,http://220.164.192.48:50085/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 文山新闻综合,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
 文山新闻综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 文山公共,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8
@@ -2323,8 +2324,6 @@ nickjr.,http://37.27.111.214:8080/live/22/hls.m3u8
 📺　辽宁,#genre#
 📺黑龙江,#genre#
 黑龙江新闻法治,http://123.166.61.70:8003/hls/51/index.m3u8
-黑龙江都市,http://220.164.192.48:50085/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
-黑龙江娱乐,http://220.164.192.48:50085/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 📺　吉林,#genre#
 吉林都市,https://hls.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/1.m3u8
 吉林生活,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/1.m3u8
@@ -2396,10 +2395,10 @@ CHC影迷电影,http://127.0.0.1
 CHC动作电影,http://127.0.0.1
 CHC家庭影院,http://127.0.0.1
 CHC家庭影院HD,http://113.57.109.48:1111/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC动作电影HD,http://113.57.109.48:1111/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC动作电影,http://113.57.109.48:1111/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC影迷电影,http://113.57.109.48:1111/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC家庭影院HD,http://58.19.38.162:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC动作电影HD,http://58.19.38.162:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC动作电影,http://58.19.38.162:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC影迷电影,http://58.19.38.162:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC影迷电影,http://58.48.5.186:1111/tsfile/live/0142_1.m3u8
 CHC动作电影,http://58.48.5.186:1111/tsfile/live/0121_1.m3u8
@@ -2423,9 +2422,9 @@ CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1036_1.m3u8
 漫威剧情,http://159.75.85.63:35455/douyu/6140589
 🌏　海外,#genre#
 美国Fox News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-美国CBN News,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+美国CBN News,https://bcovlive-a.akamai.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 美国Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-美国Bloomberg HT,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
+美国Bloomberg HT,https://liveprodusphoenixeast.akamaized.net/USPhx-/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
 美国Bloomberg HT,https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
 美国YahooFinance,https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 美国WildEarth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
