@@ -1512,7 +1512,7 @@ TVB亚洲剧集,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
 VIUTV-粤,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
 VIUTV-粤,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 VIUTV-英,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
-VIUTV 6,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
+VIUTV-英,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
 NOW星影,http://205.185.123.236:8899/1/now/stream.m3u8
 HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 HOY TV,http://cdn10.1678520.xyz/live/?id=hoy
