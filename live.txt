@@ -39,7 +39,7 @@ CETV中国教育1,http://127.0.0.1
 CETV中国教育2,http://127.0.0.1
 CETV中国教育3,http://127.0.0.1
 CETV中国教育4,http://127.0.0.1
-CETV中国交通,http://127.0.0.1
+中国交通,http://127.0.0.1
 中国天气,http://127.0.0.1
 CCTV6电影,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
 CCTV1综合,http://202.168.187.208:9089/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -53,9 +53,6 @@ CCTV5体育,http://61.173.144.157:9901/tsfile/live/0005_1.m3u8?key=txiptv&playli
 CCTV6电影,http://61.173.144.157:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV7国防军事,http://61.173.144.157:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV8电视剧,http://61.173.144.157:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV6电影,http://42.48.50.232:9002/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV13新闻,http://42.48.50.232:9002/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV1综合,http://42.48.50.232:9002/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV12社会与法,http://221.233.192.152:1111/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV7国防军事,http://221.233.192.152:1111/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV9纪录,http://221.233.192.152:1111/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -255,6 +252,9 @@ CCTV3综艺,http://120.0.52.238:8086/tsfile/live/0003_1.m3u8?key=txiptv&playlive
 CCTV6电影,http://120.0.52.238:8086/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV10科教,http://120.0.52.238:8086/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4中文国际,http://120.0.52.238:8086/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6电影,http://42.48.50.232:9002/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13新闻,http://42.48.50.232:9002/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1综合,http://42.48.50.232:9002/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1综合,http://58.48.5.186:1111/tsfile/live/0001_1.m3u8
 CCTV2财经,http://58.48.5.186:1111/tsfile/live/0002_1.m3u8
 CCTV3综艺,http://58.48.5.186:1111/tsfile/live/0003_1.m3u8
