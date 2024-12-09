@@ -133,7 +133,6 @@ CCTV7国防军事,http://222.243.221.54:9901/tsfile/live/0007_1.m3u8?key=txiptv&
 CCTV13新闻,http://222.243.221.54:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15音乐,http://222.243.221.54:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV12社会与法,http://222.243.221.54:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV16奥林匹克,http://121.232.178.93:5000/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5体育,http://113.220.234.101:9999/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2财经,http://113.220.234.101:9999/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV6电影,http://113.220.234.101:9999/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -877,13 +876,6 @@ CETV中国交通,http://gmxw.7766.org:808/hls/172/index.m3u8
 山东卫视,http://221.233.192.152:1111/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://221.233.192.152:1111/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://221.233.192.152:1111/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-江苏卫视,http://121.232.178.93:5000/tsfile/live/0001_5.m3u8?key=txiptv&playlive=1&authid=0
-北京卫视,http://121.232.178.93:5000/tsfile/live/0001_6.m3u8?key=txiptv&playlive=1&authid=0
-东方卫视,http://121.232.178.93:5000/tsfile/live/0001_7.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视,http://121.232.178.93:5000/tsfile/live/0001_8.m3u8?key=txiptv&playlive=1&authid=0
-浙江卫视,http://121.232.178.93:5000/tsfile/live/0001_9.m3u8?key=txiptv&playlive=1&authid=0
-海南卫视,http://121.232.178.93:5000/tsfile/live/0001_11.m3u8?key=txiptv&playlive=1&authid=0
-广东卫视,http://121.232.178.93:5000/tsfile/live/0001_12.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://183.94.1.118:8801/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://183.94.1.118:8801/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://183.94.1.118:8801/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1499,7 +1491,6 @@ ICS频道,http://223.166.234.215:7777/tsfile/live/1032_1.m3u8?key=txiptv&playliv
 巫山综合,https://qxlmlive9.cbg.cn/applive/wspd001/chunklist.m3u8
 永川综合,https://qxlmlive9.cbg.cn/applive/yctv01/playlist.m3u8
 ✨　港澳,#genre#
-凤凰资讯,http://121.232.178.93:5000/tsfile/live/0001_13.m3u8?key=txiptv&playlive=1&authid=0
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pin72.m3u8
@@ -1619,7 +1610,6 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 ✨　台湾,#genre#
 中天新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv009
 中天新闻,http://114.33.60.49:8541/http/61.219.99.20:8081/hls/78/80/ch063max.m3u8
-中天新闻,http://114.33.60.49:8554/http/116.50.42.19:8081/hls/78/80/ch63max.m3u8
 中天新闻,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 中天亚洲,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 中天娱乐,http://114.33.60.49:8527/http/60.251.39.91:8081/hls/67/809/ch26.m3u8
@@ -1687,8 +1677,6 @@ TVBS欢乐,http://37.27.111.214:8080/live/24/hls.m3u8
 民视第一,http://37.27.111.214:8080/live/4/hls.m3u8
 民视旅游,http://litv.zapi.us.kg/?id=litv-ftv07
 民视综艺,http://litv.zapi.us.kg/?id=4gtv-4gtv004
-台视ᴴᴰ,http://114.33.60.49:8515/http/61.221.81.94:8088/hls/63/805/ch09.m3u8
-台视ᴴᴰ,http://114.33.60.49:8515/http/61.219.99.20:8081/hls/86/80/Ttv4max.m3u8
 台视ᴴᴰ,http://114.33.60.49:8502/http/61.221.81.94:8088/hls/72/814/ch46.m3u8
 台视ᴴᴰ,rtmp://f13h.mine.nu/sat/tv071
 台视新闻,https://live.wcetv.com/hls/m3u8/ttvnews.m3u8
@@ -1696,6 +1684,8 @@ TVBS欢乐,http://37.27.111.214:8080/live/24/hls.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8 
 台视财经,http://litv.zapi.us.kg/?id=4gtv-4gtv056
 台视台湾,rtmp://f13h.mine.nu/sat/tv071
+台视卡通,http://114.33.60.49:8515/http/61.221.81.94:8088/hls/63/805/ch09.m3u8
+台视卡通,http://114.33.60.49:8515/http/61.219.99.20:8081/hls/86/80/Ttv4max.m3u8
 台视卡通,http://37.27.111.214:8080/live/12/hls.m3u8
 华视ᴴᴰ,rtmp://f13h.mine.nu/sat/tv111
 华视ᴴᴰ,http://37.27.111.214:8080/live/8/hls.m3u8
@@ -1805,9 +1795,6 @@ Nick动画,http://37.27.111.214:8080/live/12/hls.m3u8
 Nick动画,http://37.27.111.214:8080/live/22/hls.m3u8
 nickjr.,http://37.27.111.214:8080/live/22/hls.m3u8
 📺　江苏,#genre#
-江苏城市,http://litchi-play-encrypted-site.jstv.com/live/jscs_live.m3u8?txSecret=e0aaeba4cdb70773f5835ceb03874ea3&txTime=968075ef
-江苏综艺,http://litchi-play-encrypted-site.jstv.com/live/jszy_live.m3u8?txSecret=8f05e7dc3cbdce6388653eee3e086285&txTime=968075ef
-江苏影视,http://litchi-play-encrypted-site.jstv.com/live/jsys_live.m3u8?txSecret=63814fa9d9e10c2a9d00b009519ac226&txTime=968075ef
 江苏城市,http://58.220.219.14:9901/tsfile/live/0120_3.m3u8
 江苏体育休闲,http://121.232.178.93:5000/tsfile/live/0001_4.m3u8?key=txiptv&playlive=1&authid=0
 优漫卡通,http://121.232.178.93:5000/tsfile/live/0001_10.m3u8?key=txiptv&playlive=1&authid=0
