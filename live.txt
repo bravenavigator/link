@@ -1619,6 +1619,7 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 ✨　台湾,#genre#
 中天新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv009
 中天新闻,http://114.33.60.49:8541/http/61.219.99.20:8081/hls/78/80/ch063max.m3u8
+中天新闻,http://114.33.60.49:8554/http/116.50.42.19:8081/hls/78/80/ch63max.m3u8
 中天新闻,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 中天亚洲,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 中天娱乐,http://114.33.60.49:8527/http/60.251.39.91:8081/hls/67/809/ch26.m3u8
@@ -1636,6 +1637,7 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 中视菁采,http://litv.zapi.us.kg/?id=4gtv-4gtv064
 中视经典,http://litv.zapi.us.kg/?id=4gtv-4gtv080
 东森新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv152
+东森新闻,http://114.33.60.49:8540/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
 东森新闻,http://146.56.173.26:9000/live.m3u8?token=Npvs-u7y1&c=194
 东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8
 东森财经,http://litv.zapi.us.kg/?id=4gtv-4gtv153
@@ -1702,7 +1704,8 @@ TVBS欢乐,http://37.27.111.214:8080/live/24/hls.m3u8
 华视台湾,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
 华视台湾,http://37.27.111.214:8080/live/8/hls.m3u8
 华视台湾,rtmp://f13h.mine.nu/sat/tv111
-三立综合,http://37.27.111.214:8080/live/31/hls.m3u8
+三立ᴴᴰ,http://37.27.111.214:8080/live/31/hls.m3u8
+三立新闻,http://114.33.60.49:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
 三立台湾,http://114.33.60.49:8521/http/60.251.39.91:8081/hls/65/807/ch20.m3u8
 三立都会,http://114.33.60.49:8522/http/60.251.39.91:8081/hls/65/807/ch19.m3u8
 三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
