@@ -2010,7 +2010,9 @@ nickjr.,http://37.27.111.214:8080/live/22/hls.m3u8
 湘西古丈综合,https://liveplay-srs.voc.com.cn/hls/tv/144_4efb38.m3u8
 益阳沅江综合,https://liveplay-srs.voc.com.cn/hls/tv/163_2c7011.m3u8
 益阳南县综合,http://hnstnx.chinashadt.com:2037/live/10001.stream/playlist.m3u8
-益阳永州蓝山综合,https://liveplay-srs.voc.com.cn/hls/tv/26_370917.m3u8
+永州新闻综合,http://222.243.221.54:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+永州新闻综合,http://218.77.81.186:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+永州蓝山综合,https://liveplay-srs.voc.com.cn/hls/tv/26_370917.m3u8
 岳阳汨罗综合,https://liveplay-srs.voc.com.cn/hls/tv/166_a4ad1b.m3u8
 张家界桑植综合,https://liveplay-srs.voc.com.cn/hls/tv/185_938292.m3u8
 📺　湖北,#genre#
