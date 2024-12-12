@@ -1533,6 +1533,7 @@ ICS频道,http://223.166.234.215:7777/tsfile/live/1032_1.m3u8?key=txiptv&playliv
 凤凰香港,http://203.205.220.174:80/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 TVB翡翠,http://cdn8.1678520.xyz/live/fct4k/stream.m3u8
+TVB翡翠,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
 TVB翡翠,http://119.125.134.205:9902/tsfile/live/1007_1.m3u8
 TVB翡翠,http://119.125.134.212:9902/tsfile/live/1007_1.m3u8
 TVB翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct
