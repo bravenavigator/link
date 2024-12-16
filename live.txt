@@ -41,6 +41,11 @@ CETV中国教育3,http://127.0.0.1
 CETV中国教育4,http://127.0.0.1
 中国交通,http://127.0.0.1
 中国天气,http://127.0.0.1
+CCTV1综合,http://221.224.4.170:1111/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4中文国际,http://221.224.4.170:1111/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5体育,http://221.224.4.170:1111/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12社会与法,http://221.224.4.170:1111/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13新闻,http://221.224.4.170:1111/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV6电影,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
 CCTV2财经,http://221.224.4.170:1111/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV9纪录,http://221.224.4.170:1111/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -596,7 +601,7 @@ CETV中国教育4,http://183.11.239.36:808/hls/79/index.m3u8
 CETV早期教育,http://gmxw.7766.org:808/hls/100/index.m3u8
 CETV中国教育1,http://gmxw.7766.org:808/hls/122/index.m3u8
 CETV中国教育4,http://gmxw.7766.org:808/hls/79/index.m3u8
-CETV中国交通,http://gmxw.7766.org:808/hls/172/index.m3u8
+中国交通,http://gmxw.7766.org:808/hls/172/index.m3u8
 📡　卫视,#genre#
 北京卫视,http://127.0.0.1
 东方卫视,http://127.0.0.1
