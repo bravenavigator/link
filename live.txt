@@ -1469,6 +1469,7 @@ ABC英语互动,http://37.27.111.214:8080/live/54/hls.m3u8
 东莞生活资讯,http://php.jdshipin.com:8880/0769.php?id=shzx
 惠州一套,http://183.237.246.14:9931/tsfile/live/1110_1.m3u8
 汕尾综合,http://183.239.226.235:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
+韶关综合,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
 河源综合,http://183.237.246.14:9931/tsfile/live/1121_1.m3u8
 河源公共,http://183.237.246.14:9931/tsfile/live/1079_1.m3u8
 📺　北京,#genre#
@@ -1514,10 +1515,12 @@ ICS频道,http://223.166.234.215:7777/tsfile/live/1032_1.m3u8?key=txiptv&playliv
 崇明综合,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
 嘉定综合,https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8
 📺　天津,#genre#
+西青新闻综合,http://221.238.209.44:81/hls/live1.m3u8?ztianjd
 📺　重庆,#genre#
 潼南综合,http://183.230.184.51:65500/tntv1.m3u8
 璧山综合,http://222.179.42.129:8181/hls1.m3u8
 垫江综合,http://125.62.24.185:80/1.m3u8
+合川综合,http://125.62.24.72:8030/ch0.m3u8?zzhongqd
 万源新闻综合,http://live.wanyuannews.com/wytv/hd/live.m3u8
 梁平综合,https://qxlmlive9.cbg.cn/applive/lplive01/chunklist.m3u8
 酉阳综合,http://qxlmlive9.cbg.cn/applive/youytv01/playlist.m3u8
@@ -2091,6 +2094,7 @@ nickjr.,http://37.27.111.214:8080/live/22/hls.m3u8
 滁州新闻综合,http://live.cztv.cc:85/live/xwpd.m3u8
 滁州公共,http://live.cztv.cc:85/live/ggpd.m3u8
 滁州科教,http://live.cztv.cc:85/live/sjpd.m3u8
+庐山综合,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_lushan.m3u8
 安庆岳西综合,http://112.30.194.221:20080/live/b62955a9283f4c2ea8ccb96e8ac468bc/hls.m3u8
 蚌埠固镇综合,http://www.guzhenm.com:7001/hls/hd-live.m3u8
 黄山祁门新闻综合,http://file.qmxrmt.com/nmip-media/channellive/channel108622/playlist.m3u8
@@ -2163,6 +2167,7 @@ nickjr.,http://37.27.111.214:8080/live/22/hls.m3u8
 广元旺苍综合,http://channel.wcrmt.cn:80/nmip-media/channellive/channel105268/playlist.m3u8
 宜宾叙州综合,http://pili-live-hls.ybcxjd.com/jdh-live/2108111201035597.m3u8
 宜宾长宁综合,http://cnpull.sccnfb.com:80/live/123456.m3u8
+巴中综合,http://ocj2.kksmg.com/ocj1/ocj1.m3u8
 阿坝黑水综合,http://live.schstv.com:90/live/xwzh.m3u8
 阿坝马尔康综合,http://live.zmmek.com:90/live/zhxw.m3u8
 阿坝松潘综合,http://live.spccmc.com:90/live/spxwzh.m3u8
