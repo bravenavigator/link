@@ -2173,8 +2173,8 @@ nickjr.,http://37.27.111.214:8080/live/22/hls.m3u8
 甘孜康定综合,http://m3u8-kd.channel.ganzitv.com/nmip-media-yajiang/channellive/channel100663/playlist.m3u8
 📺　云南,#genre#
 云南都市,http://220.164.192.48:50085/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
-云南公共,http://220.164.192.48:50085/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
 云南娱乐,http://220.164.192.48:50085/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
+云南康旅,http://220.164.192.48:50085/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
 文山新闻综合,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
 文山新闻综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 文山公共,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8
