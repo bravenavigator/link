@@ -1650,8 +1650,6 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 中天娱乐,http://114.33.60.49:8527/http/60.251.39.91:8081/hls/67/809/ch26.m3u8
 中天娱乐,http://211.23.114.106:8527/http/60.251.39.91:8081/hls/67/809/ch26.m3u8
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
-中视ᴴᴰ,http://114.33.60.49:8502/http/61.221.81.94:8088/hls/72/814/ch47.m3u8
-中视ᴴᴰ,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch47.m3u8
 中视ᴴᴰ,http://37.27.111.214:8080/live/7/hls.m3u8
 中视ᴴᴰ,rtmp://f13h.mine.nu/sat/tv091
 中视ᴴᴰ,https://litv.zapi.us.kg/?id=4gtv-4gtv040
@@ -1828,6 +1826,8 @@ ELEVEN2台,rtmp://f13h.mine.nu/sat/tv741
 ELTA体育3,rtmp://9hv9.mine.nu/sat/md011
 ELTA体育4,rtmp://9hv9.mine.nu/sat/md021
 MOMO综合,rtmp://f13h.mine.nu/sat/tv761
+MOMO儿童,http://114.33.60.49:8502/http/61.221.81.94:8088/hls/72/814/ch47.m3u8
+MOMO儿童,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch47.m3u8
 MOMO儿童,http://37.27.111.214:8080/live/3/hls.m3u8
 GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 TAIWAN Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
