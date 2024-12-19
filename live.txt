@@ -1809,6 +1809,8 @@ TVBS欢乐,http://37.27.111.214:8080/live/24/hls.m3u8
 亚洲旅游,http://61.221.215.25:8800/hls/50/index.m3u8
 亚洲旅游,http://litv.zapi.us.kg/?id=litv-longturn17
 时尚运动,http://litv.zapi.us.kg/?id=4gtv-4gtv014
+人间卫视,http://211.23.114.106:8506/http/61.221.81.94:8088/hls/69/811/ch36.m3u8
+好消息,http://211.23.114.106:8508/http/61.221.81.94:8088/hls/74/816/ch53.m3u8
 生活英语,http://litv.zapi.us.kg/?id=litv-longturn20
 华仁纪实,http://litv.zapi.us.kg/?id=4gtv-4gtv013
 幸福空间,http://37.27.111.214:8080/live/26/hls.m3u8
@@ -1838,6 +1840,8 @@ HakkaTV,http://37.27.111.214:8080/live/1/hls.m3u8
 TiTV原视,http://37.27.111.214:8080/live/2/hls.m3u8
 LiveTV,http://37.27.111.214:8080/live/25/hls.m3u8
 MuchTV,http://114.33.60.49:8529/http/60.251.39.91:8081/hls/72/814/ch45.m3u8
+MuchTV,http://211.23.114.106:8529/http/60.251.39.91:8081/hls/72/814/ch45.m3u8
+ANIMAX,http://211.23.114.106:8516/http/61.221.81.94:8088/hls/70/812/ch39.m3u8
 HISTORY,http://37.27.111.214:8080/live/27/hls.m3u8
 HITS,http://37.27.111.214:8080/live/28/hls.m3u8
 CinemaWorld,http://37.27.111.214:8080/live/30/hls.m3u8
