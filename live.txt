@@ -1684,7 +1684,6 @@ Thrill,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
 ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 ✨　台湾,#genre#
-中天新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv009
 中天新闻,http://114.33.60.49:8541/http/116.50.42.19:8081/hls/78/80/ch63max.m3u8
 中天新闻,http://114.33.60.49:8541/http/61.219.99.20:8081/hls/78/80/ch063max.m3u8
 中天新闻,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
