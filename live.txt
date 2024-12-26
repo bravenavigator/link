@@ -1438,8 +1438,8 @@ ABC英语互动,http://37.27.111.214:8080/live/54/hls.m3u8
 广东新闻,http://gmxw.7766.org:808/hls/5/index.m3u8
 广东新闻,http://183.11.239.36:808/hls/5/index.m3u8
 广东新闻,http://183.237.246.14:9931/tsfile/live/1012_1.m3u8
-广东珠江,http://58.254.14.231:808/hls/55/index.m3u8
 广东珠江,http://cdn2.132.us.kg/live/gdzj/stream.m3u8
+广东珠江,http://58.254.14.231:808/hls/55/index.m3u8
 广东珠江,http://218.13.170.98:9901/tsfile/live/1000_1.m3u8
 广东珠江,http://gmxw.7766.org:808/hls/83/index.m3u8
 广东珠江,http://183.237.246.14:9931/tsfile/live/1011_1.m3u8
@@ -1583,13 +1583,12 @@ ICS频道,http://223.166.234.215:7777/tsfile/live/1032_1.m3u8?key=txiptv&playliv
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰中文,http://cdn.132.us.kg/live/fhzw/stream.m3u8
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰中文,http://117.27.190.42:9998/tsfile/live/23280_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰香港,http://203.205.220.174:80/qctv.fengshows.cn/live/0701phk72.m3u8
 TVB翡翠,http://cdn.132.us.kg/live/fct4k/stream.m3u8
-翡翠,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
+TVB翡翠,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
 TVB翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 TVB翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 TVB翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
@@ -1648,7 +1647,7 @@ TVB明珠,http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8
 TVB J1,http://cdn3.132.us.kg/live/j1/stream.m3u8
 TVB J1,https://cdn5.1678520.xyz/live/live2.1.php?id=j1
 TVB J1,http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
-TVB Plus,http://cdn.132.us.kg/live/tvbp/stream.m3u8
+TVB  Plus,http://cdn.132.us.kg/live/tvbp/stream.m3u8
 TVB  Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 TVB Plus,http://grandprix2023.asuscomm.com:8892/bysid/82.m3u8
 TVB华语剧集,http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
