@@ -1434,21 +1434,27 @@ CGTN俄语,http://pi.0472.org/live/cgtnr.m3u8?token=240413
 CGTN英语,http://122.138.32.222:9999/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0
 ABC英语互动,http://37.27.111.214:8080/live/54/hls.m3u8
 📺　广东,#genre#
+广东新闻,http://58.254.14.231:808/hls/52/index.m3u8
 广东新闻,http://gmxw.7766.org:808/hls/5/index.m3u8
 广东新闻,http://183.11.239.36:808/hls/5/index.m3u8
 广东新闻,http://183.237.246.14:9931/tsfile/live/1012_1.m3u8
+广东珠江,http://58.254.14.231:808/hls/55/index.m3u8
+广东珠江,http://cdn2.132.us.kg/live/gdzj/stream.m3u8
 广东珠江,http://218.13.170.98:9901/tsfile/live/1000_1.m3u8
 广东珠江,http://gmxw.7766.org:808/hls/83/index.m3u8
-广东珠江,http://120.238.84.44:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 广东珠江,http://183.237.246.14:9931/tsfile/live/1011_1.m3u8
 广东民生,http://gmxw.7766.org:808/hls/18/index.m3u8
+经济科教,http://58.254.14.231:808/hls/502/index.m3u8
 经济科教,http://gmxw.7766.org:808/hls/4/index.m3u8
 经济科教,http://183.237.246.14:9931/tsfile/live/1016_1.m3u8
 经济科教,http://218.13.170.98:9901/tsfile/live/0018_1.m3u8
+广东影视,http://58.254.14.231:808/hls/53/index.m3u8
 广东影视,http://gmxw.7766.org:808/hls/6/index.m3u8
+广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
 广东体育,http://gmxw.7766.org:808/hls/2/index.m3u8
 广东体育,http://218.13.170.98:9901/tsfile/live/0019_1.m3u8
 广东体育,http://183.237.246.14:9931/tsfile/live/1014_1.m3u8
+广东少儿,http://58.254.14.231:808/hls/54/index.m3u8
 广东少儿,http://gmxw.7766.org:808/hls/175/index.m3u8
 岭南戏曲,http://183.239.226.235:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 大湾区卫视,http://gmxw.7766.org:808/hls/132/index.m3u8
@@ -1465,6 +1471,7 @@ ABC英语互动,http://37.27.111.214:8080/live/54/hls.m3u8
 广州新闻,https://tencentplaygsm.gztv.com/live/xinwen.m3u8?txTime=659a511e&txSecret=1a5bbbb41bc728d271c8b99e5482f8e7
 广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=6f73647cae387d01a3c2132074132a83&txTime=18d00acf487
 广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
+广州影视,http://58.254.14.231:808/hls/235/index.m3u8
 广州影视,http://tencentplaygzrb01.gztv.com/live/yingshi.m3u8
 广州影视,https://tencentplaygsm.gztv.com/live/yingshi.m3u8?txTime=6594e994&txSecret=52eedb1aafdda80adf996079505cc49d
 广州影视,https://tencentplaygsm.gztv.com/live/yingshi.m3u8?txTime=659a5117&txSecret=52195f79cab012334aa7ef5c153e8ddd
@@ -1512,6 +1519,8 @@ ABC英语互动,http://37.27.111.214:8080/live/54/hls.m3u8
 东莞新闻综合,http://php.jdshipin.com:8880/0769.php?id=xwzh
 东莞生活资讯,http://php.jdshipin.com:8880/0769.php?id=shzx
 惠州一套,http://183.237.246.14:9931/tsfile/live/1110_1.m3u8
+汕尾综合,http://58.254.14.231:808/hls/504/index.m3u8
+汕尾文化生活,http://58.254.14.231:808/hls/131/index.m3u8
 汕尾综合,http://183.239.226.235:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
 韶关综合,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
 河源综合,http://183.237.246.14:9931/tsfile/live/1121_1.m3u8
@@ -1569,20 +1578,18 @@ ICS频道,http://223.166.234.215:7777/tsfile/live/1032_1.m3u8?key=txiptv&playliv
 巫山综合,https://qxlmlive9.cbg.cn/applive/wspd001/chunklist.m3u8
 永川综合,https://qxlmlive9.cbg.cn/applive/yctv01/playlist.m3u8
 ✨　港澳,#genre#
-凤凰资讯,http://114.33.60.49:8539/http/61.219.99.20:8078/hls/20/80/phoenixif.m3u8
+凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-凤凰中文,http://114.33.60.49:8539/http/61.219.99.20:8078/hls/21/80/phoenixch.m3u8
+凤凰中文,http://cdn.132.us.kg/live/fhzw/stream.m3u8
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰中文,http://117.27.190.42:9998/tsfile/live/23280_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰香港,http://203.205.220.174:80/qctv.fengshows.cn/live/0701phk72.m3u8
-凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
-TVB翡翠,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
+TVB翡翠,http://cdn.132.us.kg/live/fct4k/stream.m3u8
+翡翠,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
 TVB翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 TVB翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 TVB翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
@@ -1638,18 +1645,19 @@ TVB千禧经典,http://cdn9.1689.us.kg/smt1.1.php?id=Tvbclassic
 TVB千禧经典,http://205.185.123.236:8899/astro/qianxi/stream.m3u8
 TVB明珠,http://mzitv.cn:9931/tsfile/live/1009_1.m3u8
 TVB明珠,http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8
+TVB J1,http://cdn3.132.us.kg/live/j1/stream.m3u8
 TVB J1,https://cdn5.1678520.xyz/live/live2.1.php?id=j1
 TVB J1,http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
-TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
+TVB Plus,http://cdn.132.us.kg/live/tvbp/stream.m3u8
+TVB  Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 TVB Plus,http://grandprix2023.asuscomm.com:8892/bysid/82.m3u8
 TVB华语剧集,http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
 TVB华语剧集,http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
 TVB亚洲剧集,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
 VIUTV-粤,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
 VIUTV-粤,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
-VIUTV-英,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
-VIUTV-英,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
 NOW星影,http://205.185.123.236:8899/1/now/stream.m3u8
+HOY TV,http://cdn.132.us.kg/live/hoy/stream.m3u8
 HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 HOY TV,http://cdn10.1678520.xyz/live/?id=hoy
 RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
@@ -1662,6 +1670,7 @@ RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/st
 RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8 
 RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8 
 澳门Macau,http://61.244.22.5/ch3/ch3.live/chunklist.m3u8
+澳视澳门,http://cdn.132.us.kg/live/asam/stream.m3u8
 澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
 澳视澳门,http://183.237.246.14:9931/tsfile/live/1039_1.m3u8
 澳视澳门,http://1b6467f415.iok.la:9931/tsfile/live/1039_1.m3u8
