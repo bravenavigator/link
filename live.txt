@@ -1513,8 +1513,6 @@ ABC英语互动,http://37.27.111.214:8080/live/54/hls.m3u8
 佛山南海,http://php.jdshipin.com:8880/fstv.php?id=fsnh
 佛山南海,http://106.53.99.30/dl/fstv.php?id=fsnh
 佛山顺德,http://106.53.99.30/dl/fstv.php?id=fssd
-佛山高明,http://106.53.99.30/dl/fstv.php?id=fsgm
-佛山三水,http://106.53.99.30/dl/fstv.php?id=fsss
 东莞新闻综合,https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
 东莞生活资讯,https://stream.sun0769.com/dgrtv1/mp4tv2_800/index.m3u8
 东莞新闻综合,http://php.jdshipin.com:8880/0769.php?id=xwzh
@@ -1647,13 +1645,9 @@ TVB明珠,http://mzitv.cn:9931/tsfile/live/1009_1.m3u8
 TVB明珠,http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8
 TVB J1,http://cdn3.132.us.kg/live/j1/stream.m3u8
 TVB J1,https://cdn5.1678520.xyz/live/live2.1.php?id=j1
-TVB J1,http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
 TVB Plus,http://cdn.132.us.kg/live/tvbp/stream.m3u8
 TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 TVB Plus,http://grandprix2023.asuscomm.com:8892/bysid/82.m3u8
-TVB华语剧集,http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
-TVB华语剧集,http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
-TVB亚洲剧集,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
 VIUTV-粤,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 NOW星影,http://205.185.123.236:8899/1/now/stream.m3u8
 HOY TV,http://cdn.132.us.kg/live/hoy/stream.m3u8
@@ -1679,24 +1673,12 @@ RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/st
 澳门莲花,http://php.jdshipin.com:8880/amlh.php
 澳门莲花,https://tv.iill.top/mo/lhws
 澳视葡语,http://61.244.22.5/ch2/ch2.live/chunklist.m3u8
-美亚电影,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 美亚电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
 Astr剧集台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
-PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
-Channel 5,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
-Channel 8,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
-Channel U,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
-Nick Jr,http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
-Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
-ROCK Action,http://aktv.top/AKTV/live/aktv3/rockaction/AKTV.m3u8
-Thrill,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
-ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 ✨　台湾,#genre#
 中天新闻,http://114.33.60.49:8541/http/116.50.42.19:8081/hls/78/80/ch63max.m3u8
 中天新闻,http://114.33.60.49:8541/http/61.219.99.20:8081/hls/78/80/ch063max.m3u8
-中天新闻,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
-中天亚洲,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 中天娱乐,http://114.33.60.49:8527/http/60.251.39.91:8081/hls/67/809/ch26.m3u8
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
 中视ᴴᴰ,http://37.27.111.214:8080/live/7/hls.m3u8
@@ -1705,7 +1687,6 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 中视新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv074
 中视新闻,http://50.7.234.10:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd
 中视台湾,http://litv.zapi.us.kg/?id=4gtv-4gtv040
-中视台湾,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
 中视台湾,http://37.27.111.214:8080/live/7/hls.m3u8
 中视台湾,rtmp://f13h.mine.nu/sat/tv091
 中视菁采,http://litv.zapi.us.kg/?id=4gtv-4gtv064
@@ -1733,14 +1714,11 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 TVBSᴴᴰ,https://litv.zapi.us.kg/?id=4gtv-4gtv073
 TVBSᴴᴰ,http://37.27.111.214:8080/live/23/hls.m3u8
 TVBS新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv072
-TVBS新闻,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
-TVBS新闻,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8 
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS台湾,http://litv.zapi.us.kg/?id=4gtv-4gtv073
-TVBS台湾,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 TVBS台湾,http://37.27.111.214:8080/live/23/hls.m3u8
 TVBS精采,http://litv.zapi.us.kg/?id=4gtv-4gtv067
 TVBS欢乐,http://litv.zapi.us.kg/?id=4gtv-4gtv068
@@ -1774,7 +1752,6 @@ TVBS欢乐,http://37.27.111.214:8080/live/24/hls.m3u8
 华视ᴴᴰ,http://37.27.111.214:8080/live/8/hls.m3u8
 华视ᴴᴰ,https://litv.zapi.us.kg/?id=4gtv-4gtv041
 华视新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv052
-华视台湾,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
 华视台湾,http://37.27.111.214:8080/live/8/hls.m3u8
 华视台湾,rtmp://f13h.mine.nu/sat/tv111
 三立ᴴᴰ,http://37.27.111.214:8080/live/31/hls.m3u8
@@ -1784,7 +1761,6 @@ TVBS欢乐,http://37.27.111.214:8080/live/24/hls.m3u8
 三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
 寰宇新闻,http://114.33.60.49:8547/http/116.50.42.19:8081/hls/76/818/ch62.m3u8
 寰宇新闻,http://litv.zapi.us.kg/?id=litv-longturn14
-寰宇新闻,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 寰宇台湾,http://litv.zapi.us.kg/?id=litv-longturn15
 公视ᴴᴰ,http://114.33.60.49:8505/http/61.221.81.94:8088/hls/73/815/ch50.m3u8
 公视戏剧,http://litv.zapi.us.kg/?id=4gtv-4gtv042
@@ -1798,7 +1774,6 @@ TVBS欢乐,http://37.27.111.214:8080/live/24/hls.m3u8
 靖天电影,http://litv.zapi.us.kg/?id=4gtv-4gtv061
 靖天育乐,http://litv.zapi.us.kg/?id=4gtv-4gtv062
 靖天卡通,http://litv.zapi.us.kg/?id=4gtv-4gtv044
-靖天电影,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
 靖洋戏剧,http://litv.zapi.us.kg/?id=4gtv-4gtv045
 靖洋卡通,http://litv.zapi.us.kg/?id=4gtv-4gtv057
 八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
@@ -1828,9 +1803,6 @@ TVBS欢乐,http://37.27.111.214:8080/live/24/hls.m3u8
 龙华戏剧,http://litv.zapi.us.kg/?id=litv-longturn18
 龙华经典,http://litv.zapi.us.kg/?id=litv-longturn21
 龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
-龙华日韩,http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
-龙华经典,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
-龙华电影,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
 神乐影院,http://hlsa-akm.douyucdn.cn/85894rmovieChow_4000p.m3u8
 采昌影剧,http://litv.zapi.us.kg/?id=4gtv-4gtv049
 数位电影,http://litv.zapi.us.kg/?id=4gtv-4gtv011
