@@ -1713,6 +1713,7 @@ TVBS欢乐,http://37.27.111.214:8080/live/24/hls.m3u8
 华视台湾,rtmp://f13h.mine.nu/sat/tv111
 三立ᴴᴰ,http://37.27.111.214:8080/live/31/hls.m3u8
 三立新闻,http://114.33.60.49:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
+三立台湾,http://ali.hlspull.yximgs.com/live/6c54ea45c1df30a5073de2d9825e1fa9.flv
 三立台湾,http://114.33.60.49:8521/http/60.251.39.91:8081/hls/65/807/ch20.m3u8
 三立都会,http://114.33.60.49:8522/http/60.251.39.91:8081/hls/65/807/ch19.m3u8
 三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
