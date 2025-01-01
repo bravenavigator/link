@@ -1451,6 +1451,7 @@ ABC英语互动,http://37.27.111.214:8080/live/54/hls.m3u8
 广东体育,http://218.13.170.98:9901/tsfile/live/0019_1.m3u8
 广东体育,http://183.237.246.14:9931/tsfile/live/1014_1.m3u8
 广东少儿,http://gmxw.7766.org:808/hls/175/index.m3u8
+岭南戏曲,http://113.101.119.62:808/hls/22/index.m3u8
 岭南戏曲,http://183.239.226.235:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 大湾区卫视,http://gmxw.7766.org:808/hls/132/index.m3u8
 嘉佳卡通,http://gmxw.7766.org:808/hls/8/index.m3u8
@@ -1640,8 +1641,7 @@ TVB Plus,http://cdn.132.us.kg/live/tvbp/stream.m3u8
 TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 TVB Plus,http://grandprix2023.asuscomm.com:8892/bysid/82.m3u8
 VIUTV-粤,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
-NOW爆谷,
-rtmp://69.230.192.222/live/bgt
+NOW爆谷,rtmp://69.230.192.222/live/bgt
 NOW星影,http://205.185.123.236:8899/1/now/stream.m3u8
 HOY TV,http://cdn.132.us.kg/live/hoy/stream.m3u8
 HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
