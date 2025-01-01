@@ -1446,7 +1446,6 @@ ABC英语互动,http://37.27.111.214:8080/live/54/hls.m3u8
 经济科教,http://183.237.246.14:9931/tsfile/live/1016_1.m3u8
 经济科教,http://218.13.170.98:9901/tsfile/live/0018_1.m3u8
 广东影视,http://gmxw.7766.org:808/hls/6/index.m3u8
-test,http://108.181.20.181/livehttpplay?channel_id=30023
 广东体育,http://108.181.20.181/livehttpplay?channel_id=12028
 广东体育,http://gmxw.7766.org:808/hls/2/index.m3u8
 广东体育,http://218.13.170.98:9901/tsfile/live/0019_1.m3u8
@@ -1636,11 +1635,12 @@ TVB明珠,http://mzitv.cn:9931/tsfile/live/1009_1.m3u8
 TVB明珠,http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8
 TVB J1,http://cdn3.132.us.kg/live/j1/stream.m3u8
 TVB J1,https://cdn5.1678520.xyz/live/live2.1.php?id=j1
+TVB Plus,http://108.181.20.181/livehttpplay?channel_id=30023
 TVB Plus,http://cdn.132.us.kg/live/tvbp/stream.m3u8
 TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 TVB Plus,http://grandprix2023.asuscomm.com:8892/bysid/82.m3u8
 VIUTV-粤,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
-NOW爆谷
+NOW爆谷,
 rtmp://69.230.192.222/live/bgt
 NOW星影,http://205.185.123.236:8899/1/now/stream.m3u8
 HOY TV,http://cdn.132.us.kg/live/hoy/stream.m3u8
