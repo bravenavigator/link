@@ -1714,14 +1714,17 @@ AXN,http://ali.hlspull.yximgs.com/live/10f38a772f10cd602f203c2704c5301e.flv
 非凡新闻,rtmp://f13h.mine.nu/sat/tv581
 寰宇台湾,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-longturn15
 寰宇财经,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-longturn23
+TVBSᴴᴰ,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv073
 TVBSᴴᴰ,http://37.27.111.214:8080/live/23/hls.m3u8
-TVBSNews,http://61.221.215.25:8800/hls/9/index.m3u8
+TVBS News,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS新闻,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv072
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8 
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS台湾,http://37.27.111.214:8080/live/23/hls.m3u8
+TVBS欢乐,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv068
 TVBS欢乐,http://37.27.111.214:8080/live/24/hls.m3u8
+TVBS精采,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv067
 民视ᴴᴰ,rtmp://f13h.mine.nu/sat/tv051
 民视ᴴᴰ,http://37.27.111.214:8080/live/6/hls.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
