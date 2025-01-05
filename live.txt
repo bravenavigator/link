@@ -1576,6 +1576,10 @@ ICS频道,http://223.166.234.215:7777/tsfile/live/1032_1.m3u8?key=txiptv&playliv
 崇明综合,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
 嘉定综合,https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8
 📺　天津,#genre#
+天津新闻,http://60.30.73.2:59901/tsfile/live/0001_22.m3u8
+天津文艺,http://60.30.73.2:59901/tsfile/live/0001_23.m3u8
+天津影视,http://60.30.73.2:59901/tsfile/live/0001_24.m3u8
+天津教育,http://60.30.73.2:59901/tsfile/live/0001_26.m3u8
 西青新闻综合,http://221.238.209.44:81/hls/live1.m3u8?ztianjd
 📺　重庆,#genre#
 潼南综合,http://183.230.184.51:65500/tntv1.m3u8
