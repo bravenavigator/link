@@ -557,8 +557,9 @@ CCTV高尔夫网球,http://122.138.32.222:9999/tsfile/live/1037_1.m3u8?key=txipt
 CCTV央视台球,http://122.138.32.222:9999/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV风云足球,http://113.57.20.158:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV风云足球,http://120.238.94.10:9901/tsfile/live/1087_1.m3u8
-CCTV-4美洲,http://z.b.bkpcp.top/m.php?id=cctv4m
-CCTV-4欧洲,http://z.b.bkpcp.top/m.php?id=cctv4o
+CCTV4美洲,http://z.b.bkpcp.top/m.php?id=cctv4m
+CCTV4欧洲,http://z.b.bkpcp.top/m.php?id=cctv4o
+CCTV中学生,http://z.b.bkpcp.top/m.php?id=zxs
 CCTV3综艺,http://gmxw.7766.org:808/hls/92/index.m3u8
 CCTV4中文国际,http://gmxw.7766.org:808/hls/67/index.m3u8
 CCTV4美洲,http://gmxw.7766.org:808/hls/71/index.m3u8
@@ -1819,7 +1820,11 @@ Nick动画,http://37.27.111.214:8080/live/12/hls.m3u8
 Nick动画,http://37.27.111.214:8080/live/22/hls.m3u8
 nickjr.,http://37.27.111.214:8080/live/22/hls.m3u8
 📺　江苏,#genre#
+江苏新闻,http://gxctcc-livod.ks-cdn.gitv.tv/gitv_live/G_JSGG/G_JSGG.m3u8
 江苏城市,http://58.220.219.14:9901/tsfile/live/0120_3.m3u8
+江苏影视,http://gxctcc-livod.ks-cdn.gitv.tv/gitv_live/G_JSYS/G_JSYS.m3u8
+江苏综艺,http://gxctcc-livod.ks-cdn.gitv.tv/gitv_live/G_JSZY/G_JSZY.m3u8
+江苏教育,http://gxctcc-livod.ks-cdn.gitv.tv/gitv_live/G_JSJY/G_JSJY.m3u8
 江苏体育休闲,http://121.232.178.93:5000/tsfile/live/0001_4.m3u8?key=txiptv&playlive=1&authid=0
 优漫卡通,http://121.232.178.93:5000/tsfile/live/0001_10.m3u8?key=txiptv&playlive=1&authid=0
 南京新闻综合,http://live.nbs.cn/channels/njtv/xwpdb/nbs06.m3u8
