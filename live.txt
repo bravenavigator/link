@@ -1578,17 +1578,25 @@ ICS频道,http://223.166.234.215:7777/tsfile/live/1032_1.m3u8?key=txiptv&playliv
 巫山综合,https://qxlmlive9.cbg.cn/applive/wspd001/chunklist.m3u8
 永川综合,https://qxlmlive9.cbg.cn/applive/yctv01/playlist.m3u8
 ✨　港澳,#genre#
+HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+
+
 凤凰资讯,http://ali.hlspull.yximgs.com/live/diyp_fh1.flv
 凤凰资讯,http://cdn3.163189.xyz/live/fhzx/stream.m3u8
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰中文,http://ali.hlspull.yximgs.com/live/diyp_fh2.flv
 凤凰中文,http://125.227.210.55:39004/VideoInput/play.ts
 凤凰中文,http://cdn.163189.xyz/live/fhzw/stream.m3u8
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
 凤凰中文,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰中文,http://117.27.190.42:9998/tsfile/live/23280_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰香港,http://ali.hlspull.yximgs.com/live/diyp_fh3.flv
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰香港,http://203.205.220.174:80/qctv.fengshows.cn/live/0701phk72.m3u8
 TVB翡翠,http://cdn.163189.xyz/live/fct4k/stream.m3u8
@@ -1649,12 +1657,16 @@ TVB明珠,http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8
 TVB J1,http://cdn3.163189.xyz/live/j1/stream.m3u8
 TVB J1,http://cdn3.132.us.kg/live/j1/stream.m3u8
 TVB J1,https://cdn5.1678520.xyz/live/live2.1.php?id=j1
+TVB J1,http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
+TVB J1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
 TVB Plus,http://cdn.163189.xyz/live/tvbp/stream.m3u8
 TVB Plus,http://108.181.20.181/livehttpplay?channel_id=30023
 TVB Plus,http://cdn.132.us.kg/live/tvbp/stream.m3u8
+TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 TVB Plus,http://grandprix2023.asuscomm.com:8892/bysid/82.m3u8
 TVB明珠,http://mzitv.cn:9931/tsfile/live/1009_1.m3u8
+ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 ViuTV 99,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
 ViuTV 96,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
 HOY TV,http://cdn.163189.xyz/live/hoy/stream.m3u8
@@ -1681,6 +1693,7 @@ RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/st
 澳门莲花,http://php.jdshipin.com:8880/amlh.php
 澳门莲花,https://tv.iill.top/mo/lhws
 澳视葡语,http://61.244.22.5/ch2/ch2.live/chunklist.m3u8
+美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 美亚电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
 Astr剧集台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 ✨　台湾,#genre#
@@ -1766,20 +1779,22 @@ TVBS精采,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/l
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
 龙华电影,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-longturn03
-龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
 龙华电影,http://cdn5.1689.us.kg/litv.php?id=litv-longturn03
+龙华电影,http://cdn5.163189.xyz/litv.php?id=litv-longturn03
+龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
 龙华偶像,http://cdn5.1689.us.kg/litv.php?id=litv-longturn12
 龙华戏剧,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-longturn18
 龙华戏剧,http://cdn5.1689.us.kg/litv.php?id=litv-longturn18
+龙华戏剧,http://cdn5.163189.xyz/litv.php?id=litv-longturn18
 龙华日韩,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-longturn11
 龙华日韩,http://cdn5.1689.us.kg/litv.php?id=litv-longturn11
-龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
-神乐影院,http://hlsa-akm.douyucdn.cn/85894rmovieChow_4000p.m3u8
+龙华日韩,http://cdn5.163189.xyz/litv.php?id=litv-longturn11
+龙华卡通,http://cdn5.163189.xyz/litv.php?id=litv-longturn01
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+神乐影院,http://hlsa-akm.douyucdn.cn/85894rmovieChow_4000p.m3u8
 亚洲旅游,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-longturn17
-亚洲旅游,http://37.27.111.214:8080/live/10/hls.m3u8
 亚洲旅游,http://61.221.215.25:8800/hls/50/index.m3u8
 幸福空间,http://37.27.111.214:8080/live/26/hls.m3u8
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
