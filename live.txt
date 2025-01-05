@@ -1470,11 +1470,12 @@ ABC英语互动,http://37.27.111.214:8080/live/54/hls.m3u8
 广东体育,http://218.13.170.98:9901/tsfile/live/0019_1.m3u8
 广东体育,http://183.237.246.14:9931/tsfile/live/1014_1.m3u8
 广东体育,http://gmxw.7766.org:808/hls/2/index.m3u8
-广东少儿,http://222.218.158.25:8181/tsfile/live/1005_1.m3u8
+广东少儿,http://huangtong-com.cn:9902/tsfile/live/1017_1.m3u8
 广东少儿,http://gmxw.7766.org:808/hls/175/index.m3u8
 岭南戏曲,http://183.239.226.235:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 大湾区卫视,http://z.b.bkpcp.top/m.php?id=dwqws
 大湾区卫视,http://gmxw.7766.org:808/hls/132/index.m3u8
+嘉佳卡通,http://huangtong-com.cn:9902/tsfile/live/1030_1.m3u8
 嘉佳卡通,http://gmxw.7766.org:808/hls/8/index.m3u8
 广州综合,http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
 广州综合,https://tencentplaygsm.gztv.com/live/zonghes.m3u8?txTime=6594e9b7&txSecret=adb23b34fb694750ac8b8ff14a21a424
