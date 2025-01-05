@@ -555,8 +555,10 @@ CCTV高尔夫网球,http://183.11.239.36:808/hls/174/index.m3u8
 CCTV电视指南,http://183.11.239.36:808/hls/13/index.m3u8
 CCTV高尔夫网球,http://122.138.32.222:9999/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV央视台球,http://122.138.32.222:9999/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV风云足球,http://113.57.20.158:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0			
+CCTV风云足球,http://113.57.20.158:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV风云足球,http://120.238.94.10:9901/tsfile/live/1087_1.m3u8
+CCTV-4美洲,http://z.b.bkpcp.top/m.php?id=cctv4m
+CCTV-4欧洲,http://z.b.bkpcp.top/m.php?id=cctv4o
 CCTV3综艺,http://gmxw.7766.org:808/hls/92/index.m3u8
 CCTV4中文国际,http://gmxw.7766.org:808/hls/67/index.m3u8
 CCTV4美洲,http://gmxw.7766.org:808/hls/71/index.m3u8
@@ -617,6 +619,7 @@ CETV中国教育1,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/20228238
 CETV中国教育1,http://113.57.20.158:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 CETV早期教育,http://183.11.239.36:808/hls/100/index.m3u8
 CETV中国教育1,http://183.11.239.36:808/hls/122/index.m3u8
+CETV中国教育2,http://z.b.bkpcp.top/m.php?id=cetv2
 CETV中国教育4,http://183.11.239.36:808/hls/79/index.m3u8
 中国交通,http://183.11.239.36:808/hls/172/index.m3u8
 CETV早期教育,http://gmxw.7766.org:808/hls/100/index.m3u8
@@ -1455,6 +1458,7 @@ ABC英语互动,http://37.27.111.214:8080/live/54/hls.m3u8
 经济科教,http://gmxw.7766.org:808/hls/4/index.m3u8
 经济科教,http://183.237.246.14:9931/tsfile/live/1016_1.m3u8
 经济科教,http://218.13.170.98:9901/tsfile/live/0018_1.m3u8
+广东影视,http://z.b.bkpcp.top/m.php?id=gdys
 广东影视,http://183.239.236.91:8088/hls/39/index.m3u8
 广东影视,http://gmxw.7766.org:808/hls/6/index.m3u8
 广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
@@ -1466,6 +1470,7 @@ ABC英语互动,http://37.27.111.214:8080/live/54/hls.m3u8
 广东少儿,http://222.218.158.25:8181/tsfile/live/1005_1.m3u8
 广东少儿,http://gmxw.7766.org:808/hls/175/index.m3u8
 岭南戏曲,http://183.239.226.235:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+大湾区卫视,http://z.b.bkpcp.top/m.php?id=dwqws
 大湾区卫视,http://gmxw.7766.org:808/hls/132/index.m3u8
 嘉佳卡通,http://gmxw.7766.org:808/hls/8/index.m3u8
 广州综合,http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
@@ -1541,14 +1546,14 @@ ABC英语互动,http://37.27.111.214:8080/live/54/hls.m3u8
 睛彩羽毛球,http://122.138.32.222:9999/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&authid=0
 📺　上海,#genre#
 新闻综合,http://61.173.144.157:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+新闻综合,http://z.b.bkpcp.top/m.php?id=shxw
 都市频道,http://223.166.234.149:7777/tsfile/live/1026_1.m3u8?key=txiptv
 都市频道,http://223.166.234.215:7777/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
 东方财经,http://223.166.234.149:7777/tsfile/live/1031_1.m3u8?key=txiptv
 东方财经,http://223.166.234.215:7777/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
 第一财经,http://223.166.234.149:7777/tsfile/live/1029_1.m3u8?key=txiptv
 第一财经,http://223.166.234.215:7777/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
-东方影视,http://223.166.234.149:7777/tsfile/live/1028_1.m3u8?key=txiptv
-东方影视,http://223.166.234.215:7777/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+东方影视,http://z.b.bkpcp.top/m.php?id=shys
 乐游频道,http://104.244.79.187:62115/itv/5000000011000031112.m3u8?cdn=bestzb
 生活时尚,http://104.244.79.187:62115/itv/5000000002000019634.m3u8?cdn=bestzb
 ICS频道,http://223.166.234.149:7777/tsfile/live/1032_1.m3u8?key=txiptv
