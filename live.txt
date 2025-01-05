@@ -1447,6 +1447,7 @@ ABC英语互动,http://37.27.111.214:8080/live/54/hls.m3u8
 广东新闻,http://183.237.246.14:9931/tsfile/live/1012_1.m3u8
 广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
 广东珠江,http://218.13.170.98:9901/tsfile/live/1000_1.m3u8
+广东珠江,http://183.239.236.91:8088/hls/57/index.m3u8
 广东珠江,http://gmxw.7766.org:808/hls/83/index.m3u8
 广东珠江,http://183.237.246.14:9931/tsfile/live/1011_1.m3u8
 广东民生,http://gmxw.7766.org:808/hls/18/index.m3u8
@@ -1454,6 +1455,7 @@ ABC英语互动,http://37.27.111.214:8080/live/54/hls.m3u8
 经济科教,http://gmxw.7766.org:808/hls/4/index.m3u8
 经济科教,http://183.237.246.14:9931/tsfile/live/1016_1.m3u8
 经济科教,http://218.13.170.98:9901/tsfile/live/0018_1.m3u8
+广东影视,http://183.239.236.91:8088/hls/39/index.m3u8
 广东影视,http://gmxw.7766.org:808/hls/6/index.m3u8
 广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
 广东体育,http://108.181.20.181/livehttpplay?channel_id=12028
@@ -1478,6 +1480,7 @@ ABC英语互动,http://37.27.111.214:8080/live/54/hls.m3u8
 广州新闻,https://tencentplaygsm.gztv.com/live/xinwen.m3u8?txTime=659a511e&txSecret=1a5bbbb41bc728d271c8b99e5482f8e7
 广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=6f73647cae387d01a3c2132074132a83&txTime=18d00acf487
 广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
+广州影视,http://183.239.236.91:8088/hls/43/index.m3u8
 广州影视,http://tencentplaygzrb01.gztv.com/live/yingshi.m3u8
 广州影视,https://tencentplaygsm.gztv.com/live/yingshi.m3u8?txTime=6594e994&txSecret=52eedb1aafdda80adf996079505cc49d
 广州影视,https://tencentplaygsm.gztv.com/live/yingshi.m3u8?txTime=659a5117&txSecret=52195f79cab012334aa7ef5c153e8ddd
