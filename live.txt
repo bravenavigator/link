@@ -1688,10 +1688,9 @@ Astr剧集台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 中天新闻,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 中天亚洲,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
-中视ᴴᴰ,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv040
-中视ᴴᴰ,http://37.27.111.214:8080/live/7/hls.m3u8
 中视ᴴᴰ,rtmp://f13h.mine.nu/sat/tv091
 中视新闻,http://50.7.234.10:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd
+中视新闻,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv040
 中视台湾,http://37.27.111.214:8080/live/7/hls.m3u8
 中视台湾,rtmp://f13h.mine.nu/sat/tv091
 中视经典,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv080
@@ -1753,7 +1752,7 @@ TVBS精采,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/l
 靖天卡通,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv044
 靖天日本,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv047
 靖洋戏剧,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv045
-靖洋卡通 Nice Bingo,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv057
+靖洋卡通,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv057
 公视戏剧,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv042
 采昌影剧,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv049
 八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
@@ -1785,9 +1784,6 @@ TVBS精采,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/l
 幸福空间,http://37.27.111.214:8080/live/26/hls.m3u8
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
-博斯无限,http://37.27.111.214:8080/live/15/hls.m3u8
-博斯高球,http://37.27.111.214:8080/live/13/hls.m3u8
-博斯运动,http://37.27.111.214:8080/live/14/hls.m3u8
 ELEVEN1台,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN2台,rtmp://f13h.mine.nu/sat/tv741
 ELTV生活英语,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-longturn20
@@ -1800,13 +1796,6 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 TAIWAN Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 AMC电影,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv017
 AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
-HQKKQTV,http://37.27.111.214:8080/live/1/hls.m3u8
-HakkaTV,http://37.27.111.214:8080/live/1/hls.m3u8
-TiTV原视,http://37.27.111.214:8080/live/2/hls.m3u8
-LiveTV,http://37.27.111.214:8080/live/25/hls.m3u8
-HISTORY,http://37.27.111.214:8080/live/27/hls.m3u8
-HITS,http://37.27.111.214:8080/live/28/hls.m3u8
-CinemaWorld,http://37.27.111.214:8080/live/30/hls.m3u8
 Nick动画,http://37.27.111.214:8080/live/12/hls.m3u8
 Nick动画,http://37.27.111.214:8080/live/22/hls.m3u8
 nickjr.,http://37.27.111.214:8080/live/22/hls.m3u8
