@@ -2165,6 +2165,7 @@ Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
 四川经济,http://183.223.157.33:9901/tsfile/live/1000_1.m3u8
 四川文化旅游,http://183.223.157.33:9901/tsfile/live/1001_1.m3u8
 四川影视文艺,http://118.122.189.74:9901/tsfile/live/0123_4.m3u8?key=txiptv&playlive=1&authid=0
+四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
 四川科教,http://183.223.157.33:9901/tsfile/live/1005_1.m3u8
 四川新闻,http://61.157.139.15:9901/tsfile/live/2411_1.m3u8?key=txiptv&playlive=1&authid=0
 四川影视文艺,http://61.157.139.15:9901/tsfile/live/2412_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -2515,6 +2516,7 @@ Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
 移动电视,http://42.176.155.182:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
 📺黑龙江,#genre#
 黑龙江新闻法治,http://123.166.61.70:8003/hls/51/index.m3u8
+佳木斯新闻综合,https://masterpull.hljtv.com/live/l9wQtsVs.m3u8
 📺　吉林,#genre#
 吉林都市,https://hls.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/1.m3u8
 吉林生活,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/1.m3u8
