@@ -2135,6 +2135,15 @@ Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
 黄山祁门新闻综合,http://file.qmxrmt.com/nmip-media/channellive/channel108622/playlist.m3u8
 黄山歙县综合,http://112.30.194.221:20080/live/4b3024127d1c472986ccdcb454f81a9f/hls.m3u8
 📺　江西,#genre#
+江西新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=jxxw
+江西都市,http://php.jdshipin.com:8880/TVOD/iptv.php?id=jxds
+江西经济生活,http://php.jdshipin.com:8880/TVOD/iptv.php?id=jxjjsh
+江西影视旅游,http://php.jdshipin.com:8880/TVOD/iptv.php?id=jxysly
+江西公共农业,http://php.jdshipin.com:8880/TVOD/iptv.php?id=jxggny
+江西少儿,http://php.jdshipin.com:8880/TVOD/iptv.php?id=jxse
+陶瓷频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=taoci
+江西卫视,http://php.jdshipin.com:8880/jxtv2.php?id=1
+江西移动,http://php.jdshipin.com:8880/jxtv2.php?id=8
 江西都市,https://play-live-hls.jxtvcn.com.cn/showto/tv_jxtv2.m3u8
 江西教育,http://58.17.48.228:808/hls/24/index.m3u8
 南昌新闻综合,rtmp://tv.drs.ncntv.com.cn/channellive/nczhpd
