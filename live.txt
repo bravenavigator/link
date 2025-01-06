@@ -1692,6 +1692,7 @@ HOY TV,http://cdn.163189.xyz/live/hoy/stream.m3u8
 HOY TV,http://cdn.132.us.kg/live/hoy/stream.m3u8
 HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 HOY TV,http://cdn10.1678520.xyz/live/?id=hoy
+Now星影台,http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
 RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
 RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
 RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8
@@ -1832,9 +1833,9 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 TAIWAN Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 AMC电影,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv017
 AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
-Nick动画,http://37.27.111.214:8080/live/12/hls.m3u8
-Nick动画,http://37.27.111.214:8080/live/22/hls.m3u8
-nickjr.,http://37.27.111.214:8080/live/22/hls.m3u8
+Nick Jr,http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
+Nick Jr.,http://37.27.111.214:8080/live/22/hls.m3u8
+Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
 📺　江苏,#genre#
 江苏城市,http://58.220.219.14:9901/tsfile/live/0120_3.m3u8
 江苏体育休闲,http://121.232.178.93:5000/tsfile/live/0001_4.m3u8?key=txiptv&playlive=1&authid=0
