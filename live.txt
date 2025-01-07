@@ -1695,6 +1695,10 @@ CGTN英语,http://122.138.32.222:9999/tsfile/live/1055_1.m3u8?key=txiptv&playliv
 北京纪实科教8K,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 北京卡酷少儿,http://60.30.73.2:59901/tsfile/live/0001_30.m3u8
 北京卡酷少儿,http://61.138.128.226:19901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+淘剧场,http://218.241.192.50:8808/udp/239.3.1.95:8001
+淘电影,http://218.241.192.50:8808/udp/239.3.1.250:8001
+淘娱乐,http://218.241.192.50:8808/udp/239.3.1.100:8001
+淘Baby,http://218.241.192.50:8808/udp/239.3.1.238:8001
 睛彩篮球,http://122.138.32.222:9999/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
 睛彩羽毛球,http://122.138.32.222:9999/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&authid=0
 📺　上海,#genre#
@@ -1705,6 +1709,7 @@ CGTN英语,http://122.138.32.222:9999/tsfile/live/1055_1.m3u8?key=txiptv&playliv
 第一财经,http://223.166.234.215:7777/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
 东方影视,http://z.b.bkpcp.top/m.php?id=shys
 乐游频道,http://61.138.167.36:9901/tsfile/live/1017_1.m3u8
+乐游频道,http://124.128.73.58:9901/tsfile/live/1006_1.m3u8
 乐游频道,http://104.244.79.187:62115/itv/5000000011000031112.m3u8?cdn=bestzb
 乐游频道,http://z.b.bkpcp.top/m.php?id=ly
 生活时尚,http://61.138.167.36:9901/tsfile/live/1021_1.m3u8
@@ -1713,6 +1718,7 @@ ICS频道,http://223.166.234.215:7777/tsfile/live/1032_1.m3u8?key=txiptv&playliv
 法制天地,http://61.138.167.36:9901/tsfile/live/1024_1.m3u8
 法治天地,http://104.244.79.187:62115/itv/9001547084732463424.m3u8?cdn=bestzb
 法治天地,http://z.b.bkpcp.top/m.php?id=fztd
+新视觉,http://183.237.246.14:9931/tsfile/live/1105_1.m3u8
 都市剧场,http://61.138.167.36:9901/tsfile/live/1005_1.m3u8
 都市剧场,http://183.237.246.14:9931/tsfile/live/1107_1.m3u8
 七彩戏剧,http://104.244.79.187:62115/itv/5000000011000031116.m3u8?cdn=bestzb
@@ -1987,6 +1993,16 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 Nick Jr,http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
 Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
 📺　江苏,#genre#
+江苏城市,https://025365.xyz:8082/jstv.php?id=jscs
+江苏综艺,https://025365.xyz:8082/jstv.php?id=jszy
+江苏影视,https://025365.xyz:8082/jstv.php?id=jsys
+江苏教育,https://025365.xyz:8082/jstv.php?id=jsjy
+江苏体育,https://025365.xyz:8082/jstv.php?id=jsty
+江苏城市,http://ipv4.sunjianwu.fun:8800/udp/239.49.8.107:8000
+江苏综艺,http://ipv4.sunjianwu.fun:8800/udp/239.49.8.108:8000
+江苏影视,http://ipv4.sunjianwu.fun:8800/udp/239.49.8.118:8000
+江苏体育,http://ipv4.sunjianwu.fun:8800/udp/239.49.8.117:8000
+江苏教育,http://ipv4.sunjianwu.fun:8800/udp/239.49.8.122:8000
 江苏城市,http://58.220.219.14:9901/tsfile/live/0120_3.m3u8
 江苏体育休闲,http://121.232.178.93:5000/tsfile/live/0001_4.m3u8?key=txiptv&playlive=1&authid=0
 优漫卡通,http://121.232.178.93:5000/tsfile/live/0001_10.m3u8?key=txiptv&playlive=1&authid=0
@@ -2088,7 +2104,6 @@ Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
 山东齐鲁,http://123.132.233.194:352/tsfile/live/1019_1.m3u8
 山东齐鲁,http://111.14.181.15:9901/tsfile/live/1000_1.m3u8
 山东齐鲁,http://61.156.228.12:8154/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-山东齐鲁,http://111.14.181.15:9901/tsfile/live/1000_1.m3u8
 山东文旅,http://60.208.61.2:352/tsfile/live/1004_1.m3u8
 山东公共,http://111.14.181.15:9901/tsfile/live/1001_1.m3u8
 山东少儿,http://111.14.181.15:9901/tsfile/live/1005_1.m3u8
@@ -2459,11 +2474,13 @@ Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
 河南移动电视,http://43217878.xyz:5566/rtp/239.16.20.204:12040
 河南戏曲,http://43217878.xyz:5566/rtp/239.16.10.148:2000
 河南移动戏曲,http://43217878.xyz:5566/rtp/239.16.20.120:11200
+梨园频道,http://xuys.top:8888/udp/225.1.2.104:5002
 睛彩中原,http://43217878.xyz:5566/rtp/239.16.20.122:11220
 河南戏曲,http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8
 武术世界,http://live.dxhmt.cn:9080/live/yshnpre.m3u8
 郑州商都,http://43217878.xyz:5566/rtp/239.16.10.155:2000
 郑州影视戏曲,http://43217878.xyz:5566/rtp/239.16.10.157:2000
+郑州教育,https://livezzutv.chinamcache.com/live/zb01.m3u8?auth_key=1677911572-0-0-f4af513ba8c09e7801f4700f1573be2c
 郑铁有线,http://39.162.27.11:8081/newlive/live/hls/1/live.m3u8
 郑州新郑一套,http://tvpull.dxhmt.cn:9081/tv/10184-1.m3u8
 郑州新郑一套,http://live.dxhmt.cn:9081/tv/10184-1.m3u8
@@ -2647,6 +2664,9 @@ Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
 朔州怀仁综合,http://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc.m3u8
 忻州定襄综合,http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8
 📺　甘肃,#genre#
+甘肃都市,http://www.lebaobei.top:6868/udp/239.255.30.252:8231
+甘肃公共,http://www.lebaobei.top:6868/udp/239.255.30.251:8231
+甘肃文化影视,http://www.lebaobei.top:6868/udp/239.255.30.250:8231
 平凉崆峒综合,http://125.74.200.110:10080/hls/001/001_live.m3u8
 📺　宁夏,#genre#
 吴忠综合,http://live.kanwz.net/zhpd/sd/live.m3u8
