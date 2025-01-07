@@ -41,7 +41,6 @@ CETV中国教育3,http://127.0.0.1
 CETV中国教育4,http://127.0.0.1
 中国交通,http://127.0.0.1
 中国天气,http://127.0.0.1
-CCTV3综艺,http://123.7.110.43:9901/tsfile/live/0003_1.m3u8
 CCTV1综合,http://42.48.50.138:9002/tsfile/live/0001_1.m3u8
 CCTV6电影,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
 CCTV1综合,http://221.224.4.170:1111/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -57,6 +56,23 @@ CCTV14少儿,http://221.224.4.170:1111/tsfile/live/0014_1.m3u8?key=txiptv&playli
 CCTV8电视剧,http://221.224.4.170:1111/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV6电影,http://221.224.4.170:1111/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV10科教,http://221.224.4.170:1111/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1综合,http://123.7.110.43:9901/tsfile/live/0002_1.m3u8
+CCTV2财经,http://123.7.110.43:9901/tsfile/live/0003_1.m3u8
+CCTV3综艺,http://123.7.110.43:9901/tsfile/live/0004_1.m3u8
+CCTV4中文国际,http://123.7.110.43:9901/tsfile/live/0005_1.m3u8
+CCTV5体育,http://123.7.110.43:9901/tsfile/live/0006_1.m3u8
+CCTV5+体育赛事,http://123.7.110.43:9901/tsfile/live/0016_1.m3u8
+CCTV6电影,http://123.7.110.43:9901/tsfile/live/0007_1.m3u8
+CCTV7国防军事,http://123.7.110.43:9901/tsfile/live/0008_2.m3u8
+CCTV8电视剧,http://123.7.110.43:9901/tsfile/live/0008_1.m3u8
+CCTV9纪录,http://123.7.110.43:9901/tsfile/live/0010_1.m3u8
+CCTV10科教,http://123.7.110.43:9901/tsfile/live/0011_1.m3u8
+CCTV11戏曲,http://123.7.110.43:9901/tsfile/live/0012_1.m3u8
+CCTV12社会与法,http://123.7.110.43:9901/tsfile/live/0013_1.m3u8
+CCTV13新闻,http://123.7.110.43:9901/tsfile/live/0014_1.m3u8
+CCTV14少儿,http://123.7.110.43:9901/tsfile/live/0015_1.m3u8
+CCTV15音乐,http://123.7.110.43:9901/tsfile/live/1003_1.m3u8
+CCTV17农业农村,http://123.7.110.43:9901/tsfile/live/1004_1.m3u8
 CCTV10科教,http://117.90.196.35:6000/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV8电视剧,http://117.90.196.35:6000/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV12社会与法,http://117.90.196.35:6000/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -619,6 +635,7 @@ CETV中国教育4,http://121.19.134.139:808/tsfile/live/1030_1.m3u8?key=txiptv&p
 CCTV4K高清,http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/8cdd688b04e4495ba1635e218419d6f9/4000.m3u8
 CCTV重温经典,http://cdn3.163189.xyz/live/cwjd/stream.m3u8
 CCTV重温经典,http://120.76.248.139/live/bfgd/4200000635.m3u8
+CETV中国教育1,http://123.7.110.43:9901/tsfile/live/1023_1.m3u8
 CETV中国教育1,http://61.138.167.36:9901/tsfile/live/1039_1.m3u8
 CETV中国教育1,http://61.138.128.226:19901/tsfile/live/1021_1.m3u8?key=txiptv
 CETV中国教育1,http://113.57.20.158:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -711,6 +728,34 @@ CETV中国教育4,http://gmxw.7766.org:808/hls/79/index.m3u8
 辽宁卫视,http://222.169.85.8:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://222.169.85.8:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://222.169.85.8:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://123.7.110.43:9901/tsfile/live/0139_1.m3u8
+浙江卫视,http://123.7.110.43:9901/tsfile/live/0107_1.m3u8
+东方卫视,http://123.7.110.43:9901/tsfile/live/0127_1.m3u8
+江苏卫视,http://123.7.110.43:9901/tsfile/live/0122_1.m3u8
+北京卫视,http://123.7.110.43:9901/tsfile/live/0125_1.m3u8
+广东卫视,http://123.7.110.43:9901/tsfile/live/0143_1.m3u8
+黑龙江卫视,http://123.7.110.43:9901/tsfile/live/0131_1.m3u8
+山东卫视,http://123.7.110.43:9901/tsfile/live/0130_1.m3u8
+安徽卫视,http://123.7.110.43:9901/tsfile/live/0121_1.m3u8
+辽宁卫视,http://123.7.110.43:9901/tsfile/live/0136_1.m3u8
+山西卫视,http://123.7.110.43:9901/tsfile/live/0120_1.m3u8
+贵州卫视,http://123.7.110.43:9901/tsfile/live/0117_1.m3u8
+河北卫视,http://123.7.110.43:9901/tsfile/live/0138_1.m3u8
+江西卫视,http://123.7.110.43:9901/tsfile/live/0128_1.m3u8
+湖南卫视,http://123.7.110.43:9901/tsfile/live/0128_3.m3u8
+深圳卫视,http://123.7.110.43:9901/tsfile/live/0123_1.m3u8
+四川卫视,http://123.7.110.43:9901/tsfile/live/0132_1.m3u8
+湖北卫视,http://123.7.110.43:9901/tsfile/live/0135_1.m3u8
+天津卫视,http://123.7.110.43:9901/tsfile/live/0119_1.m3u8
+云南卫视,http://123.7.110.43:9901/tsfile/live/0142_1.m3u8
+重庆卫视,http://123.7.110.43:9901/tsfile/live/0116_1.m3u8
+吉林卫视,http://123.7.110.43:9901/tsfile/live/0112_1.m3u8
+东南卫视,http://123.7.110.43:9901/tsfile/live/0109_1.m3u8
+广西卫视,http://123.7.110.43:9901/tsfile/live/0118_2.m3u8
+山西卫视,http://123.7.110.43:9901/tsfile/live/0118_1.m3u8
+湖南卫视,http://123.7.110.43:9901/tsfile/live/0128_2.m3u8
+甘肃卫视,http://123.7.110.43:9901/tsfile/live/0141_1.m3u8
+青海卫视,http://123.7.110.43:9901/tsfile/live/0140_1.m3u8
 浙江卫视,http://106.118.70.182:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 天津卫视,http://106.118.70.182:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://106.118.70.182:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1368,6 +1413,7 @@ CETV中国教育4,http://gmxw.7766.org:808/hls/79/index.m3u8
 山东卫视,http://120.76.248.139/live/bfgd/4200000099.m3u8
 陕西卫视,http://120.76.248.139/live/bfgd/4200000512.m3u8
 深圳卫视,http://120.76.248.139/live/bfgd/4200000100.m3u8
+湖南卫视,http://113.15.185.146:8181/tsfile/live/0128_1.m3u8
 新疆卫视,http://106.124.91.222:9901/tsfile/live/21212_1.m3u8
 东方卫视,http://61.173.144.157:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://fangke.blueswords.com:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1459,11 +1505,10 @@ CGTN英语,http://122.138.32.222:9999/tsfile/live/1055_1.m3u8?key=txiptv&playliv
 广东新闻,http://183.11.239.36:808/hls/5/index.m3u8
 广东新闻,http://183.237.246.14:9931/tsfile/live/1012_1.m3u8
 广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
-广东珠江,http://218.13.170.98:9901/tsfile/live/1000_1.m3u8
 广东珠江,http://huangtong-com.cn:9902/tsfile/live/1010_1.m3u8
 广东珠江,http://cdn2.132.us.kg/live/gdzj/stream.m3u8
-广东珠江,http://183.239.236.91:8088/hls/57/index.m3u8
 广东珠江,http://218.13.170.98:9901/tsfile/live/1000_1.m3u8
+广东珠江,http://183.239.236.91:8088/hls/57/index.m3u8
 广东珠江,http://183.237.246.14:9931/tsfile/live/1011_1.m3u8
 广东珠江,http://gmxw.7766.org:808/hls/83/index.m3u8
 广东民生,http://huangtong-com.cn:9902/tsfile/live/1012_1.m3u8
@@ -2279,6 +2324,12 @@ Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
 崇左天等综合,https://live.gxrb.com.cn/gx/tiandeng/index.m3u8
 📺　海南,#genre#
 📺　河南,#genre#
+河南都市,http://123.7.110.43:9901/tsfile/live/1026_1.m3u8
+河南民生,http://123.7.110.43:9901/tsfile/live/1027_1.m3u8
+河南梨园,http://123.7.110.43:9901/tsfile/live/1005_1.m3u8
+河南法制,http://123.7.110.43:9901/tsfile/live/1028_1.m3u8
+河南电视剧,http://123.7.110.43:9901/tsfile/live/1029_1.m3u8
+河南公共,http://123.7.110.43:9901/tsfile/live/0124_1.m3u8
 河南都市,http://49.232.131.30:99/dxxw.php?id=hnds
 河南民生,http://49.232.131.30:99/dxxw.php?id=hnms
 河南法治,http://49.232.131.30:99/dxxw.php?id=hmfz
