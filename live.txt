@@ -917,6 +917,8 @@ CETV中国教育4,http://gmxw.7766.org:808/hls/79/index.m3u8
 广东卫视,http://118.122.189.74:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 河北卫视,http://118.122.189.74:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 江西卫视,http://118.122.189.74:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+广西卫视,http://118.122.189.74:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+甘肃卫视,http://118.122.189.74:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,http://113.57.93.165:9900/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://113.57.93.165:9900/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://113.57.93.165:9900/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1541,13 +1543,10 @@ CETV中国教育4,http://gmxw.7766.org:808/hls/79/index.m3u8
 新疆卫视,http://ynxsj.7766.org:9901/tsfile/live/0110_1.m3u8?key=txiptv
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=1da074361609506578
-康巴卫视,http://218.89.240.144:59901/tsfile/live/1010_1.m3u8?key=txiptv
 延边卫视,http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 三沙卫视,http://117.27.190.42:9998/tsfile/live/23250_1.m3u8?key=txiptv&playlive=1&authid=0
 海峡卫视,http://117.27.190.42:9998/tsfile/live/23283_1.m3u8?key=txiptv&playlive=1&authid=0
-甘肃卫视,http://118.122.189.74:9901/tsfile/live/0141_1.m3u8
-康巴卫视,http://218.89.240.144:59901/tsfile/live/1010_1.m3u8
 海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/chunklist0.m3u8
 陕西卫视,http://39.164.160.249:9901/tsfile/live/0136_1.m3u8
 陕西卫视,http://110.53.52.63:8888/newlive/live/hls/40/live.m3u8
@@ -1691,13 +1690,10 @@ CGTN英语,http://122.138.32.222:9999/tsfile/live/1055_1.m3u8?key=txiptv&playliv
 河源综合,http://183.237.246.14:9931/tsfile/live/1121_1.m3u8
 河源公共,http://183.237.246.14:9931/tsfile/live/1079_1.m3u8
 📺　北京,#genre#
-北京纪实科教,http://223.166.234.215:7777/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
 北京纪实科教,http://114.243.103.165:8822/rtp/239.3.1.115:8000
 北京纪实科教8K,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
-北京纪实科教8K,http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 北京卡酷少儿,http://60.30.73.2:59901/tsfile/live/0001_30.m3u8
 北京卡酷少儿,http://61.138.128.226:19901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
-北京卡酷少儿,http://223.166.234.215:7777/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
 睛彩篮球,http://122.138.32.222:9999/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
 睛彩羽毛球,http://122.138.32.222:9999/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&authid=0
 📺　上海,#genre#
@@ -2319,6 +2315,7 @@ Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
 📺　四川,#genre#
 四川新闻,http://118.122.189.74:9901/tsfile/live/0123_3.m3u8?key=txiptv&playlive=1&authid=0
 四川新闻,http://183.223.157.33:9901/tsfile/live/1003_1.m3u8
+四川经济,http://118.122.189.74:9901/tsfile/live/0123_2.m3u8?key=txiptv&playlive=1&authid=0
 四川经济,http://183.223.157.33:9901/tsfile/live/1000_1.m3u8
 四川文化旅游,http://183.223.157.33:9901/tsfile/live/1001_1.m3u8
 四川影视文艺,http://118.122.189.74:9901/tsfile/live/0123_4.m3u8?key=txiptv&playlive=1&authid=0
