@@ -2020,6 +2020,7 @@ Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
 江苏教育,https://025365.xyz:8082/jstv.php?id=jsjy
 江苏体育,https://025365.xyz:8082/jstv.php?id=jsty
 江苏城市,http://58.220.219.14:9901/tsfile/live/0120_3.m3u8
+江苏综艺,http://58.220.219.14:9901/tsfile/live/0120_4.m3u8
 江苏体育休闲,http://121.232.178.93:5000/tsfile/live/0001_4.m3u8?key=txiptv&playlive=1&authid=0
 优漫卡通,http://121.232.178.93:5000/tsfile/live/0001_10.m3u8?key=txiptv&playlive=1&authid=0
 南京新闻综合,http://live.nbs.cn/channels/njtv/xwpdb/nbs06.m3u8
@@ -2123,6 +2124,7 @@ Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
 山东文旅,http://60.208.61.2:352/tsfile/live/1004_1.m3u8
 山东公共,http://111.14.181.15:9901/tsfile/live/1001_1.m3u8
 山东少儿,http://111.14.181.15:9901/tsfile/live/1005_1.m3u8
+山东综艺,http://124.128.73.58:9901/tsfile/live/1002_1.m3u8
 山东齐鲁,http://124.128.73.58:9901/tsfile/live/1000_1.m3u8
 山东体育,http://123.132.233.194:352/tsfile/live/1001_1.m3u8
 山东体育,http://61.156.228.12:8154/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
