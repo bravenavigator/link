@@ -1503,10 +1503,10 @@ CGTN英语,http://122.138.32.222:9999/tsfile/live/1055_1.m3u8?key=txiptv&playliv
 河源公共,http://183.237.246.14:9931/tsfile/live/1079_1.m3u8
 ✨　港澳,#genre#
 凤凰资讯,http://ali.hlspull.yximgs.com/live/diyp_fh1.flv
-凤凰资讯,http://106.111.244.151:5001/tsfile/live/0001_13.m3u8?key=txiptv&playlive=1&authid=0
 凤凰资讯,http://cdn3.163189.xyz/live/fhzx/stream.m3u8
 凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
 凤凰资讯,http://cdn5.1678520.xyz/live/live2.1.php?id=fhzx
+凤凰资讯,http://106.111.244.151:5001/tsfile/live/0001_13.m3u8?key=txiptv&playlive=1&authid=0
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pin72.m3u8
