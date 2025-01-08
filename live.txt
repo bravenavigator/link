@@ -2179,9 +2179,11 @@ Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
 湖南公共,http://116.128.242.83:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南娱乐,http://116.128.242.83:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南都市,http://116.128.242.83:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南娱乐,http://175.10.230.91:8081/tsfile/live/1000_1.m3u8
 湖南经视,http://116.128.242.83:9901/tsfile/live/0131_1.m3u8
 湖南经视,http://124.228.161.8:9901/tsfile/live/1042_1.m3u8
+湖南电影,http://175.10.230.91:8081/tsfile/live/0019_1.m3u8
+湖南娱乐,http://175.10.230.91:8081/tsfile/live/1000_1.m3u8
+湖南国际,http://175.10.230.91:8081/tsfile/live/1001_1.m3u8
 湖南都市,http://175.10.230.91:8081/tsfile/live/0018_1.m3u8
 湖南经视,http://222.241.154.37:9901/tsfile/live/23020_1.m3u8
 湖南都市,http://222.241.154.37:9901/tsfile/live/23021_1.m3u8
@@ -2202,6 +2204,7 @@ Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
 快乐垂钓,http://223.166.234.215:7777/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
 茶频道,http://61.138.167.36:9901/tsfile/live/1056_1.m3u8
 茶频道,http://223.166.234.215:7777/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://175.10.230.91:8081/tsfile/live/1002_1.m3u8
 金鹰卡通,http://218.76.32.193:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://60.30.73.2:59901/tsfile/live/0001_33.m3u8
 金鹰卡通,http://61.138.128.226:19901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
