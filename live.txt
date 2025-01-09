@@ -1673,7 +1673,6 @@ Astro剧集台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 第一财经,http://223.166.234.78:7777/tsfile/live/1029_1.m3u8
 东方影视,http://223.166.234.78:7777/tsfile/live/1028_1.m3u8
 东方影视,http://z.b.bkpcp.top/m.php?id=shys
-纪实人文,http://223.166.234.78:7777/tsfile/live/1027_1.m3u8
 乐游频道,http://61.138.167.36:9901/tsfile/live/1017_1.m3u8
 乐游频道,http://124.128.73.58:9901/tsfile/live/1006_1.m3u8
 乐游频道,http://104.244.79.187:62115/itv/5000000011000031112.m3u8?cdn=bestzb
