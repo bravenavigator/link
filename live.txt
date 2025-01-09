@@ -1855,8 +1855,8 @@ Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
 江苏城市,https://025365.xyz:8082/jstv.php?id=jscs
 江苏综艺,https://025365.xyz:8082/jstv.php?id=jszy
 江苏影视,https://025365.xyz:8082/jstv.php?id=jsys
-江苏教育,https://025365.xyz:8082/jstv.php?id=jsjy
-江苏体育休闲,https://025365.xyz:8082/jstv.php?id=jsty
+江苏国际,https://025365.xyz:8082/jstv.php?id=jsjy
+江苏教育,https://025365.xyz:8082/jstv.php?id=jsty
 江苏综艺,http://106.111.244.151:5001/tsfile/live/0001_3.m3u8?key=txiptv&playlive=1&authid=0
 江苏体育休闲,http://106.111.244.151:5001/tsfile/live/0001_4.m3u8?key=txiptv&playlive=1&authid=0
 江苏城市,http://58.220.219.14:9901/tsfile/live/0120_3.m3u8
