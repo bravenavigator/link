@@ -1851,7 +1851,7 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 Nick Jr,http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
 Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
 📺　江苏,#genre#
-江苏公共新闻,http://58.221.214.82:9901/tsfile/live/0009_2.m3u8?key=txiptv&playlive=1&authid=0
+江苏新闻,http://58.221.214.82:9901/tsfile/live/0009_2.m3u8?key=txiptv&playlive=1&authid=0
 江苏城市,https://025365.xyz:8082/jstv.php?id=jscs
 江苏综艺,https://025365.xyz:8082/jstv.php?id=jszy
 江苏影视,https://025365.xyz:8082/jstv.php?id=jsys
