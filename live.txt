@@ -1495,12 +1495,12 @@ CGTN英语,http://122.138.32.222:9999/tsfile/live/1055_1.m3u8?key=txiptv&playliv
 广州新闻,https://tencentplaygsm.gztv.com/live/xinwen.m3u8?txTime=659a511e&txSecret=1a5bbbb41bc728d271c8b99e5482f8e7
 广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=6f73647cae387d01a3c2132074132a83&txTime=18d00acf487
 广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
-广州影视,http://183.239.236.91:8088/hls/43/index.m3u8
 广州影视,http://tencentplaygzrb01.gztv.com/live/yingshi.m3u8
 广州影视,https://tencentplaygsm.gztv.com/live/yingshi.m3u8?txTime=6594e994&txSecret=52eedb1aafdda80adf996079505cc49d
 广州影视,https://tencentplaygsm.gztv.com/live/yingshi.m3u8?txTime=659a5117&txSecret=52195f79cab012334aa7ef5c153e8ddd
 广州影视,https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=7e9bddad7c8911626ed1d2c09fc605d9&txTime=18d00acf487
 广州影视,http://php.jdshipin.com:8880/gztv.php?id=yingshi
+广州影视,http://183.239.236.91:8088/hls/43/index.m3u8
 广州法治,http://tencentplaygzrb01.gztv.com/live/fazhi.m3u8
 广州法治,https://tencentplaygsm.gztv.com/live/fazhi.m3u8?txTime=6594e9cf&txSecret=25cae88b4e02da301347c3184ef474c4
 广州法治,https://tencentplaygsm.gztv.com/live/fazhi.m3u8?txTime=659a512a&txSecret=d5a89a103371a57e0746ebef9fe144b5
