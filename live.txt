@@ -1850,6 +1850,7 @@ Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
 江苏综艺,http://58.221.214.82:9901/tsfile/live/0005_2.m3u8?key=txiptv&playlive=1&authid=0
 江苏城市,http://58.221.214.82:9901/tsfile/live/0004_2.m3u8?key=txiptv&playlive=1&authid=0
 江苏教育,http://58.221.214.82:9901/tsfile/live/0012_2.m3u8?key=txiptv&playlive=1&authid=0
+江苏影视,http://58.221.214.82:9901/tsfile/live/0007_2.m3u8?key=txiptv
 江苏体育休闲,http://121.232.178.93:5000/tsfile/live/0001_4.m3u8?key=txiptv&playlive=1&authid=0
 优漫卡通,http://106.111.244.151:5001/tsfile/live/0001_10.m3u8?key=txiptv&playlive=1&authid=0
 优漫卡通,http://121.232.178.93:5000/tsfile/live/0001_10.m3u8?key=txiptv&playlive=1&authid=0
