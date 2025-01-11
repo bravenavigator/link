@@ -102,6 +102,7 @@ CCTV14少儿,http://60.30.73.2:59901/tsfile/live/0001_15.m3u8
 CCTV16奥林匹克,http://60.30.73.2:59901/tsfile/live/0001_17.m3u8
 CCTV17农业农村,http://60.30.73.2:59901/tsfile/live/0001_18.m3u8
 CCTV重温经典,http://60.30.73.2:59901/tsfile/live/0001_20.m3u8
+CCTV重温经典,http://111.160.17.2:59901/tsfile/live/0001_20.m3u8
 CCTV16奥林匹克,http://106.111.244.151:5001/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV文化精品,http://106.111.244.151:5001/tsfile/live/0001_2.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1综合,http://202.168.187.208:9089/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -517,8 +518,6 @@ CCTV6电影,http://111.9.163.109:9901/tsfile/live/0006_1.m3u8?key=txiptv&playliv
 CCTV8电视剧,http://111.9.163.109:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1综合,http://111.9.163.109:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5体育,http://111.9.163.109:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV重温经典,http://cdn3.132.us.kg/live/cwjd/stream.m3u8
-CCTV重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 CCTV1综合,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8
 CCTV2财经,http://61.136.172.236:9901/tsfile/live/0002_1.m3u8
 CCTV3综艺,http://61.136.172.236:9901/tsfile/live/0003_1.m3u8
@@ -591,8 +590,6 @@ CCTV15音乐,http://111.14.181.15:9901/tsfile/live/0015_1.m3u8?key=txiptv&playli
 中国交通,http://122.138.32.222:9999/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 CETV中国教育4,http://121.19.134.139:808/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4K高清,http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/8cdd688b04e4495ba1635e218419d6f9/4000.m3u8
-CCTV重温经典,http://cdn3.163189.xyz/live/cwjd/stream.m3u8
-CCTV重温经典,http://120.76.248.139/live/bfgd/4200000635.m3u8
 CCTV16奥林匹克,http://183.11.239.36:808/hls/169/index.m3u8
 CCTV兵器科技,http://183.11.239.36:808/hls/21/index.m3u8
 CCTV世界地理,http://183.11.239.36:808/hls/11/index.m3u8
@@ -606,6 +603,11 @@ CETV早期教育,http://183.11.239.36:808/hls/100/index.m3u8
 CETV中国教育1,http://183.11.239.36:808/hls/122/index.m3u8
 CETV中国教育4,http://183.11.239.36:808/hls/79/index.m3u8
 中国交通,http://183.11.239.36:808/hls/172/index.m3u8
+CCTV重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+CCTV重温经典,http://cdn3.132.us.kg/live/cwjd/stream.m3u8
+CCTV重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+CCTV重温经典,http://cdn3.163189.xyz/live/cwjd/stream.m3u8
+CCTV重温经典,http://120.76.248.139/live/bfgd/4200000635.m3u8
 CCTV4美洲,http://gmxw.7766.org:808/hls/71/index.m3u8
 CCTV4欧洲,http://gmxw.7766.org:808/hls/67/index.m3u8
 CCTV风云剧场,http://gmxw.7766.org:808/hls/95/index.m3u8
@@ -2288,10 +2290,12 @@ Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
 黔南综合,rtmp://tv.qntv.net/channellive/ch1?zguizd
 毕节七星关综合,https://p8.vzan.com:443/slowlive/147077707554082780/live.m3u8
 📺　广西,#genre#
-广西新闻,http://116.9.204.242:9901/tsfile/live/1001_1.m3u8
-广西都市,http://116.9.204.242:9901/tsfile/live/1002_1.m3u8
-广西综艺旅游,http://116.9.204.242:9901/tsfile/live/0125_1.m3u8
-广西影视,http://116.9.204.242:9901/tsfile/live/0124_1.m3u8
+广西卫视,http://116.9.204.242:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+广西新闻,http://116.9.204.242:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+广西都市,http://116.9.204.242:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+广西公共,http://116.9.204.242:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+广西影视,http://116.9.204.242:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+广西综艺旅游,http://116.9.204.242:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 南宁新闻综合,https://hls.nntv.cn/nnlive/XWZH_24.m3u8
 南宁都市生活,http://hls.nntv.cn/nnlive/WLSH_24.m3u8
 南宁影视娱乐,http://hls.nntv.cn/nnlive/YSYL_244.m3u8
