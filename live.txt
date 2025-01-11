@@ -2523,11 +2523,6 @@ Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
 都市频道,rtmp://livein.gstv.com.cn/49048r/oj57of.flv
 平凉崆峒综合,http://125.74.200.110:10080/hls/001/001_live.m3u8
 📺　宁夏,#genre#
-吴忠综合,http://live.kanwz.net/zhpd/sd/live.m3u8
-吴忠公共,http://live.kanwz.net/ggpd/sd/live.m3u8
-石嘴山综合,http://live.kanwz.net/ggpd/playlist.m3u8
-石嘴山公共,http://live.kanwz.net/zhpd/playlist.m3u8
-临夏综合,http://124.152.34.102:8030/wCMq71/wCMq71_0.m3u8
 📺　青海,#genre#
 青海经视,http://stream.qhbtv.com/qhsh/sd/live.m3u8
 青海经视,http://stream.qhbtv.com/qhsh/playlist.m3u8
