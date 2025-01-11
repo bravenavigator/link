@@ -101,8 +101,6 @@ CCTV13新闻,http://60.30.73.2:59901/tsfile/live/0001_14.m3u8
 CCTV14少儿,http://60.30.73.2:59901/tsfile/live/0001_15.m3u8
 CCTV16奥林匹克,http://60.30.73.2:59901/tsfile/live/0001_17.m3u8
 CCTV17农业农村,http://60.30.73.2:59901/tsfile/live/0001_18.m3u8
-CCTV重温经典,http://60.30.73.2:59901/tsfile/live/0001_20.m3u8
-CCTV重温经典,http://111.160.17.2:59901/tsfile/live/0001_20.m3u8
 CCTV16奥林匹克,http://106.111.244.151:5001/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV文化精品,http://106.111.244.151:5001/tsfile/live/0001_2.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1综合,http://202.168.187.208:9089/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -186,12 +184,6 @@ CCTV13新闻,http://223.241.247.214:9901/tsfile/live/0013_1.m3u8?key=txiptv&play
 CCTV5体育,http://223.241.247.214:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4中文国际,http://223.241.247.214:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV6电影,http://223.241.247.214:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV11戏曲,http://222.243.221.54:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV14少儿,http://222.243.221.54:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV7国防军事,http://222.243.221.54:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV13新闻,http://222.243.221.54:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV15音乐,http://222.243.221.54:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV12社会与法,http://222.243.221.54:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5体育,http://113.220.234.101:9999/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2财经,http://113.220.234.101:9999/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV6电影,http://113.220.234.101:9999/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -203,11 +195,6 @@ CCTV7国防军事,http://59.173.183.242:9901/tsfile/live/0007_1.m3u8?key=txiptv&
 CCTV3综艺,http://59.173.183.242:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV9纪录,http://59.173.183.242:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV8电视剧,http://59.173.183.242:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV11戏曲,http://218.77.81.186:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV13新闻,http://218.77.81.186:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV12社会与法,http://218.77.81.186:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV14少儿,http://218.77.81.186:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV15音乐,http://218.77.81.186:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV11戏曲,http://59.173.243.210:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2财经,http://59.173.243.210:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV8电视剧,http://59.173.243.210:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -608,6 +595,8 @@ CCTV重温经典,http://cdn3.132.us.kg/live/cwjd/stream.m3u8
 CCTV重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 CCTV重温经典,http://cdn3.163189.xyz/live/cwjd/stream.m3u8
 CCTV重温经典,http://120.76.248.139/live/bfgd/4200000635.m3u8
+CCTV重温经典,http://60.30.73.2:59901/tsfile/live/0001_20.m3u8
+CCTV重温经典,http://111.160.17.2:59901/tsfile/live/0001_20.m3u8
 CCTV4美洲,http://gmxw.7766.org:808/hls/71/index.m3u8
 CCTV4欧洲,http://gmxw.7766.org:808/hls/67/index.m3u8
 CCTV风云剧场,http://gmxw.7766.org:808/hls/95/index.m3u8
@@ -1456,7 +1445,6 @@ CGTN俄语,http://pi.0472.org/live/cgtnr.m3u8?token=240413
 CGTN英语,http://122.138.32.222:9999/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0
 📺　广东,#genre#
 广东新闻,http://huangtong-com.cn:9902/tsfile/live/1011_1.m3u8
-广东新闻,http://59.32.97.163:9902/tsfile/live/1011_1.m3u8
 广东新闻,http://113.81.20.157:10443/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 广东新闻,http://183.11.239.36:808/hls/5/index.m3u8
 广东新闻,http://gmxw.7766.org:808/hls/5/index.m3u8
@@ -1639,7 +1627,7 @@ ViuTV 96,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
 HOY TV,http://cdn.163189.xyz/live/hoy/stream.m3u8
 HOY TV,http://cdn.132.us.kg/live/hoy/stream.m3u8
 HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-HOY TV,http://cdn10.1678520.xyz/live/?id=hoy
+NOW爆谷台,http://205.185.123.236:8899/1/baogutai/baogu.m3u8
 RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
 RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
 RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8
@@ -2024,16 +2012,10 @@ Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
 济宁综合,http://lives.jnnews.tv/video/s10001-JNTV-1/index.m3u8
 济宁公共,http://lives.jnnews.tv/video/s10001-JNTV3/index.m3u8
 📺　湖南,#genre#
-湖南都市,http://222.243.221.54:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南都市,http://218.77.81.186:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南都市,http://113.218.204.28:8081/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南国际,http://113.218.204.28:8081/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南娱乐,http://218.77.81.186:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南娱乐,http://222.243.221.54:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南娱乐,http://113.218.204.28:8081/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南经视,http://218.76.32.193:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南电影,http://222.243.221.54:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南电影,http://218.77.81.186:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南电影,http://113.218.204.28:8081/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南电影,http://218.76.32.193:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南电视剧,http://218.76.32.193:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -2088,8 +2070,6 @@ Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
 湘西古丈综合,https://liveplay-srs.voc.com.cn/hls/tv/144_4efb38.m3u8
 益阳沅江综合,https://liveplay-srs.voc.com.cn/hls/tv/163_2c7011.m3u8
 益阳南县综合,http://hnstnx.chinashadt.com:2037/live/10001.stream/playlist.m3u8
-永州新闻综合,http://222.243.221.54:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-永州新闻综合,http://218.77.81.186:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 永州蓝山综合,https://liveplay-srs.voc.com.cn/hls/tv/26_370917.m3u8
 张家界桑植综合,https://liveplay-srs.voc.com.cn/hls/tv/185_938292.m3u8
 📺　湖北,#genre#
