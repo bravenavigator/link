@@ -2625,19 +2625,6 @@ CHC家庭影院,http://113.57.109.48:1111/tsfile/live/1044_1.m3u8?key=txiptv&pla
 CHC动作电影,http://113.57.109.48:1111/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC影迷电影,http://113.57.109.48:1111/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
 💫️　电影,#genre#
-1905电影(亚洲),http://xxw.me0.cn/1905dy.php?id=1905a
-1905电影(国际),http://xxw.me0.cn/1905dy.php?id=1905b
-豆瓣高分,http://159.75.85.63:35455/douyu/8770422
-电影剧场,http://159.75.85.63:35455/douyu/7575350
-特辑电影,https://www.goodiptv.club/douyu/3637778
-绝版电影,https://lunbo.freetv.top/yy/1355263385
-喜剧电影,http://159.75.85.63:35455/douyu/9292492
-贝爷影厅,http://159.75.85.63:35455/douyu/252802
-小黛兮影,http://159.75.85.63:35455/douyu/11553944
-萌小鬼片,http://159.75.85.63:35455/douyu/3928
-神乐影剧,http://159.75.85.63:35455/douyu/122402
-可乐影院,http://159.75.85.63:35455/douyu/20415
-漫威剧情,http://159.75.85.63:35455/douyu/6140589
 🌏　海外,#genre#
 美国Fox News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 美国CBN News,https://bcovlive-a.akamai.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
