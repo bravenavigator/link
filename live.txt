@@ -1845,11 +1845,14 @@ Nick Jr,http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
 Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
 📺　江苏,#genre#
 江苏新闻,http://58.221.214.82:9901/tsfile/live/0009_2.m3u8?key=txiptv&playlive=1&authid=0
+江苏新闻,https://025365.xyz:8082/jstv.php?id=jsgg
 江苏城市,https://025365.xyz:8082/jstv.php?id=jscs
 江苏综艺,https://025365.xyz:8082/jstv.php?id=jszy
 江苏影视,https://025365.xyz:8082/jstv.php?id=jsys
 江苏国际,https://025365.xyz:8082/jstv.php?id=jsjy
 江苏教育,https://025365.xyz:8082/jstv.php?id=jsty
+江苏体育休闲,https://025365.xyz:8082/jstv.php?id=jsty
+优漫卡通,https://025365.xyz:8082/jstv.php?id=ymkt
 江苏综艺,http://106.111.244.151:5001/tsfile/live/0001_3.m3u8?key=txiptv&playlive=1&authid=0
 江苏体育休闲,http://106.111.244.151:5001/tsfile/live/0001_4.m3u8?key=txiptv&playlive=1&authid=0
 江苏城市,http://58.220.219.14:9901/tsfile/live/0120_3.m3u8
@@ -2496,13 +2499,12 @@ Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
 朔州怀仁综合,http://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc.m3u8
 忻州定襄综合,http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8
 📺　甘肃,#genre#
-甘肃卫视,rtmp://livein.gstv.com.cn/49048r/y3nga4.flv
-文化影视,rtmp://livein.gstv.com.cn/49048r/068vw9.flv
-公共应急,rtmp://livein.gstv.com.cn/49048r/2v86i8.flv
-少儿频道,rtmp://livein.gstv.com.cn/49048r/4o7e76.flv
-都市频道,rtmp://livein.gstv.com.cn/49048r/oj57of.flv
-平凉崆峒综合,http://125.74.200.110:10080/hls/001/001_live.m3u8
 📺　宁夏,#genre#
+石嘴山综合,http://live.kanwz.net/ggpd/playlist.m3u8
+石嘴山公共,http://live.kanwz.net/zhpd/playlist.m3u8
+吴忠综合,http://live.kanwz.net/zhpd/sd/live.m3u8
+吴忠公共,http://live.kanwz.net/ggpd/sd/live.m3u8
+临夏综合,http://124.152.34.102:8030/wCMq71/wCMq71_0.m3u8
 📺　青海,#genre#
 青海经视,http://stream.qhbtv.com/qhsh/sd/live.m3u8
 青海经视,http://stream.qhbtv.com/qhsh/playlist.m3u8
