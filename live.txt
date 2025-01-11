@@ -2281,29 +2281,6 @@ Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
 甘孜综合,http://tv.drs.ganzitv.com:8100/channellive/gztv.flv
 甘孜德格综合,http://dgfile.ganzitv.com:80/nmip-media/channellive/channel101955/playlist.m3u8
 甘孜康定综合,http://m3u8-kd.channel.ganzitv.com/nmip-media-yajiang/channellive/channel100663/playlist.m3u8
-📺　云南,#genre#
-云南都市,http://220.164.192.48:50085/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
-云南娱乐,http://220.164.192.48:50085/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
-云南康旅,http://220.164.192.48:50085/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
-文山新闻综合,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
-文山新闻综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
-文山公共,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8
-文山麻栗坡综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8
-文山麻栗坡综合,http://tvdrs.wsrtv.com.cn:8100/channellive/mlptv.flv
-怒江综合,http://livebroadcast.ccwb.cn/live/w1620805130988936.m3u8
-昭通巧家综合,http://livebroadcast.ccwb.cn/live/w1593303918254963.m3u8
-📺　贵州,#genre#
-贵州2,http://dsm.52mm.top:28888/rtp/238.255.2.2:5999
-贵州3,http://dsm.52mm.top:28888/rtp/238.255.2.3:5999
-贵州4,http://dsm.52mm.top:28888/rtp/238.255.2.4:5999
-贵州5,http://dsm.52mm.top:28888/rtp/238.255.2.5:5999
-贵州6,http://dsm.52mm.top:28888/rtp/238.255.2.6:5999
-贵州7,http://dsm.52mm.top:28888/rtp/238.255.2.9:5999
-贵阳2,http://dsm.52mm.top:28888/rtp/238.255.2.20:5999
-安顺公共,http://dsm.52mm.top:28888/rtp/238.255.2.158:5999
-铜仁松桃新闻,http://live.strmtzx.cn/stxw/sd/live.m3u8
-黔南综合,rtmp://tv.qntv.net/channellive/ch1?zguizd
-毕节七星关综合,https://p8.vzan.com:443/slowlive/147077707554082780/live.m3u8
 📺　广西,#genre#
 广西卫视,http://116.9.204.242:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 广西新闻,http://116.9.204.242:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -2329,6 +2306,32 @@ Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
 河池罗城综合,http://www.3jlc.cn:80/lctvlive/lcm.m3u8
 崇左天等综合,https://live.gxrb.com.cn/gx/tiandeng/index.m3u8
 📺　海南,#genre#
+📺　云南,#genre#
+云南都市,http://220.164.192.48:50085/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
+云南娱乐,http://220.164.192.48:50085/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
+云南康旅,http://220.164.192.48:50085/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
+文山新闻综合,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
+文山新闻综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
+文山公共,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8
+文山麻栗坡综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8
+文山麻栗坡综合,http://tvdrs.wsrtv.com.cn:8100/channellive/mlptv.flv
+怒江综合,http://livebroadcast.ccwb.cn/live/w1620805130988936.m3u8
+麻栗坡综合,http://tvdrs.wsrtv.com.cn:8100/channellive/mlptv.flv
+昭通巧家综合,http://livebroadcast.ccwb.cn/live/w1593303918254963.m3u8
+📺　贵州,#genre#
+贵州2,http://dsm.52mm.top:28888/rtp/238.255.2.2:5999
+贵州3,http://dsm.52mm.top:28888/rtp/238.255.2.3:5999
+贵州4,http://dsm.52mm.top:28888/rtp/238.255.2.4:5999
+贵州5,http://dsm.52mm.top:28888/rtp/238.255.2.5:5999
+贵州6,http://dsm.52mm.top:28888/rtp/238.255.2.6:5999
+贵州7,http://dsm.52mm.top:28888/rtp/238.255.2.9:5999
+贵阳2,http://dsm.52mm.top:28888/rtp/238.255.2.20:5999
+安顺公共,http://dsm.52mm.top:28888/rtp/238.255.2.158:5999
+铜仁松桃新闻,http://live.strmtzx.cn/stxw/sd/live.m3u8
+黔南综合,rtmp://tv.qntv.net/channellive/ch1
+松桃新闻,http://live.strmtzx.cn/stxw/sd/live.m3u8
+松桃综艺,http://live.strmtzx.cn/stxw/playlist.m3u8
+毕节七星关综合,https://p8.vzan.com:443/slowlive/147077707554082780/live.m3u8
 📺　河南,#genre#
 河南新闻,http://49.232.131.30:99/dxxw.php?id=hnxw
 河南都市,http://49.232.131.30:99/dxxw.php?id=hnds
@@ -2486,6 +2489,8 @@ Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
 西安3套,http://61.150.67.62:9901/tsfile/live/1016_1.m3u8
 西安4套,http://61.150.67.62:9901/tsfile/live/1017_1.m3u8
 西安5套,http://61.150.67.62:9901/tsfile/live/1018_1.m3u8
+延安综合,http://live.cloud.yanews.cn/video/s10001-YATV-1/index.m3u8
+延安公共,http://live.cloud.yanews.cn/video/s10001-YATV-2/index.m3u8
 📺　山西,#genre#
 山西黄河,http://60.223.224.176:8888/newlive/live/hls/52/live.m3u8
 山西经济与科技,http://60.223.224.176:8888/newlive/live/hls/53/live.m3u8
@@ -2511,12 +2516,17 @@ Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
 朔州怀仁综合,http://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc.m3u8
 忻州定襄综合,http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8
 📺　甘肃,#genre#
+甘肃卫视,rtmp://livein.gstv.com.cn/49048r/y3nga4.flv
+文化影视,rtmp://livein.gstv.com.cn/49048r/068vw9.flv
+公共应急,rtmp://livein.gstv.com.cn/49048r/2v86i8.flv
+少儿频道,rtmp://livein.gstv.com.cn/49048r/4o7e76.flv
+都市频道,rtmp://livein.gstv.com.cn/49048r/oj57of.flv
 平凉崆峒综合,http://125.74.200.110:10080/hls/001/001_live.m3u8
 📺　宁夏,#genre#
 吴忠综合,http://live.kanwz.net/zhpd/sd/live.m3u8
-吴忠综合,http://live.kanwz.net/zhpd/sd/live.m3u8?zningxd
 吴忠公共,http://live.kanwz.net/ggpd/sd/live.m3u8
-吴忠公共,http://live.kanwz.net/ggpd/sd/live.m3u8?zningxd
+石嘴山综合,http://live.kanwz.net/ggpd/playlist.m3u8
+石嘴山公共,http://live.kanwz.net/zhpd/playlist.m3u8
 临夏综合,http://124.152.34.102:8030/wCMq71/wCMq71_0.m3u8
 📺　青海,#genre#
 青海经视,http://stream.qhbtv.com/qhsh/sd/live.m3u8
