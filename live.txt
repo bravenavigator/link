@@ -1898,11 +1898,18 @@ Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
 无锡娱乐,http://stream.thmz.com/wxtv2/playlist.m3u8
 镇江新闻综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8
 镇江社会民生,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
+常州都市,http://8.138.7.223/tv/cztv.php?id=2
+常州生活,http://8.138.7.223/tv/cztv.php?id=3
+常州公共,http://8.138.7.223/tv/cztv.php?id=4
+常州金坛,http://jintan-tv-ori-hls.jstv.com/jintan-tv-ori/jintan_xw.m3u8
 扬州综合,http://cm-wshls.homecdn.com/live/8bb.m3u8
 扬州城市,http://cm-wshls.homecdn.com/live/8bd.m3u8
 扬州生活,http://cm-wshls.homecdn.com/live/8bf.m3u8
 扬州邗江,http://cm-wshls.homecdn.com/live/8c3.m3u8
 扬州高邮,http://gaoyou-tv-hls.cm.jstv.com/gaoyou-tv/gaoyouxw.m3u8
+连云港新闻,http://live.lyg1.com/zhpd/sd/live.m3u8
+盐城大丰新闻,http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafengyt.m3u8
+盐城大丰公共,http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafenget.m3u8
 徐州邳州综合,https://liveplus.pznews.com/pzzhpd/sd/live.m3u8
 徐州新沂新闻,http://live.xysrmt.cn/xwzh/sd/live.m3u8
 徐州新沂生活,http://live.xysrmt.cn/shpd/sd/live.m3u8
@@ -1975,6 +1982,7 @@ Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
 山东公共,http://111.14.181.15:9901/tsfile/live/1001_1.m3u8
 山东少儿,http://111.14.181.15:9901/tsfile/live/1005_1.m3u8
 山东综艺,http://124.128.73.58:9901/tsfile/live/1002_1.m3u8
+山东综艺,http://111.14.181.15:9901/tsfile/live/1004_1.m3u8?key=tvbox6_com&playlive=1&authid=0
 山东齐鲁,http://124.128.73.58:9901/tsfile/live/1000_1.m3u8
 山东体育,http://123.132.233.194:352/tsfile/live/1001_1.m3u8
 山东体育,http://61.156.228.12:8154/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1985,8 +1993,8 @@ Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
 山东教育,http://123.132.233.194:352/tsfile/live/1003_1.m3u8
 山东教育,http://182.46.8.160:8018/hls/16/index.m3u8
 山东影视,http://124.128.73.58:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-梁山影视,http://111.14.181.15:9901/tsfile/live/1012_1.m3u8
 山东少儿,http://123.132.233.194:352/tsfile/live/1002_1.m3u8
+山东少儿,http://111.14.181.15:9901/tsfile/live/1005_1.m3u8?key=tvbox6_com&playlive=1&authid=0
 山东体育,http://222.134.245.16:9901/tsfile/live/1006_1.m3u8
 山东齐鲁,http://222.134.245.16:9901/tsfile/live/1001_1.m3u8
 山东体育,http://222.134.245.16:9901/tsfile/live/1006_1.m3u8
@@ -2004,6 +2012,8 @@ Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
 山东生活,http://221.0.78.198:1681/hls/10226/index.m3u8
 山东少儿,http://221.0.78.198:1681/hls/10227/index.m3u8
 山东教育,http://221.0.78.198:1681/hls/10221/index.m3u8
+梁山综合,http://111.14.181.15:9901/tsfile/live/1011_1.m3u8?key=tvbox6_com&playlive=1&authid=0
+梁山影视,http://111.14.181.15:9901/tsfile/live/1012_1.m3u8
 济南综合,http://221.0.78.198:1681/hls/10279/index.m3u8
 济南教育,http://221.0.78.198:1681/hls/10286/index.m3u8
 济南综合,http://124.128.73.58:9901/tsfile/live/1003_1.m3u8
@@ -2199,9 +2209,14 @@ Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
 福建新闻,http://117.27.190.42:9998/tsfile/live/23286_1.m3u8?key=txiptv&playlive=1&authid=0
 福建旅游,http://117.27.190.42:9998/tsfile/live/23288_1.m3u8?key=txiptv&playlive=1&authid=0
 福建电视剧,http://117.27.190.42:9998/tsfile/live/23287_1.m3u8?key=txiptv&playlive=1&authid=0
+福建新闻,http://8.138.7.223/tv/fjtv.php?id=13
+福建旅游,http://8.138.7.223/tv/fjtv.php?id=8
+福建文体,http://8.138.7.223/tv/fjtv.php?id=10
 福州新闻,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 福州生活,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
+莆田1套,http://106.53.99.30/dl/ptbtv.php?id=4
+莆田2套,http://106.53.99.30/dl/ptbtv.php?id=5
 三明综合,http://live.zzyxxw.com:85/live/xwzh.m3u8
 漳州新闻综合,http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8
 📺　四川,#genre#
