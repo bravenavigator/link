@@ -2644,7 +2644,7 @@ Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
 内蒙古少儿频道,http://1.183.141.194:8001/hls/21/index.m3u8
 内蒙古蒙语卫视,https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=4971666599ef9411629213c9a300bf66&txTime=771EF880
 内蒙古蒙语卫视,http://221.199.193.3:9901/tsfile/live/1004_1.m3u8
-内蒙古蒙语卫视,http://221.199.193.157:9901/tsfile/live/1004_1.m3u8
+内蒙古蒙语卫视,http://221.199.193.157:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 内蒙古蒙语文化,https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=d9d0fd7a252ef56b515c46a2e21830f4&txTime=771E8800
 呼和浩特新闻综合,https://livestream-bt.nmtv.cn/nmtv/2331general.m3u8?txSecret=4d7342ca5cd74480526ab6d292247aff&txTime=771E8800
 包头新闻综合,https://livestream-bt.nmtv.cn/nmtv/2358general.m3u8?txSecret=98390a77c143a68f0fd64bfe6e181dcb&txTime=771E8800
