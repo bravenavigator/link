@@ -309,6 +309,9 @@ CCTV3综艺,http://58.19.38.162:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive
 CCTV风云足球,http://58.19.38.162:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV6电影,http://58.19.38.162:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV8电视剧,http://58.19.38.162:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4中文国际,http://58.19.38.162:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5体育,http://58.19.38.162:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7国防军事,http://58.19.38.162:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1综合,http://42.48.50.138:9002/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3综艺,http://59.48.75.130:3052/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2财经,http://59.48.75.130:3052/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
