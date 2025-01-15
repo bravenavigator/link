@@ -1638,6 +1638,7 @@ CGTN英语,http://122.138.32.222:9999/tsfile/live/1055_1.m3u8?key=txiptv&playliv
 凤凰资讯,http://171.38.65.171:8181/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+凤凰资讯,http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰资讯,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 凤凰中文,http://ali.hlspull.yximgs.com/live/diyp_fh2.flv
@@ -1945,8 +1946,8 @@ Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
 江苏教育,https://025365.xyz:8082/jstv.php?id=jsty
 江苏综艺,http://106.111.244.151:5001/tsfile/live/0001_3.m3u8?key=txiptv&playlive=1&authid=0
 江苏体育休闲,http://106.111.244.151:5001/tsfile/live/0001_4.m3u8?key=txiptv&playlive=1&authid=0
-江苏城市,http://58.220.219.14:9901/tsfile/live/0120_3.m3u8
-江苏综艺,http://58.220.219.14:9901/tsfile/live/0120_4.m3u8
+江苏城市,http://58.220.219.14:9901/tsfile/live/0120_3.m3u8?key=txiptv&playlive=1&authid=0
+江苏综艺,http://58.220.219.14:9901/tsfile/live/0120_4.m3u8?key=txiptv&playlive=1&authid=0
 江苏体育休闲,http://58.221.214.82:9901/tsfile/live/0006_2.m3u8?key=txiptv&playlive=1&authid=0
 江苏综艺,http://58.221.214.82:9901/tsfile/live/0005_2.m3u8?key=txiptv&playlive=1&authid=0
 江苏城市,http://58.221.214.82:9901/tsfile/live/0004_2.m3u8?key=txiptv&playlive=1&authid=0
@@ -2277,6 +2278,7 @@ Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
 福建乡村振兴公共,http://110.80.17.38:9901/tsfile/live/0130_1.m3u8
 福建旅游,http://110.80.17.38:9901/tsfile/live/0138_1.m3u8
 福州综合,http://117.27.190.42:9998/tsfile/live/23301_1.m3u8?key=txiptv&playlive=1&authid=0
+福建公共,http://117.27.190.42:9998/tsfile/live/23285_1.m3u8?key=txiptv&playlive=1&authid=0
 福建文体,http://117.27.190.42:9998/tsfile/live/23291_1.m3u8?key=txiptv&playlive=1&authid=0
 福建新闻,http://117.27.190.42:9998/tsfile/live/23286_1.m3u8?key=txiptv&playlive=1&authid=0
 福建旅游,http://117.27.190.42:9998/tsfile/live/23288_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -2284,9 +2286,13 @@ Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
 福建新闻,http://8.138.7.223/tv/fjtv.php?id=13
 福建旅游,http://8.138.7.223/tv/fjtv.php?id=8
 福建文体,http://8.138.7.223/tv/fjtv.php?id=10
+福州综合,http://117.27.190.42:9998/tsfile/live/23301_1.m3u8?key=txiptv&playlive=1&authid=0
 福州新闻,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 福州生活,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
+南平综合,http://117.27.190.42:9998/tsfile/live/23295_1.m3u8?key=txiptv&playlive=1&authid=0
+宁德综合,http://117.27.190.42:9998/tsfile/live/23296_1.m3u8?key=txiptv&playlive=1&authid=0
+龙岩综合,http://117.27.190.42:9998/tsfile/live/23297_1.m3u8?key=txiptv&playlive=1&authid=0
 莆田1套,http://106.53.99.30/dl/ptbtv.php?id=4
 莆田2套,http://106.53.99.30/dl/ptbtv.php?id=5
 三明综合,http://live.zzyxxw.com:85/live/xwzh.m3u8
