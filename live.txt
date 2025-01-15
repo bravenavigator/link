@@ -2542,7 +2542,6 @@ Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
 河北都市,http://121.19.134.200:808/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 河北农民,http://121.19.134.200:808/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 河北杂技,http://121.19.134.200:808/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-石家庄鹿泉综合,https://jwliveqxzb.hebyun.com.cn/luquanyi/luquanyi.m3u8
 张家口一套,http://nlive.zjkgdcs.com:8091/live/xwzhpd.m3u8
 秦皇岛昌黎综合,https://jwliveqxzb.hebyun.com.cn/clzhpd/clzhpd.m3u8
 唐山迁西综合,https://jwliveqxzb.hebyun.com.cn/qxzhpd/qxzhpd.m3u8
