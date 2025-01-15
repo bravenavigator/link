@@ -570,6 +570,7 @@ CCTV高尔夫网球,http://122.138.32.222:9999/tsfile/live/1037_1.m3u8?key=txipt
 CCTV央视台球,http://122.138.32.222:9999/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV风云足球,http://113.57.20.158:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 CETV中国教育1,http://113.57.20.158:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+CETV中国教育1,http://121.19.134.227:808/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV风云足球,http://120.238.94.10:9901/tsfile/live/1087_1.m3u8
 CCTV4美洲,http://z.b.bkpcp.top/m.php?id=cctv4m
 CCTV4欧洲,http://z.b.bkpcp.top/m.php?id=cctv4o
@@ -2132,6 +2133,7 @@ Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
 金鹰纪实,http://218.76.32.193:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰纪实,http://223.166.234.215:7777/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰纪实,http://113.57.109.48:1111/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰纪实,http://121.19.134.227:808/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰纪实,http://gmxw.7766.org:808/hls/171/index.m3u8
 快乐垂钓,http://61.138.167.36:9901/tsfile/live/1054_1.m3u8
 快乐垂钓,http://113.57.109.48:1111/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -2540,11 +2542,19 @@ Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
 濮阳南乐综合,http://live.dxhmt.cn:9081/tv/10923-1.m3u8
 商丘永城新闻,http://live.dxhmt.cn:9081/tv/11481-1.m3u8
 📺　河北,#genre#
+河北经济生活,http://121.19.134.227:808/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+河北都市,http://121.19.134.227:808/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+河北公共,http://121.19.134.227:808/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+河北影视剧,http://121.19.134.227:808/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+河北杂技,http://121.19.134.227:808/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+河北农民,http://121.19.134.227:808/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+河北少儿科教,http://121.19.134.227:808/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 河北公共,http://121.19.134.200:808/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 河北经济生活,http://121.19.134.200:808/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 河北都市,http://121.19.134.200:808/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 河北农民,http://121.19.134.200:808/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 河北杂技,http://121.19.134.200:808/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+保定新闻综合,http://121.19.134.227:808/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 张家口一套,http://nlive.zjkgdcs.com:8091/live/xwzhpd.m3u8
 秦皇岛昌黎综合,https://jwliveqxzb.hebyun.com.cn/clzhpd/clzhpd.m3u8
 唐山迁西综合,https://jwliveqxzb.hebyun.com.cn/qxzhpd/qxzhpd.m3u8
