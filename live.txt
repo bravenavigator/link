@@ -1659,7 +1659,7 @@ Astro剧集台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 生活时尚,http://61.138.167.36:9901/tsfile/live/1021_1.m3u8
 生活时尚,http://223.166.234.78:7777/tsfile/live/1051_1.m3u8
 生活时尚,http://104.244.79.187:62115/itv/5000000002000019634.m3u8?cdn=bestzb
-法制天地,http://61.173.144.157:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+法治天地,http://61.173.144.157:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 法治天地,http://61.138.167.36:9901/tsfile/live/1024_1.m3u8
 法治天地,http://223.166.234.78:7777/tsfile/live/1035_1.m3u8
 法治天地,http://104.244.79.187:62115/itv/9001547084732463424.m3u8?cdn=bestzb
