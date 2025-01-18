@@ -2312,14 +2312,14 @@ Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
 河南新农村,http://504099760.qicp.vip:9901/tsfile/live/1058_1.m3u8
 精彩中原,http://504099760.qicp.vip:9901/tsfile/live/1059_1.m3u8
 移动戏曲,http://504099760.qicp.vip:9901/tsfile/live/1060_1.m3u8
-梨园频道,http://504099760.qicp.vip:9901/tsfile/live/1061_1.m3u8
+河南戏曲,http://504099760.qicp.vip:9901/tsfile/live/1061_1.m3u8
 百姓调解,http://504099760.qicp.vip:9901/tsfile/live/1065_1.m3u8
 风尚河南,http://504099760.qicp.vip:9901/tsfile/live/1066_1.m3u8
 武术世界,http://504099760.qicp.vip:9901/tsfile/live/1062_1.m3u8
 河南公共,http://123.7.110.43:9901/tsfile/live/0124_1.m3u8
 河南都市,http://123.7.110.43:9901/tsfile/live/1026_1.m3u8
 河南民生,http://123.7.110.43:9901/tsfile/live/1027_1.m3u8
-河南梨园,http://123.7.110.43:9901/tsfile/live/1005_1.m3u8
+河南戏曲,http://123.7.110.43:9901/tsfile/live/1005_1.m3u8
 河南法制,http://123.7.110.43:9901/tsfile/live/1028_1.m3u8
 河南电视剧,http://123.7.110.43:9901/tsfile/live/1029_1.m3u8
 武术世界,http://live.dxhmt.cn:9080/live/yshnpre.m3u8
