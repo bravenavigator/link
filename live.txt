@@ -2307,6 +2307,15 @@ Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
 松桃综艺,http://live.strmtzx.cn/stxw/playlist.m3u8
 毕节七星关综合,https://p8.vzan.com:443/slowlive/147077707554082780/live.m3u8
 📺　河南,#genre#
+河南都市频道,http://504099760.qicp.vip:9901/tsfile/live/1051_1.m3u8
+河南民生频道,http://504099760.qicp.vip:9901/tsfile/live/1052_1.m3u8
+河南法制频道,http://504099760.qicp.vip:9901/tsfile/live/1053_1.m3u8
+河南电视剧频道,http://504099760.qicp.vip:9901/tsfile/live/1054_1.m3u8
+河南新闻频道,http://504099760.qicp.vip:9901/tsfile/live/1055_1.m3u8
+欢腾购物,http://504099760.qicp.vip:9901/tsfile/live/1056_1.m3u8
+河南公共频道,http://504099760.qicp.vip:9901/tsfile/live/1057_1.m3u8
+河南新农村频道,http://504099760.qicp.vip:9901/tsfile/live/1058_1.m3u8
+
 河南新闻,http://49.232.131.30:99/dxxw.php?id=hnxw
 河南都市,http://49.232.131.30:99/dxxw.php?id=hnds
 河南民生,http://49.232.131.30:99/dxxw.php?id=hnms
