@@ -682,13 +682,6 @@ CETV中国教育4,http://gmxw.7766.org:808/hls/79/index.m3u8
 深圳卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/szws-hd/2500.m3u8?innersid=15000776628606995758&amp
 浙江卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/zsws-hd/2500.m3u8?innersid=6252212644869032383&amp
 云南卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/ynws-hd/2500.m3u8?innersid=17488930753778751907&amp
-陕西卫视,http://cssbyd.imwork.net:8082/hls/42/index.m3u8
-山西卫视,http://cssbyd.imwork.net:8082/hls/43/index.m3u8
-内蒙古卫视,http://cssbyd.imwork.net:8082/hls/44/index.m3u8
-宁夏卫视,http://cssbyd.imwork.net:8082/hls/45/index.m3u8
-西藏卫视,http://cssbyd.imwork.net:8082/hls/46/index.m3u8
-新疆卫视,http://cssbyd.imwork.net:8082/hls/47/index.m3u8
-甘肃卫视,http://cssbyd.imwork.net:8082/hls/48/index.m3u8
 安徽卫视,http://115.149.139.141:10001/tsfile/live/1028_1.m3u8?blog.ntnas.top
 吉林卫视,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/1.m3u8
 山西卫视,http://113.25.252.226:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
