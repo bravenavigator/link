@@ -876,7 +876,6 @@ CETV中国教育4,http://gmxw.7766.org:808/hls/79/index.m3u8
 湖南卫视,http://223.241.247.214:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://223.241.247.214:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://223.241.247.214:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视,http://113.218.204.28:8081/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
 安徽卫视,http://180.142.144.54:8181/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 江西卫视 ,http://180.142.144.54:8181/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://180.142.144.54:8181/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1329,7 +1328,6 @@ CGTN法语,https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LS
 CGTN阿语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
 CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 CGTN纪录,http://183.223.157.33:9901/tsfile/live/0017_1.m3u8
-CGTN纪录,http://113.218.204.28:8081/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 CGTN英语,https://0472.org/hls/cgtn.m3u8
 CGTN纪录,https://0472.org/hls/cgtnd.m3u8
 CGTN俄语,https://0472.org/hls/cgtne.m3u8
@@ -1924,7 +1922,6 @@ Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
 金鹰卡通,http://175.10.230.91:8081/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://60.30.73.2:59901/tsfile/live/0001_33.m3u8
 金鹰卡通,http://61.138.128.226:19901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
-金鹰卡通,http://113.218.204.28:8081/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 岳阳新闻综合,http://110.52.244.53:9003//hls/30/index.m3u8
 岳阳公共,http://110.52.244.53:9003//hls/31/index.m3u8
 岳阳汨罗综合,https://liveplay-srs.voc.com.cn/hls/tv/166_a4ad1b.m3u8
