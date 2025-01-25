@@ -1129,8 +1129,6 @@ ViuTV 96,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
 HOY TV,http://cdn.163189.xyz/live/hoy/stream.m3u8
 HOY TV,http://cdn.132.us.kg/live/hoy/stream.m3u8
 HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-Now爆谷台,http://ali.hlspull.yximgs.com/live/c7db639b2028723c38f9de61dc2ba12d.flv
-Now星影台,http://ali.hlspull.yximgs.com/live/82228730605d193cb9930fd97c823e5c.flv
 NOW爆谷台,http://205.185.123.236:8899/1/baogutai/baogu.m3u8
 RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
 RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
@@ -1143,7 +1141,7 @@ RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/st
 RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
 澳门Macau,http://cdn.163189.xyz/live/as/stream.m3u8
 澳门Macau,http://61.244.22.5/ch3/ch3.live/chunklist.m3u8
-澳视澳门,http://cdn.132.us.kg/live/asam/stream.m3u8
+澳视澳门,https://cdn.163189.xyz/live/asam/stream.m3u8
 澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
 澳视澳门,http://mzitv.cn:9931/tsfile/live/1043_1.m3u8
 澳门莲花,http://php.jdshipin.com:8880/amlh.php
