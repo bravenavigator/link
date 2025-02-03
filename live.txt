@@ -1071,13 +1071,16 @@ CGTN英语,http://122.138.32.222:9999/tsfile/live/1055_1.m3u8?key=txiptv&playliv
 广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
 广东珠江,http://huangtong-com.cn:9902/tsfile/live/1010_1.m3u8
 广东珠江,http://cdn2.132.us.kg/live/gdzj/stream.m3u8
+广东珠江,http://113.86.205.59:808/hls/105/index.m3u8
 广东珠江,http://222.128.55.152:9080/live/gdzj.m3u8
 广东珠江,http://218.13.170.98:9901/tsfile/live/1000_1.m3u8
 广东珠江,http://120.238.94.10:9901/tsfile/live/1009_1.m3u8
 广东珠江,http://183.239.236.91:8088/hls/57/index.m3u8
 广东民生,http://huangtong-com.cn:9902/tsfile/live/1012_1.m3u8
+广东民生,http://113.86.205.59:808/hls/107/index.m3u8
 广东民生,http://222.128.55.152:9080/live/gdms.m3u8
 经济科教,http://huangtong-com.cn:9902/tsfile/live/1014_1.m3u8
+经济科教,http://113.86.205.59:808/hls/129/index.m3u8
 广东影视,http://222.128.55.152:9080/live/gdys.m3u8
 广东影视,http://222.218.159.35:8181/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 广东影视,http://183.239.236.91:8088/hls/39/index.m3u8
@@ -1087,6 +1090,7 @@ CGTN英语,http://122.138.32.222:9999/tsfile/live/1055_1.m3u8?key=txiptv&playliv
 广东体育,http://222.128.55.152:9080/live/gdty.m3u8
 广东体育,http://120.238.94.10:9901/tsfile/live/1012_1.m3u8
 广东少儿,http://113.81.20.157:10443/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+岭南戏曲,http://113.86.205.59:808/hls/22/index.m3u8
 岭南戏曲,http://183.239.226.235:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 大湾区卫视,http://183.11.239.36:808/hls/132/index.m3u8
 大湾区卫视,http://222.128.55.152:9080/live/dwq.m3u8
@@ -1151,6 +1155,7 @@ CGTN英语,http://122.138.32.222:9999/tsfile/live/1055_1.m3u8?key=txiptv&playliv
 东莞生活资讯,https://stream.sun0769.com/dgrtv1/mp4tv2_800/index.m3u8
 东莞新闻综合,http://php.jdshipin.com:8880/0769.php?id=xwzh
 东莞生活资讯,http://php.jdshipin.com:8880/0769.php?id=shzx
+湛江公共,http://113.86.205.59:808/hls/3/index.m3u8
 汕尾综合,http://183.239.226.235:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
 韶关综合,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
 ✨　港澳,#genre#
