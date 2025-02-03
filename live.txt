@@ -476,17 +476,6 @@ CETV中国教育4,http://gmxw.7766.org:808/hls/79/index.m3u8
 康巴卫视,http://127.0.0.1
 安多卫视,http://127.0.0.1
 延边卫视,http://127.0.0.1
-湖南卫视,http://tvpull.careryun.com/tv/cn_hunws.m3u8
-安徽卫视,http://tvpull.careryun.com/tv/ahws.m3u8
-北京卫视,http://tvpull.careryun.com/tv/cn_bjws.m3u8
-吉林卫视,http://tvpull.careryun.com/tv/jlws.m3u8
-天津卫视,http://tvpull.careryun.com/tv/cn_tjws.m3u8
-山东卫视,http://tvpull.careryun.com/tv/hbws.m3u8
-广西卫视,http://tvpull.careryun.com/tv/cn_gxws.m3u8
-深圳卫视,http://tvpull.careryun.com/tv/cn_szws.m3u8
-贵州卫视,http://tvpull.careryun.com/tv/cn_gzws.m3u8
-重庆卫视,http://tvpull.careryun.com/tv/cn_cqws.m3u8
-黑龙江卫视,http://tvpull.careryun.com/tv/cn_hljws.m3u8
 东方卫视,http://222.218.159.203:8181/tsfile/live/faacts/1102_1.m3u8?key=txiptv&playlive=1&authid=0
 安徽卫视,http://222.218.159.203:8181/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 江西卫视,http://222.218.159.203:8181/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
