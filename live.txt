@@ -144,7 +144,7 @@ CCTV12社会与法,http://171.124.183.237:8899/tsfile/live/0012_1.m3u8?key=txipt
 CCTV5体育,http://171.124.183.237:8899/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV14少儿,http://171.124.183.237:8899/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV8电视剧,http://171.124.183.237:8899/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5+体育高清,http://171.124.183.237:8899/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+体育赛事http://171.124.183.237:8899/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV6电影,http://171.124.183.237:8899/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4中文国际,http://171.124.183.237:8899/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV10科教,http://171.124.183.237:8899/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
