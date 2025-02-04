@@ -396,7 +396,6 @@ CETV中国教育1,http://113.57.20.158:9901/tsfile/live/1018_1.m3u8?key=txiptv&p
 CCTV风云足球,http://120.238.94.10:9901/tsfile/live/1087_1.m3u8
 中国交通,http://122.138.32.222:9999/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 CETV中国教育4,http://121.19.134.139:808/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4K高清,http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/8cdd688b04e4495ba1635e218419d6f9/4000.m3u8
 CETV中国教育1,http://504099760.qicp.vip:9901/tsfile/live/1050_1.m3u8
 CCTV重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 CCTV重温经典,http://cdn3.132.us.kg/live/cwjd/stream.m3u8
@@ -419,7 +418,6 @@ CETV早期教育,http://183.11.239.36:808/hls/100/index.m3u8
 CETV中国教育1,http://183.11.239.36:808/hls/122/index.m3u8
 CETV中国教育4,http://183.11.239.36:808/hls/79/index.m3u8
 中国交通,http://183.11.239.36:808/hls/172/index.m3u8
-CETV中国教育3,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226577/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EhE2Z89HKgsQOlN9opVn1iw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNN03yUnk4zBVk1bynPPL3hZ%2CEND
 CCTV4美洲,http://gmxw.7766.org:808/hls/71/index.m3u8
 CCTV4欧洲,http://gmxw.7766.org:808/hls/67/index.m3u8
 CCTV风云剧场,http://gmxw.7766.org:808/hls/95/index.m3u8
@@ -1200,19 +1198,10 @@ RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/st
 Astro剧集台,https://cdn9.163189.xyz/smt1.1.php?id=Aodhd
 星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 📺　北京,#genre#
-北京新闻,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226437/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EncK5uEAdYwWMsf8WJWI1mQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO_LSIQh_h2P54Cz-MqgJqC%2CEND
-北京财经,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226516/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eh9_SEkmWeMdS1TMnIILZgg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPIiicEW7OIvk1s-X-PXHqO%2CEND
-北京文艺,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226440/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EWrJcgMpdGPvZavpf4dmmrQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNhmwDsUZnvQgU5E5wiGA2g%2CEND
-北京国际,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226510/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EIfgL7tTUNqHAIdgvKuwj8A%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPr9j5nfyiWS_jEXD6m401A%2CEND
-北京影视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226433/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EygquRbh9L0wUPRY53fsZWw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO62IynDcU1yYDL1b4Xte8T%2CEND
-北京体育休闲,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226438/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EeVAybrHg955d_IRT9e_uHQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMLCKqkSfuGOusJwBMwlCbz%2CEND
 北京纪实科教,http://114.243.103.165:8822/rtp/239.3.1.115:8000
 北京纪实科教8K,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
-北京卡酷少儿,http://223.166.234.78:7777/tsfile/live/1044_1.m3u8
 北京卡酷少儿,http://60.30.73.2:59901/tsfile/live/0001_30.m3u8
 北京卡酷少儿,http://61.138.128.226:19901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
-北京淘电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND
-北京淘剧场,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQaJ92NID2SpQlY6_VJVogg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOuQYJeiYEeFWTkFfE86Vq-%2CEND
 睛彩篮球,http://122.138.32.222:9999/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
 睛彩羽毛球,http://122.138.32.222:9999/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&authid=0
 📺　上海,#genre#
