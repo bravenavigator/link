@@ -432,7 +432,6 @@ CETV中国教育4,http://gmxw.7766.org:808/hls/79/index.m3u8
 延边卫视,http://127.0.0.1
 陕西卫视,http://wan.wlzsyw.cn:885/hls/46/index.m3u8
 东方卫视,http://222.218.159.203:8181/tsfile/live/faacts/1102_1.m3u8?key=txiptv&playlive=1&authid=0
-云南卫视,http://106.46.38.151:808/hls/79/index.m3u8
 云南卫视,http://39.164.160.249:9901/tsfile/live/0119_1.m3u8
 北京卫视,http://113.57.111.4:1111/tsfile/live/1017_1.m3u8
 安徽卫视,http://222.218.159.203:8181/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
