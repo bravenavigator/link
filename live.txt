@@ -819,7 +819,7 @@ CGTN俄语,http://127.0.0.1
 CGTN西语,http://127.0.0.1
 CGTN阿语,http://127.0.0.1
 CGTN纪录,http://127.0.0.1
-CGTN英语,http://58.19.43.46:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+CGTN英语,http://119.36.148.115:59901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 CGTN法语,https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
 CGTN阿语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
 CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
@@ -829,7 +829,6 @@ CGTN纪录,https://0472.org/hls/cgtnd.m3u8
 CGTN俄语,https://0472.org/hls/cgtne.m3u8
 CGTN法语,https://0472.org/hls/cgtnf.m3u8
 CGTN西语,https://0472.org/hls/cgtnx.m3u8
-CGTN阿语,https://0472.org/hls/cgtna.m3u8
 CGTN英语,http://gmxw.7766.org:808/hls/77/index.m3u8
 CGTN西语,http://gmxw.7766.org:808/hls/81/index.m3u8
 CGTN法语,http://gmxw.7766.org:808/hls/82/index.m3u8
@@ -837,13 +836,6 @@ CGTN阿语,http://gmxw.7766.org:808/hls/84/index.m3u8
 CGTN俄语,http://gmxw.7766.org:808/hls/85/index.m3u8
 CGTN俄语,http://1.24.190.98:10080/hls/21/index.m3u8
 CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
-CGTN英语,http://pi.0472.org/live/cgtn.m3u8?token=240413
-CGTN纪录,http://pi.0472.org/live/cgtnjl.m3u8?token=240413
-CGTN西语,http://pi.0472.org/live/cgtne.m3u8?token=240413
-CGTN法语,http://pi.0472.org/live/cgtnf.m3u8?token=240413
-CGTN阿语,http://pi.0472.org/live/cgtna.m3u8?token=240413
-CGTN俄语,http://pi.0472.org/live/cgtnr.m3u8?token=240413
-CGTN英语,http://122.138.32.222:9999/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0
 📺　广东,#genre#
 广东新闻,http://huangtong-com.cn:9902/tsfile/live/1011_1.m3u8
 广东新闻,http://219.159.194.194:8181/tsfile/live/1005_1.m3u8
