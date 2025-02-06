@@ -43,7 +43,7 @@ CETV中国教育4,http://127.0.0.1
 中国天气,http://127.0.0.1
 CCTV重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 CCTV1综合,http://175.9.75.108:9998/tsfile/live/0001_1.m3u8
-CCTV4国际,http://175.9.75.108:9998/tsfile/live/0004_1.m3u8
+CCTV4中文国际,http://175.9.75.108:9998/tsfile/live/0004_1.m3u8
 CCTV5体育,http://175.9.75.108:9998/tsfile/live/0005_1.m3u8
 CCTV6电影,http://175.9.75.108:9998/tsfile/live/0006_1.m3u8
 CCTV7国防军事,http://175.9.75.108:9998/tsfile/live/0007_1.m3u8
@@ -53,8 +53,8 @@ CCTV10科教,http://175.9.75.108:9998/tsfile/live/0010_1.m3u8
 CCTV13新闻,http://175.9.75.108:9998/tsfile/live/0013_1.m3u8
 CCTV1综合,http://183.215.211.219:9998/tsfile/live/1060_1.m3u8
 CCTV2财经,http://183.215.211.219:9998/tsfile/live/1011_1.m3u8
-cctv3综艺,http://183.215.211.219:9998/tsfile/live/1029_1.m3u8
-CCTV4国际,http://183.215.211.219:9998/tsfile/live/0004_1.m3u8
+CCTV3综艺,http://183.215.211.219:9998/tsfile/live/1029_1.m3u8
+CCTV4中文国际,http://183.215.211.219:9998/tsfile/live/0004_1.m3u8
 CCTV5体育,http://183.215.211.219:9998/tsfile/live/1001_1.m3u8
 CCTV6电影,http://183.215.211.219:9998/tsfile/live/0006_1.m3u8
 CCTV7国防军事,http://183.215.211.219:9998/tsfile/live/faacts/0007_1.m3u8
