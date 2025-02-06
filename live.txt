@@ -1518,6 +1518,8 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 湖南娱乐,http://cssbyd.imwork.net:8082/hls/20/index.m3u8
 金鹰卡通,http://cssbyd.imwork.net:8082/hls/14/index.m3u8
 金鹰卡通,http://60.30.73.2:59901/tsfile/live/0001_33.m3u8
+金鹰卡通,http://182.114.189.5:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://42.238.235.104:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://61.138.128.226:19901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 岳阳汨罗综合,https://liveplay-srs.voc.com.cn/hls/tv/166_a4ad1b.m3u8
 湘潭新闻综合,http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
