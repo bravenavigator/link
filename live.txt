@@ -494,7 +494,7 @@ CCTV央视台球,http://113.118.15.210:808/hls/174/index.m3u8
 CCTV风云音乐,http://113.118.15.210:808/hls/99/index.m3u8
 CCTV央视文化精品,http://113.118.15.210:808/hls/97/index.m3u8
 CETV早期教育,http://113.118.15.210:808/hls/100/index.m3u8
-CETV早期教育4,http://113.118.15.210:808/hls/79/index.m3u8
+CETV中国教育4,http://113.118.15.210:808/hls/79/index.m3u8
 CCTV怀旧剧场,http://113.118.15.210:808/hls/92/index.m3u8
 CCTV风云剧场,http://113.118.15.210:808/hls/95/index.m3u8
 CCTV女性时尚,http://113.118.15.210:808/hls/12/index.m3u8
@@ -540,7 +540,7 @@ CCTV1综合,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV1HD/index.m3u8?gMac=unknown&livo
 CCTV5体育,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV5_HD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
 CCTV6电影,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV6_HD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
 CCTV9纪录,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV9HD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
-CCTV2社会与法,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV2HD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
+CCTV2财经,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV2HD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
 CCTV3综艺,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV3_HD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
 CCTV4中文国际,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV4HD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
 CCTV8电视剧,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV8_HD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
