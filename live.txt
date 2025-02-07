@@ -1134,6 +1134,7 @@ CETV中国教育4,http://gmxw.7766.org:808/hls/79/index.m3u8
 海南卫视,http://504099760.qicp.vip:9901/tsfile/live/0114_1.m3u8
 兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=35f2dd39972cede5222c6bd2c0efe24b&txTime=77395680
+新疆卫视,http://jxcbn.ws-cdn.gitv.tv/hls/XJWS/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
 兵团卫视,http://jxcbn.ws-cdn.gitv.tv/hls/BTWS/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
 宁夏卫视,http://jxcbn.ws-cdn.gitv.tv/hls/NXWS/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
@@ -2146,12 +2147,16 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 河北杂技,http://121.19.134.200:808/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 河北少儿科教,http://121.19.134.200:808/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 河北杂技,http://121.19.134.200:808/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-河北农民,http://121.19.134.200:808/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-河北公共,http://121.19.134.200:808/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 河北都市,http://121.19.134.222:808/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 河北影视剧,http://121.19.134.222:808/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 河北农民,http://121.19.134.222:808/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 河北少儿科教,http://121.19.134.222:808/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+河北经济生活,http://106.116.242.178:9999/rtp/239.254.200.18:6000
+河北公共,http://106.116.242.178:9999/rtp/239.254.200.22:6000
+河北农民,http://106.116.242.178:9999/rtp/239.254.200.23:6000
+河北都市,http://106.116.242.178:9999/rtp/239.254.200.19:6000
+河北少儿科教,http://106.116.242.178:9999/rtp/239.254.200.21:6000
+河北影视剧,http://106.116.242.178:9999/rtp/239.254.200.20:6000
 张家口一套,http://nlive.zjkgdcs.com:8091/live/xwzhpd.m3u8
 秦皇岛昌黎综合,https://jwliveqxzb.hebyun.com.cn/clzhpd/clzhpd.m3u8
 唐山迁西综合,https://jwliveqxzb.hebyun.com.cn/qxzhpd/qxzhpd.m3u8
