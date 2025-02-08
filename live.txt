@@ -1452,6 +1452,7 @@ Astro剧集台,https://cdn9.163189.xyz/smt1.1.php?id=Aodhd
 中视新闻,http://50.7.234.10:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd
 中视台湾,rtmp://f13h.mine.nu/sat/tv091
 东森超视,rtmp://f13h.mine.nu/sat/tv331
+东森电影,http://ali.hlspull.yximgs.com/live/huanqiuhktvqowjxnqltjqhecvxcqqeqqeqyhqjyjuoquomjfqhqqqjqsqy.flv
 东森洋片,http://ali.hlspull.yximgs.com/live/huanqiuhktvqmqptjqqxfqwetqvbqstqqqsutyhjqhflqqfhfhyqwqsyp.flv
 非凡新闻,rtmp://f13h.mine.nu/sat/tv581
 TVBS,http://fm1077.serv00.net/Smart.php?id=tvbs
@@ -1502,7 +1503,6 @@ TVBS欢乐,https://haoyunlai.serv00.net/Smartv-1.php?id=tvbshuanle_twn
 龙华电影,http://cdn5.1689.us.kg/litv.php?id=litv-longturn03
 龙华电影,http://cdn5.163189.xyz/litv.php?id=litv-longturn03
 龙祥电影,http://ali.hlspull.yximgs.com/live/huanqiuhktvmqloehqbqqqpvboyjetqewsqhthqyuqfqwetyqqqhflxsq.flv
-东森电影,http://ali.hlspull.yximgs.com/live/huanqiuhktvqowjxnqltjqhecvxcqqeqqeqyhqjyjuoquomjfqhqqqjqsqy.flv
 龙华洋片,http://ali.hlspull.yximgs.com/live/huanqiuhktvqeqcxlvofbqbvbqqqfqvqhslcfvxcvxsqbcvqfjvsfcbqbnqtyxty.flv
 龙华偶像,http://cdn5.1689.us.kg/litv.php?id=litv-longturn12
 龙华戏剧,http://cdn5.1689.us.kg/litv.php?id=litv-longturn18
@@ -1511,7 +1511,6 @@ TVBS欢乐,https://haoyunlai.serv00.net/Smartv-1.php?id=tvbshuanle_twn
 龙华日韩,http://cdn5.1689.us.kg/litv.php?id=litv-longturn11
 龙华日韩,http://cdn5.163189.xyz/litv.php?id=litv-longturn11
 龙华卡通,http://cdn5.163189.xyz/litv.php?id=litv-longturn01
-ELTA影剧,http://ali.hlspull.yximgs.com/live/huanqiuhktvsfbxcvqsfqjhnfcvbsxqjnqsvmvbsqqqfjhyuqmqbvnqslhxj.flv
 星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
@@ -1522,11 +1521,11 @@ ELTA影剧,http://ali.hlspull.yximgs.com/live/huanqiuhktvsfbxcvqsfqjhnfcvbsxqjnq
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 ELEVEN1台,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN2台,rtmp://f13h.mine.nu/sat/tv741
+ELTA影剧,http://ali.hlspull.yximgs.com/live/huanqiuhktvsfbxcvqsfqjhnfcvbsxqjnqsvmvbsqqqfjhyuqmqbvnqslhxj.flv
 ELTA体育3,rtmp://9hv9.mine.nu/sat/md011
 ELTA体育4,rtmp://9hv9.mine.nu/sat/md021
 MOMO综合,rtmp://f13h.mine.nu/sat/tv761
 GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
-TAIWAN Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 📺　江苏,#genre#
 江苏新闻,http://58.221.214.82:9901/tsfile/live/0009_2.m3u8?key=txiptv&playlive=1&authid=0
