@@ -1444,6 +1444,7 @@ Astro剧集台,https://cdn9.163189.xyz/smt1.1.php?id=Aodhd
 中天娱乐,http://50.7.234.10:8278/ctient/playlist.m3u8?tid=MC9C7081133170811331&ct=19249&tsum=8b08b54208f3ee30e12f419d587f46ac
 中天娱乐,http://125.229.9.67:8526/http/220.130.87.218:8081/hls/67/809/ch026.m3u8
 中天娱乐,http://211.75.171.121:8551/http/61.67.128.137:8081/hls/67/809/ch026.m3u8
+中天娱乐,http://211.75.171.121:8527/http/61.67.128.137:8081/hls/65/807/ch017.m3u8
 中天娱乐,http://fm1077.serv00.net/Smart.php?id=ctient
 中天娱乐,https://haoyunlai.serv00.net/Smartv-1.php?id=ctient
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
@@ -1510,7 +1511,7 @@ TVBSᴴᴰ,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 TVBSᴴᴰ,https://haoyunlai.serv00.net/Smartv-1.php?id=tvbs
 TVBS新闻,http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MEFE5283322452833224&ct=19226&tsum=5f4e9bb0782ab3aae36328763cba2ffd
 TVBS新闻,http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733&ct=19193&tsum=38970ab977b9e318cbead37db4134eb8
-Tvbs新闻,http://125.229.9.67:8543/http/220.130.87.218:8081/hls/75/817/ch059.m3u8
+TVBS新闻,http://125.229.9.67:8543/http/220.130.87.218:8081/hls/75/817/ch059.m3u8
 TVBS新闻,http://fm1077.serv00.net/Smart.php?id=tvbs_n
 TVBS新闻,http://211.75.171.121:8574/http/61.67.128.137:8081/hls/75/817/ch059.m3u8
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
@@ -1524,7 +1525,6 @@ TVBS亚洲,https://haoyunlai.serv00.net/Smartv-1.php?id=Tvbasia
 TVBS欢乐,http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MBCB7220883472208834&ct=19234&tsum=82bece8e29754b899ffb60e5246dfc74
 TVBS欢乐,http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111409641114096&ct=19225&tsum=600f3056bba6413dec3155efd19e2d20
 TVBS欢乐,http://125.229.9.67:8531/http/220.130.87.218:8081/hls/65/807/ch017.m3u8
-TVBS欢乐,http://211.75.171.121:8527/http/61.67.128.137:8081/hls/65/807/ch017.m3u8
 TVBS欢乐,http://fm1077.serv00.net/Smart.php?id=tvbshuanle_twn
 TVBS欢乐,https://haoyunlai.serv00.net/Smartv-1.php?id=tvbshuanle_twn
 台视ᴴᴰ,http://ali.hlspull.yximgs.com/live/huanqiuhktvpteqfsxlvcqjewqqqpsqfvvxcqqqpfossvbxcfqqtqvxqhlts.flv
