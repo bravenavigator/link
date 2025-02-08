@@ -1649,8 +1649,8 @@ ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
 爱尔达体育3,rtmp://9hv9.mine.nu/sat/md011
 爱尔达体育4,rtmp://9hv9.mine.nu/sat/md021
 爱尔达影剧,http://50.7.234.10:8278/eltadrama_twn/playlist.m3u8?tid=MFDF4206608342066083&ct=19225&tsum=c6e03c86e60731f01aef66e1b32dcc84
-爱尔达影剧,http://50.7.234.10:8278/eltayingju_twn/playlist.m3u8?tid=MFFF8590726285907262&ct=19249&tsum=ae4cb19fed11696df934d6e2489e2978
 爱尔达影剧,http://ali.hlspull.yximgs.com/live/huanqiuhktvsfbxcvqsfqjhnfcvbsxqjnqsvmvbsqqqfjhyuqmqbvnqslhxj.flv
+爱尔达影剧,http://50.7.234.10:8278/eltayingju_twn/playlist.m3u8?tid=MFFF8590726285907262&ct=19249&tsum=ae4cb19fed11696df934d6e2489e2978
 博斯魅力,http://50.7.234.10:8278/bosisport1_twn/playlist.m3u8?tid=MF6F6900999569009995&ct=19225&tsum=1d6e966a02c88867f2a3234f3a980b7d
 博斯运动1,http://50.7.234.10:8278/bosisport1_twn/playlist.m3u8?tid=MDAD4087844840878448&ct=19249&tsum=0a23fd28e83ff8205a515273a4c1b421
 博斯运动2,http://50.7.234.10:8278/bosisport2_twn/playlist.m3u8?tid=ME9E7698135376981353&ct=19249&tsum=9eadcc8585f74357f09f1465844024c9
