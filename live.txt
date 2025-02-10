@@ -1463,11 +1463,11 @@ Astro剧集台,https://cdn9.163189.xyz/smt1.1.php?id=Aodhd
 巫山综合,https://qxlmlive9.cbg.cn/applive/wspd001/chunklist.m3u8
 永川综合,https://qxlmlive9.cbg.cn/applive/yctv01/playlist.m3u8
 ✨　台湾,#genre#
-中天ᴴᴰ,http://211.75.171.121:8521/http/61.67.128.137:8081/hls/67/809/ch025.m3u8
 中天ᴴᴰ,http://50.7.234.10:8278/ctizhonghe/playlist.m3u8?ct=19193&tid=MBBB1520797915207979&tsum=3a6f7f0c591c2ec6678d51b741f290b2
 中天ᴴᴰ,http://50.7.234.10:8278/ctizhonghe/playlist.m3u8?tid=MB6B3888954738889547&ct=19254&tsum=d0cb922e44e8a16bea598530697c581e
 中天ᴴᴰ,http://50.7.234.10:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
 中天ᴴᴰ,http://125.229.9.67:8525/http/220.130.87.218:8081/hls/67/809/ch025.m3u8
+中天ᴴᴰ,http://211.75.171.121:8521/http/61.67.128.137:8081/hls/67/809/ch025.m3u8
 中天ᴴᴰ,http://fm1077.serv00.net/Smart.php?id=ctizhonghe
 中天ᴴᴰ,https://haoyunlai.serv00.net/Smartv-1.php?id=ctizhonghe
 中天新闻,http://211.75.171.121:8534/http/61.67.128.137:8081/hls/78/80/ch063max.m3u8
