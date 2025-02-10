@@ -1097,6 +1097,7 @@ CETV中国教育4,http://gmxw.7766.org:808/hls/79/index.m3u8
 北京卫视,http://175.7.188.144:9901/tsfile/live/23038_1.m3u8
 陕西卫视,http://175.7.188.144:9901/tsfile/live/23039_1.m3u8
 青海卫视,http://175.7.188.144:9901/tsfile/live/23040_1.m3u8
+三沙卫视,http://175.7.188.144:9901/tsfile/live/23034_1.m3u8
 甘肃卫视,http://113.118.15.210:808/hls/119/index.m3u8
 湖南卫视,http://113.118.15.210:808/hls/36/index.m3u8
 江苏卫视,http://113.118.15.210:808/hls/38/index.m3u8
@@ -1387,6 +1388,10 @@ HOY TV,http://cdn.163189.xyz/live/hoy/stream.m3u8
 HOY TV,https://cdn5.163189.xyz/live/hoy/stream.m3u8
 HOY TV,https://cdn.163189.xyz/live/hoy/stream.m3u8
 HOY TV,http://cdn.132.us.kg/live/hoy/stream.m3u8
+Now新闻,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477070.m3u8
+Now财经,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477534.m3u8
+VIUTV粤,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477538.m3u8
+VIUTV英,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476939.m3u8
 RTHK31,https://cdn5.163189.xyz/live/rthk31/stream.m3u8
 RTHK32,https://cdn5.163189.xyz/live/rthk32/stream.m3u8
 RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
@@ -1464,8 +1469,8 @@ Astro剧集台,https://cdn9.163189.xyz/smt1.1.php?id=Aodhd
 中天ᴴᴰ,http://fm1077.serv00.net/Smart.php?id=ctizhonghe
 中天ᴴᴰ,https://haoyunlai.serv00.net/Smartv-1.php?id=ctizhonghe
 中天新闻,http://211.75.171.121:8534/http/61.67.128.137:8081/hls/78/80/ch063max.m3u8
-中天新闻,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/489006.m3u8
 中天新闻,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477695.m3u8
+中天新闻,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/489006.m3u8
 中天新闻,http://125.229.9.67:8540/http/220.130.87.218:8081/hls/78/80/ch063max.m3u8
 中天新闻,http://fm1077.serv00.net/Smart.php?id=ctinews
 中天新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=ctinews
@@ -1493,6 +1498,8 @@ Astro剧集台,https://cdn9.163189.xyz/smt1.1.php?id=Aodhd
 东森ᴴᴰ,http://125.229.9.67:8523/http/220.130.87.218:8081/hls/63/805/ch012.m3u8
 东森ᴴᴰ,https://haoyunlai.serv00.net/Smartv-1.php?id=ettvzhonghe
 东森新闻,http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8
+东森新闻,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476998.m3u8
+东森新闻,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/479200.m3u8
 东森新闻,http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=MAEA2793211727932117&ct=19225&tsum=151345e2ab6bc0c89ac85598f1988cd3
 东森新闻,http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=MD8D8672451386724513&ct=19234&tsum=d08fdb1dd5078503ffd859a065bc9290
 东森新闻,http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
@@ -1525,6 +1532,7 @@ Astro剧集台,https://cdn9.163189.xyz/smt1.1.php?id=Aodhd
 非凡新闻,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
 非凡新闻,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
 非凡新闻,http://125.229.9.67:8545/http/220.130.87.218:8081/hls/75/817/ch057.m3u8
+非凡新闻,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477083.m3u8
 非凡新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=feifannews_twn
 非凡新闻,http://fm1077.serv00.net/Smart.php?id=feifannews_twn
 非凡新闻,rtmp://f13h.mine.nu/sat/tv581
@@ -1534,6 +1542,7 @@ Astro剧集台,https://cdn9.163189.xyz/smt1.1.php?id=Aodhd
 镜新闻,http://125.229.9.67:8552/http/220.130.87.218:8092/upload/114/MNEWS_TS-1111_1.m3u8
 镜新闻,http://211.75.171.121:8554/http/61.67.128.137:8092/upload/114/MNEWS_TS-1111_1.m3u8
 壹新闻,http://211.75.171.121:8549/http/61.67.128.137:8081/hls/66/808/ch024.m3u8
+壹新闻,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477087.m3u8
 寰宇新闻,http://211.75.171.121:8520/http/61.67.128.137:8081/hls/76/818/ch062.m3u8
 寰宇新闻,http://125.229.9.67:8548/http/220.130.87.218:8081/hls/76/818/ch062.m3u8
 寰宇新闻,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476270.m3u8
@@ -1572,6 +1581,7 @@ TVBS欢乐,https://haoyunlai.serv00.net/Smartv-1.php?id=tvbshuanle_twn
 台视新闻,https://live.wcetv.com/hls/m3u8/ttvnews.m3u8
 台视新闻,https://live.wcetv.com/hls/master-ttvnews.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8 
+台视新闻,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476268.m3u8
 台视台湾,rtmp://f13h.mine.nu/sat/tv071
 民视ᴴᴰ,http://50.7.234.10:8278/ftvhd_taiwan/playlist.m3u8?tid=MC8C5908644059086440&ct=19249&tsum=c96d2cd48b11d40ca9e97fb3addb1384
 民视ᴴᴰ,http://50.7.234.10:8278/ftvhd_taiwan/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=8742eae9e34ff529729460b85da292c8
@@ -1579,6 +1589,7 @@ TVBS欢乐,https://haoyunlai.serv00.net/Smartv-1.php?id=tvbshuanle_twn
 民视新闻,http://50.7.234.10:8278/ftvnew_taiwan/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=9787063f7ed8e759418ccc1220dffe5f
 民视新闻,http://50.7.234.10:8278/ftvnew_taiwan/playlist.m3u8?tid=MF1F9892989898929898&ct=19234&tsum=454a768519608690638d11c0258cdcbe
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+民视新闻,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477080.m3u8
 民视台湾,http://50.7.234.10:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD8196635981966359&ct=19226&tsum=b82639ac8b4590b4206effe348e2f9c2
 民视台湾,http://50.7.234.10:8278/ftvtaiwan_twn/playlist.m3u8?tid=MEFE5254515252545152&ct=19249&tsum=c17f872b1772df8f76032030cc40bdbd
 民视第一,http://50.7.234.10:8278/lunghuajingdian_twn/playlist.m3u8?tid=MC2C7597780175977801&ct=19249&tsum=b7602981567d8f0171e8de29154f5014
@@ -1586,6 +1597,7 @@ TVBS欢乐,https://haoyunlai.serv00.net/Smartv-1.php?id=tvbshuanle_twn
 华视ᴴᴰ,http://50.7.234.10:8278/ctshd_twn/playlist.m3u8?tid=m760743cf1f5e&ct=18335&tsum=9b0d2efb292253075aa4ec25cc439b81
 华视ᴴᴰ,http://50.7.234.10:8278/ctshd_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=7b3b84a5c2d51d342b01b432389aac57
 华视ᴴᴰ,rtmp://f13h.mine.nu/sat/tv111
+华视新闻,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476266.m3u8
 华视台湾,rtmp://f13h.mine.nu/sat/tv111
 公视ᴴᴰ,http://50.7.234.10:8278/ctv_taiwan/playlist.m3u8?tid=MDCD6096520560965205&ct=19249&tsum=64237c7ffa0c00b62657a938247bcab0
 公视ᴴᴰ,http://50.7.234.10:8278/ctv_taiwan/playlist.m3u8?ct=17990&tid=13765524&tsum=03eb77c1c186944b97737f14e95076c0
@@ -1675,6 +1687,9 @@ ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
 爱尔达体育2,http://50.7.234.10:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
 爱尔达体育3,rtmp://9hv9.mine.nu/sat/md011
 爱尔达体育4,rtmp://9hv9.mine.nu/sat/md021
+爱尔达体育1,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476267.m3u8
+爱尔达体育2,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/488983.m3u8
+爱尔达体育3,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/483407.m3u8
 爱尔达影剧,http://50.7.234.10:8278/eltadrama_twn/playlist.m3u8?tid=MFDF4206608342066083&ct=19225&tsum=c6e03c86e60731f01aef66e1b32dcc84
 爱尔达影剧,http://ali.hlspull.yximgs.com/live/huanqiuhktvsfbxcvqsfqjhnfcvbsxqjnqsvmvbsqqqfjhyuqmqbvnqslhxj.flv
 爱尔达影剧,http://50.7.234.10:8278/eltayingju_twn/playlist.m3u8?tid=MFFF8590726285907262&ct=19249&tsum=ae4cb19fed11696df934d6e2489e2978
