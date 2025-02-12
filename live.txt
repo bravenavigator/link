@@ -2405,6 +2405,15 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 许昌襄城综合,http://live.dxhmt.cn:9081/tv/11025-1.m3u8
 许昌建安综合,http://live.dxhmt.cn:9081/tv/11003-1.m3u8
 📺　陕西,#genre#
+陕西卫视,http://gxlive.snrtv.com/sxws-SD.m3u8
+农林卫视,http://gxlive.snrtv.com/nlws-SD.m3u8
+陕西新闻资讯,http://gxlive.snrtv.com/sx1-SD.m3u8
+陕西都市青春,http://gxlive.snrtv.com/sx2-SD.m3u8
+陕西银龄,http://gxlive.snrtv.com/sx3-SD.m3u8
+陕西秦腔,http://gxlive.snrtv.com/sx5-SD.m3u8
+陕西乐家购物,http://gxlive.snrtv.com/sx6-SD.m3u8
+陕西体育休闲,http://gxlive.snrtv.com/sx7-SD.m3u8
+陕西西部电影,http://gxlive.snrtv.com/sx8-SD.m3u8
 陕西新闻资讯,http://61.150.67.62:9901/tsfile/live/1004_1.m3u8
 陕西都市青春,http://61.150.67.62:9901/tsfile/live/1005_1.m3u8
 陕西银龄,http://61.150.67.62:9901/tsfile/live/1006_1.m3u8
