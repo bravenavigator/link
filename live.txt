@@ -1391,7 +1391,7 @@ HOY TV,https://cdn5.163189.xyz/live/hoy/stream.m3u8
 HOY TV,https://cdn.163189.xyz/live/hoy/stream.m3u8
 HOY TV,http://cdn.132.us.kg/live/hoy/stream.m3u8
 爆谷台,http://ali.hlspull.yximgs.com/live/d59744bcdc7955025470dd9dea049334.flv
-星影台，http://ali.hlspull.yximgs.com/live/ba87119a5df4b08975c10ee74d0d5700.flv
+星影台,http://ali.hlspull.yximgs.com/live/ba87119a5df4b08975c10ee74d0d5700.flv
 Now新闻,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477070.m3u8
 Now财经,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477534.m3u8
 VIUTV粤,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477538.m3u8
