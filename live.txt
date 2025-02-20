@@ -1314,6 +1314,7 @@ Astro剧集台,https://cdn9.163189.xyz/smt1.1.php?id=Aodhd
 中天ᴴᴰ,http://125.229.9.67:8525/http/220.130.87.218:8081/hls/67/809/ch025.m3u8
 中天ᴴᴰ,http://fm1077.serv00.net/Smart.php?id=ctizhonghe
 中天ᴴᴰ,https://haoyunlai.serv00.net/Smartv-1.php?id=ctizhonghe
+中天新闻,http://222.128.55.152:9080/live/fc.m3u8
 中天新闻,http://122.117.71.103:8540/http/220.130.87.218:8081/hls/78/80/ch063max.m3u8
 中天新闻,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477695.m3u8
 中天新闻,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/489006.m3u8
@@ -1381,6 +1382,7 @@ Astro剧集台,https://cdn9.163189.xyz/smt1.1.php?id=Aodhd
 非凡商业,http://125.229.9.67:8546/http/220.130.87.218:8081/hls/74/816/ch056.m3u8
 镜新闻,http://125.229.9.67:8552/http/220.130.87.218:8092/upload/114/MNEWS_TS-1111_1.m3u8
 壹新闻,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477087.m3u8
+寰宇新闻,http://222.128.55.152:9080/live/hy.m3u8
 寰宇新闻,http://122.117.71.103:8548/http/220.130.87.218:8081/hls/76/818/ch062.m3u8
 寰宇新闻,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476270.m3u8
 寰宇新闻,http://125.229.9.67:8548/http/220.130.87.218:8081/hls/76/818/ch062.m3u8
@@ -1414,6 +1416,7 @@ TVBS欢乐,https://haoyunlai.serv00.net/Smartv-1.php?id=tvbshuanle_twn
 台视ᴴᴰ,http://50.7.234.10:8278/ttv_taiwan/playlist.m3u8?tid=MEDE4406594744065947&ct=19193&tsum=079f13bae33c63d33bb128fd265e8466
 台视ᴴᴰ,http://50.7.234.10:8278/ttv_taiwan/playlist.m3u8?tid=MDCD7498841774988417&ct=19226&tsum=205fa69ca9e6c04cfa0ed0b301647d1e
 台视ᴴᴰ,rtmp://f13h.mine.nu/sat/tv071
+台视新闻,http://222.128.55.152:9080/live/ts.m3u8
 台视新闻,https://live.wcetv.com/hls/m3u8/ttvnews.m3u8
 台视新闻,https://live.wcetv.com/hls/master-ttvnews.m3u8
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
