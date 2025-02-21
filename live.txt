@@ -1047,14 +1047,23 @@ CGTN阿语,http://gmxw.7766.org:808/hls/84/index.m3u8
 CGTN俄语,http://gmxw.7766.org:808/hls/85/index.m3u8
 CGTN俄语,http://1.24.190.98:10080/hls/21/index.m3u8
 CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
+欧洲华文一套,http://delive.eztv.vip/ndehwyt/ndehwyt.m3u8?auth_key=1724809773-0-0-abe7f639d9d933db8e4f750490b82714
+欧洲华文二套,http://delive.eztv.vip/dehwet/dehwet.m3u8?auth_key=1718979320-0-0-25e8b6e9c285f63c8db67c2623deee71
+欧洲华文三套,https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+欧洲华文四套,https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
+欧洲华文五套,https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
+欧洲华文六套,http://vvlive.eztv.vip/ctvsnew/ctvsnew.m3u8?auth_key=1710810919-0-0-50aa348ab0ba1386377aafc10877062f
+欧洲华文七套,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
 📺　广东,#genre#
 广东新闻,http://huangtong-com.cn:9902/tsfile/live/1011_1.m3u8
+广东新闻,http://219.137.202.197:9901/tsfile/live/1001_1.m3u8?yyds
 广东新闻,http://113.118.15.210:808/hls/5/index.m3u8
 广东新闻,http://219.159.194.194:8181/tsfile/live/1005_1.m3u8
 广东新闻,http://120.238.94.10:9901/tsfile/live/1010_1.m3u8
 广东新闻,http://183.11.239.36:808/hls/5/index.m3u8
 广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
 广东珠江,http://huangtong-com.cn:9902/tsfile/live/1010_1.m3u8
+广东珠江,http://219.137.202.197:9901/tsfile/live/1000_1.m3u8?yyds
 广东珠江,http://cdn2.132.us.kg/live/gdzj/stream.m3u8
 广东珠江,http://222.128.55.152:9080/live/gdzj.m3u8
 广东珠江,http://113.118.15.210:808/hls/83/index.m3u8
@@ -1064,6 +1073,7 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 广东珠江,http://120.238.94.10:9901/tsfile/live/1009_1.m3u8
 广东珠江,http://183.239.236.91:8088/hls/57/index.m3u8
 广东民生,http://huangtong-com.cn:9902/tsfile/live/1012_1.m3u8
+广东民生,http://219.137.202.197:9901/tsfile/live/1002_1.m3u8?yyds
 广东民生,http://219.137.202.184:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 广东民生,http://113.118.15.210:808/hls/18/index.m3u8
 广东民生,http://219.159.194.194:8181/tsfile/live/1006_1.m3u8
@@ -1079,6 +1089,7 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 广东影视,http://222.218.159.35:8181/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 广东影视,http://183.239.236.91:8088/hls/39/index.m3u8
 广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
+广东体育,http://219.137.202.197:9901/tsfile/live/1003_1.m3u8?yyds
 广东体育,http://108.181.20.181/livehttpplay?channel_id=12028
 广东体育,http://219.159.194.194:8181/tsfile/live/1009_1.m3u8
 广东体育,http://218.13.170.98:9901/tsfile/live/0019_1.m3u8
