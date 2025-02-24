@@ -1247,8 +1247,8 @@ HOY TV,http://cdn.163189.xyz/live/hoy/stream.m3u8
 HOY TV,https://cdn5.163189.xyz/live/hoy/stream.m3u8
 HOY TV,https://cdn.163189.xyz/live/hoy/stream.m3u8
 HOY TV,http://cdn.132.us.kg/live/hoy/stream.m3u8
-Now新闻,http://61.163.58.154:1321/ms/IPTV.php?id=131
-Now财经,http://61.163.58.154:1321/ms/IPTV.php?id=132
+Now新闻,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b44-golive.flv
+Now财经,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b45-golive.flv
 VIUTV粤,https://cdn5.163189.xyz/live/viu/stream.m3u8
 RTHK31,https://cdn5.163189.xyz/live/rthk31/stream.m3u8
 RTHK32,https://cdn5.163189.xyz/live/rthk32/stream.m3u8
