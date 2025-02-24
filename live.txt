@@ -1240,8 +1240,7 @@ TVB功夫,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 TVB千禧经典,http://cdn9.1689.us.kg/smt1.1.php?id=Tvbclassic
 TVB千禧经典,https://cdn9.163189.xyz/smt1.1.php?id=Tvbclassic
 TVB千禧经典,https://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic
-TVB明珠,http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8
-TVB明珠,http://mzitv.cn:9931/tsfile/live/1009_1.m3u8
+TVB明珠,https://cdn5.163189.xyz/live/mzt/stream.m3u8
 HOY TV,http://cdn.163189.xyz/live/hoy/stream.m3u8
 HOY TV,https://cdn5.163189.xyz/live/hoy/stream.m3u8
 HOY TV,https://cdn.163189.xyz/live/hoy/stream.m3u8
