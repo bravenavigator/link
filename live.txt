@@ -19,6 +19,7 @@ CCTV14少儿,http://127.0.0.1
 CCTV15音乐,http://127.0.0.1
 CCTV16奥林匹克,http://127.0.0.1
 CCTV17农业农村,http://127.0.0.1
+CCTV4K高清,http://127.0.0.1
 CCTV重温经典,http://127.0.0.1
 CCTV兵器科技,http://127.0.0.1
 CCTV世界地理,http://127.0.0.1
@@ -40,6 +41,7 @@ CETV中国教育3,http://127.0.0.1
 CETV中国教育4,http://127.0.0.1
 中国交通,http://127.0.0.1
 中国天气,http://127.0.0.1
+CCTV4K高清,http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/8cdd688b04e4495ba1635e218419d6f9/4000.m3u8
 CCTV9纪录,http://219.128.121.202:59901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5+体育赛事,http://219.128.121.202:59901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1综合,http://219.128.121.202:59901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1830,6 +1832,9 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 宜昌枝江综合,http://zhijiang-live21.cjyun.org/10120/s10120-zjtv.m3u8?auth_key=1735660799-0-0-fd9715217b53a31e92b5d42d24438b4a
 恩施鹤峰综合,http://hefeng-live21.cjyun.org/10100/s10100-hftv1.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-b42f6cb29eb3b901079113901761aa96
 📺　安徽,#genre#
+安徽经济生活,http://wyflv.ahwanyun.cn/live/eac499adad7b49ff9cfa79ba84693959.m3u8
+安徽综艺体育,http://wyflv.ahwanyun.cn/live/c41f112b83f644ddb082669501c8ecd3.m3u8
+安徽影视,http://wyflv.ahwanyun.cn/live/d18ff95cb1fb4bbcb56215e189fc12be.m3u8
 安徽经济生活,http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8
 安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
 安徽经济生活,http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959.flv
@@ -2237,7 +2242,7 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 邯郸科技教育,https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8
 承德平泉综合,https://jwliveqxzb.hebyun.com.cn/pqzh/pqzh.m3u8
 承德平泉影视,https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8
-邢台综合,https://jwplay.hebyun.com.cn/live/xttv/1500k/tzwj_video.m3u8?zhebd
+邢台综合,https://jwplay.hebyun.com.cn/live/xttv/1500k/tzwj_video.m3u8
 许昌襄城综合,http://live.dxhmt.cn:9081/tv/11025-1.m3u8
 许昌建安综合,http://live.dxhmt.cn:9081/tv/11003-1.m3u8
 📺　陕西,#genre#
