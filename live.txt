@@ -1694,10 +1694,10 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 山东体育,http://58.58.111.222:808/hls/62/index.m3u8
 山东新闻,http://58.58.111.222:808/hls/63/index.m3u8
 山东农科,http://58.58.111.222:808/hls/64/index.m3u8
-山东少儿,http://111.14.181.15:9901/tsfile/live/1005_1.m3u8
-山东齐鲁,http://111.14.181.15:9901/tsfile/live/1000_1.m3u8
-山东体育,http://111.14.181.15:9901/tsfile/live/1022_1.m3u8
-山东综艺,http://111.14.181.15:9901/tsfile/live/1004_1.m3u8
+山东少儿,http://111.14.181.15:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+山东齐鲁,http://111.14.181.15:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+山东体育,http://111.14.181.15:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+山东综艺,http://111.14.181.15:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 济南综合,http://124.128.73.58:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 济南综合,http://124.128.73.58:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 菏泽新闻综合,http://live.hznet.tv:1935/live/live1/500k/tzwj_video.m3u8
