@@ -1211,6 +1211,10 @@ RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/st
 澳视澳门,http://mzitv.cn:9931/tsfile/live/1043_1.m3u8
 澳门莲花,http://php.jdshipin.com:8880/amlh.php
 澳视葡语,http://61.244.22.5/ch2/ch2.live/chunklist.m3u8
+Now爆谷,https://dko29we9nm1rd.cloudfront.net/hls/CH133/index.m3u8
+Now新闻,https://dko29we9nm1rd.cloudfront.net/hls/CH332/index.m3u8
+Now财经,https://dko29we9nm1rd.cloudfront.net/hls/CH333/index.m3u8
+Now爆谷星影,https://dko29we9nm1rd.cloudfront.net/hls/CH138/index.m3u8
 Astro剧集台,https://cdn9.163189.xyz/smt1.1.php?id=Aodhd
 星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 📺　北京,#genre#
