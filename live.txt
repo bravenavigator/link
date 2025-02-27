@@ -41,6 +41,12 @@ CETV中国教育3,http://127.0.0.1
 CETV中国教育4,http://127.0.0.1
 中国交通,http://127.0.0.1
 中国天气,http://127.0.0.1
+CCTV世界地理,http://www.qhjx.top:18000/udp/238.255.2.26:5999
+CCTV风云剧场,http://www.qhjx.top:18000/udp/238.255.2.28:5999
+CCTV央视台球,http://www.qhjx.top:18000/udp/238.255.2.224:5999
+CCTV文化精品,http://www.qhjx.top:18000/udp/238.255.2.32:5999
+CCTV怀旧剧场,http://www.qhjx.top:18000/udp/238.255.2.33:5999
+CCTV兵器科技,http://www.qhjx.top:18000/udp/238.255.2.34:5999
 CCTV4K高清,http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/8cdd688b04e4495ba1635e218419d6f9/4000.m3u8
 CCTV9纪录,http://219.128.121.202:59901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5+体育赛事,http://219.128.121.202:59901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
