@@ -463,7 +463,7 @@ CCTV7国防军事,http://218.13.170.98:9901/tsfile/live/0007_1.m3u8
 CCTV9纪录,http://218.13.170.98:9901/tsfile/live/0009_1.m3u8
 CCTV1综合,http://218.13.170.98:9901/tsfile/live/0001_1.m3u8
 CCTV10科教,http://61.156.228.12:8154/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV14中文国际,http://61.156.228.12:8154/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14少儿,http://61.156.228.12:8154/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2财经,http://61.156.228.12:8154/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV17农业农村,http://61.156.228.12:8154/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV12社会与法,http://61.156.228.12:8154/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
