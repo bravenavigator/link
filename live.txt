@@ -41,7 +41,7 @@ CETV中国教育3,http://127.0.0.1
 CETV中国教育4,http://127.0.0.1
 中国交通,http://127.0.0.1
 中国天气,http://127.0.0.1
-CCTV财经,http://www.qhjx.top:18000/udp/238.255.2.11:5999
+CCTV2财经,http://www.qhjx.top:18000/udp/238.255.2.11:5999
 CCTV3综艺,http://www.qhjx.top:18000/udp/238.255.2.133:5999
 CCTV4中文国际,http://www.qhjx.top:18000/udp/238.255.2.92:5999
 CCTV7国防军事,http://www.qhjx.top:18000/udp/238.255.2.12:5999
