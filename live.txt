@@ -46,9 +46,11 @@ CCTV2财经,http://www.qhjx.top:18000/udp/238.255.2.11:5999
 CCTV3综艺,http://www.qhjx.top:18000/udp/238.255.2.133:5999
 CCTV4中文国际,http://www.qhjx.top:18000/udp/238.255.2.92:5999
 CCTV5体育,http://www.qhjx.top:18000/udp/238.255.2.134:5999
+CCTV5+体育赛事,http://www.qhjx.top:18000/udp/238.255.2.185:5999
 CCTV6电影,http://www.qhjx.top:18000/udp/238.255.2.135:5999
 CCTV7国防军事,http://www.qhjx.top:18000/udp/238.255.2.12:5999
 CCTV8电视剧,http://www.qhjx.top:18000/udp/238.255.2.136:5999
+CCTV9纪录,http://www.qhjx.top:18000/udp/238.255.2.155:5999
 CCTV14少儿,http://www.qhjx.top:18000/udp/238.255.2.17:5999
 CCTV15音乐,http://www.qhjx.top:18000/udp/238.255.2.18:5999
 CCTV世界地理,http://www.qhjx.top:18000/udp/238.255.2.26:5999
@@ -60,6 +62,7 @@ CCTV风云足球,http://www.qhjx.top:18000/udp/238.255.2.29:5999
 CCTV怀旧剧场,http://www.qhjx.top:18000/udp/238.255.2.33:5999
 CCTV央视文化精品,http://www.qhjx.top:18000/udp/238.255.2.32:5999
 CCTV兵器科技,http://www.qhjx.top:18000/udp/238.255.2.34:5999
+CCTV高尔夫网球,http://www.qhjx.top:18000/udp/238.255.2.223:5999
 CETV中国教育1,http://www.qhjx.top:18000/udp/238.255.2.105:5999
 中华美食,http://www.qhjx.top:18000/udp/238.255.2.142:5999
 CCTV4K高清,http://www.qhjx.top:18000/udp/238.255.2.139:5999
@@ -1015,6 +1018,9 @@ CGTN俄语,http://127.0.0.1
 CGTN西语,http://127.0.0.1
 CGTN阿语,http://127.0.0.1
 CGTN纪录,http://127.0.0.1
+CGTN英语,http://www.qhjx.top:18000/udp/238.255.2.207:5999
+CGTN阿语,http://www.qhjx.top:18000/udp/238.255.2.211:5999
+CGTN纪录,http://www.qhjx.top:18000/udp/238.255.2.212:5999
 CGTN法语,https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
 CGTN阿语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
 CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
@@ -2061,6 +2067,9 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 黔东南雷山综合,http://www.qhjx.top:18000/udp/238.255.2.128:5999
 毕节2,http://www.qhjx.top:18000/udp/238.255.2.132:5999
 赣南2,http://www.qhjx.top:18000/udp/238.255.2.151:5999
+综合频道,http://www.qhjx.top:18000/udp/238.255.2.153:5999
+公共频道,http://www.qhjx.top:18000/udp/238.255.2.152:5999
+瓮安综合,http://www.qhjx.top:18000/udp/238.255.2.216:5999
 安顺公共,http://dsm.52mm.top:28888/rtp/238.255.2.158:5999
 铜仁松桃新闻,http://live.strmtzx.cn/stxw/sd/live.m3u8
 黔南综合,rtmp://tv.qntv.net/channellive/ch1
