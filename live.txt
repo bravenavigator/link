@@ -2054,6 +2054,7 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 麻栗坡综合,http://tvdrs.wsrtv.com.cn:8100/channellive/mlptv.flv
 昭通巧家综合,http://livebroadcast.ccwb.cn/live/w1593303918254963.m3u8
 📺　贵州,#genre#
+贵州2,http://www.qhjx.top:18000/udp/238.255.2.106:5999
 贵州3,http://www.qhjx.top:18000/udp/238.255.2.3:5999
 贵州4,http://www.qhjx.top:18000/udp/238.255.2.4:5999
 贵州5,http://www.qhjx.top:18000/udp/238.255.2.5:5999
