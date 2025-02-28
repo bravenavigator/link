@@ -53,6 +53,9 @@ CCTV6电影,http://www.qhjx.top:18000/udp/238.255.2.135:5999
 CCTV7国防军事,http://www.qhjx.top:18000/udp/238.255.2.12:5999
 CCTV8电视剧,http://www.qhjx.top:18000/udp/238.255.2.136:5999
 CCTV9纪录,http://www.qhjx.top:18000/udp/238.255.2.155:5999
+CCTV10科教,http://www.qhjx.top:18000/udp/238.255.2.13:5999
+CCTV11戏曲,http://www.qhjx.top:18000/udp/238.255.2.14:5999
+CCTV13新闻,http://www.qhjx.top:18000/udp/238.255.2.16:5999
 CCTV14少儿,http://www.qhjx.top:18000/udp/238.255.2.17:5999
 CCTV15音乐,http://www.qhjx.top:18000/udp/238.255.2.18:5999
 CCTV世界地理,http://www.qhjx.top:18000/udp/238.255.2.26:5999
@@ -2067,6 +2070,8 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 贵州4,http://www.qhjx.top:18000/udp/238.255.2.4:5999
 贵州5,http://www.qhjx.top:18000/udp/238.255.2.5:5999
 贵州6,http://www.qhjx.top:18000/udp/238.255.2.6:5999
+贵州7,http://www.qhjx.top:18000/udp/238.255.2.9:5999
+贵阳1,http://www.qhjx.top:18000/udp/238.255.2.19:5999
 贵阳2,http://www.qhjx.top:18000/udp/238.255.2.20:5999
 贵阳3,http://www.qhjx.top:18000/udp/238.255.2.22:5999
 天元围棋,http://www.qhjx.top:18000/udp/238.255.2.7:5999
