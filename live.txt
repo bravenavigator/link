@@ -1225,6 +1225,7 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 凤凰中文,http://50.7.234.10:8278/phoenixtv_hd/playlist.m3u8?tid=MDFD5624054756240547&ct=19235&tsum=3d8e21403954d488cd95d367f1f90d8b
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
 凤凰中文,http://117.27.190.42:9998/tsfile/live/23280_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰香港,http://162.62.120.19/qctv.fengshows.cn/live/0701phk72.flv
 凤凰香港,http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MA5A4571836345718363&ct=19234&tsum=9d461ede3a5ecfa182b75574f86ae56a
 凤凰香港,http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MD0D2495250724952507&ct=19249&tsum=b1c0a577a7f4aaa9af143d124ba24a40
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
@@ -1290,6 +1291,7 @@ RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/st
 RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
 澳门Macau,http://cdn.163189.xyz/live/as/stream.m3u8
 澳门Macau,http://61.244.22.5/ch3/ch3.live/chunklist.m3u8
+澳视澳门,http://cdn.132.us.kg/live/asam/stream.m3u8
 澳视澳门,https://cdn.163189.xyz/live/asam/stream.m3u8
 澳视澳门,http://mzitv.cn:9931/tsfile/live/1043_1.m3u8
 澳门莲花,http://php.jdshipin.com:8880/amlh.php
@@ -1318,6 +1320,7 @@ Astro剧集台,https://cdn9.163189.xyz/smt1.1.php?id=Aodhd
 魅力足球,http://104.244.79.187:62115/itv/5000000011000031207.m3u8?cdn=bestzb
 动漫秀场,http://104.244.79.187:62115/itv/5000000011000031113.m3u8?cdn=bestzb
 游戏风云,http://104.244.79.187:62115/itv/5000000011000031114.m3u8?cdn=bestzb
+新视觉,http://120.76.248.139/live/bfgd/4200000249.m3u8
 崇明综合,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
 嘉定综合,https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8
 📺　天津,#genre#
@@ -1369,7 +1372,6 @@ Astro剧集台,https://cdn9.163189.xyz/smt1.1.php?id=Aodhd
 中视ᴴᴰ,http://ali.hlspull.yximgs.com/live/huanqiuhktvqphfwnmfjcqfxcvhqqwqfbfqjyuqqnmfcbsfqeqtyhsjqs.flv
 中视ᴴᴰ,http://50.7.234.10:8278/zhongshihd_twn/playlist.m3u8?ct=19226&tid=MB8B7313326473133264&tsum=ae7506028e559f3a6e2a3519b2f6a91e
 中视ᴴᴰ,http://50.7.234.10:8278/zhongshihd_twn/playlist.m3u8?tid=MB8B7313326473133264&ct=19226&tsum=ae7506028e559f3a6e2a3519b2f6a91e
-中视ᴴᴰ,rtmp://f13h.mine.nu/sat/tv091
 中视新闻,http://50.7.234.10:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
 中视新闻,http://50.7.234.10:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd
 中视台湾,rtmp://f13h.mine.nu/sat/tv091
@@ -2157,6 +2159,12 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 河南公共,http://1.199.242.84:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 河南都市,http://42.238.235.104:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 河南民生,http://42.238.235.104:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+河南新闻,http://www.cdnstv.com:6398/hls/1114/index.m3u8
+河南乡村,http://www.cdnstv.com:6398/hls/1116/index.m3u8
+河南戏曲,http://www.cdnstv.com:6398/hls/1119/index.m3u8
+河南法治,http://www.cdnstv.com:6398/hls/1112/index.m3u8
+河南电视剧,http://www.cdnstv.com:6398/hls/1113/index.m3u8
+收藏天下,http://www.cdnstv.com:6398/hls/1118/index.m3u8
 武术世界,http://live.dxhmt.cn:9080/live/yshnpre.m3u8
 郑州教育,https://livezzutv.chinamcache.com/live/zb01.m3u8?auth_key=1677911572-0-0-f4af513ba8c09e7801f4700f1573be2c
 郑州新郑一套,http://tvpull.dxhmt.cn:9081/tv/10184-1.m3u8
