@@ -2015,10 +2015,12 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 成都少儿,http://218.89.240.144:59901/tsfile/live/1005_1.m3u8
 成都双流综合,http://171.221.250.130:18888/27e684978eb642eeb90ab815f6cc51bf/c41893de5e8645b3b43aef1640859b0d.m3u8
 成都龙泉驿区综合,https://live-pull.newslqy.com/live/fmzb1682404988829.m3u8
+成都金堂综合,http://live.jtxwzx.com.cn:80/jtdst/hd/live.m3u8
 乐山沙湾综合,http://tvfile.swrmt.com:80/nmip-media/channellive/channel100064/playlist.m3u8
 乐山夹江新闻综合,rtmp://tv.jjrm.org.cn/channellive/ch1
 乐山井研新闻综合,http://tvfile.jyrmt.cn:80/nmip-media/channellive/channel104452/playlist.m3u8
 乐山犍为综合,http://r8.vzan.com:80/v/slowlive_230559508552681163.m3u8
+乐山沐川综合,rtmp://tv.mcrm.org.cn:1935/channellive/tv01
 乐山五通桥综合,https://play.wtqrm.com:443/qtwz/wtqzb.m3u8?auth_key=1663323505-0-0-01843919c015a267038d6e00fd1e1519
 眉山青神综合,http://lmt.scqstv.com/live1/live1.m3u8
 眉山彭山综合,http://m3u8tv.psrm.net:80/nmip-media/channellive/channel100740/playlist.m3u8
@@ -2029,6 +2031,8 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 泸州泸县综合,http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8
 达州新闻综合,http://tv.drs.dzxw.net:80/channellive/xwzhpd-dz1.flv
 达州新闻综合,http://tv.drs.dzxw.net/channellive/xwzhpd-dz1.flv
+达州公共,http://tv.drs.dzxw.net/channellive/ggpd-dz2.flv
+达州通川综合,http://tv.drs.dzxw.net/channellive/tcpd-dz3.flv
 达州万源综合,http://live.wanyuannews.com/wytv/hd/live.m3u8
 达州宣汉综合,http://livexuanhan.chinamcache.com:80/live/push1.m3u8
 德阳新闻综合,http://scdytv.cn:1935/live/m_xwpd_livevideo/playlist.m3u8
@@ -2040,12 +2044,16 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 广安新闻综合,http://live1.gatv.com.cn:85/live/XWZH.m3u8
 广安文旅乡村,http://live1.gatv.com.cn:85/live/GGPD.m3u8
 广安岳池综合,http://liveyc.cmc.yuechirmt.cn:80/live/yctv.m3u8?auth_key=1714112398-0-0-d9a6bd74623c01c1c2f9576fe51e8b7b
+广元剑阁综合,https://tvfile.scjgtv.cn:443/nmip-media/channellive/channel104126/playlist.m3u8
 广元利州综合,http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8
 广元青川综合,http://qcfile.qcrmt.com:80/nmip-media/channellive/channel100933/playlist.m3u8
 广元旺苍综合,http://channel.wcrmt.cn:80/nmip-media/channellive/channel105268/playlist.m3u8
+广元昭化综合,http://live.zhgbtv.cn:3100/hls/kwqtkbbi/index.m3u8
 宜宾叙州综合,http://pili-live-hls.ybcxjd.com/jdh-live/2108111201035597.m3u8
 宜宾长宁综合,http://cnpull.sccnfb.com:80/live/123456.m3u8
 巴中综合,http://ocj2.kksmg.com/ocj1/ocj1.m3u8
+西昌综合,http://xcfb.screx.com.cn:18085/hlsnew1/channel1.m3u8
+汉源综合,http://live.hyxrmt.com:85/live/xwpd.m3u8
 阿坝黑水综合,http://live.schstv.com:90/live/xwzh.m3u8
 阿坝马尔康综合,http://live.zmmek.com:90/live/zhxw.m3u8
 阿坝松潘综合,http://live.spccmc.com:90/live/spxwzh.m3u8
@@ -2053,6 +2061,7 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 阿坝金川综合,http://live.jinchuanrmt.com:90/live/zhxw.m3u8
 甘孜综合,http://tv.drs.ganzitv.com:8100/channellive/gztv.flv
 甘孜德格综合,http://dgfile.ganzitv.com:80/nmip-media/channellive/channel101955/playlist.m3u8
+甘孜康定综合,http://kdfile.ganzitv.com/nmip-media/channellive/channel100663/playlist.m3u8
 甘孜康定综合,http://m3u8-kd.channel.ganzitv.com/nmip-media-yajiang/channellive/channel100663/playlist.m3u8
 📺　广西,#genre#
 广西卫视,http://116.9.204.242:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
