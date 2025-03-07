@@ -1527,6 +1527,12 @@ TVBS欢乐,https://haoyunlai.serv00.net/Smartv-1.php?id=tvbshuanle_twn
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
+龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
+龙华经典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
+龙华卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
+龙华偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8
+龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
+龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
 龙华电影,http://cdn5.1689.us.kg/litv.php?id=litv-longturn03
 龙华电影,http://cdn5.163189.xyz/litv.php?id=litv-longturn03
 龙祥电影,http://ali.hlspull.yximgs.com/live/huanqiuhktvmqloehqbqqqpvboyjetqewsqhthqyuqfqwetyqqqhflxsq.flv
