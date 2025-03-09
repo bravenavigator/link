@@ -1393,14 +1393,12 @@ Astro剧集台,https://cdn9.163189.xyz/smt1.1.php?id=Aodhd
 北京生活,https://tv.bfsu.edu.cn/hls/btv7hd.m3u8
 北京文艺,http://tv.bfsu.edu.cn/hls/btv2hd.m3u8
 北京影视,http://tv.bfsu.edu.cn/hls/btv4hd.m3u8
-北京体育休闲,http://tv.bfsu.edu.cn/hls/btv6hd.m3u8
-北京纪实科教,http://tv.bfsu.edu.cn/hls/btv11hd.m3u8
+北京体育休闲,http://tv.bfsu.edu.cn/hls/btv11hd.m3u8
 北京新闻,http://211.67.191.23/hls/btv9hd/index.m3u8
 北京文艺,http://211.67.191.23/hls/btv2hd/index.m3u8
 北京影视,http://211.67.191.23/hls/btv4hd/index.m3u8
 北京体育休闲,http://211.67.191.23/hls/btv11hd/index.m3u8
-北京体育休闲,http://www.qhjx.top:18000/udp/238.255.2.107:5999
-北京纪实科教,http://114.243.103.165:8822/rtp/239.3.1.115:8000
+北京纪实科教,http://www.qhjx.top:18000/udp/238.255.2.107:5999
 北京纪实科教8K,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 北京卡酷少儿,http://60.30.73.2:59901/tsfile/live/0001_30.m3u8
 北京卡酷少儿,http://61.138.128.226:19901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
