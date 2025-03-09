@@ -105,6 +105,8 @@ CCTV兵器科技,http://www.qhjx.top:18000/udp/238.255.2.34:5999
 CCTV高尔夫网球,http://www.qhjx.top:18000/udp/238.255.2.223:5999
 CETV早期教育,http://www.qhjx.top:18000/udp/238.255.2.143:5999
 CETV中国教育1,http://www.qhjx.top:18000/udp/238.255.2.105:5999
+中华美食,http://61.133.118.228:5001/yy/1354930954
+中华美食,http://8.218.190.107:80/yy/1354930954
 中华美食,http://www.qhjx.top:18000/udp/238.255.2.142:5999
 CCTV4K高清,http://www.qhjx.top:18000/udp/238.255.2.139:5999
 CCTV4K高清,http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/8cdd688b04e4495ba1635e218419d6f9/4000.m3u8
@@ -1208,6 +1210,7 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 大湾区卫视,http://113.118.15.210:808/hls/132/index.m3u8
 大湾区卫视,http://219.159.194.194:8181/tsfile/live/1003_1.m3u8
 大湾区卫视,http://222.218.159.203:8181/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+大湾区卫视,http://183.237.95.108:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=0&authid=0
 大湾区卫视,http://183.11.239.36:808/hls/132/index.m3u8
 大湾区卫视,http://222.128.55.152:9080/live/dwq.m3u8
 嘉佳卡通,http://113.118.15.210:808/hls/8/index.m3u8
@@ -1409,6 +1412,7 @@ Astro剧集台,https://cdn9.163189.xyz/smt1.1.php?id=Aodhd
 北京纪实科教,http://tv6.blcu.edu.cn/liverespath/7bb9f208944995e060f1d22990aea2db1a368959/0e51649da9-0-0-7f7dd6a76323dbf839e6a2bffc270190/index.m3u8
 北京卡酷少儿,http://tv6.blcu.edu.cn/liverespath/943c7815dfdfdc7dcc435a56bc29008cb65ff7ae/de70871611-0-0-794cac6a83e17f1f54b48031a7171d0e/index.m3u8
 📺　上海,#genre#
+东方财经,http://115.150.63.77:9902/tsfile/live/1042_1.m3u8
 乐游频道,http://124.128.73.58:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 乐游频道,http://104.244.79.187:62115/itv/5000000011000031112.m3u8?cdn=bestzb
 生活时尚,http://104.244.79.187:62115/itv/5000000002000019634.m3u8?cdn=bestzb
@@ -1432,6 +1436,7 @@ Astro剧集台,https://cdn9.163189.xyz/smt1.1.php?id=Aodhd
 天津体育,http://60.30.73.2:59901/tsfile/live/0001_25.m3u8
 天津教育,http://60.30.73.2:59901/tsfile/live/0001_26.m3u8
 精彩影视,http://60.30.73.2:59901/tsfile/live/0001_27.m3u8
+天津影视,http://180.213.174.225:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 西青新闻综合,http://221.238.209.44:81/hls/live1.m3u8?ztianjd
 📺　重庆,#genre#
 重庆新闻,http://183.66.15.146:60901/tsfile/live/0019_1.m3u8?key=txiptv
