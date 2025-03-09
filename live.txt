@@ -1640,17 +1640,6 @@ TVBS欢乐,https://haoyunlai.serv00.net/Smartv-1.php?id=tvbshuanle_twn
 龙华偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8
 龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
 龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
-龙华电影,http://cdn5.1689.us.kg/litv.php?id=litv-longturn03
-龙华电影,http://cdn5.163189.xyz/litv.php?id=litv-longturn03
-龙祥电影,http://ali.hlspull.yximgs.com/live/huanqiuhktvmqloehqbqqqpvboyjetqewsqhthqyuqfqwetyqqqhflxsq.flv
-龙华洋片,http://ali.hlspull.yximgs.com/live/huanqiuhktvqeqcxlvofbqbvbqqqfqvqhslcfvxcvxsqbcvqfjvsfcbqbnqtyxty.flv
-龙华偶像,http://cdn5.1689.us.kg/litv.php?id=litv-longturn12
-龙华戏剧,http://cdn5.1689.us.kg/litv.php?id=litv-longturn18
-龙华戏剧,http://cdn5.163189.xyz/litv.php?id=litv-longturn18
-龙华戏剧,http://ali.hlspull.yximgs.com/live/huanqiuhktvqeqcxlvofbqbvnqqsfqvbhslcfvxcvqsqbcvqfjvqsfcbqbnqtyqj.flv
-龙华日韩,http://cdn5.1689.us.kg/litv.php?id=litv-longturn11
-龙华日韩,http://cdn5.163189.xyz/litv.php?id=litv-longturn11
-龙华卡通,http://cdn5.163189.xyz/litv.php?id=litv-longturn01
 星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
