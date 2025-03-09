@@ -1420,7 +1420,6 @@ Astro剧集台,https://cdn9.163189.xyz/smt1.1.php?id=Aodhd
 📺　上海,#genre#
 东方财经,http://115.150.63.77:9902/tsfile/live/1042_1.m3u8
 第一财经,http://home.wwang.pw:35455/itv/5000000010000027146.m3u8?cdn=bestzb
-法治天地,http://home.wwang.pw:35455/itv/2000000002000000014.m3u8?cdn=hnbblive
 乐游频道,http://124.128.73.58:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 乐游频道,http://104.244.79.187:62115/itv/5000000011000031112.m3u8?cdn=bestzb
 生活时尚,http://104.244.79.187:62115/itv/5000000002000019634.m3u8?cdn=bestzb
@@ -1684,14 +1683,6 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 📺　江苏,#genre#
 江苏新闻,http://58.221.214.82:9901/tsfile/live/0009_2.m3u8?key=txiptv&playlive=1&authid=0
-江苏城市,https://025365.xyz:8082/jstv.php?id=jscs
-江苏综艺,https://025365.xyz:8082/jstv.php?id=jszy
-江苏影视,https://025365.xyz:8082/jstv.php?id=jsys
-江苏影视,https://025365.xyz:8082/jstv.php?id=ymkt
-江苏影视,https://025365.xyz:8082/jstv.php?id=jsgg
-江苏国际,https://025365.xyz:8082/jstv.php?id=jsjy
-江苏教育,https://025365.xyz:8082/jstv.php?id=jsty
-江苏教育,https://025365.xyz:8082/jstv.php?id=jsty
 江苏综艺,http://106.111.244.151:5001/tsfile/live/0001_3.m3u8?key=txiptv&playlive=1&authid=0
 江苏体育休闲,http://106.111.244.151:5001/tsfile/live/0001_4.m3u8?key=txiptv&playlive=1&authid=0
 江苏体育休闲,http://58.221.214.82:9901/tsfile/live/0006_2.m3u8?key=txiptv&playlive=1&authid=0
@@ -2166,7 +2157,6 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 绵阳综合,http://119.6.59.216:60033/tsfile/live/1007_1.m3u8
 绵阳科技,http://livepull.myntv.cn:80/rtmp/mykj.m3u8
 泸州新闻综合,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel106011/playlist.m3u8
-泸州公共,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel102221/playlist.m3u8
 泸州科教生活,http://file.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
 泸州科教生活,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
 泸州泸县综合,http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8
