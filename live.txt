@@ -1855,6 +1855,7 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 菏泽影视,http://live.hznet.tv:1935/live/live3/500k/tzwj_video.m3u8
 济宁综合,http://lives.jnnews.tv/video/s10001-JNTV-1/index.m3u8
 济宁公共,http://lives.jnnews.tv/video/s10001-JNTV3/index.m3u8
+枣庄新闻综合,http://stream.zztvzd.com/1/sd/live.m3u8
 临沂公共,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel113571/playlist.m3u8
 临沂农科,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel115062/playlist.m3u8
 梁山综合,http://111.14.181.15:9901/tsfile/live/1011_1.m3u8?key=tvbox6_com&playlive=1&authid=0
@@ -2008,6 +2009,8 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 池州新闻综合,http://wjsp.chiznews.com:8037/live/xwzh.m3u8
 池州文教生活,http://wjsp.chiznews.com:8037/live/wjsh.m3u8
 淮北新闻综合,https://live.hbnews.net/video/xwzh/index.m3u8
+淮南新闻综合,http://112.30.194.221:20080/live/cb8cb76bfc154f579df8c9d2443127af/hls.m3u8
+淮南公共,http://112.30.194.221:20080/live/6e43da3335a640b3a73c948fccf935c5/hls.m3u8
 淮北新闻综合,http://xcblive.hbcoal.com/3/sd/live.m3u8
 淮北经济生活,https://live.hbnews.net/video/ggpd/index.m3u8
 宿州新闻综合,http://live.ahsz.tv/video/s10001-szzh/index.m3u8
@@ -2172,6 +2175,8 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 乐山五通桥综合,https://play.wtqrm.com:443/qtwz/wtqzb.m3u8?auth_key=1663323505-0-0-01843919c015a267038d6e00fd1e1519
 眉山青神综合,http://lmt.scqstv.com/live1/live1.m3u8
 眉山彭山综合,http://m3u8tv.psrm.net:80/nmip-media/channellive/channel100740/playlist.m3u8
+绵阳综合,http://119.6.59.216:60033/tsfile/live/1007_1.m3u8
+绵阳科技,http://livepull.myntv.cn:80/rtmp/mykj.m3u8
 泸州新闻综合,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel106011/playlist.m3u8
 泸州公共,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel102221/playlist.m3u8
 泸州科教生活,http://file.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
@@ -2269,6 +2274,7 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 贵阳1,http://www.qhjx.top:18000/udp/238.255.2.19:5999
 贵阳2,http://www.qhjx.top:18000/udp/238.255.2.20:5999
 贵阳3,http://www.qhjx.top:18000/udp/238.255.2.22:5999
+贵阳清镇新闻综合,http://pili-live-rtmp.143.i2863.com/i2863-143/live_143_397273.m3u8
 天元围棋,http://www.qhjx.top:18000/udp/238.255.2.7:5999
 六盘水1,http://www.qhjx.top:18000/udp/238.255.2.115:5999
 六盘水2,http://www.qhjx.top:18000/udp/238.255.2.116:5999
@@ -2316,6 +2322,7 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 河南公共,http://1.199.242.84:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 河南都市,http://42.238.235.104:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 河南民生,http://42.238.235.104:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+梨园频道,http://61.163.181.78:9901/tsfile/live/1006_1.m3u8
 河南新闻,http://www.cdnstv.com:6398/hls/1114/index.m3u8
 河南乡村,http://www.cdnstv.com:6398/hls/1116/index.m3u8
 河南戏曲,http://www.cdnstv.com:6398/hls/1119/index.m3u8
@@ -2497,8 +2504,13 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 忻州定襄综合,http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8
 📺　甘肃,#genre#
 张掖新闻综合,https://play.kankanlive.com/live/1720583434627241.m3u8
-甘南藏语,http://play.kankanlive.com/live/1720408280309109.m3u8
+天水秦安综合,https://play.kankanlive.com/live/1680577080200944.m3u8
+庆阳西峰综合,https://play.kankanlive.com/live/1683944827526991.m3u8
+陇南西和综合,https://play.kankanlive.com/live/1659926941626981.m3u8
+白银综合,https://play.kankanlive.com/live/1720408089419110.m3u8
 白银景泰综合,https://play.kankanlive.com/live/1624439143745981.m3u8
+金昌永昌综合,https://play.kankanlive.com/live/1652755738635915.m3u8
+甘南藏语,http://play.kankanlive.com/live/1720408280309109.m3u8
 📺　宁夏,#genre#
 石嘴山综合,http://live.kanwz.net/ggpd/playlist.m3u8
 石嘴山公共,http://live.kanwz.net/zhpd/playlist.m3u8
@@ -2851,6 +2863,7 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 伊犁维语,http://110.153.180.106:55555/out_2/index.m3u8
 伊犁哈萨克语,http://110.153.180.106:55555/out_3/index.m3u8
 伊犁经济法制,http://110.153.180.106:55555/out_4/index.m3u8
+新疆奎屯汉语综合,http://218.84.12.186:8001/hls/main/playlist.m3u8
 伊犁奎屯哈萨克语,http://218.84.12.186:8002/hls/main/playlist.m3u8
 哈密一套,https://tvpull.hmgbtv.com/hmtv/channel9cd66b3d5d258b2b.flv
 哈密三套,https://tvpull.hmgbtv.com/hmtv/channelfb0e5c505477aa44/playlist.m3u8
