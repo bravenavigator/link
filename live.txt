@@ -1457,7 +1457,6 @@ Astro剧集台,https://cdn9.163189.xyz/smt1.1.php?id=Aodhd
 重庆新农村,http://183.66.15.146:60901/tsfile/live/1005_1.m3u8?key=txiptv
 重庆红叶,http://183.66.15.146:60901/tsfile/live/0016_1.m3u8?key=txiptv
 重庆少儿,http://183.66.15.146:60901/tsfile/live/1000_1.m3u8?key=txiptv
-重庆汽摩,http://183.230.184.51:65500/tntv1.m3u8
 潼南综合,http://183.230.184.51:65500/tntv1.m3u8
 璧山综合,http://222.179.42.129:8181/hls1.m3u8
 垫江综合,http://125.62.24.185:80/1.m3u8
