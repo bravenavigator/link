@@ -2226,11 +2226,9 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 河池罗城综合,http://www.3jlc.cn:80/lctvlive/lcm.m3u8
 崇左天等综合,https://live.gxrb.com.cn/gx/tiandeng/index.m3u8
 📺　海南,#genre#
-海口1,http://183.255.46.4:16080/live/tv1001.m3u8
+海口新闻综合,http://183.255.46.4:16080/live/tv1001.m3u8
 海口生活娱乐,http://183.255.46.4:16080/live/tv2502.m3u8
-海口生活娱乐,http://124.225.35.97:16080/live/tv2402.m3u8
 海口城乡经济,http://183.255.46.4:16080/live/tv2503.m3u8
-海口城乡经济,http://124.225.35.97:16080/live/tv2403.m3u8
 📺　云南,#genre#
 云南都市,http://220.164.192.48:50085/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
 云南娱乐,http://220.164.192.48:50085/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
