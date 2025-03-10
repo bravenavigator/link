@@ -1740,9 +1740,11 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 徐州邳州综合,https://liveplus.pznews.com/pzzhpd/sd/live.m3u8
 徐州新沂新闻,http://live.xysrmt.cn/xwzh/sd/live.m3u8
 徐州新沂生活,http://live.xysrmt.cn/shpd/sd/live.m3u8
-泰州一套,http://stream1.mytaizhou.net/xwzh/sd/live.m3u8?_upt=f97c80491706200828
+泰州综合,http://stream1.mytaizhou.net/xwzh/sd/live.m3u8?_upt=f97c80491706200828
 泰州靖江新闻综合,http://visit.jjbctv.com:1935/live/xwzhpc/playlist.m3u8
+泰州姜堰新闻综合,https://jiangyan-tv-hls.cm.jstv.com/jiangyan-tv/jiangyanzh.m3u8
 宿迁泗阳资讯,http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzx.m3u8
+宿迁沭阳综合,http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8
 淮安公共,http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd
 淮安影院娱乐,http://live1.habctv.com/ysylsl/sd/live.m3u8?zjiangsd
 淮安淮安公共,http://live1.habctv.com/ggpdsl/sd/live.m3u8
@@ -1987,9 +1989,9 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 亳州农村,http://zbbf2.ahbztv.com/live/418.m3u8
 池州新闻综合,http://wjsp.chiznews.com:8037/live/xwzh.m3u8
 池州文教生活,http://wjsp.chiznews.com:8037/live/wjsh.m3u8
-淮北新闻综合,https://live.hbnews.net/video/xwzh/index.m3u8
 淮南新闻综合,http://112.30.194.221:20080/live/cb8cb76bfc154f579df8c9d2443127af/hls.m3u8
 淮南公共,http://112.30.194.221:20080/live/6e43da3335a640b3a73c948fccf935c5/hls.m3u8
+淮北新闻综合,https://live.hbnews.net/video/xwzh/index.m3u8
 淮北新闻综合,http://xcblive.hbcoal.com/3/sd/live.m3u8
 淮北经济生活,https://live.hbnews.net/video/ggpd/index.m3u8
 宿州新闻综合,http://live.ahsz.tv/video/s10001-szzh/index.m3u8
@@ -2213,6 +2215,7 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 南宁公共,https://hls.nntv.cn/nnlive/GGPD_24.m3u8
 南宁老友live,https://hls.nntv.cn/nnlive/LYL1_24.m3u8
 南宁宾阳综合,https://live.gxrb.com.cn/gx/binyang/index.m3u8
+南宁横州新闻综合,http://live.nnnews.net/video/s10004-hztv-hd/index.m3u8
 桂林新闻综合,https://pull.gltvs.com/live/glxw/playlist.m3u8?v=b0528684bf934e120e1c30fc808e6576&t=1796868188
 桂林新闻综合,https://pull.gltvs.com:443/live/glxw/playlist.m3u8?v=b0528684bf934e120e1c30fc808e6576&t=1796868188
 桂林科教旅游,https://pull.gltvs.com/live/glkj/playlist.m3u8?v=4282cdc9071e32fd382778e37d8bf172&t=2024816762
@@ -2224,8 +2227,10 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 崇左天等综合,https://live.gxrb.com.cn/gx/tiandeng/index.m3u8
 📺　海南,#genre#
 海口1,http://183.255.46.4:16080/live/tv1001.m3u8
-海口2,http://183.255.46.4:16080/live/tv2502.m3u8
-海口3,http://183.255.46.4:16080/live/tv2503.m3u8
+海口生活娱乐,http://183.255.46.4:16080/live/tv2502.m3u8
+海口生活娱乐,http://124.225.35.97:16080/live/tv2402.m3u8
+海口城乡经济,http://183.255.46.4:16080/live/tv2503.m3u8
+海口城乡经济,http://124.225.35.97:16080/live/tv2403.m3u8
 📺　云南,#genre#
 云南都市,http://220.164.192.48:50085/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
 云南娱乐,http://220.164.192.48:50085/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -2376,6 +2381,7 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 三门峡渑池综合,http://live.dxhmt.cn:9081/tv/11221-1.m3u8
 三门峡渑池综合,http://tvpull.dxhmt.cn:9081/tv/11221-1.m3u8
 三门峡灵宝综合,http://live.dxhmt.cn:9081/tv/11282-1.m3u8
+三门峡卢氏综合,http://live.dxhmt.cn:9081/tv/11224-1.m3u8
 平顶山郏县综合,http://tvpull.dxhmt.cn:9081/tv/10425-1.m3u8
 平顶山郏县综合,http://live.dxhmt.cn:9081/tv/10425-1.m3u8
 平顶山鲁山综合,http://tvpull.dxhmt.cn:9081/tv/10423-1.m3u8
@@ -2403,6 +2409,7 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 新乡长垣综合,http://live.dxhmt.cn:9081/tv/10728-1.m3u8
 新乡封丘一套,http://tvpull.dxhmt.cn:9081/tv/10727-1.m3u8
 新乡封丘一套,http://live.dxhmt.cn:9081/tv/10727-1.m3u8
+新乡延津电视,http://live.dxhmt.cn:9081/tv/10726-1.m3u8
 许昌禹州综合,http://tvpull.dxhmt.cn:9081/tv/11081-1.m3u8
 许昌禹州综合,http://live.dxhmt.cn:9081/tv/11081-1.m3u8
 许昌鄢陵综合,http://tvpull.dxhmt.cn:9081/tv/11024-1.m3u8
