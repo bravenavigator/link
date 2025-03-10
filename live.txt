@@ -1025,7 +1025,6 @@ CETV中国教育4,http://gmxw.7766.org:808/hls/79/index.m3u8
 三沙卫视,http://113.140.86.162:8009/hls/44/index.m3u8
 三沙卫视,http://112.46.85.60:8009/hls/44/index.m3u8
 三沙卫视,http://111.160.17.2:59901/tsfile/live/0001_45.m3u8
-海峡卫视,http://117.27.190.42:9998/tsfile/live/23283_1.m3u8?key=txiptv&playlive=1&authid=0
 三沙卫视,http://60.30.73.2:59901/tsfile/live/0001_45.m3u8
 北京卫视,http://60.12.183.46:9901/tsfile/live/0015_2.m3u8
 东方卫视,http://60.12.183.46:9901/tsfile/live/0018_1.m3u8
@@ -1323,8 +1322,9 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰中文,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰资讯,http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
-TVB翡翠,http://cdn.163189.xyz/live/fct4k/stream.m3u8
+TVB翡翠,https://cdn.163189.xyz/live/fct4k/stream.m3u8
 TVB翡翠,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
+TVB翡翠,http://cdn5.1678520.xyz/live/?id=fct
 TVB翡翠,https://cdn3.163189.xyz/live/fct/stream.m3u8
 TVB翡翠,http://cdn.132.us.kg/live/fct4k/stream.m3u8
 TVB翡翠,http://108.181.20.181/livehttpplay?channel_id=30025
@@ -1346,11 +1346,13 @@ TVB娱乐,http://v2hcdn.jdshipin.com/enew/enew.stream/chunklist_w103.m3u8
 TVB J1,http://cdn3.163189.xyz/live/j1/stream.m3u8
 TVB J1,http://cdn3.132.us.kg/live/j1/stream.m3u8
 TVB J1,https://cdn5.1678520.xyz/live/live2.1.php?id=j1
+TVB J1,http://cdn5.1678520.xyz/live/?id=j1
 TVB J1,https://cdn3.163189.xyz/live/j1/stream.m3u8
 TVB Plus,http://cdn.163189.xyz/live/tvbp/stream.m3u8
 TVB Plus,http://108.181.20.181/livehttpplay?channel_id=30023
 TVB Plus,http://cdn.132.us.kg/live/tvbp/stream.m3u8
 TVB Plus,https://cdn.163189.xyz/live/live1.1.php?id=tvbp
+TVB Plus,https://cdn.163189.xyz/live/?id=tvbp
 TVB Plus,http://grandprix2023.asuscomm.com:8892/bysid/82.m3u8
 TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 TVB星河,https://cdn9.163189.xyz/smt1.1.php?id=Xinhe
@@ -1387,7 +1389,6 @@ RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/st
 澳视澳门,https://cdn.163189.xyz/live/asam/stream.m3u8
 澳视澳门,http://mzitv.cn:9931/tsfile/live/1043_1.m3u8
 澳门莲花,http://php.jdshipin.com:8880/amlh.php
-澳视葡语,http://61.244.22.5/ch2/ch2.live/chunklist.m3u8
 澳视澳门,http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8
 澳视葡文,http://103.233.191.132:1935/ch2/ch2.live/playlist.m3u8
 澳视葡文,http://103.233.191.133:1935/ch2/ch2.live/playlist.m3u8
@@ -1724,33 +1725,43 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 苏州新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 苏州社会经济,https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
 苏州文化生活,https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
+苏州电影娱乐信息,https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
 苏州生活资讯,https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
 苏州4k,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 苏州常熟综合,http://cstvplay.21cs.cn/cstv1/cstv1.m3u8
 苏州常熟民生经济,http://cstvplay.21cs.cn/cstv2/cstv2.m3u8
 苏州吴江新闻综合,https://ctlive2.wjdaily.com/wjtv/ch1.m3u8
-无锡新闻综合,http://stream.thmz.com/wxtv1/playlist.m3u8
-无锡都市资讯,http://stream.thmz.com/wxtv3/playlist.m3u8
-无锡经济,http://stream.thmz.com/wxtv5/playlist.m3u8
+无锡新闻,http://stream.thmz.com/wxtv1/playlist.m3u8
+无锡都市,http://stream.thmz.com/wxtv3/playlist.m3u8
 无锡生活,http://stream.thmz.com/wxtv4/playlist.m3u8
+无锡经济,http://stream.thmz.com/wxtv5/playlist.m3u8
 无锡娱乐,http://stream.thmz.com/wxtv2/playlist.m3u8
+无锡教育,https://tv.wxjy.com.cn:9001/tvwebstream/tv_channel_1359/index.m3u8
+无锡江阴新闻,http://221.228.70.101:8080/live/xinwen.m3u8
+无锡宜兴新闻,http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
+无锡宜兴紫砂,http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_zs.m3u8
 镇江新闻综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8
 镇江社会民生,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
+镇江文化娱乐,http://zjtv-wshls.homecdn.com/live/2aa58.m3u8
 常州都市,http://8.138.7.223/tv/cztv.php?id=2
 常州生活,http://8.138.7.223/tv/cztv.php?id=3
 常州公共,http://8.138.7.223/tv/cztv.php?id=4
-常州金坛,http://jintan-tv-ori-hls.jstv.com/jintan-tv-ori/jintan_xw.m3u8
+常州金坛综合,http://jintan-tv-ori-hls.jstv.com/jintan-tv-ori/jintan_xw.m3u8
 扬州综合,http://cm-wshls.homecdn.com/live/8bb.m3u8
 扬州城市,http://cm-wshls.homecdn.com/live/8bd.m3u8
 扬州生活,http://cm-wshls.homecdn.com/live/8bf.m3u8
-扬州邗江,http://cm-wshls.homecdn.com/live/8c3.m3u8
-扬州高邮,http://gaoyou-tv-hls.cm.jstv.com/gaoyou-tv/gaoyouxw.m3u8
+扬州邗江综合,http://cm-wshls.homecdn.com/live/8c3.m3u8
+扬州高邮综合,http://gaoyou-tv-hls.cm.jstv.com/gaoyou-tv/gaoyouxw.m3u8
+扬州江都综合,http://cm-wshls.homecdn.com/live/8c1.m3u8
 连云港新闻,http://live.lyg1.com/zhpd/sd/live.m3u8
+南通如东新闻,http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8
 盐城大丰新闻,http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafengyt.m3u8
 盐城大丰公共,http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafenget.m3u8
 徐州邳州综合,https://liveplus.pznews.com/pzzhpd/sd/live.m3u8
 徐州新沂新闻,http://live.xysrmt.cn/xwzh/sd/live.m3u8
 徐州新沂生活,http://live.xysrmt.cn/shpd/sd/live.m3u8
+徐州睢宁综合,http://suining-tv-hls.cm.jstv.com/suining-tv/suiningzh.m3u8
+徐州睢宁三农,http://suining-tv-hls.cm.jstv.com/suining-tv/suiningsn.m3u8
 泰州综合,http://stream1.mytaizhou.net/xwzh/sd/live.m3u8?_upt=f97c80491706200828
 泰州靖江新闻综合,http://visit.jjbctv.com:1935/live/xwzhpc/playlist.m3u8
 泰州姜堰新闻综合,https://jiangyan-tv-hls.cm.jstv.com/jiangyan-tv/jiangyanzh.m3u8
@@ -2161,6 +2172,8 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 成都双流综合,http://171.221.250.130:18888/27e684978eb642eeb90ab815f6cc51bf/c41893de5e8645b3b43aef1640859b0d.m3u8
 成都龙泉驿区综合,https://live-pull.newslqy.com/live/fmzb1682404988829.m3u8
 成都金堂综合,http://live.jtxwzx.com.cn:80/jtdst/hd/live.m3u8
+乐山新闻综合,http://m3u8file.lstv.org.cn/nmip-media/channellive/channel1/playlist.m3u8
+乐山文旅生活,http://m3u8file.lstv.org.cn/nmip-media/channellive/channel12/playlist.m3u8
 乐山沙湾综合,http://tvfile.swrmt.com:80/nmip-media/channellive/channel100064/playlist.m3u8
 乐山夹江新闻综合,rtmp://tv.jjrm.org.cn/channellive/ch1
 乐山井研新闻综合,http://tvfile.jyrmt.cn:80/nmip-media/channellive/channel104452/playlist.m3u8
@@ -2377,6 +2390,9 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 信阳罗山新闻综合,http://live.dxhmt.cn:9081/tv/11521-1.m3u8
 信阳商城综合,http://live.dxhmt.cn:9081/tv/11524-1.m3u8
 信阳新县综合,http://live.dxhmt.cn:9081/tv/11523-1.m3u8
+周口新闻综合,http://117.159.72.12:8081/live/6520562530090312540.m3u8
+周口公共,http://117.159.72.12:8081/live/8606202505932165833.m3u8
+周口教育,http://117.159.72.12:8081/live/2548854934748691151.m3u8
 周口扶沟综合,http://tvpull.dxhmt.cn:9081/tv/11621-1.m3u8
 周口扶沟综合,http://live.dxhmt.cn:9081/tv/11621-1.m3u8
 周口鹿邑综合,http://tvpull.dxhmt.cn:9081/tv/11628-1.m3u8
