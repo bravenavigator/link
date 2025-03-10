@@ -557,7 +557,14 @@ CCTV6电影,http://61.156.228.12:8154/tsfile/live/0006_1.m3u8?key=txiptv&playliv
 CCTV15音乐,http://61.156.228.12:8154/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV9纪录,http://61.156.228.12:8154/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5体育,http://61.156.228.12:8154/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV兵器科技,http://180.213.174.225:9901/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV世界地理,http://180.213.174.225:9901/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV央视文化精品,http://180.213.174.225:9901/tsfile/live/1053_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV怀旧剧场,http://180.213.174.225:9901/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV都市剧场,http://180.213.174.225:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV风云足球,http://180.213.174.225:9901/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV风云音乐,http://180.213.174.225:9901/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV电视指南,http://180.213.174.225:9901/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV世界地理,http://183.11.239.36:808/hls/11/index.m3u8
 CCTV央视文化精品,http://183.11.239.36:808/hls/97/index.m3u8
 CCTV怀旧剧场,http://183.11.239.36:808/hls/92/index.m3u8
@@ -1431,8 +1438,13 @@ Astro剧集台,https://cdn9.163189.xyz/smt1.1.php?id=Aodhd
 游戏风云,http://104.244.79.187:62115/itv/5000000011000031114.m3u8?cdn=bestzb
 超级体育,http://home.wwang.pw:35455/itv/1000000001000009601.m3u8?cdn=ystenlive
 新视觉,http://120.76.248.139/live/bfgd/4200000249.m3u8
+乐游频道,http://180.213.174.225:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
 生活时尚,http://180.213.174.225:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 都市剧场,http://180.213.174.225:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
+极速汽车,http://180.213.174.225:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
+欢笑剧场,http://180.213.174.225:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
+游戏风云,http://180.213.174.225:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
+动漫秀场,http://180.213.174.225:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
 崇明综合,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
 嘉定综合,https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8
 📺　天津,#genre#
@@ -1446,7 +1458,6 @@ Astro剧集台,https://cdn9.163189.xyz/smt1.1.php?id=Aodhd
 天津体育,http://60.30.73.2:59901/tsfile/live/0001_25.m3u8
 天津教育,http://60.30.73.2:59901/tsfile/live/0001_26.m3u8
 精彩影视,http://60.30.73.2:59901/tsfile/live/0001_27.m3u8
-天津影视,http://180.213.174.225:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 西青新闻综合,http://221.238.209.44:81/hls/live1.m3u8?ztianjd
 📺　重庆,#genre#
 重庆新闻,http://183.66.15.146:60901/tsfile/live/0019_1.m3u8?key=txiptv
@@ -1801,6 +1812,7 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 山东新闻,http://221.2.148.205:8154/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 山东齐鲁,http://221.2.148.205:8154/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 山东生活,http://221.2.148.205:8154/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+山东文旅,http://221.2.148.205:8154/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 山东综艺,http://221.2.148.205:8154/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 山东体育,http://221.2.148.205:8154/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 山东少儿,http://221.2.148.205:8154/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1985,6 +1997,7 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 安徽影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
 安徽影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be.flv
 安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv
+合肥新闻,http://60.172.130.146:352/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 亳州新闻,http://zbbf2.ahbztv.com/live/416.m3u8
 亳州农村,http://zbbf2.ahbztv.com/live/418.m3u8
 池州新闻综合,http://wjsp.chiznews.com:8037/live/xwzh.m3u8
