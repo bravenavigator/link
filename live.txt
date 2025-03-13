@@ -2498,8 +2498,11 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 移动电视,http://42.176.155.182:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁影视剧,http://120.76.248.139/live/bfgd/4200000070.m3u8
 📺黑龙江,#genre#
-黑龙江卫视,http://tvpull.careryun.com/tv/cn_hljws.m3u8
+黑龙江卫视,https://idclive.hljtv.com:4430/live/hljws_own.m3u8
 黑龙江新闻法治,http://123.166.61.70:8003/hls/51/index.m3u8
+黑龙江文体,https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
+黑龙江都市,https://idclive.hljtv.com:4430/live/dushi_hd.m3u8
+黑龙江农业科教,https://idclive.hljtv.com:4430/live/hljgg_hd.m3u8
 哈尔滨新闻综合,https://rmplive.hljtv.com/live/haerbin.m3u8
 哈尔滨新闻综合,rtmp://rmplive.hljtv.com/live/haerbin
 哈尔滨新闻综合,https://masterpull.hljtv.com/live/sPvVy8Ju.m3u8
