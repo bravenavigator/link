@@ -2459,14 +2459,22 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 朔州怀仁综合,http://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc.m3u8
 忻州定襄综合,http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8
 📺　甘肃,#genre#
+甘肃新闻,rtsp://60.13.39.18:554/PLTV/88888910/224/3221225836/375578711.smil
 张掖新闻综合,https://play.kankanlive.com/live/1720583434627241.m3u8
+天水综合,rtsp://60.13.39.18:554/PLTV/88888910/224/3221225866/376769060.smil
+天水文旅,rtsp://60.13.39.18:554/PLTV/88888910/224/3221225869/376769059.smil
 天水秦安综合,https://play.kankanlive.com/live/1680577080200944.m3u8
+酒泉金塔综合,rtsp://60.13.39.18:554/PLTV/88888910/224/3221225826/375578764.smil
+酒泉肃州综合,rtsp://60.13.39.18:554/PLTV/88888910/224/3221225818/373186605.smil
 庆阳西峰综合,https://play.kankanlive.com/live/1683944827526991.m3u8
 陇南西和综合,https://play.kankanlive.com/live/1659926941626981.m3u8
 白银综合,https://play.kankanlive.com/live/1720408089419110.m3u8
 白银景泰综合,https://play.kankanlive.com/live/1624439143745981.m3u8
 金昌永昌综合,https://play.kankanlive.com/live/1652755738635915.m3u8
 甘南藏语,http://play.kankanlive.com/live/1720408280309109.m3u8
+甘南藏语,rtsp://60.13.39.18:554/PLTV/88888910/224/3221225819/374381817.smil
+临夏和政综合,rtsp://60.13.39.18:554/PLTV/88888910/224/3221225829/375939366.smil
+临夏康乐综合,rtsp://60.13.39.18:554/PLTV/88888910/224/3221225828/375578482.smil
 📺　宁夏,#genre#
 宁夏公共,https://livepgc.cmc.ningxiahuangheyun.com/tv/nxgg.m3u8
 宁夏经济,https://livepgc.cmc.ningxiahuangheyun.com/tv/nxjj.m3u8
