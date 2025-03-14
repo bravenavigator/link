@@ -1141,6 +1141,7 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 广东新闻,http://219.159.194.194:8181/tsfile/live/1005_1.m3u8
 广东新闻,http://120.238.94.10:9901/tsfile/live/1010_1.m3u8
 广东新闻,http://183.11.239.36:808/hls/5/index.m3u8
+广东珠江,https://tv.cdn.com.mp/live/gdzj/stream.m3u8
 广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
 广东珠江,http://huangtong-com.cn:9902/tsfile/live/1010_1.m3u8
 广东珠江,http://cdn2.132.us.kg/live/gdzj/stream.m3u8
@@ -1166,6 +1167,7 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 广东影视,http://113.118.15.210:808/hls/6/index.m3u8
 广东影视,http://222.218.159.35:8181/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 广东影视,http://183.239.236.91:8088/hls/39/index.m3u8
+广东体育,https://tv.cdn.com.mp/live/gdty/stream.m3u8
 广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
 广东体育,http://108.181.20.181/livehttpplay?channel_id=12028
 广东体育,http://219.159.194.194:8181/tsfile/live/1009_1.m3u8
