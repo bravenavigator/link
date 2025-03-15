@@ -120,7 +120,7 @@ CCTV12社会与法,http://58.220.219.14:9901/tsfile/live/0012_1.m3u8?key=txiptv&
 CCTV13新闻,http://58.220.219.14:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV14少儿,http://58.220.219.14:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15音乐,http://123.52.15.157:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5,http://123.52.15.157:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5体育,http://123.52.15.157:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13新闻,http://123.52.15.157:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4中文国际,http://123.52.15.157:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV12社会与法,http://123.52.15.157:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
