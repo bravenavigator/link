@@ -2846,6 +2846,7 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 巴音郭楞蒙语,rtmp://tv.loulannews.cn/channellive/ch2
 巴音郭楞维语,rtmp://tv.loulannews.cn/channellive/ch3
 巴音郭楞教育,rtmp://tv.loulannews.cn/channellive/ch4
+阿勒泰新闻综合,http://test5.btzx.com.cn/live/10TV.stream/playlist.m3u8
 克拉玛依汉语综合,http://klmysjtzb.rcsxzx.com/hls/klmy1.m3u8
 克拉玛依维语综合,http://klmysjtzb.rcsxzx.com/hls/klmy2.m3u8
 克拉玛依影视,http://klmysjtzb.rcsxzx.com/hls/klmy3.m3u8
