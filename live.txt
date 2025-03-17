@@ -268,7 +268,7 @@ CCTV4中文国际,http://60.223.224.176:8888/newlive/live/hls/5/live.m3u8
 CCTV10科教,http://60.223.224.176:8888/newlive/live/hls/12/live.m3u8
 CCTV10科教,http://112.6.165.112:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV7国防军事,http://183.215.211.219:9998/tsfile/live/faacts/0007_1.m3u8
-CCTV重温经典,http://cdn3.163189.xyz/live/cwjd/stream.m3u8
+CCTV重温经典,https://cdn3.163189.xyz/live/cwjd/stream.m3u8
 CCTV1综合,http://183.94.1.118:8801/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3综艺,http://183.94.1.118:8801/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV9纪录,http://183.223.157.33:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1174,8 +1174,8 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 广东新闻,http://120.238.94.10:9901/tsfile/live/1010_1.m3u8
 广东珠江,https://tv.cdn.com.mp/live/gdzj/stream.m3u8
 广东体育,https://tv.cdn.com.mp/live/gdty/stream.m3u8
-广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
-广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
+广东珠江,https://cdn2.163189.xyz/live/gdzj/stream.m3u8
+广东体育,https://cdn2.163189.xyz/live/gdty/stream.m3u8
 广东珠江,http://cdn2.132.us.kg/live/gdzj/stream.m3u8
 广东新闻,http://183.11.239.36:808/hls/5/index.m3u8
 广东珠江,http://218.13.170.98:9901/tsfile/live/1000_1.m3u8
@@ -1259,9 +1259,8 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 汕尾综合,http://183.239.226.235:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
 韶关综合,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
 ✨　港澳,#genre#
-凤凰资讯,http://cdn3.163189.xyz/live/fhzx/stream.m3u8
 凤凰资讯,https://cdn3.163189.xyz/live/fhzx/stream.m3u8
-凤凰资讯,http://cdn5.1678520.xyz/live/live2.1.php?id=fhzx
+凤凰资讯,https://cdn5.1678520.xyz/live/live2.1.php?id=fhzx
 凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
 凤凰资讯,http://106.111.244.151:5001/tsfile/live/0001_13.m3u8?key=txiptv&playlive=1&authid=0
 凤凰资讯,http://180.143.83.48:8181/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1275,6 +1274,7 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
 凤凰中文,http://117.27.190.42:9998/tsfile/live/23280_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰香港,http://162.62.120.19/qctv.fengshows.cn/live/0701phk72.flv
+凤凰香港,https://cdn6.163189.xyz/live/fhhk/stream.m3u8
 凤凰香港,http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MA5A4571836345718363&ct=19234&tsum=9d461ede3a5ecfa182b75574f86ae56a
 凤凰香港,http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MD0D2495250724952507&ct=19249&tsum=b1c0a577a7f4aaa9af143d124ba24a40
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
@@ -1331,6 +1331,7 @@ HOY TV,http://cdn.132.us.kg/live/hoy/stream.m3u8
 VIUTV粤,https://cdn5.163189.xyz/live/viu/stream.m3u8
 RTHK31,https://cdn5.163189.xyz/live/rthk31/stream.m3u8
 RTHK32,https://cdn5.163189.xyz/live/rthk32/stream.m3u8
+RTHK33,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
 RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
 RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
 RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8
