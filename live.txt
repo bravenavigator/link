@@ -1259,11 +1259,10 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 汕尾综合,http://183.239.226.235:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
 韶关综合,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
 ✨　港澳,#genre#
+凤凰资讯,http://cdn3.163189.xyz/live/fhzx/stream.m3u8
 凤凰资讯,https://cdn3.163189.xyz/live/fhzx/stream.m3u8
 凤凰资讯,https://cdn5.1678520.xyz/live/live2.1.php?id=fhzx
 凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
-凤凰资讯,http://106.111.244.151:5001/tsfile/live/0001_13.m3u8?key=txiptv&playlive=1&authid=0
-凤凰资讯,http://180.143.83.48:8181/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰资讯,http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 凤凰中文,http://cdn.163189.xyz/live/fhzw/stream.m3u8
@@ -1640,8 +1639,6 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 📺　江苏,#genre#
 江苏新闻,http://58.221.214.82:9901/tsfile/live/0009_2.m3u8?key=txiptv&playlive=1&authid=0
-江苏综艺,http://106.111.244.151:5001/tsfile/live/0001_3.m3u8?key=txiptv&playlive=1&authid=0
-江苏体育休闲,http://106.111.244.151:5001/tsfile/live/0001_4.m3u8?key=txiptv&playlive=1&authid=0
 江苏体育休闲,http://58.221.214.82:9901/tsfile/live/0006_2.m3u8?key=txiptv&playlive=1&authid=0
 江苏综艺,http://58.221.214.82:9901/tsfile/live/0005_2.m3u8?key=txiptv&playlive=1&authid=0
 江苏城市,http://58.220.219.14:9901/tsfile/live/0120_3.m3u8?key=txiptv&playlive=1&authid=0
@@ -1649,7 +1646,6 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 江苏城市,http://58.221.214.82:9901/tsfile/live/0004_2.m3u8?key=txiptv&playlive=1&authid=0
 江苏教育,http://58.221.214.82:9901/tsfile/live/0012_2.m3u8?key=txiptv&playlive=1&authid=0
 江苏体育休闲,http://121.232.178.93:5000/tsfile/live/0001_4.m3u8?key=txiptv&playlive=1&authid=0
-优漫卡通,http://106.111.244.151:5001/tsfile/live/0001_10.m3u8?key=txiptv&playlive=1&authid=0
 优漫卡通,http://121.232.178.93:5000/tsfile/live/0001_10.m3u8?key=txiptv&playlive=1&authid=0
 南京新闻综合,http://live.nbs.cn/channels/njtv/xwpdb/nbs06.m3u8
 南京娱乐,http://live.nbs.cn/channels/njtv/ylpd/500k.m3u8
@@ -1712,6 +1708,7 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 泰州姜堰新闻综合,https://jiangyan-tv-hls.cm.jstv.com/jiangyan-tv/jiangyanzh.m3u8
 宿迁泗阳资讯,http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzx.m3u8
 宿迁沭阳综合,http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8
+宿迁宿豫综合,https://suyu-tv-hls.cm.jstv.com/suyu-tv/syzhpd.m3u8?zjiangsd
 淮安公共,http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd
 淮安影院娱乐,http://live1.habctv.com/ysylsl/sd/live.m3u8?zjiangsd
 淮安淮安公共,http://live1.habctv.com/ggpdsl/sd/live.m3u8
@@ -2146,6 +2143,7 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 德阳什邡综合,http://live.sfrmt.com:85/live/zhpd.m3u8
 资阳乐至综合,http://175.155.106.72:89/live1/live1.m3u8
 南充营山综合,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
+南充南部新闻综合,http://pili-live-rtmp.148.i2863.com/i2863-148/live_148_811389.m3u8
 广安新闻综合,http://live1.gatv.com.cn:85/live/XWZH.m3u8
 广安文旅乡村,http://live1.gatv.com.cn:85/live/GGPD.m3u8
 广安岳池综合,http://liveyc.cmc.yuechirmt.cn:80/live/yctv.m3u8?auth_key=1714112398-0-0-d9a6bd74623c01c1c2f9576fe51e8b7b
@@ -2164,6 +2162,7 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 阿坝松潘综合,http://live.spccmc.com:90/live/spxwzh.m3u8
 阿坝汶川综合,http://live.iwcmt.cn:90/live/zhxw.m3u8
 阿坝金川综合,http://live.jinchuanrmt.com:90/live/zhxw.m3u8
+阿坝小金综合,http://xjlive.xjxrmt.cn:8091/live/xwpd.m3u8
 甘孜综合,http://tv.drs.ganzitv.com:8100/channellive/gztv.flv
 甘孜德格综合,http://dgfile.ganzitv.com:80/nmip-media/channellive/channel101955/playlist.m3u8
 甘孜康定综合,http://kdfile.ganzitv.com/nmip-media/channellive/channel100663/playlist.m3u8
