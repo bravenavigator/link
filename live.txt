@@ -1341,6 +1341,7 @@ Astro剧集台,https://cdn9.163189.xyz/smt1.1.php?id=Aodhd
 星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 📺　北京,#genre#
 北京新闻,http://211.67.191.23/hls/btv9hd/index.m3u8
+北京财经,http://www.weec.top:2222/udp/239.3.1.116:8000
 北京文艺,http://211.67.191.23/hls/btv2hd/index.m3u8
 北京影视,http://211.67.191.23/hls/btv4hd/index.m3u8
 北京体育休闲,http://211.67.191.23/hls/btv11hd/index.m3u8
@@ -1793,6 +1794,7 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 岳阳汨罗综合,https://liveplay-srs.voc.com.cn/hls/tv/166_a4ad1b.m3u8
 湘潭新闻综合,http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
 邵阳城步电视,https://liveplay-srs.voc.com.cn/hls/tv/169_b4d7a4.m3u8
+邵阳绥宁综合,https://liveplay-srs.voc.com.cn/hls/tv/182_3c0dc6.m3u8
 常德汉寿综合,https://liveplay-srs.voc.com.cn/hls/tv/31_226756.m3u8
 郴州桂东融媒,https://liveplay-srs.voc.com.cn/hls/tv/174_6ab9f8.m3u8
 郴州桂阳综合,https://liveplay-srs.voc.com.cn/hls/tv/7_7c833e.m3u8
@@ -1803,11 +1805,14 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 怀化麻阳综合,https://liveplay-srs.voc.com.cn/hls/tv/38_6f397d.m3u8
 怀化新晃时政,https://liveplay-srs.voc.com.cn/hls/tv/23_5d556a.m3u8
 怀化芷江综合,https://liveplay-srs.voc.com.cn/hls/tv/20_68acda.m3u8
-怀化中方台,https://liveplay-srs.voc.com.cn/hls/tv/18_3aa230.m3u8
+怀化中方综合,https://liveplay-srs.voc.com.cn/hls/tv/18_3aa230.m3u8
+怀化靖州综合,https://liveplay-srs.voc.com.cn/hls/tv/34_5156ed.m3u8
 娄底新化综合,https://liveplay-srs.voc.com.cn/hls/tv/170_49c556.m3u8
 湘西花恒综合,https://liveplay-srs.voc.com.cn/hls/tv/134_d590ee.m3u8
 湘西吉首综合,https://liveplay-srs.voc.com.cn/hls/tv/143_70175b.m3u8
 湘西龙山综合,https://liveplay-srs.voc.com.cn/hls/tv/146_f067fe.m3u8
+湘西古丈综合,https://liveplay-srs.voc.com.cn/hls/tv/144_4efb38.m3u8
+湘西花垣综合,https://liveplay-srs.voc.com.cn/hls/tv/134_d590ee.m3u8
 湘西古丈综合,https://liveplay-srs.voc.com.cn/hls/tv/144_4efb38.m3u8
 益阳沅江综合,https://liveplay-srs.voc.com.cn/hls/tv/163_2c7011.m3u8
 益阳南县综合,http://hnstnx.chinashadt.com:2037/live/10001.stream/playlist.m3u8
@@ -2719,6 +2724,7 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 吉林都市,http://61.138.128.226:19901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林公共新闻,http://61.138.128.226:19901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林综艺文化,http://61.138.128.226:19901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林生活,http://61.138.128.226:19901/tsfile/live/1002_1.m3u8?key=txiptv
 吉林影视,http://61.138.128.226:19901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林乡村,http://61.138.128.226:19901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林教育,http://61.138.128.226:19901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
