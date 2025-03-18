@@ -1166,8 +1166,13 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 广东体育,http://110.72.59.58:9901/tsfile/live/1022_1.m3u8
 广东少儿,http://113.110.79.68:808/hls/111/index.m3u8
 岭南戏曲,http://183.239.226.235:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-大湾区卫视,http://222.218.159.203:8181/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 大湾区卫视,http://183.11.239.36:808/hls/132/index.m3u8
+广东珠江,http://119.32.12.32:2901/udp/224.1.100.23:11111
+广东体育,http://119.32.12.32:2901/udp/224.1.100.34:11111
+广州综合,http://119.32.12.32:2901/udp/224.1.100.36:11111
+广州新闻,http://119.32.12.32:2901/udp/224.1.100.38:11111
+广州法治,http://119.32.12.32:2901/udp/224.1.100.17:11111
+广州竞赛,http://119.32.12.32:2901/udp/224.1.100.105:11111
 广州综合,http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
 广州综合,https://tencentplaygsm.gztv.com/live/zonghes.m3u8?txTime=6594e9b7&txSecret=adb23b34fb694750ac8b8ff14a21a424
 广州综合,https://tencentplaygsm.gztv.com/live/zonghes.m3u8?txTime=659a5111&txSecret=36b95cb955327d8262812e0e4f772aa5
@@ -1346,6 +1351,7 @@ Astro剧集台,https://cdn9.163189.xyz/smt1.1.php?id=Aodhd
 北京影视,http://211.67.191.23/hls/btv4hd/index.m3u8
 北京体育休闲,http://211.67.191.23/hls/btv11hd/index.m3u8
 北京纪实科教,http://www.qhjx.top:18000/udp/238.255.2.107:5999
+北京纪实科教,http://119.32.12.32:2901/udp/224.1.100.115:11111
 北京纪实科教8K,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 北京卡酷少儿,http://60.30.73.2:59901/tsfile/live/0001_30.m3u8
 北京卡酷少儿,http://61.138.128.226:19901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
