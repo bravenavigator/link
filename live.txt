@@ -1310,6 +1310,7 @@ TVB翡翠,http://50.7.234.10:8278/jade_twn/playlist.m3u8?tid=ME6E133031911330319
 TVB翡翠,http://50.7.234.10:8278/jade_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=6955e849ff6cf5029870c9beea45140b
 TVB翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 TVB新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
+TVB新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 TVB新闻,http://php.jdshipin.com/smt.php?id=inews_twn
 TVB新闻,http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w105.m3u8
 TVB新闻,https://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8
@@ -1326,6 +1327,7 @@ TVB J1,https://cdn5.1678520.xyz/live/live2.1.php?id=j1
 TVB J1,http://cdn5.1678520.xyz/live/?id=j1
 TVB J1,https://cdn3.163189.xyz/live/j1/stream.m3u8
 TVB J2,http://cdn.163189.xyz/live/tvbp/stream.m3u8
+TVB J2,https://cdn.163189.xyz/live/tvbp/stream.m3u8
 TVB J2,http://108.181.20.181/livehttpplay?channel_id=30023
 TVB J2,http://cdn.132.us.kg/live/tvbp/stream.m3u8
 TVB J2,https://cdn.163189.xyz/live/live1.1.php?id=tvbp
@@ -1334,6 +1336,7 @@ TVB J2,http://grandprix2023.asuscomm.com:8892/bysid/82.m3u8
 TVB J2,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 TVB J2,http://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&tsum=699466c18aac56202ad1d2843fd21032
 TVB J2,http://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=ME0E4382171043821710&ct=19237&tsum=6f10351124a4eb90780b2f84b2c4d349
+TVB星河,http://cdn9.163189.xyz/smt1.1.php?id=Xinhe
 TVB星河,https://cdn9.163189.xyz/smt1.1.php?id=Xinhe
 TVB星河,http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
 TVB星河,https://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
@@ -1342,12 +1345,15 @@ TVB功夫,https://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w1
 TVB功夫,http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist.m3u8
 TVB功夫,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 TVB千禧经典,http://cdn9.1689.us.kg/smt1.1.php?id=Tvbclassic
+TVB千禧经典,http://cdn9.163189.xyz/smt1.1.php?id=Tvbclassic
+TVB千禧经典,http://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic
 TVB千禧经典,https://cdn9.163189.xyz/smt1.1.php?id=Tvbclassic
 TVB千禧经典,https://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic
 TVB明珠,https://cdn5.163189.xyz/live/mzt/stream.m3u8
+TVB明珠,http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8
 HOY TV,http://cdn.163189.xyz/live/hoy/stream.m3u8
-HOY TV,https://cdn5.163189.xyz/live/hoy/stream.m3u8
 HOY TV,https://cdn.163189.xyz/live/hoy/stream.m3u8
+HOY TV,https://cdn5.163189.xyz/live/hoy/stream.m3u8
 HOY TV,http://cdn.132.us.kg/live/hoy/stream.m3u8
 VIUTV粤,https://cdn5.163189.xyz/live/viu/stream.m3u8
 VIUTV粤,http://50.7.234.10:8278/viusix_twn/playlist.m3u8?tid=MF0F4217630642176306&ct=19249&tsum=33becc0fe8466036420dbbb4727dc49e
@@ -1385,6 +1391,7 @@ Now财经,https://dko29we9nm1rd.cloudfront.net/hls/CH333/index.m3u8
 Now爆谷星影,https://dko29we9nm1rd.cloudfront.net/hls/CH138/index.m3u8
 Astro剧集台,https://cdn9.163189.xyz/smt1.1.php?id=Aodhd
 凤凰电影,http://221.7.175.154:8445/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+天映频道,http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8
 星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 📺　北京,#genre#
 北京新闻,http://211.67.191.23/hls/btv9hd/index.m3u8
@@ -1777,7 +1784,7 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 山东综艺,http://124.128.73.58:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 山东影视,http://124.128.73.58:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 山东体育,http://124.128.73.58:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-山东齐鲁,http://123.132.233.194:352/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+山东齐鲁,http://123.132.233.194:352/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0金鹰
 山东新闻,http://123.129.70.178:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 山东齐鲁,http://123.129.70.178:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 山东齐鲁,http://123.130.84.106:8154/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1830,6 +1837,8 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 湖南电影,http://183.215.211.219:9998/tsfile/live/1013_1.m3u8
 金鹰纪实,http://www.qhjx.top:18000/udp/238.255.2.108:5999
 金鹰卡通,http://www.qhjx.top:18000/udp/238.255.2.55:5999
+金鹰卡通,http://119.32.12.32:2901/udp/224.1.100.113:11111
+茶道频道,http://119.32.12.32:2901/udp/224.1.100.117:11111
 金鹰纪实,http://119.36.148.115:59901/tsfile/live/1010_1.m3u8
 金鹰纪实,http://116.128.242.83:9901/tsfile/live/1001_1.m3u8
 金鹰卡通,http://60.30.73.2:59901/tsfile/live/0001_33.m3u8
