@@ -2144,6 +2144,7 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 眉山彭山综合,http://m3u8tv.psrm.net:80/nmip-media/channellive/channel100740/playlist.m3u8
 绵阳综合,http://119.6.59.216:60033/tsfile/live/1007_1.m3u8
 绵阳科技,http://livepull.myntv.cn:80/rtmp/mykj.m3u8
+绵阳三台综合,http://125.65.94.91:12351/live
 泸州新闻综合,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel106011/playlist.m3u8
 泸州科教生活,http://file.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
 泸州科教生活,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
@@ -2463,12 +2464,12 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 晋中平遥综合,https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05-1.m3u8
 运城公共,http://live.0359tv.com/lsdream/t667aTY/1000/live.m3u8
 运城科技教育,http://live.0359tv.com/lsdream/p5eq48m/1000/live.m3u8
-临汾1套,https://qmmqvzoz.live.sxmty.com/live/hls/f24f8a390c084386a564074c9260100c/be3fdf07606145739ab2c4b80fe0136a.m3u8
 长治长子综合,http://zzlive.zzc-media.com:8092/live/xwzh.m3u8
 长治潞城综合,http://59.48.42.6:62204/lucheng.m3u8
 长治壶关综合,http://zmjp3jin.live.sxmty.com/live/hls/268fe96f955d496db37fb10bb887cda9/fc196029d289449ea524a94a95379a0d.m3u8
 长治黎城综合,http://111.53.96.67:8081/live/1/index.m3u8
 长治平鲁综合,https://stream.icelook.cn/790d0a0f38c07f31/6728300245723120644_1609747594.m3u8?auth_key=1893456000-0-0-0cc4be5653a88cdb748a4543643d0fdb
+临汾综合,https://qmmqvzoz.live.sxmty.com/live/hls/f24f8a390c084386a564074c9260100c/be3fdf07606145739ab2c4b80fe0136a.m3u8
 临汾吉县综合,http://jxlive.jxrmtzx.com:8091/live/xwzh.m3u8
 临汾翼城综合,http://live.aiyicheng.com.cn/channel1/sd/live.m3u8
 朔州怀仁综合,http://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc.m3u8
@@ -2476,10 +2477,6 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 📺　甘肃,#genre#
 甘肃新闻,rtsp://60.13.39.18:554/PLTV/88888910/224/3221225836/375578711.smil
 甘肃文旅,rtsp://60.13.39.18:554/PLTV/88888910/224/3221225823/375578759.smil
-甘肃都市,rtmp://livein.gstv.com.cn/49048r/oj57of.flv
-甘肃公共,rtmp://livein.gstv.com.cn/49048r/2v86i8.flv
-甘肃文化影视,rtmp://livein.gstv.com.cn/49048r/068vw9.flv
-甘肃少儿,rtmp://livein.gstv.com.cn/49048r/4o7e76.flv
 兰州新闻综合,rtsp://60.13.39.18/PLTV/88888910/224/3221225836/375578711.smil
 兰州文旅,rtsp://60.13.39.18/PLTV/88888910/224/3221225823/375578759.smil
 张掖新闻综合,https://play.kankanlive.com/live/1720583434627241.m3u8
