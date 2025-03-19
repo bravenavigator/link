@@ -2886,6 +2886,9 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 西藏藏语卫视,http://php.jdshipin.com:8880/xztv.php?id=zy
 西藏藏语卫视,https://tv.vtibet.cn/live/hzwxhy6YdkAatK.m3u8?secret=d2d47a1cacc46b5b484eb335ea2d1270&time=674c572a
 西藏影视文化,http://php.jdshipin.com:8880/xztv.php?id=ys
+拉萨新闻综合,http://tvfile.lasatv.cn/nmip-media/channellive/channel101894/playlist.m3u8
+拉萨藏语综合,http://tvfile.lasatv.cn/nmip-media/channellive/channel104335/playlist.m3u8
+拉萨文化旅游,http://tvfile.lasatv.cn/nmip-media/channellive/channel103157/playlist.m3u8
 🎬　CHC,#genre#
 CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC影迷电影,http://58.19.38.162:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
