@@ -1360,12 +1360,12 @@ HOY TV,http://cdn.163189.xyz/live/hoy/stream.m3u8
 HOY TV,https://cdn.163189.xyz/live/hoy/stream.m3u8
 HOY TV,https://cdn5.163189.xyz/live/hoy/stream.m3u8
 HOY TV,http://cdn.132.us.kg/live/hoy/stream.m3u8
-VIUTV,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
-VIUTV,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
-VIUTV6,http://php.jdshipin.com:8880/smt.php?id=viusix_twn
-VIUTV,https://cdn5.163189.xyz/live/viu/stream.m3u8
-VIUTV,http://50.7.234.10:8278/viusix_twn/playlist.m3u8?tid=MF0F4217630642176306&ct=19249&tsum=33becc0fe8466036420dbbb4727dc49e
-VIUTV,http://50.7.234.10:8278/viusix_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=717813846fc6b398ae2d3433772d8b99
+ViuTV,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
+ViuTV,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
+ViuTV6,http://php.jdshipin.com:8880/smt.php?id=viusix_twn
+ViuTV,https://cdn5.163189.xyz/live/viu/stream.m3u8
+ViuTV6,http://50.7.234.10:8278/viusix_twn/playlist.m3u8?tid=MF0F4217630642176306&ct=19249&tsum=33becc0fe8466036420dbbb4727dc49e
+ViuTV6,http://50.7.234.10:8278/viusix_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=717813846fc6b398ae2d3433772d8b99
 TVB新闻,http://27.46.95.90:800/hls/1872445994/index.m3u8
 TVB翡翠,http://27.46.95.90:800/hls/1789773363/index.m3u8
 TVB新闻,http://27.46.95.90:800/hls/1832213323/index.m3u8
