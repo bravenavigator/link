@@ -2893,6 +2893,9 @@ AXN,http://122.117.71.103:8557/http/61.222.53.250:8081/hls/75/817/ch59.m3u8
 长春经济,rtmp://r2bj.vzan.com/v/slowlive_349780930188572439
 长春汽车,http://r2bj.vzan.com/v/slowlive_978419341085239014.flv
 长春汽车,rtmp://r2bj.vzan.com/v/slowlive_978419341085239014
+长春综合,https://p2bj.vzan.com/slowlive/763922717250086092/live.m3u8
+长春文旅体育,https://p2bj.vzan.com/slowlive/077592635708642635/live.m3u8
+长春市民生活,https://p2bj.vzan.com/slowlive/317775187203351257/live.m3u8
 延边汉语综合,https://live.ybtvyun.com/video/s10006-e9c6f9e4d53b/index.m3u8
 📺内蒙古,#genre#
 内蒙古新闻综合,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=b4373417a82ed64e52b0982a66da8df2&txTime=771E8800
