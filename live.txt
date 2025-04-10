@@ -1368,6 +1368,11 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 湛江公共,http://113.110.79.68:808/hls/3/index.m3u8
 湛江公共,http://113.86.205.59:808/hls/3/index.m3u8
 汕尾综合,http://183.239.226.235:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
+梅州综合,http://218.15.183.23:9901/tsfile/live/23002_1.m3u8
+客家生活,http://218.15.183.23:9901/tsfile/live/23003_1.m3u8
+梅州导视,http://218.15.183.23:9901/tsfile/live/23004_1.m3u8
+客家戏曲,http://218.15.183.23:9901/tsfile/live/23005_1.m3u8
+梅州五华综合,http://218.15.183.23:9901/tsfile/live/23000_1.m3u8
 韶关综合,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
 ☘️　港澳,#genre#
 凤凰资讯,http://183.239.236.91:8088/hls/10/index.m3u8
@@ -1393,16 +1398,22 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 凤凰资讯,https://cdn3.163189.xyz/live/fhzx/stream.m3u8
 凤凰资讯,https://cdn5.1678520.xyz/live/live2.1.php?id=fhzx
 凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 凤凰中文,http://cdn.163189.xyz/live/fhzw/stream.m3u8
 凤凰中文,https://cdn.163189.xyz/live/fhzw/stream.m3u8
 凤凰中文,http://cdn.132.us.kg/live/fhzw/stream.m3u8
 凤凰中文,http://125.227.210.55:39004/VideoInput/play.ts
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
 凤凰香港,https://cdn6.163189.xyz/live/fhhk/stream.m3u8
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
+TVB翡翠,http://php.jdshipin.com/smt.php?id=jade_twn
+TVB翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 TVB翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 TVB翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+TVB翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
 TVB翡翠,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct2
 TVB翡翠,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3
 TVB翡翠,http://php.jdshipin.com:8880/smt.php?id=jade_twn
@@ -1419,6 +1430,7 @@ TVB翡翠,http://mzitv.cn:9931/tsfile/live/1007_1.m3u8
 TVB翡翠,http://1b6467f415.iok.la:9931/tsfile/live/1007_1.m3u8
 TVB翡翠,http://50.7.234.10:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
 TVB翡翠,http://50.7.234.10:8278/jade_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=6955e849ff6cf5029870c9beea45140b
+TVB新闻, http://php.jdshipin.com/smt.php?id=inews_twn
 TVB新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 TVB新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 TVB新闻,http://php.jdshipin.com:8880/PLTV/iptv.php?id=tvbxw
@@ -1428,6 +1440,7 @@ TVB新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 TVB新闻,http://php.jdshipin.com/smt.php?id=inews_twn
 TVB新闻,http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w105.m3u8
 TVB新闻,https://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8
+TVB华丽,http://php.jdshipin.com/smt.php?id=Tvbjade
 TVB华丽,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 TVB华丽,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 TVB华丽,http://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
@@ -1438,6 +1451,8 @@ TVB华丽,https://v2h.jdshipin.com/jade2/jade.stream/chunklist_w108.m3u8
 TVB华丽,http://50.7.234.10:8278/Wlt/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=4543d1f8ec962a0819af06238735f0dc
 TVB娱乐,http://php.jdshipin.com:8880/smt.php?id=Tvbentertainment
 TVB娱乐,http://v2hcdn.jdshipin.com/enew/enew.stream/chunklist_w103.m3u8
+TVB J1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
+TVB J1,http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
 TVB J1,http://cdn3.163189.xyz/live/j1/stream.m3u8
 TVB J1,http://cdn3.132.us.kg/live/j1/stream.m3u8
 TVB J1,https://cdn5.1678520.xyz/live/live2.1.php?id=j1
@@ -1450,15 +1465,19 @@ TVB J2,http://cdn.132.us.kg/live/tvbp/stream.m3u8
 TVB J2,https://cdn.163189.xyz/live/live1.1.php?id=tvbp
 TVB J2,https://cdn.163189.xyz/live/?id=tvbp
 TVB J2,http://grandprix2023.asuscomm.com:8892/bysid/82.m3u8
+TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 TVB J2,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 TVB J2,http://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&tsum=699466c18aac56202ad1d2843fd21032
 TVB J2,http://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=ME0E4382171043821710&ct=19237&tsum=6f10351124a4eb90780b2f84b2c4d349
 HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 HOY TV,http://php.jdshipin.com:8880/PLTV/iptv.php?id=hoytv
 HOY TV,http://cdn.163189.xyz/live/hoy/stream.m3u8
 HOY TV,https://cdn.163189.xyz/live/hoy/stream.m3u8
 HOY TV,https://cdn5.163189.xyz/live/hoy/stream.m3u8
 HOY TV,http://cdn.132.us.kg/live/hoy/stream.m3u8
+ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 ViuTV,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 ViuTV,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
 ViuTV6,http://php.jdshipin.com:8880/smt.php?id=viusix_twn
@@ -1473,6 +1492,8 @@ HOY TV,http://27.46.95.90:800/hls/1868454448/index.m3u8
 HOY TV,http://27.46.95.90:800/hls/1868314925/index.m3u8
 ViuTV,http://27.46.95.90:800/hls/1864291364/index.m3u8
 ViuTV6,http://27.46.95.90:800/hls/1852451724/index.m3u8
+RTHK31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
+RTHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 RTHK31,http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
 RTHK32,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
 RTHK31,https://cdn5.163189.xyz/live/rthk31/stream.m3u8
@@ -1503,10 +1524,13 @@ RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/st
 澳门综艺,http://103.233.191.134:1935/ch6/hd_ch6.live/playlist.m3u8
 澳门综艺,http://103.233.191.132:1935/ch6/hd_ch6.live/playlist.m3u8
 澳门综艺,http://103.233.191.133:1935/ch6/hd_ch6.live/playlist.m3u8
+Now爆谷,http://ali.hlspull.yximgs.com/live/0b4586427ee960e494cfa96dc16c7d9c.flv
+Now爆谷星影,http://ali.hlspull.yximgs.com/live/7bbe04000d6b47195d9d57f5c67b75b4.flv
 Now爆谷,https://dko29we9nm1rd.cloudfront.net/hls/CH133/index.m3u8
 Now新闻,https://dko29we9nm1rd.cloudfront.net/hls/CH332/index.m3u8
 Now财经,https://dko29we9nm1rd.cloudfront.net/hls/CH333/index.m3u8
 Now爆谷星影,https://dko29we9nm1rd.cloudfront.net/hls/CH138/index.m3u8
+TVB星河,http://php.jdshipin.com/smt.php?id=Xinhe
 TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
 TVB星河,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
 TVB星河,http://cdn9.163189.xyz/smt1.1.php?id=Xinhe
@@ -1517,6 +1541,7 @@ TVB功夫,http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w10
 TVB功夫,https://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
 TVB功夫,http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist.m3u8
 TVB功夫,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
+TVB千禧经典,http://php.jdshipin.com/smt.php?id=Tvbclassic
 TVB千禧经典,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 TVB千禧经典,http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
 TVB千禧经典,http://cdn9.1689.us.kg/smt1.1.php?id=Tvbclassic
@@ -1524,16 +1549,22 @@ TVB千禧经典,http://cdn9.163189.xyz/smt1.1.php?id=Tvbclassic
 TVB千禧经典,http://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic
 TVB千禧经典,https://cdn9.163189.xyz/smt1.1.php?id=Tvbclassic
 TVB千禧经典,https://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic
+TVB明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
+TVB明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 TVB明珠,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
 TVB明珠,http://php.jdshipin.com:8880/PLTV/iptv.php?id=mzt
 TVB明珠,http://php.jdshipin.com:8880/PLTV/iptv.php?id=mzt2
 TVB明珠,https://cdn5.163189.xyz/live/mzt/stream.m3u8
 TVB明珠,http://43.139.34.228:9898/hls/110/index.m3u8
-TVB明珠,http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8
 Astro剧集台,https://cdn9.163189.xyz/smt1.1.php?id=Aodhd
 Astro欢喜台,http://php.jdshipin.com:8880/smt.php?id=Huahee
+Astro欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
+Astro AOD,http://php.jdshipin.com/smt.php?id=Aodhd
+Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
 Astro AEC,http://php.jdshipin.com:8880/smt.php?id=AEC
+Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
 Astro QJ,http://php.jdshipin.com:8880/smt.php?id=Quanjia
+美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 美亚电影,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 天映频道,http://php.jdshipin.com:8880/smt.php?id=Celestial
 凤凰电影,http://221.7.175.154:8445/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
