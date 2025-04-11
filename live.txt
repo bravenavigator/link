@@ -1465,7 +1465,7 @@ TVB J2,http://cdn.132.us.kg/live/tvbp/stream.m3u8
 TVB J2,https://cdn.163189.xyz/live/live1.1.php?id=tvbp
 TVB J2,https://cdn.163189.xyz/live/?id=tvbp
 TVB J2,http://grandprix2023.asuscomm.com:8892/bysid/82.m3u8
-TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
+TVB J2,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 TVB J2,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 TVB J2,http://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&tsum=699466c18aac56202ad1d2843fd21032
 TVB J2,http://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=ME0E4382171043821710&ct=19237&tsum=6f10351124a4eb90780b2f84b2c4d349
@@ -1480,8 +1480,8 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 ViuTV,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 ViuTV,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
-ViuTV6,http://php.jdshipin.com:8880/smt.php?id=viusix_twn
 ViuTV,https://cdn5.163189.xyz/live/viu/stream.m3u8
+ViuTV6,http://php.jdshipin.com:8880/smt.php?id=viusix_twn
 ViuTV6,http://50.7.234.10:8278/viusix_twn/playlist.m3u8?tid=MF0F4217630642176306&ct=19249&tsum=33becc0fe8466036420dbbb4727dc49e
 ViuTV6,http://50.7.234.10:8278/viusix_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=717813846fc6b398ae2d3433772d8b99
 TVB新闻,http://27.46.95.90:800/hls/1872445994/index.m3u8
@@ -1490,8 +1490,8 @@ TVB新闻,http://27.46.95.90:800/hls/1832213323/index.m3u8
 TVB明珠,http://27.46.95.90:800/hls/1851842729/index.m3u8
 HOY TV,http://27.46.95.90:800/hls/1868454448/index.m3u8
 HOY TV,http://27.46.95.90:800/hls/1868314925/index.m3u8
-ViuTV,http://27.46.95.90:800/hls/1864291364/index.m3u8
 ViuTV6,http://27.46.95.90:800/hls/1852451724/index.m3u8
+ViuTV,http://27.46.95.90:800/hls/1864291364/index.m3u8
 RTHK31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 RTHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 RTHK31,http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
