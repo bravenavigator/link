@@ -75,6 +75,9 @@ CCTV4K高清,http://www.qhjx.top:18000/udp/238.255.2.139:5999
 CETV早期教育,http://www.qhjx.top:18000/udp/238.255.2.143:5999
 CETV中国教育1,http://www.qhjx.top:18000/udp/238.255.2.105:5999
 中华美食,http://www.qhjx.top:18000/udp/238.255.2.142:5999
+CCTV1综合,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
+CCTV7国防军事,http://8.138.7.223/tv/cctv7.m3u8
+CCTV13新闻,http://8.138.7.223/tv/gzjs.m3u8
 CCTV3综艺,http://183.236.32.24:4433/hls/3/index.m3u8
 CCTV14少儿,http://183.236.32.24:4433/hls/14/index.m3u8
 CCTV10科教,http://183.236.32.24:4433/hls/10/index.m3u8
@@ -1426,6 +1429,7 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 凤凰中文,http://183.239.236.91:8088/hls/11/index.m3u8
 凤凰香港,http://183.239.236.91:8088/hls/12/index.m3u8
 TVB翡翠,http://php.jdshipin.com/smt.php?id=jade_twn
+TVB翡翠,http://192.3.130.92:20000/live/fct4k/stream.m3u8
 TVB翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 TVB翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 TVB翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
@@ -1457,6 +1461,7 @@ TVB新闻,http://47.76.146.40:2095/stream/bxtv/null-1/master.m3u8?u=xiaojia&p=ed
 TVB新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 TVB新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 TVB新闻,http://php.jdshipin.com/smt.php?id=inews_twn
+TVB新闻,http://192.3.130.92:20003/live/wxxw/stream.m3u8
 TVB新闻,http://192.3.130.92:20004/news/news.stream/chunklist_w1005.m3u8
 TVB新闻,http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w105.m3u8
 TVB新闻,https://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8
@@ -1481,6 +1486,7 @@ TVB J1,http://cdn3.132.us.kg/live/j1/stream.m3u8
 TVB J1,https://cdn5.1678520.xyz/live/live2.1.php?id=j1
 TVB J1,http://cdn5.1678520.xyz/live/?id=j1
 TVB J1,https://cdn3.163189.xyz/live/j1/stream.m3u8
+TVB J1,http://192.3.130.92:20001/live/j1/stream.m3u8
 TVB J2,http://cdn.163189.xyz/live/tvbp/stream.m3u8
 TVB J2,https://cdn.163189.xyz/live/tvbp/stream.m3u8
 TVB J2,http://108.181.20.181/livehttpplay?channel_id=30023
@@ -1490,6 +1496,7 @@ TVB J2,https://cdn.163189.xyz/live/?id=tvbp
 TVB J2,http://grandprix2023.asuscomm.com:8892/bysid/82.m3u8
 TVB J2,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 TVB J2,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
+TVB J2,http://192.3.130.92:20000/live/tvbp/stream.m3u8
 TVB J2,http://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&tsum=699466c18aac56202ad1d2843fd21032
 TVB J2,http://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=ME0E4382171043821710&ct=19237&tsum=6f10351124a4eb90780b2f84b2c4d349
 Now新闻,http://108.181.20.197/livehttpplay?channel_id=20041
@@ -1500,11 +1507,13 @@ HOY TV,http://cdn.163189.xyz/live/hoy/stream.m3u8
 HOY TV,https://cdn.163189.xyz/live/hoy/stream.m3u8
 HOY TV,https://cdn5.163189.xyz/live/hoy/stream.m3u8
 HOY TV,http://cdn.132.us.kg/live/hoy/stream.m3u8
+HOY TV,http://192.3.130.92:20000/live/hoy/stream.m3u8
 ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 ViuTV,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 ViuTV,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
 ViuTV,https://cdn5.163189.xyz/live/viu/stream.m3u8
+ViuTV,http://192.3.130.92:20006/live/viu/stream.m3u8
 ViuTV6,http://php.jdshipin.com:8880/smt.php?id=viusix_twn
 ViuTV6,http://50.7.234.10:8278/viusix_twn/playlist.m3u8?tid=MF0F4217630642176306&ct=19249&tsum=33becc0fe8466036420dbbb4727dc49e
 ViuTV6,http://50.7.234.10:8278/viusix_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=717813846fc6b398ae2d3433772d8b99
@@ -1542,11 +1551,12 @@ RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/st
 澳门Macau,https://cdn.163189.xyz/live/as/stream.m3u8
 澳门Macau,http://103.233.191.132:1935/ch3/ch3.live/playlist.m3u8
 澳门Macau,http://61.244.22.5/ch3/ch3.live/chunklist.m3u8
+澳门Macau,http://192.3.130.92:20000/live/as/stream.m3u8
 澳视澳门,http://php.jdshipin.com:8880/PLTV/iptv.php?id=asam
 澳视澳门,http://cdn.132.us.kg/live/asam/stream.m3u8
 澳视澳门,https://cdn.163189.xyz/live/asam/stream.m3u8
 澳视澳门,http://mzitv.cn:9931/tsfile/live/1043_1.m3u8
-澳门莲花,http://php.jdshipin.com:8880/amlh.php
+澳视澳门,http://192.3.130.92:20000/live/asam/stream.m3u8
 澳视澳门,http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8
 澳视葡文,http://103.233.191.132:1935/ch2/ch2.live/playlist.m3u8
 澳视葡文,http://103.233.191.133:1935/ch2/ch2.live/playlist.m3u8
@@ -1576,6 +1586,7 @@ TVB千禧经典,http://cdn9.163189.xyz/smt1.1.php?id=Tvbclassic
 TVB千禧经典,http://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic
 TVB千禧经典,https://cdn9.163189.xyz/smt1.1.php?id=Tvbclassic
 TVB千禧经典,https://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic
+TVB明珠,http://192.3.130.92:20006/live/mzt/stream.m3u8
 TVB明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 TVB明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 TVB明珠,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
@@ -1678,6 +1689,7 @@ Astro QJ,http://php.jdshipin.com:8880/smt.php?id=Quanjia
 中天ᴴᴰ,http://50.7.234.10:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
 中天新闻,http://50.7.234.10:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
 中天新闻,http://50.7.234.10:8278/ctinews/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=5da22ad10e374c427fc90aed16f07478
+中天亚洲,http://50.7.234.10:8278/ctiasia_twn/playlist.m3u8?tid=mfc2c5bc6c101&ct=18335&tsum=d074a602fcd98718afeb8fc9a18fa964
 中天娱乐,http://108.181.20.197/livehttpplay?channel_id=20079
 中天娱乐,http://50.7.234.10:8278/ctient/playlist.m3u8?tid=MC9C7081133170811331&ct=19249&tsum=8b08b54208f3ee30e12f419d587f46ac
 中天娱乐,http://50.7.234.10:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
@@ -1727,6 +1739,7 @@ Astro QJ,http://php.jdshipin.com:8880/smt.php?id=Quanjia
 非凡商业,http://125.229.9.67:8546/http/220.130.87.218:8081/hls/74/816/ch056.m3u8
 镜新闻,http://125.229.9.67:8552/http/220.130.87.218:8092/upload/114/MNEWS_TS-1111_1.m3u8
 壹新闻,http://108.181.20.197/livehttpplay?channel_id=20028
+寰宇新闻,http://122.117.71.103:8548/http/220.130.87.218:8081/hls/76/818/ch062.m3u8
 寰宇新闻,http://50.7.234.10:8278/huanyuxinwen_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=2e4ba5060f39aa293606ab3341b4fcde
 寰宇新闻,http://125.229.9.67:8548/http/220.130.87.218:8081/hls/76/818/ch062.m3u8
 年代新闻,http://108.181.20.197/livehttpplay?channel_id=20033
