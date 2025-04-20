@@ -1637,27 +1637,17 @@ Astro QJ,http://php.jdshipin.com:8880/smt.php?id=Quanjia
 巫山综合,https://qxlmlive9.cbg.cn/applive/wspd001/chunklist.m3u8
 永川综合,https://qxlmlive9.cbg.cn/applive/yctv01/playlist.m3u8
 🌊　台湾,#genre#
-中天ᴴᴰ,http://122.117.71.103:8525/http/61.222.53.250:8081/hls/75/817/ch59.m3u8
-中天ᴴᴰ,http://122.117.71.103:8525/http/220.130.87.218:8081/hls/67/809/ch025.m3u8
 中天ᴴᴰ,http://50.7.234.10:8278/ctizhonghe/playlist.m3u8?tid=MB6B3888954738889547&ct=19254&tsum=d0cb922e44e8a16bea598530697c581e
 中天ᴴᴰ,http://50.7.234.10:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
-中天新闻,http://122.117.71.103:8540/http/61.222.53.250:8081/hls/75/817/ch59.m3u8
-中天新闻,http://122.117.71.103:8540/http/220.130.87.218:8081/hls/78/80/ch063max.m3u8
 中天新闻,http://50.7.234.10:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
 中天新闻,http://50.7.234.10:8278/ctinews/playlist.m3u8?tid=MB0B9546410395464103&ct=19249&tsum=30c62d7eec5ce9a49a64c3fa3ff8a8b7
 中天新闻,http://50.7.234.10:8278/ctinews/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=5da22ad10e374c427fc90aed16f07478
-中天新闻,http://122.117.71.103:8540/http/220.130.87.218:8081/hls/78/80/ch063max.m3u8
-中天亚洲 ,http://extraott.com:80/live/6772191932/1654508883/191911.m3u8
 中天娱乐,http://108.181.20.197/livehttpplay?channel_id=20079
-中天娱乐,http://122.117.71.103:8526/http/61.222.53.250:8081/hls/67/809/ch26.m3u8
-中天娱乐,http://122.117.71.103:8526/http/220.130.87.218:8081/hls/67/809/ch026.m3u8
 中天娱乐,http://50.7.234.10:8278/ctient/playlist.m3u8?tid=MC9C7081133170811331&ct=19249&tsum=8b08b54208f3ee30e12f419d587f46ac
 中天娱乐,http://50.7.234.10:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
-中天娱乐,http://125.229.9.67:8526/http/220.130.87.218:8081/hls/67/809/ch026.m3u8
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
 中视ᴴᴰ,http://108.181.20.197/livehttpplay?channel_id=20088
 中视ᴴᴰ,http://198.16.100.186:8278/zhongshihd_twn/playlist.m3u8?tid=MBDB6720263767202637&ct=19249&tsum=edd778f298b53c39b3b9706700032605
-中视ᴴᴰ,http://122.117.71.103:8502/http/61.222.53.250:8081/hls/89/80/Cts4max.m3u8
 中视ᴴᴰ,http://50.7.234.10:8278/zhongshihd_twn/playlist.m3u8?ct=19226&tid=MB8B7313326473133264&tsum=ae7506028e559f3a6e2a3519b2f6a91e
 中视ᴴᴰ,http://50.7.234.10:8278/zhongshihd_twn/playlist.m3u8?tid=MB8B7313326473133264&ct=19226&tsum=ae7506028e559f3a6e2a3519b2f6a91e
 中视ᴴᴰ,rtmp://f13h.mine.nu/sat/tv091
