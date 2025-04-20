@@ -1516,6 +1516,7 @@ RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/st
 RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8 
 RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
 澳门Macau,http://cdn.163189.xyz/live/as/stream.m3u8
+澳门Macau,https://cdn.163189.xyz/live/as/stream.m3u8
 澳门Macau,http://103.233.191.132:1935/ch3/ch3.live/playlist.m3u8
 澳门Macau,http://61.244.22.5/ch3/ch3.live/chunklist.m3u8
 澳视澳门,http://php.jdshipin.com:8880/PLTV/iptv.php?id=asam
@@ -2537,6 +2538,16 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 河南都市,http://42.238.235.104:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 河南民生,http://42.238.235.104:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 梨园频道,http://61.163.181.78:9901/tsfile/live/1006_1.m3u8
+河南民生,http://1.94.31.214/php/hntv.php?id=hnms
+河南电视剧,http://1.94.31.214/php/hntv.php?id=hndsj
+河南新闻,http://1.94.31.214/php/hntv.php?id=hnxw
+河南公共,http://1.94.31.214/php/hntv.php?id=hngg
+河南乡村,http://1.94.31.214/php/hntv.php?id=hnxc
+河南梨园,http://1.94.31.214/php/hntv.php?id=hnly
+文物宝库,http://1.94.31.214/php/hntv.php?id=wwbk
+武术世界,http://1.94.31.214/php/hntv.php?id=wspd
+睛彩中原,http://1.94.31.214/php/hntv.php?id=jczy
+移动戏曲,http://1.94.31.214/php/hntv.php?id=ydxj
 河南新闻,http://www.cdnstv.com:6398/hls/1114/index.m3u8
 河南乡村,http://www.cdnstv.com:6398/hls/1116/index.m3u8
 河南戏曲,http://www.cdnstv.com:6398/hls/1119/index.m3u8
