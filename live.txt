@@ -1664,11 +1664,9 @@ TVB明珠,http://43.139.34.228:9898/hls/110/index.m3u8
 八度空间,https://cdn6.163189.xyz/live/8tv/stream.m3u8
 八度空间,https://cdn6.132.us.kg/live/8tv/stream.m3u8
 八度空间,http://192.3.130.92:20003/live/8tv/stream.m3u8
-Astro欢喜台,http://192.3.130.92:20002/smt3.2.1.php?id=Huahee
-Astro欢喜台,http://php.jdshipin.com:8880/smt.php?id=Huahee
-Astro欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
-Astro剧集台,https://cdn9.163189.xyz/smt1.1.php?id=Aodhd
-Astro AOD,http://php.jdshipin.com/smt.php?id=Aodhd
+Astro欢喜,http://192.3.130.92:20002/smt3.2.1.php?id=Huahee
+Astro欢喜,http://php.jdshipin.com:8880/smt.php?id=Huahee
+Astro欢喜,http://php.jdshipin.com/smt.php?id=Huahee
 Astro AEC,http://192.3.130.92:20002/smt3.2.1.php?id=AEC
 Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
 Astro AEC,http://php.jdshipin.com:8880/smt.php?id=AEC
