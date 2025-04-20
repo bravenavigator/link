@@ -1447,7 +1447,6 @@ TVB翡翠,http://mzitv.cn:9931/tsfile/live/1007_1.m3u8
 TVB翡翠,http://1b6467f415.iok.la:9931/tsfile/live/1007_1.m3u8
 TVB翡翠,http://50.7.234.10:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
 TVB翡翠,http://50.7.234.10:8278/jade_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=6955e849ff6cf5029870c9beea45140b
-TVB新闻,http://192.3.130.92:20004/news/news.stream/chunklist_w1005.m3u8
 TVB新闻,http://192.3.130.92:20002/smt3.2.1.php?id=inews_twn
 TVB新闻,http://cdn3.132.us.kg/live/wxxw/stream.m3u8
 TVB新闻,http://php.jdshipin.com/smt.php?id=inews_twn
@@ -1458,6 +1457,7 @@ TVB新闻,http://47.76.146.40:2095/stream/bxtv/null-1/master.m3u8?u=xiaojia&p=ed
 TVB新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 TVB新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 TVB新闻,http://php.jdshipin.com/smt.php?id=inews_twn
+TVB新闻,http://192.3.130.92:20004/news/news.stream/chunklist_w1005.m3u8
 TVB新闻,http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w105.m3u8
 TVB新闻,https://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8
 TVB华丽,http://192.3.130.92:20004/jade2/jade.stream/chunklist_w1008.m3u8
