@@ -1407,6 +1407,7 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
 凤凰香港,https://cdn6.163189.xyz/live/fhhk/stream.m3u8
+凤凰香港,http://cdn3.132.us.kg/live/fhhk/stream.m3u8
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
 凤凰中文,http://192.3.130.92:20000/live/fhzw/stream.m3u8
@@ -1419,6 +1420,7 @@ TVB翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
 TVB翡翠,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct2
 TVB翡翠,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3
 TVB翡翠,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+TVB翡翠,http://cdn3.132.us.kg/live/fct/stream.m3u8
 TVB翡翠,http://47.76.146.40:2095/stream/bxtv/null/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb
 TVB翡翠,http://43.139.34.228:9898/hls/91/index.m3u8
 TVB翡翠,http://cdn.163189.xyz/live/fct4k/stream.m3u8
@@ -1434,6 +1436,7 @@ TVB翡翠,http://50.7.234.10:8278/jade_twn/playlist.m3u8?tid=ME6E133031911330319
 TVB翡翠,http://50.7.234.10:8278/jade_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=6955e849ff6cf5029870c9beea45140b
 TVB新闻,http://192.3.130.92:20004/news/news.stream/chunklist_w1005.m3u8
 TVB新闻,http://192.3.130.92:20002/smt3.2.1.php?id=inews_twn
+TVB新闻,http://cdn3.132.us.kg/live/wxxw/stream.m3u8
 TVB新闻,http://php.jdshipin.com/smt.php?id=inews_twn
 TVB新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 TVB新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
@@ -1503,8 +1506,12 @@ RTHK31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 RTHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 RTHK31,http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
 RTHK32,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
+RTHK31,http://cdn5.132.us.kg/live/rthk31/stream.m3u8
+RTHK32,http://cdn5.132.us.kg/live/rthk32/stream.m3u8
 RTHK31,https://cdn5.163189.xyz/live/rthk31/stream.m3u8
 RTHK32,https://cdn5.163189.xyz/live/rthk32/stream.m3u8
+RTHK31,http://php.jdshipin.com/PLTV/iptv.php?id=rthk31
+RTHK32,http://php.jdshipin.com/PLTV/iptv.php?id=rthk32
 RTHK32,http://50.7.234.10:8278/rhk32_twn/playlist.m3u8?tid=MBCB4455322944553229&ct=19226&tsum=60bac13753ada5abc8873783d6611ebd
 RTHK33,http://192.3.130.92:20006/live/cctv1/stream.m3u8
 RTHK33,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
@@ -1562,8 +1569,23 @@ TVB明珠,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
 TVB明珠,http://php.jdshipin.com:8880/PLTV/iptv.php?id=mzt
 TVB明珠,http://php.jdshipin.com:8880/PLTV/iptv.php?id=mzt2
 TVB明珠,https://cdn5.163189.xyz/live/mzt/stream.m3u8
+TVB明珠,http://cdn5.132.us.kg/live/mzt/stream.m3u8
 TVB明珠,http://43.139.34.228:9898/hls/110/index.m3u8
+美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+美亚电影,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
+天映频道,http://192.3.130.92:20002/smt3.2.1.php?id=Celestial
+天映频道,http://php.jdshipin.com:8880/smt.php?id=Celestial
+凤凰电影,http://221.7.175.154:8445/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+🌏　华文,#genre#
+新加坡CHU,https://cdn6.132.us.kg/live/chu/stream.m3u8
+新加坡CH5,https://cdn6.132.us.kg/live/ch5/stream.m3u8
+新加坡CH8,https://cdn6.132.us.kg/live/ch8/stream.m3u8
+新加坡CH5,http://192.3.130.92:20003/live/ch5/stream.m3u8
+新加坡CH8,http://192.3.130.92:20003/live/ch8/stream.m3u8
+新加坡CHU,http://192.3.130.92:20003/live/chu/stream.m3u8
 八度空间,https://cdn6.163189.xyz/live/8tv/stream.m3u8
+八度空间,https://cdn6.132.us.kg/live/8tv/stream.m3u8
 八度空间,http://192.3.130.92:20003/live/8tv/stream.m3u8
 Astro欢喜台,http://192.3.130.92:20002/smt3.2.1.php?id=Huahee
 Astro欢喜台,http://php.jdshipin.com:8880/smt.php?id=Huahee
@@ -1576,12 +1598,6 @@ Astro AEC,http://php.jdshipin.com:8880/smt.php?id=AEC
 Astro QJ,http://192.3.130.92:20002/smt3.2.1.php?id=Quanjia
 Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
 Astro QJ,http://php.jdshipin.com:8880/smt.php?id=Quanjia
-美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
-美亚电影,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
-天映频道,http://192.3.130.92:20002/smt3.2.1.php?id=Celestial
-天映频道,http://php.jdshipin.com:8880/smt.php?id=Celestial
-凤凰电影,http://221.7.175.154:8445/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
-星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 📺　北京,#genre#
 北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s41/index.m3u8?time=1743245208&sign=fdbb62ef4425a678cf010e53bd553d61
 北京新闻,http://211.67.191.23/hls/btv9hd/index.m3u8
@@ -1823,6 +1839,12 @@ TVBS欢乐,http://125.229.9.67:8531/http/220.130.87.218:8081/hls/65/807/ch017.m3
 龙华日韩,https://tv.cdn8.rr.nu/live/lhrh/stream.m3u8
 龙华戏剧,https://tv.cdn8.rr.nu/live/lhxj/stream.m3u8
 龙华洋片,https://tv.cdn8.rr.nu/live/lhyp/stream.m3u8
+龙华电影,https://cdn3.132.us.kg/live/lhdy/stream.m3u8
+龙华经典,https://cdn3.132.us.kg/live/lhjd/stream.m3u8
+龙华卡通,https://cdn3.132.us.kg/live/lhkt/stream.m3u8
+龙华偶像,https://cdn3.132.us.kg/live/lhox/stream.m3u8
+龙华日韩,https://cdn3.132.us.kg/live/lhrh/stream.m3u8
+龙华戏剧,https://cdn3.132.us.kg/live/lhxj/stream.m3u8
 龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 龙华经典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
 龙华卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
@@ -2740,21 +2762,41 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 📺　甘肃,#genre#
 甘肃新闻,rtsp://60.13.39.18:554/PLTV/88888910/224/3221225836/375578711.smil
 甘肃文旅,rtsp://60.13.39.18:554/PLTV/88888910/224/3221225823/375578759.smil
+甘肃都市,rtmp://livein.gstv.com.cn/49048r/4o7e76
+甘肃文化影视,rtmp://livein.gstv.com.cn/49048r/068vw9
+甘肃公共应急,rtmp://livein.gstv.com.cn/49048r/2v86i8
+甘肃少儿,rtmp://livein.gstv.com.cn/49048r/oj57of
+甘肃移动,rtmp://livein.gstv.com.cn/49048r/y72q36
 兰州新闻综合,rtsp://60.13.39.18/PLTV/88888910/224/3221225836/375578711.smil
 兰州文旅,rtsp://60.13.39.18/PLTV/88888910/224/3221225823/375578759.smil
-张掖新闻综合,https://play.kankanlive.com/live/1720583434627241.m3u8
+张掖综合,https://play.kankanlive.com/live/1720583434627241.m3u8
+张掖综合,http://play.kankanlive.com/live/1720583434627241.m3u8
+张掖农旅,http://play.kankanlive.com/live/1720583009200246.m3u8
+张掖甘州综合,https://play.kankanlive.com/live/1656898082155960.m3u8
 天水综合,rtsp://60.13.39.18:554/PLTV/88888910/224/3221225866/376769060.smil
 天水文旅,rtsp://60.13.39.18:554/PLTV/88888910/224/3221225869/376769059.smil
 天水秦安综合,https://play.kankanlive.com/live/1680577080200944.m3u8
 酒泉金塔综合,rtsp://60.13.39.18:554/PLTV/88888910/224/3221225826/375578764.smil
 酒泉肃州综合,rtsp://60.13.39.18:554/PLTV/88888910/224/3221225818/373186605.smil
+武威综合,https://play.kankanlive.com/live/1693539781636986.m3u8
+武威天祝综合,https://play.kankanlive.com/live/1656487214793905.m3u8
+庆阳综合,https://play.kankanlive.com/live/1700643403411931.m3u8
 庆阳西峰综合,https://play.kankanlive.com/live/1683944827526991.m3u8
+陇南综合,https://play.kankanlive.com/live/1709171819929902.m3u8
+陇南公共,https://play.kankanlive.com/live/1709171893138901.m3u8
 陇南西和综合,https://play.kankanlive.com/live/1659926941626981.m3u8
+陇南成县综合,https://play.kankanlive.com/live/1702454377323961.m3u8
 白银综合,https://play.kankanlive.com/live/1720408089419110.m3u8
+白银文教,https://play.kankanlive.com/live/1720408280309109.m3u8
 白银景泰综合,https://play.kankanlive.com/live/1624439143745981.m3u8
+平凉庄浪综合,https://play.kankanlive.com/live/1687654127961989.m3u8
 金昌永昌综合,https://play.kankanlive.com/live/1652755738635915.m3u8
+庆阳西峰综合,https://play.kankanlive.com/live/1683944827526991.m3u8
+甘南综合,https://play.kankanlive.com/live/1711955176432990.m3u8
 甘南藏语,http://play.kankanlive.com/live/1720408280309109.m3u8
 甘南藏语,rtsp://60.13.39.18:554/PLTV/88888910/224/3221225819/374381817.smil
+甘南卓尼综合,https://play.kankanlive.com/live/1711955964973985.m3u8
+甘南迭部综合,https://play.kankanlive.com/live/1711955827175988.m3u8
 临夏和政综合,rtsp://60.13.39.18:554/PLTV/88888910/224/3221225829/375939366.smil
 临夏康乐综合,rtsp://60.13.39.18:554/PLTV/88888910/224/3221225828/375578482.smil
 📺　宁夏,#genre#
