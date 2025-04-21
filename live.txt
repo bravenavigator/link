@@ -1685,9 +1685,9 @@ TVB明珠,http://43.139.34.228:9898/hls/110/index.m3u8
 新加坡CHU,https://cdn6.132.us.kg/live/chu/stream.m3u8
 新加坡CH5,https://cdn6.132.us.kg/live/ch5/stream.m3u8
 新加坡CH8,https://cdn6.132.us.kg/live/ch8/stream.m3u8
-新加CHU,https://cdn6.163189.xyz/live/chu/stream.m3u8
-新加CH5,https://cdn6.163189.xyz/live/ch5/stream.m3u8
-新加CH8,https://cdn6.163189.xyz/live/ch8/stream.m3u8
+新加坡CHU,https://cdn6.163189.xyz/live/chu/stream.m3u8
+新加坡CH5,https://cdn6.163189.xyz/live/ch5/stream.m3u8
+新加坡CH8,https://cdn6.163189.xyz/live/ch8/stream.m3u8
 新加坡CH5,http://192.3.130.92:20003/live/ch5/stream.m3u8
 新加坡CH8,http://192.3.130.92:20003/live/ch8/stream.m3u8
 新加坡CHU,http://192.3.130.92:20003/live/chu/stream.m3u8
