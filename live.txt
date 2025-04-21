@@ -1466,8 +1466,6 @@ TVB新闻,http://192.3.130.92:20003/live/wxxw/stream.m3u8
 TVB新闻,http://192.3.130.92:20004/news/news.stream/chunklist_w1005.m3u8
 TVB新闻,http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w105.m3u8
 TVB新闻,https://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8
-TVB财经体育,rtmp://60.248.77.68/sat/hk011
-TVB财经体育,rtmp://60.248.77.66/sat/hk011
 TVB华丽,http://192.3.130.92:20004/jade2/jade.stream/chunklist_w1008.m3u8
 TVB华丽,http://php.jdshipin.com/smt.php?id=Tvbjade
 TVB华丽,http://php.jdshipin.com/TVOD/iptv.php?id=huali
@@ -1505,6 +1503,8 @@ TVB J2,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 TVB J2,http://192.3.130.92:20000/live/tvbp/stream.m3u8
 TVB J2,http://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&tsum=699466c18aac56202ad1d2843fd21032
 TVB J2,http://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=ME0E4382171043821710&ct=19237&tsum=6f10351124a4eb90780b2f84b2c4d349
+TVB J2,rtmp://60.248.77.68/sat/hk011
+TVB J2,rtmp://60.248.77.66/sat/hk011
 Now新闻,http://mytv.cdn.com.mp/live/now/stream.m3u8
 Now新闻,http://108.181.20.197/livehttpplay?channel_id=20041
 HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
