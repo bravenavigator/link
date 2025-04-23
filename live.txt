@@ -2484,6 +2484,12 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 福州新闻,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 福州生活,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
+厦门一套,https://live1b.kxm.xmtv.cn/xm1bf/playlist.m3u8
+厦门一套,https://live1b.kxm.xmtv.cn/xm1bf/tvzb/live.m3u8
+厦门二套,https://live1b.kxm.xmtv.cn/xm2bf/playlist.m3u8
+厦门二套,https://live1b.kxm.xmtv.cn/xm2bf/tvzb/live.m3u8
+移动电视,https://live1b.kxm.xmtv.cn/xmyidongbf_1b/playlist.m3u8
+厦门移动电视,https://live1b.kxm.xmtv.cn/xmyidongbf_1b/tvzb/live.m3u8
 南平综合,http://117.27.190.42:9998/tsfile/live/23295_1.m3u8?key=txiptv&playlive=1&authid=0
 宁德综合,http://117.27.190.42:9998/tsfile/live/23296_1.m3u8?key=txiptv&playlive=1&authid=0
 龙岩综合,http://117.27.190.42:9998/tsfile/live/23297_1.m3u8?key=txiptv&playlive=1&authid=0
