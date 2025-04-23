@@ -2462,11 +2462,6 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 景德镇新闻综合,http://play-live-hls.jxtvcn.com.cn/live/tv_jingdezhen.flv
 景德镇新闻综合,rtmp://play-live-hls.jxtvcn.com.cn/live/tv_jingdezhen
 📺　福建,#genre#
-福建综合,http://8.138.7.223/tv/fjtv.php?id=4
-福建公共,http://8.138.7.223/tv/fjtv.php?id=6
-福建新闻,http://8.138.7.223/tv/fjtv.php?id=13
-福建经济,http://8.138.7.223/tv/fjtv.php?id=9
-福建少儿,http://8.138.7.223/tv/fjtv.php?id=2
 福建新闻,http://110.80.17.38:9901/tsfile/live/0122_1.m3u8
 福建乡村振兴公共,http://110.80.17.38:9901/tsfile/live/0130_1.m3u8
 福建旅游,http://110.80.17.38:9901/tsfile/live/0138_1.m3u8
@@ -2478,8 +2473,6 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 福建新闻,http://117.27.190.42:9998/tsfile/live/23286_1.m3u8?key=txiptv&playlive=1&authid=0
 福建电视剧,http://117.27.190.42:9998/tsfile/live/23287_1.m3u8?key=txiptv&playlive=1&authid=0
 福建少儿,http://117.27.190.42:9998/tsfile/live/23290_1.m3u8?key=txiptv&playlive=1&authid=0
-福建新闻,http://8.138.7.223/tv/fjtv.php?id=13
-福建旅游,http://8.138.7.223/tv/fjtv.php?id=8
 福州综合,http://117.27.190.42:9998/tsfile/live/23301_1.m3u8?key=txiptv&playlive=1&authid=0
 福州新闻,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 福州生活,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
