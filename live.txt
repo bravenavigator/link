@@ -161,7 +161,6 @@ CCTV8电视剧,http://60.172.130.146:352/tsfile/live/0008_1.m3u8?key=txiptv&play
 CCTV9纪录,http://60.172.130.146:352/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV10科教,http://60.172.130.146:352/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV12社会与法,http://60.172.130.146:352/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5+体育赛事,http://14.212.185.214:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5+体育赛事,http://14.212.185.146:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1综合,http://58.220.219.14:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2财经,http://58.220.219.14:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -697,29 +696,6 @@ CETV中国教育4,http://gmxw.7766.org:808/hls/79/index.m3u8
 陕西卫视,http://43.139.34.228:9898/hls/57/index.m3u8
 甘肃卫视,http://43.139.34.228:9898/hls/69/index.m3u8
 四川卫视,http://183.221.92.176:50080/hls/16/index.m3u8
-海南卫视,http://14.212.185.214:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-东方卫视,http://14.212.185.214:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-四川卫视,http://14.212.185.214:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视,http://14.212.185.214:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-广西卫视,http://14.212.185.214:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
-北京卫视,http://14.212.185.214:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-河北卫视,http://14.212.185.214:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
-天津卫视,http://14.212.185.214:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
-贵州卫视,http://14.212.185.214:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
-东南卫视,http://14.212.185.214:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-黑龙江卫视,http://14.212.185.214:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-吉林卫视,http://14.212.185.214:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁卫视,http://14.212.185.214:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-云南卫视,http://14.212.185.214:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江卫视,http://14.212.185.214:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-江西卫视,http://14.212.185.214:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北卫视,http://14.212.185.214:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳卫视,http://14.212.185.214:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-山东卫视,http://14.212.185.214:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
-江苏卫视,http://14.212.185.214:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-河南卫视,http://14.212.185.214:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视,http://14.212.185.214:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://14.212.185.214:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁卫视,http://183.239.236.91:8088/hls/69/index.m3u8
 河北卫视,http://183.239.236.91:8088/hls/62/index.m3u8
 海南卫视,http://183.239.236.91:8088/hls/54/index.m3u8
@@ -1641,16 +1617,15 @@ TVB明珠,http://43.139.34.228:9898/hls/110/index.m3u8
 凤凰电影,http://221.7.175.154:8445/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 📺　北京,#genre#
-北京新闻,http://211.67.191.23/hls/btv9hd/index.m3u8
-北京财经,http://www.weec.top:2222/udp/239.3.1.116:8000
-北京文艺,http://211.67.191.23/hls/btv2hd/index.m3u8
-北京影视,http://211.67.191.23/hls/btv4hd/index.m3u8
-北京体育休闲,http://211.67.191.23/hls/btv11hd/index.m3u8
+北京新闻,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1745265611&sign=8b8501f4dc439364da359b2e00b2dce4
+北京新闻,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1745352012&sign=f6f6a0c118d1b122917cdf47a9f1c3cb
+北京财经,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1745265610&sign=d8d4bd8da59d2d23f437aaff896b0c9f
+北京财经,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1745352011&sign=2f4551dbf78c0843db8b702386e19530
+北京生活,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=1745265610&sign=9b685bbcb5509f8fcb2a27745ae5f6fb
 北京纪实科教,http://www.qhjx.top:18000/udp/238.255.2.107:5999
-北京纪实科教,http://119.32.12.32:2901/udp/224.1.100.115:11111
 北京纪实科教8K,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
-北京卡酷少儿,http://60.30.73.2:59901/tsfile/live/0001_30.m3u8
-北京卡酷少儿,http://61.138.128.226:19901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+卡酷少儿,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1745265611&sign=923d811ecf9a1796889ad7db095ea7a6
+卡酷少儿,http://61.138.128.226:19901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 📺　上海,#genre#
 东方财经,http://115.150.63.77:9902/tsfile/live/1042_1.m3u8
 乐游频道,http://124.128.73.58:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1704,7 +1679,7 @@ TVB明珠,http://43.139.34.228:9898/hls/110/index.m3u8
 酉阳综合,http://qxlmlive9.cbg.cn/applive/youytv01/playlist.m3u8
 巫山综合,https://qxlmlive9.cbg.cn/applive/wspd001/chunklist.m3u8
 永川综合,https://qxlmlive9.cbg.cn/applive/yctv01/playlist.m3u8
-🌏　华文,#genre#
+🌐　华文,#genre#
 新加坡CHU,https://cdn6.132.us.kg/live/chu/stream.m3u8
 新加坡CH5,https://cdn6.132.us.kg/live/ch5/stream.m3u8
 新加坡CH8,https://cdn6.132.us.kg/live/ch8/stream.m3u8
