@@ -300,6 +300,7 @@ CCTV15音乐,http://121.232.178.75:60001/tsfile/live/0015_1.m3u8
 CCTV2财经,http://183.215.211.219:9998/tsfile/live/1011_1.m3u8
 CCTV3综艺,http://61.136.67.238:50085/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV6电影,http://119.36.148.115:59901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV重温经典,http://cdn3.163189.xyz/live/cwjd/stream.m3u8
 CCTV重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 CCTV重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 CCTV9纪录,http://183.94.1.118:8801/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1279,6 +1280,7 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 广东民生,http://14.212.185.146:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 广东影视,http://14.212.185.146:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://14.212.185.146:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
 广东珠江,http://192.3.130.92:20007/live/gdzj/stream.m3u8
 广东新闻,http://120.238.94.10:9901/tsfile/live/1010_1.m3u8
 广东影视,http://108.181.21.27:27347/livehttpplay?channel_id=20145
@@ -1292,6 +1294,7 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 广东影视,http://121.11.160.7:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 经济科教,http://121.11.160.7:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 广东少儿,http://121.11.160.7:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
 广东珠江,https://tv.cdn.com.mp/live/gdzj/stream.m3u8
 广东体育,https://tv.cdn.com.mp/live/gdty/stream.m3u8
 广东珠江,http://php.jdshipin.com:8880/PLTV/iptv.php?id=gdzj
@@ -1576,7 +1579,6 @@ RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/st
 澳门Macau,http://103.233.191.132:1935/ch3/ch3.live/playlist.m3u8
 澳门Macau,http://61.244.22.5/ch3/ch3.live/chunklist.m3u8
 澳门Macau,http://192.3.130.92:20000/live/as/stream.m3u8
-澳门Macau,http://cdn.163189.xyz/live/as/stream.m3u8
 澳视澳门,http://php.jdshipin.com:8880/PLTV/iptv.php?id=asam
 澳视澳门,http://cdn.132.us.kg/live/asam/stream.m3u8
 澳视澳门,https://cdn.163189.xyz/live/asam/stream.m3u8
