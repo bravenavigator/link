@@ -122,7 +122,7 @@ CCTV9纪录,http://183.66.15.146:60901/tsfile/live/0009_1.m3u8?key=txiptv&playli
 CCTV10科教,http://183.66.15.146:60901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV12社会与法,http://183.66.15.146:60901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5体育,http://113.15.109.216:59901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5+体育世界,http://113.15.109.216:59901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+体育赛事,http://113.15.109.216:59901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV11戏曲,http://113.15.109.216:59901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV14少儿,http://113.15.109.216:59901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3综艺,http://183.236.32.24:4433/hls/3/index.m3u8
@@ -141,7 +141,7 @@ CCTV2财经,http://171.118.162.212:9003//hls/2/index.m3u8
 CCTV3综艺,http://171.118.162.212:9003//hls/3/index.m3u8
 CCTV4中文国际,http://171.118.162.212:9003//hls/4/index.m3u8
 CCTV5体育,http://171.118.162.212:9003//hls/5/index.m3u8
-CCTV5+体育世界,http://171.118.162.212:9003//hls/6/index.m3u8
+CCTV5+体育赛事,http://171.118.162.212:9003//hls/6/index.m3u8
 CCTV6电影,http://171.118.162.212:9003//hls/7/index.m3u8
 CCTV7国防军事,http://171.118.162.212:9003//hls/8/index.m3u8
 CCTV8电视剧,http://171.118.162.212:9003//hls/9/index.m3u8
@@ -1807,7 +1807,6 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 山东体育,http://124.128.73.58:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 山东综艺,http://124.128.73.58:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 山东影视,http://124.128.73.58:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-济南综合,rtmp://tv.qntv.net/channellive/ch1
 济南综合,http://124.128.73.58:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 菏泽新闻综合,http://live.hznet.tv:1935/live/live1/500k/tzwj_video.m3u8
 菏泽经济生活,http://live.hznet.tv:1935/live/live2/500k/tzwj_video.m3u8
@@ -2281,9 +2280,9 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 遵义公共频道,http://www.qhjx.top:18000/udp/238.255.2.152:5999
 黔南新闻综合,http://www.qhjx.top:18000/udp/238.255.2.150:5999
 黔南公共,http://www.qhjx.top:18000/udp/238.255.2.151:5999
-黔南瓮安综合,http://www.qhjx.top:18000/udp/238.255.2.216:5999
 黔南新闻综合,rtmp://tv.qntv.net/channellive/ch1
 黔南公共,rtmp://tv.qntv.net/channellive/ch2
+黔南瓮安综合,http://www.qhjx.top:18000/udp/238.255.2.216:5999
 毕节公共,http://www.qhjx.top:18000/udp/238.255.2.132:5999
 毕节七星关综合,https://p8.vzan.com:443/slowlive/147077707554082780/live.m3u8
 安顺新闻综合,http://www.qhjx.top:18000/udp/238.255.2.157:5999
