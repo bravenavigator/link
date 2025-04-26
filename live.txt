@@ -1377,7 +1377,7 @@ TVB明珠,http://43.139.34.228:9898/hls/110/index.m3u8
 乐游频道,http://104.244.79.187:62115/itv/5000000011000031112.m3u8?cdn=bestzb
 生活时尚,http://104.244.79.187:62115/itv/5000000002000019634.m3u8?cdn=bestzb
 七彩戏剧,http://104.244.79.187:62115/itv/5000000011000031116.m3u8?cdn=bestzb
-都市剧场,http://104.244.79.187:62115/itv/5000000011000031111.m3u8?cdn=bestzb
+都市剧场,http://183.239.236.91:8088/hls/127/index.m3u8
 欢笑剧场,http://104.244.79.187:62115/itv/5000000002000009455.m3u8?cdn=bestzb
 魅力足球,http://104.244.79.187:62115/itv/5000000011000031207.m3u8?cdn=bestzb
 动漫秀场,http://104.244.79.187:62115/itv/5000000011000031113.m3u8?cdn=bestzb
@@ -2192,7 +2192,6 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 四川乡村,http://112.44.232.224:55080/hls/30/index.m3u8
 四川峨眉电影,http://112.44.232.224:55080/hls/31/index.m3u8
 四川峨眉电影,http://183.221.92.176:50080/hls/20/index.m3u8
-四川卫视,http://183.221.92.176:50080/hls/16/index.m3u8
 四川新闻,http://118.122.189.74:9901/tsfile/live/0123_3.m3u8?key=txiptv&playlive=1&authid=0
 四川新闻,http://183.223.157.33:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 四川经济,http://118.122.189.74:9901/tsfile/live/0123_2.m3u8?key=txiptv&playlive=1&authid=0
