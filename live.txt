@@ -1086,7 +1086,6 @@ TVB翡翠,http://cdn5.1678520.xyz/live/?id=fct
 TVB翡翠,https://cdn3.163189.xyz/live/fct/stream.m3u8
 TVB翡翠,http://cdn.132.us.kg/live/fct4k/stream.m3u8
 TVB翡翠,http://108.181.20.181/livehttpplay?channel_id=30025
-TVB翡翠,http://mzitv.cn:9931/tsfile/live/1007_1.m3u8
 TVB翡翠,http://1b6467f415.iok.la:9931/tsfile/live/1007_1.m3u8
 TVB翡翠,http://50.7.234.10:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
 TVB翡翠,http://50.7.234.10:8278/jade_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=6955e849ff6cf5029870c9beea45140b
@@ -1223,10 +1222,8 @@ RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/st
 澳视澳门,http://php.jdshipin.com:8880/PLTV/iptv.php?id=asam
 澳视澳门,http://cdn.132.us.kg/live/asam/stream.m3u8
 澳视澳门,https://cdn.163189.xyz/live/asam/stream.m3u8
-澳视澳门,http://cdn.132.us.kg/live/asam/stream.m3u8
 澳视澳门,http://php.jdshipin.com/PLTV/iptv.php?id=asam
 澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
-澳视澳门,http://mzitv.cn:9931/tsfile/live/1043_1.m3u8
 澳视澳门,http://192.3.130.92:20000/live/asam/stream.m3u8
 澳视澳门,http://cdn.163189.xyz/live/asam/stream.m3u8
 澳视澳门,http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8
