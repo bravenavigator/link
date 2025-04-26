@@ -94,6 +94,25 @@ CCTV15音乐,http://itv.iptv1688.top:2016/itv.php?id=CCTV15
 CCTV16奥林匹克,http://itv.iptv1688.top:2016/itv.php?id=CCTV16
 CCTV17农业农村,http://itv.iptv1688.top:2016/itv.php?id=CCTV17
 CCTV1综合,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
+CCTV1综合,http://144.0.18.28:8018/hls/1/index.m3u8
+CCTV2财经,http://144.0.18.28:8018/hls/2/index.m3u8
+CCTV3综艺,http://144.0.18.28:8018/hls/3/index.m3u8
+CCTV4中文国际,http://144.0.18.28:8018/hls/4/index.m3u8
+CCTV5体育,http://144.0.18.28:8018/hls/5/index.m3u8
+CCTV6电影,http://144.0.18.28:8018/hls/6/index.m3u8
+CCTV8电视剧,http://144.0.18.28:8018/hls/8/index.m3u8
+CCTV9纪录,http://144.0.18.28:8018/hls/9/index.m3u8
+CCTV10科教,http://144.0.18.28:8018/hls/10/index.m3u8
+CCTV12社会与法,http://144.0.18.28:8018/hls/12/index.m3u8
+CCTV14少儿,http://144.0.18.28:8018/hls/14/index.m3u8
+CCTV3综艺,http://113.64.146.6:2024/hls/20/index.m3u8
+CCTV5体育,http://113.64.146.6:2024/hls/22/index.m3u8
+CCTV6电影,http://113.64.146.6:2024/hls/23/index.m3u8
+CCTV8电视剧,http://113.64.146.6:2024/hls/25/index.m3u8
+CCTV9纪录,http://113.64.146.6:2024/hls/26/index.m3u8
+CCTV10科教,http://113.64.146.6:2024/hls/28/index.m3u8
+CCTV11戏曲,http://113.64.146.6:2024/hls/29/index.m3u8
+CCTV5+体育赛事,http://222.213.163.143:8547/hls/16/index.m3u8
 CCTV1综合,http://121.11.160.7:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2财经,http://121.11.160.7:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3综艺,http://121.11.160.7:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -603,6 +622,7 @@ CETV中国教育4,http://gmxw.7766.org:808/hls/79/index.m3u8
 安徽卫视,http://144.0.18.28:8018/hls/48/index.m3u8
 青海卫视,http://144.0.18.28:8018/hls/69/index.m3u8
 贵州卫视,http://144.0.18.28:8018/hls/73/index.m3u8
+吉林卫视,http://222.213.163.143:8547/hls/45/index.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
@@ -1277,6 +1297,7 @@ RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/st
 澳门Macau,http://103.233.191.132:1935/ch3/ch3.live/playlist.m3u8
 澳门Macau,http://61.244.22.5/ch3/ch3.live/chunklist.m3u8
 澳门Macau,http://192.3.130.92:20000/live/as/stream.m3u8
+澳视澳门,http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8
 澳视澳门,http://php.jdshipin.com:8880/PLTV/iptv.php?id=asam
 澳视澳门,http://cdn.132.us.kg/live/asam/stream.m3u8
 澳视澳门,https://cdn.163189.xyz/live/asam/stream.m3u8
@@ -1284,7 +1305,6 @@ RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/st
 澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
 澳视澳门,http://192.3.130.92:20000/live/asam/stream.m3u8
 澳视澳门,http://cdn.163189.xyz/live/asam/stream.m3u8
-澳视澳门,http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8
 澳视葡文,http://103.233.191.132:1935/ch2/ch2.live/playlist.m3u8
 澳视葡文,http://103.233.191.133:1935/ch2/ch2.live/playlist.m3u8
 澳视葡文,http://103.233.191.134:1935/ch2/ch2.live/playlist.m3u8
@@ -2189,6 +2209,7 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 四川峨眉电影,http://218.89.240.144:59901/tsfile/live/1011_1.m3u8
 四川峨眉电影,http://183.223.157.33:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 四川峨眉电影,http://183.223.157.33:9901/tsfile/live/1006_1.m3u8
+四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
 成都综合,http://183.221.92.176:50080/hls/21/index.m3u8
 成都经济,http://183.221.92.176:50080/hls/22/index.m3u8
 成都经济,http://218.89.240.144:59901/tsfile/live/1004_1.m3u8
