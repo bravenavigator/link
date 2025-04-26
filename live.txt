@@ -1347,7 +1347,6 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 中天ᴴᴰ,http://108.181.21.27:27347/livehttpplay?channel_id=20064
 中天ᴴᴰ,http://50.7.234.10:8278/ctizhonghe/playlist.m3u8?tid=MB6B3888954738889547&ct=19254&tsum=d0cb922e44e8a16bea598530697c581e
 中天ᴴᴰ,http://50.7.234.10:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
-中天新闻,http://122.117.71.103:8540/中天新闻.m3u8
 中天新闻,http://122.117.71.103:8540/http/61.222.53.250:8081/hls/75/817/ch59.m3u8
 中天新闻,http://122.117.71.103:8540/http/220.130.87.218:8081/hls/78/80/ch063max.m3u8
 中天亚洲,http://50.7.234.10:8278/ctiasia_twn/playlist.m3u8?tid=mfc2c5bc6c101&ct=18335&tsum=d074a602fcd98718afeb8fc9a18fa964
@@ -2189,13 +2188,29 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 云南娱乐,http://220.164.192.48:50085/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 云南康旅,http://220.164.192.48:50085/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
 云南影视,http://220.164.192.48:50085/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
+昆明综合,https://hwapi.yntv.net:443/ew265l/32l193.m3u8
+曲靖综合,https://hwapi.yntv.net:443/ew265l/9gp7eg.m3u8
+保山综合,https://hwapi.yntv.net:443/7y80ii/7672o4.m3u8
+迪庆综合,https://hwapi.yntv.net:443/ew265l/d543pi.m3u8
+玉溪综合,https://hwapi.yntv.net:443/r5fc3f/4kzlat_hd.m3u8
+丽江综合,https://hwapi.yntv.net:443/ew265l/ke88o9.m3u8
+大理综合,https://hwapi.yntv.net:443/ew265l/n944fg.m3u8
+楚雄综合,https://hwapi.yntv.net:443/ew265l/848y54.m3u8
+西双版纳https://hwapi.yntv.net:443/ew265l/47480o_uhd.m3u8
+临沧综合,https://hwapi.yntv.net:443/6tt654/1i495z.m3u8
+红河综合,州https://hwapi.yntv.net:443/ew265l/b4v0s0.m3u8
+德宏综合,https://hwapi.yntv.net:443/ew265l/d919nz.m3u8
+普洱综合,https://hwapi.yntv.net/ew265l/vb4wne.m3u8
+文山新闻综合,https://hwapi.yntv.net:443/ew265l/29vf20.m3u8
 文山新闻综合,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
 文山新闻综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 文山公共,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8
 文山麻栗坡综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8
 文山麻栗坡综合,http://tvdrs.wsrtv.com.cn:8100/channellive/mlptv.flv
+怒江综合,https://hwapi.yntv.net:443/s5xpv2/9r4ei4.m3u8
 怒江综合,http://livebroadcast.ccwb.cn/live/w1620805130988936.m3u8
 麻栗坡综合,http://tvdrs.wsrtv.com.cn:8100/channellive/mlptv.flv
+昭通综合,https://hwapi.yntv.net:443/ew265l/5fkqnm.m3u8
 昭通巧家综合,http://livebroadcast.ccwb.cn/live/w1593303918254963.m3u8
 📺　贵州,#genre#
 贵州1,http://www.qhjx.top:18000/udp/238.255.2.141:5999
