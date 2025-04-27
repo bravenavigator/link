@@ -1389,6 +1389,7 @@ TVB明珠,http://43.139.34.228:9898/hls/110/index.m3u8
 北京纪实科教8K,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 卡酷少儿,http://61.138.128.226:19901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 卡酷少儿,http://61.138.128.226:19901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+淘电影,http://222.169.34.145:40000/bptv/10000100000000050000000003887498.m3u8
 📺　上海,#genre#
 东方财经,http://115.150.63.77:9902/tsfile/live/1042_1.m3u8
 乐游频道,http://124.128.73.58:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
