@@ -1383,6 +1383,8 @@ TVB明珠,http://43.139.34.228:9898/hls/110/index.m3u8
 凤凰电影,http://221.7.175.154:8445/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 📺　北京,#genre#
+北京新闻,http://222.169.34.145:40000/bptv/10000100000000050000000003870780.m3u8
+北京财经,http://114.241.200.178:8888/rtp/239.3.1.116:8000
 北京纪实科教,http://www.qhjx.top:18000/udp/238.255.2.107:5999
 北京纪实科教8K,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 卡酷少儿,http://61.138.128.226:19901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
