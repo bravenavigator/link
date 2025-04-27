@@ -1091,7 +1091,7 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 客家戏曲,http://218.15.183.23:9901/tsfile/live/23005_1.m3u8
 梅州五华综合,http://218.15.183.23:9901/tsfile/live/23000_1.m3u8
 韶关综合,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
-☘️　港澳,#genre
+☘️　港澳,#genre#
 凤凰资讯,http://cdn3.163189.xyz/live/fhzx/stream.m3u8
 凤凰资讯,https://cdn3.163189.xyz/live/fhzx/stream.m3u8
 凤凰资讯,https://cdn5.1678520.xyz/live/live2.1.php?id=fhzx
