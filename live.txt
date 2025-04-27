@@ -1816,7 +1816,10 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 杭州萧山综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
 杭州萧山生活,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
 杭州临平综合,http://l.cztvcloud.com/channels/lantian/SXyuhang2/720p.m3u8
-宁波综合,http://www.jeremyoto.com:82/rtp/233.50.201.168:5140
+宁波TV1,http://www.flyskyman.cn:4022/rtp/233.50.201.168:5140
+宁波TV2,http://www.flyskyman.cn:4022/rtp/233.50.201.178:5140
+宁波TV3,http://www.flyskyman.cn:4022/rtp/233.50.201.179:5140
+宁波TV4,http://www.flyskyman.cn:4022/rtp/233.50.201.180:5140
 宁波余姚综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 宁波象山综合,http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
 绍兴新闻综合,http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8
