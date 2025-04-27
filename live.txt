@@ -1092,17 +1092,6 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 梅州五华综合,http://218.15.183.23:9901/tsfile/live/23000_1.m3u8
 韶关综合,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
 ☘️　港澳,#genre
-TVB PLUS,http://cdn.132.us.kg/live/tvbp/stream.m3u8
-华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
-翡翠台4K,http://cdn.132.us.kg/live/fct4k/stream.m3u8
-翡翠台4K,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
-翡翠台6,http://php.jdshipin.com/TVOD/iptv.php?id=fct
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
-TVBJade,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
-
 凤凰资讯,http://cdn3.163189.xyz/live/fhzx/stream.m3u8
 凤凰资讯,https://cdn3.163189.xyz/live/fhzx/stream.m3u8
 凤凰资讯,https://cdn5.1678520.xyz/live/live2.1.php?id=fhzx
