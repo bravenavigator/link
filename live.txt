@@ -826,7 +826,6 @@ CETV中国教育4,http://gmxw.7766.org:808/hls/79/index.m3u8
 湖北卫视,http://58.19.43.46:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://110.80.17.38:9901/tsfile/live/0122_2.m3u8
 湖南卫视,http://220.164.192.48:50085/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0
-康巴卫视,http://218.89.240.144:59901/tsfile/live/1010_1.m3u8
 深圳卫视,http://116.128.242.83:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://218.13.170.98:9901/tsfile/live/1005_1.m3u8
 东方卫视,http://58.221.214.82:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -856,6 +855,7 @@ CETV中国教育4,http://gmxw.7766.org:808/hls/79/index.m3u8
 重庆卫视,http://218.89.240.144:59901/tsfile/live/0142_1.m3u8
 安徽卫视,http://218.89.240.144:59901/tsfile/live/0130_1.m3u8
 江苏卫视,http://218.89.240.144:59901/tsfile/live/0127_1.m3u8
+康巴卫视,http://218.89.240.144:59901/tsfile/live/1010_1.m3u8
 天津卫视,http://220.164.192.48:50085/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
 甘肃卫视,http://183.11.239.36:808/hls/119/index.m3u8
 三沙卫视,http://113.140.86.162:8009/hls/44/index.m3u8
@@ -2162,6 +2162,10 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 福建电视剧,http://117.27.190.42:9998/tsfile/live/23287_1.m3u8?key=txiptv&playlive=1&authid=0
 福建少儿,http://117.27.190.42:9998/tsfile/live/23290_1.m3u8?key=txiptv&playlive=1&authid=0
 福州综合,http://117.27.190.42:9998/tsfile/live/23301_1.m3u8?key=txiptv&playlive=1&authid=0
+福建新闻,http://110.81.206.138:49231/tsfile/live/23025_1.m3u8?key=txiptv&playlive=1&authid=0
+福建综合,http://110.81.206.138:49231/tsfile/live/23023_1.m3u8?key=txiptv&playlive=1&authid=0
+福建电视剧,http://110.81.206.138:49231/tsfile/live/23026_1.m3u8?key=txiptv&playlive=1&authid=0
+福建少儿,http://110.81.206.138:49231/tsfile/live/23030_1.m3u8?key=txiptv&playlive=1&authid=0
 福州新闻,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 福州生活,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
@@ -2229,6 +2233,7 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 成都新都综合,http://tvbox6.icu/tv/cditv.php?id=xdzh
 成都简阳新闻综合,http://tvbox6.icu/tv/cditv.php?id=jyxwzh
 乐山新闻综合,http://m3u8file.lstv.org.cn/nmip-media/channellive/channel1/playlist.m3u8
+乐山新闻综合,http://pwpull.leshan.cn:80/live/21609091019110008654ed1a00000000/playlist.m3u8
 乐山文旅生活,http://m3u8file.lstv.org.cn/nmip-media/channellive/channel12/playlist.m3u8
 乐山沙湾综合,http://tvfile.swrmt.com:80/nmip-media/channellive/channel100064/playlist.m3u8
 乐山夹江新闻综合,rtmp://tv.jjrm.org.cn/channellive/ch1
@@ -2262,11 +2267,19 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 广安新闻综合,http://live1.gatv.com.cn:85/live/XWZH.m3u8
 广安文旅乡村,http://live1.gatv.com.cn:85/live/GGPD.m3u8
 广安岳池综合,http://liveyc.cmc.yuechirmt.cn:80/live/yctv.m3u8?auth_key=1714112398-0-0-d9a6bd74623c01c1c2f9576fe51e8b7b
+雅安新闻综合,https://play.yunxya.com/channellive/xinwen.m3u8
+雅安石棉综合,rtmp://tv.yunxya.com:1937/channellive/shimian
+雅安荥经综合,https://m3u8channel-yj.yunxya.com/nmip-media/channellive/channel101140/playlist.m3u8
+雅安荥经综合,rtmp://tv.yunxya.com:1937/channellive/yingjing
+雅安宝兴综合,rtmp://tv.yunxya.com:1937/channellive/baoxing
+广元综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel100999/playlist.m3u8
 广元剑阁综合,https://tvfile.scjgtv.cn:443/nmip-media/channellive/channel104126/playlist.m3u8
 广元利州综合,http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8
 广元青川综合,http://qcfile.qcrmt.com:80/nmip-media/channellive/channel100933/playlist.m3u8
+广元旺苍综合,rtmp://tv.wcrmt.cn/channellive/ch1
 广元旺苍综合,http://channel.wcrmt.cn:80/nmip-media/channellive/channel105268/playlist.m3u8
 广元昭化综合,http://live.zhgbtv.cn:3100/hls/kwqtkbbi/index.m3u8
+宜宾筠连综合,http://live.dameijunlian.cn:80/live1/live1.m3u8
 宜宾叙州综合,http://pili-live-hls.ybcxjd.com/jdh-live/2108111201035597.m3u8
 宜宾长宁综合,http://cnpull.sccnfb.com:80/live/123456.m3u8
 巴中综合,http://ocj2.kksmg.com/ocj1/ocj1.m3u8
@@ -2278,6 +2291,7 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 阿坝汶川综合,http://live.iwcmt.cn:90/live/zhxw.m3u8
 阿坝金川综合,http://live.jinchuanrmt.com:90/live/zhxw.m3u8
 阿坝小金综合,http://xjlive.xjxrmt.cn:8091/live/xwpd.m3u8
+甘孜综合,rtmp://tv.drs.ganzitv.com/channellive/gztv
 甘孜综合,http://tv.drs.ganzitv.com:8100/channellive/gztv.flv
 甘孜德格综合,http://dgfile.ganzitv.com:80/nmip-media/channellive/channel101955/playlist.m3u8
 甘孜康定综合,http://kdfile.ganzitv.com/nmip-media/channellive/channel100663/playlist.m3u8
@@ -2614,6 +2628,7 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 天水综合,rtsp://60.13.39.18:554/PLTV/88888910/224/3221225866/376769060.smil
 天水文旅,rtsp://60.13.39.18:554/PLTV/88888910/224/3221225869/376769059.smil
 天水秦安综合,https://play.kankanlive.com/live/1680577080200944.m3u8
+天水秦安综合,rtmp://play.kankanlive.com/live/1680577080200944
 酒泉金塔综合,rtsp://60.13.39.18:554/PLTV/88888910/224/3221225826/375578764.smil
 酒泉肃州综合,rtsp://60.13.39.18:554/PLTV/88888910/224/3221225818/373186605.smil
 武威综合,https://play.kankanlive.com/live/1693539781636986.m3u8
@@ -2629,6 +2644,7 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 白银景泰综合,https://play.kankanlive.com/live/1624439143745981.m3u8
 平凉庄浪综合,https://play.kankanlive.com/live/1687654127961989.m3u8
 金昌永昌综合,https://play.kankanlive.com/live/1652755738635915.m3u8
+金昌永昌综合,rtmp://play.kankanlive.com/live/1652755738635915
 庆阳西峰综合,https://play.kankanlive.com/live/1683944827526991.m3u8
 甘南综合,https://play.kankanlive.com/live/1711955176432990.m3u8
 甘南藏语,http://play.kankanlive.com/live/1720408280309109.m3u8
