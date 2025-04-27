@@ -1089,7 +1089,18 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 客家戏曲,http://218.15.183.23:9901/tsfile/live/23005_1.m3u8
 梅州五华综合,http://218.15.183.23:9901/tsfile/live/23000_1.m3u8
 韶关综合,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
-☘️　港澳,#genre#
+☘️　港澳,#genre
+TVB PLUS,http://cdn.132.us.kg/live/tvbp/stream.m3u8
+华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
+翡翠台4K,http://cdn.132.us.kg/live/fct4k/stream.m3u8
+翡翠台4K,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
+翡翠台6,http://php.jdshipin.com/TVOD/iptv.php?id=fct
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+TVBJade,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
+
 凤凰资讯,http://cdn3.163189.xyz/live/fhzx/stream.m3u8
 凤凰资讯,https://cdn3.163189.xyz/live/fhzx/stream.m3u8
 凤凰资讯,https://cdn5.1678520.xyz/live/live2.1.php?id=fhzx
@@ -1154,6 +1165,9 @@ TVB翡翠,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct2
 TVB翡翠,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3
 TVB翡翠,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 TVB翡翠,http://php.jdshipin.com/smt.php?id=jade_twn
+TVB翡翠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+TVB翡翠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+TVB翡翠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 TVB翡翠,http://cdn3.132.us.kg/live/fct/stream.m3u8
 TVB翡翠,http://192.3.130.92:20000/live/fct4k/stream.m3u8
 TVB翡翠,http://43.139.34.228:9898/hls/91/index.m3u8
@@ -1171,7 +1185,6 @@ TVB新闻,http://cdn3.132.us.kg/live/wxxw/stream.m3u8
 TVB新闻,http://php.jdshipin.com/smt.php?id=inews_twn
 TVB新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 TVB新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
-TVB新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 TVB新闻,http://php.jdshipin.com:8880/PLTV/iptv.php?id=tvbxw
 TVB新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 TVB新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
@@ -1201,7 +1214,6 @@ TVB娱乐,http://192.3.130.92:20002/smt3.2.1.php?id=Tvbentertainment
 TVB娱乐,http://192.3.130.92:20004/enew/enew.stream/chunklist_w1003.m3u8
 TVB娱乐,http://php.jdshipin.com/smt.php?id=Tvbentertainment
 TVB娱乐,http://php.jdshipin.com:8880/smt.php?id=Tvbentertainment
-TVB娱乐,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
 TVB娱乐,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 TVB娱乐,http://v2hcdn.jdshipin.com/enew/enew.stream/chunklist_w103.m3u8
 TVB J1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
@@ -1225,6 +1237,7 @@ TVB J2,http://cdn.163189.xyz/live/?id=tvbp
 TVB J2,http://grandprix2023.asuscomm.com:8892/bysid/82.m3u8
 TVB J2,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 TVB J2,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
+TVB J2,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
 TVB J2,http://192.3.130.92:20000/live/tvbp/stream.m3u8
 TVB J2,http://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&tsum=699466c18aac56202ad1d2843fd21032
 TVB J2,http://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=ME0E4382171043821710&ct=19237&tsum=6f10351124a4eb90780b2f84b2c4d349
@@ -1264,6 +1277,8 @@ HOY TV,http://27.46.95.90:800/hls/1868454448/index.m3u8
 HOY TV,http://27.46.95.90:800/hls/1868314925/index.m3u8
 ViuTV6,http://27.46.95.90:800/hls/1852451724/index.m3u8
 ViuTV,http://27.46.95.90:800/hls/1864291364/index.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 RTHK31,http://php.jdshipin.com/PLTV/iptv.php?id=rthk31
 RTHK32,http://php.jdshipin.com/PLTV/iptv.php?id=rthk32
 RTHK31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
@@ -1675,6 +1690,7 @@ TVBS精彩,http://108.181.21.27:27347/livehttpplay?channel_id=20136
 国家地理,http://50.7.234.10:8278/natgeohd_twn/playlist.m3u8?tid=MB5B4841803948418039&ct=18393&tsum=a2343b2c061fc9de3fa7857e832d9625
 国家地理,http://50.7.234.10:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
 国家地理,http://50.7.234.10:8278/Natgeo/playlist.m3u8?tid=MD9D9302547893025478&ct=19249&tsum=98e3f2f5104d6ed1e826d12d93d64794
+动物星球,http://live4play.uk/livehttpplay?channel_id=20106
 动物星球,http://122.117.71.103:8512/http/61.222.53.250:8081/hls/70/812/ch37.m3u8
 动物星球,http://50.7.234.10:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
 动物星球,http://50.7.234.10:8278/AnimalPlanet/playlist.m3u8?tid=MD5D8455808984558089&ct=19254&tsum=899db3292c39fbba53680601a57ee552
