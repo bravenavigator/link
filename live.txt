@@ -151,7 +151,7 @@ CCTV12社会与法,http://60.174.40.117:85/tsfile/live/0012_1.m3u8?key=txiptv&pl
 CCTV13新闻,http://60.174.40.117:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV14少儿,http://60.174.40.117:85/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15音乐,http://60.174.40.117:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV体育赛事,http://60.174.40.117:85/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5体育,http://60.174.40.117:85/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1综合,http://111.9.163.109:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2财经,http://111.9.163.109:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3综艺,http://111.9.163.109:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
