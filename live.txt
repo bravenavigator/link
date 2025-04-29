@@ -138,7 +138,6 @@ CCTV10科教,http://112.123.210.46:85/tsfile/live/0010_1.m3u8?key=txiptv&playliv
 CCTV12社会与法,http://112.123.210.46:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV7国防军事,http://219.135.180.210:18888/hls/7/index.m3u8
 CCTV3综艺,http://219.135.180.210:18888/hls/3/index.m3u8
-CCTV16奥林匹克,http://219.135.180.210:18888/hls/31/index.m3u8
 CCTV9纪录,http://219.135.180.210:18888/hls/9/index.m3u8
 CCTV12社会与法,http://219.135.180.210:18888/hls/12/index.m3u8
 CCTV14少儿,http://219.135.180.210:18888/hls/14/index.m3u8
@@ -303,7 +302,7 @@ CCTV8电视剧,http://183.236.32.24:4433/hls/8/index.m3u8
 CCTV9纪录,http://183.236.32.24:4433/hls/9/index.m3u8
 CCTV13新闻,http://183.236.32.24:4433/hls/13/index.m3u8
 CCTV6电影,http://183.236.32.24:4433/hls/6/index.m3u8
-CCTV16奥林匹克,http://183.236.32.24:4433/hls/16/index.m3u8
+CCTV1综合,http://183.236.32.24:4433/hls/16/index.m3u8
 CCTV1综合,http://171.118.162.212:9003//hls/1/index.m3u8
 CCTV2财经,http://171.118.162.212:9003//hls/2/index.m3u8
 CCTV3综艺,http://171.118.162.212:9003//hls/3/index.m3u8
@@ -1203,6 +1202,7 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 广东综艺,http://183.237.95.108:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=0&authid=0
 广东体育,http://192.3.130.92:20007/live/gdty/stream.m3u8
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+广东体育,http://219.135.180.210:18888/hls/31/index.m3u8
 广东体育,http://108.181.20.181/livehttpplay?channel_id=12028
 广东体育,http://218.13.170.98:9901/tsfile/live/0019_1.m3u8
 广东体育,http://120.238.94.10:9901/tsfile/live/1012_1.m3u8
