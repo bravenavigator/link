@@ -197,6 +197,13 @@ CCTV7国防军事,http://112.122.33.24:85/tsfile/live/0007_1.m3u8?key=txiptv&pla
 CCTV9纪录,http://112.122.33.24:85/tsfile/live/0011_3.m3u8?key=txiptv&playlive=0&authid=0
 CCTV10科教,http://112.122.33.24:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV12社会与法,http://112.122.33.24:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV第一剧场,http://112.122.33.24:85/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV怀旧剧场,http://112.122.33.24:85/tsfile/live/1149_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV热播剧场,http://112.122.33.24:85/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV风云音乐,http://112.122.33.24:85/tsfile/live/1148_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV风云剧场,http://112.122.33.24:85/tsfile/live/1150_1.m3u8?key=txiptv&playlive=1&authid=0
+CETV中国教育1,http://112.122.33.24:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
+中国天气,http://112.122.33.24:85/tsfile/live/1050_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV1综合,http://112.122.33.79:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV2财经,http://112.122.33.79:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV7国防军事,http://112.122.33.79:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
