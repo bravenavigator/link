@@ -28,6 +28,7 @@ CCTV央视文化精品,http://127.0.0.1
 CCTV女性时尚,http://127.0.0.1
 CCTV第一剧场,http://127.0.0.1
 CCTV怀旧剧场,http://127.0.0.1
+CCTV热播剧场,http://127.0.0.1
 CCTV风云音乐,http://127.0.0.1
 CCTV风云剧场,http://127.0.0.1
 CCTV风云足球,http://127.0.0.1
@@ -109,7 +110,6 @@ CCTV9纪录,http://112.122.32.190:85/tsfile/live/0011_3.m3u8?key=txiptv&playlive
 CCTV10科教,http://112.122.32.190:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV12社会与法,http://112.122.32.190:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV风云音乐,http://112.122.32.190:85/tsfile/live/1148_1.m3u8?key=txiptv&playlive=1&authid=0
-阜南新闻,http://112.122.32.190:85/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV怀旧剧场,http://112.122.32.190:85/tsfile/live/1149_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV风云剧场,http://112.122.32.190:85/tsfile/live/1150_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV第一剧场,http://112.122.32.190:85/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
