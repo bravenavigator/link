@@ -1423,7 +1423,7 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=c82f82d7a6beda92b2b1ce93753dcacb&txTime=18e4a381d46
 南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=627498b93bc6f5d6e2460d0823bf81a3&txTime=18e6df74fc2
 深圳都市,http://120.198.95.220:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&down=1
-深圳都市,http://119.140.58.96:4434/hls/167/index.m3u8重庆,#genre#
+深圳都市,http://119.140.58.96:4434/hls/167/index.m3u8
 深圳都市,http://183.11.239.36:808/hls/140/index.m3u8
 深圳财经生活,http://183.11.239.36:808/hls/151/index.m3u8
 深圳体育健康,http://119.140.58.96:4434/hls/168/index.m3u8
