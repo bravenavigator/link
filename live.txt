@@ -1288,7 +1288,6 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 广州综合,http://php.jdshipin.com:8880/PLTV/iptv.php?id=gzzh
 广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
 广州综合,http://180.142.144.54:8181/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
-广州综合,http://180.143.83.48:8181/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
 广州新闻,http://tencentplaygzrb01.gztv.com/live/xinwen.m3u8
 广州新闻,https://tencentplaygsm.gztv.com/live/xinwen.m3u8?txTime=6594e9c2&txSecret=c5a1adcdef8653b7d9c228d3905b414f
 广州新闻,https://tencentplaygsm.gztv.com/live/xinwen.m3u8?txTime=659a511e&txSecret=1a5bbbb41bc728d271c8b99e5482f8e7
@@ -1300,7 +1299,6 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 广州影视,https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=7e9bddad7c8911626ed1d2c09fc605d9&txTime=18d00acf487
 广州影视,http://php.jdshipin.com:8880/gztv.php?id=yingshi
 广州影视,http://php.jdshipin.com:8880/PLTV/iptv.php?id=gzys
-广州影视,http://180.143.83.48:8181/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 广州影视,http://183.239.236.91:8088/hls/43/index.m3u8
 广州法治,http://tencentplaygzrb01.gztv.com/live/fazhi.m3u8
 广州法治,https://tencentplaygsm.gztv.com/live/fazhi.m3u8?txTime=6594e9cf&txSecret=25cae88b4e02da301347c3184ef474c4
@@ -1330,7 +1328,6 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 佛山综合,http://106.53.99.30/dl/fstv.php?id=fszh
 佛山影视,http://8.137.59.151:3000/guangdong/foshan.php?id=fsys
 佛山影视,http://106.53.99.30/dl/fstv.php?id=fsys
-佛山影视,http://180.143.83.48:8181/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 佛山公共,http://8.137.59.151:3000/guangdong/foshan.php?id=fsgg
 佛山公共,http://106.53.99.30/dl/fstv.php?id=fsgg
 佛山顺德,http://8.137.59.151:3000/guangdong/foshan.php?id=fssd
