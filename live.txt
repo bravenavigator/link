@@ -1453,14 +1453,6 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 深圳体育健康,http://183.11.239.36:808/hls/158/index.m3u8
 深圳电视剧,http://183.11.239.36:808/hls/141/index.m3u8
 深圳少儿,http://183.11.239.36:808/hls/157/index.m3u8
-佛山综合,http://8.137.59.151:3000/guangdong/foshan.php?id=fszh
-佛山公共,http://8.137.59.151:3000/guangdong/foshan.php?id=fsgg
-佛山影视,http://8.137.59.151:3000/guangdong/foshan.php?id=fsys
-佛山综合,http://106.53.99.30/dl/fstv.php?id=fszh
-佛山影视,http://106.53.99.30/dl/fstv.php?id=fsys
-佛山公共,http://106.53.99.30/dl/fstv.php?id=fsgg
-佛山综合,http://php.jdshipin.com:8880/fstv.php?id=fszh
-佛山影视,http://php.jdshipin.com:8880/fstv.php?id=fsys
 东莞新闻综合,https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
 东莞生活资讯,https://stream.sun0769.com/dgrtv1/mp4tv2_800/index.m3u8
 东莞新闻综合,http://php.jdshipin.com:8880/0769.php?id=xwzh
@@ -1485,10 +1477,6 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 客家生活,http://218.15.183.23:9901/tsfile/live/23003_1.m3u8
 梅州导视,http://218.15.183.23:9901/tsfile/live/23004_1.m3u8
 客家戏曲,http://218.15.183.23:9901/tsfile/live/23005_1.m3u8
-佛山顺德,http://8.137.59.151:3000/guangdong/foshan.php?id=fssd
-佛山顺德,http://106.53.99.30/dl/fstv.php?id=fssd
-佛山南海,http://php.jdshipin.com:8880/fstv.php?id=fsnh
-佛山南海,http://106.53.99.30/dl/fstv.php?id=fsnh
 梅州五华综合,http://218.15.183.23:9901/tsfile/live/23000_1.m3u8
 ☘️　港澳,#genre#
 凤凰资讯,http://119.140.58.96:4434/hls/29/index.m3u8
