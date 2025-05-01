@@ -1846,6 +1846,9 @@ TVB明珠,http://43.139.34.228:9898/hls/110/index.m3u8
 新加坡CH5,http://192.3.130.92:20003/live/ch5/stream.m3u8
 新加坡CH8,http://192.3.130.92:20003/live/ch8/stream.m3u8
 新加坡CHU,http://192.3.130.92:20003/live/chu/stream.m3u8
+新加坡CH5,http://156.253.12.5:932/tslive/IPTV.php?id=CH5
+新加坡CH8,http://156.253.12.5:932/tslive/IPTV.php?id=CH8
+新加坡CHU,http://156.253.12.5:932/tslive/IPTV.php?id=CHU
 八度空间,https://cdn6.163189.xyz/live/8tv/stream.m3u8
 八度空间,https://cdn6.132.us.kg/live/8tv/stream.m3u8
 八度空间,http://192.3.130.92:20003/live/8tv/stream.m3u8
