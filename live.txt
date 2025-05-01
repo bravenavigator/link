@@ -2238,6 +2238,10 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 杭州萧山综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
 杭州萧山生活,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
 杭州临平综合,http://l.cztvcloud.com/channels/lantian/SXyuhang2/720p.m3u8
+宁波TV1,http://156.253.12.5:932/tslive/IPTV.php?id=%E5%AE%81%E6%B3%A2TV1
+宁波TV2,http://156.253.12.5:932/tslive/IPTV.php?id=%E5%AE%81%E6%B3%A2TV2
+宁波TV3,http://156.253.12.5:932/tslive/IPTV.php?id=%E5%AE%81%E6%B3%A2TV3
+宁波TV4,http://156.253.12.5:932/tslive/IPTV.php?id=%E5%AE%81%E6%B3%A2TV4
 宁波TV1,http://www.flyskyman.cn:4022/rtp/233.50.201.168:5140
 宁波TV2,http://www.flyskyman.cn:4022/rtp/233.50.201.178:5140
 宁波TV3,http://www.flyskyman.cn:4022/rtp/233.50.201.179:5140
