@@ -1291,6 +1291,13 @@ CETV中国教育4,http://gmxw.7766.org:808/hls/79/index.m3u8
 甘肃卫视,http://183.11.239.36:808/hls/119/index.m3u8
 三沙卫视,http://113.140.86.162:8009/hls/44/index.m3u8
 天津卫视,http://112.46.85.60:8009/hls/44/index.m3u8
+甘肃卫视,http://222.213.163.143:8547/hls/44/index.m3u8
+陕西卫视,http://222.213.163.143:8547/hls/41/index.m3u8
+甘肃卫视,http://144.0.18.28:8018/hls/56/index.m3u8
+甘肃卫视,http://144.0.18.66:8018/hls/56/index.m3u8
+山西卫视,http://43.143.254.239:55232/hls/40/index.m3u8
+陕西卫视,http://1.199.243.15:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+山西卫视,http://183.185.254.246:9999/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://61.157.139.15:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://61.157.139.15:9901/tsfile/live/2395_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://61.157.139.15:9901/tsfile/live/2390_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -3053,8 +3060,8 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 濮阳南乐综合,http://live.dxhmt.cn:9081/tv/10923-1.m3u8
 商丘永城新闻,http://live.dxhmt.cn:9081/tv/11481-1.m3u8
 📺　河北,#genre#
-河北经济生活,http://ylt.7766.org:333/hls/23/index.m3u8
 河北都市,http://ylt.7766.org:333/hls/24/index.m3u8
+河北经济生活,http://ylt.7766.org:333/hls/23/index.m3u8
 河北文旅公共,http://ylt.7766.org:333/hls/27/index.m3u8
 河北农民,http://ylt.7766.org:333/hls/28/index.m3u8
 河北影视剧,http://ylt.7766.org:333/hls/25/index.m3u8
@@ -3083,8 +3090,8 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 河北农民,http://121.19.134.222:808/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 河北少儿科教,http://121.19.134.222:808/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 河北都市,http://101.23.150.109:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-精彩河北,http://101.23.150.109:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
-河北影视,http://101.23.150.109:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+睛彩河北,http://101.23.150.109:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+河北影视剧,http://101.23.150.109:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 河北经济生活,http://106.116.242.178:9999/rtp/239.254.200.18:6000
 河北文旅公共,http://106.116.242.178:9999/rtp/239.254.200.22:6000
 河北农民,http://106.116.242.178:9999/rtp/239.254.200.23:6000
