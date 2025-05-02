@@ -2895,8 +2895,8 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 河南新闻,http://1.94.31.214/php/hntv.php?id=hnxw
 河南公共,http://1.94.31.214/php/hntv.php?id=hngg
 河南民生,http://1.94.31.214/php/hntv.php?id=hnms
-河南乡村,http://1.94.31.214/php/hntv.php?id=hnxc
-河南梨园,http://1.94.31.214/php/hntv.php?id=hnly
+河南新农村,http://1.94.31.214/php/hntv.php?id=hnxc
+梨园频道,http://1.94.31.214/php/hntv.php?id=hnly
 河南电视剧,http://1.94.31.214/php/hntv.php?id=hndsj
 睛彩中原,http://1.94.31.214/php/hntv.php?id=jczy
 文物宝库,http://1.94.31.214/php/hntv.php?id=wwbk
@@ -2907,7 +2907,7 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 武术世界,http://php.jdshipin.com:8880/hntv.php?id=wspd
 文物宝库,http://php.jdshipin.com:8880/hntv.php?id=wwbk
 文物宝库,http://live.dxhmt.cn:9080/19903718786/503136115d714e6796389709a5c74f77.m3u8
-河南乡村,http://1.192.72.243:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+河南新农村,http://1.192.72.243:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 河南公共,http://1.192.72.243:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 河南戏曲,http://1.192.72.243:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 河南新农村,http://1.192.72.243:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -2932,7 +2932,7 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 文物宝库,http://43.143.254.239:36326/hls/89/index.m3u8
 武术世界,http://43.143.254.239:36326/hls/86/index.m3u8
 河南新闻,http://www.cdnstv.com:6398/hls/1114/index.m3u8
-河南乡村,http://www.cdnstv.com:6398/hls/1116/index.m3u8
+河南新农村,http://www.cdnstv.com:6398/hls/1116/index.m3u8
 河南戏曲,http://www.cdnstv.com:6398/hls/1119/index.m3u8
 河南法制,http://www.cdnstv.com:6398/hls/1112/index.m3u8
 河南电视剧,http://www.cdnstv.com:6398/hls/1113/index.m3u8
@@ -2941,7 +2941,7 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 河南民生,http://504099760.qicp.vip:9901/tsfile/live/1052_1.m3u8
 河南法制,http://504099760.qicp.vip:9901/tsfile/live/1053_1.m3u8
 河南公共,http://504099760.qicp.vip:9901/tsfile/live/1057_1.m3u8
-河南乡村,http://504099760.qicp.vip:9901/tsfile/live/1058_1.m3u8
+河南新农村,http://504099760.qicp.vip:9901/tsfile/live/1058_1.m3u8
 河南电视剧,http://504099760.qicp.vip:9901/tsfile/live/1054_1.m3u8
 河南戏曲,http://504099760.qicp.vip:9901/tsfile/live/1061_1.m3u8
 移动戏曲,http://504099760.qicp.vip:9901/tsfile/live/1060_1.m3u8
