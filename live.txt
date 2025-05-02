@@ -2387,7 +2387,6 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 山东体育,http://58.58.111.222:808/hls/62/index.m3u8
 山东新闻,http://58.58.111.222:808/hls/63/index.m3u8
 山东农科,http://58.58.111.222:808/hls/64/index.m3u8
-山东教育,http://223.82.161.157:899/hls/77/index.m3u8
 山东综艺,http://144.0.18.28:8018/hls/18/index.m3u8
 山东影视,http://144.0.18.28:8018/hls/19/index.m3u8
 山东教育,http://www.qhjx.top:18000/udp/238.255.2.73:5999
@@ -2960,6 +2959,7 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 河南都市,http://42.238.235.104:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 河南民生,http://42.238.235.104:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 河南戏曲,http://42.225.117.174:11199/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+梨园频道,http://223.82.161.157:899/hls/77/index.m3u8
 梨园频道,http://43.143.254.239:36326/hls/93/index.m3u8
 梨园频道,http://61.163.181.78:9901/tsfile/live/1006_1.m3u8
 河南民生,http://1.94.31.214/php/hntv.php?id=hnms
