@@ -1831,9 +1831,6 @@ TVB明珠,http://43.139.34.228:9898/hls/110/index.m3u8
 新加坡CH5,http://192.3.130.92:20003/live/ch5/stream.m3u8
 新加坡CH8,http://192.3.130.92:20003/live/ch8/stream.m3u8
 新加坡CHU,http://192.3.130.92:20003/live/chu/stream.m3u8
-新加坡CH5,http://156.253.12.5:932/tslive/IPTV.php?id=CH5
-新加坡CH8,http://156.253.12.5:932/tslive/IPTV.php?id=CH8
-新加坡CHU,http://156.253.12.5:932/tslive/IPTV.php?id=CHU
 八度空间,https://cdn6.163189.xyz/live/8tv/stream.m3u8
 八度空间,https://cdn6.132.us.kg/live/8tv/stream.m3u8
 八度空间,http://192.3.130.92:20003/live/8tv/stream.m3u8
@@ -1848,18 +1845,14 @@ Astro AEC,http://php.jdshipin.com:8880/smt.php?id=AEC
 Astro QJ,http://192.3.130.92:20002/smt3.2.1.php?id=Quanjia
 Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
 Astro QJ,http://php.jdshipin.com:8880/smt.php?id=Quanjia
-Astro QJ,http://156.253.12.5:932/tslive/IPTV.php?id=Astro%20QJ
-Astro欢喜,http://156.253.12.5:932/tslive/IPTV.php?id=Astro%E6%AC%A2%E5%96%9C%E5%8F%B0
 尼克卡通,http://108.181.20.197/livehttpplay?channel_id=20089
 尼克卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20089
 CN卡通,http://108.181.20.197/livehttpplay?channel_id=20048
 CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 🌊　台湾,#genre#
-中天ᴴᴰ,http://156.253.12.5:932/tslive/IPTV.php?id=%E4%B8%AD%E5%A4%A9%E7%BB%BC%E5%90%88
 中天ᴴᴰ,http://108.181.21.27:27347/livehttpplay?channel_id=20064
 中天ᴴᴰ,http://50.7.234.10:8278/ctizhonghe/playlist.m3u8?tid=MB6B3888954738889547&ct=19254&tsum=d0cb922e44e8a16bea598530697c581e
 中天ᴴᴰ,http://50.7.234.10:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
-中天新闻,http://156.253.12.5:932/tslive/IPTV.php?id=%E4%B8%AD%E5%A4%A9%E6%96%B0%E8%81%9E
 中天新闻,http://122.117.71.103:8540/http/61.222.53.250:8081/hls/75/817/ch59.m3u8
 中天新闻,http://122.117.71.103:8540/http/220.130.87.218:8081/hls/78/80/ch063max.m3u8
 中天新闻,http://50.7.234.10:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
@@ -2230,10 +2223,6 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 杭州萧山综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
 杭州萧山生活,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
 杭州临平综合,http://l.cztvcloud.com/channels/lantian/SXyuhang2/720p.m3u8
-宁波TV1,http://156.253.12.5:932/tslive/IPTV.php?id=%E5%AE%81%E6%B3%A2TV1
-宁波TV2,http://156.253.12.5:932/tslive/IPTV.php?id=%E5%AE%81%E6%B3%A2TV2
-宁波TV3,http://156.253.12.5:932/tslive/IPTV.php?id=%E5%AE%81%E6%B3%A2TV3
-宁波TV4,http://156.253.12.5:932/tslive/IPTV.php?id=%E5%AE%81%E6%B3%A2TV4
 宁波TV1,http://www.flyskyman.cn:4022/rtp/233.50.201.168:5140
 宁波TV2,http://www.flyskyman.cn:4022/rtp/233.50.201.178:5140
 宁波TV3,http://www.flyskyman.cn:4022/rtp/233.50.201.179:5140
