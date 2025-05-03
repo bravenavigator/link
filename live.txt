@@ -146,15 +146,6 @@ CCTV5+体育赛事,http://223.82.161.157:899/hls/501/index.m3u8
 CCTV1综合,http://58.55.62.165:808/hls/1/index.m3u8
 CCTV14少儿,http://58.55.62.165:808/hls/14/index.m3u8
 CCTV15音乐,http://58.55.62.165:808/hls/15/index.m3u8
-CCTV1综合,http://218.13.14.6:60050/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2财经,http://218.13.14.6:60050/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV3综艺,http://218.13.14.6:60050/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5体育,http://218.13.14.6:60050/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV6电影,http://218.13.14.6:60050/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV7国防军事,http://218.13.14.6:60050/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV9纪录,http://218.13.14.6:60050/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10科教,http://218.13.14.6:60050/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV经典电影,http://218.13.14.6:60050/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1综合,http://60.174.40.117:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2财经,http://60.174.40.117:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3综艺,http://60.174.40.117:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1025,16 +1016,6 @@ CETV中国教育4,http://gmxw.7766.org:808/hls/79/index.m3u8
 湖北卫视,http://175.9.40.81:8082/hls/32/index.m3u8
 贵州卫视,http://175.9.40.81:8082/hls/39/index.m3u8
 辽宁卫视,http://175.9.40.81:8082/hls/29/index.m3u8
-安徽卫视,http://218.13.14.6:60050/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
-江苏卫视,http://218.13.14.6:60050/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
-江西卫视,http://218.13.14.6:60050/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北卫视,http://218.13.14.6:60050/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视,http://218.13.14.6:60050/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
-甘肃卫视,http://218.13.14.6:60050/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
-贵州卫视,http://218.13.14.6:60050/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁卫视,http://218.13.14.6:60050/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://218.13.14.6:60050/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
-黑龙江卫视,http://218.13.14.6:60050/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://222.213.163.143:8547/hls/45/index.m3u8
 山东卫视,http://106.111.244.182:60001/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 广西卫视,http://116.9.204.242:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1356,16 +1337,12 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 欧洲华文六套,http://vvlive.eztv.vip/ctvsnew/ctvsnew.m3u8?auth_key=1710810919-0-0-50aa348ab0ba1386377aafc10877062f
 欧洲华文七套,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
 📺　广东,#genre#
-广东综艺,http://183.237.95.108:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=0&authid=0
-广东体育,http://218.13.14.6:60050/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
-广东民生,http://218.13.14.6:60050/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
-广东新闻,http://218.13.14.6:60050/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
-广东珠江,http://218.13.14.6:60050/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 广东新闻,http://14.212.185.146:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 广东珠江,http://14.212.185.146:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 广东民生,http://14.212.185.146:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 广东影视,http://14.212.185.146:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://14.212.185.146:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+广东综艺,http://183.237.95.108:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=0&authid=0
 广东新闻,http://113.101.119.50:8090/hls/106/index.m3u8
 经济科教,http://113.101.119.50:8090/hls/129/index.m3u8
 广东影视,http://113.101.119.50:8090/hls/110/index.m3u8
@@ -1754,7 +1731,6 @@ TVB明珠,http://43.139.34.228:9898/hls/110/index.m3u8
 北京纪实科教,http://120.76.248.139/live/bfgd/4200000113.m3u8
 卡酷少儿,http://120.76.248.139/live/bfgd/4200000106.m3u8
 卡酷少儿,http://222.173.108.238:352/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
-卡酷少儿,http://218.13.14.6:60050/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
 卡酷少儿,http://61.138.128.226:19901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 卡酷少儿,http://61.138.128.226:19901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 📺　上海,#genre#
@@ -2327,7 +2303,6 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 金鹰纪实,http://www.qhjx.top:18000/udp/238.255.2.108:5999
 金鹰卡通,http://www.qhjx.top:18000/udp/238.255.2.55:5999
 金鹰纪实,http://119.36.148.115:59901/tsfile/live/1010_1.m3u8
-金鹰卡通,http://218.13.14.6:60050/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://182.114.189.5:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://42.238.235.104:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://61.138.128.226:19901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
