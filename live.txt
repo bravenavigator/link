@@ -440,7 +440,6 @@ CCTV1综合,http://202.168.187.208:9089/tsfile/live/1003_1.m3u8
 CCTV2财经,http://202.168.187.208:9089/tsfile/live/0002_1.m3u8
 CCTV14少儿,http://125.82.168.238:8888/rtp/235.254.198.61:1520
 CCTV4美洲,http://108.181.20.197/livehttpplay?channel_id=10128
-CCTV4K高清,http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/8cdd688b04e4495ba1635e218419d6f9/4000.m3u8
 CCTV5体育,http://202.168.187.208:9089/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1综合,http://202.168.187.208:9089/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2财经,http://202.168.187.208:9089/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
