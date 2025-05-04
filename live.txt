@@ -1435,6 +1435,7 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 湛江公共,http://113.110.79.68:808/hls/3/index.m3u8
 湛江公共,http://113.86.205.59:808/hls/3/index.m3u8
 汕头综合,http://113.64.146.6:2024/hls/4/index.m3u8
+揭阳生活,http://113.64.146.6:2024/hls/1/index.m3u8
 汕尾综合,http://183.239.226.235:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
 韶关综合,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
 梅州综合,http://218.15.183.23:9901/tsfile/live/23002_1.m3u8
