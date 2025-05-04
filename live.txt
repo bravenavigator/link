@@ -1336,6 +1336,7 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 大湾区卫视,http://43.139.34.228:9898/hls/8/index.m3u8
 广东新闻,http://183.11.239.36:808/hls/5/index.m3u8
 大湾区卫视,http://183.11.239.36:808/hls/132/index.m3u8
+大湾区卫视,http://222.128.55.152:9080/live/dwq.m3u8
 岭南戏曲,http://113.101.119.50:8090/hls/22/index.m3u8
 岭南戏曲,http://183.239.226.235:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
@@ -1690,13 +1691,22 @@ TVB明珠,http://43.139.34.228:9898/hls/110/index.m3u8
 天映频道,http://php.jdshipin.com/smt.php?id=Celestial
 星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 📺　北京,#genre#
+北京新闻,http://dsj.motem.top:8880/bptv/10000100000000050000000003870780.m3u8
 北京财经,http://114.241.200.178:8888/rtp/239.3.1.116:8000
+北京影视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=1746133153&sign=73f0d92eb0d8b5ea493665a16f165483
+北京影视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=1746219554&sign=f8336df7120ce6030885835aa1c569f7
 北京纪实科教,http://www.qhjx.top:18000/udp/238.255.2.107:5999
 北京纪实科教,http://120.76.248.139/live/bfgd/4200000113.m3u8
+北京纪实科教4K,http://dsj.motem.top:8880/bptv/10000100000000050000000003887500.m3u8
+卡酷少儿,http://dsj.motem.top:8880/bptv/10000100000000050000000003904597.m3u8
 卡酷少儿,http://120.76.248.139/live/bfgd/4200000106.m3u8
 卡酷少儿,http://222.173.108.238:352/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 卡酷少儿,http://61.138.128.226:19901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 卡酷少儿,http://61.138.128.226:19901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+淘电影,http://dsj.motem.top:8880/bptv/10000100000000050000000003887498.m3u8
+淘剧场,http://dsj.motem.top:8880/bptv/10000100000000050000000003887497.m3u8
+淘娱乐,http://dsj.motem.top:8880/bptv/10000100000000050000000003887499.m3u8
+萌宠TV,http://dsj.motem.top:8880/bptv/10000100000000050000000003887495.m3u8
 📺　上海,#genre#
 上海都市,http://180.165.21.243:9091/hls/18/index.m3u8
 东方财经,http://115.150.63.77:9902/tsfile/live/1042_1.m3u8
@@ -3402,11 +3412,11 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 内蒙古文体娱乐,https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=c7b5c515d2bb6df442492d54955329a3&txTime=771E8800
 内蒙古农牧,https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=4d368a175afa19737a9f5be10af24fe2&txTime=771E8800
 内蒙古少儿,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800
-内蒙古蒙语,https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=4971666599ef9411629213c9a300bf66&txTime=771EF880
+内蒙古蒙语文化,https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=4971666599ef9411629213c9a300bf66&txTime=771EF880
 内蒙古蒙语文化,https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=d9d0fd7a252ef56b515c46a2e21830f4&txTime=771E8800
 内蒙古新闻综合,http://play1-qk.nmtv.cn/live/1686560423879174.m3u8
 内蒙古经济生活,http://play1-qk.nmtv.cn/live/1686562470947181.m3u8
-内蒙古蒙语,http://play1-qk.nmtv.cn/live/1686560387346365.m3u8
+内蒙古蒙语文化,http://play1-qk.nmtv.cn/live/1686560387346365.m3u8
 内蒙古文体娱乐,http://play1-qk.nmtv.cn/live/1686561195713372.m3u8
 内蒙古农牧,http://play1-qk.nmtv.cn/live/1686561299036179.m3u8
 内蒙古蒙语文化,http://play1-qk.nmtv.cn/live/1686561065304370.m3u8
