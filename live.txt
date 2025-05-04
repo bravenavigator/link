@@ -19,7 +19,6 @@ CCTV14少儿,http://127.0.0.1
 CCTV15音乐,http://127.0.0.1
 CCTV16奥林匹克,http://127.0.0.1
 CCTV17农业农村,http://127.0.0.1
-CCTV18曲艺,http://127.0.0.1
 CCTV4K高清,http://127.0.0.1
 CCTV重温经典,http://127.0.0.1
 CCTV经典电影,http://127.0.0.1
@@ -1326,7 +1325,6 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 欧洲华文六套,http://vvlive.eztv.vip/ctvsnew/ctvsnew.m3u8?auth_key=1710810919-0-0-50aa348ab0ba1386377aafc10877062f
 欧洲华文七套,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
 📺　广东,#genre#
-广东卫视,http://113.64.146.6:2024/hls/58/index.m3u8
 广东新闻,http://14.212.185.146:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 广东珠江,http://14.212.185.146:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 广东民生,http://14.212.185.146:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -3115,7 +3113,8 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 海南兴海综合,http://lived.dmqhyadmin.com/xhzhpd/sd/live.m3u8
 海西都兰综合,https://livecdn.dmqhyadmin.com/hls/xjdulan.m3u8
 📺　辽宁,#genre#
-辽宁卫视,http://120.76.248.139/live/bfgd/4200000058.m3u8
+辽宁新闻,http://124.93.18.237:9002//hls/20/index.m3u8
+辽宁经济,http://124.93.18.237:9002//hls/26/index.m3u8
 辽宁北方,http://120.76.248.139/live/bfgd/4200000071.m3u8
 辽宁公共,http://120.76.248.139/live/bfgd/4200000481.m3u8
 辽宁公共,http://120.76.248.139/live/bfgd/4200000077.m3u8
@@ -3126,8 +3125,6 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 辽宁影视剧,http://120.76.248.139/live/bfgd/4200000070.m3u8
 辽宁体育,http://120.76.248.139/live/bfgd/4200000611.m3u8
 辽宁教育青少,http://120.76.248.139/live/bfgd/4200000075.m3u8
-辽宁新闻,http://124.93.18.237:9002//hls/20/index.m3u8
-辽宁经济,http://124.93.18.237:9002//hls/26/index.m3u8
 辽宁都市,http://42.176.155.182:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁公共,http://42.176.155.182:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁经济,http://42.176.155.182:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -3437,6 +3434,7 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 长春市民生活,https://p2bj.vzan.com/slowlive/317775187203351257/live.m3u8
 延边汉语综合,https://live.ybtvyun.com/video/s10006-e9c6f9e4d53b/index.m3u8
 📺内蒙古,#genre#
+内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/3208526general.m3u8?txSecret=eb5a3102dd5406c7ffeddf560b024952&txTime=76B2F9A0
 内蒙古新闻综合,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=b4373417a82ed64e52b0982a66da8df2&txTime=771E8800
 内蒙古经济生活,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=112b2c4c872de52b0f37aff6ead63ef0&txTime=771E8800
 内蒙古农牧,https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=4d368a175afa19737a9f5be10af24fe2&txTime=771E8800
