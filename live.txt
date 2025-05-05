@@ -1469,6 +1469,7 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 凤凰资讯,http://108.181.20.197/livehttpplay?channel_id=30015
 凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰资讯,http://183.239.236.91:8088/hls/10/index.m3u8
+凤凰资讯,http://vl15191373.imwork.net:8880/udp/239.93.1.4:2191
 凤凰中文,http://cdn.163189.xyz/live/fhzw/stream.m3u8
 凤凰中文,https://cdn.163189.xyz/live/fhzw/stream.m3u8
 凤凰中文,http://cdn.132.us.kg/live/fhzw/stream.m3u8
