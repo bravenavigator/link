@@ -2113,11 +2113,11 @@ EYETV旅遊,http://50.7.234.10:8278/eyetvtravel_twn/playlist.m3u8?tid=MFDF506660
 龙华经典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
 龙华偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8
 龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
-龙华偶像,http://108.181.20.197/livehttpplay?channel_id=20023
 龙华卡通,https://cdn3.132.us.kg/live/lhkt/stream.m3u8
 龙华卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
 龙华日韩,https://cdn3.132.us.kg/live/lhrh/stream.m3u8
 龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
+龙华偶像,http://108.181.20.197/livehttpplay?channel_id=20023
 龙华日韩,http://108.181.20.197/livehttpplay?channel_id=20081
 龙华偶像,http://50.7.234.10:8278/lunghuaidol_twn/playlist.m3u8?tid=ME6E1618913016189130&ct=19226&tsum=392d7662a2ff7080289fbe9646e8501d
 龙华戏剧,http://50.7.234.10:8278/lunghuaxiju_twn/playlist.m3u8?tid=ME6E4094688440946884&ct=19234&tsum=dcb21e7462cf3104b9c2e9d3ede30359
