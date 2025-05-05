@@ -1669,10 +1669,8 @@ RTHK32,http://50.7.234.10:8278/rhk32_twn/playlist.m3u8?tid=m941409fa5c86&ct=1833
 澳门Macau,http://php.jdshipin.com/TVOD/iptv.php?id=as
 澳门Macau,http://php.jdshipin.com/PLTV/iptv.php?id=as
 澳门Macau,http://cdn.132.us.kg/live/as/stream.m3u8
-澳门Macau,http://103.233.191.132:1935/ch3/ch3.live/playlist.m3u8
 澳门Macau,http://61.244.22.5/ch3/ch3.live/chunklist.m3u8
 澳门Macau,http://192.3.130.92:20000/live/as/stream.m3u8
-澳视澳门,http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8
 澳视澳门,http://php.jdshipin.com:8880/PLTV/iptv.php?id=asam
 澳视澳门,http://cdn.132.us.kg/live/asam/stream.m3u8
 澳视澳门,https://cdn.163189.xyz/live/asam/stream.m3u8
@@ -1680,12 +1678,22 @@ RTHK32,http://50.7.234.10:8278/rhk32_twn/playlist.m3u8?tid=m941409fa5c86&ct=1833
 澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
 澳视澳门,http://192.3.130.92:20000/live/asam/stream.m3u8
 澳视澳门,http://cdn.163189.xyz/live/asam/stream.m3u8
+澳视Macau,http://103.233.191.134:1935/ch3/ch3.live/playlist.m3u8
+澳视Macau,http://103.233.191.133:1935/ch3/ch3.live/playlist.m3u8
+澳门Macau,http://103.233.191.132:1935/ch3/ch3.live/playlist.m3u8
+澳视澳门,http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8
+澳视澳门,http://103.233.191.133:1935/ch1/ch1.live/playlist.m3u8
 澳视葡文,http://103.233.191.132:1935/ch2/ch2.live/playlist.m3u8
 澳视葡文,http://103.233.191.133:1935/ch2/ch2.live/playlist.m3u8
 澳视葡文,http://103.233.191.134:1935/ch2/ch2.live/playlist.m3u8
+澳门资讯,http://103.233.191.133:1935/ch5/info_ch5.live/playlist.m3u8
+澳视资讯,http://103.233.191.134:1935/ch5/info_ch5.live/playlist.m3u8
 澳门综艺,http://103.233.191.134:1935/ch6/hd_ch6.live/playlist.m3u8
 澳门综艺,http://103.233.191.132:1935/ch6/hd_ch6.live/playlist.m3u8
 澳门综艺,http://103.233.191.133:1935/ch6/hd_ch6.live/playlist.m3u8
+澳视体育,http://103.233.191.132:1935/ch4/sport_ch4.live/playlist.m3u8
+澳视体育,http://103.233.191.133:1935/ch4/sport_ch4.live/playlist.m3u8
+澳视体育,http://103.233.191.134:1935/ch4/sport_ch4.live/playlist.m3u8
 TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
 TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
 TVB星河,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
@@ -1972,6 +1980,8 @@ TVBS精彩,http://108.181.20.197/livehttpplay?channel_id=20136
 华视ᴴᴰ,http://50.7.234.10:8278/ctshd_twn/playlist.m3u8?tid=m760743cf1f5e&ct=18335&tsum=9b0d2efb292253075aa4ec25cc439b81
 华视ᴴᴰ,http://50.7.234.10:8278/ctshd_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=7b3b84a5c2d51d342b01b432389aac57
 华视新闻,http://108.181.20.197/livehttpplay?channel_id=20086
+华语电视2,http://38.64.72.148:80/hls/modn/list/4002/playlist.m3u8
+华语电视3,http://38.64.72.148:80/hls/modn/list/4003/playlist.m3u8
 三立ᴴᴰ,http://50.7.234.10:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
 三立ᴴᴰ,http://50.7.234.10:8278/sanlizhonghe/playlist.m3u8?tid=MB0B8754413687544136&ct=19193&tsum=b815a8eec252a8266b57178e6b336b03
 三立新闻,http://108.181.20.197/livehttpplay?channel_id=10126
@@ -2065,7 +2075,7 @@ TVBS精彩,http://108.181.20.197/livehttpplay?channel_id=20136
 博斯网球,http://50.7.234.10:8278/bositennis_twn/playlist.m3u8?tid=MA9A5922328659223286&ct=19225&tsum=c83f112dbae37be6d20618138fddcf77
 博斯网球,http://50.7.234.10:8278/bositennis_twn/playlist.m3u8?tid=MDCD2148551721485517&ct=19249&tsum=bab41ccd3843b938886a64a656463af0
 博斯网球,http://50.7.234.10:8278/bositennis_twn/playlist.m3u8?tid=m60f4fd9da4d1&ct=18335&tsum=4d026bfb332da29886aa772f2e149edb
-ELEVEN1体育,http://50.7.234.10:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
+ELEVEN1体育,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN2体育,rtmp://f13h.mine.nu/sat/tv741
 ELEVEN1体育,rtmp://60.248.77.68/sat/tv731
 ELEVEN1体育,rtmp://60.248.77.66/sat/tv731
@@ -2073,6 +2083,7 @@ ELEVEN2体育,rtmp://60.248.77.68/sat/tv741
 ELEVEN2体育,rtmp://60.248.77.66/sat/tv741
 ELEVEN1体育,http://108.181.20.197/livehttpplay?channel_id=10104
 ELEVEN2体育,http://108.181.20.197/livehttpplay?channel_id=10105
+ELEVEN1体育,http://50.7.234.10:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
 爱尔达体育1,http://108.181.20.197/livehttpplay?channel_id=20043
 爱尔达体育2,http://108.181.20.197/livehttpplay?channel_id=20107
 爱尔达体育1,rtmp://60.248.77.68/sat/md011
@@ -2113,6 +2124,7 @@ EYETV旅遊,http://50.7.234.10:8278/eyetvtravel_twn/playlist.m3u8?tid=MFDF506660
 龙祥电影,http://mytv.cdn.com.mp/live/lxsd/stream.m3u8
 龙祥电影,http://108.181.20.197/livehttpplay?channel_id=20114
 龙祥电影,http://50.7.234.10:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
+星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 探索科学,http://50.7.234.10:8278/discoverysc_twn/playlist.m3u8?tid=MA5A1483878814838788&ct=19234&tsum=0ddc2f194c37e1b7d091efc180f3de7a
 探索科学,http://50.7.234.10:8278/discoverysc_twn/playlist.m3u8?tid=MA9A4194864841948648&ct=19225&tsum=d87ede28c5152d8a730038fd5fb8207f
 探索科学,http://50.7.234.10:8278/discoverysc_twn/playlist.m3u8?tid=mc6599c2e8abf17200438&ct=17877&tsum=04c82c404888445ec55711287ad6b21b
