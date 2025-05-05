@@ -3,7 +3,7 @@ CCTV13新闻,http://127.0.0.1
 CCTV1综合,http://127.0.0.1
 CCTV2财经,http://127.0.0.1
 CCTV3综艺,http://127.0.0.1
-CCTV4中文国际,http://127.0.0.1
+CCTV4中文国际,http://127.0.0.1东森
 CCTV4美洲,http://127.0.0.1
 CCTV4欧洲,http://127.0.0.1
 CCTV5体育,http://127.0.0.1
@@ -1881,6 +1881,7 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 东森超视,rtmp://60.248.77.83/sat/tv331
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+东森超视,http://38.64.72.148:80/hls/modn/list/2013/playlist.m3u8
 东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 东森美洲,http://38.64.72.148/hls/modn/list/2016/chunklist0.m3u8
 东森美洲,http://38.64.72.148/hls/modn/list/2015/chunklist0.m3u8
@@ -1943,6 +1944,7 @@ TVBS精彩,http://108.181.20.197/livehttpplay?channel_id=20136
 台视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+台视新闻,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
 台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top
@@ -1955,6 +1957,7 @@ TVBS精彩,http://108.181.20.197/livehttpplay?channel_id=20136
 民视ᴴᴰ,http://50.7.234.10:8278/ftvhd_taiwan/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=8742eae9e34ff529729460b85da292c8
 民视ᴴᴰ,http://198.16.100.186:8278/ftvhd_taiwan/playlist.m3u8?tid=MC8C5908644059086440&ct=19249&tsum=c96d2cd48b11d40ca9e97fb3addb1384
 民视新闻,http://108.181.20.197/livehttpplay?channel_id=20097
+民视新闻,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
