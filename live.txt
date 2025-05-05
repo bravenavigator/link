@@ -2623,25 +2623,25 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 四川经济,http://61.157.139.15:9901/tsfile/live/2416_1.m3u8?key=txiptv&playlive=1&authid=0
 四川妇女儿童,http://61.157.139.15:9901/tsfile/live/2414_1.m3u8?key=txiptv&playlive=1&authid=0
 四川新闻,http://112.44.232.224:55080/hls/27/index.m3u8
-四川新闻,http://183.221.92.176:50080/hls/17/index.m3u8
-四川经济,http://183.221.92.176:50080/hls/18/index.m3u8
-四川经济,http://183.223.157.33:9901/tsfile/live/1000_1.m3u8
 四川文化旅游,http://112.44.232.224:55080/hls/26/index.m3u8
-四川文化旅游,http://183.221.92.176:50080/hls/19/index.m3u8
 四川影视文艺,http://112.44.232.224:55080/hls/28/index.m3u8
 四川科教,http://112.44.232.224:55080/hls/29/index.m3u8
 四川乡村,http://112.44.232.224:55080/hls/30/index.m3u8
 四川峨眉电影,http://112.44.232.224:55080/hls/31/index.m3u8
+四川新闻,http://183.221.92.176:50080/hls/17/index.m3u8
+四川经济,http://183.221.92.176:50080/hls/18/index.m3u8
+四川文化旅游,http://183.221.92.176:50080/hls/19/index.m3u8
 四川峨眉电影,http://183.221.92.176:50080/hls/20/index.m3u8
+四川经济,http://183.223.157.33:9901/tsfile/live/1000_1.m3u8
 四川新闻,http://183.223.157.33:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 四川文化旅游,http://183.223.157.33:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
 四川科教,http://183.223.157.33:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+四川峨眉电影,http://183.223.157.33:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+四川峨眉电影,http://183.223.157.33:9901/tsfile/live/1006_1.m3u8
+四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
 四川新闻,http://218.89.240.144:59901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 四川文化旅游,http://218.89.240.144:59901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 四川峨眉电影,http://218.89.240.144:59901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-四川峨眉电影,http://183.223.157.33:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-四川峨眉电影,http://183.223.157.33:9901/tsfile/live/1006_1.m3u8
 四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
 成都综合,http://183.221.92.176:50080/hls/21/index.m3u8
 成都经济,http://183.221.92.176:50080/hls/22/index.m3u8
@@ -2727,6 +2727,10 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 甘孜康定综合,http://kdfile.ganzitv.com/nmip-media/channellive/channel100663/playlist.m3u8
 甘孜康定综合,http://m3u8-kd.channel.ganzitv.com/nmip-media-yajiang/channellive/channel100663/playlist.m3u8
 📺　广西,#genre#
+广西卫视,http://180.140.115.220:50085/hls/19/index.m3u8
+广西新闻,http://180.140.115.220:50085/hls/20/index.m3u8
+广西影视,http://180.140.115.220:50085/hls/21/index.m3u8
+广西旅游,http://180.140.115.220:50085/hls/22/index.m3u8
 广西卫视,http://116.9.204.242:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 广西新闻,http://116.9.204.242:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 广西都市,http://116.9.204.242:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -2748,6 +2752,7 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 梧州新闻综合,http://live.wzrtv.cn:80/xwzh1/sd/live.m3u8
 梧州公共,http://live.wzrtv.cn:80/ggpd1/sd/live.m3u8
 梧州教育生活,http://live.wzrtv.cn:80/jysh1/sd/live.m3u8
+贺州综合,http://zhz.gxhzxw.com:2935/live/HZXW-HD/playlist.m3u8
 河池罗城综合,http://111.12.75.177:9100/lctvlive/lch.m3u8
 河池罗城综合,http://www.3jlc.cn:80/lctvlive/lcm.m3u8
 崇左天等综合,https://live.gxrb.com.cn/gx/tiandeng/index.m3u8
@@ -2997,6 +3002,7 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 濮阳南乐综合,http://live.dxhmt.cn:9081/tv/10923-1.m3u8
 商丘永城新闻,http://live.dxhmt.cn:9081/tv/11481-1.m3u8
 📺　河北,#genre#
+河北卫视,http://43.143.254.239:55232/hls/19/index.m3u8
 河北经济生活,http://43.143.254.239:36326/hls/20/index.m3u8
 河北都市,http://43.143.254.239:36326/hls/21/index.m3u8
 河北农民,http://43.143.254.239:36326/hls/25/index.m3u8
@@ -3006,7 +3012,6 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 河北少儿科教,http://43.143.254.239:36326/hls/23/index.m3u8
 河北文旅公共,http://43.143.254.239:55232/hls/23/index.m3u8
 河北农民,http://43.143.254.239:55232/hls/24/index.m3u8
-河北经济生活,http://43.143.254.239:55232/hls/19/index.m3u8
 河北都市,http://43.143.254.239:55232/hls/20/index.m3u8
 河北影视剧,http://43.143.254.239:55232/hls/21/index.m3u8
 河北少儿科教,http://43.143.254.239:55232/hls/22/index.m3u8
