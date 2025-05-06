@@ -641,7 +641,6 @@ CCTV7国防军事,http://116.117.107.84:9901/tsfile/live/0007_1.m3u8?key=txiptv&
 CCTV5+体育赛事,http://183.223.157.33:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV7国防军事,http://110.7.131.254:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5体育,http://113.57.20.158:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV兵器科技,http://183.11.239.36:808/hls/21/index.m3u8
 CCTV8电视剧,http://58.19.43.46:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV7国防军事,http://113.57.20.158:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4中文国际,http://110.7.131.254:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -697,6 +696,7 @@ CCTV风云足球,http://180.213.174.225:9901/tsfile/live/1046_1.m3u8?key=txiptv&
 CCTV风云音乐,http://180.213.174.225:9901/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV电视指南,http://180.213.174.225:9901/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV世界地理,http://1.192.72.243:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV兵器科技,http://183.11.239.36:808/hls/21/index.m3u8
 CCTV世界地理,http://183.11.239.36:808/hls/11/index.m3u8
 CCTV央视文化精品,http://183.11.239.36:808/hls/97/index.m3u8
 CCTV怀旧剧场,http://183.11.239.36:808/hls/92/index.m3u8
@@ -2041,6 +2041,7 @@ TVBS精彩,http://108.181.20.197/livehttpplay?channel_id=20136
 八大第一,http://108.181.20.197/livehttpplay?channel_id=20073
 八大第一,http://50.7.234.10:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
 八大第一,http://50.7.234.10:8278/badafirst/playlist.m3u8?tid=MD2D8073200480732004&ct=19254&tsum=5cb051b366ad3740cebcc06a987d749e
+八大精彩,http://108.181.20.197/livehttpplay?channel_id=20052
 八大娱乐,http://108.181.20.197/livehttpplay?channel_id=20071
 八大戏剧,http://50.7.234.10:8278/badadrama/playlist.m3u8?tid=MBCB2433143824331438&ct=19254&tsum=51660c351b3991d81434e43bd1ab720e
 八大戏剧,http://50.7.234.10:8278/badadrama/playlist.m3u8?tid=ME3E7432781774327817&ct=19193&tsum=504532547ffc646858157dd724bca18d
