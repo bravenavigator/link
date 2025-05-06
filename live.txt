@@ -2641,6 +2641,16 @@ MoMo综合,rtmp://60.248.77.66/sat/tv761
 景德镇新闻综合,http://play-live-hls.jxtvcn.com.cn/live/tv_jingdezhen.flv
 景德镇新闻综合,rtmp://play-live-hls.jxtvcn.com.cn/live/tv_jingdezhen
 📺　福建,#genre#
+东南卫视,http://8.138.7.223/tv/fjtv.php?id=5
+海峡卫视,http://8.138.7.223/tv/fjtv.php?id=3
+福建综合,http://8.138.7.223/tv/fjtv.php?id=4
+福建新闻,http://8.138.7.223/tv/fjtv.php?id=13
+福建经济,http://8.138.7.223/tv/fjtv.php?id=9
+福建乡村振兴公共,http://8.138.7.223/tv/fjtv.php?id=6
+福建电视剧,http://8.138.7.223/tv/fjtv.php?id=7
+福建旅游,http://8.138.7.223/tv/fjtv.php?id=8
+福建文体,http://8.138.7.223/tv/fjtv.php?id=10
+福建少儿,http://8.138.7.223/tv/fjtv.php?id=2
 福建新闻,http://110.80.17.38:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 福建乡村振兴公共,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 福建乡村振兴公共,http://110.80.17.38:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -2825,6 +2835,13 @@ MoMo综合,rtmp://60.248.77.66/sat/tv761
 河池罗城综合,http://www.3jlc.cn:80/lctvlive/lcm.m3u8
 崇左天等综合,https://live.gxrb.com.cn/gx/tiandeng/index.m3u8
 📺　海南,#genre#
+海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
+三沙卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=ssws
+海南自贸,http://nn.7x9d.cn/地方台8563/海南.php?id=jjpd
+海南新闻,http://nn.7x9d.cn/地方台8563/海南.php?id=xwpd
+海南公共,http://nn.7x9d.cn/地方台8563/海南.php?id=ggpd
+海南文旅,http://nn.7x9d.cn/地方台8563/海南.php?id=wlpd
+海南少儿,http://nn.7x9d.cn/地方台8563/海南.php?id=sepd
 海口新闻综合,http://183.255.46.4:16080/live/tv1001.m3u8
 海口生活娱乐,http://183.255.46.4:16080/live/tv2502.m3u8
 海口城乡经济,http://183.255.46.4:16080/live/tv2503.m3u8
