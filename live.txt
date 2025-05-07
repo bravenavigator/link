@@ -1025,10 +1025,9 @@ CETV中国教育4,http://gmxw.7766.org:808/hls/79/index.m3u8
 北京卫视,http://113.64.146.135:2024/hls/70/index.m3u8
 吉林卫视,http://113.64.146.135:2024/hls/86/index.m3u8
 天津卫视,http://113.64.146.135:2024/hls/71/index.m3u8
-宁夏卫视,http://113.64.146.135:2024/hls/87/index.m3u8
+海南卫视,http://113.64.146.135:2024/hls/87/index.m3u8
 安徽卫视,http://113.64.146.135:2024/hls/69/index.m3u8
 山东卫视,http://113.64.146.135:2024/hls/72/index.m3u8
-山西卫视,http://113.64.146.135:2024/hls/63/index.m3u8
 广东卫视,http://113.64.146.135:2024/hls/55/index.m3u8
 广东卫视,http://113.64.146.135:2024/hls/43/index.m3u8
 广东卫视,http://113.64.146.135:2024/hls/58/index.m3u8
@@ -1036,7 +1035,6 @@ CETV中国教育4,http://gmxw.7766.org:808/hls/79/index.m3u8
 江苏卫视,http://113.64.146.135:2024/hls/67/index.m3u8
 江西卫视,http://113.64.146.135:2024/hls/73/index.m3u8
 河北卫视,http://113.64.146.135:2024/hls/83/index.m3u8
-河南卫视,http://113.64.146.135:2024/hls/80/index.m3u8
 浙江卫视,http://113.64.146.135:2024/hls/61/index.m3u8
 海南卫视,http://113.64.146.135:2024/hls/66/index.m3u8
 湖北卫视,http://113.64.146.135:2024/hls/68/index.m3u8
@@ -1451,6 +1449,7 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 广东新闻,http://183.11.239.36:808/hls/5/index.m3u8
 大湾区卫视,http://183.11.239.36:808/hls/132/index.m3u8
 大湾区卫视,http://222.128.55.152:9080/live/dwq.m3u8
+大湾区卫视,http://113.64.146.135:2024/hls/63/index.m3u8
 岭南戏曲,http://113.64.146.135:2024/hls/47/index.m3u8
 岭南戏曲,http://113.101.119.50:8090/hls/22/index.m3u8
 岭南戏曲,http://183.239.226.235:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
