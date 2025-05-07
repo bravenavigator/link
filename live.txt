@@ -2694,11 +2694,8 @@ MoMo综合,rtmp://60.248.77.66/sat/tv761
 安徽影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be.flv
 安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv
 合肥新闻,http://60.172.130.146:352/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-亳州新闻,http://zbbf2.ahbztv.com/live/416.m3u8
-亳州农村,http://zbbf2.ahbztv.com/live/418.m3u8
-池州新闻综合,http://wjsp.chiznews.com:8037/live/xwzh.m3u8
-池州文教生活,http://wjsp.chiznews.com:8037/live/wjsh.m3u8
-淮南新闻综合,http://112.30.194.221:20080/live/cb8cb76bfc154f579df8c9d2443127af/hls.m3u8
+淮南综合,http://112.122.32.110:85/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
+淮南综合,http://112.122.32.140:85/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
 淮南公共,http://112.30.194.221:20080/live/6e43da3335a640b3a73c948fccf935c5/hls.m3u8
 淮北新闻综合,https://live.hbnews.net/video/xwzh/index.m3u8
 淮北新闻综合,http://xcblive.hbcoal.com/3/sd/live.m3u8
@@ -2707,6 +2704,16 @@ MoMo综合,rtmp://60.248.77.66/sat/tv761
 宿州经济生活,http://live.ahsz.tv/video/s10001-ggpd/index.m3u8
 宿州科教,http://live.ahsz.tv/video/s10001-kxjy/index.m3u8
 宿州萧县新闻综合,http://60.171.239.216:9080/hls/stream1.m3u8
+亳州综合,http://zbbf2.ahbztv.com/live/416.m3u8
+亳州农村,http://zbbf2.ahbztv.com/live/418.m3u8
+亳州综合,http://112.122.32.119:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+亳州综合,http://112.122.32.140:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+池州新闻综合,http://wjsp.chiznews.com:8037/live/xwzh.m3u8
+池州文教生活,http://wjsp.chiznews.com:8037/live/wjsh.m3u8
+池州新闻综合,http://60.174.40.117:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+池州文教生活,http://60.174.40.117:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+池州东至新闻,http://60.174.40.117:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+淮南新闻综合,http://112.30.194.221:20080/live/cb8cb76bfc154f579df8c9d2443127af/hls.m3u8
 滁州新闻综合,http://live.cztv.cc:85/live/xwpd.m3u8
 滁州公共,http://live.cztv.cc:85/live/ggpd.m3u8
 滁州科教,http://live.cztv.cc:85/live/sjpd.m3u8
@@ -2718,6 +2725,8 @@ MoMo综合,rtmp://60.248.77.66/sat/tv761
 黄山屯溪融媒,http://112.30.194.221:20080/live/63cfaf06e7064943b9a1b7d76d3470dd/hls.m3u8?zanhd
 安庆岳西综合,http://112.30.194.221:20080/live/b62955a9283f4c2ea8ccb96e8ac468bc/hls.m3u8
 安庆潜山新闻综合,http://60.171.171.101:8278/rtmp_export/video22.m3u8?zanhd
+阜阳阜南新闻,http://112.122.32.4:85/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
+阜阳阜南新闻,http://112.122.32.119:85/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
 蚌埠固镇综合,http://www.guzhenm.com:7001/hls/hd-live.m3u8
 马鞍山当涂新闻综合,http://112.30.194.221:20080/live/4f38ef59c79e4d4bac1a995681102573/hls.m3u8
 📺　江西,#genre#
