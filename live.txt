@@ -1577,7 +1577,10 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 嘉佳卡通,http://113.64.146.135:2024/hls/50/index.m3u8
 广东新闻,http://113.64.146.6:2024/hls/37/index.m3u8
 广东体育,http://113.64.146.6:2024/hls/39/index.m3u8
+广东民生,http://183.237.95.108:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=0&authid=0
 广东综艺,http://183.237.95.108:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=0&authid=0
+广东珠江,http://183.237.95.108:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=0&authid=0
+广东体育,http://183.237.95.108:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=0&authid=0
 广东新闻,http://113.101.119.50:8090/hls/106/index.m3u8
 经济科教,http://113.101.119.50:8090/hls/129/index.m3u8
 广东影视,http://113.101.119.50:8090/hls/110/index.m3u8
@@ -1595,7 +1598,6 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 广东体育,http://218.13.170.98:9901/tsfile/live/0019_1.m3u8
 广东珠江,http://120.238.94.10:9901/tsfile/live/1009_1.m3u8
 广东体育,http://120.238.94.10:9901/tsfile/live/1012_1.m3u8
-广东民生,http://183.237.95.108:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=0&authid=0
 经济科教,http://113.86.205.59:808/hls/129/index.m3u8
 广东珠江,http://192.3.130.92:20007/live/gdzj/stream.m3u8
 广东体育,http://192.3.130.92:20007/live/gdty/stream.m3u8
@@ -1614,6 +1616,7 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 岭南戏曲,http://113.64.146.135:2024/hls/47/index.m3u8
 岭南戏曲,http://113.101.119.50:8090/hls/22/index.m3u8
 岭南戏曲,http://183.239.226.235:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+广东珠江,http://218.15.183.23:9901/tsfile/live/23009_1.m3u8
 广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
 广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
 广东珠江,https://cdn2.163189.xyz/live/gdzj/stream.m3u8
