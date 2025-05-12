@@ -1994,16 +1994,47 @@ TVB明珠,http://43.139.34.228:9898/hls/110/index.m3u8
 TVB明珠,http://50.7.234.10:8278/pearl_twn/playlist.m3u8?tid=MC6C7041327570413275&ct=19226&tsum=681972baf66d69caf7cccc92a90e5aad
 香港 C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 香港面包,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+🌐　华文,#genre#
+新加坡CHU,https://cdn6.132.us.kg/live/chu/stream.m3u8
+新加坡CH5,https://cdn6.132.us.kg/live/ch5/stream.m3u8
+新加坡CH8,https://cdn6.132.us.kg/live/ch8/stream.m3u8
+新加坡CHU,https://cdn6.163189.xyz/live/chu/stream.m3u8
+新加坡CH5,https://cdn6.163189.xyz/live/ch5/stream.m3u8
+新加坡CH8,https://cdn6.163189.xyz/live/ch8/stream.m3u8
+新加坡CH5,http://192.3.130.92:20003/live/ch5/stream.m3u8
+新加坡CH8,http://192.3.130.92:20003/live/ch8/stream.m3u8
+新加坡CHU,http://192.3.130.92:20003/live/chu/stream.m3u8
+新加坡CH5,http://50.7.234.10:8278/cna/playlist.m3u8?tid=MFAF1272681512726815&ct=19225&tsum=4d6a781648283b1bb018bc5c098432d0
+新加坡CH5,http://50.7.234.10:8278/cna/playlist.m3u8?tid=m75c258e8db6c&ct=18336&tsum=72391487028dc68a70d050b29c3654ee
+八度空间,https://cdn6.163189.xyz/live/8tv/stream.m3u8
+八度空间,https://cdn6.132.us.kg/live/8tv/stream.m3u8
+八度空间,http://192.3.130.92:20003/live/8tv/stream.m3u8
+八度空间,http://php.jdshipin.com/smt.php?id=TV8
+马来西亚Astro欢喜,http://192.3.130.92:20002/smt3.2.1.php?id=Huahee
+马来西亚Astro欢喜,http://php.jdshipin.com:8880/smt.php?id=Huahee
+马来西亚Astro欢喜,http://php.jdshipin.com/smt.php?id=Huahee
+马来西亚astro爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
+马来西亚Astro AEC,http://192.3.130.92:20002/smt3.2.1.php?id=AEC
+马来西亚Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
+马来西亚Astro AEC,http://php.jdshipin.com:8880/smt.php?id=AEC
+马来西亚Astro AOD,http://php.jdshipin.com:8880/smt.php?id=Aodhd
+马来西亚Astro QJ,http://192.3.130.92:20002/smt3.2.1.php?id=Quanjia
+马来西亚Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
+马来西亚Astro QJ,http://php.jdshipin.com:8880/smt.php?id=Quanjia
+美亚电影,https://mysupertv.pendy.dpdns.org/CMAM/cmam.m3u8
 美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 美亚电影,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 美亚电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
 美亚电影,http://php.jdshipin.com/PLTV/iptv.php?id=meiya
 美亚电影,http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MC6C9419277694192776&ct=19234&tsum=43f9d2e13c7cbbce7e5c5ec94fa38750
 美亚电影,http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MFDF2848449728484497&ct=19211&tsum=f65f39620c24fee2e633c4727cc48727
+天映频道,https://mysupertv.pendy.dpdns.org/TYPD/typd.m3u8
 天映频道,http://192.3.130.92:20002/smt3.2.1.php?id=Celestial
 天映频道,http://php.jdshipin.com:8880/smt.php?id=Celestial
 天映频道,http://php.jdshipin.com/smt.php?id=Celestial
-星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+尼克卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20089
+CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 📺　北京,#genre#
 北京新闻,http://dsj.motem.top:8880/bptv/10000100000000050000000003870780.m3u8
 北京财经,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1746133153&sign=12bdc79f797ee6cd0172de425bb0ff13
@@ -2075,34 +2106,6 @@ TVB明珠,http://50.7.234.10:8278/pearl_twn/playlist.m3u8?tid=MC6C70413275704132
 酉阳综合,http://qxlmlive9.cbg.cn/applive/youytv01/playlist.m3u8
 巫山综合,https://qxlmlive9.cbg.cn/applive/wspd001/chunklist.m3u8
 永川综合,https://qxlmlive9.cbg.cn/applive/yctv01/playlist.m3u8
-🌐　华文,#genre#
-新加坡CHU,https://cdn6.132.us.kg/live/chu/stream.m3u8
-新加坡CH5,https://cdn6.132.us.kg/live/ch5/stream.m3u8
-新加坡CH8,https://cdn6.132.us.kg/live/ch8/stream.m3u8
-新加坡CHU,https://cdn6.163189.xyz/live/chu/stream.m3u8
-新加坡CH5,https://cdn6.163189.xyz/live/ch5/stream.m3u8
-新加坡CH8,https://cdn6.163189.xyz/live/ch8/stream.m3u8
-新加坡CH5,http://192.3.130.92:20003/live/ch5/stream.m3u8
-新加坡CH8,http://192.3.130.92:20003/live/ch8/stream.m3u8
-新加坡CHU,http://192.3.130.92:20003/live/chu/stream.m3u8
-新加坡CH5,http://50.7.234.10:8278/cna/playlist.m3u8?tid=MFAF1272681512726815&ct=19225&tsum=4d6a781648283b1bb018bc5c098432d0
-新加坡CH5,http://50.7.234.10:8278/cna/playlist.m3u8?tid=m75c258e8db6c&ct=18336&tsum=72391487028dc68a70d050b29c3654ee
-八度空间,https://cdn6.163189.xyz/live/8tv/stream.m3u8
-八度空间,https://cdn6.132.us.kg/live/8tv/stream.m3u8
-八度空间,http://192.3.130.92:20003/live/8tv/stream.m3u8
-八度空间,http://php.jdshipin.com/smt.php?id=TV8
-Astro欢喜,http://192.3.130.92:20002/smt3.2.1.php?id=Huahee
-Astro欢喜,http://php.jdshipin.com:8880/smt.php?id=Huahee
-Astro欢喜,http://php.jdshipin.com/smt.php?id=Huahee
-astro爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
-Astro AEC,http://192.3.130.92:20002/smt3.2.1.php?id=AEC
-Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
-Astro AEC,http://php.jdshipin.com:8880/smt.php?id=AEC
-Astro QJ,http://192.3.130.92:20002/smt3.2.1.php?id=Quanjia
-Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
-Astro QJ,http://php.jdshipin.com:8880/smt.php?id=Quanjia
-尼克卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20089
-CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 📺　江苏,#genre#
 江苏新闻,http://58.221.214.82:9901/tsfile/live/0009_2.m3u8?key=txiptv&playlive=1&authid=0
 江苏城市,http://58.220.219.14:9901/tsfile/live/0120_3.m3u8?key=txiptv&playlive=1&authid=0
@@ -3594,6 +3597,7 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 中天ᴴᴰ,http://50.7.234.10:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
 中天ᴴᴰ,http://50.7.234.10:8278/ctizhonghe/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=27715b42827ed898125640b4891ddde9
 中天ᴴᴰ,http://50.7.234.10:8278/ctizhonghe/playlist.m3u8?tid=ME3E9861589598615895&ct=19226&tsum=7e6a4896cab50c2c48d7a889c1076ffc
+中天新闻,https://smart.pendy.dpdns.org/Smart.php?id=ctinews
 中天新闻,http://50.7.234.10:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
 中天新闻,http://50.7.234.10:8278/ctinews/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=5da22ad10e374c427fc90aed16f07478
 中天亚洲,https://smart.pendy.dpdns.org/Smart.php?id=ctiasia_twn
@@ -3609,7 +3613,7 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 东森ᴴᴰ,http://50.7.234.10:8278/ettvzhonghe/playlist.m3u8?ct=17874&tid=m65c4e525f24617101171&tsum=663db593cfeefc92ce4b5d7461988f3f
 东森ᴴᴰ,http://50.7.234.10:8278/ettvzhonghe/playlist.m3u8?tid=MC4C1214674912146749&ct=19254&tsum=9b96a50ba99dca1a02a27b05a6fb4b0d
 东森ᴴᴰ,http://50.7.234.10:8278/ettvzhonghe/playlist.m3u8?tid=m65c4e525f24617101171&ct=17874&tsum=663db593cfeefc92ce4b5d7461988f3f
-中天新闻,https://smart.pendy.dpdns.org/Smart.php?id=ctinews
+中天新闻,https://smart.pendy.dpdns.org/Smart.php?id=ettvnews
 东森新闻,http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=MD8D4407126144071261&ct=19344&tsum=c7212737de5e023823ea68610d709c14
 东森新闻,http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=ME5E8863997888639978&ct=19193&tsum=6b0236441f10a7195fb35fe7997db68c
 东森新闻,http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=MC4C3328955833289558&ct=19249&tsum=d68431432600bbf503d95f629f3acc11
