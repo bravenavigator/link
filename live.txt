@@ -1879,16 +1879,16 @@ TVB J2,http://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=mc42afe745533&ct=1144881
 TVB J2,rtmp://60.248.77.68/sat/hk011
 TVB J2,rtmp://60.248.77.66/sat/hk011
 Now新闻,http://mytv.cdn.com.mp/live/now/stream.m3u8
-HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-HOY TV,http://php.jdshipin.com:8880/PLTV/iptv.php?id=hoytv
-HOY TV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hoytv
-HOY TV,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv
-HOY TV,http://cdn.163189.xyz/live/hoy/stream.m3u8
-HOY TV,https://cdn.163189.xyz/live/hoy/stream.m3u8
-HOY TV,https://cdn5.163189.xyz/live/hoy/stream.m3u8
-HOY TV,http://cdn.132.us.kg/live/hoy/stream.m3u8
-HOY TV,http://192.3.130.92:20000/live/hoy/stream.m3u8
-HOY TV,http://beishan008.asuscomm.com:8891/bysid/76.m3u8
+HOY 76,http://beishan008.asuscomm.com:8891/bysid/76.m3u8
+HOY 76,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+HOY 76,http://php.jdshipin.com:8880/PLTV/iptv.php?id=hoytv
+HOY 76,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hoytv
+HOY 76,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv
+HOY 76,http://cdn.163189.xyz/live/hoy/stream.m3u8
+HOY 76,https://cdn.163189.xyz/live/hoy/stream.m3u8
+HOY 76,http://cdn.132.us.kg/live/hoy/stream.m3u8
+HOY 76,http://192.3.130.92:20000/live/hoy/stream.m3u8
+HOY 77,https://cdn5.163189.xyz/live/hoy/stream.m3u8
 HOY 77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 HOY 77,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv2
 HOY 77,http://beishan008.asuscomm.com:8891/bysid/77.m3u8
@@ -1913,8 +1913,8 @@ TVB新闻,http://27.46.95.90:800/hls/1872445994/index.m3u8
 TVB翡翠,http://27.46.95.90:800/hls/1789773363/index.m3u8
 TVB新闻,http://27.46.95.90:800/hls/1832213323/index.m3u8
 TVB明珠,http://27.46.95.90:800/hls/1851842729/index.m3u8
-HOY TV,http://27.46.95.90:800/hls/1868454448/index.m3u8
-HOY TV,http://27.46.95.90:800/hls/1868314925/index.m3u8
+HOY 76,http://27.46.95.90:800/hls/1868454448/index.m3u8
+HOY 76,http://27.46.95.90:800/hls/1868314925/index.m3u8
 ViuTV6,http://27.46.95.90:800/hls/1852451724/index.m3u8
 ViuTV,http://27.46.95.90:800/hls/1864291364/index.m3u8
 RTHK31,http://php.jdshipin.com/PLTV/iptv.php?id=rthk31
