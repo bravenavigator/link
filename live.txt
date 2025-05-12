@@ -2471,6 +2471,12 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 宜昌枝江综合,http://zhijiang-live21.cjyun.org/10120/s10120-zjtv.m3u8?auth_key=1735660799-0-0-fd9715217b53a31e92b5d42d24438b4a
 恩施鹤峰综合,http://hefeng-live21.cjyun.org/10100/s10100-hftv1.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-b42f6cb29eb3b901079113901761aa96
 📺　安徽,#genre#
+安徽卫视,http://203.205.191.53/live.ahsx.ahtv.cn/live/ahwssx.m3u8
+安徽经济生活,http://203.205.191.53/live.ahsx.ahtv.cn/live/jjshtv.m3u8
+安徽公共,http://203.205.191.53/live.ahsx.ahtv.cn/live/ggtv.m3u8
+安徽影视,http://203.205.191.53/live.ahsx.ahtv.cn/live/ystv.m3u8
+安徽科教,http://203.205.191.53/live.ahsx.ahtv.cn/live/nykjtv.m3u8
+安徽体育,http://203.205.191.53/live.ahsx.ahtv.cn/live/zytytv.m3u8
 安徽经济生活,http://wyflv.ahwanyun.cn/live/eac499adad7b49ff9cfa79ba84693959.m3u8
 安徽综艺体育,http://wyflv.ahwanyun.cn/live/c41f112b83f644ddb082669501c8ecd3.m3u8
 安徽影视,http://wyflv.ahwanyun.cn/live/d18ff95cb1fb4bbcb56215e189fc12be.m3u8
@@ -2625,6 +2631,8 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 福建综合,http://110.81.206.138:49231/tsfile/live/23023_1.m3u8?key=txiptv&playlive=1&authid=0
 福建电视剧,http://110.81.206.138:49231/tsfile/live/23026_1.m3u8?key=txiptv&playlive=1&authid=0
 福建少儿,http://110.81.206.138:49231/tsfile/live/23030_1.m3u8?key=txiptv&playlive=1&authid=0
+福建乡村振兴公共,http://8.138.7.223/tv/fjtv.php?id=6
+福建经济,http://8.138.7.223/tv/fjtv.php?id=9
 福州综合,http://117.27.190.42:9998/tsfile/live/23301_1.m3u8?key=txiptv&playlive=1&authid=0
 福州新闻,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 福州生活,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
@@ -2678,7 +2686,6 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 四川新闻,http://218.89.240.144:59901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 四川文化旅游,http://218.89.240.144:59901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 四川峨眉电影,http://218.89.240.144:59901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
 成都综合,http://183.221.92.176:50080/hls/21/index.m3u8
 成都经济,http://183.221.92.176:50080/hls/22/index.m3u8
 成都经济,http://218.89.240.144:59901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -2933,12 +2940,14 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 百姓调解,http://504099760.qicp.vip:9901/tsfile/live/1065_1.m3u8
 风尚河南,http://504099760.qicp.vip:9901/tsfile/live/1066_1.m3u8
 武术世界,http://504099760.qicp.vip:9901/tsfile/live/1062_1.m3u8
+郑州综合,http://nctv.top/IDOEPpiryt/hntv.php?id=zz1
 郑州教育,https://livezzutv.chinamcache.com/live/zb01.m3u8?auth_key=1677911572-0-0-f4af513ba8c09e7801f4700f1573be2c
 郑州新郑一套,http://tvpull.dxhmt.cn:9081/tv/10184-1.m3u8
 郑州新郑一套,http://live.dxhmt.cn:9081/tv/10184-1.m3u8
 郑州登封综合,http://live.dxhmt.cn:9081/tv/10185-1.m3u8
 郑州登封综合,http://tvpull.dxhmt.cn:9081/tv/10185-1.m3u8
 郑州巩义综合,http://live.dxhmt.cn:9081/tv/10181-1.m3u8
+洛阳综合,http://nctv.top/IDOEPpiryt/hntv.php?id=ly1
 洛阳综合,https://wshlslive.migucloud.com/live/6AL7GTQX_C0/playlist.m3u8
 洛阳科教,https://wshlslive.migucloud.com/live/RJ0EYBCZ_C0/playlist.m3u8
 洛阳文旅,https://wshlslive.migucloud.com/live/CVN934JS_C0/playlist.m3u8
@@ -2952,11 +2961,14 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 洛阳新安综合,http://live.dxhmt.cn:9081/tv/10323-1.m3u8
 洛阳栾川综合,http://live.dxhmt.cn:9081/tv/10324-1.m3u8
 洛阳嵩县综合,http://tvpull.dxhmt.cn:9081/tv/10325-1.m3u8
+洛阳伊川综合,http://tvpull.dxhmt.cn:9081/tv/10329-1.m3u8
+开封综合,http://nctv.top/IDOEPpiryt/hntv.php?id=kf1
 开封兰考新闻,http://tvpull.dxhmt.cn:9081/tv/10225-1.m3u8
 开封兰考新闻,http://live.dxhmt.cn:9081/tv/10225-1.m3u8
 开封杞县新闻综合,http://live.dxhmt.cn:9081/tv/10221-1.m3u8
 开封通许新闻综合,http://live.dxhmt.cn:9081/tv/10222-1.m3u8
 开封尉氏新闻综合,http://live.dxhmt.cn:9081/tv/10223-1.m3u8
+焦作新闻综合,http://nctv.top/IDOEPpiryt/hntv.php?id=jz1
 焦作新闻综合,http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8
 焦作公共,http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8
 焦作孟州综合,http://tvpull.dxhmt.cn:9081/tv/10883-1.m3u8
@@ -2964,6 +2976,7 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 焦作武陟综合,http://live.dxhmt.cn:9081/tv/10823-1.m3u8
 焦作沁阳综合,http://live.dxhmt.cn:9081/tv/10882-1.m3u8
 焦作温县综合,http://tvpull.dxhmt.cn:9081/tv/10825-1.m3u8
+南阳综合,http://nctv.top/IDOEPpiryt/hntv.php?id=ny1
 南阳新野综合,http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8
 南阳新野综合,http://live.dxhmt.cn:9081/tv/11329-1.m3u8
 南阳镇平综合,http://tvpull.dxhmt.cn:9081/tv/11324-1.m3u8
@@ -2973,6 +2986,7 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 南阳邓州综合,http://live.dxhmt.cn:9081/tv/11381-1.m3u8
 南阳唐河一套,http://tvpull.dxhmt.cn:9081/tv/11328-1.m3u8
 南阳方城综合,http://live.dxhmt.cn:9081/tv/11322-1.m3u8
+安阳综合,http://nctv.top/IDOEPpiryt/hntv.php?id=ay1
 安阳林州综合,http://tvpull.dxhmt.cn:9081/tv/10581-1.m3u8
 安阳汤阴综合,http://live.dxhmt.cn:9081/tv/10523-1.m3u8
 安阳汤阴综合,http://tvpull.dxhmt.cn:9081/tv/10523-1.m3u8
@@ -2980,12 +2994,14 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 安阳内黄综合,http://live.dxhmt.cn:9081/tv/10527-1.m3u8
 安阳滑县一套,http://tvpull.dxhmt.cn:9081/tv/10526-1.m3u8
 安阳滑县一套,http://live.dxhmt.cn:9081/tv/10526-1.m3u8
+信阳综合,http://nctv.top/IDOEPpiryt/hntv.php?id=xy1
 信阳光山综合,http://tvpull.dxhmt.cn:9081/tv/11522-1.m3u8
 信阳固始综合,http://tvpull.dxhmt.cn:9081/tv/11525-1.m3u8
 信阳潢川新闻综合,http://live.dxhmt.cn:9081/tv/11526-1.m3u8
 信阳罗山新闻综合,http://live.dxhmt.cn:9081/tv/11521-1.m3u8
 信阳商城综合,http://live.dxhmt.cn:9081/tv/11524-1.m3u8
 信阳新县综合,http://live.dxhmt.cn:9081/tv/11523-1.m3u8
+周口新闻综合,http://nctv.top/IDOEPpiryt/hntv.php?id=zk1
 周口新闻综合,http://117.159.72.12:8081/live/6520562530090312540.m3u8
 周口公共,http://117.159.72.12:8081/live/8606202505932165833.m3u8
 周口教育,http://117.159.72.12:8081/live/2548854934748691151.m3u8
@@ -3014,6 +3030,7 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 平顶山叶县一套,http://tvpull.dxhmt.cn:9081/tv/10422-1.m3u8
 平顶山叶县一套,http://live.dxhmt.cn:9081/tv/10422-1.m3u8
 平顶山宝丰一套,http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8
+驻马店综合,http://nctv.top/IDOEPpiryt/hntv.php?id=zmd1
 驻马店新蔡综合,http://tvpull.dxhmt.cn:9081/tv/11729-1.m3u8
 驻马店新蔡综合,http://live.dxhmt.cn:9081/tv/11729-1.m3u8
 驻马店平舆综合,http://live.dxhmt.cn:9081/tv/11723-1.m3u8
@@ -3022,6 +3039,7 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 驻马店确山综合,http://live.dxhmt.cn:9081/tv/11725-1.m3u8
 驻马店西平综合,http://live.dxhmt.cn:9081/tv/11721-1.m3u8
 驻马店上蔡一套,http://live.dxhmt.cn:9081/tv/11722-1.m3u8
+新乡综合,http://nctv.top/IDOEPpiryt/hntv.php?id=xx1
 新乡综合,http://live.dxhmt.cn:9081/tv/10721-1.m3u8
 新乡新乡县综合,http://tvpull.dxhmt.cn:9081/tv/10721-1.m3u8
 新乡获嘉综合,http://live.dxhmt.cn:9081/tv/10724-1.m3u8
@@ -3034,6 +3052,7 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 新乡封丘一套,http://tvpull.dxhmt.cn:9081/tv/10727-1.m3u8
 新乡封丘一套,http://live.dxhmt.cn:9081/tv/10727-1.m3u8
 新乡延津电视,http://live.dxhmt.cn:9081/tv/10726-1.m3u8
+许昌综合,http://nctv.top/IDOEPpiryt/hntv.php?id=xc1
 许昌禹州综合,http://tvpull.dxhmt.cn:9081/tv/11081-1.m3u8
 许昌禹州综合,http://live.dxhmt.cn:9081/tv/11081-1.m3u8
 许昌鄢陵综合,http://tvpull.dxhmt.cn:9081/tv/11024-1.m3u8
@@ -3172,7 +3191,6 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 平凉庄浪综合,https://play.kankanlive.com/live/1687654127961989.m3u8
 金昌永昌综合,https://play.kankanlive.com/live/1652755738635915.m3u8
 金昌永昌综合,rtmp://play.kankanlive.com/live/1652755738635915
-庆阳西峰综合,https://play.kankanlive.com/live/1683944827526991.m3u8
 甘南综合,https://play.kankanlive.com/live/1711955176432990.m3u8
 甘南藏语,http://play.kankanlive.com/live/1720408280309109.m3u8
 甘南藏语,rtsp://60.13.39.18:554/PLTV/88888910/224/3221225819/374381817.smil
