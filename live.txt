@@ -3123,6 +3123,16 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 商丘永城新闻,http://live.dxhmt.cn:9081/tv/11481-1.m3u8
 📺　河北,#genre#
 河北卫视,http://43.143.254.239:55232/hls/19/index.m3u8
+河北都市,http://110.241.189.42:808/hls/59/index.m3u8
+河北都市,http://110.241.191.147:808/hls/59/index.m3u8
+河北影视剧,http://110.241.189.42:808/hls/60/index.m3u8
+河北文旅公共,http://110.241.189.42:808/hls/62/index.m3u8
+河北少儿科教,http://110.241.189.42:808/hls/61/index.m3u8
+河北农民,http://110.241.189.42:808/hls/63/index.m3u8
+河北经济生活,http://110.241.189.42:808/hls/58/index.m3u8
+河北经济生活,http://111.61.236.247:9081/hls/18/index.m3u8
+河北少儿科教,http://111.61.236.247:9081/hls/21/index.m3u8
+河北经济生活,http://110.241.191.147:808/hls/58/index.m3u8
 河北经济生活,http://43.143.254.239:36326/hls/20/index.m3u8
 河北都市,http://43.143.254.239:36326/hls/21/index.m3u8
 河北农民,http://43.143.254.239:36326/hls/25/index.m3u8
@@ -3161,6 +3171,7 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 张家口一套,http://nlive.zjkgdcs.com:8091/live/xwzhpd.m3u8
 秦皇岛昌黎综合,https://jwliveqxzb.hebyun.com.cn/clzhpd/clzhpd.m3u8
 唐山迁西综合,https://jwliveqxzb.hebyun.com.cn/qxzhpd/qxzhpd.m3u8
+廊坊新闻,http://111.61.236.247:9081/hls/55/index.m3u8
 廊坊永清综合,http://60.10.203.69:8000/0.m3u8
 邯郸新闻综合,http://101.23.150.109:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 邯郸科技,http://101.23.150.109:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
