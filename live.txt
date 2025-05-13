@@ -2123,6 +2123,7 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 北京纪实科教,http://43.143.254.239:55232/hls/69/index.m3u8
 北京纪实科教,http://www.qhjx.top:18000/udp/238.255.2.107:5999
 北京纪实科教8K,https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
+卡酷少儿,http://www.qhjx.top:18000/udp/238.255.2.106:5999
 卡酷少儿,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1746219555&sign=cdb61cf176bfb0ef1109c7a67848f76b
 卡酷少儿,http://dsj.motem.top:8880/bptv/10000100000000050000000003904597.m3u8
 卡酷少儿,http://222.173.108.238:352/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -2911,7 +2912,6 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 📺　贵州,#genre#
 贵州卫视,http://183.66.112.22:60080/hls/22/index.m3u8
 贵州文旅,http://www.qhjx.top:18000/udp/238.255.2.141:5999
-贵州文旅,http://www.qhjx.top:18000/udp/238.255.2.106:5999
 贵州公共,http://www.qhjx.top:18000/udp/238.255.2.2:5999
 贵州文艺,http://www.qhjx.top:18000/udp/238.255.2.3:5999
 贵州大众生活,http://www.qhjx.top:18000/udp/238.255.2.4:5999
