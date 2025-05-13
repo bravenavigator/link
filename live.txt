@@ -1650,6 +1650,7 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
 广东珠江,https://cdn2.163189.xyz/live/gdzj/stream.m3u8
 广东体育,https://cdn2.163189.xyz/live/gdty/stream.m3u8
+广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
 广东珠江,http://cdn2.132.us.kg/live/gdzj/stream.m3u8
 广东珠江,http://php.jdshipin.com:8880/PLTV/iptv.php?id=gdzj
 广东体育,http://php.jdshipin.com:8880/PLTV/iptv.php?id=gdty
@@ -1792,11 +1793,12 @@ TVB翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 TVB翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 TVB翡翠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 TVB翡翠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+TVB翡翠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
+TVB翡翠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 TVB翡翠,http://php.jdshipin.com/PLTV/iptv.php?id=fct
 TVB翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 TVB翡翠,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 TVB翡翠,http://php.jdshipin.com/smt.php?id=jade_twn
-TVB翡翠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 TVB翡翠,http://cdn3.132.us.kg/live/fct/stream.m3u8
 TVB翡翠,http://192.3.130.92:20000/live/fct4k/stream.m3u8
 TVB翡翠,http://43.139.34.228:9898/hls/91/index.m3u8
@@ -1822,10 +1824,10 @@ TVB新闻,http://php.jdshipin.com/smt.php?id=inews_twn
 TVB新闻,http://192.3.130.92:20003/live/wxxw/stream.m3u8
 TVB新闻,http://192.3.130.92:20004/news/news.stream/chunklist_w1005.m3u8
 TVB新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=wxxwt
+TVB新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
 TVB新闻,http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w105.m3u8
 TVB新闻,https://v2hcdn.jdshipin.com/news/news.stream/chunklist_w105.m3u8
 TVB新闻,https://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8
-TVB新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
 TVB新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
 TVB新闻,http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8
 TVB华丽,http://192.3.130.92:20004/jade2/jade.stream/chunklist_w1008.m3u8
@@ -1833,6 +1835,8 @@ TVB华丽,http://php.jdshipin.com/smt.php?id=Tvbjade
 TVB华丽,http://php.jdshipin.com/PLTV/iptv.php?id=huali
 TVB华丽,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 TVB华丽,http://php.jdshipin.com/TVOD/iptv.php?id=huali
+TVB华丽,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali2
+TVB华丽,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 TVB华丽,http://php.jdshipin.com:8880/smt.php?id=Wlt
 TVB华丽,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 TVB华丽,http://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
@@ -1840,11 +1844,11 @@ TVB华丽,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
 TVB华丽,http://v2h.jdshipin.com/jade2/jade.stream/chunklist.m3u8
 TVB华丽,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w108.m3u8
 TVB华丽,https://v2h.jdshipin.com/jade2/jade.stream/chunklist_w108.m3u8
-TVB华丽,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 TVB华丽,http://50.7.234.10:8278/Wlt/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=4543d1f8ec962a0819af06238735f0dc
 TVB娱乐,http://192.3.130.92:20002/smt3.2.1.php?id=Tvbentertainment
 TVB娱乐,http://192.3.130.92:20004/enew/enew.stream/chunklist_w1003.m3u8
 TVB娱乐,http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
+TVB娱乐,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbylxw
 TVB娱乐,http://php.jdshipin.com/smt.php?id=Tvbentertainment
 TVB娱乐,http://php.jdshipin.com:8880/smt.php?id=Tvbentertainment
 TVB娱乐,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
@@ -1870,6 +1874,7 @@ TVB J2,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 TVB J2,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 TVB J2,http://php.jdshipin.com/PLTV/iptv.php?id=tvbp
 TVB J2,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
+TVB J2,http://php.jdshipin.com:8880/smt.php?id=j2_twn
 TVB J2,http://192.3.130.92:20000/live/tvbp/stream.m3u8
 TVB J2,http://beishan008.asuscomm.com:8890/bysid/82.m3u8
 TVB J2,http://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&tsum=699466c18aac56202ad1d2843fd21032
@@ -1921,6 +1926,7 @@ RTHK32,http://php.jdshipin.com/PLTV/iptv.php?id=rthk32
 RTHK31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 RTHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 RTHK31,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
+RTHK32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
 RTHK31,http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
 RTHK32,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
 RTHK31,http://cdn5.132.us.kg/live/rthk31/stream.m3u8
@@ -1988,6 +1994,8 @@ TVB星河,https://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
 TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 TVB星河,http://php.jdshipin.com/PLTV/iptv.php?id=tvbxh
 TVB星河,http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
+TVB星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
+TVB星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxh
 TVB星河,http://192.3.130.92:20002/smt3.2.1.php?id=Xinhe
 TVB功夫,http://v2hcdn.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w1001.m3u8
 TVB功夫,http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
