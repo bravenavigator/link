@@ -1511,6 +1511,7 @@ CETV中国教育4,http://gmxw.7766.org:808/hls/79/index.m3u8
 安徽卫视,http://36.32.174.67:60080/newlive/live/hls/19/live.m3u8
 江西卫视,http://36.32.174.67:60080/newlive/live/hls/22/live.m3u8
 陕西卫视,http://39.164.160.249:9901/tsfile/live/0136_1.m3u8
+青海卫视,http://58.58.111.222:808/hls/47/index.m3u8
 青海卫视,http://106.124.91.222:9901/tsfile/live/21213_1.m3u8
 新疆卫视,http://106.124.91.222:9901/tsfile/live/21212_1.m3u8
 陕西卫视,http://106.124.91.222:9901/tsfile/live/21214_1.m3u8
@@ -2906,6 +2907,7 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 铜仁松桃新闻,http://live.strmtzx.cn/stxw/sd/live.m3u8
 铜仁思南综合,http://www.qhjx.top:18000/udp/238.255.2.218:5999
 📺　河南,#genre#
+河南卫视,http://113.64.146.6:2024/hls/77/index.m3u8
 河南新闻,http://1.94.31.214/php/hntv.php?id=hnxw
 河南公共,http://1.94.31.214/php/hntv.php?id=hngg
 河南民生,http://1.94.31.214/php/hntv.php?id=hnms
@@ -3239,7 +3241,7 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 吴忠公共,http://live.kanwz.net/ggpd/sd/live.m3u8
 临夏综合,http://124.152.34.102:8030/wCMq71/wCMq71_0.m3u8
 📺　青海,#genre#
-青海卫视,http://144.0.18.28:8018/hls/69/index.m3u8
+青海卫视,http://58.58.111.222:808/hls/47/index.m3u8
 青海经视,http://stream.qhbtv.com/qhsh/sd/live.m3u8
 青海经视,http://stream.qhbtv.com/qhsh/playlist.m3u8
 青海都市,http://stream.qhbtv.com/qhds/sd/live.m3u8
