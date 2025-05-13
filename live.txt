@@ -3,7 +3,7 @@ CCTV13新闻,http://127.0.0.1
 CCTV1综合,http://127.0.0.1
 CCTV2财经,http://127.0.0.1
 CCTV3综艺,http://127.0.0.1
-CCTV4中文国际,http://127.0.0.1东森
+CCTV4中文国际,http://127.0.0.1
 CCTV4美洲,http://127.0.0.1
 CCTV4欧洲,http://127.0.0.1
 CCTV5体育,http://127.0.0.1
