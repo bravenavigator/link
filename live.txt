@@ -2111,7 +2111,8 @@ TVB明珠,http://50.7.234.10:8278/pearl_twn/playlist.m3u8?tid=MC6C70413275704132
 尼克卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20089
 CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 📺　北京,#genre#
-北京卫视,http://www.qhjx.top:18000/udp/238.255.2.81:5999
+北京卫视,http://183.66.112.22:60080/hls/24/index.m3u8
+北京卫视,http://110.80.17.38:9999/tsfile/live/0122_2.m3u8
 北京新闻,http://dsj.motem.top:8880/bptv/10000100000000050000000003870780.m3u8
 北京财经,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1746133153&sign=12bdc79f797ee6cd0172de425bb0ff13
 北京财经,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1746219554&sign=a2bf70e6fd986a29a9116c0097d5643c
@@ -2140,6 +2141,7 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 睛彩青少,http://www.xzbn.site:35455/itv/3000000020000011525.m3u8?cdn=FifastbLive
 📺　上海,#genre#
 东方卫视,http://183.66.112.22:60080/hls/26/index.m3u8
+东方卫视,http://112.46.105.20:8009/hls/31/index.m3u8
 东方财经,http://115.150.63.77:9902/tsfile/live/1042_1.m3u8
 乐游频道,http://124.128.73.58:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 都市剧场,http://183.239.236.91:8088/hls/127/index.m3u8
@@ -2891,6 +2893,7 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 海口生活娱乐,http://183.255.46.4:16080/live/tv2502.m3u8
 海口城乡经济,http://183.255.46.4:16080/live/tv2503.m3u8
 📺　云南,#genre#
+云南卫视,http://59.39.89.130:60901/tsfile/live/0125_18.m3u8?key=txiptv&playlive=1&authid=0
 云南卫视,http://113.64.146.6:2024/hls/83/index.m3u8
 云南都市,http://220.164.192.48:50085/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
 云南娱乐,http://220.164.192.48:50085/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -3221,6 +3224,7 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 许昌襄城综合,http://live.dxhmt.cn:9081/tv/11025-1.m3u8
 许昌建安综合,http://live.dxhmt.cn:9081/tv/11003-1.m3u8
 📺　陕西,#genre#
+陕西卫视,http://43.139.34.228:9898/hls/57/index.m3u8
 陕西卫视,http://222.213.163.143:8547/hls/41/index.m3u8
 西安新闻,http://xatv-yt.xiancity.cn/live/1/index.m3u8
 西安都市,http://xatv-yt.xiancity.cn/live/2/index.m3u8
@@ -3358,6 +3362,7 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 盘锦新闻综合,http://120.76.248.139/live/bfgd/4200000283.m3u8
 营口新闻,http://120.76.248.139/live/bfgd/4200000278.m3u8
 📺黑龙江,#genre#
+黑龙江卫视,http://59.39.89.130:60901/tsfile/live/0125_14.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江卫视,https://idclive.hljtv.com:4430/live/hljws_own.m3u8
 黑龙江新闻法治,http://123.166.61.70:8003/hls/51/index.m3u8
 黑龙江文体,https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
