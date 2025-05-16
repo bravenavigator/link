@@ -3443,6 +3443,8 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 长治壶关综合,http://zmjp3jin.live.sxmty.com/live/hls/268fe96f955d496db37fb10bb887cda9/fc196029d289449ea524a94a95379a0d.m3u8
 长治黎城综合,http://111.53.96.67:8081/live/1/index.m3u8
 长治平鲁综合,https://stream.icelook.cn/790d0a0f38c07f31/6728300245723120644_1609747594.m3u8?auth_key=1893456000-0-0-0cc4be5653a88cdb748a4543643d0fdb
+长治武乡新闻综合,http://60.220.198.84:81/0.m3u8
+长治武乡新闻综合,http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8
 临汾综合,https://qmmqvzoz.live.sxmty.com/live/hls/f24f8a390c084386a564074c9260100c/be3fdf07606145739ab2c4b80fe0136a.m3u8
 临汾吉县综合,http://jxlive.jxrmtzx.com:8091/live/xwzh.m3u8
 临汾翼城综合,http://live.aiyicheng.com.cn/channel1/sd/live.m3u8
