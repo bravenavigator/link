@@ -1393,6 +1393,7 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 广东珠江,http://218.13.170.98:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 经济科教,http://218.13.170.98:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://218.13.170.98:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+广东体育,http://218.15.183.23:9901/tsfile/live/23012_1.m3u8?key=txiptv&playlive=1&authid=0
 广东珠江,http://120.238.94.10:9901/tsfile/live/1009_1.m3u8
 广东体育,http://120.238.94.10:9901/tsfile/live/1012_1.m3u8
 经济科教,http://113.86.205.59:808/hls/129/index.m3u8
@@ -1546,6 +1547,7 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 凤凰香港,http://27.46.95.90:800/hls/1844726419/index.m3u8
 凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰香港,http://183.239.236.91:8088/hls/12/index.m3u8
+凤凰中文,http://jxiptv.dpdns.org/stream/4gtv/null-3/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
 凤凰中文,http://50.7.234.10:8278/phoenixtv_hd/playlist.m3u8?tid=MDFD5624054756240547&ct=19235&tsum=3d8e21403954d488cd95d367f1f90d8b
 凤凰中文,http://50.7.234.10:8278/phoenixtv_hd/playlist.m3u8?tid=MF6F2163882521638825&ct=19249&tsum=2375037c2689c4190d14c8a52bc35c83
 凤凰中文,http://50.7.234.10:8278/phoenixtv_hd/playlist.m3u8?tid=m18f421b0e58b&ct=18336&tsum=8e0cca627477cbd534c9cef5e2c17c1c
@@ -1620,6 +1622,7 @@ TVB华丽,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
 TVB华丽,http://v2h.jdshipin.com/jade2/jade.stream/chunklist.m3u8
 TVB华丽,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w108.m3u8
 TVB华丽,https://v2h.jdshipin.com/jade2/jade.stream/chunklist_w108.m3u8
+TVB华丽,http://jxiptv.dpdns.org/stream/4gtv/null-2/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
 TVB华丽,http://50.7.234.10:8278/Wlt/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=4543d1f8ec962a0819af06238735f0dc
 TVB娱乐,http://192.3.130.92:20002/smt3.2.1.php?id=Tvbentertainment
 TVB娱乐,http://192.3.130.92:20004/enew/enew.stream/chunklist_w1003.m3u8
@@ -1653,6 +1656,7 @@ TVB J2,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
 TVB J2,http://php.jdshipin.com:8880/smt.php?id=j2_twn
 TVB J2,http://192.3.130.92:20000/live/tvbp/stream.m3u8
 TVB J2,http://beishan008.asuscomm.com:8890/bysid/82.m3u8
+TVB J2,http://jxiptv.dpdns.org/stream/4gtv/tvbplus/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
 TVB J2,http://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&tsum=699466c18aac56202ad1d2843fd21032
 TVB J2,http://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=ME0E4382171043821710&ct=19237&tsum=6f10351124a4eb90780b2f84b2c4d349
 TVB J2,http://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=19225&tsum=fea41bb592165942b9971148376f8b70
