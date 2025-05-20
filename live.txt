@@ -3626,7 +3626,7 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 东森ᴴᴰ,http://50.7.234.10:8278/ettvzhonghe/playlist.m3u8?ct=17874&tid=m65c4e525f24617101171&tsum=663db593cfeefc92ce4b5d7461988f3f
 东森ᴴᴰ,http://50.7.234.10:8278/ettvzhonghe/playlist.m3u8?tid=MC4C1214674912146749&ct=19254&tsum=9b96a50ba99dca1a02a27b05a6fb4b0d
 东森ᴴᴰ,http://50.7.234.10:8278/ettvzhonghe/playlist.m3u8?tid=m65c4e525f24617101171&ct=17874&tsum=663db593cfeefc92ce4b5d7461988f3f
-中天新闻,https://smart.pendy.dpdns.org/Smart.php?id=ettvnews
+东森新闻,https://smart.pendy.dpdns.org/Smart.php?id=ettvnews
 东森新闻,http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=MD8D4407126144071261&ct=19344&tsum=c7212737de5e023823ea68610d709c14
 东森新闻,http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=ME5E8863997888639978&ct=19193&tsum=6b0236441f10a7195fb35fe7997db68c
 东森新闻,http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=MC4C3328955833289558&ct=19249&tsum=d68431432600bbf503d95f629f3acc11
