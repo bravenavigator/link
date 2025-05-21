@@ -78,6 +78,24 @@ CETV早期教育,http://www.qhjx.top:18000/udp/238.255.2.143:5999
 CETV中国教育1,http://www.qhjx.top:18000/udp/238.255.2.105:5999
 中华美食,http://www.qhjx.top:18000/udp/238.255.2.142:5999
 CCTV7国防军事,http://8.138.7.223/tv/cctv7.m3u8
+CCTV1综合,http://27.19.54.57:34567/bptv/10000100000000050000000003864351.m3u8
+CCTV2财经,http://27.19.54.57:34567/bptv/10000100000000050000000003870745.m3u8
+CCTV3综艺,http://27.19.54.57:34567/bptv/10000100000000050000000003870746.m3u8
+CCTV4中文国际,http://27.19.54.57:34567/bptv/10000100000000050000000003870747.m3u8
+CCTV5体育,http://27.19.54.57:34567/bptv/10000100000000050000000003870748.m3u8
+CCTV5+体育赛事,http://27.19.54.57:34567/bptv/10000100000000050000000003870759.m3u8
+CCTV6电影,http://27.19.54.57:34567/bptv/10000100000000050000000003870749.m3u8
+CCTV7国防军事,http://27.19.54.57:34567/bptv/10000100000000050000000003870750.m3u8
+CCTV8电视剧,http://27.19.54.57:34567/bptv/10000100000000050000000003870838.m3u8
+CCTV9纪录,http://27.19.54.57:34567/bptv/10000100000000050000000003870752.m3u8
+CCTV10科教,http://27.19.54.57:34567/bptv/10000100000000050000000003870753.m3u8
+CCTV11戏曲,http://27.19.54.57:34567/bptv/10000100000000050000000003870754.m3u8
+CCTV12社会与法,http://27.19.54.57:34567/bptv/10000100000000050000000003870755.m3u8
+CCTV13新闻,http://27.19.54.57:34567/bptv/10000100000000050000000004796248.m3u8
+CCTV14少儿,http://27.19.54.57:34567/bptv/10000100000000050000000003870756.m3u8
+CCTV15音乐,http://27.19.54.57:34567/bptv/10000100000000050000000003870757.m3u8
+CCTV16奥林匹克,http://27.19.54.57:34567/bptv/10000100000000050000000004972604.m3u8
+CCTV17农业农村,http://27.19.54.57:34567/bptv/10000100000000050000000003870758.m3u8
 CCTV5体育,http://202.168.187.208:9089/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1综合,http://202.168.187.208:9089/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2财经,http://202.168.187.208:9089/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1476,6 +1494,9 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 客家戏曲,http://218.15.183.23:9901/tsfile/live/23005_1.m3u8
 梅州五华综合,http://218.15.183.23:9901/tsfile/live/23000_1.m3u8
 ☘️　港澳,#genre#
+凤凰资讯,http://ali.hlspull.yximgs.com/live/qwt_fhzx.flv
+凤凰中文,http://ali.hlspull.yximgs.com/live/qwt_fhzw.flv
+凤凰香港,http://ali.hlspull.yximgs.com/live/qwt_fhhk.flv
 凤凰资讯,http://cdn3.163189.xyz/live/fhzx/stream.m3u8
 凤凰资讯,https://cdn3.163189.xyz/live/fhzx/stream.m3u8
 凤凰资讯,https://cdn5.1678520.xyz/live/live2.1.php?id=fhzx
@@ -1533,6 +1554,7 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 凤凰香港,http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MA5A4571836345718363&ct=19234&tsum=9d461ede3a5ecfa182b75574f86ae56a
 凤凰香港,http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MD0D2495250724952507&ct=19249&tsum=b1c0a577a7f4aaa9af143d124ba24a40
 凤凰香港,http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=m5bd7047b492a&ct=18336&tsum=2c3b7b7f9cee713c07f561b51a9e2768
+TVB翡翠,http://ali.hlspull.yximgs.com/live/qwt_feicui.flv
 TVB翡翠,http://o12.1678520.xyz/hls/fct4k/playlist.m3u8
 TVB翡翠,http://mytv.cdn.com.mp/hls/fct/playlist.m3u8
 TVB翡翠,http://cdn.163189.xyz/live/fct4k/stream.m3u8
@@ -1842,7 +1864,7 @@ SUPER Kids Channel,http://jxiptv.dpdns.org/stream/4gtv/superkidschannel/master.m
 CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 📺　北京,#genre#
 北京卫视,http://110.80.17.38:9999/tsfile/live/0122_2.m3u8
-北京新闻,http://dsj.motem.top:8880/bptv/10000100000000050000000003870780.m3u8
+北京新闻,http://27.19.54.57:34567/bptv/10000100000000050000000003870780.m3u8
 北京财经,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1746133153&sign=12bdc79f797ee6cd0172de425bb0ff13
 北京财经,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1746219554&sign=a2bf70e6fd986a29a9116c0097d5643c
 北京文艺,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=1746219553&sign=1e93f6c49b6e6c74db47da7c11365356
@@ -1850,20 +1872,22 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 北京生活,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=1746219554&sign=f7d12f672b24ae5366bdc35c6dbb379e
 北京影视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=1746133153&sign=73f0d92eb0d8b5ea493665a16f165483
 北京影视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=1746219554&sign=f8336df7120ce6030885835aa1c569f7
+北京体育休闲,http://27.19.54.57:34567/bptv/10000100000000050000000003870779.m3u8
 北京纪实科教,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?time=1746219553&sign=f4278a8ee5a635a81f6666a08e1a0f99
 北京纪实科教,http://43.143.254.239:55232/hls/69/index.m3u8
 北京纪实科教,http://www.qhjx.top:18000/udp/238.255.2.107:5999
 北京纪实科教8K,https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
 卡酷少儿,http://www.qhjx.top:18000/udp/238.255.2.106:5999
 卡酷少儿,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1746219555&sign=cdb61cf176bfb0ef1109c7a67848f76b
-卡酷少儿,http://dsj.motem.top:8880/bptv/10000100000000050000000003904597.m3u8
+卡酷少儿,http://27.19.54.57:34567/bptv/10000100000000050000000003904597.m3u8
 卡酷少儿,http://222.173.108.238:352/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
-北京IPTV4K,http://dsj.motem.top:8880/bptv/10000100000000050000000003887500.m3u8
-淘电影,http://dsj.motem.top:8880/bptv/10000100000000050000000003887498.m3u8
-淘剧场,http://dsj.motem.top:8880/bptv/10000100000000050000000003887497.m3u8
-淘娱乐,http://dsj.motem.top:8880/bptv/10000100000000050000000003887499.m3u8
-淘BABY,http://dsj.motem.top:8880/bptv/10000100000000050000000003887496.m3u8
-萌宠TV,http://dsj.motem.top:8880/bptv/10000100000000050000000003887495.m3u8
+北京IPTV4K,http://27.19.54.57:34567/bptv/10000100000000050000000003887500.m3u8
+北京IPTV4K,http://27.19.54.57:34567/bptv/10000100000000050000000003887500.m3u8
+淘电影,http://27.19.54.57:34567/bptv/10000100000000050000000003887498.m3u8
+淘剧场,http://27.19.54.57:34567/bptv/10000100000000050000000003887497.m3u8
+淘娱乐,http://27.19.54.57:34567/bptv/10000100000000050000000003887499.m3u8
+淘BABY,http://27.19.54.57:34567/bptv/10000100000000050000000003887496.m3u8
+萌宠TV,http://27.19.54.57:34567/bptv/10000100000000050000000003887495.m3u8
 睛彩竞技,http://www.xzbn.site:35455/itv/3000000020000011528.m3u8?cdn=FifastbLive
 睛彩篮球,http://www.xzbn.site:35455/itv/3000000020000011529.m3u8?cdn=FifastbLive
 睛彩广场舞,http://www.xzbn.site:35455/itv/3000000020000011524.m3u8?cdn=FifastbLive
