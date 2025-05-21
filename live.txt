@@ -3199,6 +3199,13 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 山西文体生活,http://121.30.137.26:8081/hls/24/index.m3u8
 山西影视,http://121.30.137.26:8081/hls/21/index.m3u8
 山西黄河,http://121.30.137.26:8081/hls/20/index.m3u8
+太原新闻综合,http://60.223.72.148:8001/udp/226.0.2.201:9520
+太原经济生活,http://60.223.72.148:8001/udp/226.0.2.202:9528
+太原社教法制,http://60.223.72.148:8001/udp/226.0.2.203:9536
+太原影视,http://60.223.72.148:8001/udp/226.0.2.204:9544
+太原文体,http://60.223.72.148:8001/udp/226.0.2.205:9552
+太原城市生活,http://nn.7x9d.cn/太原.php?id=cssh
+太原教育,http://60.223.72.148:8001/udp/226.0.2.206:9560
 太原新闻综合,http://1.94.31.214/php/taiyuan.php?id=tyxwzh
 太原经济生活,http://1.94.31.214/php/taiyuan.php?id=tyjjsh
 晋城新闻综合,http://live.jinnews.com.cn/xwzh/sd/live.m3u8
@@ -3321,6 +3328,12 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 📺黑龙江,#genre#
 黑龙江卫视,http://59.39.89.130:60901/tsfile/live/0125_14.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江卫视,https://idclive.hljtv.com:4430/live/hljws_own.m3u8
+黑龙江新闻法治,https://idclive.hljtv.com:4430/live/hljxw_hd.m3u8
+黑龙江文体,https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
+黑龙江都市,https://idclive.hljtv.com:4430/live/dushi_hd.m3u8
+黑龙江影视,https://idclive.hljtv.com:4430/live/hljys_hd.m3u8
+黑龙江农业科教,https://idclive.hljtv.com:4430/live/hljgg_hd.m3u8
+黑龙江少儿,https://idclive.hljtv.com:4430/live/hljse_hd.m3u8
 黑龙江新闻法治,http://htgy.zynas.top:4000/rtp/229.58.190.16:5000
 黑龙江影视,http://htgy.zynas.top:4000/rtp/229.58.190.14:5000
 黑龙江文体,http://htgy.zynas.top:4000/rtp/229.58.190.30:5000
