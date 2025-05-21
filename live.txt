@@ -1748,9 +1748,9 @@ RTHK32,http://50.7.234.10:8278/rhk32_twn/playlist.m3u8?tid=MBCB4455322944553229&
 RTHK32,http://50.7.234.10:8278/rhk32_twn/playlist.m3u8?tid=MD9D3680764436807644&ct=19234&tsum=6c3d17c15f8d4a4a0537ef1cb7c1cc45
 RTHK32,http://50.7.234.10:8278/rhk32_twn/playlist.m3u8?tid=m941409fa5c86&ct=18336&tsum=af847919dbe19ba95dbe614c6cfe2a10
 澳视卫星,https://gat.tv12.xyz/183.m3u8
-澳视资讯,https://gat.tv12.xyz/185.m3u8
+澳门资讯,https://gat.tv12.xyz/185.m3u8
 澳视澳门,https://gat.tv12.xyz/181.m3u8
-澳视综艺,https://gat.tv12.xyz/186.m3u8
+澳门综艺,https://gat.tv12.xyz/186.m3u8
 澳视体育,https://gat.tv12.xyz/184.m3u8
 莲花卫视,https://gat.tv12.xyz/187.m3u8
 澳视葡文,https://gat.tv12.xyz/182.m3u8
