@@ -1555,6 +1555,7 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 凤凰香港,http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MD0D2495250724952507&ct=19249&tsum=b1c0a577a7f4aaa9af143d124ba24a40
 凤凰香港,http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=m5bd7047b492a&ct=18336&tsum=2c3b7b7f9cee713c07f561b51a9e2768
 TVB翡翠,http://ali.hlspull.yximgs.com/live/qwt_feicui.flv
+TVB翡翠,https://mysupertv.pendy.dpdns.org/FeiCui/feicui.m3u8
 TVB翡翠,http://o12.1678520.xyz/hls/fct4k/playlist.m3u8
 TVB翡翠,http://mytv.cdn.com.mp/hls/fct/playlist.m3u8
 TVB翡翠,http://cdn.163189.xyz/live/fct4k/stream.m3u8
@@ -1703,6 +1704,7 @@ HOY 76,http://27.46.95.90:800/hls/1868454448/index.m3u8
 HOY 76,http://27.46.95.90:800/hls/1868314925/index.m3u8
 ViuTV6,http://27.46.95.90:800/hls/1852451724/index.m3u8
 ViuTV,http://27.46.95.90:800/hls/1864291364/index.m3u8
+亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
 RTHK31,http://php.jdshipin.com/PLTV/iptv.php?id=rthk31
 RTHK32,http://php.jdshipin.com/PLTV/iptv.php?id=rthk32
 RTHK31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
@@ -1818,6 +1820,7 @@ TVB明珠,http://jxiptv.dpdns.org/stream/4gtv/null-1/master.m3u8?u=test&p=9f86d0
 TVB明珠,http://50.7.234.10:8278/pearl_twn/playlist.m3u8?tid=MC6C7041327570413275&ct=19226&tsum=681972baf66d69caf7cccc92a90e5aad
 香港 C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+PopC,https://mysupertv.pendy.dpdns.org/PopC/popc.m3u8
 PopC,http://jxiptv.dpdns.org/stream/4gtv/popc/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
 SUPER Kids Channel,http://jxiptv.dpdns.org/stream/4gtv/superkidschannel/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
 香港面包,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
@@ -1895,6 +1898,19 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 📺　上海,#genre#
 东方卫视,http://60.174.40.117:85/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://112.46.105.20:8009/hls/31/index.m3u8
+上海新闻,http://222.64.68.61:12028/udp/233.18.204.57:5140
+上海都市,http://222.64.68.61:12028/udp/233.18.204.53:5140
+第一财经,http://222.64.68.61:12028/udp/233.18.204.59:5140
+东方财经,http://222.64.68.61:12028/udp/233.18.204.65:5140
+东方影视,http://222.64.68.61:12028/udp/233.18.204.55:5140
+生活时尚,http://222.64.68.61:12028/udp/233.18.204.45:5140
+乐游频道,http://222.64.68.61:12028/udp/233.18.204.47:5140
+上海教育,http://222.64.68.61:12028/udp/233.18.204.63:5140
+法治天地,http://222.64.68.61:12028/udp/233.18.204.49:5140
+五星体育,http://222.64.68.61:12028/udp/233.18.204.58:5140
+都市剧场,http://222.64.68.61:12028/udp/233.18.204.48:5140
+哈哈炫动,http://222.64.68.61:12028/udp/233.18.204.54:5140
+动漫秀场,http://222.64.68.61:12028/udp/233.18.204.46:5140
 东方财经,http://115.150.63.77:9902/tsfile/live/1042_1.m3u8
 乐游频道,http://124.128.73.58:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 都市剧场,http://183.239.236.91:8088/hls/127/index.m3u8
@@ -1946,6 +1962,15 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 📺　江苏,#genre#
 江苏卫视,http://60.174.40.117:85/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://110.80.17.38:9999/tsfile/live/0127_1.m3u8
+江苏卫视,http://live.nctv.top/JKHdjsi/jstv5.php?id=jsws
+江苏新闻,http://live.nctv.top/JKHdjsi/jstv5.php?id=jsxw
+江苏城市,http://live.nctv.top/JKHdjsi/jstv5.php?id=jscs
+江苏综艺,http://live.nctv.top/JKHdjsi/jstv5.php?id=jszy
+江苏影视,http://live.nctv.top/JKHdjsi/jstv5.php?id=jsys
+江苏教育,http://live.nctv.top/JKHdjsi/jstv5.php?id=jsjy
+江苏体育休闲,http://live.nctv.top/JKHdjsi/jstv5.php?id=jsty
+江苏国际,http://live.nctv.top/JKHdjsi/jstv5.php?id=jsgj
+优漫卡通,http://live.nctv.top/JKHdjsi/jstv5.php?id=ymkt
 江苏新闻,http://58.221.214.82:9901/tsfile/live/0009_2.m3u8?key=txiptv&playlive=1&authid=0
 江苏城市,http://58.220.219.14:9901/tsfile/live/0120_3.m3u8?key=txiptv&playlive=1&authid=0
 江苏综艺,http://58.221.214.82:9901/tsfile/live/0005_2.m3u8?key=txiptv&playlive=1&authid=0
@@ -2542,6 +2567,9 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 江西陶瓷,rtmp://local-live.jxtvcn.com.cn/live/tv_taoci
 江西陶瓷,http://yun-live.jxtvcn.com.cn/live-jxtv/tv_taoci.m3u8?t=t&token=t
 江西陶瓷,http://php.jdshipin.com:8880/TVOD/iptv.php?id=taoci
+南昌新闻综合,http://live.nctv.top/JKHdjsi/nctv.php?id=ncxw
+南昌都市,http://live.nctv.top/JKHdjsi/nctv.php?id=ncds
+南昌资讯,http://live.nctv.top/JKHdjsi/nctv.php?id=nczx
 南昌新闻综合,http://play-live-hls.jxtvcn.com.cn/live/tv_nanchang.m3u8
 南昌新闻综合,http://play-live-hls.jxtvcn.com.cn/live/tv_nanchang.flv
 南昌新闻综合,rtmp://play-live-hls.jxtvcn.com.cn/live/tv_nanchang
@@ -3105,6 +3133,13 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 📺　陕西,#genre#
 陕西卫视,http://43.139.34.228:9898/hls/57/index.m3u8
 陕西卫视,http://222.213.163.143:8547/hls/41/index.m3u8
+陕西新闻资讯,http://ddns.xryo.cn:8888/rtp/239.110.205.83:7944
+陕西体育休闲,http://ddns.xryo.cn:8888/udp/239.111.205.36:5140
+陕西影视,http://ddns.xryo.cn:8888/udp/239.111.205.99:5140
+陕西都市青春,http://ddns.xryo.cn:8888/rtp/239.110.205.84:7940
+陕西公共,http://ddns.xryo.cn:8888/udp/239.111.205.100:5140
+陕西生活,http://ddns.xryo.cn:8888/rtp/239.111.205.98:5140
+陕西西部电影,http://ddns.xryo.cn:8888/udp/239.111.205.102:5140
 西安新闻,http://xatv-yt.xiancity.cn/live/1/index.m3u8
 西安都市,http://xatv-yt.xiancity.cn/live/2/index.m3u8
 西安商务,http://xatv-yt.xiancity.cn/live/3/index.m3u8
@@ -3634,6 +3669,7 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 中天ᴴᴰ,http://50.7.234.10:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
 中天ᴴᴰ,http://50.7.234.10:8278/ctizhonghe/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=27715b42827ed898125640b4891ddde9
 中天ᴴᴰ,http://50.7.234.10:8278/ctizhonghe/playlist.m3u8?tid=ME3E9861589598615895&ct=19226&tsum=7e6a4896cab50c2c48d7a889c1076ffc
+中天新闻,http://ali.hlspull.yximgs.com/live/qwt_zhongtianxinwen.flv
 中天新闻,https://smart.pendy.dpdns.org/Smart.php?id=ctinews
 中天新闻,http://50.7.234.10:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
 中天新闻,http://50.7.234.10:8278/ctinews/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=5da22ad10e374c427fc90aed16f07478
