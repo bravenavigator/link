@@ -1891,6 +1891,10 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 淘娱乐,http://27.19.54.57:34567/bptv/10000100000000050000000003887499.m3u8
 淘BABY,http://27.19.54.57:34567/bptv/10000100000000050000000003887496.m3u8
 萌宠TV,http://27.19.54.57:34567/bptv/10000100000000050000000003887495.m3u8
+睛彩竞技,http://thhomes.cn:4000/rtp/239.3.1.125:8001
+睛彩篮球,http://thhomes.cn:4000/rtp/239.3.1.126:8001
+睛彩羽毛球,http://thhomes.cn:4000/rtp/239.3.1.127:8001
+睛彩广场舞,http://thhomes.cn:4000/rtp/239.3.1.128:8001
 睛彩竞技,http://www.xzbn.site:35455/itv/3000000020000011528.m3u8?cdn=FifastbLive
 睛彩篮球,http://www.xzbn.site:35455/itv/3000000020000011529.m3u8?cdn=FifastbLive
 睛彩广场舞,http://www.xzbn.site:35455/itv/3000000020000011524.m3u8?cdn=FifastbLive
@@ -2064,6 +2068,11 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 钱江频道,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 杭州综合,http://183.136.148.214:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+西湖明珠,http://live.nctv.top/JKHdjsi/hztv.php?id=hzmz
+杭州生活,http://live.nctv.top/JKHdjsi/hztv.php?id=hzsh
+杭州影视,http://live.nctv.top/JKHdjsi/hztv.php?id=hzys
+青少体育,http://live.nctv.top/JKHdjsi/hztv.php?id=hzqsty
+杭州导视,http://live.nctv.top/JKHdjsi/hztv.php?id=hzds
 杭州影视,http://183.136.148.214:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 杭州青少,http://183.130.30.174:8808/rtp/233.50.201.177:5140
 杭州明珠,http://www.jeremyoto.com:82/rtp/233.50.201.174:5140
@@ -2369,6 +2378,12 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 张家界桑植综合,https://liveplay-srs.voc.com.cn/hls/tv/185_938292.m3u8
 📺　湖北,#genre#
 湖北卫视,http://110.80.17.38:9999/tsfile/live/0132_1.m3u8
+湖北公共,http://home.sylaigym.top:8887/rtp/239.69.1.40:9880
+湖北经视,http://home.sylaigym.top:8887/rtp/239.69.1.41:9886
+湖北综合,http://home.sylaigym.top:8887/rtp/239.69.1.42:9892
+湖北垄上,http://home.sylaigym.top:8887/rtp/239.69.1.43:9898
+湖北影视,http://home.sylaigym.top:8887/rtp/239.69.1.204:10866
+湖北生活,http://home.sylaigym.top:8887/rtp/239.69.1.205:10872
 湖北综合,http://59.173.243.210:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北公共,http://59.173.243.210:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北经视,http://59.173.243.210:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -2385,6 +2400,13 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 湖北垄上,http://58.19.43.46:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北经视,http://58.19.43.46:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北影视,http://58.19.43.46:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+武汉新闻综合,http://home.sylaigym.top:8887/rtp/239.69.1.145:10506
+武汉电视剧,http://home.sylaigym.top:8887/rtp/239.69.1.146:10512
+武汉生活,http://home.sylaigym.top:8887/rtp/239.69.1.251:11148
+武汉经济,http://home.sylaigym.top:8887/rtp/239.69.1.35:9850
+武汉文体,http://home.sylaigym.top:8887/rtp/239.69.1.147:10518
+武汉外语,http://home.sylaigym.top:8887/rtp/239.69.1.36:9856
+武汉教育,http://home.sylaigym.top:8887/rtp/239.69.1.60:9994
 武汉新闻综合,http://59.173.243.210:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 武汉科技生活,http://59.173.243.210:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 武汉电视剧,http://59.173.243.210:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -3283,6 +3305,12 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 📺黑龙江,#genre#
 黑龙江卫视,http://59.39.89.130:60901/tsfile/live/0125_14.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江卫视,https://idclive.hljtv.com:4430/live/hljws_own.m3u8
+黑龙江新闻法治,http://htgy.zynas.top:4000/rtp/229.58.190.16:5000
+黑龙江影视,http://htgy.zynas.top:4000/rtp/229.58.190.14:5000
+黑龙江文体,http://htgy.zynas.top:4000/rtp/229.58.190.30:5000
+黑龙江都市,http://htgy.zynas.top:4000/rtp/229.58.190.34:5000
+黑龙江农业科教,http://htgy.zynas.top:4000/rtp/229.58.190.7:5000
+黑龙江少儿,http://htgy.zynas.top:4000/rtp/229.58.190.39:5000
 黑龙江新闻法治,http://123.166.61.70:8003/hls/51/index.m3u8
 黑龙江文体,https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
 黑龙江都市,https://idclive.hljtv.com:4430/live/dushi_hd.m3u8
