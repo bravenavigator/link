@@ -3329,7 +3329,6 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 黑龙江都市,http://htgy.zynas.top:4000/rtp/229.58.190.34:5000
 黑龙江农业科教,http://htgy.zynas.top:4000/rtp/229.58.190.7:5000
 黑龙江少儿,http://htgy.zynas.top:4000/rtp/229.58.190.39:5000
-黑龙江新闻法治,http://123.166.61.70:8003/hls/51/index.m3u8
 黑龙江文体,https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
 黑龙江都市,https://idclive.hljtv.com:4430/live/dushi_hd.m3u8
 黑龙江农业科教,https://idclive.hljtv.com:4430/live/hljgg_hd.m3u8
