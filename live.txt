@@ -1852,6 +1852,7 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 睛彩篮球,http://www.xzbn.site:35455/itv/3000000020000011529.m3u8?cdn=FifastbLive
 睛彩广场舞,http://www.xzbn.site:35455/itv/3000000020000011524.m3u8?cdn=FifastbLive
 睛彩青少,http://www.xzbn.site:35455/itv/3000000020000011525.m3u8?cdn=FifastbLive
+睛彩竞技,http://111.22.153.159:35455/itv/3000000020000011528.m3u8?cdn=FifastbLive
 📺　上海,#genre#
 东方卫视,http://60.174.40.117:85/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://112.46.105.20:8009/hls/31/index.m3u8
@@ -2783,6 +2784,7 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 保山综合,https://hwapi.yntv.net:443/7y80ii/7672o4.m3u8
 迪庆综合,https://hwapi.yntv.net:443/ew265l/d543pi.m3u8
 玉溪综合,https://hwapi.yntv.net:443/r5fc3f/4kzlat_hd.m3u8
+玉溪易门综合,https://zb-live.ynurl.com/yimen/3b75a2f9-7941-46b7-992d-a9796fbca5fe.m3u8
 丽江综合,https://hwapi.yntv.net:443/ew265l/ke88o9.m3u8
 大理综合,https://hwapi.yntv.net:443/ew265l/n944fg.m3u8
 楚雄综合,https://hwapi.yntv.net:443/ew265l/848y54.m3u8
@@ -3145,6 +3147,8 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 晋中新闻综合,http://jzlive.jztvnews.com:90/live/jzzh.m3u8
 晋中公共,http://jzlive.jztvnews.com:90/live/jzgg.m3u8
 晋中平遥综合,https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05-1.m3u8
+晋中太谷新闻综合,https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&tpid=1516989100&type=0
+晋中太谷新闻综合,https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&amp;tpid=1516989100&amp;type=0
 运城公共,http://live.0359tv.com/lsdream/t667aTY/1000/live.m3u8
 运城科技教育,http://live.0359tv.com/lsdream/p5eq48m/1000/live.m3u8
 长治长子综合,http://zzlive.zzc-media.com:8092/live/xwzh.m3u8
@@ -3157,6 +3161,7 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 临汾综合,https://qmmqvzoz.live.sxmty.com/live/hls/f24f8a390c084386a564074c9260100c/be3fdf07606145739ab2c4b80fe0136a.m3u8
 临汾吉县综合,http://jxlive.jxrmtzx.com:8091/live/xwzh.m3u8
 临汾翼城综合,http://live.aiyicheng.com.cn/channel1/sd/live.m3u8
+临汾汾西综合,https://qmmqvzoz.live.sxmty.com/live/hls/f24f8a390c084386a564074c9260100c/be3fdf07606145739ab2c4b80fe0136a.m3u8
 朔州怀仁综合,http://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc.m3u8
 忻州定襄综合,http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8
 📺　甘肃,#genre#
@@ -3188,6 +3193,7 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 陇南公共,https://play.kankanlive.com/live/1709171893138901.m3u8
 陇南西和综合,https://play.kankanlive.com/live/1659926941626981.m3u8
 陇南成县综合,https://play.kankanlive.com/live/1702454377323961.m3u8
+嘉峪关综合,http://play.kankanlive.com/live/1720583434627241.m3u8
 白银综合,https://play.kankanlive.com/live/1720408089419110.m3u8
 白银文教,https://play.kankanlive.com/live/1720408280309109.m3u8
 白银景泰综合,https://play.kankanlive.com/live/1624439143745981.m3u8
