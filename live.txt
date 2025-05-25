@@ -3678,6 +3678,7 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 中天娱乐,http://50.7.234.10:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
 东森ᴴᴰ,https://smart.pendy.dpdns.org/Smart.php?id=ettvzhonghe
+东森ᴴᴰ,http://ali.hlspull.yximgs.com/live/awei_dszh.flv
 东森ᴴᴰ,http://50.7.234.10:8278/ettvzhonghe/playlist.m3u8?ct=17874&tid=m65c4e525f24617101171&tsum=663db593cfeefc92ce4b5d7461988f3f
 东森ᴴᴰ,http://50.7.234.10:8278/ettvzhonghe/playlist.m3u8?tid=MC4C1214674912146749&ct=19254&tsum=9b96a50ba99dca1a02a27b05a6fb4b0d
 东森ᴴᴰ,http://50.7.234.10:8278/ettvzhonghe/playlist.m3u8?tid=m65c4e525f24617101171&ct=17874&tsum=663db593cfeefc92ce4b5d7461988f3f
@@ -3695,6 +3696,7 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 东森LIVE,http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=m208c21bf386611408694&ct=17874&tsum=d1b4de373c886cd8015974fa8c5d6d12
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 东森超视,rtmp://60.248.77.83/sat/tv331
+东森超视,http://ali.hlspull.yximgs.com/live/awei_dscs.flv
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/playlist.m3u8
 东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
@@ -3941,10 +3943,6 @@ EYETV旅遊,http://50.7.234.10:8278/eyetvtravel_twn/playlist.m3u8?tid=MFDF506660
 龙华卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
 龙华日韩,https://cdn3.132.us.kg/live/lhrh/stream.m3u8
 龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
-龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
-龙华经典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
-龙华偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8
-龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
 龙华偶像,http://50.7.234.10:8278/lunghuaidol_twn/playlist.m3u8?tid=ME6E1618913016189130&ct=19226&tsum=392d7662a2ff7080289fbe9646e8501d
 龙华戏剧,http://50.7.234.10:8278/lunghuaxiju_twn/playlist.m3u8?tid=ME6E4094688440946884&ct=19234&tsum=dcb21e7462cf3104b9c2e9d3ede30359
 龙华戏剧,http://50.7.234.10:8278/lunghuaxiju_twn/playlist.m3u8?tid=MF2F2793524427935244&ct=19249&tsum=db1ef83fbbbae9a364979295fd690f7d
