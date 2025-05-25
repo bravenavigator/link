@@ -1633,6 +1633,8 @@ HOY 77,https://cdn5.163189.xyz/live/hoy/stream.m3u8
 HOY 77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 HOY 77,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv2
 HOY 77,http://beishan008.asuscomm.com:8891/bysid/77.m3u8
+HOY 77,http://ali.hlspull.yximgs.com/live/awei_hoy77.flv
+HOY 78,http://ali.hlspull.yximgs.com/live/awei_hoy78.flv
 ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 ViuTV,http://php.jdshipin.com/PLTV/iptv.php?id=viutv2
@@ -3656,12 +3658,14 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 西藏影视文化,http://php.jdshipin.com:8880/xztv.php?id=ys
 🌊　台湾,#genre#
 中天ᴴᴰ,https://smart.pendy.dpdns.org/Smart.php?id=ctizhonghe
+中天ᴴᴰ,http://ali.hlspull.yximgs.com/live/awei_ztzh.flv
 中天ᴴᴰ,http://156.253.12.5:932/tslive/IPTV.php?id=%E4%B8%AD%E5%A4%A9%E7%BB%BC%E5%90%88
 中天ᴴᴰ,http://50.7.234.10:8278/ctizhonghe/playlist.m3u8?tid=MB6B3888954738889547&ct=19254&tsum=d0cb922e44e8a16bea598530697c581e
 中天ᴴᴰ,http://50.7.234.10:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
 中天ᴴᴰ,http://50.7.234.10:8278/ctizhonghe/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=27715b42827ed898125640b4891ddde9
 中天ᴴᴰ,http://50.7.234.10:8278/ctizhonghe/playlist.m3u8?tid=ME3E9861589598615895&ct=19226&tsum=7e6a4896cab50c2c48d7a889c1076ffc
 中天新闻,https://smart.pendy.dpdns.org/Smart.php?id=ctinews
+中天新闻,http://ali.hlspull.yximgs.com/live/qwt_zhongtianxinwen.flv
 中天新闻,http://50.7.234.10:8278/ctinews/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=5da22ad10e374c427fc90aed16f07478
 中天亚洲,https://smart.pendy.dpdns.org/Smart.php?id=ctiasia_twn
 中天亚洲,http://50.7.234.10:8278/ctiasia_twn/playlist.m3u8?tid=MBDB2043146120431461&ct=19234&tsum=ba6deb1dd785ef48ec39eda87a905fb6
