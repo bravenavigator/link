@@ -454,6 +454,13 @@ CCTV10科教,http://218.13.170.98:9901/tsfile/live/0010_1.m3u8?key=txiptv&playli
 CCTV7国防军事,http://218.13.170.98:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV9纪录,http://218.13.170.98:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1综合,http://218.13.170.98:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1综合,http://113.57.93.165:9900/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2财经,http://113.57.93.165:9900/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3综艺,http://113.57.93.165:9900/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV中文国际4,http://113.57.93.165:9900/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5体育,http://113.57.93.165:9900/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6电影,http://113.57.93.165:9900/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV世界地理,http://1.192.72.243:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1综合,http://110.53.52.63:8888/newlive/live/hls/2/live.m3u8
 CCTV2财经,http://110.53.52.63:8888/newlive/live/hls/3/live.m3u8
 CCTV3综艺,http://110.53.52.63:8888/newlive/live/hls/4/live.m3u8
@@ -483,7 +490,6 @@ CCTV15音乐,http://1.24.190.122:1080/hls/15/index.m3u8
 CCTV7国防军事,http://1.24.190.122:1080/hls/7/index.m3u8
 CCTV9纪录,http://1.24.190.122:1080/hls/9/index.m3u8
 CCTV5体育,http://1.24.190.122:1080/hls/5/index.m3u8
-CCTV世界地理,http://1.192.72.243:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 CCTV重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 CCTV重温经典,http://cdn3.163189.xyz/live/cwjd/stream.m3u8
