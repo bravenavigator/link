@@ -2496,6 +2496,7 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 漳州新闻综合,http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8
 漳州漳浦综合,http://220.161.87.62:8090/hls/0/index.m3u8
 📺　四川,#genre#
+四川卫视,http://59.39.89.130:60901/tsfile/live/0125_16.m3u8?key=txiptv&playlive=1&authid=0
 四川卫视,http://218.89.240.144:59901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
 四川卫视,http://183.223.157.33:85/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
 四川新闻,http://182.137.194.158:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -3013,6 +3014,7 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 延安综合,http://live.cloud.yanews.cn/video/s10001-YATV-1/index.m3u8
 延安公共,http://live.cloud.yanews.cn/video/s10001-YATV-2/index.m3u8
 📺　山西,#genre#
+山西卫视,http://42.225.117.174:11199/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 山西卫视,http://121.30.137.26:8081/hls/19/index.m3u8?key=txiptv&playlive=1&authid=0
 山西经济与科技,http://60.223.224.176:8888/newlive/live/hls/53/live.m3u8
 山西影视,http://60.223.224.176:8888/newlive/live/hls/54/live.m3u8
@@ -3053,6 +3055,7 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 忻州定襄综合,http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8
 📺　甘肃,#genre#
 甘肃卫视,http://110.80.17.38:9999/tsfile/live/0141_1.m3u8
+甘肃卫视,http://222.134.245.16:9901/tsfile/live/0141_1.m3u8
 甘肃新闻,rtsp://60.13.39.18:554/PLTV/88888910/224/3221225836/375578711.smil
 甘肃文旅,rtsp://60.13.39.18:554/PLTV/88888910/224/3221225823/375578759.smil
 甘肃都市,rtmp://livein.gstv.com.cn/49048r/4o7e76
