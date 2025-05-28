@@ -78,7 +78,7 @@ CETV早期教育,http://www.qhjx.top:18000/udp/238.255.2.143:5999
 CETV中国教育1,http://www.qhjx.top:18000/udp/238.255.2.105:5999
 中华美食,http://www.qhjx.top:18000/udp/238.255.2.142:5999
 CCTV1综合,http://8.138.7.223/tv/cctv7.m3u8
-CCTV13新闻n,http://8.138.7.223/tv/ptbtv.php?id=28
+CCTV13新闻,http://8.138.7.223/tv/ptbtv.php?id=28
 CCTV5体育,http://202.168.187.208:9089/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1综合,http://202.168.187.208:9089/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2财经,http://202.168.187.208:9089/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
