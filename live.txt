@@ -1344,6 +1344,8 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 睛彩竞技,http://111.22.153.159:35455/itv/3000000020000011528.m3u8?cdn=FifastbLive
 北京纪实科教,http://175.22.226.131:888/hls/78/index.m3u8
 北京卡酷少儿,http://175.22.226.131:888/hls/67/index.m3u8
+北京卡酷少儿,http://43.143.254.239:36326/hls/97/index.m3u8
+北京卡酷少儿,http://1.24.190.122:1080/hls/50/index.m3u8
 睛彩篮球,http://175.22.226.131:888/hls/75/index.m3u8
 睛彩青少,http://175.22.226.131:888/hls/76/index.m3u8
 睛彩广场舞,http://175.22.226.131:888/hls/77/index.m3u8
@@ -3077,6 +3079,10 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 内蒙古文体娱乐,http://play1-qk.nmtv.cn/live/1686561195713372.m3u8
 内蒙古农牧,http://play1-qk.nmtv.cn/live/1686561299036179.m3u8
 内蒙古少儿,http://play1-qk.nmtv.cn/live/1686560464515368.m3u8
+内蒙古卫视,http://1.24.190.122:1080/hls/39/index.m3u8
+内蒙古农牧,http://1.24.190.122:1080/hls/35/index.m3u8
+内蒙古新闻综合,http://1.24.190.122:1080/hls/32/index.m3u8
+内蒙古经济生活,http://1.24.190.122:1080/hls/34/index.m3u8
 呼和浩特新闻综合,https://livestream-bt.nmtv.cn/nmtv/2331general.m3u8?txSecret=4d7342ca5cd74480526ab6d292247aff&txTime=771E8800
 包头新闻综合,https://livestream-bt.nmtv.cn/nmtv/2358general.m3u8?txSecret=98390a77c143a68f0fd64bfe6e181dcb&txTime=771E8800
 鄂尔多斯新闻综合,https://livestream-bt.nmtv.cn/nmtv/2349general.m3u8?txSecret=e44477052aba305cadeea45aaf1c674a&txTime=771E8800
