@@ -82,7 +82,7 @@ CCTV12社会与法,http://112.122.32.151:85/tsfile/live/0012_1.m3u8?key=txiptv&p
 CCTV风云音乐,http://112.122.32.151:85/tsfile/live/1148_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV怀旧剧场,http://112.122.32.151:85/tsfile/live/1149_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV风云剧场,http://112.122.32.151:85/tsfile/live/1150_1.m3u8?key=txiptv&playlive=1&authid=0
-中国教育1,http://112.122.32.151:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
+CETV中国教育1,http://112.122.32.151:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
 中国天气,http://112.122.32.151:85/tsfile/live/1050_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV热播剧场,http://112.122.32.151:85/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV经典电影,http://112.122.32.151:85/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -478,7 +478,7 @@ CCTV1综合,http://218.13.170.98:9901/tsfile/live/0001_1.m3u8?key=txiptv&playliv
 CCTV1综合,http://113.57.93.165:9900/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2财经,http://113.57.93.165:9900/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3综艺,http://113.57.93.165:9900/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV中文国际4,http://113.57.93.165:9900/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4中文国际,http://113.57.93.165:9900/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5体育,http://113.57.93.165:9900/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV6电影,http://113.57.93.165:9900/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV世界地理,http://1.192.72.243:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
