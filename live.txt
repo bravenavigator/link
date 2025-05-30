@@ -602,6 +602,7 @@ CETV中国教育4,http://gmxw.7766.org:808/hls/79/index.m3u8
 延边卫视,http://127.0.0.1
 浙江卫视,http://8.138.7.223/tv/zjws.m3u8
 海南卫视,http://103.96.72.37:17777/tv/hainan.php
+广西卫视,http://116.9.204.242:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://110.53.52.63:8888/newlive/live/hls/18/live.m3u8
 东方卫视,http://110.53.52.63:8888/newlive/live/hls/19/live.m3u8
 广东卫视,http://110.53.52.63:8888/newlive/live/hls/20/live.m3u8
@@ -823,7 +824,6 @@ CETV中国教育4,http://gmxw.7766.org:808/hls/79/index.m3u8
 浙江卫视,http://222.213.163.143:8547/hls/29/index.m3u8
 重庆卫视,http://222.213.163.143:8547/hls/26/index.m3u8
 广西卫视,http://222.213.163.143:8547/hls/36/index.m3u8
-广西卫视,http://116.9.204.242:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 陕西卫视,http://123.10.79.62:808/hls/57/index.m3u8
 陕西卫视,http://43.139.34.228:9898/hls/57/index.m3u8
 甘肃卫视,http://43.139.34.228:9898/hls/69/index.m3u8
@@ -1572,6 +1572,7 @@ SUPER Kids Channel,http://jxiptv.dpdns.org/stream/4gtv/superkidschannel/master.m
 尼克卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20089
 CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 📺　北京,#genre#
+北京卫视,http://my.tmos.cn:15181/chs002.m3u8
 北京卫视,http://112.122.32.141:85/tsfile/live/1031_1.m3u8?key=txiptv&playlive=0&authid=0
 北京卫视,http://112.122.32.151:85/tsfile/live/1031_1.m3u8?key=txiptv&playlive=0&authid=0
 北京卫视,http://112.122.33.119:85/tsfile/live/1031_1.m3u8?key=txiptv&playlive=0&authid=0
