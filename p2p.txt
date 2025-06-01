@@ -1,6 +1,26 @@
 香港,#genre#
 鳳凰衛視,p2p://142.54.189.229:7575/64df4d94000505f2058d33745c142bdb.ts
 凤凰资讯,p2p://142.54.189.229:7575/64df4dbc000cf286058dd1b77e200c8c.ts
+鳳凰衛視中文台,http://jxiptv.dpdns.org/stream/tvb/null/master.m3u8
+鳳凰衛視資訊台,http://jxiptv.dpdns.org/stream/tvb/null-1/master.m3u8
+鳳凰衛視香港台,http://jxiptv.dpdns.org/stream/tvb/null-2/master.m3u8
+翡翠台,http://jxiptv.dpdns.org/stream/tvb/null-3/master.m3u8
+明珠台,http://jxiptv.dpdns.org/stream/tvb/null-4/master.m3u8
+無線新聞台,http://jxiptv.dpdns.org/stream/tvb/null-5/master.m3u8
+娛樂新聞台,http://jxiptv.dpdns.org/stream/tvb/null-6/master.m3u8
+黃金翡翠台,http://jxiptv.dpdns.org/stream/tvb/null-7/master.m3u8
+美亞電影台,http://jxiptv.dpdns.org/stream/tvb/null-8/master.m3u8
+PopC,http://jxiptv.dpdns.org/stream/tvb/popc/master.m3u8
+TVB Plus,http://jxiptv.dpdns.org/stream/tvb/tvbplus/master.m3u8
+ROCK Action,http://jxiptv.dpdns.org/stream/tvb/rockaction/master.m3u8
+Love Nature,http://jxiptv.dpdns.org/stream/tvb/lovenature/master.m3u8
+myTV SUPER FREE,http://jxiptv.dpdns.org/stream/tvb/mytvsuperfree/master.m3u8
+SUPER Kids Channel,http://jxiptv.dpdns.org/stream/tvb/superkidschannel/master.m3u8
+粵語片台,http://jxiptv.dpdns.org/stream/tvb/null-9/master.m3u8
+創世電視,http://jxiptv.dpdns.org/stream/tvb/null-10/master.m3u8
+天映經典頻道,http://jxiptv.dpdns.org/stream/tvb/null-11/master.m3u8
+東方衛視國際頻道,http://jxiptv.dpdns.org/stream/tvb/null-12/master.m3u8
+中央電視台綜合頻道 (港澳版),http://jxiptv.dpdns.org/stream/tvb/null-13/master.m3u8
 央视,#genre#
 CCTV6,http://218.3.138.25:1111/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV8,http://218.3.138.25:1111/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
