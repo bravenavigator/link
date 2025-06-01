@@ -3435,6 +3435,8 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 漠河综合,https://masterpull.hljtv.com/live/rlVvbTZN.m3u8
 漠河综合,rtmp://masterpull.hljtv.com/live/rlVvbTZN
 📺　吉林,#genre#
+吉林卫视,http://222.213.163.143:8547/hls/45/index.m3u8
+吉林卫视,http://59.39.89.130:60901/tsfile/live/0125_19.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://175.22.226.131:888/hls/21/index.m3u8
 吉林都市,http://175.22.226.131:888/hls/22/index.m3u8
 吉林生活,http://175.22.226.131:888/hls/23/index.m3u8
