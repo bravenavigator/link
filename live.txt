@@ -395,7 +395,6 @@ CCTV11戏曲,http://113.15.109.216:59901/tsfile/live/0011_1.m3u8?key=txiptv&play
 CCTV14少儿,http://113.15.109.216:59901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV12社会与法,http://113.15.109.216:59901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV14少儿,http://125.82.168.238:8888/rtp/235.254.198.61:1520
-CCTV5+体育赛事,http://14.212.185.146:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2财经,http://183.131.246.250:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV10科教,http://183.131.246.250:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV7国防军事,http://183.131.246.250:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1045,29 +1044,20 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 深圳卫视,http://112.123.210.115:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0
 深圳卫视,http://112.123.209.253:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0
 深圳卫视,http://112.123.210.46:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0
-广东新闻,http://14.212.185.146:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-广东珠江,http://14.212.185.146:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-经济科教,http://59.39.89.130:60901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
-广东民生,http://14.212.185.146:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-广东影视,http://14.212.185.146:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-广东体育,http://14.212.185.146:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-经济科教,http://120.198.101.106:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-广东珠江,http://120.198.101.106:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-广东体育,http://120.198.101.106:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-广东新闻,http://113.64.146.135:2024/hls/37/index.m3u8
-广东珠江,http://113.64.146.135:2024/hls/36/index.m3u8
-广东民生,http://113.64.146.135:2024/hls/38/index.m3u8
-经济科教,http://113.64.146.135:2024/hls/41/index.m3u8
-广东影视,http://113.64.146.135:2024/hls/42/index.m3u8
-广东体育,http://113.64.146.135:2024/hls/39/index.m3u8
-现代教育,http://113.64.146.135:2024/hls/49/index.m3u8
-嘉佳卡通,http://113.64.146.135:2024/hls/50/index.m3u8
-广东新闻,http://113.64.146.6:2024/hls/37/index.m3u8
-广东体育,http://113.64.146.6:2024/hls/39/index.m3u8
+广东新闻,http://121.11.160.7:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+广东珠江,http://121.11.160.7:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+广东民生,http://121.11.160.7:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+广东影视,http://121.11.160.7:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+经济科教,http://121.11.160.7:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+广东少儿,http://121.11.160.7:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+广东珠江,http://183.237.95.108:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=0&authid=0
 广东民生,http://183.237.95.108:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=0&authid=0
 广东综艺,http://183.237.95.108:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=0&authid=0
-广东珠江,http://183.237.95.108:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=0&authid=0
 广东体育,http://183.237.95.108:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=0&authid=0
+经济科教,http://59.39.89.130:60901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+广东体育,http://120.198.101.106:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+广东珠江,http://120.198.101.106:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+经济科教,http://120.198.101.106:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 广东新闻,http://113.101.119.50:8090/hls/106/index.m3u8
 经济科教,http://113.101.119.50:8090/hls/129/index.m3u8
 广东影视,http://113.101.119.50:8090/hls/110/index.m3u8
@@ -1084,12 +1074,6 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 广东影视,http://113.101.119.50:808/hls/110/index.m3u8
 广东新闻,http://120.238.94.10:9901/tsfile/live/1010_1.m3u8
 广东影视,http://108.181.21.27:27347/livehttpplay?channel_id=20145
-广东珠江,http://121.11.160.7:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
-广东新闻,http://121.11.160.7:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-广东民生,http://121.11.160.7:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-广东影视,http://121.11.160.7:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-经济科教,http://121.11.160.7:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-广东少儿,http://121.11.160.7:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
 经济科教,http://120.198.95.220:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&down=1
 广东珠江,http://218.13.170.98:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 经济科教,http://218.13.170.98:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1107,13 +1091,10 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 广东体育,http://108.181.20.181/livehttpplay?channel_id=12028
 广东体育,http://120.238.94.82:9901/tsfile/live/1012_1.m3u8
 广东体育,http://110.72.59.58:9901/tsfile/live/1022_1.m3u8
-大湾区卫视,http://113.64.146.6:2024/hls/63/index.m3u8
 大湾区卫视,http://43.139.34.228:9898/hls/8/index.m3u8
 广东新闻,http://183.11.239.36:808/hls/5/index.m3u8
 大湾区卫视,http://183.11.239.36:808/hls/132/index.m3u8
 大湾区卫视,http://222.128.55.152:9080/live/dwq.m3u8
-大湾区卫视,http://113.64.146.135:2024/hls/63/index.m3u8
-岭南戏曲,http://113.64.146.135:2024/hls/47/index.m3u8
 岭南戏曲,http://113.101.119.27:808/hls/22/index.m3u8
 岭南戏曲,http://113.101.119.50:8090/hls/22/index.m3u8
 岭南戏曲,http://183.239.226.235:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1131,7 +1112,6 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 广东体育,https://tv.cdn.com.mp/live/gdty/stream.m3u8
 广东珠江,http://183.239.236.91:8088/hls/57/index.m3u8
 广东影视,http://183.239.236.91:8088/hls/39/index.m3u8
-大湾区卫视,http://113.64.146.135:2024/hls/59/index.m3u8
 大湾区卫视,http://183.239.236.91:8088/hls/16/index.m3u8
 广州综合,http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
 广州综合,https://tencentplaygsm.gztv.com/live/zonghes.m3u8?txTime=6594e9b7&txSecret=adb23b34fb694750ac8b8ff14a21a424
@@ -1188,13 +1168,6 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 湛江公共,http://113.86.205.6:8090/hls/3/index.m3u8
 湛江公共,http://113.110.79.68:808/hls/3/index.m3u8
 湛江公共,http://113.86.205.59:808/hls/3/index.m3u8
-汕头综合,http://113.64.146.135:2024/hls/4/index.m3u8
-汕头经济生活,http://113.64.146.135:2024/hls/5/index.m3u8
-汕尾综合,http://113.64.146.135:2024/hls/7/index.m3u8
-揭阳综合,http://113.64.146.135:2024/hls/2/index.m3u8
-揭阳生活,http://113.64.146.135:2024/hls/1/index.m3u8
-汕头综合,http://113.64.146.6:2024/hls/4/index.m3u8
-揭阳生活,http://113.64.146.6:2024/hls/1/index.m3u8
 汕尾综合,http://183.239.226.235:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
 韶关综合,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
 梅州综合,http://120.198.101.106:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1720,7 +1693,6 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 江苏城市,http://58.221.214.82:9901/tsfile/live/0004_2.m3u8?key=txiptv&playlive=1&authid=0
 江苏教育,http://58.221.214.82:9901/tsfile/live/0012_2.m3u8?key=txiptv&playlive=1&authid=0
 江苏体育休闲,http://58.221.214.82:9901/tsfile/live/0006_2.m3u8?key=txiptv&playlive=1&authid=0
-财富天下,http://113.64.146.135:2024/hls/57/index.m3u8
 江苏体育休闲,http://121.232.178.93:5000/tsfile/live/0001_4.m3u8?key=txiptv&playlive=1&authid=0
 优漫卡通,http://121.232.178.93:5000/tsfile/live/0001_10.m3u8?key=txiptv&playlive=1&authid=0
 南京新闻综合,http://live.nbs.cn/channels/njtv/xwpdb/nbs06.m3u8
@@ -2650,7 +2622,6 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 海口城乡经济,http://183.255.46.4:16080/live/tv2503.m3u8
 📺　云南,#genre#
 云南卫视,http://59.39.89.130:60901/tsfile/live/0125_18.m3u8?key=txiptv&playlive=1&authid=0
-云南卫视,http://113.64.146.6:2024/hls/83/index.m3u8
 云南都市,http://220.164.192.48:50085/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
 云南娱乐,http://220.164.192.48:50085/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 云南康旅,http://220.164.192.48:50085/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
