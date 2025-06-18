@@ -966,6 +966,8 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 深圳卫视,http://112.123.210.115:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0
 深圳卫视,http://112.123.209.253:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0
 深圳卫视,http://112.123.210.46:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0
+广东卫视4K,http://ddns.cyruslee.top:8888/udp/239.77.0.27:5146
+深圳卫视4K,http://ddns.cyruslee.top:8888/udp/239.77.1.14:5146
 广东新闻,http://113.101.119.50:8090/hls/106/index.m3u8
 广东新闻,http://113.101.119.50:808/hls/106/index.m3u8
 经济科教,http://113.101.119.50:8090/hls/129/index.m3u8
