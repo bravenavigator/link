@@ -1232,6 +1232,8 @@ TVB J2,rtmp://60.248.77.68/sat/hk011
 TVB J2,rtmp://60.248.77.66/sat/hk011
 TVB J2,http://ali.hlspull.yximgs.com/live/awei_j2.flv
 NOW新闻,https://a.ru8.dpdns.org/now/332/master.m3u8
+HOY 77,https://ali.hlspull.yximgs.com/live/xiangjiaogehoy77511.flv
+HOY 77,https://cdn6.163189.xyz/live/hoy/stream.m3u8
 HOY 77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 HOY 77,http://php.jdshipin.com:8880/PLTV/iptv.php?id=hoytv
 HOY 77,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hoytv
@@ -1244,6 +1246,7 @@ HOY 77,https://cdn5.163189.xyz/live/hoy/stream.m3u8
 HOY 77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 HOY 77,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv2
 HOY 77,http://ali.hlspull.yximgs.com/live/awei_hoy77.flv
+HOY 78,https://ali.hlspull.yximgs.com/live/xaigjiaogehoy7801.flv
 HOY 78,http://ali.hlspull.yximgs.com/live/awei_hoy78.flv
 ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
@@ -1298,6 +1301,7 @@ RTHK32,http://50.7.234.10:8278/rhk32_twn/playlist.m3u8?tid=m941409fa5c86&ct=1833
 莲花卫视,https://gat.tv12.xyz/187.m3u8
 澳视葡文,https://gat.tv12.xyz/182.m3u8
 莲花卫视,http://8.138.7.223/tv/lotustv.m3u8
+莲花卫视,http://8.138.7.223/tv/lotustv.m3u8?live/110_1.m3u8
 澳视卫星,http://cdn.163189.xyz/live/as/stream.m3u8
 澳视卫星,https://cdn.163189.xyz/live/as/stream.m3u8
 澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as
@@ -1328,6 +1332,11 @@ RTHK32,http://50.7.234.10:8278/rhk32_twn/playlist.m3u8?tid=m941409fa5c86&ct=1833
 澳视体育,http://103.233.191.132:1935/ch4/sport_ch4.live/playlist.m3u8
 澳视体育,http://103.233.191.133:1935/ch4/sport_ch4.live/playlist.m3u8
 澳视体育,http://103.233.191.134:1935/ch4/sport_ch4.live/playlist.m3u8
+澳視澳門,https://149.102.97.122/ch1/ch1.live/playlist.m3u8
+澳视澳门,https://149.102.97.122/ch2/ch2.live/playlist.m3u8
+澳门资讯,https://149.102.97.122/ch5/info_ch5.live/playlist.m3u8
+澳门综艺,https://149.102.97.122/ch6/hd_ch6.live/playlist.m3u8
+澳视体育,https://149.102.97.122/ch4/sport_ch4.live/playlist.m3u8
 TVB明珠,http://o12.1678520.xyz/hls/mzt/playlist.m3u8
 TVB明珠,http://192.3.130.92:20006/live/mzt/stream.m3u8
 TVB明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
@@ -1382,8 +1391,6 @@ TVB黃金翡翠,http://jxiptv.dpdns.org/stream/tvb/null-7/master.m3u8
 粤语片,http://jxiptv.dpdns.org/stream/tvb/null-9/master.m3u8
 星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 myTV SUPER FREE,http://jxiptv.dpdns.org/stream/tvb/mytvsuperfree/master.m3u8
-PopC,https://mysupertv.pendy.dpdns.org/PopC/popc.m3u8
-PopC,http://jxiptv.dpdns.org/stream/tvb/popc/master.m3u8
 ROCK Action,http://jxiptv.dpdns.org/stream/tvb/rockaction/master.m3u8
 Love Nature,http://jxiptv.dpdns.org/stream/tvb/lovenature/master.m3u8
 SUPER Kids Channel,http://jxiptv.dpdns.org/stream/tvb/superkidschannel/master.m3u8
@@ -1422,6 +1429,11 @@ SUPER Kids Channel,http://jxiptv.dpdns.org/stream/tvb/superkidschannel/master.m3
 美亚电影,http://jxiptv.dpdns.org/stream/tvb/null-8/master.m3u8
 美亚电影,http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MC6C9419277694192776&ct=19234&tsum=43f9d2e13c7cbbce7e5c5ec94fa38750
 美亚电影,http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MFDF2848449728484497&ct=19211&tsum=f65f39620c24fee2e633c4727cc48727
+美亚台湾,http://ali.hlspull.yximgs.com/live/awei_mydy.flv
+美亚国语,http://fr-us7.jdiptv.cc/live/xgmydygy.m3u8?kdstime=1743859381&kdssign=0a4319dd594b828e5ba42925247e6dab
+PopC,http://fr-us7.jdiptv.cc/live/popc.m3u8?kdstime=1743859248&kdssign=37b16f70cf1353cd79729559de2a49a4
+PopC,https://mysupertv.pendy.dpdns.org/PopC/popc.m3u8
+PopC,http://jxiptv.dpdns.org/stream/tvb/popc/master.m3u8
 天映频道,https://mysupertv.pendy.dpdns.org/TYPD/typd.m3u8
 天映频道,http://192.3.130.92:20002/smt3.2.1.php?id=Celestial
 天映频道,http://php.jdshipin.com:8880/smt.php?id=Celestial
@@ -3448,6 +3460,7 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 中天新闻,https://ali.hlspull.yximgs.com/live/167ztxw2.flv
 中天亚洲,https://ali.hlspull.yximgs.com/live/167ztyz.flv
 中天娱乐,https://ali.hlspull.yximgs.com/live/167ztyl.flv
+中天新闻,https://ali.hlspull.yximgs.com/live/xaigjiaogetvbplus01.flv
 中天ᴴᴰ,https://smart.pendy.dpdns.org/Smart.php?id=ctizhonghe
 中天ᴴᴰ,http://ali.hlspull.yximgs.com/live/awei_ztzh.flv
 中天ᴴᴰ,http://156.253.12.5:932/tslive/IPTV.php?id=%E4%B8%AD%E5%A4%A9%E7%BB%BC%E5%90%88
@@ -3469,8 +3482,8 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 中天娱乐,http://50.7.234.10:8278/ctient/playlist.m3u8?tid=MC9C7081133170811331&ct=19249&tsum=8b08b54208f3ee30e12f419d587f46ac
 中天娱乐,http://50.7.234.10:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
-东森ᴴᴰ,https://smart.pendy.dpdns.org/Smart.php?id=ettvzhonghe
 东森ᴴᴰ,http://ali.hlspull.yximgs.com/live/awei_dszh.flv
+东森ᴴᴰ,https://smart.pendy.dpdns.org/Smart.php?id=ettvzhonghe
 东森ᴴᴰ,http://50.7.234.10:8278/ettvzhonghe/playlist.m3u8?ct=17874&tid=m65c4e525f24617101171&tsum=663db593cfeefc92ce4b5d7461988f3f
 东森ᴴᴰ,http://50.7.234.10:8278/ettvzhonghe/playlist.m3u8?tid=MC4C1214674912146749&ct=19254&tsum=9b96a50ba99dca1a02a27b05a6fb4b0d
 东森ᴴᴰ,http://50.7.234.10:8278/ettvzhonghe/playlist.m3u8?tid=m65c4e525f24617101171&ct=17874&tsum=663db593cfeefc92ce4b5d7461988f3f
@@ -3583,17 +3596,18 @@ TVBS欢乐,http://198.16.100.186:8278/tvbshuanle_twn/playlist.m3u8?ct=19193&tid=
 民视新闻,http://50.7.234.10:8278/ftvnew_taiwan/playlist.m3u8?tid=md953ce86cdad16241449&ct=17874&tsum=949d4aace793a001dd41392b210ba406
 民视新闻,http://50.7.234.10:8278/ftvnew_taiwan/playlist.m3u8?tid=MF1F9892989898929898&ct=19234&tsum=454a768519608690638d11c0258cdcbe
 民视新闻,http://198.16.100.186:8278/ftvnew_taiwan/playlist.m3u8?tid=MA7A6968320369683203&ct=19249&tsum=e3b040434ed43f12a738964a100a0e59
-民视台湾,https://smart.pendy.dpdns.org/Smart.php?id=ftvtaiwan_twn
+民视第一,http://ali.hlspull.yximgs.com/live/awei_msdy.flv
 民视台湾,http://ali.hlspull.yximgs.com/live/awei_mstw.flv
-民视台湾,http://50.7.234.10:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD8196635981966359&ct=19226&tsum=b82639ac8b4590b4206effe348e2f9c2
-民视台湾,http://50.7.234.10:8278/ftvtaiwan_twn/playlist.m3u8?tid=ME1E7840524878405248&ct=19234&tsum=2f1d9e430f55fa8a953df69b021c4c36
-民视台湾,http://50.7.234.10:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD6045594360455943&ct=19193&tsum=0de4f998b15ba8f2ecdaa107d866212a
-民视台湾,http://50.7.234.10:8278/ftvtaiwan_twn/playlist.m3u8?tid=MEFE5254515252545152&ct=19249&tsum=c17f872b1772df8f76032030cc40bdbd
 民视第一,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
 民视第一,http://ali.hlspull.yximgs.com/live/awei_msdy.flv
 民视第一,http://50.7.234.10:8278/lunghuajingdian_twn/playlist.m3u8?tid=MC3C1265283912652839&ct=19234&tsum=4ccb0d02f19e4fabf66e28d18b606f6c
 民视第一,http://50.7.234.10:8278/lunghuajingdian_twn/playlist.m3u8?tid=ME8E7785888977858889&ct=19226&tsum=a7c782372313ea616d8fced1cebdfbab
 民视第一,http://50.7.234.10:8278/lunghuajingdian_twn/playlist.m3u8?tid=MC2C7597780175977801&ct=19249&tsum=b7602981567d8f0171e8de29154f5014
+民视台湾,https://smart.pendy.dpdns.org/Smart.php?id=ftvtaiwan_twn
+民视台湾,http://50.7.234.10:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD8196635981966359&ct=19226&tsum=b82639ac8b4590b4206effe348e2f9c2
+民视台湾,http://50.7.234.10:8278/ftvtaiwan_twn/playlist.m3u8?tid=ME1E7840524878405248&ct=19234&tsum=2f1d9e430f55fa8a953df69b021c4c36
+民视台湾,http://50.7.234.10:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD6045594360455943&ct=19193&tsum=0de4f998b15ba8f2ecdaa107d866212a
+民视台湾,http://50.7.234.10:8278/ftvtaiwan_twn/playlist.m3u8?tid=MEFE5254515252545152&ct=19249&tsum=c17f872b1772df8f76032030cc40bdbd
 华视ᴴᴰ,https://smart.pendy.dpdns.org/Smart.php?id=ctshd_twn
 华视ᴴᴰ,rtmp://60.248.77.68/sat/tv111
 华视ᴴᴰ,rtmp://60.248.77.66/sat/tv111
