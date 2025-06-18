@@ -895,6 +895,7 @@ CETV中国教育4,http://gmxw.7766.org:808/hls/79/index.m3u8
 海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/playlist.m3u8
 海峡卫视,http://110.81.206.138:49231/tsfile/live/23022_1.m3u8?key=txiptv&playlive=1&authid=0
 三沙卫视,https://livessws.hnntv.cn/live/ssws_01hnntv.m3u8?_upt=626783981743357501
+厦门卫视,http://8.138.7.223/tv/fjtv1.php?id=xmws
 康巴卫视,http://171.213.141.234:1122/udp/239.93.0.41:5140
 延边卫视,http://live.ybtvyun.com/video/s10016-af95004b6d1a/index.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-28bc40431485/index.m3u8
@@ -1081,6 +1082,9 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 梅州五华综合,http://120.198.101.106:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 梅州五华综合,http://218.15.183.23:9901/tsfile/live/23000_1.m3u8
 ☘️　港澳,#genre#
+凤凰资讯,http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF%E5%8F%B0
+凤凰中文,http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87%E5%8F%B0
+凤凰香港,http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF%E5%8F%B0
 凤凰资讯,http://cdn3.163189.xyz/live/fhzx/stream.m3u8
 凤凰资讯,https://cdn3.163189.xyz/live/fhzx/stream.m3u8
 凤凰资讯,https://cdn6.163189.xyz/live/fhzx/stream.m3u8
@@ -1120,6 +1124,8 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 凤凰香港,http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MA5A4571836345718363&ct=19234&tsum=9d461ede3a5ecfa182b75574f86ae56a
 凤凰香港,http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MD0D2495250724952507&ct=19249&tsum=b1c0a577a7f4aaa9af143d124ba24a40
 凤凰香港,http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=m5bd7047b492a&ct=18336&tsum=2c3b7b7f9cee713c07f561b51a9e2768
+TVB翡翠,http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=%E7%BF%A1%E7%BF%A0%E5%8F%B0
+TVB翡翠,https://cdn.163189.xyz/live/fct4k/stream.m3u8
 TVB翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
 TVB翡翠,http://cdn.132.us.kg/live/fct4k/stream.m3u8
 TVB翡翠,http://mytv.cdn.com.mp/hls/fct/playlist.m3u8
@@ -1291,6 +1297,7 @@ RTHK32,http://50.7.234.10:8278/rhk32_twn/playlist.m3u8?tid=m941409fa5c86&ct=1833
 澳视体育,https://gat.tv12.xyz/184.m3u8
 莲花卫视,https://gat.tv12.xyz/187.m3u8
 澳视葡文,https://gat.tv12.xyz/182.m3u8
+莲花卫视,http://8.138.7.223/tv/lotustv.m3u8
 澳视卫星,http://cdn.163189.xyz/live/as/stream.m3u8
 澳视卫星,https://cdn.163189.xyz/live/as/stream.m3u8
 澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as
@@ -1456,6 +1463,7 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 北京卡酷少儿,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1748120415&sign=7b4f58d08b1f0ba4f739987555d5eb1e
 北京IPTV4K,http://27.19.54.57:34567/bptv/10000100000000050000000003887500.m3u8
 北京IPTV4K,http://27.19.54.57:34567/bptv/10000100000000050000000003887500.m3u8
+淘电影,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.250:8001
 淘电影,http://27.19.54.57:34567/bptv/10000100000000050000000003887498.m3u8
 淘剧场,http://27.19.54.57:34567/bptv/10000100000000050000000003887497.m3u8
 淘娱乐,http://27.19.54.57:34567/bptv/10000100000000050000000003887499.m3u8
@@ -3436,6 +3444,10 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 西藏卫视,http://www.lysvc.cc/daili/xztv.php?id=0
 西藏藏语卫视,http://www.lysvc.cc/daili/xztv.php?id=1
 🌊　台湾,#genre#
+中天ᴴᴰ,http://ali.hlspull.yximgs.com/live/awei_ztzh.flv
+中天新闻,https://ali.hlspull.yximgs.com/live/167ztxw2.flv
+中天亚洲,https://ali.hlspull.yximgs.com/live/167ztyz.flv
+中天娱乐,https://ali.hlspull.yximgs.com/live/167ztyl.flv
 中天ᴴᴰ,https://smart.pendy.dpdns.org/Smart.php?id=ctizhonghe
 中天ᴴᴰ,http://ali.hlspull.yximgs.com/live/awei_ztzh.flv
 中天ᴴᴰ,http://156.253.12.5:932/tslive/IPTV.php?id=%E4%B8%AD%E5%A4%A9%E7%BB%BC%E5%90%88
@@ -3443,6 +3455,7 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 中天ᴴᴰ,http://50.7.234.10:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
 中天ᴴᴰ,http://50.7.234.10:8278/ctizhonghe/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=27715b42827ed898125640b4891ddde9
 中天ᴴᴰ,http://50.7.234.10:8278/ctizhonghe/playlist.m3u8?tid=ME3E9861589598615895&ct=19226&tsum=7e6a4896cab50c2c48d7a889c1076ffc
+中天新闻,http://www.xitv.top/021il.php?id=ctinews
 中天新闻,https://gdfire2.67890123.cn:8088/live/ztxw201.m3u8
 中天新闻,https://smart.pendy.dpdns.org/Smart.php?id=ctinews
 中天新闻,http://50.7.234.10:8278/ctinews/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=5da22ad10e374c427fc90aed16f07478
@@ -3629,6 +3642,8 @@ TVBS欢乐,http://198.16.100.186:8278/tvbshuanle_twn/playlist.m3u8?ct=19193&tid=
 公视ᴴᴰ,http://50.7.234.10:8278/ctv_taiwan/playlist.m3u8?tid=MD4D6839548568395485&ct=19193&tsum=56b3e3b150f4fcbc1877e081b313bcd4
 公视ᴴᴰ,http://50.7.234.10:8278/ctv_taiwan/playlist.m3u8?tid=MCCC8750228587502285&ct=19225&tsum=aca6268c0dd9f618ed5e944942132557
 大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+八大ᴴᴰ,http://ali.hlspull.yximgs.com/live/awei_bdzh.flv
+八大第一,http://ali.hlspull.yximgs.com/live/awei_bddy.flv
 八大ᴴᴰ,https://smart.pendy.dpdns.org/Smart.php?id=badazhonghe
 八大ᴴᴰ,http://ali.hlspull.yximgs.com/live/awei_bdzh.flv
 八大ᴴᴰ,http://50.7.234.10:8278/badazhonghe/playlist.m3u8?ct=19225&tid=MC7C4692263546922635&tsum=ffdc7a6397b511103e0df0b92e678790
