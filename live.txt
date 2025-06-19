@@ -1127,6 +1127,7 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 凤凰香港,http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MD0D2495250724952507&ct=19249&tsum=b1c0a577a7f4aaa9af143d124ba24a40
 凤凰香港,http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=m5bd7047b492a&ct=18336&tsum=2c3b7b7f9cee713c07f561b51a9e2768
 TVB翡翠,http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=%E7%BF%A1%E7%BF%A0%E5%8F%B0
+TVB翡翠,http://ali.hlspull.yximgs.com/live/awei_jade.flv
 TVB翡翠,https://cdn.163189.xyz/live/fct4k/stream.m3u8
 TVB翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
 TVB翡翠,http://cdn.132.us.kg/live/fct4k/stream.m3u8
@@ -1157,6 +1158,7 @@ TVB翡翠,https://cdn3.163189.xyz/live/fct/stream.m3u8
 TVB翡翠,http://108.181.20.181/livehttpplay?channel_id=30025
 TVB翡翠,http://1b6467f415.iok.la:9931/tsfile/live/1007_1.m3u8
 TVB翡翠,http://jxiptv.dpdns.org/stream/tvb/null-3/master.m3u8
+TVB新闻,http://ali.hlspull.yximgs.com/live/awei_wxxw.flv
 TVB新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 TVB新闻,http://192.3.130.92:20002/smt3.2.1.php?id=inews_twn
 TVB新闻,http://cdn3.132.us.kg/live/wxxw/stream.m3u8
@@ -3460,24 +3462,26 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 🌊　台湾,#genre#
 中天ᴴᴰ,http://ali.hlspull.yximgs.com/live/awei_ztzh.flv
 中天ᴴᴰ,https://smart.pendy.dpdns.org/Smart.php?id=ctizhonghe
-中天ᴴᴰ,http://ali.hlspull.yximgs.com/live/awei_ztzh.flv
 中天ᴴᴰ,http://156.253.12.5:932/tslive/IPTV.php?id=%E4%B8%AD%E5%A4%A9%E7%BB%BC%E5%90%88
 中天ᴴᴰ,http://50.7.234.10:8278/ctizhonghe/playlist.m3u8?tid=MB6B3888954738889547&ct=19254&tsum=d0cb922e44e8a16bea598530697c581e
 中天ᴴᴰ,http://50.7.234.10:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
 中天ᴴᴰ,http://50.7.234.10:8278/ctizhonghe/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=27715b42827ed898125640b4891ddde9
 中天ᴴᴰ,http://50.7.234.10:8278/ctizhonghe/playlist.m3u8?tid=ME3E9861589598615895&ct=19226&tsum=7e6a4896cab50c2c48d7a889c1076ffc
 中天新闻,https://ali.hlspull.yximgs.com/live/167ztxw2.flv
+中天新闻,http://ali.hlspull.yximgs.com/live/167_ztxw.flv
 中天新闻,http://www.xitv.top/021il.php?id=ctinews
 中天新闻,https://gdfire2.67890123.cn:8088/live/ztxw201.m3u8
 中天新闻,https://smart.pendy.dpdns.org/Smart.php?id=ctinews
-中天新闻,https://ali.hlspull.yximgs.com/live/xaigjiaogetvbplus01.flv
 中天新闻,http://50.7.234.10:8278/ctinews/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=5da22ad10e374c427fc90aed16f07478
+中天新闻+,http://ali.hlspull.yximgs.com/live/167ztxw2.flv
+中天新闻+,https://ali.hlspull.yximgs.com/live/xaigjiaogetvbplus01.flv
 中天亚洲,https://ali.hlspull.yximgs.com/live/167ztyz.flv
 中天亚洲,https://smart.pendy.dpdns.org/Smart.php?id=ctiasia_twn
 中天亚洲,http://ali.hlspull.yximgs.com/live/awei_ztyz.flv
 中天亚洲,http://50.7.234.10:8278/ctiasia_twn/playlist.m3u8?tid=MBDB2043146120431461&ct=19234&tsum=ba6deb1dd785ef48ec39eda87a905fb6
 中天亚洲,http://50.7.234.10:8278/ctiasia_twn/playlist.m3u8?tid=MC3C8838319088383190&ct=19226&tsum=6eaf7a477dd08b06a5dc54b4c05e52e1
 中天亚洲,http://50.7.234.10:8278/ctiasia_twn/playlist.m3u8?tid=mfc2c5bc6c101&ct=18335&tsum=d074a602fcd98718afeb8fc9a18fa964
+中天娱乐,http://ali.hlspull.yximgs.com/live/167ztyl.flv
 中天娱乐,https://ali.hlspull.yximgs.com/live/167ztyl.flv
 中天娱乐,https://smart.pendy.dpdns.org/Smart.php?id=ctient
 中天娱乐,http://50.7.234.10:8278/ctient/playlist.m3u8?tid=MA8A3069789530697895&ct=19193&tsum=20c49fe9e15ad366c6e32b141f03bf8a
@@ -3598,7 +3602,6 @@ TVBS欢乐,http://198.16.100.186:8278/tvbshuanle_twn/playlist.m3u8?ct=19193&tid=
 民视新闻,http://50.7.234.10:8278/ftvnew_taiwan/playlist.m3u8?tid=md953ce86cdad16241449&ct=17874&tsum=949d4aace793a001dd41392b210ba406
 民视新闻,http://50.7.234.10:8278/ftvnew_taiwan/playlist.m3u8?tid=MF1F9892989898929898&ct=19234&tsum=454a768519608690638d11c0258cdcbe
 民视新闻,http://198.16.100.186:8278/ftvnew_taiwan/playlist.m3u8?tid=MA7A6968320369683203&ct=19249&tsum=e3b040434ed43f12a738964a100a0e59
-民视第一,http://ali.hlspull.yximgs.com/live/awei_msdy.flv
 民视台湾,http://ali.hlspull.yximgs.com/live/awei_mstw.flv
 民视第一,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
 民视第一,http://ali.hlspull.yximgs.com/live/awei_msdy.flv
@@ -3638,6 +3641,7 @@ TVBS欢乐,http://198.16.100.186:8278/tvbshuanle_twn/playlist.m3u8?ct=19193&tid=
 三立戏剧,http://50.7.234.10:8278/sanlixiju_twn/playlist.m3u8?tid=MCFC5174201151742011&ct=19193&tsum=27477ddeec029345da276c2c903f09c2
 三立戏剧,http://50.7.234.10:8278/sanlixiju_twn/playlist.m3u8?ct=19226&tid=MBDB8405357084053570&tsum=78944c0951d21a699e46fff4318a3799
 三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
+寰宇新闻,https://ali.hlspull.yximgs.com/live/167_hyxw.flv
 寰宇新闻,https://smart.pendy.dpdns.org/Smart.php?id=huanyuxinwen_twn
 非凡新闻,https://smart.pendy.dpdns.org/Smart.php?id=feifannews_twn
 年代新闻,https://smart.pendy.dpdns.org/Smart.php?id=niandainews_twn
@@ -3686,6 +3690,7 @@ TVBS欢乐,http://198.16.100.186:8278/tvbshuanle_twn/playlist.m3u8?ct=19193&tid=
 亚洲旅游,http://50.7.234.10:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d
 亚洲旅游,http://50.7.234.10:8278/asiatravel_twn/playlist.m3u8?ct=19225&tid=MF2F4967516549675165&tsum=3b56404a8f861c7fef6ac79a798e4a8c
 亚洲旅游,http://50.7.234.10:8278/asiatravel_twn/playlist.m3u8?tid=MDAD1549954015499540&ct=19344&tsum=b5f42b47e9e2868d29244c6c106c526c
+ELta娱乐,http://ali.hlspull.yximgs.com/live/awei_aedyl.flv
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
