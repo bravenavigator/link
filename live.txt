@@ -954,6 +954,7 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 广东体育,http://120.198.101.106:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://218.15.183.23:9901/tsfile/live/23012_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://120.238.94.82:9901/tsfile/live/1012_1.m3u8
+广东少儿,http://119.32.12.17:2901/udp/224.1.100.9:11111
 大湾区卫视,http://43.139.34.228:9898/hls/8/index.m3u8
 大湾区卫视,http://222.128.55.152:9080/live/dwq.m3u8
 大湾区卫视,http://120.198.95.220:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&down=1
