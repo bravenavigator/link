@@ -645,21 +645,24 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 📺　广东,#genre#
 广东卫视,http://60.174.40.117:85/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://218.89.240.144:59901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-广东卫视4K超,http://ddns.cyruslee.top:8888/udp/239.77.0.27:5146
 深圳卫视,http://60.174.40.117:85/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://218.89.240.144:59901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视4K,https://livepull-tcms.sztv.com.cn/live/sz4Kpgm.m3u8
 深圳卫视4K,http://8.138.7.223/tv/gd.php?id=0201
+广东新闻,http://120.238.94.10:9901/tsfile/live/1010_1.m3u8
 广东新闻,http://183.11.239.36:808/hls/5/index.m3u8
 广东珠江,http://push-rtmp-hs-spe-f5.douyincdn.com/live/96a6703f0ad8736352c2be0e6f5630fb.flv
 广东珠江,http://120.198.95.220:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&down=1
 广东珠江,http://218.15.183.23:9901/tsfile/live/23009_1.m3u8
+广东珠江,http://218.13.170.98:9901/tsfile/live/1000_1.m3u8
 广东珠江,http://183.237.95.108:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=0&authid=0
 广东民生,http://183.237.95.108:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=0&authid=0
 经济科教,http://59.39.89.130:60901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 经济科教,http://120.198.95.220:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&down=1
 广东综艺,http://183.237.95.108:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=0&authid=0
 广东体育,http://push-rtmp-hs-spe-f5.douyincdn.com/live/5f8b6c18643188e8a1ae8aab6811c7b9.flv
+广东体育,http://218.13.170.98:9901/tsfile/live/0019_1.m3u8
+广东体育,http://120.238.94.10:9901/tsfile/live/1012_1.m3u8
 广东体育,http://183.237.95.108:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=0&authid=0
 广东体育,http://120.198.101.106:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://218.15.183.23:9901/tsfile/live/23012_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -667,6 +670,7 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 大湾区卫视,http://43.139.34.228:9898/hls/8/index.m3u8
 大湾区卫视,http://222.128.55.152:9080/live/dwq.m3u8
 大湾区卫视,http://120.198.95.220:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&down=1
+大湾区卫视,http://183.11.239.36:808/hls/132/index.m3u8
 广州综合,http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
 广州综合,https://tencentplaygsm.gztv.com/live/zonghes.m3u8?txTime=6594e9b7&txSecret=adb23b34fb694750ac8b8ff14a21a424
 广州综合,https://tencentplaygsm.gztv.com/live/zonghes.m3u8?txTime=659a5111&txSecret=36b95cb955327d8262812e0e4f772aa5
