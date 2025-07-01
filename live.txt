@@ -585,7 +585,7 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 📺　广东,#genre#
 广东卫视,http://60.174.40.117:85/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://218.89.240.144:59901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-广东卫视4K超,rtp://239.49.1.24:8000
+广东卫视4K超,http://ddns.cyruslee.top:8888/udp/239.77.0.27:5146
 深圳卫视,http://60.174.40.117:85/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://218.89.240.144:59901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视4K,https://livepull-tcms.sztv.com.cn/live/sz4Kpgm.m3u8
