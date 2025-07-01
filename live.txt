@@ -940,7 +940,7 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 📺　北京,#genre#
 北京卫视,http://223.241.247.214:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://60.174.40.117:85/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
-北京卫视4K超,rtsp://103.251.96.71/PLTV/88888888/224/3221226031/425345275.smil
+北京卫视4K,rtp://239.49.0.42:8000
 北京纪实科教,http://43.143.254.239:55232/hls/69/index.m3u8
 北京纪实科教8K,https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
 北京纪实科教8K,http://8kdown.brtvcloud.com/8klive/8kliveok.m3u8?txSecret=a9cfb6acb08a9fe154a8ba6d0226cfef&txTime=71697CD5
