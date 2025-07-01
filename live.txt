@@ -19,6 +19,7 @@ CCTV14少儿,http://127.0.0.1
 CCTV15音乐,http://127.0.0.1
 CCTV16奥林匹克,http://127.0.0.1
 CCTV17农业农村,http://127.0.0.1
+CCTV4K高清,http://127.0.0.1
 CCTV重温经典,http://127.0.0.1
 CCTV兵器科技,http://127.0.0.1
 CCTV世界地理,http://127.0.0.1
@@ -78,7 +79,7 @@ CCTV12社会与法,http://t.061899.xyz/tl/tl.php?id=cctv12
 CCTV13新闻,http://t.061899.xyz/tl/tl.php?id=cctv13
 CCTV14少儿,http://t.061899.xyz/tl/tl.php?id=cctv14
 CCTV15音乐,http://t.061899.xyz/tl/tl.php?id=cctv15
-CCTV16奥运,http://t.061899.xyz/tl/tl.php?id=cctv16
+CCTV16奥林匹克,http://t.061899.xyz/tl/tl.php?id=cctv16
 CCTV17农业农村,http://t.061899.xyz/tl/tl.php?id=cctv17
 CCTV5+体育赛事,http://223.82.161.157:899/hls/501/index.m3u8
 CCTV2财经,http://www.qhjx.top:18000/udp/238.255.2.11:5999
