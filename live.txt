@@ -373,6 +373,7 @@ CETV中国教育1,http://gmxw.7766.org:808/hls/122/index.m3u8
 黑龙江卫视,http://cdn.jdshipin.com/jisu.php?id=hljws
 辽宁卫视,http://cdn.jdshipin.com/jisu.php?id=lnws
 新疆卫视,http://cdn.jdshipin.com/jisu.php?id=xjws
+宁夏卫视,http://cdn.jdshipin.com/jisu.php?id=nxws
 浙江卫视,http://t.061899.xyz/tl/tl.php?id=zjws
 广东卫视,http://t.061899.xyz/tl/tl.php?id=gdws
 江苏卫视,http://t.061899.xyz/tl/tl.php?id=jsws
