@@ -745,6 +745,7 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 凤凰资讯,http://218.104.239.114:9901/tsfile/live/1012_1.m3u8
 凤凰中文,http://zhwl.8866.org:8811/tsfile/live/1009_1.m3u8
 凤凰中文,http://cdn.jdshipin.com/jisu.php?id=fhzw
+凤凰中文,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
 凤凰中文,http://183.239.236.91:8088/hls/11/index.m3u8
 凤凰中文,http://218.104.239.114:9901/tsfile/live/1013_1.m3u8
@@ -753,6 +754,7 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 凤凰香港,http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF%E5%8F%B0
 凤凰香港,https://cdn6.163189.xyz/live/fhhk/stream.m3u8
 凤凰香港,http://cdn3.132.us.kg/live/fhhk/stream.m3u8
+凤凰香港,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
 凤凰香港,http://183.239.236.91:8088/hls/12/index.m3u8
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
 凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
@@ -805,6 +807,7 @@ TVB娱乐,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 TVB J1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
 TVB J1,http://cdn3.163189.xyz/live/j1/stream.m3u8
 TVB J1,https://cdn3.163189.xyz/live/j1/stream.m3u8
+TVB J1,http://cdn3.132.us.kg/live/j1/stream.m3u8
 TVB J1,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 TVB J1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j1
 TVB J2,http://cdn.163189.xyz/live/tvbp/stream.m3u8
@@ -824,6 +827,7 @@ HOY 77,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv
 HOY 77,http://cdn.163189.xyz/live/hoy/stream.m3u8
 HOY 77,https://cdn.163189.xyz/live/hoy/stream.m3u8
 HOY 77,http://cdn.132.us.kg/live/hoy/stream.m3u8
+HOY 77,http://cdn.163.dedyn.io/live/hoy/stream.m3u8
 HOY 77,http://192.3.130.92:20000/live/hoy/stream.m3u8
 HOY 77,https://cdn5.163189.xyz/live/hoy/stream.m3u8
 HOY 77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
@@ -864,6 +868,8 @@ RTHK32,https://cdn5.163189.xyz/live/rthk32/stream.m3u8
 RTHK33,http://192.3.130.92:20006/live/cctv1/stream.m3u8
 RTHK33,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
 RTHK33,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+RTHK31,http://cdn.163.dedyn.io/live/rthk31/stream.m3u8
+RTHK32,http://cdn.163.dedyn.io/live/rthk32/stream.m3u8
 RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
 RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
 RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8
@@ -886,9 +892,15 @@ RTHK32,http://50.7.234.10:8278/rhk32_twn/playlist.m3u8?tid=m941409fa5c86&ct=1833
 莲花卫视,https://gat.tv12.xyz/187.m3u8
 澳视葡文,https://gat.tv12.xyz/182.m3u8
 莲花卫视,http://8.138.7.223/tv/lotustv.m3u8
+澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
+澳视澳门,http://php.jdshipin.com/PLTV/iptv.php?id=asam
+澳视澳门,http://cdn.132.us.kg/live/asam/stream.m3u8
+澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as
+澳视卫星,http://cdn.132.us.kg/live/as/stream.m3u8
 莲花卫视,http://8.138.7.223/tv/lotustv.m3u8?live/110_1.m3u8
 澳视卫星,http://cdn.163189.xyz/live/as/stream.m3u8
 澳视卫星,https://cdn.163189.xyz/live/as/stream.m3u8
+澳视卫星,http://cdn.163.dedyn.io/live/as/stream.m3u8
 澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as
 澳视卫星,http://php.jdshipin.com/PLTV/iptv.php?id=as
 澳视卫星,http://cdn.132.us.kg/live/as/stream.m3u8
@@ -896,6 +908,7 @@ RTHK32,http://50.7.234.10:8278/rhk32_twn/playlist.m3u8?tid=m941409fa5c86&ct=1833
 澳视卫星,http://192.3.130.92:20000/live/as/stream.m3u8
 澳视澳门,http://php.jdshipin.com:8880/PLTV/iptv.php?id=asam
 澳视澳门,http://cdn.132.us.kg/live/asam/stream.m3u8
+澳视澳门,http://cdn.163.dedyn.io/live/asam/stream.m3u8
 澳视澳门,https://cdn.163189.xyz/live/asam/stream.m3u8
 澳视澳门,http://php.jdshipin.com/PLTV/iptv.php?id=asam
 澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
@@ -1000,6 +1013,7 @@ PopC,http://fr-us7.jdiptv.cc/live/popc.m3u8?kdstime=1743859248&kdssign=37b16f70c
 PopC,https://mysupertv.pendy.dpdns.org/PopC/popc.m3u8
 PopC,http://jxiptv.dpdns.org/stream/tvb/popc/master.m3u8
 天映频道,https://mysupertv.pendy.dpdns.org/TYPD/typd.m3u8
+天映频道,https://s1.m16tv.cfd/astro/celestialmovies/AKTV.m3u8
 天映频道,http://192.3.130.92:20002/smt3.2.1.php?id=Celestial
 天映频道,http://php.jdshipin.com:8880/smt.php?id=Celestial
 天映频道,http://php.jdshipin.com/smt.php?id=Celestial
@@ -2874,12 +2888,14 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 东森新闻,https://s1.m16tv.cfd/zhongtian/CH-1/AKTV.m3u8
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+东森洋片,https://smart.pendy.dpdns.org/Smart.php?id=ettvwestern
 中视ᴴᴰ,rtmp://f13h.mine.nu/sat/tv091
 中视ᴴᴰ,http://198.16.100.186:8278/zhongshihd_twn/playlist.m3u8?tid=MBDB6720263767202637&ct=19249&tsum=edd778f298b53c39b3b9706700032605
 中视新闻,https://smart.pendy.dpdns.org/Smart.php?id=zhongshinews_twn
 中视经典,https://smart.pendy.dpdns.org/Smart.php?id=zhongshi_twn
 非凡新闻,https://smart.pendy.dpdns.org/Smart.php?id=feifannews_twn
 非凡新闻,rtmp://f13h.mine.nu/sat/tv581
+寰宇新闻,https://gdfire2.67890123.cn:8088/live/hyxw.m3u8
 台视ᴴᴰ,https://smart.pendy.dpdns.org/Smart.php?id=ttv_taiwan
 台视新闻,https://smart.pendy.dpdns.org/Smart.php?id=ttvnews_twn
 台视新闻,https://live.wcetv.com/hls/m3u8/ttvnews.m3u8
@@ -2906,6 +2922,7 @@ TVBS欢乐,http://198.16.100.186:8278/tvbshuanle_twn/playlist.m3u8?tid=MA5A92622
 TVBS欢乐,http://198.16.100.186:8278/tvbshuanle_twn/playlist.m3u8?ct=19193&tid=MC8C2318787923187879&tsum=394d2b9af3df7846e2cdc60d69dd4219
 华视ᴴᴰ,https://smart.pendy.dpdns.org/Smart.php?id=ctshd_twn
 华视ᴴᴰ,rtmp://f13h.mine.nu/sat/tv111
+华视台湾,https://smart.pendy.dpdns.org/Smart.php?id=ctshd_twn
 三立ᴴᴰ,https://smart.pendy.dpdns.org/Smart.php?id=sanlizhonghe
 三立戏剧,https://smart.pendy.dpdns.org/Smart.php?id=sanlixiju_twn
 三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
@@ -2930,6 +2947,7 @@ TVBS欢乐,http://198.16.100.186:8278/tvbshuanle_twn/playlist.m3u8?ct=19193&tid=
 龙华卡通,https://cdn3.132.us.kg/live/lhkt/stream.m3u8
 龙华卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
 龙华经典,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
+龙祥电影,https://smart.pendy.dpdns.org/Smart.php?id=lungxiangtime_twn
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
