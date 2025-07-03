@@ -2865,6 +2865,8 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
 东森ᴴᴰ,https://smart.pendy.dpdns.org/Smart.php?id=ettvzhonghe
 东森新闻,https://gdfire2.67890123.cn:8088/live/dsxw01.m3u8
+东森超视,rtmp://f13h.mine.nu/sat/tv331
+东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 中视ᴴᴰ,rtmp://f13h.mine.nu/sat/tv091
 中视ᴴᴰ,http://198.16.100.186:8278/zhongshihd_twn/playlist.m3u8?tid=MBDB6720263767202637&ct=19249&tsum=edd778f298b53c39b3b9706700032605
 中视新闻,https://smart.pendy.dpdns.org/Smart.php?id=zhongshinews_twn
@@ -2884,6 +2886,7 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 民视新闻,http://198.16.100.186:8278/ftvnew_taiwan/playlist.m3u8?tid=MA7A6968320369683203&ct=19249&tsum=e3b040434ed43f12a738964a100a0e59
 民视第一,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
 民视台湾,https://smart.pendy.dpdns.org/Smart.php?id=ftvtaiwan_twn
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 TVBS欢乐,http://198.16.100.186:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111409641114096&ct=19225&tsum=600f3056bba6413dec3155efd19e2d20
 TVBS欢乐,http://198.16.100.186:8278/tvbshuanle_twn/playlist.m3u8?tid=MA5A9262292692622926&ct=19254&tsum=cd369d68a5d2c1a2fa04df748cda142c
 TVBS欢乐,http://198.16.100.186:8278/tvbshuanle_twn/playlist.m3u8?ct=19193&tid=MC8C2318787923187879&tsum=394d2b9af3df7846e2cdc60d69dd4219
@@ -2896,7 +2899,8 @@ TVBS欢乐,http://198.16.100.186:8278/tvbshuanle_twn/playlist.m3u8?ct=19193&tid=
 八大第一,https://smart.pendy.dpdns.org/Smart.php?id=badafirst
 八大娱乐,https://smart.pendy.dpdns.org/Smart.php?id=badaentertain
 八大戏剧,https://smart.pendy.dpdns.org/Smart.php?id=badadrama
-华语电视,http://38.64.72.148:80/hls/modn/list/4002/playlist.m3u8
+华语电视2,http://38.64.72.148:80/hls/modn/list/4002/playlist.m3u8
+华语电视3,http://38.64.72.148:80/hls/modn/list/4003/playlist.m3u8
 纬来睛彩,http://61.221.215.25:8800/hls/48/index.m3u8
 龙华电影,https://cdn3.132.us.kg/live/lhdy/stream.m3u8
 龙华经典,https://cdn3.132.us.kg/live/lhjd/stream.m3u8
