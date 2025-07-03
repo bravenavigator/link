@@ -2951,6 +2951,17 @@ TVBS欢乐,http://198.16.100.186:8278/tvbshuanle_twn/playlist.m3u8?ct=19193&tid=
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+ELTA影剧,https://smart.pendy.dpdns.org/Smart.php?id=eltayingju_twn
+ELTA体育,1https://smart.pendy.dpdns.org/Smart.php?id=eltasport_twn
+博斯运动贰,https://smart.pendy.dpdns.org/Smart.php?id=bosisport2_twn
+博斯高球贰,https://smart.pendy.dpdns.org/Smart.php?id=bosigolf2_twn
+博斯网球,https://smart.pendy.dpdns.org/Smart.php?id=bositennis_twn
+博斯高球,https://smart.pendy.dpdns.org/Smart.php?id=bosigolf1_twn
+EYE-戏剧,https://smart.pendy.dpdns.org/Smart.php?id=eyetvxiju_twn
+美食星球,https://smart.pendy.dpdns.org/Smart.php?id=foodplanet_twn
+探索亚洲,https://smart.pendy.dpdns.org/Smart.php?id=discoverytwn_twn
+亚洲旅游,https://smart.pendy.dpdns.org/Smart.php?id=asiatravel_twn
+野生动物,https://smart.pendy.dpdns.org/Smart.php?id=natgeowild_twn
 靖天卡通,https://smart.pendy.dpdns.org/Smart.php?id=jingtiancartoon_twn
 🌏　海外,#genre#
 美国Fox News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
