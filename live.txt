@@ -115,6 +115,11 @@ CCTV4K高清,http://www.qhjx.top:18000/udp/238.255.2.139:5999
 CETV早期教育,http://www.qhjx.top:18000/udp/238.255.2.143:5999
 CETV中国教育1,http://www.qhjx.top:18000/udp/238.255.2.105:5999
 中华美食,http://www.qhjx.top:18000/udp/238.255.2.142:5999
+CCTV13新闻,https://smart.pendy.dpdns.org/Smart.php?id=cctv13
+CCTV9纪录,https://smart.pendy.dpdns.org/Smart.php?id=cctv9hd
+CCTV5体育,https://smart.pendy.dpdns.org/Smart.php?id=cctv5
+CCTV4中文国际,https://smart.pendy.dpdns.org/Smart.php?id=cctv4
+CCTV1综合,https://smart.pendy.dpdns.org/Smart.php?id=cctv1
 CCTV9纪录,http://120.198.101.106:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV17农业农村,http://120.198.101.106:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13新闻,http://120.198.101.106:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -2861,10 +2866,12 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 西藏藏语卫视,http://www.lysvc.cc/daili/xztv.php?id=1
 🌊　台湾,#genre#
 中天新闻,https://smart.pendy.dpdns.org/Smart.php?id=ctinews
+中天新闻,https://s1.m16tv.cfd/zhongtian/CH-0/AKTV.m3u8
 中天娱乐,https://smart.pendy.dpdns.org/Smart.php?id=ctient
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
 东森ᴴᴰ,https://smart.pendy.dpdns.org/Smart.php?id=ettvzhonghe
 东森新闻,https://gdfire2.67890123.cn:8088/live/dsxw01.m3u8
+东森新闻,https://s1.m16tv.cfd/zhongtian/CH-1/AKTV.m3u8
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 中视ᴴᴰ,rtmp://f13h.mine.nu/sat/tv091
@@ -2881,12 +2888,19 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top
+民视ᴴᴰ,https://s1.m16tv.cfd/taiwan/CH-1/AKTV.m3u8
 民视新闻,https://smart.pendy.dpdns.org/Smart.php?id=ftvnew_taiwan
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 民视新闻,http://198.16.100.186:8278/ftvnew_taiwan/playlist.m3u8?tid=MA7A6968320369683203&ct=19249&tsum=e3b040434ed43f12a738964a100a0e59
 民视第一,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
+民视第一,https://s1.m16tv.cfd/taiwan/CH-0/AKTV.m3u8
 民视台湾,https://smart.pendy.dpdns.org/Smart.php?id=ftvtaiwan_twn
+TVBSᴴᴰ,https://smart.pendy.dpdns.org/Smart.php?id=tvbs
+TVBSᴴᴰ,https://s1.m16tv.cfd/taiwan/tvbs/AKTV.m3u8
+TVBS新闻,https://s1.m16tv.cfd/tvbs/tvbs/AKTV.m3u8
+TVBS亚洲,https://smart.pendy.dpdns.org/Smart.php?id=Tvbasia
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
+TVBS欢乐,https://smart.pendy.dpdns.org/Smart.php?id=tvbshuanle_twn
 TVBS欢乐,http://198.16.100.186:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111409641114096&ct=19225&tsum=600f3056bba6413dec3155efd19e2d20
 TVBS欢乐,http://198.16.100.186:8278/tvbshuanle_twn/playlist.m3u8?tid=MA5A9262292692622926&ct=19254&tsum=cd369d68a5d2c1a2fa04df748cda142c
 TVBS欢乐,http://198.16.100.186:8278/tvbshuanle_twn/playlist.m3u8?ct=19193&tid=MC8C2318787923187879&tsum=394d2b9af3df7846e2cdc60d69dd4219
@@ -2902,6 +2916,7 @@ TVBS欢乐,http://198.16.100.186:8278/tvbshuanle_twn/playlist.m3u8?ct=19193&tid=
 华语电视2,http://38.64.72.148:80/hls/modn/list/4002/playlist.m3u8
 华语电视3,http://38.64.72.148:80/hls/modn/list/4003/playlist.m3u8
 纬来睛彩,http://61.221.215.25:8800/hls/48/index.m3u8
+纬来电影,https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
 龙华电影,https://cdn3.132.us.kg/live/lhdy/stream.m3u8
 龙华经典,https://cdn3.132.us.kg/live/lhjd/stream.m3u8
 龙华偶像,https://cdn3.132.us.kg/live/lhox/stream.m3u8
@@ -2913,10 +2928,12 @@ TVBS欢乐,http://198.16.100.186:8278/tvbshuanle_twn/playlist.m3u8?ct=19193&tid=
 龙华日韩,https://cdn3.132.us.kg/live/lhrh/stream.m3u8
 龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
 龙华卡通,https://cdn3.132.us.kg/live/lhkt/stream.m3u8
-龙华卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+龙华卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
+龙华经典,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+靖天卡通,https://smart.pendy.dpdns.org/Smart.php?id=jingtiancartoon_twn
 🌏　海外,#genre#
 美国Fox News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 美国CBN News,https://bcovlive-a.akamai.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
