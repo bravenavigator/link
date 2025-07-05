@@ -733,6 +733,7 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 梅州五华综合,http://120.198.101.106:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 梅州五华综合,http://218.15.183.23:9901/tsfile/live/23000_1.m3u8
 ☘️　港澳,#genre#
+凤凰资讯,https://smart.pendy.dpdns.org/Smart.php?id=phoenixinfo_hd
 凤凰资讯,http://zhwl.8866.org:8811/tsfile/live/1001_1.m3u8
 凤凰资讯,http://cdn.jdshipin.com/jisu.php?id=fhzx
 凤凰资讯,http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF%E5%8F%B0
@@ -742,6 +743,7 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 凤凰中文,http://cdn.jdshipin.com/jisu.php?id=fhzw
 凤凰中文,http://183.239.236.91:8088/hls/11/index.m3u8
 凤凰中文,http://218.104.239.114:9901/tsfile/live/1013_1.m3u8
+凤凰香港,https://smart.pendy.dpdns.org/Smart.php?id=hkphoenix_twn
 凤凰香港,http://zhwl.8866.org:8811/tsfile/live/1005_1.m3u8
 凤凰香港,http://cdn.jdshipin.com/jisu.php?id=fhxg
 凤凰香港,http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF%E5%8F%B0
@@ -775,6 +777,7 @@ TVB新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 TVB新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 TVB新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=wxxwt
 TVB新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
+TVB华丽,https://smart.pendy.dpdns.org/Smart.php?id=Tvbjade
 TVB华丽,http://php.jdshipin.com/smt.php?id=Tvbjade
 TVB华丽,http://php.jdshipin.com/PLTV/iptv.php?id=huali
 TVB华丽,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
@@ -784,6 +787,7 @@ TVB华丽,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 TVB华丽,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 TVB华丽,http://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
 TVB娱乐,http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB娱乐新闻
+TVB娱乐,https://smart.pendy.dpdns.org/Smart.php?id=Tvbentertainment
 TVB娱乐,http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
 TVB娱乐,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbylxw
 TVB娱乐,http://php.jdshipin.com/smt.php?id=Tvbentertainment
@@ -920,6 +924,7 @@ RTHK32,http://50.7.234.10:8278/rhk32_twn/playlist.m3u8?tid=m941409fa5c86&ct=1833
 澳门资讯,https://149.102.97.122/ch5/info_ch5.live/playlist.m3u8
 澳门综艺,https://149.102.97.122/ch6/hd_ch6.live/playlist.m3u8
 澳视体育,https://149.102.97.122/ch4/sport_ch4.live/playlist.m3u8
+TVB明珠,https://smart.pendy.dpdns.org/Smart.php?id=pearl_twn
 TVB明珠,http://o12.1678520.xyz/hls/mzt/playlist.m3u8
 TVB明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 TVB明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
@@ -945,6 +950,7 @@ TVB星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 TVB星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxh
 TVB功夫,http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB功夫台(粤)
 TVB功夫,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+TVB千禧经典,https://smart.pendy.dpdns.org/Smart.php?id=Tvbclassic
 TVB千禧经典,http://php.jdshipin.com/smt.php?id=Tvbclassic
 TVB千禧经典,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 TVB千禧经典,http://php.jdshipin.com/PLTV/iptv.php?id=tvbc
@@ -976,7 +982,8 @@ TVB千禧经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 马来西亚Astro欢喜,http://192.3.130.92:20002/smt3.2.1.php?id=Huahee
 马来西亚Astro欢喜,http://php.jdshipin.com:8880/smt.php?id=Huahee
 马来西亚Astro欢喜,http://php.jdshipin.com/smt.php?id=Huahee
-马来西亚astro爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
+马来西亚astro爱奇,https://smart.pendy.dpdns.org/Smart.php?id=Qiyi
+马来西亚astro爱奇,http://php.jdshipin.com/smt.php?id=Qiyi
 马来西亚Astro AEC,http://192.3.130.92:20002/smt3.2.1.php?id=AEC
 马来西亚Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
 马来西亚Astro AEC,http://php.jdshipin.com:8880/smt.php?id=AEC
@@ -2865,6 +2872,7 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 西藏藏语卫视,http://www.lysvc.cc/daili/xztv.php?id=1
 🌊　台湾,#genre#
 中天新闻,https://smart.pendy.dpdns.org/Smart.php?id=ctinews
+中天亚洲,https://smart.pendy.dpdns.org/Smart.php?id=ctiasia_twn
 中天娱乐,https://smart.pendy.dpdns.org/Smart.php?id=ctient
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
 东森ᴴᴰ,https://smart.pendy.dpdns.org/Smart.php?id=ettvzhonghe
@@ -2887,6 +2895,7 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top
+台视台湾,https://smart.pendy.dpdns.org/Smart.php?id=ttv_taiwan
 民视ᴴᴰ,https://s1.m16tv.cfd/taiwan/CH-1/AKTV.m3u8
 民视新闻,https://smart.pendy.dpdns.org/Smart.php?id=ftvnew_taiwan
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
@@ -2897,6 +2906,7 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 TVBSᴴᴰ,https://smart.pendy.dpdns.org/Smart.php?id=tvbs
 TVBSᴴᴰ,https://s1.m16tv.cfd/taiwan/tvbs/AKTV.m3u8
 TVBS新闻,https://s1.m16tv.cfd/tvbs/tvbs/AKTV.m3u8
+TVBS台湾,https://smart.pendy.dpdns.org/Smart.php?id=tvbs
 TVBS亚洲,https://smart.pendy.dpdns.org/Smart.php?id=Tvbasia
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 TVBS欢乐,https://smart.pendy.dpdns.org/Smart.php?id=tvbshuanle_twn
@@ -2905,8 +2915,9 @@ TVBS欢乐,http://198.16.100.186:8278/tvbshuanle_twn/playlist.m3u8?tid=MA5A92622
 TVBS欢乐,http://198.16.100.186:8278/tvbshuanle_twn/playlist.m3u8?ct=19193&tid=MC8C2318787923187879&tsum=394d2b9af3df7846e2cdc60d69dd4219
 华视ᴴᴰ,https://smart.pendy.dpdns.org/Smart.php?id=ctshd_twn
 华视ᴴᴰ,rtmp://f13h.mine.nu/sat/tv111
-华视台湾,https://smart.pendy.dpdns.org/Smart.php?id=ctshd_twn
+公视台湾,https://smart.pendy.dpdns.org/Smart.php?id=ctv2_twn
 三立ᴴᴰ,https://smart.pendy.dpdns.org/Smart.php?id=sanlizhonghe
+三立台湾,https://smart.pendy.dpdns.org/Smart.php?id=sanlitaiwan
 三立戏剧,https://smart.pendy.dpdns.org/Smart.php?id=sanlixiju_twn
 三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
 八大ᴴᴰ,https://smart.pendy.dpdns.org/Smart.php?id=badazhonghe
@@ -2929,6 +2940,8 @@ TVBS欢乐,http://198.16.100.186:8278/tvbshuanle_twn/playlist.m3u8?ct=19193&tid=
 龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
 龙华卡通,https://cdn3.132.us.kg/live/lhkt/stream.m3u8
 龙华卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
+龙华戏剧,https://smart.pendy.dpdns.org/Smart.php?id=lunghuaxiju_twn
+龙华偶像,https://smart.pendy.dpdns.org/Smart.php?id=lunghuaidol_twn
 龙华经典,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
 龙祥电影,https://smart.pendy.dpdns.org/Smart.php?id=lungxiangtime_twn
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
