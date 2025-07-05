@@ -2888,6 +2888,7 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 非凡新闻,rtmp://f13h.mine.nu/sat/tv581
 寰宇新闻,https://gdfire2.67890123.cn:8088/live/hyxw.m3u8
 台视ᴴᴰ,https://smart.pendy.dpdns.org/Smart.php?id=ttv_taiwan
+台视ᴴᴰ,rtmp://f13h.mine.nu/sat/tv071
 台视新闻,https://smart.pendy.dpdns.org/Smart.php?id=ttvnews_twn
 台视新闻,https://live.wcetv.com/hls/m3u8/ttvnews.m3u8
 台视新闻,https://live.wcetv.com/hls/master-ttvnews.m3u8
