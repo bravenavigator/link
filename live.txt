@@ -771,6 +771,12 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 凤凰香港,http://cdn3.132.us.kg/live/fhhk/stream.m3u8
 凤凰香港,http://183.239.236.91:8088/hls/12/index.m3u8
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
+凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
+凤凰中文,http://8.138.7.223/tv/fh.php?id=1
+凤凰资讯,http://8.138.7.223/tv/fh.php?id=2
+凤凰香港,http://8.138.7.223/tv/fh.php?id=3
 凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
@@ -830,6 +836,7 @@ TVB J2,http://php.jdshipin.com/PLTV/iptv.php?id=tvbp
 TVB J2,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
 NOW新闻,https://a.ru8.dpdns.org/now/332/master.m3u8
 NOW新闻,https://gdfire2.67890123.cn:8088/live/nowxw01.m3u8
+NOW体育,https://gdfire2.67890123.cn:8088/live/nowty201.m3u8
 HOY 77,https://ali.hlspull.yximgs.com/live/xiangjiaogehoy77511.flv
 HOY 77,https://cdn6.163189.xyz/live/hoy/stream.m3u8
 HOY 77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
