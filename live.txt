@@ -745,18 +745,26 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 梅州五华综合,http://120.198.101.106:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 梅州五华综合,http://218.15.183.23:9901/tsfile/live/23000_1.m3u8
 ☘️　港澳,#genre#
-凤凰资讯,https://smart.pendy.dpdns.org/Smart.php?id=phoenixinfo_hd
+凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+凤凰资讯,http://bx.757888.xyz/api.php?id=fhzx
 凤凰资讯,http://zhwl.8866.org:8811/tsfile/live/1001_1.m3u8
+凤凰资讯,https://smart.pendy.dpdns.org/Smart.php?id=phoenixinfo_hd
 凤凰资讯,http://cdn.jdshipin.com/jisu.php?id=fhzx
 凤凰资讯,http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF%E5%8F%B0
 凤凰资讯,http://183.239.236.91:8088/hls/10/index.m3u8
 凤凰资讯,http://218.104.239.114:9901/tsfile/live/1012_1.m3u8
+凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+凤凰中文,http://bx.757888.xyz/api.php?id=fhzw
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文,http://zhwl.8866.org:8811/tsfile/live/1009_1.m3u8
 凤凰中文,http://cdn.jdshipin.com/jisu.php?id=fhzw
 凤凰中文,http://183.239.236.91:8088/hls/11/index.m3u8
 凤凰中文,http://218.104.239.114:9901/tsfile/live/1013_1.m3u8
-凤凰香港,https://smart.pendy.dpdns.org/Smart.php?id=hkphoenix_twn
+凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
+凤凰香港,http://bx.757888.xyz/api.php?id=fhhk
+凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk2
 凤凰香港,http://zhwl.8866.org:8811/tsfile/live/1005_1.m3u8
+凤凰香港,https://smart.pendy.dpdns.org/Smart.php?id=hkphoenix_twn
 凤凰香港,http://cdn.jdshipin.com/jisu.php?id=fhxg
 凤凰香港,http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF%E5%8F%B0
 凤凰香港,https://cdn6.163189.xyz/live/fhhk/stream.m3u8
@@ -769,6 +777,7 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
 TVB翡翠,http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=%E7%BF%A1%E7%BF%A0%E5%8F%B0
+TVB翡翠,http://bx.757888.xyz/api.php?id=fct
 TVB翡翠,http://cdn.jdshipin.com/jisu.php?id=fct
 TVB翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
 TVB翡翠,http://php.jdshipin.com/PLTV/iptv.php?id=fct4
@@ -781,6 +790,7 @@ TVB翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 TVB翡翠,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 TVB翡翠,http://php.jdshipin.com/smt.php?id=jade_twn
 TVB翡翠,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
+TVB新闻,http://bx.757888.xyz/api.php?id=wxxw
 TVB新闻,http://cdn.jdshipin.com/jisu.php?id=wxxw
 TVB新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 TVB新闻,http://php.jdshipin.com/smt.php?id=inews_twn
@@ -819,6 +829,7 @@ TVB J2,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 TVB J2,http://php.jdshipin.com/PLTV/iptv.php?id=tvbp
 TVB J2,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
 NOW新闻,https://a.ru8.dpdns.org/now/332/master.m3u8
+NOW新闻,https://gdfire2.67890123.cn:8088/live/nowxw01.m3u8
 HOY 77,https://ali.hlspull.yximgs.com/live/xiangjiaogehoy77511.flv
 HOY 77,https://cdn6.163189.xyz/live/hoy/stream.m3u8
 HOY 77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
@@ -834,6 +845,7 @@ HOY 77,https://cdn5.163189.xyz/live/hoy/stream.m3u8
 HOY 77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 HOY 77,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv2
 HOY 77,http://ali.hlspull.yximgs.com/live/awei_hoy77.flv
+Hoy 78,https://gdfire2.67890123.cn:8088/live/hoy7801.m3u8
 HOY 78,https://ali.hlspull.yximgs.com/live/xaigjiaogehoy7801.flv
 HOY 78,http://ali.hlspull.yximgs.com/live/awei_hoy78.flv
 ViuTV,http://api.mytv666.top/api/qwt.php?t=香港频道&id=ViuTV
@@ -2884,11 +2896,15 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 西藏卫视,http://www.lysvc.cc/daili/xztv.php?id=0
 西藏藏语卫视,http://www.lysvc.cc/daili/xztv.php?id=1
 🌊　台湾,#genre#
+中天ᴴᴰ,http://198.16.100.186:8278/ctizhonghe/playlist.m3u8?tid=MB6B3888954738889547&ct=19254&tsum=d0cb922e44e8a16bea598530697c581e
 中天新闻,https://smart.pendy.dpdns.org/Smart.php?id=ctinews
+中天新闻,https://gdfire2.67890123.cn:8088/live/ztxw01.m3u8
+中天新闻,https://gdfire2.67890123.cn:8088/live/ztxw201.m3u8
 中天亚洲,https://smart.pendy.dpdns.org/Smart.php?id=ctiasia_twn
 中天娱乐,https://smart.pendy.dpdns.org/Smart.php?id=ctient
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
 东森ᴴᴰ,https://smart.pendy.dpdns.org/Smart.php?id=ettvzhonghe
+东森ᴴᴰ,http://198.16.100.186:8278/ettvzhonghe/playlist.m3u8?tid=MC4C1214674912146749&ct=19254&tsum=9b96a50ba99dca1a02a27b05a6fb4b0d
 东森新闻,https://gdfire2.67890123.cn:8088/live/dsxw01.m3u8
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
@@ -2920,6 +2936,7 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 TVBSᴴᴰ,https://smart.pendy.dpdns.org/Smart.php?id=tvbs
 TVBSᴴᴰ,https://s1.m16tv.cfd/taiwan/tvbs/AKTV.m3u8
 TVBS新闻,https://s1.m16tv.cfd/tvbs/tvbs/AKTV.m3u8
+TVBS新闻,http://198.16.100.186:8278/tvbs_n/playlist.m3u8?tid=MA4A2233260122332601&ct=19249&tsum=513a9dcb42fa8b98e1792d513dd3e2ee
 TVBS台湾,https://smart.pendy.dpdns.org/Smart.php?id=tvbs
 TVBS亚洲,https://smart.pendy.dpdns.org/Smart.php?id=Tvbasia
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
@@ -2929,6 +2946,7 @@ TVBS欢乐,http://198.16.100.186:8278/tvbshuanle_twn/playlist.m3u8?tid=MA5A92622
 TVBS欢乐,http://198.16.100.186:8278/tvbshuanle_twn/playlist.m3u8?ct=19193&tid=MC8C2318787923187879&tsum=394d2b9af3df7846e2cdc60d69dd4219
 华视ᴴᴰ,https://smart.pendy.dpdns.org/Smart.php?id=ctshd_twn
 华视ᴴᴰ,rtmp://f13h.mine.nu/sat/tv111
+华视ᴴᴰ,http://198.16.100.186:8278/ctshd_twn/playlist.m3u8?tid=MC3C3582911835829118&ct=19249&tsum=f2c0c86801d43be647206c4ddb8e9ce6
 公视台湾,https://smart.pendy.dpdns.org/Smart.php?id=ctv2_twn
 三立ᴴᴰ,https://smart.pendy.dpdns.org/Smart.php?id=sanlizhonghe
 三立台湾,https://smart.pendy.dpdns.org/Smart.php?id=sanlitaiwan
