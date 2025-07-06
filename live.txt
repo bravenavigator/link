@@ -462,6 +462,8 @@ CETV中国教育1,http://gmxw.7766.org:808/hls/122/index.m3u8
 河南卫视,http://www.qhjx.top:18000/udp/238.255.2.74:5999
 北京卫视,http://www.qhjx.top:18000/udp/238.255.2.81:5999
 天津卫视,http://www.qhjx.top:18000/udp/238.255.2.99:5999
+新疆卫视,http://www.qhjx.top:18000/udp/238.255.2.66:5999
+宁夏卫视,http://www.qhjx.top:18000/udp/238.255.2.75:5999
 浙江卫视,http://8.138.7.223/tv/zjws.m3u8
 广西卫视,http://116.9.204.242:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://120.198.101.106:9901/tsfile/live/1078_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1061,7 +1063,12 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 东方卫视,http://112.46.105.20:8009/hls/31/index.m3u8
 东方财经,http://115.150.63.77:9902/tsfile/live/1042_1.m3u8
 都市剧场,http://183.239.236.91:8088/hls/127/index.m3u8
-新视觉,http://120.76.248.139/live/bfgd/4200000249.m3u8
+纪实人文,http://www.qhjx.top:18000/udp/238.255.2.106:5999
+法治天地,http://www.qhjx.top:18000/udp/238.255.2.190:5999
+都市剧场,http://www.qhjx.top:18000/udp/238.255.2.194:5999
+新视觉,http://www.qhjx.top:18000/udp/238.255.2.195:5999
+欢笑剧场,http://www.qhjx.top:18000/udp/238.255.2.215:5999
+动漫秀场,http://www.qhjx.top:18000/udp/238.255.2.196:5999
 崇明综合,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
 嘉定综合,https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8
 📺　天津,#genre#
@@ -2967,6 +2974,10 @@ TVBS欢乐,http://198.16.100.186:8278/tvbshuanle_twn/playlist.m3u8?ct=19193&tid=
 华语电视3,http://38.64.72.148:80/hls/modn/list/4003/playlist.m3u8
 纬来睛彩,http://61.221.215.25:8800/hls/48/index.m3u8
 纬来电影,https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
+纬来体育,rtmp://f13h.mine.nu/sat/tv721
+纬来育乐,rtmp://f13h.mine.nu/sat/tv701
+纬来日本,rtmp://f13h.mine.nu/sat/tv771
+MoMoTV,rtmp://f13h.mine.nu/sat/tv761
 龙华电影,https://cdn3.132.us.kg/live/lhdy/stream.m3u8
 龙华经典,https://cdn3.132.us.kg/live/lhjd/stream.m3u8
 龙华偶像,https://cdn3.132.us.kg/live/lhox/stream.m3u8
