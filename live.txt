@@ -584,7 +584,7 @@ CETV中国教育1,http://gmxw.7766.org:808/hls/122/index.m3u8
 山西卫视,http://101.229.169.168:8004/nptv/shanxi.m3u8
 河南卫视,http://101.229.169.168:8004/nptv/henan.m3u8
 河北卫视,http://101.229.169.168:8004/nptv/hebei.m3u8
-龙江卫视,http://101.229.169.168:8004/nptv/heilongjiang.m3u8
+黑龙江卫视,http://101.229.169.168:8004/nptv/heilongjiang.m3u8
 吉林卫视,http://101.229.169.168:8004/nptv/jiling.m3u8
 辽宁卫视,http://101.229.169.168:8004/nptv/liaoning.m3u8
 云南卫视,http://101.229.169.168:8004/nptv/yunnan.m3u8
@@ -594,7 +594,7 @@ CETV中国教育1,http://gmxw.7766.org:808/hls/122/index.m3u8
 甘肃卫视,http://101.229.169.168:8004/nptv/gansu.m3u8
 宁夏卫视,http://101.229.169.168:8004/nptv/ningxia.m3u8
 青海卫视,http://101.229.169.168:8004/nptv/qinghai.m3u8
-内蒙卫视,http://101.229.169.168:8004/nptv/neimenggu.m3u8
+内蒙古卫视,http://101.229.169.168:8004/nptv/neimenggu.m3u8
 西藏卫视,http://101.229.169.168:8004/nptv/xizang.m3u8
 新疆卫视,http://101.229.169.168:8004/nptv/xinjiang.m3u8
 ☀　外语,#genre#
