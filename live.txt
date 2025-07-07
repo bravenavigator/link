@@ -44,24 +44,6 @@ CETV中国教育4,http://127.0.0.1
 中国交通,http://127.0.0.1
 中国天气,http://127.0.0.1
 CCTV7国防军事,http://8.138.7.223/tv/cctv7.m3u8
-CCTV1综合,http://cdn.jdshipin.com/jisu.php?id=cctv1
-CCTV2财经,http://cdn.jdshipin.com/jisu.php?id=cctv2
-CCTV3综艺,http://cdn.jdshipin.com/jisu.php?id=cctv3
-CCTV4中文国际,http://cdn.jdshipin.com/jisu.php?id=cctv4
-CCTV5体育,http://cdn.jdshipin.com/jisu.php?id=cctv5
-CCTV5+体育赛事,http://cdn.jdshipin.com/jisu.php?id=cctv5p
-CCTV6电影,http://cdn.jdshipin.com/jisu.php?id=cctv6
-CCTV7国防军事,http://cdn.jdshipin.com/jisu.php?id=cctv7
-CCTV8电视剧,http://cdn.jdshipin.com/jisu.php?id=cctv8
-CCTV9纪录,http://cdn.jdshipin.com/jisu.php?id=cctv9
-CCTV10科教,http://cdn.jdshipin.com/jisu.php?id=cctv10
-CCTV11戏曲,http://cdn.jdshipin.com/jisu.php?id=cctv11
-CCTV12社会与法,http://cdn.jdshipin.com/jisu.php?id=cctv12
-CCTV13新闻,http://cdn.jdshipin.com/jisu.php?id=cctv13
-CCTV14少儿,http://cdn.jdshipin.com/jisu.php?id=cctv14
-CCTV15音乐,http://cdn.jdshipin.com/jisu.php?id=cctv15
-CCTV16奥林匹克,http://cdn.jdshipin.com/jisu.php?id=cctv16
-CCTV17农业农村,http://cdn.jdshipin.com/jisu.php?id=cctv17
 CCTV1综合,http://t.061899.xyz/tl/tl.php?id=cctv1
 CCTV2财经,http://t.061899.xyz/tl/tl.php?id=cctv2
 CCTV3综艺,http://t.061899.xyz/tl/tl.php?id=cctv3
@@ -388,31 +370,6 @@ CETV中国教育1,http://gmxw.7766.org:808/hls/122/index.m3u8
 康巴卫视,http://127.0.0.1
 安多卫视,http://127.0.0.1
 延边卫视,http://127.0.0.1
-北京卫视,http://cdn.jdshipin.com/jisu.php?id=bjws
-东方卫视,http://cdn.jdshipin.com/jisu.php?id=dfws
-天津卫视,http://cdn.jdshipin.com/jisu.php?id=tjws
-重庆卫视,http://cdn.jdshipin.com/jisu.php?id=cqws
-广东卫视,http://cdn.jdshipin.com/jisu.php?id=gdws
-深圳卫视,http://cdn.jdshipin.com/jisu.php?id=szws
-江苏卫视,http://cdn.jdshipin.com/jisu.php?id=jsws
-浙江卫视,http://cdn.jdshipin.com/jisu.php?id=zjws
-山东卫视,http://cdn.jdshipin.com/jisu.php?id=sdws
-湖南卫视,http://cdn.jdshipin.com/jisu.php?id=hunws
-湖北卫视,http://cdn.jdshipin.com/jisu.php?id=hubws
-安徽卫视,http://cdn.jdshipin.com/jisu.php?id=ahws
-江西卫视,http://cdn.jdshipin.com/jisu.php?id=jxbws
-东南卫视,http://cdn.jdshipin.com/jisu.php?id=dnws
-四川卫视,http://cdn.jdshipin.com/jisu.php?id=scws
-广西卫视,http://cdn.jdshipin.com/jisu.php?id=gxws
-海南卫视,http://cdn.jdshipin.com/jisu.php?id=hinws
-贵州卫视,http://cdn.jdshipin.com/jisu.php?id=gzws
-河南卫视,http://cdn.jdshipin.com/jisu.php?id=hnws
-湖北卫视,http://cdn.jdshipin.com/jisu.php?id=hbws
-吉林卫视,http://cdn.jdshipin.com/jisu.php?id=jlws
-黑龙江卫视,http://cdn.jdshipin.com/jisu.php?id=hljws
-辽宁卫视,http://cdn.jdshipin.com/jisu.php?id=lnws
-新疆卫视,http://cdn.jdshipin.com/jisu.php?id=xjws
-宁夏卫视,http://cdn.jdshipin.com/jisu.php?id=nxws
 浙江卫视,http://t.061899.xyz/tl/tl.php?id=zjws
 广东卫视,http://t.061899.xyz/tl/tl.php?id=gdws
 江苏卫视,http://t.061899.xyz/tl/tl.php?id=jsws
@@ -654,6 +611,7 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 深圳卫视,http://60.174.40.117:85/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://218.89.240.144:59901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视4K,https://livepull-tcms.sztv.com.cn/live/sz4Kpgm.m3u8
+深圳卫视4K,https://livepull-tcms.sztv.com.cn:443/live/sz4Kpgm.m3u8
 深圳卫视4K,http://8.138.7.223/tv/gd.php?id=0201
 广东新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_xw.flv
 广东珠江,http://push-rtmp-hs-spe-f5.douyincdn.com/live/96a6703f0ad8736352c2be0e6f5630fb.flv
@@ -792,6 +750,7 @@ TVB翡翠,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 TVB翡翠,http://php.jdshipin.com/smt.php?id=jade_twn
 TVB翡翠,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 TVB新闻,http://bx.757888.xyz/api.php?id=wxxw
+TVB新闻,http://erp.giihgtidg.com:8080/live/wxxw01.m3u8
 TVB新闻,http://cdn.jdshipin.com/jisu.php?id=wxxw
 TVB新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 TVB新闻,http://php.jdshipin.com/smt.php?id=inews_twn
@@ -848,8 +807,8 @@ HOY 77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 HOY 77,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv2
 HOY 77,http://ali.hlspull.yximgs.com/live/awei_hoy77.flv
 Hoy 78,https://gdfire2.67890123.cn:8088/live/hoy7801.m3u8
-HOY 78,https://ali.hlspull.yximgs.com/live/xaigjiaogehoy7801.flv
-HOY 78,http://ali.hlspull.yximgs.com/live/awei_hoy78.flv
+HOY 78,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy78.flv
+HOY 78,https://smart.pendy.dpdns.org/Smart.php?id=hoycaijing_twn
 ViuTV,http://api.mytv666.top/api/qwt.php?t=香港频道&id=ViuTV
 ViuTV6,http://api.mytv666.top/api/qwt.php?t=香港频道&id=ViuTV6
 ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
@@ -1054,6 +1013,7 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 东方卫视,http://218.89.240.144:59901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://60.174.40.117:85/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://112.46.105.20:8009/hls/31/index.m3u8
+上海都市,http://8.138.7.223/tv/shtv.php?id=ds
 东方财经,http://115.150.63.77:9902/tsfile/live/1042_1.m3u8
 都市剧场,http://183.239.236.91:8088/hls/127/index.m3u8
 纪实人文,http://www.qhjx.top:18000/udp/238.255.2.106:5999
@@ -1062,6 +1022,8 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 新视觉,http://www.qhjx.top:18000/udp/238.255.2.195:5999
 欢笑剧场,http://www.qhjx.top:18000/udp/238.255.2.215:5999
 动漫秀场,http://www.qhjx.top:18000/udp/238.255.2.196:5999
+五星体育,http://8.138.7.223/tv/shtv.php?id=wxty
+五星体育,http://115.190.105.236:90/shweb.php?id=wxty
 崇明综合,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
 嘉定综合,https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8
 📺　天津,#genre#
@@ -1129,11 +1091,12 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 苏州电影娱乐信息,https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
 苏州生活资讯,https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
 苏州4k,http://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
-苏州4k,http://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 苏州4k,http://live-auth.51kandianshi.com/szgd/csztv4k_fhd.m3u8
+苏州4k,http://tylive.kan0512.com/norecord/csztv4k_hd.m3u8
+苏州4k,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
+苏州4k,http://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 苏州4k,http://tylive.kan0512.com/norecord/csztv4k_fhd.m3u8
 苏州4k,http://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
-苏州4k,http://tylive.kan0512.com/norecord/csztv4k_hd.m3u8
 苏州常熟综合,http://cstvplay.21cs.cn/cstv1/cstv1.m3u8
 苏州常熟民生经济,http://cstvplay.21cs.cn/cstv2/cstv2.m3u8
 苏州吴江新闻综合,https://ctlive2.wjdaily.com/wjtv/ch1.m3u8
@@ -2243,6 +2206,7 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 📺　河北,#genre#
 河北卫视,http://43.143.254.239:55232/hls/19/index.m3u8
 河北卫视,http://218.89.240.144:59901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
 河北都市,http://110.241.189.42:808/hls/59/index.m3u8
 河北影视剧,http://110.241.189.42:808/hls/60/index.m3u8
 河北文旅公共,http://110.241.189.42:808/hls/62/index.m3u8
