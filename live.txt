@@ -2915,8 +2915,6 @@ CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 🌊　台湾,#genre#
 中天ᴴᴰ,http://198.16.100.186:8278/ctizhonghe/playlist.m3u8?tid=MB6B3888954738889547&ct=19254&tsum=d0cb922e44e8a16bea598530697c581e
 中天新闻,https://smart.pendy.dpdns.org/Smart.php?id=ctinews
-中天新闻,https://gdfire2.67890123.cn:8088/live/ztxw01.m3u8
-中天新闻,https://gdfire2.67890123.cn:8088/live/ztxw201.m3u8
 中天亚洲,https://smart.pendy.dpdns.org/Smart.php?id=ctiasia_twn
 中天娱乐,https://smart.pendy.dpdns.org/Smart.php?id=ctient
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
