@@ -733,6 +733,9 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 梅州五华综合,http://120.198.101.106:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 梅州五华综合,http://218.15.183.23:9901/tsfile/live/23000_1.m3u8
 ☘️　港澳,#genre#
+凤凰资讯,http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF%E5%8F%B0
+凤凰中文,http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87%E5%8F%B0
+凤凰香港,http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF%E5%8F%B0
 凤凰资讯,http://bx.757888.xyz/api.php?id=fhzx
 凤凰资讯,http://zhwl.8866.org:8811/tsfile/live/1001_1.m3u8
 凤凰资讯,https://smart.pendy.dpdns.org/Smart.php?id=phoenixinfo_hd
@@ -759,8 +762,7 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
-凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
+TVB翡翠,http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=%E7%BF%A1%E7%BF%A0%E5%8F%B0
 TVB翡翠,http://bx.757888.xyz/api.php?id=fct
 TVB翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
 TVB翡翠,http://php.jdshipin.com/PLTV/iptv.php?id=fct4
@@ -773,6 +775,7 @@ TVB翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 TVB翡翠,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 TVB翡翠,http://php.jdshipin.com/smt.php?id=jade_twn
 TVB翡翠,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
+TVB翡翠,https://smt.1789.dpdns.org/smt3.2.1.php?id=Tvbjade
 TVB新闻,http://bx.757888.xyz/api.php?id=wxxw
 TVB新闻,http://erp.giihgtidg.com:8080/live/wxxw01.m3u8
 TVB新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
@@ -791,7 +794,6 @@ TVB华丽,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali2
 TVB华丽,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 TVB华丽,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 TVB华丽,http://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
-TVB娱乐,http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB娱乐新闻
 TVB娱乐,https://smart.pendy.dpdns.org/Smart.php?id=Tvbentertainment
 TVB娱乐,http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
 TVB娱乐,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbylxw
@@ -832,8 +834,6 @@ HOY 77,http://ali.hlspull.yximgs.com/live/awei_hoy77.flv
 Hoy 78,https://gdfire2.67890123.cn:8088/live/hoy7801.m3u8
 HOY 78,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy78.flv
 HOY 78,https://smart.pendy.dpdns.org/Smart.php?id=hoycaijing_twn
-ViuTV,http://api.mytv666.top/api/qwt.php?t=香港频道&id=ViuTV
-ViuTV6,http://api.mytv666.top/api/qwt.php?t=香港频道&id=ViuTV6
 ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 ViuTV,http://php.jdshipin.com/PLTV/iptv.php?id=viutv2
@@ -956,7 +956,6 @@ TVB星河,http://php.jdshipin.com/PLTV/iptv.php?id=tvbxh
 TVB星河,http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
 TVB星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 TVB星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxh
-TVB功夫,http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB功夫台(粤)
 TVB功夫,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 TVB千禧经典,https://smart.pendy.dpdns.org/Smart.php?id=Tvbclassic
 TVB千禧经典,http://php.jdshipin.com/smt.php?id=Tvbclassic
