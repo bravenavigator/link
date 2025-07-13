@@ -785,6 +785,7 @@ TVB新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 TVB新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 TVB新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=wxxwt
 TVB新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
+TVB新闻,https://smt.1789.dpdns.org/smt3.2.1.php?id=inews_twn
 TVB华丽,https://smart.pendy.dpdns.org/Smart.php?id=Tvbjade
 TVB华丽,http://php.jdshipin.com/smt.php?id=Tvbjade
 TVB华丽,http://php.jdshipin.com/PLTV/iptv.php?id=huali
@@ -795,6 +796,7 @@ TVB华丽,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 TVB华丽,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 TVB华丽,http://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
 TVB娱乐,https://smart.pendy.dpdns.org/Smart.php?id=Tvbentertainment
+TVB娱乐,https://smt.1789.dpdns.org/smt3.2.1.php?id=Tvbentertainment
 TVB娱乐,http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
 TVB娱乐,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbylxw
 TVB娱乐,http://php.jdshipin.com/smt.php?id=Tvbentertainment
@@ -816,7 +818,8 @@ TVB J2,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
 NOW新闻,https://a.ru8.dpdns.org/now/332/master.m3u8
 NOW新闻,https://gdfire2.67890123.cn:8088/live/nowxw01.m3u8
 NOW体育,https://gdfire2.67890123.cn:8088/live/nowty201.m3u8
-HOY 77,https://ali.hlspull.yximgs.com/live/xiangjiaogehoy77511.flv
+HOY 77,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy77.flv
+HOY 77,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaogehoy77511.flv
 HOY 77,https://cdn6.163189.xyz/live/hoy/stream.m3u8
 HOY 77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 HOY 77,http://php.jdshipin.com:8880/PLTV/iptv.php?id=hoytv
@@ -830,10 +833,9 @@ HOY 77,http://192.3.130.92:20000/live/hoy/stream.m3u8
 HOY 77,https://cdn5.163189.xyz/live/hoy/stream.m3u8
 HOY 77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 HOY 77,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv2
-HOY 77,http://ali.hlspull.yximgs.com/live/awei_hoy77.flv
-Hoy 78,https://gdfire2.67890123.cn:8088/live/hoy7801.m3u8
 HOY 78,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy78.flv
 HOY 78,https://smart.pendy.dpdns.org/Smart.php?id=hoycaijing_twn
+ViuTV,https://smt.1789.dpdns.org/smt3.2.1.php?id=viu1_twn
 ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 ViuTV,http://php.jdshipin.com/PLTV/iptv.php?id=viutv2
@@ -927,11 +929,12 @@ RTHK32,http://50.7.234.10:8278/rhk32_twn/playlist.m3u8?tid=m941409fa5c86&ct=1833
 澳视体育,http://103.233.191.132:1935/ch4/sport_ch4.live/playlist.m3u8
 澳视体育,http://103.233.191.133:1935/ch4/sport_ch4.live/playlist.m3u8
 澳视体育,http://103.233.191.134:1935/ch4/sport_ch4.live/playlist.m3u8
-澳視澳門,https://149.102.97.122/ch1/ch1.live/playlist.m3u8
+澳视澳门,https://149.102.97.122/ch1/ch1.live/playlist.m3u8
 澳视澳门,https://149.102.97.122/ch2/ch2.live/playlist.m3u8
 澳门资讯,https://149.102.97.122/ch5/info_ch5.live/playlist.m3u8
 澳门综艺,https://149.102.97.122/ch6/hd_ch6.live/playlist.m3u8
 澳视体育,https://149.102.97.122/ch4/sport_ch4.live/playlist.m3u8
+澳视葡文,https://149.102.97.122/ch2/ch2.live/playlist.m3u8
 TVB明珠,https://smart.pendy.dpdns.org/Smart.php?id=pearl_twn
 TVB明珠,http://o12.1678520.xyz/hls/mzt/playlist.m3u8
 TVB明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
@@ -956,7 +959,10 @@ TVB星河,http://php.jdshipin.com/PLTV/iptv.php?id=tvbxh
 TVB星河,http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
 TVB星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 TVB星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxh
+TVB星河,https://smt.1789.dpdns.org/smt3.2.1.php?id=Xinhe
+TVB功夫,https://v2h.1789.dpdns.org/live/yzwx/stream.m3u8
 TVB功夫,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+TVB功夫,http://php.jdshipin.com/PLTV/iptv.php?id=yzwx
 TVB千禧经典,https://smart.pendy.dpdns.org/Smart.php?id=Tvbclassic
 TVB千禧经典,http://php.jdshipin.com/smt.php?id=Tvbclassic
 TVB千禧经典,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
@@ -971,54 +977,16 @@ TVB千禧经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 香港面包,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 🌐　华文,#genre#
-新加坡CHU,https://cdn6.132.us.kg/live/chu/stream.m3u8
-新加坡CH5,https://cdn6.132.us.kg/live/ch5/stream.m3u8
-新加坡CH8,https://cdn6.132.us.kg/live/ch8/stream.m3u8
-新加坡CHU,https://cdn6.163189.xyz/live/chu/stream.m3u8
-新加坡CH5,https://cdn6.163189.xyz/live/ch5/stream.m3u8
-新加坡CH8,https://cdn6.163189.xyz/live/ch8/stream.m3u8
-新加坡CH5,http://192.3.130.92:20003/live/ch5/stream.m3u8
-新加坡CH8,http://192.3.130.92:20003/live/ch8/stream.m3u8
-新加坡CHU,http://192.3.130.92:20003/live/chu/stream.m3u8
-新加坡CH5,http://50.7.234.10:8278/cna/playlist.m3u8?tid=MFAF1272681512726815&ct=19225&tsum=4d6a781648283b1bb018bc5c098432d0
-新加坡CH5,http://50.7.234.10:8278/cna/playlist.m3u8?tid=m75c258e8db6c&ct=18336&tsum=72391487028dc68a70d050b29c3654ee
-八度空间,https://cdn6.163189.xyz/live/8tv/stream.m3u8
-八度空间,https://cdn6.132.us.kg/live/8tv/stream.m3u8
-八度空间,http://192.3.130.92:20003/live/8tv/stream.m3u8
-八度空间,http://php.jdshipin.com/smt.php?id=TV8
-马来西亚Astro欢喜,http://192.3.130.92:20002/smt3.2.1.php?id=Huahee
-马来西亚Astro欢喜,http://php.jdshipin.com:8880/smt.php?id=Huahee
-马来西亚Astro欢喜,http://php.jdshipin.com/smt.php?id=Huahee
-马来西亚astro爱奇,https://smart.pendy.dpdns.org/Smart.php?id=Qiyi
-马来西亚astro爱奇,http://php.jdshipin.com/smt.php?id=Qiyi
-马来西亚Astro AEC,http://192.3.130.92:20002/smt3.2.1.php?id=AEC
-马来西亚Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
-马来西亚Astro AEC,http://php.jdshipin.com:8880/smt.php?id=AEC
+新加坡 M台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+马来西亚astro奇艺,https://smart.pendy.dpdns.org/Smart.php?id=Qiyi
+马来西亚astro奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
+马来西亚astro奇艺,https://smt.1789.dpdns.org/smt3.2.1.php?id=Qiyi
+马来西亚Astro AOD,https://smt.1789.dpdns.org/smt3.2.1.php?id=Aodhd
 马来西亚Astro AOD,http://php.jdshipin.com:8880/smt.php?id=Aodhd
-马来西亚Astro QJ,http://192.3.130.92:20002/smt3.2.1.php?id=Quanjia
-马来西亚Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
-马来西亚Astro QJ,http://php.jdshipin.com:8880/smt.php?id=Quanjia
-美亚电影,https://mysupertv.pendy.dpdns.org/CMAM/cmam.m3u8
-美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
-美亚电影,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
-美亚电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
-美亚电影,http://php.jdshipin.com/PLTV/iptv.php?id=meiya
-美亚电影,http://jxiptv.dpdns.org/stream/tvb/null-8/master.m3u8
-美亚电影,http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MC6C9419277694192776&ct=19234&tsum=43f9d2e13c7cbbce7e5c5ec94fa38750
-美亚电影,http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MFDF2848449728484497&ct=19211&tsum=f65f39620c24fee2e633c4727cc48727
-美亚台湾,http://ali.hlspull.yximgs.com/live/awei_mydy.flv
 美亚国语,http://fr-us7.jdiptv.cc/live/xgmydygy.m3u8?kdstime=1743859381&kdssign=0a4319dd594b828e5ba42925247e6dab
-PopC,http://fr-us7.jdiptv.cc/live/popc.m3u8?kdstime=1743859248&kdssign=37b16f70cf1353cd79729559de2a49a4
-PopC,https://mysupertv.pendy.dpdns.org/PopC/popc.m3u8
-PopC,http://jxiptv.dpdns.org/stream/tvb/popc/master.m3u8
-天映频道,https://mysupertv.pendy.dpdns.org/TYPD/typd.m3u8
 天映频道,https://s1.m16tv.cfd/astro/celestialmovies/AKTV.m3u8
-天映频道,http://192.3.130.92:20002/smt3.2.1.php?id=Celestial
-天映频道,http://php.jdshipin.com:8880/smt.php?id=Celestial
-天映频道,http://php.jdshipin.com/smt.php?id=Celestial
-天映频道,http://jxiptv.dpdns.org/stream/tvb/null-11/master.m3u8
-尼克卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20089
-CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
+PopC,http://fr-us7.jdiptv.cc/live/popc.m3u8?kdstime=1743859248&kdssign=37b16f70cf1353cd79729559de2a49a4
+国家地理,http://198.16.100.186:8278/natgeotamil_raj/playlist.m3u8?tid=MC8C8508198685081986&ct=19249&tsum=211a7c56c1dd113e10eae565520483d0
 📺　北京,#genre#
 北京卫视,http://223.241.247.214:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://60.174.40.117:85/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
