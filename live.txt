@@ -710,10 +710,11 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 东莞生活资讯,https://stream.sun0769.com/dgrtv1/mp4tv2_800/index.m3u8
 东莞新闻综合,http://php.jdshipin.com:8880/0769.php?id=xwzh
 东莞生活资讯,http://php.jdshipin.com:8880/0769.php?id=shzx
-湛江综合
-http://gbtv-hls-wjq.zjwtv.com/zjtv/zhpd.flv
-湛江公共
-http://gbtv-hls-wjq.zjwtv.com/zjtv/ggpd.flv
+中山综合,http://v.zsbtv.com.cn/lsdream/qTl38me/1000/live.m3u8
+肇庆综合,http://zmylivestream.nfnews.com/zmy_slive/27872.m3u8
+肇庆生活服务,http://zmylivestream.nfnews.com/zmy_slive/27871.m3u8
+湛江综合,http://gbtv-hls-wjq.zjwtv.com/zjtv/zhpd.flv
+湛江公共,http://gbtv-hls-wjq.zjwtv.com/zjtv/ggpd.flv
 梅州综合,http://120.198.101.106:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 客家生活,http://120.198.101.106:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 梅州导视,http://120.198.101.106:9901/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -725,12 +726,9 @@ http://gbtv-hls-wjq.zjwtv.com/zjtv/ggpd.flv
 梅州五华综合,http://120.198.101.106:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 梅州五华综合,http://218.15.183.23:9901/tsfile/live/23000_1.m3u8
 ☘️　港澳,#genre#
-凤凰资讯,
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzx.flv
-凤凰中文,
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzw.flv
-凤凰香港,
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhxg.flv
+凤凰资讯,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzx.flv
+凤凰中文,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzw.flv
+凤凰香港,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhxg.flv
 凤凰资讯,http://bx.757888.xyz/api.php?id=fhzx
 凤凰资讯,http://zhwl.8866.org:8811/tsfile/live/1001_1.m3u8
 凤凰资讯,https://smart.pendy.dpdns.org/Smart.php?id=phoenixinfo_hd
@@ -811,6 +809,8 @@ TVB J2,http://php.jdshipin.com/PLTV/iptv.php?id=tvbp
 TVB J2,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
 NOW新闻,https://a.ru8.dpdns.org/now/332/master.m3u8
 NOW新闻,https://gdfire2.67890123.cn:8088/live/nowxw01.m3u8
+NOW爆谷,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaoge1116163133.flv
+NOW星影,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaogef31fdg31g1gdg.flv
 NOW体育,https://gdfire2.67890123.cn:8088/live/nowty201.m3u8
 HOY 77,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy77.flv
 HOY 77,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaogehoy77511.flv
