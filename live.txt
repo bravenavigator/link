@@ -2976,7 +2976,6 @@ EYE-戏剧,https://smart.pendy.dpdns.org/Smart.php?id=eyetvxiju_twn
 新加坡Channel News Asia,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 卡塔尔AL Jazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 卡塔尔AL Jazeera,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-卡塔尔AL Jazeera,https://epg.pw/stream/b7ed4a30861d17378eae7b5b2ba31e8d12f8d6679a4e66cd8425dda5f6eff50a.m3u8
 俄罗斯Russia Today EN,https://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
 俄罗斯Russia Today EN,http://69.64.57.208:8080/russiatoday/playlist.m3u8
 俄罗斯Russia Today FR,http://69.64.57.208:8080/rtfrance/playlist.m3u8
