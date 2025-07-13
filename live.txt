@@ -2978,36 +2978,25 @@ EYE-戏剧,https://smart.pendy.dpdns.org/Smart.php?id=eyetvxiju_twn
 亚洲旅游,https://smart.pendy.dpdns.org/Smart.php?id=asiatravel_twn
 靖天卡通,https://smart.pendy.dpdns.org/Smart.php?id=jingtiancartoon_twn
 🌏　海外,#genre#
-美国Fox News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-美国CBN News,https://bcovlive-a.akamai.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 美国Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-美国Bloomberg HT,https://liveprodusphoenixeast.akamaized.net/USPhx-/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
 美国Bloomberg HT,https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
 美国YahooFinance,https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 美国WildEarth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-美国HBO East,http://41.205.93.154/HBO/index.m3u8
-美国Tennis Channel,https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
-美国Fight Network,https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
+英国Reuters français,http://69.64.57.208/rtfrance/playlist.m3u8
+德国Motorvisison TV,https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+法国Fashion,https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
+法国Fashion,https://fashs043.cloudycdn.services/scte/sftv2/playlist.m3u8
+法国Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+新加坡Channel News Asia,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 卡塔尔AL Jazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 卡塔尔AL Jazeera,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-卡塔尔AL Jazeera,https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
 卡塔尔AL Jazeera,https://epg.pw/stream/b7ed4a30861d17378eae7b5b2ba31e8d12f8d6679a4e66cd8425dda5f6eff50a.m3u8
 俄罗斯Russia Today EN,https://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
 俄罗斯Russia Today EN,http://69.64.57.208:8080/russiatoday/playlist.m3u8
 俄罗斯Russia Today FR,http://69.64.57.208:8080/rtfrance/playlist.m3u8
 俄罗斯Известия,https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
-金砖英文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
-金砖英文,http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
-法国Fashion,https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
-法国Fashion,https://fashs043.cloudycdn.services/scte/sftv2/playlist.m3u8
-法国Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-英国Reuters français,http://69.64.57.208/rtfrance/playlist.m3u8
-德国Motorvisison TV,https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
-新加坡Channel News Asia,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-新加坡Channel News Asia,,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 韩国ArirangTV,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 韩国MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-韩国KBC,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 印度WION,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 印度Travexp,https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
 泰国ASTV News,http://news1.live14.com/stream/news1_hi.m3u8
