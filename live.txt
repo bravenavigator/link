@@ -710,6 +710,10 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 东莞生活资讯,https://stream.sun0769.com/dgrtv1/mp4tv2_800/index.m3u8
 东莞新闻综合,http://php.jdshipin.com:8880/0769.php?id=xwzh
 东莞生活资讯,http://php.jdshipin.com:8880/0769.php?id=shzx
+湛江综合
+http://gbtv-hls-wjq.zjwtv.com/zjtv/zhpd.flv
+湛江公共
+http://gbtv-hls-wjq.zjwtv.com/zjtv/ggpd.flv
 梅州综合,http://120.198.101.106:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 客家生活,http://120.198.101.106:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 梅州导视,http://120.198.101.106:9901/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -721,6 +725,12 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 梅州五华综合,http://120.198.101.106:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 梅州五华综合,http://218.15.183.23:9901/tsfile/live/23000_1.m3u8
 ☘️　港澳,#genre#
+凤凰资讯,
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzx.flv
+凤凰中文,
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzw.flv
+凤凰香港,
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhxg.flv
 凤凰资讯,http://bx.757888.xyz/api.php?id=fhzx
 凤凰资讯,http://zhwl.8866.org:8811/tsfile/live/1001_1.m3u8
 凤凰资讯,https://smart.pendy.dpdns.org/Smart.php?id=phoenixinfo_hd
