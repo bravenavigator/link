@@ -211,11 +211,12 @@ CCTV4中文国际,http://112.123.243.37:50085/tsfile/live/0004_1.m3u8?key=txiptv
 CCTV10科教,http://112.123.243.37:50085/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV1综合,http://112.123.243.37:50085/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV5体育,http://112.123.243.37:50085/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV风云音乐,http://183.10.180.11:9901/tsfile/live/1009_1.m3u8?key=txiptv
-CCTV世界地理,http://183.10.180.11:9901/tsfile/live/1008_1.m3u8?key=txiptv
-CCTV第一剧场,http://183.10.180.11:9901/tsfile/live/1082_1.m3u8?key=txiptv
-CCTV风云剧场,http://183.10.180.11:9901/tsfile/live/1032_1.m3u8?key=txiptv
-CCTV风云足球,http://183.10.180.11:9901/tsfile/live/1007_1.m3u8?key=txiptv
+CCTV风云音乐,http://183.10.180.11:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV世界地理,http://183.10.180.11:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV第一剧场,http://183.10.180.11:9901/tsfile/live/1082_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV风云剧场,http://183.10.180.11:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV风云足球,http://183.10.180.11:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV热播剧场,http://183.10.180.11:9901/tsfile/live/1083_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV兵器科技,http://43.143.254.239:36326/hls/87/index.m3u8
 CCTV世界地理,http://43.143.254.239:36326/hls/88/index.m3u8
 CCTV央视台球,http://43.143.254.239:36326/hls/74/index.m3u8
