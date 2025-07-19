@@ -927,8 +927,7 @@ ViuTV6,http://php.jdshipin.com:8880/smt.php?id=viusix_twn
 ViuTV6,http://50.7.234.10:8278/viusix_twn/playlist.m3u8?tid=MD7D9950629799506297&ct=19234&tsum=83ba3013be3e325b775bcd348b38eab1
 ViuTV6,http://50.7.234.10:8278/viusix_twn/playlist.m3u8?tid=MF0F4217630642176306&ct=19249&tsum=33becc0fe8466036420dbbb4727dc49e
 ViuTV6,http://50.7.234.10:8278/viusix_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=717813846fc6b398ae2d3433772d8b99
-亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
-亚洲卫视,https://gat.tv12.xyz/173.m3u8
+亚洲卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 RTHK31,http://php.jdshipin.com/PLTV/iptv.php?id=rthk31
 RTHK32,http://php.jdshipin.com/PLTV/iptv.php?id=rthk32
 RTHK31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
@@ -1505,6 +1504,13 @@ PopC,http://fr-us7.jdiptv.cc/live/popc.m3u8?kdstime=1743859248&kdssign=37b16f70c
 湖南卫视,http://60.174.40.117:85/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://218.89.240.144:59901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://223.241.247.214:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南都市,http://php.jdshipin.com:8880/iptv.php?id=hnds
+湖南经视,http://php.jdshipin.com:8880/iptv.php?id=hnjs
+湖南国际,http://php.jdshipin.com:8880/iptv.php?id=hngj
+湖南爱晚,http://php.jdshipin.com:8880/iptv.php?id=hngg 
+湖南娱乐,http://php.jdshipin.com:8880/iptv.php?id=hnyl
+湖南电视剧,http://php.jdshipin.com:8880/iptv.php?id=hndsj
+湖南电影,http://php.jdshipin.com:8880/iptv.php?id=hndy
 湖南都市,http://116.128.243.121:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南经视,http://116.128.243.121:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南娱乐,http://116.128.243.121:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
