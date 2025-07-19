@@ -1515,7 +1515,7 @@ PopC,http://fr-us7.jdiptv.cc/live/popc.m3u8?kdstime=1743859248&kdssign=37b16f70c
 湖南经视,http://116.128.243.121:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南娱乐,http://116.128.243.121:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南都市,http://116.128.242.83:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南公共,http://116.128.242.83:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南爱晚,http://116.128.242.83:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南经视,http://116.128.242.83:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南电视剧,http://116.128.242.83:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南娱乐,http://116.128.242.83:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -3105,6 +3105,7 @@ EYE-戏剧,https://smart.pendy.dpdns.org/Smart.php?id=eyetvxiju_twn
 亚洲旅游,https://smart.pendy.dpdns.org/Smart.php?id=asiatravel_twn
 靖天卡通,https://smart.pendy.dpdns.org/Smart.php?id=jingtiancartoon_twn
 🌏　海外,#genre#
+美国FOX News,https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 美国Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 美国Bloomberg HT,https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
 美国YahooFinance,https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
