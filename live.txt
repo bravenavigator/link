@@ -232,6 +232,7 @@ CCTV风云足球,http://43.143.254.239:36326/hls/84/index.m3u8
 CCTV风云音乐,http://43.143.254.239:55232/hls/80/index.m3u8
 CCTV风云音乐,http://43.143.254.239:36326/hls/83/index.m3u8
 CCTV高尔夫网球,http://43.143.254.239:36326/hls/85/index.m3u8
+CETV早期教育,http://43.143.254.239:36326/hls/92/index.m3u8
 CCTV9纪录,http://113.26.202.52:1299/tsfile/live/0009_1.m3u8
 CCTV1综合,http://113.26.202.52:1299/tsfile/live/0001_1.m3u8
 CCTV6电影,http://113.26.202.52:1299/tsfile/live/0006_1.m3u8
@@ -1524,6 +1525,8 @@ PopC,http://fr-us7.jdiptv.cc/live/popc.m3u8?kdstime=1743859248&kdssign=37b16f70c
 湖南电影,http://113.218.229.47:8081/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南爱晚,http://175.9.40.81:8082/hls/19/index.m3u8
 湖南娱乐,http://175.9.40.81:8082/hls/20/index.m3u8
+金鹰纪实,http://43.143.254.239:36326/hls/44/index.m3u8
+金鹰卡通,http://43.143.254.239:36326/hls/58/index.m3u8
 金鹰卡通,http://59.39.89.130:60901/tsfile/live/0125_25.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://182.114.189.5:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://42.238.235.104:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -2117,7 +2120,7 @@ PopC,http://fr-us7.jdiptv.cc/live/popc.m3u8?kdstime=1743859248&kdssign=37b16f70c
 河南法治,http://1.94.31.214/php/hntv.php?id=hmfz
 河南电视剧,http://1.94.31.214/php/hntv.php?id=hndsj
 梨园频道,http://1.94.31.214/php/hntv.php?id=hnly
-睛彩中原,http://1.94.31.214/php/hntv.php?id=jczy
+河南曲艺,http://1.94.31.214/php/hntv.php?id=jczy
 文物宝库,http://1.94.31.214/php/hntv.php?id=wwbk
 武术世界,http://1.94.31.214/php/hntv.php?id=wspd
 移动戏曲,http://1.94.31.214/php/hntv.php?id=ydxj
@@ -2133,7 +2136,7 @@ PopC,http://fr-us7.jdiptv.cc/live/popc.m3u8?kdstime=1743859248&kdssign=37b16f70c
 河南电视剧,http://xxwx.yoesun.com/xxw/河南网.php?id=hndsj
 武术世界,http://xxwx.yoesun.com/xxw/河南网.php?id=wspd
 文物宝库,http://xxwx.yoesun.com/xxw/河南网.php?id=wwbk
-睛彩中原,http://xxwx.yoesun.com/xxw/河南网.php?id=jczy
+河南曲艺,http://xxwx.yoesun.com/xxw/河南网.php?id=jczy
 移动戏曲,http://xxwx.yoesun.com/xxw/河南网.php?id=ydxj
 大象视界,http://xxwx.yoesun.com/xxw/河南网.php?id=xsj
 武术世界,http://live.dxhmt.cn:9080/live/yshnpre.m3u8
@@ -2172,18 +2175,6 @@ PopC,http://fr-us7.jdiptv.cc/live/popc.m3u8?kdstime=1743859248&kdssign=37b16f70c
 河南法制,http://www.cdnstv.com:6398/hls/1112/index.m3u8
 河南电视剧,http://www.cdnstv.com:6398/hls/1113/index.m3u8
 收藏天下,http://www.cdnstv.com:6398/hls/1118/index.m3u8
-河南新闻,http://504099760.qicp.vip:9901/tsfile/live/1055_1.m3u8
-河南民生,http://504099760.qicp.vip:9901/tsfile/live/1052_1.m3u8
-河南法制,http://504099760.qicp.vip:9901/tsfile/live/1053_1.m3u8
-河南公共,http://504099760.qicp.vip:9901/tsfile/live/1057_1.m3u8
-河南新农村,http://504099760.qicp.vip:9901/tsfile/live/1058_1.m3u8
-河南电视剧,http://504099760.qicp.vip:9901/tsfile/live/1054_1.m3u8
-河南戏曲,http://504099760.qicp.vip:9901/tsfile/live/1061_1.m3u8
-移动戏曲,http://504099760.qicp.vip:9901/tsfile/live/1060_1.m3u8
-睛彩中原,http://504099760.qicp.vip:9901/tsfile/live/1059_1.m3u8
-百姓调解,http://504099760.qicp.vip:9901/tsfile/live/1065_1.m3u8
-风尚河南,http://504099760.qicp.vip:9901/tsfile/live/1066_1.m3u8
-武术世界,http://504099760.qicp.vip:9901/tsfile/live/1062_1.m3u8
 郑州综合,http://nctv.top/IDOEPpiryt/hntv.php?id=zz1
 郑州教育,https://livezzutv.chinamcache.com/live/zb01.m3u8?auth_key=1677911572-0-0-f4af513ba8c09e7801f4700f1573be2c
 郑州新郑一套,http://tvpull.dxhmt.cn:9081/tv/10184-1.m3u8
