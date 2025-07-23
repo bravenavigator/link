@@ -2346,6 +2346,12 @@ PopC,http://fr-us7.jdiptv.cc/live/popc.m3u8?kdstime=1743859248&kdssign=37b16f70c
 延安综合,http://live.cloud.yanews.cn/video/s10001-YATV-1/index.m3u8
 延安公共,http://live.cloud.yanews.cn/video/s10001-YATV-2/index.m3u8
 📺　山西,#genre#
+山西卫视,http://p.ytelc.com/169l/shanxi/shanxi.php?id=shanxi
+山西经济,http://p.ytelc.com/169l/shanxi/shanxi.php?id=shanxijj
+山西影视,http://p.ytelc.com/169l/shanxi/shanxi.php?id=shanxiys
+山西社会与法,http://p.ytelc.com/169l/shanxi/shanxi.php?id=shanxifz
+山西文体生活,http://p.ytelc.com/169l/shanxi/shanxi.php?id=shanxiwt
+山西黄河,http://p.ytelc.com/169l/shanxi/shanxi.php?id=huanghe
 山西卫视,http://42.225.117.174:11199/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 山西卫视,http://121.30.137.26:8081/hls/19/index.m3u8?key=txiptv&playlive=1&authid=0
 山西经济与科技,http://60.223.224.176:8888/newlive/live/hls/53/live.m3u8
