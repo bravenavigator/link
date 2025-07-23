@@ -2090,7 +2090,7 @@ PopC,http://fr-us7.jdiptv.cc/live/popc.m3u8?kdstime=1743859248&kdssign=37b16f70c
 文物宝库,http://xxwx.yoesun.com/xxw/河南网.php?id=wwbk
 河南曲艺,http://xxwx.yoesun.com/xxw/河南网.php?id=jczy
 移动戏曲,http://xxwx.yoesun.com/xxw/河南网.php?id=ydxj
-大象视界,http://xxwx.yoesun.com/xxw/河南网.php?id=xsj
+象视界,http://xxwx.yoesun.com/xxw/河南网.php?id=xsj
 武术世界,http://live.dxhmt.cn:9080/live/yshnpre.m3u8
 文物宝库,http://live.dxhmt.cn:9080/19903718786/503136115d714e6796389709a5c74f77.m3u8
 河南新农村,http://1.192.72.243:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
