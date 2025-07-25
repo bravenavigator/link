@@ -3096,15 +3096,10 @@ EYE-戏剧,https://smart.pendy.dpdns.org/Smart.php?id=eyetvxiju_twn
 美国Bloomberg News,https://smart.pendy.dpdns.org/Smart.php?id=bloomberg_twn
 美国Bloomberg HT,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 美国Bloomberg HT,https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
-英国Skynews,https://smart.pendy.dpdns.org/Smart.php?id=skynews_twn
 美国YahooFinance,https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 美国WildEarth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-英国BBC World News,https://smart.pendy.dpdns.org/Smart.php?id=bbcworldnews_antik
-英国BBC World News,https://smart.pendy.dpdns.org/Smart.php?id=bbcnews_twn
 英国BBC 1,https://smart.pendy.dpdns.org/Smart.php?id=bbc1_antik
 英国BBC 2,https://smart.pendy.dpdns.org/Smart.php?id=bbc2_antik
-英国CBBC,https://smart.pendy.dpdns.org/Smart.php?id=cbbc_antik
-英国More4,https://smart.pendy.dpdns.org/Smart.php?id=more4_antik
 英国RT News,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 英国RT Document,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 英国Reuters français,http://69.64.57.208/rtfrance/playlist.m3u8
@@ -3152,22 +3147,6 @@ EYE-戏剧,https://smart.pendy.dpdns.org/Smart.php?id=eyetvxiju_twn
 韩国OUN,https://live.knou.ac.kr/knou1/live1/playlist.m3u8
 韩国SBS KNN,https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
 韩国TBS Seoul,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
-韩国Arirang HD,https://smart.pendy.dpdns.org/Smart.php?id=arirang_korea
-韩国Yonhap News,https://smart.pendy.dpdns.org/Smart.php?id=yonhapnews_korea
-韩国CBS,https://smart.pendy.dpdns.org/Smart.php?id=cbs_korea
-韩国EBS 1,https://smart.pendy.dpdns.org/Smart.php?id=ebs1_korea
-韩国EBS2,https://smart.pendy.dpdns.org/Smart.php?id=ebs2_korea
-韩国EBS Plus2,https://smart.pendy.dpdns.org/Smart.php?id=ebsplus2_korea
-韩国YTN,https://smart.pendy.dpdns.org/Smart.php?id=ytn_korea
-韩国KBS World 24,https://smart.pendy.dpdns.org/Smart.php?id=kbsworld24_korea
-韩国YTN Science,https://smart.pendy.dpdns.org/Smart.php?id=ytnscience_korea
-韩国YTN Korean,https://smart.pendy.dpdns.org/Smart.php?id=ytnkorean_korea
-韩国YTN DMB,https://smart.pendy.dpdns.org/Smart.php?id=ytndmb_korea
-韩国Apps TV,https://smart.pendy.dpdns.org/Smart.php?id=appongoogle_korea
-韩国All the Kpop,https://smart.pendy.dpdns.org/Smart.php?id=allthekpop_korea
-韩国J the Kpop,https://smart.pendy.dpdns.org/Smart.php?id=jthekpop_korea
-韩国EBS Kids,https://smart.pendy.dpdns.org/Smart.php?id=ebskids_korea
-韩国CGNTV,https://smart.pendy.dpdns.org/Smart.php?id=cgntv_korea
 韩国大田MBC,https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
 韩国丽水MBC,https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 韩国木浦MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8印度WION,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
