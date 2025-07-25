@@ -3101,15 +3101,10 @@ EYE-戏剧,https://smart.pendy.dpdns.org/Smart.php?id=eyetvxiju_twn
 美国WildEarth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 英国BBC World News,https://smart.pendy.dpdns.org/Smart.php?id=bbcworldnews_antik
 英国BBC World News,https://smart.pendy.dpdns.org/Smart.php?id=bbcnews_twn
-英国BBC World News,https://smart.pendy.dpdns.org/Smart.php?id=Bbcnews
 英国BBC 1,https://smart.pendy.dpdns.org/Smart.php?id=bbc1_antik
 英国BBC 2,https://smart.pendy.dpdns.org/Smart.php?id=bbc2_antik
 英国CBBC,https://smart.pendy.dpdns.org/Smart.php?id=cbbc_antik
 英国More4,https://smart.pendy.dpdns.org/Smart.php?id=more4_antik
-英国itv 1,https://smart.pendy.dpdns.org/Smart.php?id=itv1_antik
-英国itv 2,https://smart.pendy.dpdns.org/Smart.php?id=itv2_antik
-英国Euronews,https://smart.pendy.dpdns.org/Smart.php?id=euronews_antik
-英国Channel 4,https://smart.pendy.dpdns.org/Smart.php?id=channel4_antik
 英国RT News,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 英国RT Document,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 英国Reuters français,http://69.64.57.208/rtfrance/playlist.m3u8
