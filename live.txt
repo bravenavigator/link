@@ -3142,20 +3142,6 @@ EYE-戏剧,https://smart.pendy.dpdns.org/Smart.php?id=eyetvxiju_twn
 新加坡MeWatch Ch U,https://smart.pendy.dpdns.org/Smart.php?id=Mewatch_chU
 新加坡MeWatch Suria,https://smart.pendy.dpdns.org/Smart.php?id=Mewatch_Suria
 新加坡MeWatch Vasantham,https://smart.pendy.dpdns.org/Smart.php?id=Mewatch_Vasantham
-日本NHK World,https://smart.pendy.dpdns.org/Smart.php?id=nhkworld_japan
-日本NHK-総合-2,https://smart.pendy.dpdns.org/Smart.php?id=nhkg_japan
-日本NHK-E,https://smart.pendy.dpdns.org/Smart.php?id=nhke_japan
-日本テレビ朝日 Asahi TV,https://smart.pendy.dpdns.org/Smart.php?id=asahitv_japan
-日本JET 綜合,https://smart.pendy.dpdns.org/Smart.php?id=jettv_japan
-日本テレビ東京 Tokyo TV,https://smart.pendy.dpdns.org/Smart.php?id=tokyotv_japan
-日本TOKYOMX,https://smart.pendy.dpdns.org/Smart.php?id=tokyomx_japan
-日本NHKBS1,https://smart.pendy.dpdns.org/Smart.php?id=nhkbs1_japan
-日本NHKBSプレミア Premium,https://smart.pendy.dpdns.org/Smart.php?id=nhkpremium_japan
-日本BSジャパン 181,https://smart.pendy.dpdns.org/Smart.php?id=bs181_japan
-日本BSフジ BS Fuji,https://smart.pendy.dpdns.org/Smart.php?id=bsfuji_japan
-日本CNA Japan,https://smart.pendy.dpdns.org/Smart.php?id=cna_japan
-日本BS-TBS,https://smart.pendy.dpdns.org/Smart.php?id=bstbs_japan
-日本NHK Oaska,https://smart.pendy.dpdns.org/Smart.php?id=nhkosaka_japan
 韩国ArirangTV,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 韩国MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 韩国BBS,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
@@ -3204,19 +3190,8 @@ EYE-戏剧,https://smart.pendy.dpdns.org/Smart.php?id=eyetvxiju_twn
 泰国TPTV,https://smart.pendy.dpdns.org/Smart.php?id=tptv_pat
 泰国ASTV News,http://news1.live14.com/stream/news1_hi.m3u8
 泰国PBS,http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
-越南ANTV,https://smart.pendy.dpdns.org/Smart.php?id=viet_antv
-越南VTV 1,https://smart.pendy.dpdns.org/Smart.php?id=viet_vtv1
-越南VTV 7,https://smart.pendy.dpdns.org/Smart.php?id=viet_vtv7
-越南HTV 7,https://smart.pendy.dpdns.org/Smart.php?id=viet_htv7
-越南HTV 9,https://smart.pendy.dpdns.org/Smart.php?id=viet_htv9
-越南BPTV 2,https://smart.pendy.dpdns.org/Smart.php?id=viet_bptv2
-越南Ca Mau TV,https://smart.pendy.dpdns.org/Smart.php?id=viet_camautv
-越南Danang TV1 HD,https://smart.pendy.dpdns.org/Smart.php?id=viet_danangtv1
-越南Danang TV2 HD,https://smart.pendy.dpdns.org/Smart.php?id=viet_danangtv2
-越南HBTV HD,https://smart.pendy.dpdns.org/Smart.php?id=viet_hbtv
-越南PTTH 1,https://smart.pendy.dpdns.org/Smart.php?id=viet_ptth1
 马来西亚TV1,https://smart.pendy.dpdns.org/Smart.php?id=TV1
-马来西亚TV1 backup,https://smart.pendy.dpdns.org/Smart.php?id=TV1_backup
+马来西亚TV1,https://smart.pendy.dpdns.org/Smart.php?id=TV1_backup
 马来西亚TV2,https://smart.pendy.dpdns.org/Smart.php?id=TV2
 马来西亚NTV7,https://smart.pendy.dpdns.org/Smart.php?id=NTV7
 马来西亚TV8,https://smart.pendy.dpdns.org/Smart.php?id=TV8
