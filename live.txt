@@ -436,6 +436,7 @@ CETV中国教育1,http://gmxw.7766.org:808/hls/122/index.m3u8
 北京卫视,http://www.qhjx.top:18000/udp/238.255.2.81:5999
 天津卫视,http://www.qhjx.top:18000/udp/238.255.2.99:5999
 新疆卫视,http://www.qhjx.top:18000/udp/238.255.2.66:5999
+内蒙古卫视,http://www.qhjx.top:18000/udp/238.255.2.53:5999
 宁夏卫视,http://www.qhjx.top:18000/udp/238.255.2.75:5999
 东方卫视,http://120.76.248.139/live/bfgd/4200000093.m3u8
 海南卫视,http://120.76.248.139/live/bfgd/4200000473.m3u8
@@ -3138,7 +3139,8 @@ EYE-戏剧,https://smart.pendy.dpdns.org/Smart.php?id=eyetvxiju_twn
 韩国TBS Seoul,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 韩国大田MBC,https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
 韩国丽水MBC,https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
-韩国木浦MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8印度WION,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+韩国木浦MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+朝鲜KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 泰国Channel 5 Thailand,https://smart.pendy.dpdns.org/Smart.php?id=ch5_pat
 泰国Channel 7 Thailand,https://smart.pendy.dpdns.org/Smart.php?id=ch7_pat
 泰国PPTV Thailand1,https://smart.pendy.dpdns.org/Smart.php?id=pptv_pat
@@ -3199,6 +3201,7 @@ EYE-戏剧,https://smart.pendy.dpdns.org/Smart.php?id=eyetvxiju_twn
 印度尼西亚iNews TV,https://smart.pendy.dpdns.org/Smart.php?id=Inewstv
 印度尼西亚CNBC Indonesia,https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/pikotv.m3u8
 印度尼西亚CNN Indonésia,https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w366707841_b384000_sleng.m3u8
+印度WION,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 印度Sun TV HD,https://smart.pendy.dpdns.org/Smart.php?id=Suntv
 印度Star Vijay,https://smart.pendy.dpdns.org/Smart.php?id=Starvijay
 印度Colors Tamil,https://smart.pendy.dpdns.org/Smart.php?id=Colorstam
