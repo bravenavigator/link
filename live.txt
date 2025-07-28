@@ -3107,9 +3107,9 @@ EYE-戏剧,https://smart.pendy.dpdns.org/Smart.php?id=eyetvxiju_twn
 卡塔尔AL Jazeera,https://smart.pendy.dpdns.org/Smart.php?id=aljazeera_twn
 美国FOX News,https://smart.pendy.dpdns.org/Smart.php?id=foxnews_twn
 美国FOX News,https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
-美国CNN,https://smart.pendy.dpdns.org/Smart.php?id=Cnn
+美国CNN News,https://smart.pendy.dpdns.org/Smart.php?id=Cnn
 美国ABC News,https://smart.pendy.dpdns.org/Smart.php?id=abcnews_glo
-美国CBS HD,https://smart.pendy.dpdns.org/Smart.php?id=cbshd_glo
+美国CBS,https://smart.pendy.dpdns.org/Smart.php?id=cbshd_glo
 美国CBSN,https://smart.pendy.dpdns.org/Smart.php?id=cbsn_glo
 美国CBN,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 美国Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
