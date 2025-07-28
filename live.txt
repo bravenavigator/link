@@ -3099,14 +3099,20 @@ EYE-戏剧,https://smart.pendy.dpdns.org/Smart.php?id=eyetvxiju_twn
 亚洲旅游,https://smart.pendy.dpdns.org/Smart.php?id=asiatravel_twn
 靖天卡通,https://smart.pendy.dpdns.org/Smart.php?id=jingtiancartoon_twn
 🌏　海外,#genre#
+卡塔尔AL Jazeera,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
+卡塔尔AL Jazeera,https://live-hls-v3-aje.getaj.net/AJE-V3/01.m3u8
+卡塔尔AL Jazeera,https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+卡塔尔AL Jazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+卡塔尔AL Jazeera,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+卡塔尔AL Jazeera,https://smart.pendy.dpdns.org/Smart.php?id=aljazeera_twn
 美国FOX News,https://smart.pendy.dpdns.org/Smart.php?id=foxnews_twn
 美国FOX News,https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+美国CNN,https://smart.pendy.dpdns.org/Smart.php?id=Cnn
 美国ABC News,https://smart.pendy.dpdns.org/Smart.php?id=abcnews_glo
 美国CBS HD,https://smart.pendy.dpdns.org/Smart.php?id=cbshd_glo
-美国CBSN HD,https://smart.pendy.dpdns.org/Smart.php?id=cbsn_glo
-美国Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+美国CBSN,https://smart.pendy.dpdns.org/Smart.php?id=cbsn_glo
 美国CBN,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
-美国CNN International,https://smart.pendy.dpdns.org/Smart.php?id=Cnn
+美国Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 美国Bloomberg News,https://smart.pendy.dpdns.org/Smart.php?id=bloomberg_twn
 美国Bloomberg HT,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 美国Bloomberg HT,https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
@@ -3120,12 +3126,6 @@ EYE-戏剧,https://smart.pendy.dpdns.org/Smart.php?id=eyetvxiju_twn
 德国DW (Deutsch),https://smart.pendy.dpdns.org/Smart.php?id=dw_twn
 德国Motorvisison TV,https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 法国France 24,https://smart.pendy.dpdns.org/Smart.php?id=france24_twn
-卡塔尔AL Jazeera,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
-卡塔尔AL Jazeera,https://live-hls-v3-aje.getaj.net/AJE-V3/01.m3u8
-卡塔尔AL Jazeera,https://live-hls-web-aje.getaj.net/AJE/02.m3u8
-卡塔尔AL Jazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-卡塔尔AL Jazeera,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-卡塔尔AL Jazeera,https://smart.pendy.dpdns.org/Smart.php?id=aljazeera_twn
 新加坡Channel News Asia,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 新加坡Channel News Asia,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 新加坡Channel 5,https://smart.pendy.dpdns.org/Smart.php?id=Channel5HD
