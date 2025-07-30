@@ -95,6 +95,22 @@ CCTV4K高清,http://www.qhjx.top:18000/udp/238.255.2.139:5999
 CETV早期教育,http://www.qhjx.top:18000/udp/238.255.2.143:5999
 CETV中国教育1,http://www.qhjx.top:18000/udp/238.255.2.105:5999
 中华美食,http://www.qhjx.top:18000/udp/238.255.2.142:5999
+CCTV兵器科技,http://majian.ixiaobai.net:58888/rtp/239.37.0.084:5540
+CCTV世界地理,http://majian.ixiaobai.net:58888/rtp/239.37.0.079:5540
+CCTV文化精品,http://majian.ixiaobai.net:58888/rtp/239.37.0.083:5540
+CCTV风云音乐,http://majian.ixiaobai.net:58888/rtp/239.37.0.081:5540
+CCTV风云剧场,http://majian.ixiaobai.net:58888/rtp/239.37.0.114:5540
+CCTV怀旧剧场,http://majian.ixiaobai.net:58888/rtp/239.37.0.082:5540
+CCTV第一剧场,http://majian.ixiaobai.net:58888/rtp/239.37.0.078:5540
+CCTV卫生健康,http://majian.ixiaobai.net:58888/rtp/239.37.0.229:5540
+CCTV电视指南,http://majian.ixiaobai.net:58888/rtp/239.37.0.115:5540
+CCTV风云足球,http://majian.ixiaobai.net:58888/rtp/239.37.0.080:5540
+CCTV高尔夫网球,http://majian.ixiaobai.net:58888/rtp/239.37.0.230:5540
+CCTV央视台球,http://majian.ixiaobai.net:58888/rtp/239.37.0.163:5540
+CCTV4K高清,http://majian.ixiaobai.net:58888/rtp/239.37.0.34:5540
+中国教育1,http://majian.ixiaobai.net:58888/rtp/239.37.0.188:5540
+中国教育1,http://majian.ixiaobai.net:58888/rtp/239.37.0.193:5540
+中国交通,http://majian.ixiaobai.net:58888/rtp/239.37.0.226:5540
 CCTV5+体育赛事,http://120.76.248.139/live/bfgd/4200000246.m3u8
 CCTV7国防军事,http://120.76.248.139/live/bfgd/4200000127.m3u8
 CCTV11戏曲,http://120.76.248.139/live/bfgd/4200000130.m3u8
@@ -647,6 +663,7 @@ CGTN俄语,http://127.0.0.1
 CGTN西语,http://127.0.0.1
 CGTN阿语,http://127.0.0.1
 CGTN纪录,http://127.0.0.1
+Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
 CGTN英语,https://0472.org/hls/cgtn.m3u8
 CGTN纪录,https://0472.org/hls/cgtnd.m3u8
 CGTN俄语,https://0472.org/hls/cgtne.m3u8
@@ -1069,6 +1086,13 @@ PopC,http://fr-us7.jdiptv.cc/live/popc.m3u8?kdstime=1743859248&kdssign=37b16f70c
 北京纪实科教,http://43.143.254.239:55232/hls/69/index.m3u8
 北京纪实科教8K,https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
 北京纪实科教8K,http://8kdown.brtvcloud.com/8klive/8kliveok.m3u8?txSecret=a9cfb6acb08a9fe154a8ba6d0226cfef&txTime=71697CD5
+BRTV纪实科教,http://majian.ixiaobai.net:58888/rtp/239.37.0.101:5540
+BRTV卡酷少儿,http://majian.ixiaobai.net:58888/rtp/239.37.0.76:5540
+睛彩羽毛球,http://majian.ixiaobai.net:58888/rtp/239.37.0.40:5540
+睛彩竞技,http://majian.ixiaobai.net:58888/rtp/239.37.0.41:5540
+睛彩广场舞,http://majian.ixiaobai.net:58888/rtp/239.37.0.42:5540
+睛彩广场舞,http://majian.ixiaobai.net:58888/rtp/239.37.0.223:5540
+睛彩竞技,http://majian.ixiaobai.net:58888/rtp/239.37.0.215:5540
 淘电影,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.250:8001
 睛彩竞技,http://thhomes.cn:4000/rtp/239.3.1.125:8001
 睛彩篮球,http://thhomes.cn:4000/rtp/239.3.1.126:8001
@@ -1080,6 +1104,11 @@ PopC,http://fr-us7.jdiptv.cc/live/popc.m3u8?kdstime=1743859248&kdssign=37b16f70c
 东方卫视,http://112.46.105.20:8009/hls/31/index.m3u8
 上海都市,http://8.138.7.223/tv/shtv.php?id=ds
 东方财经,http://115.150.63.77:9902/tsfile/live/1042_1.m3u8
+生活时尚,http://majian.ixiaobai.net:58888/rtp/239.37.0.240:5540
+乐游频道,http://majian.ixiaobai.net:58888/rtp/239.37.0.236:5540
+法治天地,http://majian.ixiaobai.net:58888/rtp/239.37.0.238:5540
+都市剧场,http://majian.ixiaobai.net:58888/rtp/239.37.0.241:5540
+动漫秀场,http://majian.ixiaobai.net:58888/rtp/239.37.0.242:5540
 都市剧场,http://183.239.236.91:8088/hls/127/index.m3u8
 纪实人文,http://www.qhjx.top:18000/udp/238.255.2.106:5999
 法治天地,http://www.qhjx.top:18000/udp/238.255.2.190:5999
@@ -2834,7 +2863,13 @@ PopC,http://fr-us7.jdiptv.cc/live/popc.m3u8?kdstime=1743859248&kdssign=37b16f70c
 吉林都市,http://61.138.128.226:19901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林公共新闻,http://61.138.128.226:19901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林综艺文化,http://61.138.128.226:19901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-吉林生活,http://61.138.128.226:19901/tsfile/live/1002_1.m3u8?key=txiptv
+吉林教育,http://majian.ixiaobai.net:58888/rtp/239.37.0.126:5540
+吉林篮球,http://majian.ixiaobai.net:58888/rtp/239.37.0.211:5540
+吉林篮球,http://majian.ixiaobai.net:58888/rtp/239.37.0.213:5540
+吉林篮球,http://majian.ixiaobai.net:58888/rtp/239.37.0.214:5540
+吉林篮球,http://majian.ixiaobai.net:58888/rtp/239.37.0.216:5540
+长影频道,http://majian.ixiaobai.net:58888/rtp/239.37.0.125:5540
+吉林生活,http://61.138.128.226:19901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林影视,http://61.138.128.226:19901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林乡村,http://61.138.128.226:19901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林教育,http://61.138.128.226:19901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -3245,7 +3280,7 @@ EYE-戏剧,https://smart.pendy.dpdns.org/Smart.php?id=eyetvxiju_twn
 法国Fashion,https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
 法国Fashion,https://fashs043.cloudycdn.services/scte/sftv2/playlist.m3u8
 法国Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-💫️　儿童,#genre#
+💫　儿童,#genre#
 Baby TV Eng,https://smart.pendy.dpdns.org/Smart.php?id=Babytv
 CBeebies,https://smart.pendy.dpdns.org/Smart.php?id=Cbeebies
 Kids TV,https://smart.pendy.dpdns.org/Smart.php?id=KidsTV
