@@ -3055,13 +3055,13 @@ EYE-戏剧,https://smart.pendy.dpdns.org/Smart.php?id=eyetvxiju_twn
 亚洲旅游,https://smart.pendy.dpdns.org/Smart.php?id=asiatravel_twn
 靖天卡通,https://smart.pendy.dpdns.org/Smart.php?id=jingtiancartoon_twn
 🌏　海外,#genre#
-卡塔尔AL Jazeera,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 卡塔尔AL Jazeera,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
 卡塔尔AL Jazeera,https://live-hls-v3-aje.getaj.net/AJE-V3/01.m3u8
 卡塔尔AL Jazeera,https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 卡塔尔AL Jazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 卡塔尔AL Jazeera,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 卡塔尔AL Jazeera,https://smart.pendy.dpdns.org/Smart.php?id=aljazeera_twn
+卡塔尔AL Jazeera,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 美国FOX News,https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 美国CNN News,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 美国CNN News,https://smart.pendy.dpdns.org/Smart.php?id=Cnn
@@ -3249,6 +3249,7 @@ CHC影迷电影,http://183.239.236.91:8088/hls/92/index.m3u8
 腿抽筋处理方法,https://vod.youlai.cn/7f2828acc5f9432881f3833f3c13c7c5/01d1195f0ae04895852098bbf4f00886-18da40cf01b9dbc6b9b5d04d3cca74b9-sd.mp4
 脚扭伤处理方法,https://vod.youlai.cn/9ad15caadeba46f39630339787ac3bb6/b912d1569e1643ae92a0bd300942503f-5672574782b93ec8561c4b417d0e676d-sd.mp4
 异物插入眼急救法,https://vod.youlai.cn/f5cfb00203964752aaed8ebca1d5cf32/ad515860d7034de28e6b24625fa5564d-ab7a86b8c4699758b4af49ddd309f562-sd.mp4
+
 
 
 
