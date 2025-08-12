@@ -3056,21 +3056,14 @@ EYE-戏剧,https://smart.pendy.dpdns.org/Smart.php?id=eyetvxiju_twn
 美国Bloomberg TV,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 美国Bloomberg TV,https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
 美国YahooFinance,https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
-英国BBC 1,https://smart.pendy.dpdns.org/Smart.php?id=bbc1_antik
-英国BBC 2,https://smart.pendy.dpdns.org/Smart.php?id=bbc2_antik
 英国RT News,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 英国RT Document,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
-英国Reuters français,http://69.64.57.208/rtfrance/playlist.m3u8
+英国RT français,http://69.64.57.208/rtfrance/playlist.m3u8
 加拿大Global News,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 加拿大Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
-德国DW (Deutsch),https://smart.pendy.dpdns.org/Smart.php?id=dw_twn
 德国Motorvisison TV,https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
-法国France 24,https://smart.pendy.dpdns.org/Smart.php?id=france24_twn
 新加坡Channel News Asia,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 新加坡Channel News Asia,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-新加坡Channel 5,https://smart.pendy.dpdns.org/Smart.php?id=Channel5HD
-新加坡Channel 8,https://smart.pendy.dpdns.org/Smart.php?id=Channel8HD
-新加坡Suria,https://smart.pendy.dpdns.org/Smart.php?id=Suria
 俄罗斯Russia Today EN,https://rt-glb.rttv.com/live/rtnews/playlist_2500Kb.m3u8
 俄罗斯Russia Today EN,https://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
 俄罗斯Russia Today EN,http://69.64.57.208:8080/russiatoday/playlist.m3u8
@@ -3095,102 +3088,17 @@ EYE-戏剧,https://smart.pendy.dpdns.org/Smart.php?id=eyetvxiju_twn
 韩国丽水MBC,https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 韩国木浦MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 朝鲜KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-泰国Channel 5 Thailand,https://smart.pendy.dpdns.org/Smart.php?id=ch5_pat
-泰国Channel 7 Thailand,https://smart.pendy.dpdns.org/Smart.php?id=ch7_pat
-泰国PPTV Thailand1,https://smart.pendy.dpdns.org/Smart.php?id=pptv_pat
-泰国Amarin,https://smart.pendy.dpdns.org/Smart.php?id=amarin_pat
-泰国GmmOne,https://smart.pendy.dpdns.org/Smart.php?id=gmmone_pat
-泰国Thairath,https://smart.pendy.dpdns.org/Smart.php?id=thairath_pat
-泰国tpbs,https://smart.pendy.dpdns.org/Smart.php?id=tpbs_pat
-泰国Nbt,https://smart.pendy.dpdns.org/Smart.php?id=nbt_pat
-泰国TPTV,https://smart.pendy.dpdns.org/Smart.php?id=tptv_pat
 泰国ASTV News,http://news1.live14.com/stream/news1_hi.m3u8
 泰国PBS,http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
-马来西亚TV1,https://smart.pendy.dpdns.org/Smart.php?id=TV1
-马来西亚TV1,https://smart.pendy.dpdns.org/Smart.php?id=TV1_backup
-马来西亚TV2,https://smart.pendy.dpdns.org/Smart.php?id=TV2
-马来西亚NTV7,https://smart.pendy.dpdns.org/Smart.php?id=NTV7
-马来西亚TV8,https://smart.pendy.dpdns.org/Smart.php?id=TV8
-马来西亚TV9,https://smart.pendy.dpdns.org/Smart.php?id=TV9
-马来西亚Ria-3,https://smart.pendy.dpdns.org/Smart.php?id=Ria_backup
-马来西亚Al-Hijrah backup,https://smart.pendy.dpdns.org/Smart.php?id=Alhijrah_backup
-马来西亚Awani,https://smart.pendy.dpdns.org/Smart.php?id=Awani
-马来西亚Prima,https://smart.pendy.dpdns.org/Smart.php?id=AAprima1
-马来西亚Prima,https://smart.pendy.dpdns.org/Smart.php?id=AAprima
-马来西亚Astro MTV,https://smart.pendy.dpdns.org/Smart.php?id=AstroMTV
-马来西亚Oasis,https://smart.pendy.dpdns.org/Smart.php?id=Oasis
-马来西亚Siar,https://smart.pendy.dpdns.org/Smart.php?id=Siar
-马来西亚Aura,https://smart.pendy.dpdns.org/Smart.php?id=Aura
-马来西亚Rania,https://smart.pendy.dpdns.org/Smart.php?id=Rania
-马来西亚KBS World,https://smart.pendy.dpdns.org/Smart.php?id=KBS
-马来西亚Boo,https://smart.pendy.dpdns.org/Smart.php?id=Boo
-马来西亚Sony HD,https://smart.pendy.dpdns.org/Smart.php?id=SetOne
-马来西亚华丽台 HD （Wah Lai Toi）,https://smart.pendy.dpdns.org/Smart.php?id=Wlt
-马来西亚欢喜台 HD （Hua Hee Tai）,https://smart.pendy.dpdns.org/Smart.php?id=Huahee
-马来西亚Astro QJ,https://smart.pendy.dpdns.org/Smart.php?id=Quanjia
-马来西亚TVB Jade,https://smart.pendy.dpdns.org/Smart.php?id=Tvbjade
-马来西亚TVB Asia,https://smart.pendy.dpdns.org/Smart.php?id=Tvbasia
-马来西亚TVB Entertainment,https://smart.pendy.dpdns.org/Smart.php?id=Tvbentertainment
-马来西亚TVB Classic,https://smart.pendy.dpdns.org/Smart.php?id=Tvbclassic
-马来西亚AOD,https://smart.pendy.dpdns.org/Smart.php?id=Aodhd
-马来西亚TVB 星河台 Xing He,https://smart.pendy.dpdns.org/Smart.php?id=Xinhe
-马来西亚爱奇艺 iQiyi,https://smart.pendy.dpdns.org/Smart.php?id=Qiyi
-马来西亚Goshop,https://smart.pendy.dpdns.org/Smart.php?id=Goshop
-马来西亚Celestial Movies HD,https://smart.pendy.dpdns.org/Smart.php?id=Celestial
-马来西亚Astro LOL,https://smart.pendy.dpdns.org/Smart.php?id=Astro_lol
-马来西亚Astro Rusi,https://smart.pendy.dpdns.org/Smart.php?id=Rusi
-马来西亚WION,https://smart.pendy.dpdns.org/Smart.php?id=Wion
-马来西亚RTM Asean,https://smart.pendy.dpdns.org/Smart.php?id=Rtmasean
-印度尼西亚TVRI National,https://smart.pendy.dpdns.org/Smart.php?id=TVRI
-印度尼西亚RCTI,https://smart.pendy.dpdns.org/Smart.php?id=Rcti
-印度尼西亚Kompass TV,https://smart.pendy.dpdns.org/Smart.php?id=Kompass
-印度尼西亚Berita Satu,https://smart.pendy.dpdns.org/Smart.php?id=BeritaSatu_eko
-印度尼西亚Indosiar HD,https://smart.pendy.dpdns.org/Smart.php?id=Indosiar
-印度尼西亚MNC TV,https://smart.pendy.dpdns.org/Smart.php?id=Mnctv
-印度尼西亚Trans 7,https://smart.pendy.dpdns.org/Smart.php?id=Trans7_eko
-印度尼西亚Metro TV,https://smart.pendy.dpdns.org/Smart.php?id=metrotv_eko
-印度尼西亚SCTV,https://smart.pendy.dpdns.org/Smart.php?id=SCTV
-印度尼西亚TVMU,https://smart.pendy.dpdns.org/Smart.php?id=TVMU_eko
-印度尼西亚GTV,https://smart.pendy.dpdns.org/Smart.php?id=Gtv
-印度尼西亚iNews TV,https://smart.pendy.dpdns.org/Smart.php?id=Inewstv
 印度尼西亚CNBC Indonesia,https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/pikotv.m3u8
 印度尼西亚CNN Indonésia,https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w366707841_b384000_sleng.m3u8
 印度WION,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-印度Sun TV HD,https://smart.pendy.dpdns.org/Smart.php?id=Suntv
-印度Star Vijay,https://smart.pendy.dpdns.org/Smart.php?id=Starvijay
-印度Colors Tamil,https://smart.pendy.dpdns.org/Smart.php?id=Colorstam
-印度Sun Music,https://smart.pendy.dpdns.org/Smart.php?id=Sunmusic
-印度Astro Sunlife,https://smart.pendy.dpdns.org/Smart.php?id=Sunlife
-印度Zee Tamil,https://smart.pendy.dpdns.org/Smart.php?id=Zeetamil
-印度Astro KTV,https://smart.pendy.dpdns.org/Smart.php?id=Astroktv
-印度Zee TV HD,https://smart.pendy.dpdns.org/Smart.php?id=Zeetvhd
-印度Zee Cinema HD,https://smart.pendy.dpdns.org/Smart.php?id=Zeecinemahd
-印度Color HD,https://smart.pendy.dpdns.org/Smart.php?id=Colorhd
-印度Starplus HD,https://smart.pendy.dpdns.org/Smart.php?id=Starplushd
-印度Picture HD,https://smart.pendy.dpdns.org/Smart.php?id=Npicture
-印度Asianet,https://smart.pendy.dpdns.org/Smart.php?id=asianet_raj
-印度Discovery World Tamil,https://smart.pendy.dpdns.org/Smart.php?id=discoveryworldtam_raj
-印度History Tamil,https://smart.pendy.dpdns.org/Smart.php?id=historytam_raj
-印度NatGeo Tamil,https://smart.pendy.dpdns.org/Smart.php?id=natgeotamil_raj
-印度Natgeo Wild Tamil,https://smart.pendy.dpdns.org/Smart.php?id=natgeowildtamil_raj
-印度Starmaa Movies HD,https://smart.pendy.dpdns.org/Smart.php?id=starmaamovies_raj
-印度Bollyone,https://smart.pendy.dpdns.org/Smart.php?id=Bollyone
-印度Vijay Super,https://smart.pendy.dpdns.org/Smart.php?id=vijaysuper_raj
-印度Vellithirai,https://smart.pendy.dpdns.org/Smart.php?id=Vellithirai
 印度Travexp,https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
 美国WildEarth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 法国Fashion,https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
 法国Fashion,https://fashs043.cloudycdn.services/scte/sftv2/playlist.m3u8
 法国Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 💫　儿童,#genre#
-Baby TV Eng,https://smart.pendy.dpdns.org/Smart.php?id=Babytv
-CBeebies,https://smart.pendy.dpdns.org/Smart.php?id=Cbeebies
-Kids TV,https://smart.pendy.dpdns.org/Smart.php?id=KidsTV
-Momo TV,https://smart.pendy.dpdns.org/Smart.php?id=momo1_twn
-Baby TV,https://smart.pendy.dpdns.org/Smart.php?id=babytv_twn
-Cartoon Network,https://smart.pendy.dpdns.org/Smart.php?id=Cn
-Nickelodeon,https://smart.pendy.dpdns.org/Smart.php?id=Nickelodeon
-Nick Jr,https://smart.pendy.dpdns.org/Smart.php?id=Nickjr
 🎬　CHC,#genre#
 CHC影迷电影,http://110.53.52.63:8888/newlive/live/hls/52/live.m3u8
 CHC动作电影,http://110.53.52.63:8888/newlive/live/hls/53/live.m3u8
@@ -3233,6 +3141,7 @@ CHC影迷电影,http://183.239.236.91:8088/hls/92/index.m3u8
 腿抽筋处理方法,https://vod.youlai.cn/7f2828acc5f9432881f3833f3c13c7c5/01d1195f0ae04895852098bbf4f00886-18da40cf01b9dbc6b9b5d04d3cca74b9-sd.mp4
 脚扭伤处理方法,https://vod.youlai.cn/9ad15caadeba46f39630339787ac3bb6/b912d1569e1643ae92a0bd300942503f-5672574782b93ec8561c4b417d0e676d-sd.mp4
 异物插入眼急救法,https://vod.youlai.cn/f5cfb00203964752aaed8ebca1d5cf32/ad515860d7034de28e6b24625fa5564d-ab7a86b8c4699758b4af49ddd309f562-sd.mp4
+
 
 
 
