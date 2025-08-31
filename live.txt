@@ -905,8 +905,11 @@ TVB星河,http://php.jdshipin.com/smt.php?id=Xinhe
 TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 TVB星河,http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
 TVB星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
+TVB功夫,http://iptv.4666888.xyz/iptv.php?id=20101
+TVB功夫,http://iptv.4666888.xyz/iptv.php?id=20103
 TVB功夫,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 TVB功夫,http://php.jdshipin.com/PLTV/iptv.php?id=yzwx
+TVB千禧,http://iptv.4666888.xyz/iptv.php?id=20105
 香港 C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 香港面包,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -922,6 +925,7 @@ TVB功夫,http://php.jdshipin.com/PLTV/iptv.php?id=yzwx
 北京纪实科教,http://43.143.254.239:55232/hls/69/index.m3u8
 北京纪实科教8K,https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
 北京纪实科教8K,http://8kdown.brtvcloud.com/8klive/8kliveok.m3u8?txSecret=a9cfb6acb08a9fe154a8ba6d0226cfef&txTime=71697CD5
+卡酷少儿,https://zby.130519.xyz/PLTV/11/224/3221226019/index.m3u8
 淘电影,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.250:8001
 睛彩竞技,https://zby.130519.xyz/PLTV/11/224/3221226116/index.m3u8
 睛彩篮球,https://zby.130519.xyz/PLTV/11/224/3221226118/index.m3u8
@@ -952,7 +956,7 @@ TVB功夫,http://php.jdshipin.com/PLTV/iptv.php?id=yzwx
 都市剧场,https://zby.130519.xyz/PLTV/11/224/3221225762/index.m3u8
 都市剧场,https://zby.130519.xyz/PLTV/11/224/3221226155/index.m3u8
 欢笑剧场,https://zby.130519.xyz/PLTV/11/224/3221225771/index.m3u8
-新闻综合,https://zby.130519.xyz/PLTV/11/224/3221226136/index.m3u8
+上海新闻综合,https://zby.130519.xyz/PLTV/11/224/3221226136/index.m3u8
 生活时尚,https://zby.130519.xyz/PLTV/11/224/3221225768/index.m3u8
 法治天地,https://zby.130519.xyz/PLTV/11/224/3221225994/index.m3u8
 乐游频道,https://zby.130519.xyz/PLTV/11/224/3221226157/index.m3u8
@@ -3053,6 +3057,7 @@ CHC影迷电影,http://183.239.236.91:8088/hls/92/index.m3u8
 腿抽筋处理方法,https://vod.youlai.cn/7f2828acc5f9432881f3833f3c13c7c5/01d1195f0ae04895852098bbf4f00886-18da40cf01b9dbc6b9b5d04d3cca74b9-sd.mp4
 脚扭伤处理方法,https://vod.youlai.cn/9ad15caadeba46f39630339787ac3bb6/b912d1569e1643ae92a0bd300942503f-5672574782b93ec8561c4b417d0e676d-sd.mp4
 异物插入眼急救法,https://vod.youlai.cn/f5cfb00203964752aaed8ebca1d5cf32/ad515860d7034de28e6b24625fa5564d-ab7a86b8c4699758b4af49ddd309f562-sd.mp4
+
 
 
 
