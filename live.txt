@@ -1,4 +1,4 @@
-📡　央视,#genre#
+🔆　央视,#genre#
 CCTV13新闻,http://127.0.0.1
 CCTV1综合,http://127.0.0.1
 CCTV2财经,http://127.0.0.1
@@ -824,8 +824,12 @@ TVB J2,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 TVB J2,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 TVB J2,http://php.jdshipin.com/PLTV/iptv.php?id=tvbp
 TVB J2,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
-NOW新闻,https://a.ru8.dpdns.org/now/332/master.m3u8
-NOW新闻,http://cdn.163189.xyz/163189/now
+Now新闻,https://a.ru8.dpdns.org/now/332/master.m3u8
+Now新闻,http://cdn.163189.xyz/163189/now
+Now新闻,http://iptv.4666888.xyz/iptv.php?id=20082
+Now财经,http://iptv.4666888.xyz/iptv.php?id=20085
+Now星影,http://iptv.4666888.xyz/iptv.php?id=20086
+Now剧集,http://iptv.4666888.xyz/iptv.php?id=20091
 HOY 77,http://api.mg.itv888.cn:8080/hls/5e12ccd9191/index.m3u8
 HOY 77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 HOY 77,http://php.jdshipin.com:8880/PLTV/iptv.php?id=hoytv
@@ -919,6 +923,9 @@ TVB功夫,http://php.jdshipin.com/PLTV/iptv.php?id=yzwx
 北京纪实科教8K,https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
 北京纪实科教8K,http://8kdown.brtvcloud.com/8klive/8kliveok.m3u8?txSecret=a9cfb6acb08a9fe154a8ba6d0226cfef&txTime=71697CD5
 淘电影,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.250:8001
+睛彩竞技,https://zby.130519.xyz/PLTV/11/224/3221226116/index.m3u8
+睛彩篮球,https://zby.130519.xyz/PLTV/11/224/3221226118/index.m3u8
+睛彩广场舞,https://zby.130519.xyz/PLTV/11/224/3221226139/index.m3u8
 睛彩竞技,http://thhomes.cn:4000/rtp/239.3.1.125:8001
 睛彩篮球,http://thhomes.cn:4000/rtp/239.3.1.126:8001
 睛彩羽毛球,http://thhomes.cn:4000/rtp/239.3.1.127:8001
@@ -938,9 +945,22 @@ TVB功夫,http://php.jdshipin.com/PLTV/iptv.php?id=yzwx
 五星体育,http://cdn.jdshipin.com/kkxw.php?id=10
 上海魔都眼,http://cdn.jdshipin.com/kkxw.php?id=11
 上海新纪实,http://cdn.jdshipin.com/kkxw.php?id=12
-东方卫视,http://218.89.240.144:59901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-东方卫视,http://60.174.40.117:85/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
-东方卫视,http://112.46.105.20:8009/hls/31/index.m3u8
+东方影视,https://zby.130519.xyz/PLTV/11/224/3221225744/index.m3u8
+东方财经,https://zby.130519.xyz/PLTV/11/224/3221226134/index.m3u8
+第一财经,https://zby.130519.xyz/PLTV/11/224/3221225737/index.m3u8
+上海都市,https://zby.130519.xyz/PLTV/11/224/3221225749/index.m3u8
+都市剧场,https://zby.130519.xyz/PLTV/11/224/3221225762/index.m3u8
+都市剧场,https://zby.130519.xyz/PLTV/11/224/3221226155/index.m3u8
+欢笑剧场,https://zby.130519.xyz/PLTV/11/224/3221225771/index.m3u8
+新闻综合,https://zby.130519.xyz/PLTV/11/224/3221226136/index.m3u8
+生活时尚,https://zby.130519.xyz/PLTV/11/224/3221225768/index.m3u8
+法治天地,https://zby.130519.xyz/PLTV/11/224/3221225994/index.m3u8
+乐游频道,https://zby.130519.xyz/PLTV/11/224/3221226157/index.m3u8
+乐游频道,https://zby.130519.xyz/PLTV/11/224/3221226115/index.m3u8
+哈哈炫动,https://zby.130519.xyz/PLTV/11/224/3221226161/index.m3u8
+哈哈炫动,https://zby.130519.xyz/PLTV/11/224/3221226175/index.m3u8
+动漫秀场,https://zby.130519.xyz/PLTV/11/224/3221225764/index.m3u8
+动漫秀场,https://zby.130519.xyz/PLTV/11/224/3221226138/index.m3u8
 上海都市,http://8.138.7.223/tv/shtv.php?id=ds
 东方财经,http://115.150.63.77:9902/tsfile/live/1042_1.m3u8
 都市剧场,http://183.239.236.91:8088/hls/127/index.m3u8
@@ -1890,6 +1910,7 @@ TVB功夫,http://php.jdshipin.com/PLTV/iptv.php?id=yzwx
 海口新闻综合,http://183.255.46.4:16080/live/tv1001.m3u8
 海口生活娱乐,http://183.255.46.4:16080/live/tv2502.m3u8
 海口城乡经济,http://183.255.46.4:16080/live/tv2503.m3u8
+儋州综合,http://36009.hlsplay.aodianyun.com/tv_radio_36009/tv_channel_1330.m3u8?auth_key=4854915849-0-0-5cf8df0f6f82fbb8da58b60f011965c3
 📺　云南,#genre#
 云南卫视,http://59.39.89.130:60901/tsfile/live/0125_18.m3u8?key=txiptv&playlive=1&authid=0
 云南都市,http://220.164.192.48:50085/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -3032,6 +3053,7 @@ CHC影迷电影,http://183.239.236.91:8088/hls/92/index.m3u8
 腿抽筋处理方法,https://vod.youlai.cn/7f2828acc5f9432881f3833f3c13c7c5/01d1195f0ae04895852098bbf4f00886-18da40cf01b9dbc6b9b5d04d3cca74b9-sd.mp4
 脚扭伤处理方法,https://vod.youlai.cn/9ad15caadeba46f39630339787ac3bb6/b912d1569e1643ae92a0bd300942503f-5672574782b93ec8561c4b417d0e676d-sd.mp4
 异物插入眼急救法,https://vod.youlai.cn/f5cfb00203964752aaed8ebca1d5cf32/ad515860d7034de28e6b24625fa5564d-ab7a86b8c4699758b4af49ddd309f562-sd.mp4
+
 
 
 
