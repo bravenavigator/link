@@ -403,6 +403,37 @@ CETV中国教育1,http://gmxw.7766.org:808/hls/122/index.m3u8
 康巴卫视,http://127.0.0.1
 安多卫视,http://127.0.0.1
 延边卫视,http://127.0.0.1
+北京卫视,https://zby.130519.xyz/PLTV/11/224/3221225724/index.m3u8
+东方卫视,https://zby.130519.xyz/PLTV/11/224/3221225725/index.m3u8
+东方卫视,https://zby.130519.xyz/PLTV/11/224/3221226106/index.m3u8
+浙江卫视,https://zby.130519.xyz/PLTV/11/224/3221225727/index.m3u8
+江苏卫视,https://zby.130519.xyz/PLTV/11/224/3221225720/index.m3u8
+湖南卫视,https://zby.130519.xyz/PLTV/11/224/3221225726/index.m3u8
+广东卫视,https://zby.130519.xyz/PLTV/11/224/3221225731/index.m3u8
+深圳卫视,https://zby.130519.xyz/PLTV/11/224/3221225728/index.m3u8
+天津卫视,https://zby.130519.xyz/PLTV/11/224/3221225742/index.m3u8
+安徽卫视,https://zby.130519.xyz/PLTV/11/224/3221225739/index.m3u8
+山东卫视,https://zby.130519.xyz/PLTV/11/224/3221225733/index.m3u8
+山西卫视,https://zby.130519.xyz/PLTV/11/224/3221226113/index.m3u8
+辽宁卫视,https://zby.130519.xyz/PLTV/11/224/3221225747/index.m3u8
+河北卫视,https://zby.130519.xyz/PLTV/11/224/3221226107/index.m3u8
+河南卫视,https://zby.130519.xyz/PLTV/11/224/3221226132/index.m3u8
+江西卫视,https://zby.130519.xyz/PLTV/11/224/3221225740/index.m3u8
+四川卫视,https://zby.130519.xyz/PLTV/11/224/3221226152/index.m3u8
+重庆卫视,https://zby.130519.xyz/PLTV/11/224/3221226171/index.m3u8
+贵州卫视,https://zby.130519.xyz/PLTV/11/224/3221226173/index.m3u8
+湖北卫视,https://zby.130519.xyz/PLTV/11/224/3221225729/index.m3u8
+广西卫视,https://zby.130519.xyz/PLTV/11/224/3221226084/index.m3u8
+广西卫视,https://zby.130519.xyz/PLTV/11/224/3221226130/index.m3u8
+云南卫视,https://zby.130519.xyz/PLTV/11/224/3221226109/index.m3u8
+云南卫视,https://zby.130519.xyz/PLTV/11/224/3221226151/index.m3u8
+东南卫视,https://zby.130519.xyz/PLTV/11/224/3221225745/index.m3u8
+海南卫视,https://zby.130519.xyz/PLTV/11/224/3221226154/index.m3u8
+甘肃卫视,https://zby.130519.xyz/PLTV/11/224/3221226090/index.m3u8
+青海卫视,https://zby.130519.xyz/PLTV/11/224/3221226105/index.m3u8
+吉林卫视,https://zby.130519.xyz/PLTV/11/224/3221226149/index.m3u8
+吉林卫视,https://zby.130519.xyz/PLTV/11/224/3221226082/index.m3u8
+黑龙江卫视,https://zby.130519.xyz/PLTV/11/224/3221225722/index.m3u8
 湖南卫视,http://api.kkitv.itv888.cn:8080/hls/hoxiunz7ce/index.m3u8
 东方卫视,http://api.kkitv.itv888.cn:8080/hls/p269fvbehye/index.m3u8
 江苏卫视,http://api.kkitv.itv888.cn:8080/hls/g1upm1u239/index.m3u8
@@ -859,6 +890,7 @@ Now新闻,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=YC8MwI&tk=cl177bPI6scY
 Now财经,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=jMN9g7&tk=cl177bPI6scY
 Now新闻,https://a.ru8.dpdns.org/now/332/master.m3u8
 Now新闻,http://cdn.163189.xyz/163189/now
+Now新闻,http://bxtv.3a.ink/api.php?id=now
 HOY 76,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Sak2lN&tk=cl177bPI6scY
 HOY 76,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=WTQ1Bl&tk=cl177bPI6scY
 HOY 77,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=RDIUfu&tk=cl177bPI6scY
@@ -3094,6 +3126,7 @@ CHC影迷电影,http://183.239.236.91:8088/hls/92/index.m3u8
 腿抽筋处理方法,https://vod.youlai.cn/7f2828acc5f9432881f3833f3c13c7c5/01d1195f0ae04895852098bbf4f00886-18da40cf01b9dbc6b9b5d04d3cca74b9-sd.mp4
 脚扭伤处理方法,https://vod.youlai.cn/9ad15caadeba46f39630339787ac3bb6/b912d1569e1643ae92a0bd300942503f-5672574782b93ec8561c4b417d0e676d-sd.mp4
 异物插入眼急救法,https://vod.youlai.cn/f5cfb00203964752aaed8ebca1d5cf32/ad515860d7034de28e6b24625fa5564d-ab7a86b8c4699758b4af49ddd309f562-sd.mp4
+
 
 
 
