@@ -777,6 +777,9 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 梅州五华综合,http://120.198.101.106:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 梅州五华综合,http://218.15.183.23:9901/tsfile/live/23000_1.m3u8
 ☘️　港澳,#genre#
+凤凰资讯,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=CaCRUC&tk=cl177bPI6scY
+凤凰中文,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=u7o29G&tk=cl177bPI6scY
+凤凰香港,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=jzLRVA&tk=cl177bPI6scY
 凤凰资讯,http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8
 凤凰中文,http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8
 凤凰香港,http://api.mg.itv888.cn:8080/hls/e9660dce9a6/index.m3u8
@@ -824,12 +827,21 @@ TVB J2,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 TVB J2,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 TVB J2,http://php.jdshipin.com/PLTV/iptv.php?id=tvbp
 TVB J2,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
+Now新闻,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=YC8MwI&tk=cl177bPI6scY
+Now财经,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=jMN9g7&tk=cl177bPI6scY
 Now新闻,https://a.ru8.dpdns.org/now/332/master.m3u8
 Now新闻,http://cdn.163189.xyz/163189/now
 Now新闻,http://iptv.4666888.xyz/iptv.php?id=20082
 Now财经,http://iptv.4666888.xyz/iptv.php?id=20085
 Now星影,http://iptv.4666888.xyz/iptv.php?id=20086
 Now剧集,http://iptv.4666888.xyz/iptv.php?id=20091
+HOY 76,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Sak2lN&tk=cl177bPI6scY
+HOY 76,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=WTQ1Bl&tk=cl177bPI6scY
+HOY 77,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=RDIUfu&tk=cl177bPI6scY
+HOY 78,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=WlCLtZ&tk=cl177bPI6scY
+HOY 78,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=9Yqt43&tk=cl177bPI6scY
+ViuTV,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Ev5MD9&tk=cl177bPI6scY
+ViuTV6,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=9JMLba&tk=cl177bPI6scY
 HOY 77,http://api.mg.itv888.cn:8080/hls/5e12ccd9191/index.m3u8
 HOY 77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 HOY 77,http://php.jdshipin.com:8880/PLTV/iptv.php?id=hoytv
@@ -909,13 +921,17 @@ TVB功夫,http://iptv.4666888.xyz/iptv.php?id=20101
 TVB功夫,http://iptv.4666888.xyz/iptv.php?id=20103
 TVB功夫,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 TVB功夫,http://php.jdshipin.com/PLTV/iptv.php?id=yzwx
+TVB千禧,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=LydeHr&tk=cl177bPI6scY
 TVB千禧,http://iptv.4666888.xyz/iptv.php?id=20105
 香港 C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 香港面包,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 🌐　华文,#genre#
 新加坡CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-马来西亚astro奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
+马来西亚Astro AOD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=p7xKd1&tk=cl177bPI6scY
+马来西亚Astro AOD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=c80bRQ&tk=cl177bPI6scY
+马来西亚Astro 欢喜,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Eez8l2&tk=cl177bPI6scY
+马来西亚Astro 奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
 马来西亚Astro AOD,http://php.jdshipin.com:8880/smt.php?id=Aodhd
 📺　北京,#genre#
 北京卫视,http://223.241.247.214:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -3057,6 +3073,7 @@ CHC影迷电影,http://183.239.236.91:8088/hls/92/index.m3u8
 腿抽筋处理方法,https://vod.youlai.cn/7f2828acc5f9432881f3833f3c13c7c5/01d1195f0ae04895852098bbf4f00886-18da40cf01b9dbc6b9b5d04d3cca74b9-sd.mp4
 脚扭伤处理方法,https://vod.youlai.cn/9ad15caadeba46f39630339787ac3bb6/b912d1569e1643ae92a0bd300942503f-5672574782b93ec8561c4b417d0e676d-sd.mp4
 异物插入眼急救法,https://vod.youlai.cn/f5cfb00203964752aaed8ebca1d5cf32/ad515860d7034de28e6b24625fa5564d-ab7a86b8c4699758b4af49ddd309f562-sd.mp4
+
 
 
 
