@@ -880,9 +880,19 @@ TVB J2,http://api.mg.itv888.cn:8080/hls/c18815664e8/index.m3u8
 TVB J2,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 TVB J2,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 TVB J2,http://php.jdshipin.com/PLTV/iptv.php?id=tvbp
+Now新闻,http://iptv.4666888.xyz/iptv.php?id=20082
+Now财经,http://iptv.4666888.xyz/iptv.php?id=20085
+Now星影(粤),http://iptv.4666888.xyz/iptv.php?id=20086
+Now华剧,http://iptv.4666888.xyz/iptv.php?id=20091
+Now_sport1,http://iptv.4666888.xyz/iptv.php?id=20092
+Now_sport2,http://iptv.4666888.xyz/iptv.php?id=20093
+Now_sport3,http://iptv.4666888.xyz/iptv.php?id=20084
 Now新闻,https://a.ru8.dpdns.org/now/332/master.m3u8
 Now新闻,http://cdn.163189.xyz/163189/now
 Now新闻,http://bxtv.3a.ink/api.php?id=now
+HOY 76,http://iptv.4666888.xyz/iptv.php?id=20077
+HOY 77,http://iptv.4666888.xyz/iptv.php?id=20078
+HOY 78,http://iptv.4666888.xyz/iptv.php?id=20079
 HOY 77,http://api.mg.itv888.cn:8080/hls/5e12ccd9191/index.m3u8
 HOY 77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 HOY 77,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv
@@ -3086,6 +3096,7 @@ CHC影迷电影,http://183.239.236.91:8088/hls/92/index.m3u8
 腿抽筋处理方法,https://vod.youlai.cn/7f2828acc5f9432881f3833f3c13c7c5/01d1195f0ae04895852098bbf4f00886-18da40cf01b9dbc6b9b5d04d3cca74b9-sd.mp4
 脚扭伤处理方法,https://vod.youlai.cn/9ad15caadeba46f39630339787ac3bb6/b912d1569e1643ae92a0bd300942503f-5672574782b93ec8561c4b417d0e676d-sd.mp4
 异物插入眼急救法,https://vod.youlai.cn/f5cfb00203964752aaed8ebca1d5cf32/ad515860d7034de28e6b24625fa5564d-ab7a86b8c4699758b4af49ddd309f562-sd.mp4
+
 
 
 
