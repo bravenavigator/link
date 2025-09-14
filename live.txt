@@ -341,6 +341,7 @@ CCTV3综艺,http://113.57.93.165:9900/tsfile/live/0003_1.m3u8?key=txiptv&playliv
 CCTV4中文国际,http://113.57.93.165:9900/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5体育,http://113.57.93.165:9900/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV6电影,http://113.57.93.165:9900/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13新闻,https://cdn3.163189.xyz/163189/cctv13
 CCTV13新闻,http://tencentplaygsm.gztv.com/live/jingsai.m3u8
 CCTV13新闻,http://tencentplaygzrb01.gztv.com/live/jingsai.m3u8
 CCTV13新闻,https://tencentplaygsm.gztv.com/live/jingsai.m3u8?txTime=6594e9c9&txSecret=66dc779a3a36272e652238dd37624bbf
@@ -731,6 +732,7 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 📺　广东,#genre#
 广东卫视,http://218.89.240.144:59901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://218.89.240.144:59901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视4K,https://cdn3.163189.xyz/163189/szws4k
 广东新闻,http://120.238.94.10:9901/tsfile/live/1010_1.m3u8
 广东新闻,http://183.11.239.36:808/hls/5/index.m3u8
 广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
@@ -803,6 +805,7 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 深圳都市,http://livepull-tcyzb.sztv.com.cn/live/dslive.m3u8
 深圳都市,http://120.198.95.220:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&down=1
 深圳都市,http://183.11.239.36:808/hls/140/index.m3u8
+深圳财经生活,https://cdn3.163189.xyz/163189/szcjsh
 深圳财经生活,http://183.11.239.36:808/hls/151/index.m3u8
 深圳体育健康,http://183.11.239.36:808/hls/158/index.m3u8
 深圳电视剧,http://183.11.239.36:808/hls/141/index.m3u8
@@ -857,6 +860,7 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 凤凰香港,http://php.jdshipin.com/smt.php?id=hkphoenix_twn
 TVB翡翠,http://113.106.83.172:50433/tsfile/live/0018_3.m3u8
+TVB翡翠,https://cdn6.163189.xyz/163189/fct4k
 TVB翡翠,http://api.mg.itv888.cn:8080/hls/4bb8922027c/index.m3u8
 TVB翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 TVB翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
@@ -874,6 +878,7 @@ TVB华丽,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 TVB娱乐,http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
 TVB娱乐,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 TVB娱乐,http://php.jdshipin.com/smt.php?id=Tvbentertainment
+TVB1,https://6.cdn.loc.cc/163189.php?id=tvb1
 TVB J1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
 TVB J1,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 TVB J2,http://api.mg.itv888.cn:8080/hls/c18815664e8/index.m3u8
@@ -887,6 +892,7 @@ Now华剧,http://iptv.4666888.xyz/iptv.php?id=20091
 Now_sport1,http://iptv.4666888.xyz/iptv.php?id=20092
 Now_sport2,http://iptv.4666888.xyz/iptv.php?id=20093
 Now_sport3,http://iptv.4666888.xyz/iptv.php?id=20084
+Now新闻,https://cdn.163189.xyz/163189/now
 Now新闻,https://a.ru8.dpdns.org/now/332/master.m3u8
 Now新闻,http://cdn.163189.xyz/163189/now
 Now新闻,http://bxtv.3a.ink/api.php?id=now
@@ -959,6 +965,7 @@ TVB星河,https://cdn9.163189.xyz/smt1.1.php?id=Xinhe
 TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 TVB功夫,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 TVB功夫,http://php.jdshipin.com/PLTV/iptv.php?id=yzwx
+TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 香港 C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 香港面包,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -998,6 +1005,8 @@ TVB功夫,http://php.jdshipin.com/PLTV/iptv.php?id=yzwx
 五星体育,http://cdn.jdshipin.com/kkxw.php?id=10
 上海魔都眼,http://cdn.jdshipin.com/kkxw.php?id=11
 上海新纪实,http://cdn.jdshipin.com/kkxw.php?id=12
+第一财经,https://cdn3.163189.xyz/163189/dycj
+五星体育,https://cdn3.163189.xyz/163189/wxty
 东方影视,https://zby.130519.xyz/PLTV/11/224/3221225744/index.m3u8
 东方财经,https://zby.130519.xyz/PLTV/11/224/3221226134/index.m3u8
 第一财经,https://zby.130519.xyz/PLTV/11/224/3221225737/index.m3u8
