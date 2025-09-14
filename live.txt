@@ -113,6 +113,8 @@ CCTV4K高清,http://www.v5b7.com.cn:7088/udp/233.18.204.188:5140
 CCTV4K高清,http://www.v5b7.com.cn:7088/udp/233.18.204.204:5140
 CCTV4K高清,http://www.v5b7.com.cn:7088/udp/239.45.0.55:5140
 CCTV4K高清,http://www.v5b7.com.cn:7088/udp/239.45.3.123:5140
+CCTV16奥林匹克,http://nas.201606.xyz:4022/rtp/239.10.0.187:5140
+CCTV16奥林匹克,http://nas.201606.xyz:4022/udp/239.11.0.67:5140
 CCTV5+体育赛事,http://120.76.248.139/live/bfgd/4200000246.m3u8
 CCTV7国防军事,http://120.76.248.139/live/bfgd/4200000127.m3u8
 CCTV11戏曲,http://120.76.248.139/live/bfgd/4200000130.m3u8
@@ -730,8 +732,8 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 欧洲华文六套,http://vvlive.eztv.vip/ctvsnew/ctvsnew.m3u8?auth_key=1710810919-0-0-50aa348ab0ba1386377aafc10877062f
 欧洲华文七套,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
 📺　广东,#genre#
-广东卫视,http://218.89.240.144:59901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳卫视,http://218.89.240.144:59901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视4K,http://nas.201606.xyz:4022/rtp/239.10.0.94:5140
+深圳卫视4K,http://nas.201606.xyz:4022/rtp/239.10.0.93:5140
 深圳卫视4K,https://cdn3.163189.xyz/163189/szws4k
 广东新闻,http://183.7.146.1:8086/hls/45/index.m3u8
 广东珠江,http://183.7.146.1:8086/hls/47/index.m3u8
@@ -741,6 +743,8 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 广东体育,http://183.7.146.1:8086/hls/42/index.m3u8
 广东少儿,http://183.7.146.1:8086/hls/40/index.m3u8
 大湾区卫视,http://183.7.146.1:8086/hls/29/index.m3u8
+广东体育,http://bxtv.3a.ink/api.php?id=gdty
+广东珠江,http://bxtv.3a.ink/api.php?id=gdzj
 广东新闻,http://120.238.94.10:9901/tsfile/live/1010_1.m3u8
 广东新闻,http://183.11.239.36:808/hls/5/index.m3u8
 广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
@@ -841,6 +845,9 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 梅州五华综合,http://120.198.101.106:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 梅州五华综合,http://218.15.183.23:9901/tsfile/live/23000_1.m3u8
 ☘️　港澳,#genre#
+凤凰资讯,http://bxtv.3a.ink/api.php?id=fhzx
+凤凰中文,http://bxtv.3a.ink/api.php?id=fhzw
+凤凰香港,http://bxtv.3a.ink/api.php?id=fhhk
 凤凰资讯,http://iptv.4666888.xyz/iptv.php?id=20064
 凤凰中文,http://iptv.4666888.xyz/iptv.php?id=20063
 凤凰中文,http://iptv.4666888.xyz/iptv.php?id=20060
@@ -865,6 +872,8 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 凤凰资讯,http://php.jdshipin.com/smt.php?id=phoenixinfo_hd
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 凤凰香港,http://php.jdshipin.com/smt.php?id=hkphoenix_twn
+TVB翡翠,http://bxtv.3a.ink/api.php?id=fct
+TVB新闻,http://bxtv.3a.ink/api.php?id=wxxw
 TVB翡翠,http://iptv.4666888.xyz/iptv.php?id=20066
 TVB新闻,http://iptv.4666888.xyz/iptv.php?id=20069
 TVB娱乐,http://iptv.4666888.xyz/iptv.php?id=20073
@@ -891,6 +900,7 @@ TVB娱乐,http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
 TVB娱乐,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 TVB娱乐,http://php.jdshipin.com/smt.php?id=Tvbentertainment
 TVB1,https://6.cdn.loc.cc/163189.php?id=tvb1
+TVB J1,http://bxtv.3a.ink/api.php?id=tvbp
 TVB J1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
 TVB J1,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 TVB J2,http://api.mg.itv888.cn:8080/hls/c18815664e8/index.m3u8
@@ -904,6 +914,7 @@ Now华剧,http://iptv.4666888.xyz/iptv.php?id=20091
 Now_sport1,http://iptv.4666888.xyz/iptv.php?id=20092
 Now_sport2,http://iptv.4666888.xyz/iptv.php?id=20093
 Now_sport3,http://iptv.4666888.xyz/iptv.php?id=20084
+Now新闻,http://bxtv.3a.ink/api.php?id=now
 Now新闻,https://cdn.163189.xyz/163189/now
 Now新闻,https://a.ru8.dpdns.org/now/332/master.m3u8
 Now新闻,http://cdn.163189.xyz/163189/now
@@ -918,6 +929,7 @@ HOY 77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 HOY 77,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv2
 ViuTV,http://iptv.4666888.xyz/iptv.php?id=20075
 ViuTV6,http://iptv.4666888.xyz/iptv.php?id=20076
+ViuTV,http://bxtv.3a.ink/api.php?id=viutv
 ViuTV,http://api.mg.itv888.cn:8080/hls/13d52dc29d5/index.m3u8
 ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
@@ -982,6 +994,8 @@ MYTV_SUPER少儿,http://iptv.4666888.xyz/iptv.php?id=20110
 MYTV_SUPER_FREE,http://iptv.4666888.xyz/iptv.php?id=20111
 MYTV_SUPER粤语片,http://iptv.4666888.xyz/iptv.php?id=20112
 MYTV_SUPER戏曲,http://iptv.4666888.xyz/iptv.php?id=20113
+TVB千禧经典,http://bxtv.3a.ink/api.php?id=qxjd
+TVB明珠,http://bxtv.3a.ink/api.php?id=mz
 TVB明珠,http://api.mg.itv888.cn:8080/hls/63e9ea6e5df/index.m3u8
 TVB明珠,http://o12.1678520.xyz/hls/mzt/playlist.m3u8
 TVB明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
@@ -1015,8 +1029,8 @@ PopC电影,http://iptv.4666888.xyz/iptv.php?id=20118
 星空卫视,http://iptv.4666888.xyz/iptv.php?id=20083
 星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 📺　北京,#genre#
-北京卫视,http://223.241.247.214:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-北京卫视,http://60.174.40.117:85/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视4K,http://nas.201606.xyz:4022/rtp/239.10.0.91:5140
+北京卫视4K,http://nas.201606.xyz:4022/rtp/239.10.0.92:5140
 北京纪实科教,http://www.qhjx.top:18000/udp/238.255.2.107:5999
 北京纪实科教,http://120.76.248.139/live/bfgd/4200000113.m3u8
 北京纪实科教,http://43.143.254.239:55232/hls/69/index.m3u8
@@ -2920,6 +2934,7 @@ PopC电影,http://iptv.4666888.xyz/iptv.php?id=20118
 🌊　台湾,#genre#
 中天ᴴᴰ,http://iptv.4666888.xyz/iptv.php?id=20195
 中天新闻,http://iptv.4666888.xyz/iptv.php?id=20173
+中天新闻,http://bxtv.3a.ink/api.php?id=ztxw
 中天CTI+,http://iptv.4666888.xyz/iptv.php?id=20181
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
 中视ᴴᴰ,http://iptv.4666888.xyz/iptv.php?id=20183
@@ -3126,4 +3141,5 @@ CHC影迷电影,http://183.239.236.91:8088/hls/92/index.m3u8
 腿抽筋处理方法,https://vod.youlai.cn/7f2828acc5f9432881f3833f3c13c7c5/01d1195f0ae04895852098bbf4f00886-18da40cf01b9dbc6b9b5d04d3cca74b9-sd.mp4
 脚扭伤处理方法,https://vod.youlai.cn/9ad15caadeba46f39630339787ac3bb6/b912d1569e1643ae92a0bd300942503f-5672574782b93ec8561c4b417d0e676d-sd.mp4
 异物插入眼急救法,https://vod.youlai.cn/f5cfb00203964752aaed8ebca1d5cf32/ad515860d7034de28e6b24625fa5564d-ab7a86b8c4699758b4af49ddd309f562-sd.mp4
+
 
