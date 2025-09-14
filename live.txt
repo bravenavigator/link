@@ -744,7 +744,6 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 经济科教,http://59.39.89.130:60901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 经济科教,http://120.198.95.220:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&down=1
 广东综艺,http://183.237.95.108:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=0&authid=0
-广东体育,http://113.106.83.172:50433/tsfile/live/0143_1.m3u8
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 广东体育,http://218.13.170.98:9901/tsfile/live/0019_1.m3u8
 广东体育,http://120.238.94.10:9901/tsfile/live/1012_1.m3u8
@@ -795,12 +794,6 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 南国都市,https://tencentplaygsm.gztv.com/live/nanguodushi.m3u8?txTime=6594e9d5&txSecret=e783742d1233ae402ec4566b8537ca17
 南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=c82f82d7a6beda92b2b1ce93753dcacb&txTime=18e4a381d46
 南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=627498b93bc6f5d6e2460d0823bf81a3&txTime=18e6df74fc2
-深圳卫视,http://113.106.83.172:50433/tsfile/live/0128_1.m3u8
-深圳都市,http://113.106.83.172:50433/tsfile/live/1000_1.m3u8
-深圳财经生活,http://113.106.83.172:50433/tsfile/live/1003_1.m3u8
-深圳体育健康,http://113.106.83.172:50433/tsfile/live/1002_1.m3u8
-深圳电视剧,http://113.106.83.172:50433/tsfile/live/0124_1.m3u8
-深圳少儿,http://113.106.83.172:50433/tsfile/live/1004_1.m3u8
 深圳都市,http://livepull-tcms.sztv.com.cn/live/dslive.m3u8
 深圳都市,http://livepull-tcyzb.sztv.com.cn/live/dslive.m3u8
 深圳都市,http://120.198.95.220:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&down=1
@@ -859,7 +852,6 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 凤凰资讯,http://php.jdshipin.com/smt.php?id=phoenixinfo_hd
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 凤凰香港,http://php.jdshipin.com/smt.php?id=hkphoenix_twn
-TVB翡翠,http://113.106.83.172:50433/tsfile/live/0018_3.m3u8
 TVB翡翠,https://cdn6.163189.xyz/163189/fct4k
 TVB翡翠,http://api.mg.itv888.cn:8080/hls/4bb8922027c/index.m3u8
 TVB翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
@@ -919,8 +911,6 @@ RTHK31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 RTHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 RTHK31,http://php.jdshipin.com/smt.php?id=rhk31_twn
 RTHK32,http://php.jdshipin.com/smt.php?id=rhk32_twn
-莲花卫视,http://8.138.7.223/tv/lotustv.m3u8
-澳视澳门,http://113.106.83.172:50433/tsfile/live/1009_1.m3u8
 澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
 澳视澳门,http://php.jdshipin.com/PLTV/iptv.php?id=asam
 澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as
@@ -941,15 +931,13 @@ RTHK32,http://php.jdshipin.com/smt.php?id=rhk32_twn
 澳视体育,http://103.233.191.132:1935/ch4/sport_ch4.live/playlist.m3u8
 澳视体育,http://103.233.191.133:1935/ch4/sport_ch4.live/playlist.m3u8
 澳视体育,http://103.233.191.134:1935/ch4/sport_ch4.live/playlist.m3u8
-澳视澳门,http://113.106.83.172:50433/tsfile/live/1009_1.m3u8
 澳视澳门,https://149.102.97.122/ch1/ch1.live/playlist.m3u8
 澳视澳门,https://149.102.97.122/ch2/ch2.live/playlist.m3u8
 澳门资讯,https://149.102.97.122/ch5/info_ch5.live/playlist.m3u8
 澳门综艺,https://149.102.97.122/ch6/hd_ch6.live/playlist.m3u8
 澳视体育,https://149.102.97.122/ch4/sport_ch4.live/playlist.m3u8
 莲花卫视,https://fenghuang.tv12.xyz/187.m3u8
-莲花卫视,http://8.138.7.223/tv/lotustv.m3u8?live/110_1.m3u8
-TVB明珠,http://113.106.83.172:50433/tsfile/live/0112_1.m3u8
+莲花卫视,http://8.138.7.223/tv/lotustv.m3u8
 TVB明珠,http://api.mg.itv888.cn:8080/hls/63e9ea6e5df/index.m3u8
 TVB明珠,http://o12.1678520.xyz/hls/mzt/playlist.m3u8
 TVB明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
@@ -3150,6 +3138,7 @@ CHC影迷电影,http://183.239.236.91:8088/hls/92/index.m3u8
 腿抽筋处理方法,https://vod.youlai.cn/7f2828acc5f9432881f3833f3c13c7c5/01d1195f0ae04895852098bbf4f00886-18da40cf01b9dbc6b9b5d04d3cca74b9-sd.mp4
 脚扭伤处理方法,https://vod.youlai.cn/9ad15caadeba46f39630339787ac3bb6/b912d1569e1643ae92a0bd300942503f-5672574782b93ec8561c4b417d0e676d-sd.mp4
 异物插入眼急救法,https://vod.youlai.cn/f5cfb00203964752aaed8ebca1d5cf32/ad515860d7034de28e6b24625fa5564d-ab7a86b8c4699758b4af49ddd309f562-sd.mp4
+
 
 
 
