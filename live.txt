@@ -750,8 +750,6 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 广东民生,http://atsj.tv.inf.ua/php/gd.php?id=gdms
 广东少儿,http://atsj.tv.inf.ua/php/gd.php?id=gdse
 嘉佳卡通,http://atsj.tv.inf.ua/php/gd.php?id=jjkt
-广东体育,http://bxtv.3a.ink/api.php?id=gdty
-广东珠江,http://bxtv.3a.ink/api.php?id=gdzj
 广东新闻,http://120.238.94.10:9901/tsfile/live/1010_1.m3u8
 广东新闻,http://183.11.239.36:808/hls/5/index.m3u8
 广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
@@ -854,9 +852,6 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 梅州五华综合,http://120.198.101.106:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 梅州五华综合,http://218.15.183.23:9901/tsfile/live/23000_1.m3u8
 ☘️　港澳,#genre#
-凤凰资讯,http://bxtv.3a.ink/api.php?id=fhzx
-凤凰中文,http://bxtv.3a.ink/api.php?id=fhzw
-凤凰香港,http://bxtv.3a.ink/api.php?id=fhhk
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
@@ -876,8 +871,6 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 凤凰资讯,http://php.jdshipin.com/smt.php?id=phoenixinfo_hd
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 凤凰香港,http://php.jdshipin.com/smt.php?id=hkphoenix_twn
-TVB翡翠,http://bxtv.3a.ink/api.php?id=fct
-TVB新闻,http://bxtv.3a.ink/api.php?id=wxxw
 TVB翡翠,https://cdn6.163189.xyz/163189/fct4k
 TVB翡翠,http://api.mg.itv888.cn:8080/hls/4bb8922027c/index.m3u8
 TVB翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
@@ -897,24 +890,20 @@ TVB娱乐,http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
 TVB娱乐,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 TVB娱乐,http://php.jdshipin.com/smt.php?id=Tvbentertainment
 TVB1,https://6.cdn.loc.cc/163189.php?id=tvb1
-TVB J1,http://bxtv.3a.ink/api.php?id=tvbp
 TVB J1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
 TVB J1,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 TVB J2,http://api.mg.itv888.cn:8080/hls/c18815664e8/index.m3u8
 TVB J2,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 TVB J2,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 TVB J2,http://php.jdshipin.com/PLTV/iptv.php?id=tvbp
-Now新闻,http://bxtv.3a.ink/api.php?id=now
 Now新闻,https://cdn.163189.xyz/163189/now
 Now新闻,https://a.ru8.dpdns.org/now/332/master.m3u8
 Now新闻,http://cdn.163189.xyz/163189/now
-Now新闻,http://bxtv.3a.ink/api.php?id=now
 HOY 77,http://api.mg.itv888.cn:8080/hls/5e12ccd9191/index.m3u8
 HOY 77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 HOY 77,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv
 HOY 77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 HOY 77,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv2
-ViuTV,http://bxtv.3a.ink/api.php?id=viutv
 ViuTV,http://api.mg.itv888.cn:8080/hls/13d52dc29d5/index.m3u8
 ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
@@ -930,10 +919,12 @@ RTHK31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 RTHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 RTHK31,http://php.jdshipin.com/smt.php?id=rhk31_twn
 RTHK32,http://php.jdshipin.com/smt.php?id=rhk32_twn
+RTHK33(CCTV1),http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
 澳视澳门,http://php.jdshipin.com/PLTV/iptv.php?id=asam
 澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as
 澳视卫星,http://php.jdshipin.com/PLTV/iptv.php?id=as
+澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as
 澳视卫星,http://103.233.191.134:1935/ch3/ch3.live/playlist.m3u8
 澳视卫星,http://103.233.191.133:1935/ch3/ch3.live/playlist.m3u8
 澳视卫星,http://103.233.191.132:1935/ch3/ch3.live/playlist.m3u8
@@ -955,10 +946,14 @@ RTHK32,http://php.jdshipin.com/smt.php?id=rhk32_twn
 澳门资讯,https://149.102.97.122/ch5/info_ch5.live/playlist.m3u8
 澳门综艺,https://149.102.97.122/ch6/hd_ch6.live/playlist.m3u8
 澳视体育,https://149.102.97.122/ch4/sport_ch4.live/playlist.m3u8
+澳视卫星,https://fenghuang.tv12.xyz/183.m3u8
+澳视澳门,https://fenghuang.tv12.xyz/181.m3u8
+澳视资讯,https://fenghuang.tv12.xyz/185.m3u8
+澳视综艺,https://fenghuang.tv12.xyz/186.m3u8
+澳视体育,https://fenghuang.tv12.xyz/184.m3u8
+澳视葡文,https://fenghuang.tv12.xyz/182.m3u8
 莲花卫视,https://fenghuang.tv12.xyz/187.m3u8
-莲花卫视,http://8.138.7.223/tv/lotustv.m3u8
-TVB千禧经典,http://bxtv.3a.ink/api.php?id=qxjd
-TVB明珠,http://bxtv.3a.ink/api.php?id=mz
+亚洲卫视,https://fenghuang.tv12.xyz/173.m3u8
 TVB明珠,http://api.mg.itv888.cn:8080/hls/63e9ea6e5df/index.m3u8
 TVB明珠,http://o12.1678520.xyz/hls/mzt/playlist.m3u8
 TVB明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
@@ -2885,7 +2880,6 @@ TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 西藏卫视,http://www.lysvc.cc/daili/xztv.php?id=0
 西藏藏语卫视,http://www.lysvc.cc/daili/xztv.php?id=1
 🌊　宝岛,#genre#
-中天新闻,http://bxtv.3a.ink/api.php?id=ztxw
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
 台视新闻,https://live.wcetv.com/hls/m3u8/ttvnews.m3u8
 台视新闻,https://live.wcetv.com/hls/master-ttvnews.m3u8
@@ -3006,6 +3000,7 @@ CHC影迷电影,http://183.239.236.91:8088/hls/92/index.m3u8
 腿抽筋处理方法,https://vod.youlai.cn/7f2828acc5f9432881f3833f3c13c7c5/01d1195f0ae04895852098bbf4f00886-18da40cf01b9dbc6b9b5d04d3cca74b9-sd.mp4
 脚扭伤处理方法,https://vod.youlai.cn/9ad15caadeba46f39630339787ac3bb6/b912d1569e1643ae92a0bd300942503f-5672574782b93ec8561c4b417d0e676d-sd.mp4
 异物插入眼急救法,https://vod.youlai.cn/f5cfb00203964752aaed8ebca1d5cf32/ad515860d7034de28e6b24625fa5564d-ab7a86b8c4699758b4af49ddd309f562-sd.mp4
+
 
 
 
