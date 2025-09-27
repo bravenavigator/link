@@ -42,23 +42,6 @@ CETV中国教育3,http://127.0.0.1
 CETV中国教育4,http://127.0.0.1
 中国交通,http://127.0.0.1
 中国天气,http://127.0.0.1
-CCTV1综合,http://23.247.129.70:8802/live/kzb.php?id=cctv1
-CCTV2财经,http://23.247.129.70:8802/live/kzb.php?id=cctv2
-CCTV3综艺,http://23.247.129.70:8802/live/kzb.php?id=cctv3
-CCTV4中文国际,http://23.247.129.70:8802/live/kzb.php?id=cctv4
-CCTV4中文国际-欧洲,http://23.247.129.70:8802/live/kzb.php?id=cctv4o
-CCTV5体育,http://23.247.129.70:8802/live/kzb.php?id=cctv5
-CCTV5+体育赛事,http://23.247.129.70:8802/live/kzb.php?id=cctv5p
-CCTV6电影,http://23.247.129.70:8802/live/kzb.php?id=cctv6
-CCTV7国防军事,http://23.247.129.70:8802/live/kzb.php?id=cctv7
-CCTV8电视剧,http://23.247.129.70:8802/live/kzb.php?id=cctv8
-CCTV9纪录,http://23.247.129.70:8802/live/kzb.php?id=cctv9
-CCTV10科教,http://23.247.129.70:8802/live/kzb.php?id=cctv10
-CCTV11戏曲,http://23.247.129.70:8802/live/kzb.php?id=cctv11
-CCTV12社会与法,http://23.247.129.70:8802/live/kzb.php?id=cctv12
-CCTV13新闻,http://23.247.129.70:8802/live/kzb.php?id=cctv13
-CCTV14少儿,http://23.247.129.70:8802/live/kzb.php?id=cctv14
-CCTV17农业农村,http://23.247.129.70:8802/live/kzb.php?id=cctv17
 CCTV1综合,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
 CCTV2财经,http://api.kkitv.itv888.cn:8080/hls/4nlkhc68gfu/index.m3u8
 CCTV3综艺,http://api.kkitv.itv888.cn:8080/hls/aikp69mli0d/index.m3u8
@@ -460,13 +443,6 @@ CETV中国教育1,http://gmxw.7766.org:808/hls/122/index.m3u8
 重庆卫视,http://api.kkitv.itv888.cn:8080/hls/ogh3s6tbw6/index.m3u8
 东南卫视,http://api.kkitv.itv888.cn:8080/hls/jjt15bvbl7a/index.m3u8
 海南卫视,http://api.kkitv.itv888.cn:8080/hls/c1cajhsgba8/index.m3u8
-东方卫视,http://23.247.129.70:8802/live/kzb.php?id=dfws
-陕西卫视,http://23.247.129.70:8802/live/kzb.php?id=sxws
-湖北卫视,http://23.247.129.70:8802/live/kzb.php?id=hubws
-江西卫视,http://23.247.129.70:8802/live/kzb.php?id=jxws
-江苏卫视,http://23.247.129.70:8802/live/kzb.php?id=jsws
-浙江卫视,http://23.247.129.70:8802/live/kzb.php?id=zjws
-广东卫视,http://23.247.129.70:8802/live/kzb.php?id=gdws
 东方卫视,http://www.qhjx.top:18000/udp/238.255.2.98:5999
 贵州卫视,http://www.qhjx.top:18000/udp/238.255.2.1:5999
 青海卫视,http://www.qhjx.top:18000/udp/238.255.2.51:5999
@@ -2994,6 +2970,7 @@ CHC影迷电影,http://183.239.236.91:8088/hls/92/index.m3u8
 腿抽筋处理方法,https://vod.youlai.cn/7f2828acc5f9432881f3833f3c13c7c5/01d1195f0ae04895852098bbf4f00886-18da40cf01b9dbc6b9b5d04d3cca74b9-sd.mp4
 脚扭伤处理方法,https://vod.youlai.cn/9ad15caadeba46f39630339787ac3bb6/b912d1569e1643ae92a0bd300942503f-5672574782b93ec8561c4b417d0e676d-sd.mp4
 异物插入眼急救法,https://vod.youlai.cn/f5cfb00203964752aaed8ebca1d5cf32/ad515860d7034de28e6b24625fa5564d-ab7a86b8c4699758b4af49ddd309f562-sd.mp4
+
 
 
 
