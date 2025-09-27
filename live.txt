@@ -42,6 +42,16 @@ CETV中国教育3,http://127.0.0.1
 CETV中国教育4,http://127.0.0.1
 中国交通,http://127.0.0.1
 中国天气,http://127.0.0.1
+CCTV1综合,http://tvtj.jxwltx.com:8003/cctv1.m3u8
+CCTV03综艺,http://tvtj.jxwltx.com:8003/cctv3.m3u8
+CCTV05体育,http://tvtj.jxwltx.com:8003/cctv5.m3u8
+CCTV06电影,http://tvtj.jxwltx.com:8003/cctv6.m3u8
+CCTV08电视剧,http://tvtj.jxwltx.com:8003/cctv8.m3u8
+CCTV09纪录,http://tvtj.jxwltx.com:8003/cctv9.m3u8
+CCTV10科教,http://tvtj.jxwltx.com:8003/cctv10.m3u8
+CCTV11戏曲,http://tvtj.jxwltx.com:8003/cctv11.m3u8
+CCTV16奥林匹克,http://tvtj.jxwltx.com:8003/cctv5p.m3u8
+CCTV17农业农村,http://tvtj.jxwltx.com:8003/cctv17.m3u8
 CCTV1综合,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
 CCTV2财经,http://api.kkitv.itv888.cn:8080/hls/4nlkhc68gfu/index.m3u8
 CCTV3综艺,http://api.kkitv.itv888.cn:8080/hls/aikp69mli0d/index.m3u8
@@ -392,6 +402,21 @@ CETV中国教育1,http://gmxw.7766.org:808/hls/122/index.m3u8
 康巴卫视,http://127.0.0.1
 安多卫视,http://127.0.0.1
 延边卫视,http://127.0.0.1
+北京卫视,http://tvtj1.jxwltx.com:8003/bjws.m3u8
+浙江卫视,http://tvtj1.jxwltx.com:8003/zjws.m3u8
+江苏卫视,http://tvtj.jxwltx.com:8003/jsws.m3u8
+湖南卫视,http://tvtj.jxwltx.com:8003/hunanws.m3u8
+广东卫视,http://tvtj.jxwltx.com:8003/gdws.m3u8
+深圳卫视,http://tvtj1.jxwltx.com:8003/szws.m3u8
+安徽卫视,http://tvtj1.jxwltx.com:8003/ahws.m3u8
+山东卫视,http://tvtj1.jxwltx.com:8003/sdws.m3u8
+河南卫视,http://tvtj1.jxwltx.com:8003/hnws.m3u8
+江西卫视,http://tvtj1.jxwltx.com:8003/jxws.m3u8
+四川卫视,http://tvtj1.jxwltx.com:8003/scws.m3u8
+广西卫视,http://tvtj1.jxwltx.com:8003/gxws.m3u8
+云南卫视,http://tvtj.jxwltx.com:8003/ynws.m3u8
+东南卫视,http://tvtj.jxwltx.com:8003/dnws.m3u8
+吉林卫视,http://tvtj1.jxwltx.com:8003/jlws.m3u8
 北京卫视,https://zby.130519.xyz/PLTV/11/224/3221225724/index.m3u8
 东方卫视,https://zby.130519.xyz/PLTV/11/224/3221225725/index.m3u8
 东方卫视,https://zby.130519.xyz/PLTV/11/224/3221226106/index.m3u8
@@ -765,10 +790,10 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 深圳都市,http://120.198.95.220:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&down=1
 深圳都市,http://183.11.239.36:808/hls/140/index.m3u8
 深圳都市,http://rustdesk.szsun.xyz:8088/udp/239.77.1.176:5146
+深圳财经生活,http://rustdesk.szsun.xyz:8088/udp/239.77.1.242:5146
 深圳视剧,http://rustdesk.szsun.xyz:8088/udp/239.77.1.177:5146
-深圳财经,http://rustdesk.szsun.xyz:8088/udp/239.77.1.242:5146
 深圳娱乐,http://rustdesk.szsun.xyz:8088/udp/239.77.1.243:5146
-深圳体育,http://rustdesk.szsun.xyz:8088/udp/239.77.1.128:5146
+深圳体育健康,http://rustdesk.szsun.xyz:8088/udp/239.77.1.128:5146
 深圳少儿,http://rustdesk.szsun.xyz:8088/udp/239.77.1.244:5146
 深圳都市,http://rustdesk.szsun.xyz:8088/udp/239.77.1.178:5146
 深圳财经生活,https://cdn3.163189.xyz/163189/szcjsh
@@ -806,6 +831,8 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 清远综合,http://zmylivestream.nfnews.com/zmy_slive/25319.m3u8
 清远综合,https://zmylivestream.nfnews.com/zmy_slive/25319.m3u8
 清远公共,https://zmylivestream.nfnews.com/zmy_slive/25321.m3u8
+云浮综合,https://livestream.oeeee.com/slive/28283.m3u8
+云浮文旅,https://livestream.oeeee.com/slive/28284.m3u8
 韶关新闻,http://rustdesk.szsun.xyz:8088/udp/239.77.0.117:5146
 韶关生活,http://rustdesk.szsun.xyz:8088/udp/239.77.0.119:5146
 韶关新闻,https://live.sgmsw.cn/hls/lhx1FUeZg/playlist.m3u8
@@ -815,8 +842,6 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 云浮文旅,http://rustdesk.szsun.xyz:8088/udp/239.77.0.254:5146
 河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
-云浮综合,https://livestream.oeeee.com/slive/28283.m3u8
-云浮文旅,https://livestream.oeeee.com/slive/28284.m3u8
 汕头综合,http://atsj.tv.inf.ua/php/gd.php?id=stzh
 汕头经济,http://atsj.tv.inf.ua/php/gd.php?id=stjj
 汕尾新闻,http://rustdesk.szsun.xyz:8088/udp/239.77.0.25:5146
@@ -828,8 +853,6 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 阳江生活,https://live.yjtvw.com:8081/live/yjtv2.m3u8
 梅州综合,http://120.198.101.106:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 客家生活,http://120.198.101.106:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-梅州导视,http://120.198.101.106:9901/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
-梅州导视,http://120.198.101.106:9901/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
 梅州综合,http://218.15.183.23:9901/tsfile/live/23002_1.m3u8
 客家生活,http://218.15.183.23:9901/tsfile/live/23003_1.m3u8
 客家戏曲,http://218.15.183.23:9901/tsfile/live/23005_1.m3u8
@@ -3002,6 +3025,7 @@ CHC影迷电影,http://183.239.236.91:8088/hls/92/index.m3u8
 腿抽筋处理方法,https://vod.youlai.cn/7f2828acc5f9432881f3833f3c13c7c5/01d1195f0ae04895852098bbf4f00886-18da40cf01b9dbc6b9b5d04d3cca74b9-sd.mp4
 脚扭伤处理方法,https://vod.youlai.cn/9ad15caadeba46f39630339787ac3bb6/b912d1569e1643ae92a0bd300942503f-5672574782b93ec8561c4b417d0e676d-sd.mp4
 异物插入眼急救法,https://vod.youlai.cn/f5cfb00203964752aaed8ebca1d5cf32/ad515860d7034de28e6b24625fa5564d-ab7a86b8c4699758b4af49ddd309f562-sd.mp4
+
 
 
 
