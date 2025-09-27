@@ -872,12 +872,13 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 凤凰香港,http://183.239.236.91:8088/hls/12/index.m3u8
 凤凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
-凤凰中文,http://8.138.7.223/tv/fh.php?id=1
-凤凰资讯,http://8.138.7.223/tv/fh.php?id=2
-凤凰香港,http://8.138.7.223/tv/fh.php?id=3
 凤凰资讯,http://php.jdshipin.com/smt.php?id=phoenixinfo_hd
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 凤凰香港,http://php.jdshipin.com/smt.php?id=hkphoenix_twn
+凤凰资讯,http://live4play.uk/livehttpplay?channel_id=30015
+凤凰资讯,http://live4play.uk/livehttpplay?channel_id=20066
+凤凰中文,http://live4play.uk/livehttpplay?channel_id=30014
+凤凰中文,http://live4play.uk/livehttpplay?channel_id=20065
 TVB翡翠,https://cdn6.163189.xyz/163189/fct4k
 TVB翡翠,http://api.mg.itv888.cn:8080/hls/4bb8922027c/index.m3u8
 TVB翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
@@ -998,6 +999,7 @@ TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 马来西亚astro欢喜,http://php.jdshipin.com/smt.php?id=Huahee
 马来西亚astroAod,http://php.jdshipin.com/PLTV/iptv.php?id=aod
 马来西亚astroAod,http://cdn9.163189.xyz/smt1.1.php?id=Aodhd
+美亚电影,http://php.jdshipin.com/PLTV/iptv.php?id=meiya
 天映频道,http://php.jdshipin.com/smt.php?id=Celestial
 星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 📺　北京,#genre#
@@ -1051,7 +1053,6 @@ TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 哈哈炫动,https://zby.130519.xyz/PLTV/11/224/3221226175/index.m3u8
 动漫秀场,https://zby.130519.xyz/PLTV/11/224/3221225764/index.m3u8
 动漫秀场,https://zby.130519.xyz/PLTV/11/224/3221226138/index.m3u8
-上海都市,http://8.138.7.223/tv/shtv.php?id=ds
 东方财经,http://115.150.63.77:9902/tsfile/live/1042_1.m3u8
 都市剧场,http://183.239.236.91:8088/hls/127/index.m3u8
 纪实人文,http://www.qhjx.top:18000/udp/238.255.2.106:5999
@@ -1061,7 +1062,6 @@ TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 欢笑剧场,http://www.qhjx.top:18000/udp/238.255.2.215:5999
 动漫秀场,http://www.qhjx.top:18000/udp/238.255.2.196:5999
 新视觉,http://120.76.248.139/live/bfgd/4200000249.m3u8
-五星体育,http://8.138.7.223/tv/shtv.php?id=wxty
 五星体育,http://115.190.105.236:90/shweb.php?id=wxty
 崇明综合,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
 嘉定综合,https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8
@@ -1817,8 +1817,6 @@ TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 福建综合,http://110.81.206.138:49231/tsfile/live/23023_1.m3u8?key=txiptv&playlive=1&authid=0
 福建电视剧,http://110.81.206.138:49231/tsfile/live/23026_1.m3u8?key=txiptv&playlive=1&authid=0
 福建少儿,http://110.81.206.138:49231/tsfile/live/23030_1.m3u8?key=txiptv&playlive=1&authid=0
-福建乡村振兴公共,http://8.138.7.223/tv/fjtv.php?id=6
-福建经济,http://8.138.7.223/tv/fjtv.php?id=9
 福州综合,http://117.27.190.42:9998/tsfile/live/23301_1.m3u8?key=txiptv&playlive=1&authid=0
 福州新闻,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 福州生活,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
@@ -3025,6 +3023,7 @@ CHC影迷电影,http://183.239.236.91:8088/hls/92/index.m3u8
 腿抽筋处理方法,https://vod.youlai.cn/7f2828acc5f9432881f3833f3c13c7c5/01d1195f0ae04895852098bbf4f00886-18da40cf01b9dbc6b9b5d04d3cca74b9-sd.mp4
 脚扭伤处理方法,https://vod.youlai.cn/9ad15caadeba46f39630339787ac3bb6/b912d1569e1643ae92a0bd300942503f-5672574782b93ec8561c4b417d0e676d-sd.mp4
 异物插入眼急救法,https://vod.youlai.cn/f5cfb00203964752aaed8ebca1d5cf32/ad515860d7034de28e6b24625fa5564d-ab7a86b8c4699758b4af49ddd309f562-sd.mp4
+
 
 
 
