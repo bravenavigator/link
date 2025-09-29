@@ -3029,15 +3029,7 @@ TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 龙华卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
 🌏　海外,#genre#
-卡塔尔AL Jazeera,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
-卡塔尔AL Jazeera,https://live-hls-v3-aje.getaj.net/AJE-V3/01.m3u8
-卡塔尔AL Jazeera,https://live-hls-web-aje.getaj.net/AJE/02.m3u8
-卡塔尔AL Jazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-卡塔尔AL Jazeera,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-卡塔尔AL Jazeera,https://smart.pendy.dpdns.org/Smart.php?id=aljazeera_twn
-卡塔尔AL Jazeera,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 美国Fox News,https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
-美国Fox Business,http://41.205.93.154/FOXBUSINESS/index.m3u8
 美国Fox 2 Detroit MI,https://livetv-fa.tubi.video/wjbk/index.m3u8
 美国Fox 2 San Francisco CA,https://livetv-fa.tubi.video/ktvu/index.m3u8
 美国Fox 4 Dallas / Fort Worth TX,https://livetv-fa.tubi.video/kdfw/index.m3u8
@@ -3058,6 +3050,7 @@ TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 美国Fox 32 Chicago IL,https://livetv-fa.tubi.video/wfld/index.m3u8
 美国Fox 35 Orlando FL,https://livetv-fa.tubi.video/wofl/index.m3u8
 美国Fox 47 Lansing MI,https://livetv-fa.tubi.video/wsym/playlist.m3u8
+美国Fox Business,http://41.205.93.154/FOXBUSINESS/index.m3u8
 美国CNN News,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 美国CNN News,https://smart.pendy.dpdns.org/Smart.php?id=Cnn
 美国CBN News,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
@@ -3067,6 +3060,13 @@ TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 美国Bloomberg TV,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 美国Bloomberg TV,https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
 美国YahooFinance,https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+卡塔尔AL Jazeera,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
+卡塔尔AL Jazeera,https://live-hls-v3-aje.getaj.net/AJE-V3/01.m3u8
+卡塔尔AL Jazeera,https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+卡塔尔AL Jazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+卡塔尔AL Jazeera,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+卡塔尔AL Jazeera,https://smart.pendy.dpdns.org/Smart.php?id=aljazeera_twn
+卡塔尔AL Jazeera,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 英国RT News,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 英国RT Document,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 英国RT français,http://69.64.57.208/rtfrance/playlist.m3u8
@@ -3169,6 +3169,7 @@ CHC影迷电影,http://183.239.236.91:8088/hls/92/index.m3u8
 腿抽筋处理方法,https://vod.youlai.cn/7f2828acc5f9432881f3833f3c13c7c5/01d1195f0ae04895852098bbf4f00886-18da40cf01b9dbc6b9b5d04d3cca74b9-sd.mp4
 脚扭伤处理方法,https://vod.youlai.cn/9ad15caadeba46f39630339787ac3bb6/b912d1569e1643ae92a0bd300942503f-5672574782b93ec8561c4b417d0e676d-sd.mp4
 异物插入眼急救法,https://vod.youlai.cn/f5cfb00203964752aaed8ebca1d5cf32/ad515860d7034de28e6b24625fa5564d-ab7a86b8c4699758b4af49ddd309f562-sd.mp4
+
 
 
 
