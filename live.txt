@@ -91,6 +91,7 @@ CCTV14少儿,http://api.kkitv.itv888.cn:8080/hls/dyfpqk8fpzi/index.m3u8
 CCTV15音乐,http://api.kkitv.itv888.cn:8080/hls/hcwu4ianhgw/index.m3u8
 CCTV16,http://api.kkitv.itv888.cn:8080/hls/qazacsm0hgl/index.m3u8
 CCTV5+体育赛事,http://api.kkitv.itv888.cn:8080/hls/xsb4znrv3c/index.m3u8
+CCTV13新闻,https://cdn3.163189.xyz/163189/cctv13
 CCTV7国防军事,http://8.138.7.223/tv/cctv7.m3u8
 CCTV5+体育赛事,http://223.82.161.157:899/hls/501/index.m3u8
 CCTV2财经,http://www.qhjx.top:18000/udp/238.255.2.11:5999
@@ -360,12 +361,6 @@ CCTV3综艺,http://113.57.93.165:9900/tsfile/live/0003_1.m3u8?key=txiptv&playliv
 CCTV4中文国际,http://113.57.93.165:9900/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5体育,http://113.57.93.165:9900/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV6电影,http://113.57.93.165:9900/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV13新闻,https://cdn3.163189.xyz/163189/cctv13
-CCTV13新闻,http://tencentplaygsm.gztv.com/live/jingsai.m3u8
-CCTV13新闻,http://tencentplaygzrb01.gztv.com/live/jingsai.m3u8
-CCTV13新闻,https://tencentplaygsm.gztv.com/live/jingsai.m3u8?txTime=6594e9c9&txSecret=66dc779a3a36272e652238dd37624bbf
-CCTV13新闻,https://tencentplaygsm.gztv.com/live/jingsai.m3u8?txTime=659a5124&txSecret=72dcf9be1f18b8cbb1d96df34dc9a2a9
-CCTV13新闻,https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=49c8041461997c7a97dbcc3c7fd11b4f&txTime=18d00acf487
 CETV中国教育1,https://cc06.tv12.xyz/23.m3u8
 CCTV重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 CCTV重温经典,http://cdn3.163189.xyz/live/cwjd/stream.m3u8
@@ -378,6 +373,8 @@ CCTV高尔夫网球,http://183.11.239.36:808/hls/174/index.m3u8
 CCTV电视指南,http://183.11.239.36:808/hls/13/index.m3u8
 CETV中国教育1,http://183.11.239.36:808/hls/122/index.m3u8
 CETV中国教育4,http://183.11.239.36:808/hls/79/index.m3u8
+CCTV4美洲,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+CCTV4美洲,https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/sdcounty/G0283_012/playlist.m3u8
 CCTV4美洲,http://gmxw.7766.org:808/hls/71/index.m3u8
 CCTV4欧洲,http://gmxw.7766.org:808/hls/67/index.m3u8
 CCTV风云剧场,http://gmxw.7766.org:808/hls/95/index.m3u8
@@ -781,6 +778,7 @@ CGTN俄语,http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTe
 CGTN阿语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
 CGTN英语,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
+CGTN纪录,https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
 CGTN纪录,http://183.223.157.33:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
 CGTN英语,http://gmxw.7766.org:808/hls/77/index.m3u8
 CGTN西语,http://gmxw.7766.org:808/hls/81/index.m3u8
@@ -3133,6 +3131,7 @@ CHC影迷电影,http://183.239.236.91:8088/hls/92/index.m3u8
 腿抽筋处理方法,https://vod.youlai.cn/7f2828acc5f9432881f3833f3c13c7c5/01d1195f0ae04895852098bbf4f00886-18da40cf01b9dbc6b9b5d04d3cca74b9-sd.mp4
 脚扭伤处理方法,https://vod.youlai.cn/9ad15caadeba46f39630339787ac3bb6/b912d1569e1643ae92a0bd300942503f-5672574782b93ec8561c4b417d0e676d-sd.mp4
 异物插入眼急救法,https://vod.youlai.cn/f5cfb00203964752aaed8ebca1d5cf32/ad515860d7034de28e6b24625fa5564d-ab7a86b8c4699758b4af49ddd309f562-sd.mp4
+
 
 
 
