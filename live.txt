@@ -3037,6 +3037,27 @@ TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 卡塔尔AL Jazeera,https://smart.pendy.dpdns.org/Smart.php?id=aljazeera_twn
 卡塔尔AL Jazeera,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 美国Fox News,https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+美国Fox Business,http://41.205.93.154/FOXBUSINESS/index.m3u8
+美国Fox 2 Detroit MI,https://livetv-fa.tubi.video/wjbk/index.m3u8
+美国Fox 2 San Francisco CA,https://livetv-fa.tubi.video/ktvu/index.m3u8
+美国Fox 4 Dallas / Fort Worth TX,https://livetv-fa.tubi.video/kdfw/index.m3u8
+美国Fox 5 Washington DC,https://livetv-fa.tubi.video/wttg/index.m3u8
+美国Fox 6 Milwaukee WI,https://livetv-fa.tubi.video/witi/index.m3u8
+美国Fox 7 Austin TX,https://livetv-fa.tubi.video/ktbc/index.m3u8
+美国Fox 9 ST Paul Minneapolis MN,https://livetv-fa.tubi.video/kmsp/index.m3u8
+美国Fox 10 Phoenix AZ,https://livetv-fa.tubi.video/ksaz/index.m3u8
+美国Fox 11 Los Angeles CA,https://livetv-fa.tubi.video/kttv/index.m3u8
+美国Fox 13 Tampa Bay FL,https://livetv-fa.tubi.video/wtvt/index.m3u8
+美国Fox 13 Seattle WA,https://livetv-fa.tubi.video/kcpq/index.m3u8
+美国Fox 13 Salt Lake City UT,https://livetv-fa.tubi.video/kstu2/playlist.m3u8
+美国Fox 17 Grand Rapids MI,https://livetv-fa.tubi.video/wxmi/playlist.m3u8
+美国Fox 25 Boston,https://pubads.g.doubleclick.net/ssai/event/1kItNgwtQUe54NjjBiiTGg/master.m3u8
+美国Fox 29 Philadelphia PA,https://livetv-fa.tubi.video/wtxf/index.m3u8
+美国Fox 23 Cape Girardeau MO,https://live.field59.com/kbsi/kbsi1/playlist.m3u8
+美国Fox 26 Houston TX,https://livetv-fa.tubi.video/kriv/index.m3u8
+美国Fox 32 Chicago IL,https://livetv-fa.tubi.video/wfld/index.m3u8
+美国Fox 35 Orlando FL,https://livetv-fa.tubi.video/wofl/index.m3u8
+美国Fox 47 Lansing MI,https://livetv-fa.tubi.video/wsym/playlist.m3u8
 美国CNN News,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 美国CNN News,https://smart.pendy.dpdns.org/Smart.php?id=Cnn
 美国CBN News,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
@@ -3089,6 +3110,23 @@ TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 法国Fashion,https://fashs043.cloudycdn.services/scte/sftv2/playlist.m3u8
 法国Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 💫　儿童,#genre#
+Kuriakos Kids ,https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+3ABN Kids,https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
+Extrema Kids TV ,https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
+PBS Kids,https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
+PBS Kids Alaska ,https://livestream.pbskids.org/out/v1/94b88ad58fc14f84a9382341f1c00b82/akst.m3u8
+PBS Kids Hawaii,https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8
+PBS Kids Mountain ,https://livestream.pbskids.org/out/v1/3fe3030a2c8045a3932f4289d9eba3e6/mst.m3u8
+PBS Kids Pacific ,https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8
+BeJoy.kids ,https://64b16f23efbee.streamlock.net/bejoy/bejoy/playlist.m3u8
+Bravo! Kids TV ,https://streaming.social3.hr/play/r3CK_tdsFIFL3bN7w4NW1plrwsCToUBsRFjhxM68sZY/m3u8
+Dios Te Ve Kids ,https://s.emisoras.tv:8081/diostevekids/index.m3u8
+KidsFlix,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
+Logos TV Kids,https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
+M-Net Kids ,http://ares.mnet.mk/hls/mnet-kids.m3u8
+Roya Kids,https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist.m3u8
+Roya Kids Originals ,https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist.m3u8
+Sat 7 Kids ,https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
 🎬　CHC,#genre#
 CHC影迷电影,http://110.53.52.63:8888/newlive/live/hls/52/live.m3u8
 CHC动作电影,http://110.53.52.63:8888/newlive/live/hls/53/live.m3u8
@@ -3131,6 +3169,7 @@ CHC影迷电影,http://183.239.236.91:8088/hls/92/index.m3u8
 腿抽筋处理方法,https://vod.youlai.cn/7f2828acc5f9432881f3833f3c13c7c5/01d1195f0ae04895852098bbf4f00886-18da40cf01b9dbc6b9b5d04d3cca74b9-sd.mp4
 脚扭伤处理方法,https://vod.youlai.cn/9ad15caadeba46f39630339787ac3bb6/b912d1569e1643ae92a0bd300942503f-5672574782b93ec8561c4b417d0e676d-sd.mp4
 异物插入眼急救法,https://vod.youlai.cn/f5cfb00203964752aaed8ebca1d5cf32/ad515860d7034de28e6b24625fa5564d-ab7a86b8c4699758b4af49ddd309f562-sd.mp4
+
 
 
 
