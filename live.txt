@@ -3059,8 +3059,13 @@ TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 美国Fox Business,http://41.205.93.154/FOXBUSINESS/index.m3u8
 美国CNN News,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 美国CNN News,https://smart.pendy.dpdns.org/Smart.php?id=Cnn
+美国CBN TV,https://5790d294af2dc.streamlock.net/CBNVI/CBNVI/playlist.m3u8
 美国CBN News,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+美国Newsmax 2,https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 美国Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+美国CBC TV,https://stream.berosat.live:19360/cbc-tv/cbc-tv.m3u8
+美国CABC WWAY 3,https://townnews.g-mana.live/media/027a05c7-43b6-49eb-ad10-a0c0f10a0754/main.m3u8
+美国CABC Australia,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 美国Bloomberg TV,https://bloomberg-bloombergtv-1-gb.samsung.wurl.tv/playlist.m3u8
 美国Bloomberg TV,https://smart.pendy.dpdns.org/Smart.php?id=bloomberg_twn
 美国Bloomberg TV,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
@@ -3176,6 +3181,7 @@ CHC影迷电影,http://183.239.236.91:8088/hls/92/index.m3u8
 腿抽筋处理方法,https://vod.youlai.cn/7f2828acc5f9432881f3833f3c13c7c5/01d1195f0ae04895852098bbf4f00886-18da40cf01b9dbc6b9b5d04d3cca74b9-sd.mp4
 脚扭伤处理方法,https://vod.youlai.cn/9ad15caadeba46f39630339787ac3bb6/b912d1569e1643ae92a0bd300942503f-5672574782b93ec8561c4b417d0e676d-sd.mp4
 异物插入眼急救法,https://vod.youlai.cn/f5cfb00203964752aaed8ebca1d5cf32/ad515860d7034de28e6b24625fa5564d-ab7a86b8c4699758b4af49ddd309f562-sd.mp4
+
 
 
 
