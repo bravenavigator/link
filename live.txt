@@ -1091,8 +1091,10 @@ TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 马来西亚astro欢喜,http://php.jdshipin.com/smt.php?id=Huahee
 马来西亚astroAod,http://php.jdshipin.com/PLTV/iptv.php?id=aod
 马来西亚astroAod,http://cdn9.163189.xyz/smt1.1.php?id=Aodhd
+马来西亚8度空间,http://php.jdshipin.com/smt.php?id=TV8
 美亚电影,http://php.jdshipin.com/PLTV/iptv.php?id=meiya
 天映频道,http://php.jdshipin.com/smt.php?id=Celestial
+天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
 星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 📺　北京,#genre#
 北京卫视4K,http://nas.201606.xyz:4022/rtp/239.10.0.91:5140
@@ -3036,36 +3038,80 @@ TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 龙华卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
 🌏　海外,#genre#
 美国Fox News,https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
-美国Fox 2 Detroit MI,https://livetv-fa.tubi.video/wjbk/index.m3u8
-美国Fox 2 San Francisco CA,https://livetv-fa.tubi.video/ktvu/index.m3u8
-美国Fox 4 Dallas / Fort Worth TX,https://livetv-fa.tubi.video/kdfw/index.m3u8
-美国Fox 5 Washington DC,https://livetv-fa.tubi.video/wttg/index.m3u8
-美国Fox 6 Milwaukee WI,https://livetv-fa.tubi.video/witi/index.m3u8
-美国Fox 7 Austin TX,https://livetv-fa.tubi.video/ktbc/index.m3u8
-美国Fox 9 ST Paul Minneapolis MN,https://livetv-fa.tubi.video/kmsp/index.m3u8
-美国Fox 10 Phoenix AZ,https://livetv-fa.tubi.video/ksaz/index.m3u8
-美国Fox 11 Los Angeles CA,https://livetv-fa.tubi.video/kttv/index.m3u8
-美国Fox 13 Tampa Bay FL,https://livetv-fa.tubi.video/wtvt/index.m3u8
-美国Fox 13 Seattle WA,https://livetv-fa.tubi.video/kcpq/index.m3u8
-美国Fox 13 Salt Lake City UT,https://livetv-fa.tubi.video/kstu2/playlist.m3u8
-美国Fox 17 Grand Rapids MI,https://livetv-fa.tubi.video/wxmi/playlist.m3u8
-美国Fox 25 Boston,https://pubads.g.doubleclick.net/ssai/event/1kItNgwtQUe54NjjBiiTGg/master.m3u8
-美国Fox 29 Philadelphia PA,https://livetv-fa.tubi.video/wtxf/index.m3u8
-美国Fox 23 Cape Girardeau MO,https://live.field59.com/kbsi/kbsi1/playlist.m3u8
-美国Fox 26 Houston TX,https://livetv-fa.tubi.video/kriv/index.m3u8
-美国Fox 32 Chicago IL,https://livetv-fa.tubi.video/wfld/index.m3u8
-美国Fox 35 Orlando FL,https://livetv-fa.tubi.video/wofl/index.m3u8
-美国Fox 47 Lansing MI,https://livetv-fa.tubi.video/wsym/playlist.m3u8
-美国Fox Business,http://41.205.93.154/FOXBUSINESS/index.m3u8
+美国Fox News Channel,https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
+美国Fox 2 San Francisco CA (KTVU),https://livetv-fa.tubi.video/ktvu/index.m3u8
+美国Fox 2 Detroit MI (WJBK),https://livetv-fa.tubi.video/wjbk/index.m3u8
+美国Fox 4 Dallas / Fort Worth TX (KDFW),https://livetv-fa.tubi.video/kdfw/index.m3u8
+美国Fox 10 Phoenix AZ (KSAZ),https://livetv-fa.tubi.video/ksaz/index.m3u8
+美国Fox 13 Salt Lake City UT (KSTU),https://livetv-fa.tubi.video/kstu2/playlist.m3u8
+美国Fox 23 Cape Girardeau MO (KBSI-DT1) [Not 24/7],https://live.field59.com/kbsi/kbsi1/playlist.m3u8
+美国Fox 26 Houston TX (KRIV),https://livetv-fa.tubi.video/kriv/index.m3u8
+美国Fox 32 Chicago IL (WFLD) ,https://livetv-fa.tubi.video/wfld/index.m3u8
+美国ABC News,https://c.mjh.nz/abc-news.m3u8
+美国ABC 4 Pittsburg PA (WTAE),https://livetv-fa.tubi.video/wtae/playlist.m3u8
+美国ABC 5 Oklahoma City OK (KOCO),https://livetv-fa.tubi.video/koco/playlist.m3u8
+美国ABC 6 Indianapolis IN (WRTV),https://livetv-fa.tubi.video/wrtv/playlist.m3u8
+美国ABC 7 Omaha NE (KETV),https://livetv-fa.tubi.video/ketv/playlist.m3u8
+美国ABC 8 Portland ME (WMTW),https://livetv-fa.tubi.video/wmtw/playlist.m3u8
+美国ABC 9 Manchester NH (WMUR-TV),https://livetv-fa.tubi.video/wmur/playlist.m3u8
+美国ABC 12 Milwaukee WI (WISN),https://livetv-fa.tubi.video/wisn/playlist.m3u8
+美国ABC 16 Jackson MS (WAPT),https://livetv-fa.tubi.video/wapt/playlist.m3u8
+美国ABC 25 West Palm Beach FL (WPBF),https://livetv-fa.tubi.video/wpbf/playlist.m3u8
+美国ABC 40/29 Fort Smith AR (KHBS),https://livetv-fa.tubi.video/khbs/playlist.m3u8
+美国ABC Australia,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+美国ABC TV Perth,https://c.mjh.nz/abc-wa.m3u8
+美国ABC TV Plus,https://c.mjh.nz/abc-tv-plus.m3u8
+美国CBC TV,https://stream.berosat.live:19360/cbc-tv/cbc-tv.m3u8
+美国CBC TV8,https://1740288887.rsc.cdn77.org/1740288887/index.m3u8
 美国CNN News,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 美国CNN News,https://smart.pendy.dpdns.org/Smart.php?id=Cnn
-美国CBN TV,https://5790d294af2dc.streamlock.net/CBNVI/CBNVI/playlist.m3u8
+美国CBN News National,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 美国CBN News,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
-美国Newsmax 2,https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+美国CBN TV,https://5790d294af2dc.streamlock.net/CBNVI/CBNVI/playlist.m3u8
+美国CBN Family,https://bcovlive-a.akamaihd.net/r602a47f47fee47bb83239eb1b1e1ac83/us-east-1/734546207001/playlist.m3u8
+美国CBN Gospel,https://59d39900ebfb8.streamlock.net/ccbn/ccbn/playlist.m3u8
 美国Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-美国CBC TV,https://stream.berosat.live:19360/cbc-tv/cbc-tv.m3u8
+美国Newsmax 2,https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 美国CABC WWAY 3,https://townnews.g-mana.live/media/027a05c7-43b6-49eb-ad10-a0c0f10a0754/main.m3u8
 美国CABC Australia,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+美国CBS News Bay Area ,https://cbsn-sf.cbsnstream.cbsnews.com/out/v1/dac63c1abb3f4a2dac9f508f44bb072a/master.m3u8
+美国CBS News Boston ,https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8
+美国CBS News Chicago ,https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/master.m3u8
+美国CBS News Colorado ,https://cbsn-den.cbsnstream.cbsnews.com/out/v1/2e49baf2906244ecb01b07d9885fbe7a/master.m3u8
+美国CBS News Detroit ,https://cbsn-det.cbsnstream.cbsnews.com/out/v1/169f5c001bc74fa7a179b19c20fea069/master.m3u8
+美国CBS News Los Angeles ,https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
+美国CBS News Miami ,https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8
+美国CBS News Minnesota ,https://cbsn-min.cbsnstream.cbsnews.com/out/v1/76518f06941246ba810c8d175600bf74/master.m3u8
+美国CBS News New York ,https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
+美国CBS News Philadelphia ,https://cbsn-phi.cbsnstream.cbsnews.com/out/v1/5c9ad3e215984b0e9ad845b335216b72/master.m3u8
+美国CBS News Pittsburgh ,https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8
+美国CBS News Sacramento ,https://lineup.cbsivideo.com/playout/c1ed69db-6b71-4581-a937-a70ab4089f8a/index.m3u8
+美国CBS News Texas ,https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
+美国CBS East ,https://fl25.moveonjoy.com/CBS_News/index.m3u8
+美国CBS 5 Nashville TN (WTVF) ,https://livetv-fa.tubi.video/wtvf2/playlist.m3u8
+美国CBS 7 Bozeman MT (KBZK) ,https://livetv-fa.tubi.video/kbzk/playlist.m3u8
+美国CBS 8 Missoula MT (KPAX) ,https://livetv-fa.tubi.video/kpax/playlist.m3u8
+美国CBS 9 Oklahoma City OK (KWTV-DT1)  [Not 24/7],https://fuel-streaming-prod01.fuelmedia.io/v1/sem/e48409e7-672d-42f2-b5e0-ebb6744b0425.m3u8
+美国CBS 32 Louisville KY (WLKY) ,https://livetv-fa.tubi.video/wlky/playlist.m3u8
+美国NBC Universo West,http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
+美国NBC 2 Tulsa OK (KJRH),https://livetv-fa.tubi.video/kjrh/playlist.m3u8
+美国NBC 3 Sacramento CA (KCRA),https://livetv-fa.tubi.video/kcra/playlist.m3u8
+美国NBC 5 Plattsburgh NY (WPTZ),https://livetv-fa.tubi.video/wptz/playlist.m3u8
+美国NBC 8 Lancaster PA (WGAL),https://livetv-fa.tubi.video/wgal/playlist.m3u8
+美国NBC 8 Salinas CA (KSBW),https://livetv-fa.tubi.video/ksbw/playlist.m3u8
+美国NBC 5 Cincinnati OH (WLWT),https://livetv-fa.tubi.video/wlwt/playlist.m3u8
+美国NBC 6 New Orleans LA (WDSU),https://livetv-fa.tubi.video/wdsu/playlist.m3u8
+美国NBC 8 Lima OH (WLIO-DT1) [Not 24/7],https://live.field59.com/wlio/wlio1/playlist.m3u8
+美国NBC 11 Baltimore MD (WBAL),https://livetv-fa.tubi.video/wbal/playlist.m3u8
+美国NBC 12 Winston-Salem NC (WXII),https://livetv-fa.tubi.video/wxii/playlist.m3u8
+美国NBC Comedy Vault,https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8
+美国CNBC,https://fl25.moveonjoy.com/CNBC/index.m3u8
+美国CNBC Arabiya,https://cnbc-live.akamaized.net/cnbc/master.m3u8
+美国CNBC Europe HD,https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
+美国CNBC Indonesia,https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+美国CNBC World,https://fl25.moveonjoy.com/CNBC_World/index.m3u8
+美国CNBC MGL,https://cdn4.skygo.mn/live/disk1/CNBC/HLSv3-FTA/CNBC.m3u8
+美国NBCMGL,https://cdn4.skygo.mn/live/disk1/CNBC/HLSv3-FTA/CNBC.m3u8
 美国Bloomberg TV,https://bloomberg-bloombergtv-1-gb.samsung.wurl.tv/playlist.m3u8
 美国Bloomberg TV,https://smart.pendy.dpdns.org/Smart.php?id=bloomberg_twn
 美国Bloomberg TV,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
@@ -3078,12 +3124,12 @@ TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 卡塔尔AL Jazeera,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 卡塔尔AL Jazeera,https://smart.pendy.dpdns.org/Smart.php?id=aljazeera_twn
 卡塔尔AL Jazeera,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+卡塔尔AL Jazeera,https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8
 卡塔尔AL Jazeera Balkans,https://live-hls-apps-ajb-v3-fa.getaj.net/AJB/index.m3u8
 卡塔尔AL Jazeera English,https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 卡塔尔AL Jazeera Mubasher,https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8
 卡塔尔AL Jazeera Mubasher 24,https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8
 卡塔尔AL Jazeera Mubasher Broadcast 2,https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8
-卡塔尔AL Jazeera Documentary,https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8
 英国RT News,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 英国RT Document,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 英国RT français,http://69.64.57.208/rtfrance/playlist.m3u8
@@ -3119,18 +3165,18 @@ TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 朝鲜KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 泰国ASTV News,http://news1.live14.com/stream/news1_hi.m3u8
 泰国PBS,http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
-印度尼西亚CNBC Indonesia,https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/pikotv.m3u8
+印度尼西亚C美国NBCIndonesia,https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/pikotv.m3u8
 印度尼西亚CNN Indonésia,https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w366707841_b384000_sleng.m3u8
 印度WION,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 印度Travexp,https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
 美国WildEarth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 法国Fashion,https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
 法国Fashion,https://fashs043.cloudycdn.services/scte/sftv2/playlist.m3u8
-法国Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 💫　儿童,#genre#
 Kuriakos Kids ,https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 3ABN Kids,https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 Extrema Kids TV ,https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
+ABC Kids,https://c.mjh.nz/abc-kids.m3u8
 PBS Kids,https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 PBS Kids Alaska ,https://livestream.pbskids.org/out/v1/94b88ad58fc14f84a9382341f1c00b82/akst.m3u8
 PBS Kids Hawaii,https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8
@@ -3187,6 +3233,7 @@ CHC影迷电影,http://183.239.236.91:8088/hls/92/index.m3u8
 腿抽筋处理方法,https://vod.youlai.cn/7f2828acc5f9432881f3833f3c13c7c5/01d1195f0ae04895852098bbf4f00886-18da40cf01b9dbc6b9b5d04d3cca74b9-sd.mp4
 脚扭伤处理方法,https://vod.youlai.cn/9ad15caadeba46f39630339787ac3bb6/b912d1569e1643ae92a0bd300942503f-5672574782b93ec8561c4b417d0e676d-sd.mp4
 异物插入眼急救法,https://vod.youlai.cn/f5cfb00203964752aaed8ebca1d5cf32/ad515860d7034de28e6b24625fa5564d-ab7a86b8c4699758b4af49ddd309f562-sd.mp4
+
 
 
 
