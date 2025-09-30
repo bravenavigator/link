@@ -3078,6 +3078,12 @@ TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 卡塔尔AL Jazeera,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 卡塔尔AL Jazeera,https://smart.pendy.dpdns.org/Smart.php?id=aljazeera_twn
 卡塔尔AL Jazeera,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+卡塔尔AL Jazeera Balkans,https://live-hls-apps-ajb-v3-fa.getaj.net/AJB/index.m3u8
+卡塔尔AL Jazeera English,https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
+卡塔尔AL Jazeera Mubasher,https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8
+卡塔尔AL Jazeera Mubasher 24,https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8
+卡塔尔AL Jazeera Mubasher Broadcast 2,https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8
+卡塔尔AL Jazeera Documentary,https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8
 英国RT News,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 英国RT Document,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 英国RT français,http://69.64.57.208/rtfrance/playlist.m3u8
@@ -3181,6 +3187,7 @@ CHC影迷电影,http://183.239.236.91:8088/hls/92/index.m3u8
 腿抽筋处理方法,https://vod.youlai.cn/7f2828acc5f9432881f3833f3c13c7c5/01d1195f0ae04895852098bbf4f00886-18da40cf01b9dbc6b9b5d04d3cca74b9-sd.mp4
 脚扭伤处理方法,https://vod.youlai.cn/9ad15caadeba46f39630339787ac3bb6/b912d1569e1643ae92a0bd300942503f-5672574782b93ec8561c4b417d0e676d-sd.mp4
 异物插入眼急救法,https://vod.youlai.cn/f5cfb00203964752aaed8ebca1d5cf32/ad515860d7034de28e6b24625fa5564d-ab7a86b8c4699758b4af49ddd309f562-sd.mp4
+
 
 
 
