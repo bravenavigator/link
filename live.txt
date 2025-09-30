@@ -1094,21 +1094,6 @@ TVB千禧经典,http://php.jdshipin.com/smt.php?id=Tvbclassic
 TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 香港 C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 香港面包,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-🌐　华文,#genre#
-新加坡CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-马来西亚Astro奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
-马来西亚astroAod,http://php.jdshipin.com:8880/smt.php?id=Aodhd
-马来西亚astro-QJ,http://php.jdshipin.com/smt.php?id=Quanjia
-马来西亚astroAec,http://php.jdshipin.com/smt.php?id=AEC
-马来西亚astroAod,http://php.jdshipin.com/smt.php?id=Aodhd
-马来西亚astro欢喜,http://php.jdshipin.com/smt.php?id=Huahee
-马来西亚astroAod,http://php.jdshipin.com/PLTV/iptv.php?id=aod
-马来西亚astroAod,http://cdn9.163189.xyz/smt1.1.php?id=Aodhd
-马来西亚8度空间,http://php.jdshipin.com/smt.php?id=TV8
-美亚电影,http://php.jdshipin.com/PLTV/iptv.php?id=meiya
-天映频道,http://php.jdshipin.com/smt.php?id=Celestial
-天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
-星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 📺　北京,#genre#
 北京卫视4K,http://nas.201606.xyz:4022/rtp/239.10.0.91:5140
 北京卫视4K,http://nas.201606.xyz:4022/rtp/239.10.0.92:5140
@@ -2568,7 +2553,6 @@ TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 海南兴海综合,http://lived.dmqhyadmin.com/xhzhpd/sd/live.m3u8
 海西都兰综合,https://livecdn.dmqhyadmin.com/hls/xjdulan.m3u8
 📺　辽宁,#genre#
-
 辽宁都市,https://cc06.tv12.xyz/74.m3u8
 辽宁公共,https://cc06.tv12.xyz/75.m3u8
 辽宁公共,https://cc06.tv12.xyz/76.m3u8
@@ -2609,22 +2593,6 @@ TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 锦州新闻综合,https://cc06.tv12.xyz/87.m3u8
 辽阳新闻综合,https://cc06.tv12.xyz/89.m3u8
 📺黑龙江,#genre#
-黑龙江卫视,http://112.122.33.149:85/tsfile/live/1084_1.m3u8?key=txiptv&playlive=0&authid=0
-黑龙江卫视,http://112.122.32.141:85/tsfile/live/1084_1.m3u8?key=txiptv&playlive=0&authid=0
-黑龙江卫视,http://112.122.33.119:85/tsfile/live/1084_1.m3u8?key=txiptv&playlive=0&authid=0
-黑龙江卫视,http://112.122.32.151:85/tsfile/live/1084_1.m3u8?key=txiptv&playlive=0&authid=0
-黑龙江卫视,http://112.122.33.79:85/tsfile/live/1084_1.m3u8?key=txiptv&playlive=0&authid=0
-黑龙江卫视,http://112.122.33.152:85/tsfile/live/1084_1.m3u8?key=txiptv&playlive=0&authid=0
-黑龙江卫视,http://112.122.33.162:85/tsfile/live/1084_1.m3u8?key=txiptv&playlive=0&authid=0
-黑龙江卫视,http://112.123.208.223:85/tsfile/live/1084_1.m3u8?key=txiptv&playlive=0&authid=0
-黑龙江卫视,http://218.89.240.144:59901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-黑龙江卫视,http://112.123.210.115:85/tsfile/live/1084_1.m3u8?key=txiptv&playlive=0&authid=0
-黑龙江卫视,http://112.123.210.31:85/tsfile/live/1084_1.m3u8?key=txiptv&playlive=0&authid=0
-黑龙江卫视,http://112.123.209.77:85/tsfile/live/1084_1.m3u8?key=txiptv&playlive=0&authid=0
-黑龙江卫视,http://112.123.209.31:85/tsfile/live/1084_1.m3u8?key=txiptv&playlive=0&authid=0
-黑龙江卫视,http://112.123.210.100:85/tsfile/live/1084_1.m3u8?key=txiptv&playlive=0&authid=0
-黑龙江卫视,http://112.123.209.253:85/tsfile/live/1084_1.m3u8?key=txiptv&playlive=0&authid=0
-黑龙江卫视,http://112.123.210.46:85/tsfile/live/1084_1.m3u8?key=txiptv&playlive=0&authid=0
 黑龙江卫视,https://idclive.hljtv.com:4430/live/hljws_own.m3u8
 黑龙江新闻法治,https://idclive.hljtv.com:4430/live/hljxw_hd.m3u8
 黑龙江文体,https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
@@ -3026,6 +2994,21 @@ TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 西藏卫视,http://www.lysvc.cc/daili/xztv.php
 西藏卫视,http://www.lysvc.cc/daili/xztv.php?id=0
 西藏藏语卫视,http://www.lysvc.cc/daili/xztv.php?id=1
+🌐　华文,#genre#
+新加坡CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+马来西亚Astro奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
+马来西亚astroAod,http://php.jdshipin.com:8880/smt.php?id=Aodhd
+马来西亚astro-QJ,http://php.jdshipin.com/smt.php?id=Quanjia
+马来西亚astroAec,http://php.jdshipin.com/smt.php?id=AEC
+马来西亚astroAod,http://php.jdshipin.com/smt.php?id=Aodhd
+马来西亚astro欢喜,http://php.jdshipin.com/smt.php?id=Huahee
+马来西亚astroAod,http://php.jdshipin.com/PLTV/iptv.php?id=aod
+马来西亚astroAod,http://cdn9.163189.xyz/smt1.1.php?id=Aodhd
+马来西亚8度空间,http://php.jdshipin.com/smt.php?id=TV8
+美亚电影,http://php.jdshipin.com/PLTV/iptv.php?id=meiya
+天映频道,http://php.jdshipin.com/smt.php?id=Celestial
+天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
+星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 🌊　宝岛,#genre#
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
 台视新闻,https://live.wcetv.com/hls/m3u8/ttvnews.m3u8
@@ -3241,6 +3224,7 @@ CHC影迷电影,http://183.239.236.91:8088/hls/92/index.m3u8
 腿抽筋处理方法,https://vod.youlai.cn/7f2828acc5f9432881f3833f3c13c7c5/01d1195f0ae04895852098bbf4f00886-18da40cf01b9dbc6b9b5d04d3cca74b9-sd.mp4
 脚扭伤处理方法,https://vod.youlai.cn/9ad15caadeba46f39630339787ac3bb6/b912d1569e1643ae92a0bd300942503f-5672574782b93ec8561c4b417d0e676d-sd.mp4
 异物插入眼急救法,https://vod.youlai.cn/f5cfb00203964752aaed8ebca1d5cf32/ad515860d7034de28e6b24625fa5564d-ab7a86b8c4699758b4af49ddd309f562-sd.mp4
+
 
 
 
