@@ -68,11 +68,11 @@ CCTV9纪录,http://113.26.202.52:1299/tsfile/live/0009_1.m3u8
 CCTV10科教,http://113.26.202.52:1299/tsfile/live/0010_1.m3u8
 CCTV14少儿,http://113.26.202.52:1299/tsfile/live/0014_1.m3u8
 CCTV1综合,http://tvtj.jxwltx.com:8003/cctv1.m3u8
-CCTV03综艺,http://tvtj.jxwltx.com:8003/cctv3.m3u8
-CCTV05体育,http://tvtj.jxwltx.com:8003/cctv5.m3u8
-CCTV06电影,http://tvtj.jxwltx.com:8003/cctv6.m3u8
-CCTV08电视剧,http://tvtj.jxwltx.com:8003/cctv8.m3u8
-CCTV09纪录,http://tvtj.jxwltx.com:8003/cctv9.m3u8
+CCTV3综艺,http://tvtj.jxwltx.com:8003/cctv3.m3u8
+CCTV5体育,http://tvtj.jxwltx.com:8003/cctv5.m3u8
+CCTV6电影,http://tvtj.jxwltx.com:8003/cctv6.m3u8
+CCTV8电视剧,http://tvtj.jxwltx.com:8003/cctv8.m3u8
+CCTV9纪录,http://tvtj.jxwltx.com:8003/cctv9.m3u8
 CCTV10科教,http://tvtj.jxwltx.com:8003/cctv10.m3u8
 CCTV11戏曲,http://tvtj.jxwltx.com:8003/cctv11.m3u8
 CCTV16奥林匹克,http://tvtj.jxwltx.com:8003/cctv5p.m3u8
@@ -111,7 +111,6 @@ CCTV高尔夫网球,http://www.qhjx.top:18000/udp/238.255.2.223:5999
 CCTV4K高清,http://www.qhjx.top:18000/udp/238.255.2.139:5999
 CETV早期教育,http://www.qhjx.top:18000/udp/238.255.2.143:5999
 CETV中国教育1,http://www.qhjx.top:18000/udp/238.255.2.105:5999
-中华美食,http://www.qhjx.top:18000/udp/238.255.2.142:5999
 CETV中国教育1,http://m.061899.xyz/mg/cetv1
 CETV中国教育2,http://m.061899.xyz/mg/cetv2
 CCTV16奥林匹克,http://nas.201606.xyz:4022/rtp/239.10.0.187:5140
@@ -317,7 +316,7 @@ CCTV10科教,http://api.kkitv.itv888.cn:8080/hls/wd86wxjxn8/index.m3u8
 CCTV12社会与法,http://api.kkitv.itv888.cn:8080/hls/nwfb31kwc3l/index.m3u8
 CCTV14少儿,http://api.kkitv.itv888.cn:8080/hls/dyfpqk8fpzi/index.m3u8
 CCTV15音乐,http://api.kkitv.itv888.cn:8080/hls/hcwu4ianhgw/index.m3u8
-CCTV16,http://api.kkitv.itv888.cn:8080/hls/qazacsm0hgl/index.m3u8
+CCTV16奥林匹克,http://api.kkitv.itv888.cn:8080/hls/qazacsm0hgl/index.m3u8
 CCTV5+体育赛事,http://api.kkitv.itv888.cn:8080/hls/xsb4znrv3c/index.m3u8
 CETV中国教育1,https://cc06.tv12.xyz/23.m3u8
 CCTV重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
@@ -382,19 +381,10 @@ CETV中国教育1,http://gmxw.7766.org:808/hls/122/index.m3u8
 康巴卫视,http://127.0.0.1
 安多卫视,http://127.0.0.1
 延边卫视,http://127.0.0.1
-北京卫视,http://m.061899.xyz/mg/bjws
-东方卫视,http://m.061899.xyz/mg/dfws
-江苏卫视,http://m.061899.xyz/mg/jsws
-河南卫视,http://m.061899.xyz/mg/hnws
-江西卫视,http://m.061899.xyz/mg/jxws
-湖北卫视,http://m.061899.xyz/mg/hubws
-海南卫视,http://m.061899.xyz/mg/hinws
-甘肃卫视,http://m.061899.xyz/mg/gsws
-青海卫视,http://m.061899.xyz/mg/qhws
 新疆卫视,http://m.061899.xyz/mg/xjws
 西藏卫视,http://m.061899.xyz/mg/xzws
 兵团卫视,http://m.061899.xyz/mg/btws
-内蒙古视,http://m.061899.xyz/mg/nmgws
+内蒙古卫视,http://m.061899.xyz/mg/nmgws
 浙江卫视,http://180.105.218.230:4022/rtp/239.49.8.139:6000
 东方卫视,http://180.105.218.230:4022/rtp/239.49.8.140:6000
 广东卫视,http://180.105.218.230:4022/rtp/239.49.8.143:6000
@@ -423,7 +413,7 @@ CETV中国教育1,http://gmxw.7766.org:808/hls/122/index.m3u8
 天津卫视,http://180.105.218.230:4022/rtp/239.49.8.35:8620
 安徽卫视,http://113.26.202.52:1299/tsfile/live/0130_1.m3u8
 北京卫视,http://113.26.202.52:1299/tsfile/live/0122_1.m3u8
-上海卫视,http://113.26.202.52:1299/tsfile/live/0107_1.m3u8
+东方卫视,http://113.26.202.52:1299/tsfile/live/0107_1.m3u8
 江苏卫视,http://113.26.202.52:1299/tsfile/live/0127_1.m3u8
 湖南卫视,http://113.26.202.52:1299/tsfile/live/0128_1.m3u8
 湖北卫视,http://113.26.202.52:1299/tsfile/live/0132_1.m3u8
@@ -2035,6 +2025,7 @@ TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 📺　贵州,#genre#
 贵州卫视,http://zzssw01.55555.io:9901/tsfile/live/0120_1.m3u8
 贵州文旅,http://www.qhjx.top:18000/udp/238.255.2.141:5999
+贵州文旅,http://www.qhjx.top:18000/udp/238.255.2.142:5999
 贵州公共,http://www.qhjx.top:18000/udp/238.255.2.2:5999
 贵州文艺,http://www.qhjx.top:18000/udp/238.255.2.3:5999
 贵州大众生活,http://www.qhjx.top:18000/udp/238.255.2.4:5999
@@ -3105,6 +3096,7 @@ CHC影迷电影,http://183.239.236.91:8088/hls/92/index.m3u8
 腿抽筋处理方法,https://vod.youlai.cn/7f2828acc5f9432881f3833f3c13c7c5/01d1195f0ae04895852098bbf4f00886-18da40cf01b9dbc6b9b5d04d3cca74b9-sd.mp4
 脚扭伤处理方法,https://vod.youlai.cn/9ad15caadeba46f39630339787ac3bb6/b912d1569e1643ae92a0bd300942503f-5672574782b93ec8561c4b417d0e676d-sd.mp4
 异物插入眼急救法,https://vod.youlai.cn/f5cfb00203964752aaed8ebca1d5cf32/ad515860d7034de28e6b24625fa5564d-ab7a86b8c4699758b4af49ddd309f562-sd.mp4
+
 
 
 
