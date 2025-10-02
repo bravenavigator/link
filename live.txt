@@ -748,8 +748,8 @@ County News Center,https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/sdcounty/G0283_012/
 欧洲华文七套,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
 📺　广东,#genre#
 广东卫视4K,http://nas.201606.xyz:4022/rtp/239.10.0.94:5140
-深圳卫视4K,http://nas.201606.xyz:4022/rtp/239.10.0.93:5140
 深圳卫视4K,https://cdn3.163189.xyz/163189/szws4k
+深圳卫视4K,http://nas.201606.xyz:4022/rtp/239.10.0.93:5140
 广东新闻,http://tvtj1.jxwltx.com:8003/live2825.m3u8
 广东珠江,http://tvtj1.jxwltx.com:8003/live2897.m3u8
 广东民生,http://tvtj1.jxwltx.com:8003/dfws.m3u8
@@ -920,6 +920,7 @@ County News Center,https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/sdcounty/G0283_012/
 凤凰中文,http://live4play.uk/livehttpplay?channel_id=30014
 凤凰中文,http://live4play.uk/livehttpplay?channel_id=20065
 TVB翡翠,https://cdn6.163189.xyz/163189/fct4k
+TVB翡翠,https://mytv.cdn.loc.cc/o12.php?id=fct
 TVB翡翠,http://api.mg.itv888.cn:8080/hls/4bb8922027c/index.m3u8
 TVB翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 TVB翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
@@ -2915,6 +2916,9 @@ TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 西藏藏语卫视,http://www.lysvc.cc/daili/xztv.php?id=1
 🌐　华文,#genre#
 新加坡CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+新加坡CHU,http://cdn6.163189.xyz/163189/chu
+新加坡CH5,http://cdn6.163189.xyz/163189/ch5
+新加坡CH8,http://cdn6.163189.xyz/163189/ch8
 马来西亚Astro奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
 马来西亚astroAod,http://php.jdshipin.com:8880/smt.php?id=Aodhd
 马来西亚astro-QJ,http://php.jdshipin.com/smt.php?id=Quanjia
@@ -2940,6 +2944,7 @@ TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 龙华偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8
 龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+龙华洋片,https://cdn8.163189.xyz/live/lhyp/stream.m3u8
 龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
 纬来睛彩,http://61.221.215.25:8800/hls/48/index.m3u8
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
@@ -3143,43 +3148,3 @@ CHC影迷电影,http://183.239.236.91:8088/hls/92/index.m3u8
 腿抽筋处理方法,https://vod.youlai.cn/7f2828acc5f9432881f3833f3c13c7c5/01d1195f0ae04895852098bbf4f00886-18da40cf01b9dbc6b9b5d04d3cca74b9-sd.mp4
 脚扭伤处理方法,https://vod.youlai.cn/9ad15caadeba46f39630339787ac3bb6/b912d1569e1643ae92a0bd300942503f-5672574782b93ec8561c4b417d0e676d-sd.mp4
 异物插入眼急救法,https://vod.youlai.cn/f5cfb00203964752aaed8ebca1d5cf32/ad515860d7034de28e6b24625fa5564d-ab7a86b8c4699758b4af49ddd309f562-sd.mp4
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
