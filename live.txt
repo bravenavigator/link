@@ -978,12 +978,12 @@ RTHK32,http://php.jdshipin.com/smt.php?id=rhk32_twn
 RTHK33(CCTV1),http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
 澳视澳门,http://php.jdshipin.com/PLTV/iptv.php?id=asam
-澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as
-澳视卫星,http://php.jdshipin.com/PLTV/iptv.php?id=as
-澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as
-澳视卫星,http://103.233.191.134:1935/ch3/ch3.live/playlist.m3u8
-澳视卫星,http://103.233.191.133:1935/ch3/ch3.live/playlist.m3u8
-澳视卫星,http://103.233.191.132:1935/ch3/ch3.live/playlist.m3u8
+澳门卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as
+澳门卫星,http://php.jdshipin.com/PLTV/iptv.php?id=as
+澳门卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as
+澳门卫星,http://103.233.191.134:1935/ch3/ch3.live/playlist.m3u8
+澳门卫星,http://103.233.191.133:1935/ch3/ch3.live/playlist.m3u8
+澳门卫星,http://103.233.191.132:1935/ch3/ch3.live/playlist.m3u8
 澳视澳门,http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8
 澳视澳门,http://103.233.191.133:1935/ch1/ch1.live/playlist.m3u8
 澳视葡文,http://103.233.191.132:1935/ch2/ch2.live/playlist.m3u8
@@ -994,19 +994,19 @@ RTHK33(CCTV1),http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 澳门综艺,http://103.233.191.134:1935/ch6/hd_ch6.live/playlist.m3u8
 澳门综艺,http://103.233.191.132:1935/ch6/hd_ch6.live/playlist.m3u8
 澳门综艺,http://103.233.191.133:1935/ch6/hd_ch6.live/playlist.m3u8
-澳视体育,http://103.233.191.132:1935/ch4/sport_ch4.live/playlist.m3u8
-澳视体育,http://103.233.191.133:1935/ch4/sport_ch4.live/playlist.m3u8
-澳视体育,http://103.233.191.134:1935/ch4/sport_ch4.live/playlist.m3u8
+澳门体育,http://103.233.191.132:1935/ch4/sport_ch4.live/playlist.m3u8
+澳门体育,http://103.233.191.133:1935/ch4/sport_ch4.live/playlist.m3u8
+澳门体育,http://103.233.191.134:1935/ch4/sport_ch4.live/playlist.m3u8
 澳视澳门,https://149.102.97.122/ch1/ch1.live/playlist.m3u8
 澳视澳门,https://149.102.97.122/ch2/ch2.live/playlist.m3u8
 澳门资讯,https://149.102.97.122/ch5/info_ch5.live/playlist.m3u8
 澳门综艺,https://149.102.97.122/ch6/hd_ch6.live/playlist.m3u8
-澳视体育,https://149.102.97.122/ch4/sport_ch4.live/playlist.m3u8
-澳视卫星,https://fenghuang.tv12.xyz/183.m3u8
+澳门体育,https://149.102.97.122/ch4/sport_ch4.live/playlist.m3u8
+澳门卫星,https://fenghuang.tv12.xyz/183.m3u8
 澳视澳门,https://fenghuang.tv12.xyz/181.m3u8
-澳视资讯,https://fenghuang.tv12.xyz/185.m3u8
-澳视综艺,https://fenghuang.tv12.xyz/186.m3u8
-澳视体育,https://fenghuang.tv12.xyz/184.m3u8
+澳门资讯,https://fenghuang.tv12.xyz/185.m3u8
+澳门综艺,https://fenghuang.tv12.xyz/186.m3u8
+澳门体育,https://fenghuang.tv12.xyz/184.m3u8
 澳视葡文,https://fenghuang.tv12.xyz/182.m3u8
 莲花卫视,https://fenghuang.tv12.xyz/187.m3u8
 亚洲卫视,https://fenghuang.tv12.xyz/173.m3u8
@@ -1062,15 +1062,15 @@ TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 📺　上海,#genre#
 东方卫视,http://cdn.jdshipin.com/kdf.php?id=22
 上海新闻综合,http://cdn.jdshipin.com/kdf.php?id=20
-第一财经,http://cdn.jdshipin.com/kdf.php?id=21
 上海都市,http://cdn.jdshipin.com/kdf.php?id=18
-五星体育,http://cdn.jdshipin.com/kdf.php?id=1605
+第一财经,http://cdn.jdshipin.com/kdf.php?id=21
 上海新纪实,http://cdn.jdshipin.com/kdf.php?id=1600
 乐游频道,http://cdn.jdshipin.com/kdf.php?id=1745
 东方卫视,http://cdn.jdshipin.com/kkxw.php?id=1
 上海新闻综合,http://cdn.jdshipin.com/kkxw.php?id=2
 上海都市,http://cdn.jdshipin.com/kkxw.php?id=4
 第一财经,http://cdn.jdshipin.com/kkxw.php?id=5
+五星体育,http://cdn.jdshipin.com/kdf.php?id=1605
 五星体育,http://cdn.jdshipin.com/kkxw.php?id=10
 上海魔都眼,http://cdn.jdshipin.com/kkxw.php?id=11
 上海新纪实,http://cdn.jdshipin.com/kkxw.php?id=12
@@ -1139,7 +1139,6 @@ TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 江苏新闻,http://180.105.218.230:4022/rtp/239.49.8.120:8000
 江苏教育,http://180.105.218.230:4022/rtp/239.49.8.122:8000
 江苏国际,http://180.105.218.230:4022/rtp/239.49.1.23:6000
-财富天下,http://180.105.218.230:4022/rtp/239.49.1.29:6000
 优漫卡通,http://180.105.218.230:4022/rtp/239.49.8.119:8000
 江苏新闻,https://zhibo-hls.jstv.com/litchi/zhibo-jsgg.m3u8
 江苏卫视,http://live.nctv.top/JKHdjsi/jstv5.php?id=jsws
@@ -3148,6 +3147,7 @@ CHC影迷电影,http://183.239.236.91:8088/hls/92/index.m3u8
 腿抽筋处理方法,https://vod.youlai.cn/7f2828acc5f9432881f3833f3c13c7c5/01d1195f0ae04895852098bbf4f00886-18da40cf01b9dbc6b9b5d04d3cca74b9-sd.mp4
 脚扭伤处理方法,https://vod.youlai.cn/9ad15caadeba46f39630339787ac3bb6/b912d1569e1643ae92a0bd300942503f-5672574782b93ec8561c4b417d0e676d-sd.mp4
 异物插入眼急救法,https://vod.youlai.cn/f5cfb00203964752aaed8ebca1d5cf32/ad515860d7034de28e6b24625fa5564d-ab7a86b8c4699758b4af49ddd309f562-sd.mp4
+
 
 
 
