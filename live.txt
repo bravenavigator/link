@@ -98,11 +98,27 @@ CCTV16奥林匹克,http://163.142.186.49:9901/tsfile/live/1016_1.m3u8?key=txiptv
 CCTV16奥林匹克,http://163.142.186.56:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV16奥林匹克,http://nas.201606.xyz:4022/rtp/239.10.0.187:5140
 CCTV16奥林匹克,http://nas.201606.xyz:4022/udp/239.11.0.67:5140
+CCTV1综合,http://120.76.248.139/live/bfgd/4200000484.m3u8
+CCTV1综合,http://120.76.248.139/live/bfgd/4200000488.m3u8
+CCTV1综合,http://120.76.248.139/live/bfgd/4200000489.m3u8
+CCTV1综合,http://120.76.248.139/live/bfgd/4200000201.m3u8
+CCTV2财经,http://120.76.248.139/live/bfgd/4200000061.m3u8
+CCTV3综艺,http://120.76.248.139/live/bfgd/4200000062.m3u8
+CCTV4中文国际,http://120.76.248.139/live/bfgd/4200000063.m3u8
+CCTV5体育,http://120.76.248.139/live/bfgd/4200000064.m3u8
 CCTV5+体育赛事,http://120.76.248.139/live/bfgd/4200000246.m3u8
+CCTV6电影,http://120.76.248.139/live/bfgd/4200000065.m3u8
 CCTV7国防军事,http://120.76.248.139/live/bfgd/4200000127.m3u8
+CCTV8电视剧,http://120.76.248.139/live/bfgd/4200000066.m3u8
+CCTV9纪录,http://120.76.248.139/live/bfgd/4200000128.m3u8
+CCTV10科教,http://120.76.248.139/live/bfgd/4200000129.m3u8
 CCTV11戏曲,http://120.76.248.139/live/bfgd/4200000130.m3u8
+CCTV12社会与法,http://120.76.248.139/live/bfgd/4200000131.m3u8
+CCTV13新闻,http://120.76.248.139/live/bfgd/4200000067.m3u8
+CCTV14少儿,http://120.76.248.139/live/bfgd/4200000132.m3u8
 CCTV15音乐,http://120.76.248.139/live/bfgd/4200000133.m3u8
 CCTV17农业农村,http://120.76.248.139/live/bfgd/4200000204.m3u8
+CETV中国教育1,http://120.76.248.139/live/bfgd/4200000135.m3u8
 CCTV1综合,http://113.26.202.52:1299/tsfile/live/0001_1.m3u8
 CCTV2财经,http://113.26.202.52:1299/tsfile/live/0002_1.m3u8
 CCTV5体育,http://113.26.202.52:1299/tsfile/live/0005_1.m3u8
@@ -466,13 +482,27 @@ CETV中国教育1,http://gmxw.7766.org:808/hls/122/index.m3u8
 天津卫视,http://113.26.202.52:1299/tsfile/live/0135_1.m3u8
 浙江卫视,http://113.26.202.52:1299/tsfile/live/0124_1.m3u8
 深圳卫视,http://113.26.202.52:1299/tsfile/live/0126_1.m3u8
-江苏卫视,http://120.76.248.139/live/bfgd/4200000085.m3u8
 东方卫视,http://120.76.248.139/live/bfgd/4200000093.m3u8
-海南卫视,http://120.76.248.139/live/bfgd/4200000473.m3u8
-河北卫视,http://120.76.248.139/live/bfgd/4200000108.m3u8
+东南卫视,http://120.76.248.139/live/bfgd/4200000483.m3u8
+广东卫视,http://120.76.248.139/live/bfgd/4200000092.m3u8
+甘肃卫视,http://120.76.248.139/live/bfgd/4200000119.m3u8
+广西卫视,http://120.76.248.139/live/bfgd/4200000116.m3u8
+贵州卫视,http://120.76.248.139/live/bfgd/4200000101.m3u8
+河南卫视,http://120.76.248.139/live/bfgd/4200000339.m3u8
 湖北卫视,http://120.76.248.139/live/bfgd/4200000102.m3u8
+河北卫视,http://120.76.248.139/live/bfgd/4200000108.m3u8
+黑龙江卫视,http://120.76.248.139/live/bfgd/4200000095.m3u8
+湖南卫视,http://120.76.248.139/live/bfgd/4200000350.m3u8
+湖南卫视,http://120.76.248.139/live/bfgd/4200000086.m3u8
+吉林卫视,http://120.76.248.139/live/bfgd/4200000097.m3u8
 江苏卫视,http://120.76.248.139/live/bfgd/4200000085.m3u8
+江西卫视,http://120.76.248.139/live/bfgd/4200000098.m3u8
+海南卫视,http://120.76.248.139/live/bfgd/4200000473.m3u8
 青海卫视,http://120.76.248.139/live/bfgd/4200000111.m3u8
+四川卫视,http://120.76.248.139/live/bfgd/4200000103.m3u8
+山东卫视,http://120.76.248.139/live/bfgd/4200000099.m3u8
+陕西卫视,http://120.76.248.139/live/bfgd/4200000512.m3u8
+山西卫视,http://120.76.248.139/live/bfgd/4200000109.m3u8
 深圳卫视,http://120.76.248.139/live/bfgd/4200000100.m3u8
 浙江卫视,http://120.76.248.139/live/bfgd/4200000094.m3u8
 河南卫视,http://43.143.254.239:55232/hls/40/index.m3u8
@@ -741,6 +771,9 @@ County News Center,https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/sdcounty/G0283_012/
 广东少儿,http://tvtj1.jxwltx.com:8003/live1570.m3u8
 嘉佳卡通,http://tvtj1.jxwltx.com:8003/live1328.m3u8
 大湾区卫视,http://tvtj.jxwltx.com:8003/neimenggu.m3u8
+广东珠江,rtmp://116.63.53.136/live/gdzj
+广东民生,rtmp://116.63.53.136/live/gdms
+大湾区卫视,rtmp://116.63.53.136/live/dwqws
 广东新闻,http://atsj.tv.inf.ua/php/gd.php?id=gdxw
 广东影视,http://atsj.tv.inf.ua/php/gd.php?id=gdys
 广东珠江,http://atsj.tv.inf.ua/php/gd.php?id=gdzj
@@ -2470,6 +2503,28 @@ TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 海南兴海综合,http://lived.dmqhyadmin.com/xhzhpd/sd/live.m3u8
 海西都兰综合,https://livecdn.dmqhyadmin.com/hls/xjdulan.m3u8
 📺　辽宁,#genre#
+辽宁卫视,http://ygbh.site/php/bfgd.php?id=058
+辽宁北方,http://ygbh.site/php/bfgd.php?id=071
+辽宁生活,http://ygbh.site/php/bfgd.php?id=073
+辽宁体育,http://ygbh.site/php/bfgd.php?id=611
+辽宁影视剧,http://ygbh.site/php/bfgd.php?id=070
+辽宁教育青少,http://ygbh.site/php/bfgd.php?id=075
+辽宁经济,http://ygbh.site/php/bfgd.php?id=076
+辽宁公共,http://ygbh.site/php/bfgd.php?id=077
+辽宁公共,http://ygbh.site/php/bfgd.php?id=481
+辽宁经济,http://ygbh.site/php/bfgd.php?id=480
+社区老年教育课堂,http://ygbh.site/php/bfgd.php?id=615
+沈阳新闻综合,http://ygbh.site/php/bfgd.php?id=059
+大连新闻综合,http://ygbh.site/php/bfgd.php?id=273
+抚顺综合,http://ygbh.site/php/bfgd.php?id=275
+鞍山新闻综合,http://ygbh.site/php/bfgd.php?id=274
+丹东新闻综合,http://ygbh.site/php/bfgd.php?id=276
+锦州新闻综合,http://ygbh.site/php/bfgd.php?id=277
+辽阳新闻综合,http://ygbh.site/php/bfgd.php?id=280
+盘锦新闻综合,http://ygbh.site/php/bfgd.php?id=283
+朝阳新闻综合,http://ygbh.site/php/bfgd.php?id=282
+本溪综合,http://ygbh.site/php/bfgd.php?id=312
+葫芦岛新闻综合,http://ygbh.site/php/bfgd.php?id=284
 辽宁都市,https://cc06.tv12.xyz/74.m3u8
 辽宁公共,https://cc06.tv12.xyz/75.m3u8
 辽宁公共,https://cc06.tv12.xyz/76.m3u8
@@ -3142,6 +3197,7 @@ CHC影迷电影,http://183.239.236.91:8088/hls/92/index.m3u8
 腿抽筋处理方法,https://vod.youlai.cn/7f2828acc5f9432881f3833f3c13c7c5/01d1195f0ae04895852098bbf4f00886-18da40cf01b9dbc6b9b5d04d3cca74b9-sd.mp4
 脚扭伤处理方法,https://vod.youlai.cn/9ad15caadeba46f39630339787ac3bb6/b912d1569e1643ae92a0bd300942503f-5672574782b93ec8561c4b417d0e676d-sd.mp4
 异物插入眼急救法,https://vod.youlai.cn/f5cfb00203964752aaed8ebca1d5cf32/ad515860d7034de28e6b24625fa5564d-ab7a86b8c4699758b4af49ddd309f562-sd.mp4
+
 
 
 
