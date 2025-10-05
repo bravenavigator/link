@@ -943,6 +943,7 @@ Now新闻,https://a.ru8.dpdns.org/now/332/master.m3u8
 Now新闻,http://cdn.163189.xyz/163189/now
 Now星影,http://hkenlive.uk/livehttpplay?channel_id=13003
 Now爆谷,http://hkenlive.uk/livehttpplay?channel_id=13002
+HOY 77,https://cdn6.101.qzz.io/163189/hoy
 HOY 77,http://api.mg.itv888.cn:8080/hls/5e12ccd9191/index.m3u8
 HOY 77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 HOY 77,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv
@@ -1007,6 +1008,7 @@ TVB明珠,http://php.jdshipin.com/PLTV/iptv.php?id=mzt2
 TVB明珠,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
 TVB明珠,http://php.jdshipin.com/iptv.php?id=mzt
 TVB明珠,http://php.jdshipin.com/smt.php?id=pearl_twn
+TVB星河(粤),https://cdn6.101.qzz.io/163189/tvbxh
 TVB星河(粤),http://php.jdshipin.com/smt.php?id=Xinhe
 TVB星河(粤),http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
 TVB星河(粤),http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
@@ -1067,7 +1069,6 @@ TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 东方纪实,http://m.061899.xyz/mg/xjs
 第一财经,https://cdn3.163189.xyz/163189/dycj
 五星体育,https://cdn3.163189.xyz/163189/wxty
-欢笑剧场,http://1.195.226.140:8822/rtp/239.16.20.39:10390
 东方影视,https://zby.130519.xyz/PLTV/11/224/3221225744/index.m3u8
 东方财经,https://zby.130519.xyz/PLTV/11/224/3221226134/index.m3u8
 第一财经,https://zby.130519.xyz/PLTV/11/224/3221225737/index.m3u8
@@ -2916,12 +2917,23 @@ TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
 星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 🌊　宝岛,#genre#
-中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
+中天新闻,rtmp://hc.siqianginfo.com/live/yifatv-ztxw01
+中天新闻,rtmp://hc.siqianginfo.com/live/yifatv-ztxw02
+中视新闻,http://123.51.136.80:8302/0.ts
+民视新闻,http://123.51.136.80:8310/0.ts
+台视新闻,http://123.51.136.80:8314/0.ts
+台视财经,http://123.51.136.80:8315/0.ts
+华视新闻,http://123.51.136.80:8319/0.ts
+TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=145
+中天新闻,http://iptv.4666888.xyz/iptv2A.php?id=141
+非凡新闻,http://iptv.4666888.xyz/iptv2A.php?id=122
+寰宇新闻,http://iptv.4666888.xyz/iptv2A.php?id=123
+华视新闻,http://iptv.4666888.xyz/iptv2A.php?id=117
+民视新闻,http://iptv.4666888.xyz/iptv2A.php?id=109
 台视新闻,https://live.wcetv.com/hls/m3u8/ttvnews.m3u8
 台视新闻,https://live.wcetv.com/hls/master-ttvnews.m3u8
 台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
 龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 龙华经典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
 龙华偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8
@@ -3131,6 +3143,7 @@ CHC影迷电影,http://183.239.236.91:8088/hls/92/index.m3u8
 腿抽筋处理方法,https://vod.youlai.cn/7f2828acc5f9432881f3833f3c13c7c5/01d1195f0ae04895852098bbf4f00886-18da40cf01b9dbc6b9b5d04d3cca74b9-sd.mp4
 脚扭伤处理方法,https://vod.youlai.cn/9ad15caadeba46f39630339787ac3bb6/b912d1569e1643ae92a0bd300942503f-5672574782b93ec8561c4b417d0e676d-sd.mp4
 异物插入眼急救法,https://vod.youlai.cn/f5cfb00203964752aaed8ebca1d5cf32/ad515860d7034de28e6b24625fa5564d-ab7a86b8c4699758b4af49ddd309f562-sd.mp4
+
 
 
 
