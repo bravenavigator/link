@@ -43,6 +43,18 @@ CETV中国教育4,http://127.0.0.1
 中国交通,http://127.0.0.1
 中国天气,http://127.0.0.1
 CCTV14少儿,http://8.138.7.223/tv/cctv7.m3u8
+CCTV1综合,https://httop.top/yspcctv1
+CCTV2财经,https://httop.top/yspcctv2
+CCTV3综艺,https://httop.top/yspcctv3
+CCTV4中文国际,https://httop.top/yspcctv4
+CCTV5体育,https://httop.top/yspcctv5
+CCTV5+体育赛事,https://httop.top/yspcctv5+
+CCTV6电影,https://httop.top/yspcctv6
+CCTV7国防军事,https://httop.top/yspcctv7
+CCTV8电视剧,https://httop.top/yspcctv8
+CCTV9纪录,https://httop.top/yspcctv9
+CCTV13新闻,https://httop.top/yspcctv13
+CCTV4K高清,https://httop.top/yspcctv8k
 CCTV1综合,http://tvtj.jxwltx.com:8003/cctv1.m3u8
 CCTV3综艺,http://tvtj.jxwltx.com:8003/cctv3.m3u8
 CCTV5体育,http://tvtj.jxwltx.com:8003/cctv5.m3u8
@@ -366,6 +378,38 @@ CETV中国教育1,http://gmxw.7766.org:808/hls/122/index.m3u8
 康巴卫视,http://127.0.0.1
 安多卫视,http://127.0.0.1
 延边卫视,http://127.0.0.1
+北京卫视,https://httop.top/ysp-北京卫视
+东方卫视,https://httop.top/ysp-东方卫视
+江苏卫视,https://httop.top/ysp-江苏卫视
+浙江卫视,https://httop.top/ysp-浙江卫视
+湖南卫视,https://httop.top/ysp-湖南卫视
+湖北卫视,https://httop.top/ysp-湖北卫视
+广东卫视,https://httop.top/ysp-广东卫视
+广西卫视,https://httop.top/ysp-广西卫视
+黑龙江卫视,https://httop.top/ysp-黑龙江卫视
+海南卫视,https://httop.top/ysp-海南卫视
+重庆卫视,https://httop.top/ysp-重庆卫视
+深圳卫视,https://httop.top/ysp-深圳卫视
+四川卫视,https://httop.top/ysp-四川卫视
+河南卫视,https://httop.top/ysp-河南卫视
+东南卫视,https://httop.top/ysp-东南卫视
+贵州卫视,https://httop.top/ysp-贵州卫视
+江西卫视,https://httop.top/ysp-江西卫视
+辽宁卫视,https://httop.top/ysp-辽宁卫视
+安徽卫视,https://httop.top/ysp-安徽卫视
+河北卫视,https://httop.top/ysp-河北卫视
+山东卫视,https://httop.top/ysp-山东卫视
+天津卫视,https://httop.top/ysp-天津卫视
+吉林卫视,https://httop.top/ysp-吉林卫视
+陕西卫视,https://httop.top/ysp-陕西卫视
+甘肃卫视,https://httop.top/ysp-甘肃卫视
+宁夏卫视,https://httop.top/ysp-宁夏卫视
+内蒙古卫视,https://httop.top/ysp-内蒙古卫视
+云南卫视,https://httop.top/ysp-云南卫视
+山西卫视,https://httop.top/ysp-山西卫视
+青海卫视,https://httop.top/ysp-青海卫视
+新疆卫视,https://httop.top/ysp-新疆卫视
+兵团卫视,https://httop.top/ysp-兵团卫视
 宁夏卫视,http://go.bkpcp.top/mg/nxws
 新疆卫视,http://go.bkpcp.top/mg/xjws
 兵团卫视,http://m.061899.xyz/mg/btws
@@ -655,6 +699,11 @@ CGTN俄语,http://127.0.0.1
 CGTN西语,http://127.0.0.1
 CGTN阿语,http://127.0.0.1
 CGTN纪录,http://127.0.0.1
+CGTN法语,https://httop.top/ysp-cgtn法语
+CGTN俄语,https://httop.top/ysp-cgtn俄语
+CGTN阿语,https://httop.top/ysp-cgtn阿语
+CGTN西语,https://httop.top/ysp-cgtn西语
+CGTN纪录,https://httop.top/ysp-cgtn纪录
 CGTN英语,https://0472.org/hls/cgtn.m3u8
 CGTN纪录,https://0472.org/hls/cgtnd.m3u8
 CGTN俄语,https://0472.org/hls/cgtne.m3u8
@@ -3149,6 +3198,7 @@ CHC影迷电影,http://183.239.236.91:8088/hls/92/index.m3u8
 腿抽筋处理方法,https://vod.youlai.cn/7f2828acc5f9432881f3833f3c13c7c5/01d1195f0ae04895852098bbf4f00886-18da40cf01b9dbc6b9b5d04d3cca74b9-sd.mp4
 脚扭伤处理方法,https://vod.youlai.cn/9ad15caadeba46f39630339787ac3bb6/b912d1569e1643ae92a0bd300942503f-5672574782b93ec8561c4b417d0e676d-sd.mp4
 异物插入眼急救法,https://vod.youlai.cn/f5cfb00203964752aaed8ebca1d5cf32/ad515860d7034de28e6b24625fa5564d-ab7a86b8c4699758b4af49ddd309f562-sd.mp4
+
 
 
 
