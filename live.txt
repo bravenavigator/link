@@ -743,6 +743,7 @@ County News Center,https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/sdcounty/G0283_012/
 📺　广东,#genre#
 广东卫视4K,http://nas.201606.xyz:4022/rtp/239.10.0.94:5140
 深圳卫视4K,http://nas.201606.xyz:4022/rtp/239.10.0.93:5140
+深圳卫视4K,http://2099.tv12.xyz/121_1760238819325.m3u8
 深圳卫视4K,https://cdn3.163189.xyz/163189/szws4k
 广东新闻,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9saXZlMjgyNS5tM3U4
 广东珠江,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9saXZlMjg5Ny5tM3U4
@@ -1016,6 +1017,7 @@ TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 香港 C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 香港面包,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 📺　北京,#genre#
+北京卫视4K,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s110/index.m3u8?time=1760311213&sign=bb98c14a84a4da95eac15767aaf521e6
 北京卫视4K,http://nas.201606.xyz:4022/rtp/239.10.0.91:5140
 北京卫视4K,http://nas.201606.xyz:4022/rtp/239.10.0.92:5140
 北京新闻,http://m.061899.xyz/mg/bjxw
@@ -1044,6 +1046,7 @@ TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 睛彩羽毛球,http://thhomes.cn:4000/rtp/239.3.1.127:8001
 睛彩广场舞,http://thhomes.cn:4000/rtp/239.3.1.128:8001
 📺　上海,#genre#
+东方卫视4K,http://2099.tv12.xyz/119_1760238819325.m3u8
 东方卫视,http://cdn.jdshipin.com/kdf.php?id=22
 上海新闻综合,http://cdn.jdshipin.com/kdf.php?id=20
 上海都市,http://cdn.jdshipin.com/kdf.php?id=18
@@ -1115,6 +1118,7 @@ TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 巫山综合,https://qxlmlive9.cbg.cn/applive/wspd001/chunklist.m3u8
 永川综合,https://qxlmlive9.cbg.cn/applive/yctv01/playlist.m3u8
 📺　江苏,#genre#
+江苏卫视4K,http://2099.tv12.xyz/118_1760238819325.m3u8
 江苏卫视,http://180.105.218.230:4022/rtp/239.49.8.138:6000
 江苏城市,http://180.105.218.230:4022/rtp/239.49.8.107:8000
 江苏综艺,http://180.105.218.230:4022/rtp/239.49.8.108:8000
@@ -1210,6 +1214,7 @@ TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 淮安涟水综合,http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8
 江阴新闻综合,http://221.228.70.101:8080/live/xinwen.m3u8
 📺　浙江,#genre#
+江苏卫视4K,http://2099.tv12.xyz/118_1760238819325.m3u8
 浙江卫视,http://60.174.40.117:85/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://223.241.247.214:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
@@ -3157,6 +3162,7 @@ CHC影迷电影,http://183.239.236.91:8088/hls/92/index.m3u8
 腿抽筋处理方法,https://vod.youlai.cn/7f2828acc5f9432881f3833f3c13c7c5/01d1195f0ae04895852098bbf4f00886-18da40cf01b9dbc6b9b5d04d3cca74b9-sd.mp4
 脚扭伤处理方法,https://vod.youlai.cn/9ad15caadeba46f39630339787ac3bb6/b912d1569e1643ae92a0bd300942503f-5672574782b93ec8561c4b417d0e676d-sd.mp4
 异物插入眼急救法,https://vod.youlai.cn/f5cfb00203964752aaed8ebca1d5cf32/ad515860d7034de28e6b24625fa5564d-ab7a86b8c4699758b4af49ddd309f562-sd.mp4
+
 
 
 
