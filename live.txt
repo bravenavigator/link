@@ -72,7 +72,7 @@ CCTV7国防军事,http://183.57.249.112:8183/tsfile/live/0007_1.m3u8?key=txiptv&
 CCTV12社会与法,http://183.57.249.112:8183/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV10科教,http://183.57.249.112:8183/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV8电视剧,http://183.57.249.112:8183/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10少儿,http://183.57.249.112:8183/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14少儿,http://183.57.249.112:8183/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV风云剧场,http://183.57.249.112:8183/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 CETV中国教育1,http://183.57.249.112:8183/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV8电视剧,http://116.77.33.98:44330/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -85,7 +85,7 @@ CCTV4国际,http://116.77.33.98:44330/tsfile/live/0004_1.m3u8?key=txiptv&playliv
 CCTV3综艺,http://116.77.33.98:44330/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV1综合,http://116.77.33.98:44330/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV5+体育赛事,http://116.77.33.98:44330/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV16,http://116.77.33.98:44330/tsfile/live/0017_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV16奥林匹克,http://116.77.33.98:44330/tsfile/live/0017_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV7国防军事,http://116.77.33.98:44330/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV14少儿,http://116.77.33.98:44330/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV5体育,http://116.77.33.98:44330/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -3325,6 +3325,7 @@ CHC影迷电影,http://183.239.236.91:8088/hls/92/index.m3u8
 腿抽筋处理方法,https://vod.youlai.cn/7f2828acc5f9432881f3833f3c13c7c5/01d1195f0ae04895852098bbf4f00886-18da40cf01b9dbc6b9b5d04d3cca74b9-sd.mp4
 脚扭伤处理方法,https://vod.youlai.cn/9ad15caadeba46f39630339787ac3bb6/b912d1569e1643ae92a0bd300942503f-5672574782b93ec8561c4b417d0e676d-sd.mp4
 异物插入眼急救法,https://vod.youlai.cn/f5cfb00203964752aaed8ebca1d5cf32/ad515860d7034de28e6b24625fa5564d-ab7a86b8c4699758b4af49ddd309f562-sd.mp4
+
 
 
 
