@@ -1189,8 +1189,7 @@ TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 香港 C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 香港面包,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 📺　北京,#genre#
-北京卫视4K,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s110/index.m3u8?time=1760311213&sign=bb98c14a84a4da95eac15767aaf521e6
-北京卫视4K,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s110/index.m3u8?time=1760360463&sign=42a3a57ea4d169c1120dd6f86576dfc6
+北京卫视4K,http://114.241.110.225:85/tsfile/live/21/1021_1.m3u8?key=txiptv
 北京卫视4K,http://nas.201606.xyz:4022/rtp/239.10.0.91:5140
 北京卫视4K,http://nas.201606.xyz:4022/rtp/239.10.0.92:5140
 北京新闻,http://m.061899.xyz/mg/bjxw
@@ -1201,6 +1200,13 @@ TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 北京纪实科教,http://m.061899.xyz/mg/bjjs
 卡酷少儿,http://m.061899.xyz/mg/bjkk
 北京体育,http://m.061899.xyz/mg/bjty
+北京文艺,http://114.241.110.225:85/tsfile/live/17/1017_1.m3u8?key=txiptv
+北京科教,http://114.241.110.225:85/tsfile/live/18/1018_1.m3u8?key=txiptv
+北京影视,http://114.241.110.225:85/tsfile/live/19/1019_1.m3u8?key=txiptv
+北京财经,http://114.241.110.225:85/tsfile/live/20/1020_1.m3u8?key=txiptv
+北京生活,http://114.241.110.225:85/tsfile/live/22/1022_1.m3u8?key=txiptv
+北京新闻,http://114.241.110.225:85/tsfile/live/24/1024_1.m3u8?key=txiptv
+北京体育,http://114.241.110.225:85/tsfile/live/25/1025_1.m3u8?key=txiptv
 卡酷少儿,http://202.168.168.50:5000/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
 北京纪实科教,http://202.168.168.50:5000/tsfile/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0
 北京纪实科教,http://117.174.25.254:8188/rtp/239.0.0.77:5140
@@ -1221,13 +1227,13 @@ TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 睛彩羽毛球,http://thhomes.cn:4000/rtp/239.3.1.127:8001
 睛彩广场舞,http://thhomes.cn:4000/rtp/239.3.1.128:8001
 📺　上海,#genre#
+东方卫视,http://cdn.jdshipin.com/kkxw.php?id=1
 东方卫视,http://cdn.jdshipin.com/kdf.php?id=22
 上海新闻综合,http://cdn.jdshipin.com/kdf.php?id=20
 上海都市,http://cdn.jdshipin.com/kdf.php?id=18
 第一财经,http://cdn.jdshipin.com/kdf.php?id=21
 上海新纪实,http://cdn.jdshipin.com/kdf.php?id=1600
 乐游频道,http://cdn.jdshipin.com/kdf.php?id=1745
-东方卫视,http://cdn.jdshipin.com/kkxw.php?id=1
 上海新闻综合,http://cdn.jdshipin.com/kkxw.php?id=2
 上海都市,http://cdn.jdshipin.com/kkxw.php?id=4
 第一财经,http://cdn.jdshipin.com/kkxw.php?id=5
@@ -1276,12 +1282,12 @@ TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 📺　天津,#genre#
 天津卫视,http://60.174.40.117:85/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
 天津卫视,http://223.241.247.214:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+天津新闻,http://sun135790.x3322.net:9901/tsfile/live/16002_1.m3u8?key=txiptv&playlive=1&authid=0
 天津都市,http://sun135790.x3322.net:9901/tsfile/live/16005_1.m3u8?key=txiptv&playlive=1&authid=0
+天津文艺,http://sun135790.x3322.net:9901/tsfile/live/16003_1.m3u8?key=txiptv&playlive=1&authid=0
+天津影视,http://sun135790.x3322.net:9901/tsfile/live/16004_1.m3u8?key=txiptv&playlive=1&authid=0
 天津教育,http://sun135790.x3322.net:9901/tsfile/live/16007_1.m3u8?key=txiptv&playlive=1&authid=0
 天津体育,http://sun135790.x3322.net:9901/tsfile/live/16006_1.m3u8?key=txiptv&playlive=1&authid=0
-天津文艺,http://sun135790.x3322.net:9901/tsfile/live/16003_1.m3u8?key=txiptv&playlive=1&authid=0
-天津新闻,http://sun135790.x3322.net:9901/tsfile/live/16002_1.m3u8?key=txiptv&playlive=1&authid=0
-天津影视,http://sun135790.x3322.net:9901/tsfile/live/16004_1.m3u8?key=txiptv&playlive=1&authid=0
 滨海新闻,http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8
 滨海生活,http://traffic.jbh.tjbh.com/live/bhtv20/playlist.m3u8
 📺　重庆,#genre#
@@ -3340,6 +3346,7 @@ CHC影迷电影,http://183.239.236.91:8088/hls/92/index.m3u8
 腿抽筋处理方法,https://vod.youlai.cn/7f2828acc5f9432881f3833f3c13c7c5/01d1195f0ae04895852098bbf4f00886-18da40cf01b9dbc6b9b5d04d3cca74b9-sd.mp4
 脚扭伤处理方法,https://vod.youlai.cn/9ad15caadeba46f39630339787ac3bb6/b912d1569e1643ae92a0bd300942503f-5672574782b93ec8561c4b417d0e676d-sd.mp4
 异物插入眼急救法,https://vod.youlai.cn/f5cfb00203964752aaed8ebca1d5cf32/ad515860d7034de28e6b24625fa5564d-ab7a86b8c4699758b4af49ddd309f562-sd.mp4
+
 
 
 
