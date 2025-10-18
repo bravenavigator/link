@@ -393,6 +393,8 @@ CCTV重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 CCTV重温经典,http://cdn3.163189.xyz/live/cwjd/stream.m3u8
 CCTV重温经典,https://cdn3.163189.xyz/live/cwjd/stream.m3u8
 中国天气,http://gfr.x3322.net:9901/tsfile/live/1016_1.m3u8
+中国交通,http://oa.huayuzhongqin.com:1088/hls/49/index.m3u8
+中国交通,http://hbhy205u8.ufyct.com:1088/hls/49/index.m3u8
 CCTV世界地理,http://183.11.239.36:808/hls/11/index.m3u8
 CCTV央视文化精品,http://183.11.239.36:808/hls/97/index.m3u8
 CCTV风云音乐,http://183.11.239.36:808/hls/99/index.m3u8
@@ -527,8 +529,6 @@ CETV中国教育1,http://gmxw.7766.org:808/hls/122/index.m3u8
 内蒙古卫视,http://btjg.net:809/hls/19/index.m3u8
 陕西卫视,http://tpc.x3322.net:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
 陕西卫视,http://oa.huayuzhongqin.com:1088/hls/86/index.m3u8
-宁夏卫视,http://oa.huayuzhongqin.com:1088/hls/49/index.m3u8
-宁夏卫视,http://hbhy205u8.ufyct.com:1088/hls/49/index.m3u8
 宁夏卫视,http://go.bkpcp.top/mg/nxws
 新疆卫视,http://go.bkpcp.top/mg/xjws
 兵团卫视,http://m.061899.xyz/mg/btws
@@ -3341,6 +3341,7 @@ CHC影迷电影,http://183.239.236.91:8088/hls/92/index.m3u8
 腿抽筋处理方法,https://vod.youlai.cn/7f2828acc5f9432881f3833f3c13c7c5/01d1195f0ae04895852098bbf4f00886-18da40cf01b9dbc6b9b5d04d3cca74b9-sd.mp4
 脚扭伤处理方法,https://vod.youlai.cn/9ad15caadeba46f39630339787ac3bb6/b912d1569e1643ae92a0bd300942503f-5672574782b93ec8561c4b417d0e676d-sd.mp4
 异物插入眼急救法,https://vod.youlai.cn/f5cfb00203964752aaed8ebca1d5cf32/ad515860d7034de28e6b24625fa5564d-ab7a86b8c4699758b4af49ddd309f562-sd.mp4
+
 
 
 
