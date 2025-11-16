@@ -1339,6 +1339,10 @@ TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 江苏体育休闲,http://live.nctv.top/JKHdjsi/jstv5.php?id=jsty
 江苏国际,http://live.nctv.top/JKHdjsi/jstv5.php?id=jsgj
 优漫卡通,http://live.nctv.top/JKHdjsi/jstv5.php?id=ymkt
+江苏体育休闲,https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%8B%8F%E4%BD%93%E8%82%B2
+江苏城市,https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%8B%8F%E5%9F%8E%E5%B8%82%E9%A2%91%E9%81%93
+江苏影视,https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%8B%8F%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93
+江苏教育,https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%8B%8F%E6%95%99%E8%82%B2
 江苏体育休闲,http://121.232.178.93:5000/tsfile/live/0001_4.m3u8?key=txiptv&playlive=1&authid=0
 优漫卡通,http://121.232.178.93:5000/tsfile/live/0001_10.m3u8?key=txiptv&playlive=1&authid=0
 南京新闻综合,http://live.nbs.cn/channels/njtv/xwpdb/nbs06.m3u8
@@ -2471,6 +2475,7 @@ TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 陕西公共,http://ddns.xryo.cn:8888/udp/239.111.205.100:5140
 陕西生活,http://ddns.xryo.cn:8888/rtp/239.111.205.98:5140
 陕西西部电影,http://ddns.xryo.cn:8888/udp/239.111.205.102:5140
+陕西都市青春,https://iptv.catvod.com/live.php?id=%E9%99%95%E8%A5%BF%E9%83%BD%E5%B8%82%E9%9D%92%E6%98%A5%E9%A2%91%E9%81%93
 西安新闻,http://xatv-yt.xiancity.cn/live/1/index.m3u8
 西安都市,http://xatv-yt.xiancity.cn/live/2/index.m3u8
 西安商务,http://xatv-yt.xiancity.cn/live/3/index.m3u8
@@ -3307,6 +3312,7 @@ CHC影迷电影,http://183.239.236.91:8088/hls/92/index.m3u8
 腿抽筋处理方法,https://vod.youlai.cn/7f2828acc5f9432881f3833f3c13c7c5/01d1195f0ae04895852098bbf4f00886-18da40cf01b9dbc6b9b5d04d3cca74b9-sd.mp4
 脚扭伤处理方法,https://vod.youlai.cn/9ad15caadeba46f39630339787ac3bb6/b912d1569e1643ae92a0bd300942503f-5672574782b93ec8561c4b417d0e676d-sd.mp4
 异物插入眼急救法,https://vod.youlai.cn/f5cfb00203964752aaed8ebca1d5cf32/ad515860d7034de28e6b24625fa5564d-ab7a86b8c4699758b4af49ddd309f562-sd.mp4
+
 
 
 
