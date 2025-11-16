@@ -1244,6 +1244,7 @@ TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 📺　上海,#genre#
 东方卫视,http://cdn.jdshipin.com/kkxw.php?id=1
 东方卫视,http://cdn.jdshipin.com/kdf.php?id=22
+上海新闻综合,https://iptv.catvod.com/live.php?id=%E4%B8%8A%E6%B5%B7%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88
 上海新闻综合,http://cdn.jdshipin.com/kdf.php?id=20
 上海都市,http://cdn.jdshipin.com/kdf.php?id=18
 第一财经,https://zby.130519.xyz/PLTV/11/224/3221225737/index.m3u8
@@ -1262,6 +1263,11 @@ TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 哈哈炫动,https://zby.130519.xyz/PLTV/11/224/3221226175/index.m3u8
 动漫秀场,https://zby.130519.xyz/PLTV/11/224/3221225764/index.m3u8
 动漫秀场,https://zby.130519.xyz/PLTV/11/224/3221226138/index.m3u8
+东方财经,http://115.150.63.77:9902/tsfile/live/1042_1.m3u8
+欢笑剧场,https://shyd.695847.xyz/cms001/ch00000090990000001490/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
+都市剧场,https://shyd.695847.xyz/cms001/ch00000090990000001203/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
+欢笑剧场,http://iptv.666230.xyz/iptv/sxg.php/hxjc-4k_8000
+法治天地,http://iptv.666230.xyz/iptv/sxg.php/fztx_4000
 第一财经,http://cdn.jdshipin.com/kdf.php?id=21
 上海新纪实,http://cdn.jdshipin.com/kdf.php?id=1600
 乐游频道,http://cdn.jdshipin.com/kdf.php?id=1745
@@ -3301,6 +3307,7 @@ CHC影迷电影,http://183.239.236.91:8088/hls/92/index.m3u8
 腿抽筋处理方法,https://vod.youlai.cn/7f2828acc5f9432881f3833f3c13c7c5/01d1195f0ae04895852098bbf4f00886-18da40cf01b9dbc6b9b5d04d3cca74b9-sd.mp4
 脚扭伤处理方法,https://vod.youlai.cn/9ad15caadeba46f39630339787ac3bb6/b912d1569e1643ae92a0bd300942503f-5672574782b93ec8561c4b417d0e676d-sd.mp4
 异物插入眼急救法,https://vod.youlai.cn/f5cfb00203964752aaed8ebca1d5cf32/ad515860d7034de28e6b24625fa5564d-ab7a86b8c4699758b4af49ddd309f562-sd.mp4
+
 
 
 
