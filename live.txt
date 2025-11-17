@@ -46,7 +46,7 @@ CETV中国教育4,http://127.0.0.1
 CCTV1综合,http://114.241.110.225:85/tsfile/live/1/1001_1.m3u8?key=txiptv
 CCTV2财经,http://114.241.110.225:85/tsfile/live/2/1002_1.m3u8?key=txiptv
 CCTV3综艺,http://114.241.110.225:85/tsfile/live/3/1003_1.m3u8?key=txiptv
-CCTV4国际,http://114.241.110.225:85/tsfile/live/4/1004_1.m3u8?key=txiptv
+CCTV4中文国际,http://114.241.110.225:85/tsfile/live/4/1004_1.m3u8?key=txiptv
 CCTV6电影,http://114.241.110.225:85/tsfile/live/6/1006_1.m3u8?key=txiptv
 CCTV7国防军事,http://114.241.110.225:85/tsfile/live/7/1007_1.m3u8?key=txiptv
 CCTV8电视剧,http://114.241.110.225:85/tsfile/live/8/1008_1.m3u8?key=txiptv
@@ -73,14 +73,14 @@ CCTV3综艺,http://8.134.184.162:8314/tsfile/live/0003_1.m3u8?key=txiptv&playliv
 CCTV16奥林匹克,http://8.134.184.162:8314/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4国际,http://8.134.184.162:8314/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV9纪录,http://8.134.184.162:8314/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV17农村农业,http://8.134.184.162:8314/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV17农业农村,http://8.134.184.162:8314/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV7国防军事,http://8.134.184.162:8314/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13新闻,http://8.134.184.162:8314/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV10科教,http://8.134.184.162:8314/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3综艺,http://163.142.186.48:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV8电视剧,http://163.142.186.48:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV6电影,http://163.142.186.48:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV16奥利匹克,http://163.142.186.48:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV16奥林匹克,http://163.142.186.48:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1综合,http://110.177.144.66:9003/hls/1/index.m3u8
 CCTV2财经,http://110.177.144.66:9003/hls/2/index.m3u8
 CCTV3综艺,http://110.177.144.66:9003/hls/3/index.m3u8
@@ -3134,6 +3134,7 @@ CHC影迷电影,http://183.239.236.91:8088/hls/92/index.m3u8
 腿抽筋处理方法,https://vod.youlai.cn/7f2828acc5f9432881f3833f3c13c7c5/01d1195f0ae04895852098bbf4f00886-18da40cf01b9dbc6b9b5d04d3cca74b9-sd.mp4
 脚扭伤处理方法,https://vod.youlai.cn/9ad15caadeba46f39630339787ac3bb6/b912d1569e1643ae92a0bd300942503f-5672574782b93ec8561c4b417d0e676d-sd.mp4
 异物插入眼急救法,https://vod.youlai.cn/f5cfb00203964752aaed8ebca1d5cf32/ad515860d7034de28e6b24625fa5564d-ab7a86b8c4699758b4af49ddd309f562-sd.mp4
+
 
 
 
