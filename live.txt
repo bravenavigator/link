@@ -81,6 +81,15 @@ CCTV3综艺,http://163.142.186.48:9901/tsfile/live/1003_1.m3u8?key=txiptv&playli
 CCTV8电视剧,http://163.142.186.48:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV6电影,http://163.142.186.48:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV16奥林匹克,http://163.142.186.48:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1综合,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=gq
+CCTV2财经,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv2&q=gq
+CCTV4中文国际,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv4&q=gq
+CCTV7国防军事,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv7&q=gq
+CCTV9纪录,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv9&q=gq
+CCTV10科教,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv10&q=gq
+CCTV12社会与法,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv12&q=gq
+CCTV13新闻,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv13&q=gq
+CCTV17农业农村,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv17&q=gq
 CCTV1综合,http://gfr.x3322.net:9901/tsfile/live/1066_1.m3u8
 CCTV2财经,http://gfr.x3322.net:9901/tsfile/live/1067_1.m3u8
 CCTV3综艺,http://gfr.x3322.net:9901/tsfile/live/1068_1.m3u8
@@ -102,6 +111,22 @@ CCTV13新闻,http://gfr.x3322.net:9901/tsfile/live/1078_1.m3u8
 CCTV14少儿,http://gfr.x3322.net:9901/tsfile/live/1079_1.m3u8
 CCTV15音乐,http://gfr.x3322.net:9901/tsfile/live/1080_1.m3u8
 CCTV17农业农村,http://gfr.x3322.net:9901/tsfile/live/1082_1.m3u8
+CETV中国教育1,http://gfr.x3322.net:9901/tsfile/live/1101_1.m3u8
+中国天气,http://gfr.x3322.net:9901/tsfile/live/1016_1.m3u8
+CCTV1综合,http://btjg.net:809/hls/1/index.m3u8
+CCTV3综艺,http://btjg.net:809/hls/3/index.m3u8
+CCTV5+体育赛事,http://btjg.net:809/hls/17/index.m3u8
+CCTV6电影,http://btjg.net:809/hls/6/index.m3u8
+CCTV7国防军事,http://btjg.net:809/hls/7/index.m3u8
+CCTV8电视剧,http://btjg.net:809/hls/8/index.m3u8
+CCTV9纪录,http://btjg.net:809/hls/9/index.m3u8
+CCTV11戏曲,http://btjg.net:809/hls/11/index.m3u8
+CCTV12社会与法,http://btjg.net:809/hls/12/index.m3u8
+CCTV13新闻,http://btjg.net:809/hls/13/index.m3u8
+CCTV15音乐,http://btjg.net:809/hls/15/index.m3u8
+CCTV4中文国际,http://btjg.net:809/hls/144/index.m3u8
+CCTV4中文国际欧洲,http://btjg.net:809/hls/143/index.m3u8
+CETV中国教育4,http://btjg.net:809/hls/107/index.m3u8
 CCTV1综合,http://hczn.x3322.net:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1综合,http://hczn.x3322.net:9902/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2财经,http://hczn.x3322.net:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -336,7 +361,6 @@ CETV中国教育4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 CCTV重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 CCTV重温经典,http://cdn3.163189.xyz/live/cwjd/stream.m3u8
 CCTV重温经典,https://cdn3.163189.xyz/live/cwjd/stream.m3u8
-中国天气,http://gfr.x3322.net:9901/tsfile/live/1016_1.m3u8
 CCTV世界地理,http://183.11.239.36:808/hls/11/index.m3u8
 CCTV央视文化精品,http://183.11.239.36:808/hls/97/index.m3u8
 CCTV风云音乐,http://183.11.239.36:808/hls/99/index.m3u8
@@ -431,6 +455,26 @@ CETV中国教育1,http://gmxw.7766.org:808/hls/122/index.m3u8
 东南卫视,http://114.241.110.225:85/tsfile/live/43/1043_1.m3u8?key=txiptv
 河北卫视,http://114.241.110.225:85/tsfile/live/44/1044_1.m3u8?key=txiptv
 吉林卫视,http://114.241.110.225:85/tsfile/live/47/1047_1.m3u8?key=txiptv
+安徽卫视,http://gfr.x3322.net:9901/tsfile/live/1092_1.m3u8
+北京卫视,http://gfr.x3322.net:9901/tsfile/live/1089_1.m3u8
+重庆卫视,http://gfr.x3322.net:9901/tsfile/live/1093_1.m3u8
+东南卫视,http://gfr.x3322.net:9901/tsfile/live/1099_1.m3u8
+广东卫视,http://gfr.x3322.net:9901/tsfile/live/1096_1.m3u8
+贵州卫视,http://gfr.x3322.net:9901/tsfile/live/1100_1.m3u8
+海南卫视,http://gfr.x3322.net:9901/tsfile/live/1020_1.m3u8
+河北卫视,http://gfr.x3322.net:9901/tsfile/live/1091_1.m3u8
+黑龙江卫视,http://gfr.x3322.net:9901/tsfile/live/1094_1.m3u8
+湖北卫视,http://gfr.x3322.net:9901/tsfile/live/1088_1.m3u8
+湖南卫视,http://gfr.x3322.net:9901/tsfile/live/1084_1.m3u8
+江苏卫视,http://gfr.x3322.net:9901/tsfile/live/1086_1.m3u8
+江西卫视,http://gfr.x3322.net:9901/tsfile/live/1039_1.m3u8
+辽宁卫视,http://gfr.x3322.net:9901/tsfile/live/1097_1.m3u8
+山东卫视,http://gfr.x3322.net:9901/tsfile/live/1098_1.m3u8
+深圳卫视,http://gfr.x3322.net:9901/tsfile/live/1095_1.m3u8
+天津卫视,http://gfr.x3322.net:9901/tsfile/live/1090_1.m3u8
+浙江卫视,http://gfr.x3322.net:9901/tsfile/live/1087_1.m3u8
+三沙卫视,http://gfr.x3322.net:9901/tsfile/live/1025_1.m3u8
+中国天气,http://gfr.x3322.net:9901/tsfile/live/1016_1.m3u8
 安徽卫视,http://btjg.net:809/hls/42/index.m3u8
 北京卫视,http://btjg.net:809/hls/43/index.m3u8
 重庆卫视,http://btjg.net:809/hls/54/index.m3u8
@@ -760,7 +804,6 @@ CETV中国教育1,http://gmxw.7766.org:808/hls/122/index.m3u8
 西藏卫视,http://cssbyd.imwork.net:8082/hls/46/index.m3u8
 兵团卫视,http://8.138.7.223/tv/btws.m3u8
 兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
-三沙卫视,http://gfr.x3322.net:9901/tsfile/live/1025_1.m3u8
 三沙卫视,http://221.226.51.220:50081/newlive/live/hls/38/live.m3u8
 海峡卫视,http://218.104.239.114:9901/tsfile/live/0150_1.m3u8
 ☀　外语,#genre#
@@ -778,6 +821,9 @@ CGTN西语,https://0472.org/hls/cgtnx.m3u8
 CGTN阿语,https://0472.org/hls/cgtna.m3u8
 CGTN纪录,http://175.0.68.108:9002/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 CGTN英语,http://117.174.25.254:8188/rtp/239.0.0.49:5140
+CGTN俄语,http://btjg.net:809/hls/146/index.m3u8
+CGTN纪录,http://btjg.net:809/hls/145/index.m3u8
+CGTN西语,http://btjg.net:809/hls/72/index.m3u8
 CGTN英语,http://www.qhjx.top:18000/udp/238.255.2.207:5999
 CGTN阿语,http://www.qhjx.top:18000/udp/238.255.2.211:5999
 CGTN纪录,http://www.qhjx.top:18000/udp/238.255.2.212:5999
@@ -1156,7 +1202,6 @@ TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 哈哈炫动,https://zby.130519.xyz/PLTV/11/224/3221226175/index.m3u8
 动漫秀场,https://zby.130519.xyz/PLTV/11/224/3221225764/index.m3u8
 动漫秀场,https://zby.130519.xyz/PLTV/11/224/3221226138/index.m3u8
-东方财经,http://115.150.63.77:9902/tsfile/live/1042_1.m3u8
 欢笑剧场,https://shyd.695847.xyz/cms001/ch00000090990000001490/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
 都市剧场,https://shyd.695847.xyz/cms001/ch00000090990000001203/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
 欢笑剧场,http://iptv.666230.xyz/iptv/sxg.php/hxjc-4k_8000
@@ -2137,6 +2182,11 @@ TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 河南戏曲,http://zh.sqitv.com:888/hls/37/index.m3u8
 河南中华功夫,http://zh.sqitv.com:888/hls/38/index.m3u8
 河南调解剧场,http://zh.sqitv.com:888/hls/41/index.m3u8
+河南电视剧,http://zzssw01.55555.io:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+河南都市,http://zzssw01.55555.io:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+河南法制,http://zzssw01.55555.io:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+河南民生,http://zzssw01.55555.io:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+河南新闻,http://zzssw01.55555.io:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南新闻,http://1.94.31.214/php/hntv.php?id=hnxw
 河南都市,http://1.94.31.214/php/hntv.php?id=hnds
@@ -3165,6 +3215,7 @@ CHC影迷电影,http://183.239.236.91:8088/hls/92/index.m3u8
 腿抽筋处理方法,https://vod.youlai.cn/7f2828acc5f9432881f3833f3c13c7c5/01d1195f0ae04895852098bbf4f00886-18da40cf01b9dbc6b9b5d04d3cca74b9-sd.mp4
 脚扭伤处理方法,https://vod.youlai.cn/9ad15caadeba46f39630339787ac3bb6/b912d1569e1643ae92a0bd300942503f-5672574782b93ec8561c4b417d0e676d-sd.mp4
 异物插入眼急救法,https://vod.youlai.cn/f5cfb00203964752aaed8ebca1d5cf32/ad515860d7034de28e6b24625fa5564d-ab7a86b8c4699758b4af49ddd309f562-sd.mp4
+
 
 
 
