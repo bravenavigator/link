@@ -831,6 +831,7 @@ County News Center,https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/sdcounty/G0283_012/
 广东珠江,http://218.15.183.23:9901/tsfile/live/23009_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://218.15.183.23:9901/tsfile/live/23012_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://218.13.170.98:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+经济科教,https://jsv-live-play.sfccn.com/live/jsv_3920_fhd.m3u8
 广东新闻,http://tvtj1.jxwltx.com:8003/live2825.m3u8
 嘉佳卡通,http://tvtj1.jxwltx.com:8003/live1328.m3u8
 大湾区卫视,http://tvtj.jxwltx.com:8003/neimenggu.m3u8
@@ -971,6 +972,7 @@ ViuTV,http://php.jdshipin.com/PLTV/iptv.php?id=viutv
 ViuTV,http://php.jdshipin.com/smt.php?id=viu1_twn
 ViuTV6,http://api.mg.itv888.cn:8080/hls/0408f039a12/index.m3u8
 ViuTV6,http://php.jdshipin.com/smt.php?id=viusix_twn
+香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 RTHK31,http://api.mg.itv888.cn:8080/hls/7f79a251429/index.m3u8
 RTHK31,http://php.jdshipin.com/PLTV/iptv.php?id=rthk31
 RTHK32,http://php.jdshipin.com/PLTV/iptv.php?id=rthk32
@@ -979,7 +981,7 @@ RTHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 RTHK31,http://php.jdshipin.com/smt.php?id=rhk31_twn
 RTHK32,http://php.jdshipin.com/smt.php?id=rhk32_twn
 RTHK33(CCTV1),http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
-CCTV1港澳版,https://vhr.dpdns.org/20003/live/cctv1/stream.m3u8
+RTHK33(CCTV1),https://vhr.dpdns.org/20003/live/cctv1/stream.m3u8
 澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
 澳视澳门,http://php.jdshipin.com/PLTV/iptv.php?id=asam
 澳门卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as
@@ -3116,6 +3118,7 @@ CHC影迷电影,http://183.239.236.91:8088/hls/92/index.m3u8
 腿抽筋处理方法,https://vod.youlai.cn/7f2828acc5f9432881f3833f3c13c7c5/01d1195f0ae04895852098bbf4f00886-18da40cf01b9dbc6b9b5d04d3cca74b9-sd.mp4
 脚扭伤处理方法,https://vod.youlai.cn/9ad15caadeba46f39630339787ac3bb6/b912d1569e1643ae92a0bd300942503f-5672574782b93ec8561c4b417d0e676d-sd.mp4
 异物插入眼急救法,https://vod.youlai.cn/f5cfb00203964752aaed8ebca1d5cf32/ad515860d7034de28e6b24625fa5564d-ab7a86b8c4699758b4af49ddd309f562-sd.mp4
+
 
 
 
