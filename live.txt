@@ -377,6 +377,9 @@ CCTV高尔夫网球,http://183.11.239.36:808/hls/174/index.m3u8
 CCTV电视指南,http://183.11.239.36:808/hls/13/index.m3u8
 CETV中国教育1,http://183.11.239.36:808/hls/122/index.m3u8
 CETV中国教育4,http://183.11.239.36:808/hls/79/index.m3u8
+中国交通,http://itv.dns.52top.com.cn:2082/bjyd/stream/3221226891/1.m3u8?8M1080
+CETV中国教育1,http://itv.dns.52top.com.cn:2082/bjyd/stream/3221226494/1.m3u8?8M1080
+CETV中国教育3,http://itv.dns.52top.com.cn:2082/bjyd/stream/3221226577/1.m3u8?576
 CCTV4美洲,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV4美洲,https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/sdcounty/G0283_012/playlist.m3u8
 CCTV4美洲,http://gmxw.7766.org:808/hls/71/index.m3u8
@@ -1063,13 +1066,25 @@ TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 📺　北京,#genre#
 北京卫视4K,http://nas.201606.xyz:4022/rtp/239.10.0.91:5140
 北京卫视4K,http://nas.201606.xyz:4022/rtp/239.10.0.92:5140
+北京卫视4K,http://itv.dns.52top.com.cn:2082/bjyd/stream/3221226550/1.m3u8?20M2160
+北京卫视,http://itv.dns.52top.com.cn:2082/bjyd/stream/3221226515/1.m3u8?576
+北京新闻,http://itv.dns.52top.com.cn:2082/bjyd/stream/3221226437/1.m3u8?8M1080
+北京财经,http://itv.dns.52top.com.cn:2082/bjyd/stream/3221226560/1.m3u8?8M1080
+北京文艺,http://itv.dns.52top.com.cn:2082/bjyd/stream/3221226440/1.m3u8?8M1080
+北京生活,http://itv.dns.52top.com.cn:2082/bjyd/stream/3221226561/1.m3u8?8M1080
+北京影视,http://itv.dns.52top.com.cn:2082/bjyd/stream/3221226486/1.m3u8?8M1080
+北京国际,http://itv.dns.52top.com.cn:2082/bjyd/stream/3221226510/1.m3u8?576
+北京纪实科教,http://itv.dns.52top.com.cn:2082/bjyd/stream/3221226559/1.m3u8?8M1080
+北京体育休闲,http://itv.dns.52top.com.cn:2082/bjyd/stream/3221226438/1.m3u8?6M1080
+北京大健康,http://itv.dns.52top.com.cn:2082/bjyd/stream/3221226556/1.m3u8?8M1080
+卡酷少儿,http://itv.dns.52top.com.cn:2082/bjyd/stream/3221226558/1.m3u8?8M1080
 北京新闻,http://m.061899.xyz/mg/bjxw
 北京财经,http://m.061899.xyz/mg/bjcj
 北京文艺,http://m.061899.xyz/mg/bjwy
 北京生活,http://m.061899.xyz/mg/bjsh
 北京影视,http://m.061899.xyz/mg/bjys
 北京纪实科教,http://m.061899.xyz/mg/bjjs
-北京体育,http://m.061899.xyz/mg/bjty
+北京体育休闲,http://m.061899.xyz/mg/bjty
 卡酷少儿,http://m.061899.xyz/mg/bjkk
 卡酷少儿,http://btjg.net:809/hls/49/index.m3u8
 北京纪实科教,http://117.174.25.254:8188/rtp/239.0.0.77:5140
@@ -1080,6 +1095,9 @@ TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 北京纪实科教,http://www.qhjx.top:18000/udp/238.255.2.107:5999
 卡酷少儿,http://www.qhjx.top:18000/udp/238.255.2.106:5999
 卡酷少儿,https://zby.130519.xyz/PLTV/11/224/3221226019/index.m3u8
+淘电影,http://itv.dns.52top.com.cn:2082/bjyd/stream/3221226552/1.m3u8?8M1080淘娱乐,http://itv.dns.52top.com.cn:2082/bjyd/stream/3221226551/1.m3u8?8M1080
+淘BABY,http://itv.dns.52top.com.cn:2082/bjyd/stream/3221226554/1.m3u8?8M1080
+萌宠TV,http://itv.dns.52top.com.cn:2082/bjyd/stream/3221226555/1.m3u8?8M1080
 淘电影,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.250:8001
 睛彩竞技,https://zby.130519.xyz/PLTV/11/224/3221226116/index.m3u8
 睛彩篮球,https://zby.130519.xyz/PLTV/11/224/3221226118/index.m3u8
@@ -3153,6 +3171,7 @@ CHC影迷电影,http://183.239.236.91:8088/hls/92/index.m3u8
 腿抽筋处理方法,https://vod.youlai.cn/7f2828acc5f9432881f3833f3c13c7c5/01d1195f0ae04895852098bbf4f00886-18da40cf01b9dbc6b9b5d04d3cca74b9-sd.mp4
 脚扭伤处理方法,https://vod.youlai.cn/9ad15caadeba46f39630339787ac3bb6/b912d1569e1643ae92a0bd300942503f-5672574782b93ec8561c4b417d0e676d-sd.mp4
 异物插入眼急救法,https://vod.youlai.cn/f5cfb00203964752aaed8ebca1d5cf32/ad515860d7034de28e6b24625fa5564d-ab7a86b8c4699758b4af49ddd309f562-sd.mp4
+
 
 
 
