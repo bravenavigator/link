@@ -43,6 +43,34 @@ CETV中国教育3,http://127.0.0.1
 CETV中国教育4,http://127.0.0.1
 中国交通,http://127.0.0.1
 中国天气,http://127.0.0.1
+CCTV1综合,https://zby.130519.xyz/PLTV/11/224/3221226163/index.m3u8
+CCTV2财经,https://zby.130519.xyz/PLTV/11/224/3221226122/index.m3u8
+CCTV3综艺,https://zby.130519.xyz/PLTV/11/224/3221225766/index.m3u8
+CCTV3综艺,https://zby.130519.xyz/PLTV/11/224/3221226165/index.m3u8
+CCTV4中文国际,https://zby.130519.xyz/PLTV/11/224/3221226124/index.m3u8
+CCTV5体育,https://zby.130519.xyz/PLTV/11/224/3221225734/index.m3u8
+CCTV5体育,https://zby.130519.xyz/PLTV/11/224/3221226146/index.m3u8
+CCTV6电影,https://zby.130519.xyz/PLTV/11/224/3221225741/index.m3u8
+CCTV6电影,https://zby.130519.xyz/PLTV/11/224/3221226148/index.m3u8
+CCTV7国防军事,https://zby.130519.xyz/PLTV/11/224/3221225701/index.m3u8
+CCTV7国防军事,https://zby.130519.xyz/PLTV/11/224/3221226143/index.m3u8
+CCTV7国防军事,https://zby.130519.xyz/PLTV/11/224/3221226137/index.m3u8
+CCTV8电视剧,https://zby.130519.xyz/PLTV/11/224/3221225736/index.m3u8
+CCTV8电视剧,https://zby.130519.xyz/PLTV/11/224/3221226167/index.m3u8
+CCTV10科教,https://zby.130519.xyz/PLTV/11/224/3221225743/index.m3u8
+CCTV10科教,https://zby.130519.xyz/PLTV/11/224/3221226169/index.m3u8
+CCTV11戏曲,https://zby.130519.xyz/PLTV/11/224/3221226101/index.m3u8
+CCTV11戏曲,https://zby.130519.xyz/PLTV/11/224/3221226145/index.m3u8
+CCTV12社会与法,https://zby.130519.xyz/PLTV/11/224/3221226103/index.m3u8
+CCTV12社会与法,https://zby.130519.xyz/PLTV/11/224/3221226126/index.m3u8
+CCTV13新闻,https://zby.130519.xyz/PLTV/11/224/3221226128/index.m3u8
+CCTV14少儿,https://zby.130519.xyz/PLTV/11/224/3221225738/index.m3u8
+CCTV14少儿,https://zby.130519.xyz/PLTV/11/224/3221226150/index.m3u8
+CCTV15音乐,https://zby.130519.xyz/PLTV/11/224/3221226147/index.m3u8
+CCTV16奥林匹克,https://zby.130519.xyz/PLTV/11/224/3221226120/index.m3u8
+CCTV3综艺,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv3
+CCTV5体育,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5
+CCTV6电影,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv6
 CCTV12社会与法,http://8.134.184.162:8314/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV14少儿,http://8.134.184.162:8314/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5体育,http://8.134.184.162:8314/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1081,18 +1109,21 @@ TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 东方财经,https://zby.130519.xyz/PLTV/11/224/3221226134/index.m3u8
 上海都市,https://zby.130519.xyz/PLTV/11/224/3221225749/index.m3u8
 东方影视,https://zby.130519.xyz/PLTV/11/224/3221225744/index.m3u8
+欢笑剧场,https://zby.130519.xyz/PLTV/11/224/3221225771/index.m3u8
 都市剧场,https://zby.130519.xyz/PLTV/11/224/3221225762/index.m3u8
 都市剧场,https://zby.130519.xyz/PLTV/11/224/3221226155/index.m3u8
-欢笑剧场,https://zby.130519.xyz/PLTV/11/224/3221225771/index.m3u8
 上海新闻综合,https://zby.130519.xyz/PLTV/11/224/3221226136/index.m3u8
 生活时尚,https://zby.130519.xyz/PLTV/11/224/3221225768/index.m3u8
-法治天地,https://zby.130519.xyz/PLTV/11/224/3221225994/index.m3u8
 乐游频道,https://zby.130519.xyz/PLTV/11/224/3221226157/index.m3u8
 乐游频道,https://zby.130519.xyz/PLTV/11/224/3221226115/index.m3u8
+法治天地,https://zby.130519.xyz/PLTV/11/224/3221225994/index.m3u8
+五星体育,https://zby.130519.xyz/PLTV/11/224/3221225732/index.m3u8
+金色学堂,https://zby.130519.xyz/PLTV/11/224/3221225748/index.m3u8
 哈哈炫动,https://zby.130519.xyz/PLTV/11/224/3221226161/index.m3u8
 哈哈炫动,https://zby.130519.xyz/PLTV/11/224/3221226175/index.m3u8
 动漫秀场,https://zby.130519.xyz/PLTV/11/224/3221225764/index.m3u8
 动漫秀场,https://zby.130519.xyz/PLTV/11/224/3221226138/index.m3u8
+点掌财经,http://volcanopull.aniu.tv/live/aniu2/index.m3u8
 欢笑剧场,https://shyd.695847.xyz/cms001/ch00000090990000001490/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
 都市剧场,https://shyd.695847.xyz/cms001/ch00000090990000001203/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
 上海教育,http://tencent-live.setv.sh.cn/live/programme_setvweb.m3u8?txSecret=fd19aacaed289e44e3f6d8baa5485a41&txTime=82DF98A7
@@ -1113,7 +1144,6 @@ TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 上海魔都眼,http://bp-livetytv.bestv.cn/ch/bestvshanghaieye.m3u8
 上海魔都眼,http://cdn.jdshipin.com/kkxw.php?id=11
 上海新纪实,http://cdn.jdshipin.com/kkxw.php?id=12
-点掌财经,http://volcanopull.aniu.tv/live/aniu2/index.m3u8
 东方影视,http://m.061899.xyz/mg/shys
 东方纪实,http://m.061899.xyz/mg/xjs
 东方纪实,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
@@ -1270,6 +1300,7 @@ TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 浙江影视娱乐,https://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
 之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 钱江频道,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+杭州综合,http://l.cztvcloud.com/channels/lantian/sxchannel01/1080p.m3u8
 杭州综合,http://183.136.148.214:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 西湖明珠,http://live.nctv.top/JKHdjsi/hztv.php?id=hzmz
 杭州生活,http://live.nctv.top/JKHdjsi/hztv.php?id=hzsh
@@ -1292,6 +1323,7 @@ TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 宁波余姚综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 宁波象山综合,http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
 绍兴新闻综合,http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8
+绍兴公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?zzhed
 绍兴文化影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 绍兴嵊州综合,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 绍兴诸暨综合,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8
@@ -3124,6 +3156,7 @@ CHC影迷电影,http://183.239.236.91:8088/hls/92/index.m3u8
 腿抽筋处理方法,https://vod.youlai.cn/7f2828acc5f9432881f3833f3c13c7c5/01d1195f0ae04895852098bbf4f00886-18da40cf01b9dbc6b9b5d04d3cca74b9-sd.mp4
 脚扭伤处理方法,https://vod.youlai.cn/9ad15caadeba46f39630339787ac3bb6/b912d1569e1643ae92a0bd300942503f-5672574782b93ec8561c4b417d0e676d-sd.mp4
 异物插入眼急救法,https://vod.youlai.cn/f5cfb00203964752aaed8ebca1d5cf32/ad515860d7034de28e6b24625fa5564d-ab7a86b8c4699758b4af49ddd309f562-sd.mp4
+
 
 
 
