@@ -1124,9 +1124,6 @@ County News Center,https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/sdcounty/G0283_012/
 客家生活,http://218.15.183.23:9901/tsfile/live/23003_1.m3u8
 客家戏曲,http://218.15.183.23:9901/tsfile/live/23005_1.m3u8
 ☘️　港澳,#genre#
-凤凰中文,http://bxtv.3a.ink/api.php?id=fhzw
-凤凰资讯,http://bxtv.3a.ink/api.php?id=fhzx
-凤凰香港,http://bxtv.3a.ink/api.php?id=fhhk
 凤凰中文,http://111.221.137.234:44330/tsfile/live/0141_2.m3u8?key=txiptv&playlive=0&authid=0
 凤凰中文,https://cdn6.163189.xyz/163189/fhzw
 凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
@@ -1153,7 +1150,6 @@ County News Center,https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/sdcounty/G0283_012/
 凤凰资讯,http://live4play.uk/livehttpplay?channel_id=20066
 凤凰中文,http://live4play.uk/livehttpplay?channel_id=30014
 凤凰中文,http://live4play.uk/livehttpplay?channel_id=20065
-TVB翡翠,http://bxtv.3a.ink/api.php?id=fct
 TVB翡翠,http://mytv.cdn.loc.cc/o12.php?id=fct
 TVB翡翠,https://cdn6.163189.xyz/163189/fct4k
 TVB翡翠,https://mytv.cdn.loc.cc/o12.php?id=fct
@@ -1166,7 +1162,6 @@ TVB翡翠,http://php.jdshipin.com/smt.php?id=jade_twn
 TVB翡翠,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 TVB翡翠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 TVB翡翠,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
-TVB新闻,http://bxtv.3a.ink/api.php?id=wxxw
 TVB新闻,https://cdn6.101.qzz.io/163189/wxxw
 TVB新闻,https://hls.168.us.kg/u/83/master.m3u8
 TVB新闻,http://pull.cly.alivecdn.com/live/8909061706b522e5620dbfe2b5f7d33e.m3u8
@@ -1272,7 +1267,6 @@ TVB功夫(粤),http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 TVB功夫(粤),http://php.jdshipin.com:8880/smt.php?id=Xinhe
 TVB功夫(粤),http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 TVB功夫(粤),http://php.jdshipin.com/PLTV/iptv.php?id=yzwx
-TVB千禧经典,http://bxtv.3a.ink/api.php?id=qxjd
 TVB千禧经典,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 TVB千禧经典,http://php.jdshipin.com/PLTV/iptv.php?id=tvbc
 TVB千禧经典,http://php.jdshipin.com/smt.php?id=Tvbclassic
@@ -3243,7 +3237,6 @@ TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
 星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 🌊　宝岛,#genre#
-中天新闻,http://bxtv.3a.ink/api.php?id=ztxw
 中天新闻,http://2099.tv12.xyz/1_1764389301746.m3u8
 东森新闻,http://2099.tv12.xyz/4_1764389301746.m3u8
 东森财经,http://2099.tv12.xyz/7_1764389301746.m3u8
@@ -3475,6 +3468,7 @@ CHC影迷电影,http://183.239.236.91:8088/hls/92/index.m3u8
 腿抽筋处理方法,https://vod.youlai.cn/7f2828acc5f9432881f3833f3c13c7c5/01d1195f0ae04895852098bbf4f00886-18da40cf01b9dbc6b9b5d04d3cca74b9-sd.mp4
 脚扭伤处理方法,https://vod.youlai.cn/9ad15caadeba46f39630339787ac3bb6/b912d1569e1643ae92a0bd300942503f-5672574782b93ec8561c4b417d0e676d-sd.mp4
 异物插入眼急救法,https://vod.youlai.cn/f5cfb00203964752aaed8ebca1d5cf32/ad515860d7034de28e6b24625fa5564d-ab7a86b8c4699758b4af49ddd309f562-sd.mp4
+
 
 
 
