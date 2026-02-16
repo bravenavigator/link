@@ -749,7 +749,7 @@ County News Center,https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/sdcounty/G0283_012/
 广东新闻,http://183.239.108.37:1698/hls/11/index.m3u8
 广东珠江,http://183.239.108.37:1698/hls/13/index.m3u8
 广东民生,http://183.239.108.37:1698/hls/10/index.m3u8
-经济科技,http://183.239.108.37:1698/hls/14/index.m3u8
+经济科教,http://183.239.108.37:1698/hls/14/index.m3u8
 广东影视,http://183.239.108.37:1698/hls/16/index.m3u8
 广东少儿,http://183.239.108.37:1698/hls/17/index.m3u8
 大湾区卫视,http://183.239.108.37:1698/hls/15/index.m3u8
@@ -842,6 +842,10 @@ County News Center,https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/sdcounty/G0283_012/
 凤凰中文,http://218.104.239.114:9901/tsfile/live/1013_1.m3u8
 凤凰中文,http://111.221.137.234:44330/tsfile/live/0141_2.m3u8?key=txiptv&playlive=0&authid=0
 凤凰中文,https://cdn6.163189.xyz/163189/fhzw
+凤凰香港,https://cdn9.163189.xyz/smt3.1.1.php?id=hkphoenix_twn
+凤凰资讯,https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd
+凤凰中文,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd
+凤凰香港,https://smt.1678520.xyz/smt3.2.1.php?id=hkphoenix_twn
 TVB翡翠,https://o11.163189.xyz/stream/tvb/fct4k/
 TVB翡翠,https://cdn6.163189.xyz/163189/fct4k
 TVB翡翠,http://pull-vivek.speedws.com/live/aaajade.flv
@@ -857,6 +861,7 @@ TVB新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 TVB新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 TVB新闻,http://74.91.26.218:82/live/inews.m3u8
 TVB华丽,https://o11.163189.xyz/stream/live/hlt/
+TVB华丽,https://o11.163189.xyz/stream/live/jade/
 TVB娱乐,http://pull-vivek.speedws.com/live/aaaylxw.flv
 TVB明珠,http://pull-vivek.speedws.com/live/aaamingzhu.flv
 TVB1,https://6.cdn.loc.cc/163189.php?id=tvb1
@@ -910,6 +915,11 @@ TVB星河,http://r.jdshipin.com/Voac4
 TVB星河,http://rihou.cc:555/tv/[Pd]无线星河
 TVB功夫,http://rihou.cc:555/tv/[Pd]无线功夫
 TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
+龙华电影,https://cdn8.163189.xyz/163189/lhdy
+龙华戏剧,https://cdn8.163189.xyz/163189/lhxj
+龙华日韩,https://cdn8.163189.xyz/163189/lhrh
+龙华偶像,https://cdn8.163189.xyz/163189/lhox
+龙华经典,https://cdn8.163189.xyz/163189/lhjd
 香港 C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 📺　北京,#genre#
 北京卫视4K,http://nas.201606.xyz:4022/rtp/239.10.0.91:5140
@@ -2826,6 +2836,13 @@ TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 马来西亚astro欢喜,http://php.jdshipin.com/smt.php?id=Huahee
 马来西亚astroAod,http://php.jdshipin.com/PLTV/iptv.php?id=aod
 马来西亚astroAod,http://cdn9.163189.xyz/smt1.1.php?id=Aodhd
+马来西亚astro欢喜,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Huahee
+马来西亚astro-QJ,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Quanjia
+马来西亚Astro奇艺,https://o11.163189.xyz/stream/live/iqiyi/
+马来西亚astroAod,https://o11.163189.xyz/stream/live/aod/
+马来西亚astroAec,https://o11.163189.xyz/stream/live/aec/
+马来西亚astro-QJ,https://smt.1678520.xyz/smt3.2.1.php?id=Quanjia
+马来西亚astro欢喜,https://smt.1678520.xyz/smt3.2.1.php?id=Huahee
 马来西亚8度空间,https://vhr.dpdns.org/20003/live/8tv/stream.m3u8
 马来西亚8度空间,http://php.jdshipin.com/smt.php?id=TV8
 美亚电影,http://php.jdshipin.com/PLTV/iptv.php?id=meiya
@@ -2833,13 +2850,17 @@ TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
 星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 🌊　宝岛,#genre#
-中天新闻,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUn1weg9EIn8Xrh84byOMHltVE9N3WLtuC0KGqQoCGF3mOm0TSLdgPjhBprmGB4zyqQzA-hlku7ywqIzpIxD2NPouLpCdDfVvqCGLQHOouS1wFJfKeirbr0BNlIEcSWPoxar79xDEZh18C4Q3EZzV308KVQo0L5GaZ9n1h-yns8FSMwsfu2dThB5qEdAcL_EJ3eRscWGZ_PGZT3xHdBjigUA.m3u8?u=1756878715
+中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8
 东森新闻,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LykwjWGI-kbzDKdcyNxDFVxU1FRFqUYdSnAlgANthqY6LES4LG3UkCWe6qg8Ln_T_TrdMrSyN53UB-GKlpN0m_Xtiemr8RPWlNYQTkuapKaeZ_tUhIwqwIR_D6lFRZyEKfuCfIJCDaoPzBzno5QpD5tDEUf5Ik30ZhXPyfINNx8-sF09MXxxtvF1BhC59ljjYKg.m3u8?u=1756878715
 TVBS新闻,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LymUZNT2bmlxSvQ4cHRLiJ2fe2MaJc9Z6qOVHYbAImRKurKFLRanLJEjwLLytJ5msriMu78zUItpIgJjRN_mEajAeMurzBNZ6hoCeXJs5WQzLW-nmSuRFnv4FyYXnpB2GHc0J8Pp4HFKFRkpYhUW4r4qIZGA-BhwepMx06F0exFTlBdJ4GjyCsLcmGsAfpOI7YQ.m3u8?u=1756878715
+民视新闻,http://74.91.26.218:82/live/ftvnews.m3u8
 民视新闻,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUyH_fs26-c7nBUTry9_G9WHdV2sgD9eLXBTtpA8gvijo2TECYOuADgePR1KGB1I0kBeQk6nfWoWYZS8LBGnrwe-H0Y5zDerMJ20JnIYjg7FdzsWdk2VzlYLRS7nw6e46l7FidsTRkFTa7r8OcBlACj9McQ4HcQZuv-LIAtu0KWX_F3p1gvJPvugSkVD9JO18SLD9aoCCItP557mqCgCQ0ug.m3u8?u=1756878715
 中视新闻,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUyH_fs26-c7nBUTry9_G9WMoiY9eSvYzh6ZwnRGmkQCdsjPrEP66LQen6iWL-fzZsqBTXBHKSfZLUc3BwHZ8Q4_yA7qBHgB0punInWfeNbjrSmjvScFFu0zpuxNErW7EIII4-rSdU1ytKDClCBqmsDn2rc00nFckmk5plk1cMpGnBmnI_y3vRoROfc3NhwO-4ZeKxcw_ZE1BegueTZVshjQ.m3u8?u=1756878715
+华视新闻资讯,http://74.91.26.218:82/live/ctsnews.m3u8
 华视新闻,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUyH_fs26-c7nBUTry9_G9WKqScQqAKpRWYNyer9iIQlXfEfGOtgn4R3j-fMkdCF3Nrz8a8eWtVPoBarT83pADy0q9_LSk_YemjPXgslCED7SsSF1-vePW6HBPwNMbJZjVrVMIe8TvrqhAfpliA3zm12VWQgXhJALgwvtO8zKq0OSijpJ5tnyd4PioVRKZPphfrGIxVr2eJ06-AOUnncmLLA.m3u8?u=1756878715
+台视新闻,http://74.91.26.218:82/live/ttvnews.m3u8
 台视新闻,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUyH_fs26-c7nBUTry9_G9WNuD_XjMeRfmWF04O0RfD3fflKqSgrhOtkHsYB1YQTSvhscjGW3T8rf3CFzfYl4iI8DTTm-5OSvy80YjPqMN_cpyFGhLm-Ruyfmzu_7xrjqT-9GBgHwFLkyNFQzGJWbhmHXJUBlyty0e0vgYH48pATr-8pAVDOl4YVdbbu-ydMBUCi5cNttFMNmRtOWZSykmNQ.m3u8?u=1756878715
+台视财经,http://74.91.26.218:82/live/ttvcj.m3u8
 壹电视新闻,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGtqvaXXbta95-qX6RTBNzNdXMy6PYYPVGb7wJEs_I_f5UpdKNTkfQyNqbeH3dDEq7FyHjlaM91e6-Pjbc4AJvXliZkNSyk-VFu5uv66pikPsSCMmLyRs7yllyIY0E6epgebbhAAByXQsq7QFMkVcuBPfIivXoGm_SOVTM0_gfqHmdu95WzskBJpIBvZau7pfEQ1p5Zvs0RIqZ59xj5AxM_A.m3u8?u=1757123819
 非凡新聞,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUaB2MBpZJIecyktt2dzKZQmXztaPqUaTu4Cwnl89i6cAR9Ns3UjqcoGz-7Ku7pzf8iRuAW58SqlW8Ghow8snuw6yfVoLvHJKXPQNA-W3LLPQLYBMRGmbNnAsWRe3wWdIC4EE16x_TBLIOmMb-W1cOjjtcA4GIBxfm2qECWwd6GZ4tuxkY-pmlspR_GyEilrC5x123WrqHPcYUKVnd9k5Lvw.m3u8?u=1756878715
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
@@ -3044,6 +3065,7 @@ CHC影迷电影,http://183.239.236.91:8088/hls/92/index.m3u8
 腿抽筋处理方法,https://vod.youlai.cn/7f2828acc5f9432881f3833f3c13c7c5/01d1195f0ae04895852098bbf4f00886-18da40cf01b9dbc6b9b5d04d3cca74b9-sd.mp4
 脚扭伤处理方法,https://vod.youlai.cn/9ad15caadeba46f39630339787ac3bb6/b912d1569e1643ae92a0bd300942503f-5672574782b93ec8561c4b417d0e676d-sd.mp4
 异物插入眼急救法,https://vod.youlai.cn/f5cfb00203964752aaed8ebca1d5cf32/ad515860d7034de28e6b24625fa5564d-ab7a86b8c4699758b4af49ddd309f562-sd.mp4
+
 
 
 
