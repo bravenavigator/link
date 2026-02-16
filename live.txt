@@ -732,6 +732,7 @@ CGTN英语,http://1.24.190.98:10080/hls/20/index.m3u8
 欧洲华文七套,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
 County News Center,https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/sdcounty/G0283_012/playlist.m3u8
 📺　广东,#genre#
+广东卫视,http://183.239.108.37:1698/hls/2/index.m3u8
 深圳卫视,http://tv.sohu.blog/proxy/hls/szws.m3u8
 深圳卫视,http://nas.201606.xyz:4022/rtp/239.10.0.93:5140
 广东新闻,http://183.239.108.37:1698/hls/11/index.m3u8
@@ -740,6 +741,7 @@ County News Center,https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/sdcounty/G0283_012/
 经济科技,http://183.239.108.37:1698/hls/14/index.m3u8
 广东影视,http://183.239.108.37:1698/hls/16/index.m3u8
 广东少儿,http://183.239.108.37:1698/hls/17/index.m3u8
+大湾区卫视,http://183.239.108.37:1698/hls/15/index.m3u8
 广东珠江,http://218.15.183.23:9901/tsfile/live/23009_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://218.15.183.23:9901/tsfile/live/23012_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://218.13.170.98:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -769,6 +771,7 @@ County News Center,https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/sdcounty/G0283_012/
 深圳都市,http://116.77.33.98:44330/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
 深圳少儿,http://116.77.33.98:44330/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
 深圳电视剧,http://116.77.33.98:44330/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
+东莞新闻综合,http://183.239.108.37:1698/hls/69/index.m3u8
 东莞新闻综合,http://stream.sun0769.com/dgrtv1/mp4tv1_1500/index.m3u8
 东莞新闻综合,http://stream.sun0769.com/dgrtv1/mp4tv1_1500.flv
 东莞新闻综合,rtmp://stream.sun0769.com/dgrtv1/mp4tv1_1500
@@ -784,14 +787,27 @@ County News Center,https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/sdcounty/G0283_012/
 东莞新闻综合,https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
 东莞生活资讯,https://stream.sun0769.com/dgrtv1/mp4tv2_800/index.m3u8
 东莞新闻综合,https://stream.sun0769.com/dgrtv1/mp4tv1_1500/index.m3u8
+珠海综合,http://183.239.108.37:1698/hls/67/index.m3u8
+佛山城市生活,http://183.239.108.37:1698/hls/70/index.m3u8
+中山综合,http://183.239.108.37:1698/hls/68/index.m3u8
 中山综合,http://tv.sohu.blog/proxy/gdzs.php?id=zszh
 中山综合,http://v.zsbtv.com.cn/lsdream/qTl38me/1000/live.m3u8
-汕头经济生活,http://tv.sohu.blog/proxy/gdst.php?id=st2
+惠州综合,http://183.239.108.37:1698/hls/66/index.m3u8
+汕头综合,http://183.239.108.37:1698/hls/3/index.m3u8
 汕头综合,http://tv.sohu.blog/proxy/gdst.php?id=st1
-汕尾文化生活,https://iswtv.swrtv.com/live/whshpd.m3u8
-汕尾文化生活,http://tv.sohu.blog/proxy/gdsw.php?id=58
+汕头经济生活,http://183.239.108.37:1698/hls/4/index.m3u8
+汕头经济生活,http://tv.sohu.blog/proxy/gdst.php?id=st2
+汕尾新闻综合,http://183.239.108.37:1698/hls/65/index.m3u8
 汕尾新闻综合,https://iswtv.swrtv.com/live/xwzhpd.m3u8
 汕尾新闻综合,http://tv.sohu.blog/proxy/gdsw.php?id=57
+汕尾文化生活,http://183.239.108.37:1698/hls/5/index.m3u8
+汕尾文化生活,http://tv.sohu.blog/proxy/gdsw.php?id=58
+汕尾文化生活,https://iswtv.swrtv.com/live/whshpd.m3u8
+潮州民生,http://183.239.108.37:1698/hls/9/index.m3u8
+潮州综合,http://183.239.108.37:1698/hls/8/index.m3u8
+揭阳综合,http://183.239.108.37:1698/hls/6/index.m3u8
+揭阳生活,http://183.239.108.37:1698/hls/7/index.m3u8
+梅州综合,http://183.239.108.37:1698/hls/71/index.m3u8
 客家戏曲,http://218.15.183.23:9901/tsfile/live/23005_1.m3u8
 ☘️　港澳,#genre#
 凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
@@ -3096,6 +3112,7 @@ CHC影迷电影,http://183.239.236.91:8088/hls/92/index.m3u8
 腿抽筋处理方法,https://vod.youlai.cn/7f2828acc5f9432881f3833f3c13c7c5/01d1195f0ae04895852098bbf4f00886-18da40cf01b9dbc6b9b5d04d3cca74b9-sd.mp4
 脚扭伤处理方法,https://vod.youlai.cn/9ad15caadeba46f39630339787ac3bb6/b912d1569e1643ae92a0bd300942503f-5672574782b93ec8561c4b417d0e676d-sd.mp4
 异物插入眼急救法,https://vod.youlai.cn/f5cfb00203964752aaed8ebca1d5cf32/ad515860d7034de28e6b24625fa5564d-ab7a86b8c4699758b4af49ddd309f562-sd.mp4
+
 
 
 
