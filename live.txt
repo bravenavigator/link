@@ -378,42 +378,6 @@ CETV中国教育1,http://gmxw.7766.org:808/hls/122/index.m3u8
 康巴卫视,http://127.0.0.1
 安多卫视,http://127.0.0.1
 延边卫视,http://127.0.0.1
-北京卫视,http://114.254.33.207:18888/rtp/239.2.1.120:8000
-东南卫视,http://114.254.33.207:18888/rtp/239.3.1.156:8148
-东方卫视,http://114.254.33.207:18888/rtp/239.3.1.136:8032
-天津卫视,http://114.254.33.207:18888/rtp/239.3.1.141:1234
-深圳卫视,http://114.254.33.207:18888/rtp/239.3.1.134:8020
-三沙卫视,http://114.254.33.207:18888/rtp/239.3.1.155:4120
-兵团卫视,http://114.254.33.207:18888/rtp/239.3.1.168:8196
-内蒙古卫视,http://114.254.33.207:18888/rtp/239.3.1.43:8176
-厦门卫视,http://114.254.33.207:18888/rtp/239.3.1.143:4120
-宁夏卫视,http://114.254.33.207:18888/rtp/239.3.1.169:8212
-广西卫视,http://114.254.33.207:18888/rtp/239.3.1.39:8300
-新疆卫视,http://114.254.33.207:18888/rtp/239.3.1.167:8192
-西藏卫视,http://114.254.33.207:18888/rtp/239.3.1.166:8188
-吉林卫视,http://114.254.33.207:18888/rtp/239.3.1.240:8172
-安徽卫视,http://114.254.33.207:18888/rtp/239.3.1.211:8064
-山东卫视,http://114.254.33.207:18888/rtp/239.3.1.209:8052
-山东教育卫视,http://114.254.33.207:18888/rtp/239.3.1.52:4120
-广东卫视,http://114.254.33.207:18888/rtp/239.3.1.142:8048
-江苏卫视,http://114.254.33.207:18888/rtp/239.3.1.135:8028
-江西卫视,http://114.254.33.207:18888/rtp/239.3.1.123:8164
-河北卫视,http://114.254.33.207:18888/rtp/239.3.1.148:8072
-河南卫视,http://114.254.33.207:18888/rtp/239.3.1.50:8184
-浙江卫视,http://114.254.33.207:18888/rtp/239.3.1.137:8036
-湖北卫视,http://114.254.33.207:18888/rtp/239.3.1.138:8044
-湖南卫视,http://114.254.33.207:18888/rtp/239.3.1.132:8012
-贵州卫视,http://114.254.33.207:18888/rtp/239.3.1.149:8076
-辽宁卫视,http://114.254.33.207:18888/rtp/239.3.1.210:8056
-重庆卫视,http://114.254.33.207:18888/rtp/239.3.1.122:8160
-黑龙江卫视,http://114.254.33.207:18888/rtp/239.3.1.133:8016
-云南卫视,http://114.254.33.207:18888/rtp/239.3.1.26:8108
-四川卫视,http://114.254.33.207:18888/rtp/239.3.1.29:8288
-山西卫视,http://114.254.33.207:18888/rtp/239.3.1.42:8172
-海南卫视,http://114.254.33.207:18888/rtp/239.3.1.45:8304
-甘肃卫视,http://114.254.33.207:18888/rtp/239.3.1.201:8180
-陕西卫视,http://114.254.33.207:18888/rtp/239.3.1.41:8140
-青海卫视,http://114.254.33.207:18888/rtp/239.3.1.44:8184
 四川卫视,https://60.191.56.186:8888/hls/37/index.m3u8
 湖南卫视,https://60.191.56.186:8888/hls/31/index.m3u8
 浙江卫视,https://60.191.56.186:8888/hls/17/index.m3u8
@@ -776,7 +740,12 @@ County News Center,https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/sdcounty/G0283_012/
 📺　广东,#genre#
 广东卫视,http://183.239.108.37:1698/hls/2/index.m3u8
 深圳卫视,http://tv.sohu.blog/proxy/hls/szws.m3u8
-深圳卫视,http://nas.201606.xyz:4022/rtp/239.10.0.93:5140
+深圳卫视,http://tv.sohu.blog/proxy/hls/szws4k.m3u8
+广东新闻,http://121.9.14.195:50085/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+广东珠江,http://121.9.14.195:50085/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+经济科教,http://121.9.14.195:50085/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+广东体育,http://121.9.14.195:50085/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+广东影视,http://121.9.14.195:50085/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 广东新闻,http://183.239.108.37:1698/hls/11/index.m3u8
 广东珠江,http://183.239.108.37:1698/hls/13/index.m3u8
 广东民生,http://183.239.108.37:1698/hls/10/index.m3u8
@@ -784,6 +753,7 @@ County News Center,https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/sdcounty/G0283_012/
 广东影视,http://183.239.108.37:1698/hls/16/index.m3u8
 广东少儿,http://183.239.108.37:1698/hls/17/index.m3u8
 大湾区卫视,http://183.239.108.37:1698/hls/15/index.m3u8
+大湾区卫视,http://121.9.14.195:50085/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 广东珠江,http://218.15.183.23:9901/tsfile/live/23009_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://218.15.183.23:9901/tsfile/live/23012_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://218.13.170.98:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -792,6 +762,8 @@ County News Center,https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/sdcounty/G0283_012/
 经济科教,https://jsv-live-play.sfccn.com/live/jsv_3920_fhd.m3u8
 大湾区卫视,http://tvtj.jxwltx.com:8003/neimenggu.m3u8
 大湾区卫视,http://222.128.55.152:9080/live/dwq.m3u8
+广州综合,http://115.190.252.60/gdgz.php?id=zh
+广州新闻,http://115.190.252.60/gdgz.php?id=xw
 广州综合,http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
 广州综合,https://tencentplaygsm.gztv.com/live/zonghes.m3u8?txTime=6594e9b7&txSecret=adb23b34fb694750ac8b8ff14a21a424
 广州综合,https://tencentplaygsm.gztv.com/live/zonghes.m3u8?txTime=659a5111&txSecret=36b95cb955327d8262812e0e4f772aa5
@@ -813,6 +785,10 @@ County News Center,https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/sdcounty/G0283_012/
 深圳都市,http://116.77.33.98:44330/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
 深圳少儿,http://116.77.33.98:44330/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
 深圳电视剧,http://116.77.33.98:44330/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
+深圳都市,http://tv.sohu.blog/proxy/hls/szds.m3u8
+深圳少儿,http://tv.sohu.blog/proxy/hls/szse.m3u8
+深圳国际,http://tv.sohu.blog/proxy/hls/szgj.m3u8
+深圳移动,http://tv.sohu.blog/proxy/hls/szyd.m3u8
 东莞新闻综合,http://183.239.108.37:1698/hls/69/index.m3u8
 东莞新闻综合,http://stream.sun0769.com/dgrtv1/mp4tv1_1500/index.m3u8
 东莞新闻综合,http://stream.sun0769.com/dgrtv1/mp4tv1_1500.flv
@@ -835,6 +811,7 @@ County News Center,https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/sdcounty/G0283_012/
 中山综合,http://tv.sohu.blog/proxy/gdzs.php?id=zszh
 中山综合,http://v.zsbtv.com.cn/lsdream/qTl38me/1000/live.m3u8
 惠州综合,http://183.239.108.37:1698/hls/66/index.m3u8
+清远新闻综合,http://vlivestream.qyrb.cn/qyLiveSlow/74.m3u8
 汕头综合,http://183.239.108.37:1698/hls/3/index.m3u8
 汕头综合,http://tv.sohu.blog/proxy/gdst.php?id=st1
 汕头经济生活,http://183.239.108.37:1698/hls/4/index.m3u8
@@ -849,7 +826,10 @@ County News Center,https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/sdcounty/G0283_012/
 潮州综合,http://183.239.108.37:1698/hls/8/index.m3u8
 揭阳综合,http://183.239.108.37:1698/hls/6/index.m3u8
 揭阳生活,http://183.239.108.37:1698/hls/7/index.m3u8
+韶关新闻综合,http://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
 梅州综合,http://183.239.108.37:1698/hls/71/index.m3u8
+梅州综合,https://livepull.hellohakka.cn/live/ch_zonghe.m3u8
+梅州客家生活,https://livepull.hellohakka.cn/live/ch_kejiashenghuo.m3u8
 客家戏曲,http://218.15.183.23:9901/tsfile/live/23005_1.m3u8
 ☘️　港澳,#genre#
 凤凰中文,http://pull-vivek.speedws.com/live/aaafhzw.flv
@@ -937,24 +917,6 @@ TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 📺　北京,#genre#
 北京卫视4K,http://nas.201606.xyz:4022/rtp/239.10.0.91:5140
 北京卫视4K,http://nas.201606.xyz:4022/rtp/239.10.0.92:5140
-北京国际,http://114.254.33.207:18888/rtp/239.3.1.235:8000
-北京影视,http://114.254.33.207:18888/rtp/239.3.1.158:8000
-北京文艺,http://114.254.33.207:18888/rtp/239.3.1.242:8000
-北京新闻,http://114.254.33.207:18888/rtp/239.3.1.159:8000
-北京生活,http://114.254.33.207:18888/rtp/239.3.1.117:8000
-北京纪实科教,http://114.254.33.207:18888/rtp/239.3.1.115:8000
-北京体育休闲,http://114.254.33.207:18888/rtp/239.3.1.243:8000
-北京财经,http://114.254.33.207:18888/rtp/239.3.1.116:8000
-卡酷少儿,http://114.254.33.207:18888/rtp/239.3.1.234:8000
-淘BABY,http://114.254.33.207:18888/rtp/239.3.1.238:8001
-淘剧场,http://114.254.33.207:18888/rtp/239.3.1.95:8001
-淘娱乐,http://114.254.33.207:18888/rtp/239.3.1.100:8001
-淘电影,http://114.254.33.207:18888/rtp/239.3.1.250:8001
-萌宠TV,http://114.254.33.207:18888/rtp/239.3.1.102:8001
-睛彩广场舞,http://114.254.33.207:18888/rtp/239.3.1.128:8001
-睛彩竞技,http://114.254.33.207:18888/rtp/239.3.1.125:8001
-睛彩篮球,http://114.254.33.207:18888/rtp/239.3.1.126:8001
-睛彩青少,http://114.254.33.207:18888/rtp/239.3.1.127:8001
 北京新闻,http://m.061899.xyz/mg/bjxw
 北京财经,http://m.061899.xyz/mg/bjcj
 北京文艺,http://m.061899.xyz/mg/bjwy
@@ -3085,6 +3047,7 @@ CHC影迷电影,http://183.239.236.91:8088/hls/92/index.m3u8
 腿抽筋处理方法,https://vod.youlai.cn/7f2828acc5f9432881f3833f3c13c7c5/01d1195f0ae04895852098bbf4f00886-18da40cf01b9dbc6b9b5d04d3cca74b9-sd.mp4
 脚扭伤处理方法,https://vod.youlai.cn/9ad15caadeba46f39630339787ac3bb6/b912d1569e1643ae92a0bd300942503f-5672574782b93ec8561c4b417d0e676d-sd.mp4
 异物插入眼急救法,https://vod.youlai.cn/f5cfb00203964752aaed8ebca1d5cf32/ad515860d7034de28e6b24625fa5564d-ab7a86b8c4699758b4af49ddd309f562-sd.mp4
+
 
 
 
