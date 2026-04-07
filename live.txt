@@ -2701,6 +2701,10 @@ TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 兰州文旅,http://61.178.227.57:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 兰州新闻综合,rtsp://60.13.39.18/PLTV/88888910/224/3221225836/375578711.smil
 兰州文旅,rtsp://60.13.39.18/PLTV/88888910/224/3221225823/375578759.smil
+兰州新闻综合,https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8
+兰州文旅,https://liveplus.lzr.com.cn/wlpd/HD/live.m3u8
+兰州新闻综合,http://61.178.227.57:9901/tsfile/live/1011_1.m3u8?key=txiptv
+兰州旅游,http://61.178.227.57:9901/tsfile/live/1009_1.m3u8?key=txiptv
 张掖综合,https://play.kankanlive.com/live/1720583434627241.m3u8
 张掖综合,http://play.kankanlive.com/live/1720583434627241.m3u8
 张掖农旅,http://play.kankanlive.com/live/1720583009200246.m3u8
