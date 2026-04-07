@@ -2647,6 +2647,16 @@ TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 山西文体生活,http://121.30.137.26:8081/hls/24/index.m3u8
 山西影视,http://121.30.137.26:8081/hls/21/index.m3u8
 山西黄河,http://121.30.137.26:8081/hls/20/index.m3u8
+山西卫视,http://111.170.156.74:3344/地方/地方/shanxi/shanxi.php?id=sxws
+山西经济,http://111.170.156.74:3344/地方/地方/shanxi/shanxi.php?id=sxjj
+山西影视,http://111.170.156.74:3344/地方/地方/shanxi/shanxi.php?id=sxys
+山西社会与法治,http://111.170.156.74:3344/地方/地方/shanxi/shanxi.php?id=sxshfz
+山西文体生活,http://111.170.156.74:3344/地方/地方/shanxi/shanxi.php?id=sxwtsh
+山西黄河,http://111.170.156.74:3344/地方/地方/shanxi/shanxi.php?id=sxhh
+太原新闻综合,http://111.170.156.74:3344/地方/地方/shanxi/taiyuan.php?id=tyxwzh
+太原新闻综合,http://111.170.156.74:3344/地方/地方/shanxi/shanxi.php?id=ty1
+太原社教法制,http://111.170.156.74:3344/地方/地方/shanxi/taiyuan.php?id=tysjfz
+太原影视,http://111.170.156.74:3344/地方/地方/shanxi/taiyuan.php?id=tyys
 太原新闻综合,http://1.94.31.214/php/taiyuan.php?id=tyxwzh
 太原经济生活,http://1.94.31.214/php/taiyuan.php?id=tyjjsh
 太原城市生活,http://1.94.31.214/php/taiyuan.php?id=tycssh
