@@ -2156,6 +2156,19 @@ TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 甘孜康定综合,http://m3u8-kd.channel.ganzitv.com/nmip-media-yajiang/channellive/channel100663/playlist.m3u8
 📺　广西,#genre#
 广西卫视,http://110.80.17.38:9999/tsfile/live/0113_1.m3u8
+广西新闻,http://192.151.150.154/live/gxxw.m3u8
+广西都市,http://192.151.150.154/live/gxds.m3u8
+广西综艺,http://192.151.150.154/live/gxzy.m3u8
+广西国际,http://192.151.150.154/live/gxgj.m3u8
+广西影视,http://192.151.150.154/live/gxys.m3u8
+广西影视,http://171.38.107.33:8282/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
+广西新闻,http://171.38.107.33:8282/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+广西都市,http://171.38.107.33:8282/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+广西新闻,http://38.75.136.137:98/gslb/dsdqpub/gxxw.m3u8?auth=testpub
+广西都市,http://38.75.136.137:98/gslb/dsdqpub/gxds.m3u8?auth=testpub
+广西影视,http://38.75.136.137:98/gslb/dsdqpub/gxys.m3u8?auth=testpub
+广西综艺,http://38.75.136.137:98/gslb/dsdqpub/gxzy.m3u8?auth=testpub
+广西国际,http://38.75.136.137:98/gslb/dsdqpub/gxgj.m3u8?auth=testpub
 广西卫视,http://116.9.204.242:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 广西新闻,http://116.9.204.242:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 广西都市,http://116.9.204.242:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
