@@ -2260,14 +2260,6 @@ TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 贵州科教健康,http://www.qhjx.top:18000/udp/238.255.2.6:5999
 贵州经济,http://www.qhjx.top:18000/udp/238.255.2.9:5999
 贵州+,http://www.qhjx.top:18000/udp/238.255.2.202:5999
-贵州公共,http://gz.sohu.blog/gztv.php?id=02
-贵州公共,http://gz.sohu.blog/gzggpd.php
-贵州影视文艺,http://gz.sohu.blog/gztv.php?id=03
-贵州大众生活,http://gz.sohu.blog/gztv.php?id=04
-贵州生态乡村,http://gz.sohu.blog/gztv.php?id=05
-贵州科教健康,http://gz.sohu.blog/gztv.php?id=06
-贵州经济,http://gz.sohu.blog/gztv.php?id=09
-贵州移动,http://gz.sohu.blog/gztv.php?id=13
 贵阳综合,http://www.qhjx.top:18000/udp/238.255.2.19:5999
 贵阳经济生活,http://www.qhjx.top:18000/udp/238.255.2.20:5999
 贵阳科教法治,http://www.qhjx.top:18000/udp/238.255.2.22:5999
