@@ -944,6 +944,14 @@ County News Center,https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/sdcounty/G0283_012/
 深圳卫视,http://tv.sohu.blog/proxy/hls/szws.m3u8
 深圳卫视,http://tv.sohu.blog/proxy/hls/szws4k.m3u8
 深圳卫视,http://nn.7x9d.cn/深圳最新.php?id=szws
+广东新闻,http://38.75.136.137:98/gslb/dsdqpub/gdxw.m3u8?auth=testpub
+广东新闻,http://38.75.136.137:98/gslb/dsdqpub/gdxwa.m3u8?auth=testpub
+广东珠江,http://38.75.136.137:98/gslb/dsdqpub/gdzja.m3u8?auth=testpub
+广东珠江,http://38.75.136.137:98/gslb/dsdqpub/gdzj.m3u8?auth=testpub
+广东移动,http://38.75.136.137:98/gslb/dsdqpub/gdyd.m3u8?auth=testpub
+广东4K超高清,http://38.75.136.137:98/gslb/dsdqpub/gdtvs3.m3u8?auth=testpub
+广东体育,http://111.221.137.234:44330/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
+广东少儿,http://38.75.136.137:98/gslb/dsdqpub/gdtvs5.m3u8?auth=testpub
 广东新闻,http://121.9.14.195:50085/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 广东珠江,http://121.9.14.195:50085/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 经济科教,http://121.9.14.195:50085/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -987,6 +995,8 @@ County News Center,https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/sdcounty/G0283_012/
 南国都市,http://zb.hmysapp.cn:802/dft/guangdong/guangzhou.php?id=shenghuo
 南国都市,http://111.170.156.74:3344/地方频道/guangdong/guangzhou.php?id=shenghuo
 南国都市,http://47.108.20.161:8866/guangdong/guangzhou.php?id=shenghuo
+深圳都市,http://111.221.137.234:44330/tsfile/live/1014_1.m3u8?key=txiptv&playlive=0&authid=0
+深圳电视剧,http://111.221.137.234:44330/tsfile/live/1015_1.m3u8?key=txiptv&playlive=0&authid=0
 深圳都市,http://47.108.20.161:8866/guangdong/shenzhen.php?id=szds
 深圳电视剧,http://47.108.20.161:8866/guangdong/shenzhen.php?id=szdsj
 深圳国际,http://47.108.20.161:8866/guangdong/shenzhen.php?id=szgj
@@ -1221,8 +1231,7 @@ TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 延庆电视,http://videoplay.yanqingrmzx.com/yanqappvideo/yqingappvideo.m3u8?auth_key=1725670927-0-0-692111986e725c19ea6478b894e23911
 怀柔电视,http://1866360231.cloudvdn.com/a.m3u8?domain=pili-live-hdl-bjhr-tv.huairtv.com&player=1&streamid=bjhr-tv:bjhr-tv/huairtv&v3=1
 📺　上海,#genre#
-东方卫视,http://cdn.jdshipin.com/kkxw.php?id=1
-东方卫视,http://cdn.jdshipin.com/kdf.php?id=22
+东方卫视,https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 上海新闻综合,http://bp-livetytv.bestv.cn/ch/bestvxwzh.m3u8
 上海新闻综合,http://cdn.jdshipin.com/kdf.php?id=20
 上海都市,http://bp-livetytv.bestv.cn/ch/bestvdspd.m3u8
@@ -1276,6 +1285,12 @@ TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 天津都市,http://192.151.150.154/live/tjtv4.m3u8
 天津体育,http://192.151.150.154/live/tjtv5.m3u8
 天津教育,http://192.151.150.154/live/tjtv6.m3u8
+天津新闻,http://38.75.136.137:98/gslb/dsdqpub/tjtv1.m3u8?auth=testpub
+天津文艺,http://38.75.136.137:98/gslb/dsdqpub/tjtv2.m3u8?auth=testpub
+天津影视,http://38.75.136.137:98/gslb/dsdqpub/tjtv3.m3u8?auth=testpub
+天津都市,http://38.75.136.137:98/gslb/dsdqpub/tjtv4.m3u8?auth=testpub
+天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
+天津教育,http://38.75.136.137:98/gslb/dsdqpub/tjtv6.m3u8?auth=testpub
 天津新闻,http://sun135790.x3322.net:9901/tsfile/live/16002_1.m3u8?key=txiptv&playlive=1&authid=0
 天津都市,http://sun135790.x3322.net:9901/tsfile/live/16005_1.m3u8?key=txiptv&playlive=1&authid=0
 天津文艺,http://sun135790.x3322.net:9901/tsfile/live/16003_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1747,6 +1762,12 @@ TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 永州蓝山综合,https://liveplay-srs.voc.com.cn/hls/tv/26_370917.m3u8
 张家界桑植综合,https://liveplay-srs.voc.com.cn/hls/tv/185_938292.m3u8
 📺　湖北,#genre#
+湖北综合,http://38.75.136.137:98/gslb/dsdqpub/hbzh.m3u8?auth=testpub
+湖北经视,http://38.75.136.137:98/gslb/dsdqpub/hbjs.m3u8?auth=testpub
+湖北教育,http://38.75.136.137:98/gslb/dsdqpub/hbjy.m3u8?auth=testpub
+湖北垄上,http://38.75.136.137:98/gslb/dsdqpub/hbls.m3u8?auth=testpub
+湖北生活,http://38.75.136.137:98/gslb/dsdqpub/hbty.m3u8?auth=testpub
+湖北影视,http://38.75.136.137:98/gslb/dsdqpub/hbys.m3u8?auth=testpub
 湖北公共,http://home.sylaigym.top:8887/rtp/239.69.1.40:9880
 湖北经视,http://home.sylaigym.top:8887/rtp/239.69.1.41:9886
 湖北综合,http://home.sylaigym.top:8887/rtp/239.69.1.42:9892
@@ -2156,9 +2177,15 @@ TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 甘孜康定综合,http://m3u8-kd.channel.ganzitv.com/nmip-media-yajiang/channellive/channel100663/playlist.m3u8
 📺　广西,#genre#
 广西卫视,http://110.80.17.38:9999/tsfile/live/0113_1.m3u8
+广西都市,http://38.75.136.137:98/gslb/dsdqpub/gxds.m3u8?auth=testpub
+广西国际,http://38.75.136.137:98/gslb/dsdqpub/gxgj.m3u8?auth=testpub
+广西新闻,http://38.75.136.137:98/gslb/dsdqpub/gxxw.m3u8?auth=testpub
+广西移动,http://38.75.136.137:98/gslb/dsdqpub/gxyd.m3u8?auth=testpub
+广西影视,http://38.75.136.137:98/gslb/dsdqpub/gxys.m3u8?auth=testpub
+广西综艺旅游,http://38.75.136.137:98/gslb/dsdqpub/gxzy.m3u8?auth=testpub
 广西新闻,http://192.151.150.154/live/gxxw.m3u8
 广西都市,http://192.151.150.154/live/gxds.m3u8
-广西综艺,http://192.151.150.154/live/gxzy.m3u8
+广西综艺旅游,http://192.151.150.154/live/gxzy.m3u8
 广西国际,http://192.151.150.154/live/gxgj.m3u8
 广西影视,http://192.151.150.154/live/gxys.m3u8
 广西影视,http://171.38.107.33:8282/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -2167,7 +2194,7 @@ TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 广西新闻,http://38.75.136.137:98/gslb/dsdqpub/gxxw.m3u8?auth=testpub
 广西都市,http://38.75.136.137:98/gslb/dsdqpub/gxds.m3u8?auth=testpub
 广西影视,http://38.75.136.137:98/gslb/dsdqpub/gxys.m3u8?auth=testpub
-广西综艺,http://38.75.136.137:98/gslb/dsdqpub/gxzy.m3u8?auth=testpub
+广西综艺旅游,http://38.75.136.137:98/gslb/dsdqpub/gxzy.m3u8?auth=testpub
 广西国际,http://38.75.136.137:98/gslb/dsdqpub/gxgj.m3u8?auth=testpub
 广西卫视,http://116.9.204.242:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 广西新闻,http://116.9.204.242:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -3292,14 +3319,8 @@ TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
 星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 🌊　宝岛,#genre#
-东森新闻,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LykwjWGI-kbzDKdcyNxDFVxU1FRFqUYdSnAlgANthqY6LES4LG3UkCWe6qg8Ln_T_TrdMrSyN53UB-GKlpN0m_Xtiemr8RPWlNYQTkuapKaeZ_tUhIwqwIR_D6lFRZyEKfuCfIJCDaoPzBzno5QpD5tDEUf5Ik30ZhXPyfINNx8-sF09MXxxtvF1BhC59ljjYKg.m3u8?u=1756878715
-TVBS新闻,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LymUZNT2bmlxSvQ4cHRLiJ2fe2MaJc9Z6qOVHYbAImRKurKFLRanLJEjwLLytJ5msriMu78zUItpIgJjRN_mEajAeMurzBNZ6hoCeXJs5WQzLW-nmSuRFnv4FyYXnpB2GHc0J8Pp4HFKFRkpYhUW4r4qIZGA-BhwepMx06F0exFTlBdJ4GjyCsLcmGsAfpOI7YQ.m3u8?u=1756878715
-民视新闻,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUyH_fs26-c7nBUTry9_G9WHdV2sgD9eLXBTtpA8gvijo2TECYOuADgePR1KGB1I0kBeQk6nfWoWYZS8LBGnrwe-H0Y5zDerMJ20JnIYjg7FdzsWdk2VzlYLRS7nw6e46l7FidsTRkFTa7r8OcBlACj9McQ4HcQZuv-LIAtu0KWX_F3p1gvJPvugSkVD9JO18SLD9aoCCItP557mqCgCQ0ug.m3u8?u=1756878715
-中视新闻,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUyH_fs26-c7nBUTry9_G9WMoiY9eSvYzh6ZwnRGmkQCdsjPrEP66LQen6iWL-fzZsqBTXBHKSfZLUc3BwHZ8Q4_yA7qBHgB0punInWfeNbjrSmjvScFFu0zpuxNErW7EIII4-rSdU1ytKDClCBqmsDn2rc00nFckmk5plk1cMpGnBmnI_y3vRoROfc3NhwO-4ZeKxcw_ZE1BegueTZVshjQ.m3u8?u=1756878715
-华视新闻,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUyH_fs26-c7nBUTry9_G9WKqScQqAKpRWYNyer9iIQlXfEfGOtgn4R3j-fMkdCF3Nrz8a8eWtVPoBarT83pADy0q9_LSk_YemjPXgslCED7SsSF1-vePW6HBPwNMbJZjVrVMIe8TvrqhAfpliA3zm12VWQgXhJALgwvtO8zKq0OSijpJ5tnyd4PioVRKZPphfrGIxVr2eJ06-AOUnncmLLA.m3u8?u=1756878715
-台视新闻,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUyH_fs26-c7nBUTry9_G9WNuD_XjMeRfmWF04O0RfD3fflKqSgrhOtkHsYB1YQTSvhscjGW3T8rf3CFzfYl4iI8DTTm-5OSvy80YjPqMN_cpyFGhLm-Ruyfmzu_7xrjqT-9GBgHwFLkyNFQzGJWbhmHXJUBlyty0e0vgYH48pATr-8pAVDOl4YVdbbu-ydMBUCi5cNttFMNmRtOWZSykmNQ.m3u8?u=1756878715
-壹电视新闻,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGtqvaXXbta95-qX6RTBNzNdXMy6PYYPVGb7wJEs_I_f5UpdKNTkfQyNqbeH3dDEq7FyHjlaM91e6-Pjbc4AJvXliZkNSyk-VFu5uv66pikPsSCMmLyRs7yllyIY0E6epgebbhAAByXQsq7QFMkVcuBPfIivXoGm_SOVTM0_gfqHmdu95WzskBJpIBvZau7pfEQ1p5Zvs0RIqZ59xj5AxM_A.m3u8?u=1757123819
-非凡新聞,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUaB2MBpZJIecyktt2dzKZQmXztaPqUaTu4Cwnl89i6cAR9Ns3UjqcoGz-7Ku7pzf8iRuAW58SqlW8Ghow8snuw6yfVoLvHJKXPQNA-W3LLPQLYBMRGmbNnAsWRe3wWdIC4EE16x_TBLIOmMb-W1cOjjtcA4GIBxfm2qECWwd6GZ4tuxkY-pmlspR_GyEilrC5x123WrqHPcYUKVnd9k5Lvw.m3u8?u=1756878715
+中天新闻,http://rihou.cc:555/tv/hktv%2F/tb19tw081173
+东森新闻,http://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv152&token=xiatianshigou
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 🌏　海外,#genre#
