@@ -3324,8 +3324,9 @@ TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 🌏　海外,#genre#
+美国Fox News,http://0dff2aae.ucomist.net/iptv/BQETB7GS453AKA/31915/index.m3u8
 美国Fox News,https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
-美国Fox News Channel,https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
+美国Fox News,http://0dff2aae.ucomist.net/iptv/BQETB7GS453AKA/30076/index.m3u8
 美国Fox 2 San Francisco CA (KTVU),https://livetv-fa.tubi.video/ktvu/index.m3u8
 美国Fox 2 Detroit MI (WJBK),https://livetv-fa.tubi.video/wjbk/index.m3u8
 美国Fox 4 Dallas / Fort Worth TX (KDFW),https://livetv-fa.tubi.video/kdfw/index.m3u8
