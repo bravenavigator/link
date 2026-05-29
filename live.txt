@@ -995,6 +995,8 @@ County News Center,https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/sdcounty/G0283_012/
 广东珠江,http://218.15.183.23:9901/tsfile/live/23009_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://218.15.183.23:9901/tsfile/live/23012_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://218.13.170.98:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+广东珠江,http://r.jdshipin.com/sE5vO
+广东体育,http://r.jdshipin.com/LiYdg
 广东珠江,http://rihou.cc:555/tv/[Cx]广东珠江
 广东体育,http://rihou.cc:555/tv/[Cx]广东体育
 岭南戏曲,http://183.239.108.37:1698/hls/75/index.m3u8
@@ -1022,6 +1024,9 @@ County News Center,https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/sdcounty/G0283_012/
 南国都市,http://zb.hmysapp.cn:802/dft/guangdong/guangzhou.php?id=shenghuo
 南国都市,http://111.170.156.74:3344/地方频道/guangdong/guangzhou.php?id=shenghuo
 南国都市,http://47.108.20.161:8866/guangdong/guangzhou.php?id=shenghuo
+广州综合,http://r.jdshipin.com/iR6Gq
+南国都市,http://r.jdshipin.com/nWaZO
+广州综合,http://r.jdshipin.com/snhya
 深圳都市,http://111.221.137.234:44330/tsfile/live/1014_1.m3u8?key=txiptv&playlive=0&authid=0
 深圳电视剧,http://111.221.137.234:44330/tsfile/live/1015_1.m3u8?key=txiptv&playlive=0&authid=0
 深圳都市,http://47.108.20.161:8866/guangdong/shenzhen.php?id=szds
@@ -1123,11 +1128,16 @@ County News Center,https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/sdcounty/G0283_012/
 凤凰资讯,http://r.jdshipin.com/0Rp07
 凤凰中文,http://r.jdshipin.com/cCCzW
 凤凰香港,http://r.jdshipin.com/yDoTN
+凤凰中文,http://tv.groupshare.com.cn/fhtv?id=cn
+凤凰资讯,http://tv.groupshare.com.cn/fhtv?id=info
+凤凰香港,http://tv.groupshare.com.cn/fhtv?id=hk
 TVB翡翠,https://o11.163189.xyz/stream/tvb/fct/
 TVB翡翠,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 TVB翡翠,http://r.jdshipin.com/qClQf
 TVB翡翠,http://r.jdshipin.com/qrfbg
 TVB翡翠,http://r.jdshipin.com/GeWKr
+TVB翡翠,http://r.jdshipin.com/62WM7
+TVB翡翠,http://r.jdshipin.com/n90gt
 TVB新闻,https://hls.168.us.kg/u/83/master.m3u8
 TVB新闻,https://cdn6.163189.xyz/163189/wxxw
 TVB新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
@@ -3394,9 +3404,8 @@ TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 🌏　海外,#genre#
-美国Fox News,http://0dff2aae.ucomist.net/iptv/BQETB7GS453AKA/31915/index.m3u8
 美国Fox News,https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
-美国Fox News,http://0dff2aae.ucomist.net/iptv/BQETB7GS453AKA/30076/index.m3u8
+美国Fox News,http://0dff2aae.ucomist.net/iptv/BQETB7GS453AKA/31915/index.m3u8
 美国Fox 2 San Francisco CA (KTVU),https://livetv-fa.tubi.video/ktvu/index.m3u8
 美国Fox 2 Detroit MI (WJBK),https://livetv-fa.tubi.video/wjbk/index.m3u8
 美国Fox 4 Dallas / Fort Worth TX (KDFW),https://livetv-fa.tubi.video/kdfw/index.m3u8
