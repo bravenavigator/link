@@ -983,6 +983,40 @@ CETV中国教育1,http://gmxw.7766.org:808/hls/122/index.m3u8
 重庆卫视,http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
 广西卫视,http://38.75.136.137:98/gslb/dsdqpub/gxwshd.m3u8?auth=testpub
 云南卫视,http://38.75.136.137:98/gslb/dsdqpub/ynwshd.m3u8?auth=testpub
+浙江卫视,http://183.129.255.66:8480/hls/27/index.m3u8
+广东卫视,http://183.129.255.66:8480/hls/31/index.m3u8
+安徽卫视,http://183.129.255.66:8480/hls/28/index.m3u8
+江苏卫视,http://183.129.255.66:8480/hls/33/index.m3u8
+河北卫视,http://183.129.255.66:8480/hls/39/index.m3u8
+东方卫视,http://183.129.255.66:8480/hls/30/index.m3u8
+四川卫视,http://183.129.255.66:8480/hls/36/index.m3u8
+重庆卫视,http://183.129.255.66:8480/hls/37/index.m3u8
+河南卫视,http://183.129.255.66:8480/hls/38/index.m3u8
+天津卫视,http://183.129.255.66:8480/hls/42/index.m3u8
+江西卫视,http://183.129.255.66:8480/hls/44/index.m3u8
+重温经典,http://183.129.255.66:8480/hls/50/index.m3u8
+云南卫视,http://183.129.255.66:8480/hls/40/index.m3u8
+湖北卫视,http://183.129.255.66:8480/hls/41/index.m3u8
+山东卫视,http://183.129.255.66:8480/hls/35/index.m3u8
+深圳卫视,http://183.129.255.66:8480/hls/34/index.m3u8
+湖南卫视,http://183.129.255.66:8480/hls/32/index.m3u8
+黑龙江卫视,http://183.129.255.66:8480/hls/47/index.m3u8
+辽宁卫视,http://183.129.255.66:8480/hls/46/index.m3u8
+湖南卫视,http://192.151.150.154/live/hnwshd.m3u8
+江苏卫视,http://192.151.150.154/live/jswshd.m3u8
+东方卫视,http://192.151.150.154/live/dfwshd.m3u8
+东南卫视,http://192.151.150.154/live/dnwshd.m3u8
+广西卫视,http://192.151.150.154/live/gxwshd.m3u8
+浙江卫视,http://192.151.150.154/live/zjwshd.m3u8
+山东卫视,http://192.151.150.154/live/sdwshd.m3u8
+湖北卫视,http://192.151.150.154/live/hbwshd.m3u8
+天津卫视,http://192.151.150.154/live/tjwshd.m3u8
+广东卫视,http://192.151.150.154/live/gdwshd.m3u8
+辽宁卫视,http://192.151.150.154/live/lnwshd.m3u8
+陕西卫视,http://192.151.150.154/live/snwshd.m3u8
+青海卫视,http://192.151.150.154/live/qhws.m3u8
+深圳卫视,http://192.151.150.154/live/szwshd.m3u8
+西藏卫视,http://192.151.150.154/live/xzws.m3u8
 北京卫视,http://61.178.227.57:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://61.178.227.57:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://61.178.227.57:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1623,6 +1657,8 @@ TVB翡翠,http://r.jdshipin.com/GeWKr
 TVB翡翠,http://r.jdshipin.com/62WM7
 TVB翡翠,http://r.jdshipin.com/n90gt
 TVB翡翠,http://111.221.137.234:44330/tsfile/live/0141_1.m3u8?key=txiptv&playlive=0&authid=0
+TVB翡翠,https://cdn6.163189.xyz/163189/fct
+TVB翡翠,https://cdn6.163189.xyz/163189/fct4k
 TVB新闻,https://hls.168.us.kg/u/83/master.m3u8
 TVB新闻,https://cdn6.163189.xyz/163189/wxxw
 TVB新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
@@ -1631,6 +1667,7 @@ TVB新闻,http://r.jdshipin.com/CkuBd
 TVB华丽,https://o11.163189.xyz/stream/live/hlt/
 TVB华丽,https://o11.163189.xyz/stream/live/jade/
 TVB华丽,http://r.jdshipin.com/thuYX
+TVB华丽,https://cdn6.163189.xyz/163189/hlfct
 TVB1,https://6.cdn.loc.cc/163189.php?id=tvb1
 TVB J1,https://6.cdn.loc.cc/163189.php?id=j1
 TVB PLUS,https://o11.163189.xyz/stream/tvb/tvbp/
@@ -1648,11 +1685,14 @@ HOY 77,http://hls.168.us.kg/u/77/master.m3u8
 HOY 77,http://cdn.163189.xyz/163189/hoy
 HOY 77,http://r.jdshipin.com/sFw4S
 HOY 77,http://iptv.4666888.xyz/iptv2A.php?id=35
+HOY 78,https://cdn.163189.xyz/163189/hoy78
 HOY 78,https://hls.168.us.kg/u/78/master.m3u8
 ViuTV,https://cdn.163189.xyz/163189/viu
 ViuTV,http://r.jdshipin.com/vSJvl
 RHK31,http://cdn.163189.xyz/163189/rthk31
 RHK32,http://cdn.163189.xyz/163189/rthk32
+RTHK31,https://cdn.163189.xyz/163189/rthk31
+RTHK32,https://cdn.163189.xyz/163189/rthk32
 RTHK31,https://smt.1678520.xyz/smt3.2.1.php?id=rhk31_twn
 RTHK31,http://iptv.4666888.xyz/iptv2A.php?id=23
 澳门卫星,http://103.233.191.134:1935/ch3/ch3.live/playlist.m3u8
@@ -1690,6 +1730,7 @@ TVB星河,https://o11.163189.xyz/stream/live/tvbxh/
 TVB千禧经典,https://o11.163189.xyz/stream/live/tvbc/
 TVB星河,http://r.jdshipin.com/sXuuD
 TVB星河,http://r.jdshipin.com/Voac4
+TVB星河,https://cdn6.163189.xyz/163189/tvbxh
 TVB星河,http://rihou.cc:555/tv/[Pd]无线星河
 TVB星河,https://o11.163189.xyz/stream/live/tvbxh/
 TVB功夫,http://rihou.cc:555/tv/[Pd]无线功夫
@@ -1767,11 +1808,10 @@ TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 延庆电视,http://videoplay.yanqingrmzx.com/yanqappvideo/yqingappvideo.m3u8?auth_key=1725670927-0-0-692111986e725c19ea6478b894e23911
 怀柔电视,http://1866360231.cloudvdn.com/a.m3u8?domain=pili-live-hdl-bjhr-tv.huairtv.com&player=1&streamid=bjhr-tv:bjhr-tv/huairtv&v3=1
 📺　上海,#genre#
-东方卫视,https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 上海新闻综合,https://live.264788.xyz/channel/shanghaixinwenzonghe?streamid=b42305d47a7ea7de356f6b9953dd63fb&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 上海都市,https://live.264788.xyz/channel/shanghaidushi?streamid=66feaac0153fda6d6dce43f793c0ae59&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-东方纪实,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
-上海纪实,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
+东方纪实,https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+上海纪实,https://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 东方财经,https://live.264788.xyz/channel/dongfangcaijing?streamid=82d4a4e6dd7add9e6d65efc2d7658b04&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 东方财经,https://live.264788.xyz/channel/dongfangcaijing?streamid=a031f2386ada4bc1264edce79c80dd18&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 第一财经,https://live.264788.xyz/channel/diyicaijing?streamid=50d4da670b986b3815f3797d1ffe0c6e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
@@ -3914,6 +3954,8 @@ TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
 星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 🌊　宝岛,#genre#
+中天新闻,http://rihou.cc:555/tv/[SZ]%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB
+中天新闻,http://rihou.cc:555/tv/[Bx]%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 🌏　海外,#genre#
@@ -4056,24 +4098,6 @@ TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 法国Fashion,https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
 法国Fashion,https://fashs043.cloudycdn.services/scte/sftv2/playlist.m3u8
 💫　儿童,#genre#
-Kuriakos Kids ,https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
-3ABN Kids,https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
-Extrema Kids TV ,https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
-ABC Kids,https://c.mjh.nz/abc-kids.m3u8
-PBS Kids,https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
-PBS Kids Alaska ,https://livestream.pbskids.org/out/v1/94b88ad58fc14f84a9382341f1c00b82/akst.m3u8
-PBS Kids Hawaii,https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8
-PBS Kids Mountain ,https://livestream.pbskids.org/out/v1/3fe3030a2c8045a3932f4289d9eba3e6/mst.m3u8
-PBS Kids Pacific ,https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8
-BeJoy.kids ,https://64b16f23efbee.streamlock.net/bejoy/bejoy/playlist.m3u8
-Bravo! Kids TV ,https://streaming.social3.hr/play/r3CK_tdsFIFL3bN7w4NW1plrwsCToUBsRFjhxM68sZY/m3u8
-Dios Te Ve Kids ,https://s.emisoras.tv:8081/diostevekids/index.m3u8
-KidsFlix,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
-Logos TV Kids,https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
-M-Net Kids ,http://ares.mnet.mk/hls/mnet-kids.m3u8
-Roya Kids,https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist.m3u8
-Roya Kids Originals ,https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist.m3u8
-Sat 7 Kids ,https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
 🎬　CHC,#genre#
 CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
 CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
