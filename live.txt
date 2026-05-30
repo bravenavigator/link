@@ -132,7 +132,7 @@ CCTV14少儿,http://61.178.227.57:9901/tsfile/live/1004_1.m3u8?key=txiptv&playli
 CCTV15音乐,http://61.178.227.57:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV16奥林匹克,http://61.178.227.57:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5+体育赛事,http://61.178.227.57:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV17农村农业,http://61.178.227.57:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV17农业农村,http://61.178.227.57:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1综合,http://111.221.137.234:44330/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV2财经,http://111.221.137.234:44330/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV3综艺,http://111.221.137.234:44330/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -166,7 +166,7 @@ CCTV13新闻,http://223.95.198.3:8000/hls/13/index.m3u8
 CCTV14少儿,http://223.95.198.3:8000/hls/14/index.m3u8
 CCTV15音乐,http://223.95.198.3:8000/hls/15/index.m3u8
 CCTV16奥林匹克,http://223.95.198.3:8000/hls/16/index.m3u8
-CCTV17农村农业,http://223.95.198.3:8000/hls/17/index.m3u8
+CCTV17农业农村,http://223.95.198.3:8000/hls/17/index.m3u8
 CCTV1综合,http://27.129.145.110:4433/hls/1/index.m3u8
 CCTV2财经,http://27.129.145.110:4433/hls/2/index.m3u8
 CCTV3综艺,http://27.129.145.110:4433/hls/3/index.m3u8
@@ -181,7 +181,7 @@ CCTV12社会与法,http://27.129.145.110:4433/hls/12/index.m3u8
 CCTV14少儿,http://27.129.145.110:4433/hls/14/index.m3u8
 CCTV15音乐,http://27.129.145.110:4433/hls/15/index.m3u8
 CCTV16奥林匹克,http://27.129.145.110:4433/hls/16/index.m3u8
-CCTV17农村农业,http://27.129.145.110:4433/hls/17/index.m3u8
+CCTV17农业农村,http://27.129.145.110:4433/hls/17/index.m3u8
 CCTV5+体育赛事,http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
 CCTV12社会与法,http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
 CCTV14少儿,http://38.75.136.137:98/gslb/dsdqpub/cctv14hd.m3u8?auth=testpub
@@ -1379,11 +1379,11 @@ TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 北京影视,http://m.061899.xyz/mg/bjys
 北京纪实科教,http://m.061899.xyz/mg/bjjs
 北京体育休闲,http://m.061899.xyz/mg/bjty
-卡酷少儿,http://m.061899.xyz/mg/bjkk
+北京卡酷少儿,http://m.061899.xyz/mg/bjkk
 北京影视,http://123.118.57.98:39901/tsfile/live/0019_1.m3u8
 北京新闻,http://123.118.57.98:39901/tsfile/live/1004_1.m3u8
 北京体育,http://123.118.57.98:39901/tsfile/live/1005_1.m3u8
-卡酷少儿,http://123.118.57.98:39901/tsfile/live/1013_1.m3u8
+北京卡酷少儿,http://123.118.57.98:39901/tsfile/live/1013_1.m3u8
 北京文艺,http://123.118.57.98:39901/tsfile/live/0017_1.m3u8
 北京纪实科教,http://123.118.57.98:39901/tsfile/live/0018_1.m3u8
 北京财经,http://123.118.57.98:39901/tsfile/live/1001_1.m3u8
@@ -1398,7 +1398,7 @@ TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 北京纪实科教,http://38.75.136.137:98/gslb/dsdqpub/btv3.m3u8?auth=testpub
 北京卡酷少儿,http://38.75.136.137:98/gslb/dsdqpub/btvkk.m3u8?auth=testpub
 北京卡酷少儿,http://107.150.60.122/live/btvkk.m3u8
-卡酷少儿,http://www.qhjx.top:18000/udp/238.255.2.106:5999
+北京卡酷少儿,http://www.qhjx.top:18000/udp/238.255.2.106:5999
 淘剧场,http://quan2018.mycloudnas.com:9000/udp/239.3.1.95:8001
 淘娱乐,http://quan2018.mycloudnas.com:9000/udp/239.3.1.100:8001
 萌宠,http://quan2018.mycloudnas.com:9000/udp/239.3.1.102:8001
