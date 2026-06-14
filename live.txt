@@ -1512,6 +1512,7 @@ CETV中国教育1,http://gmxw.7766.org:808/hls/122/index.m3u8
 兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 三沙卫视,http://221.226.51.220:50081/newlive/live/hls/38/live.m3u8
 海峡卫视,http://218.104.239.114:9901/tsfile/live/0150_1.m3u8
+延边卫视,https://srs.iyb983.cn:443/video/CYS/index.m3u8
 延边卫视,https://srs.iyb983.cn/video/CYS/index.m3u8
 ☀　外语,#genre#
 CGTN英语,http://127.0.0.1
