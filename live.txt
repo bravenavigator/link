@@ -1851,14 +1851,6 @@ TVB剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
 北京卫视4K,http://106.53.99.30/tv/bj.php?id=bjws4k
 北京卫视4K,http://nas.201606.xyz:4022/rtp/239.10.0.91:5140
 北京卫视4K,http://nas.201606.xyz:4022/rtp/239.10.0.92:5140
-北京体育,http://m.061899.xyz/mg/bjty
-北京新闻,http://m.061899.xyz/mg/bjxw
-北京财经,http://m.061899.xyz/mg/bjcj
-北京文艺,http://m.061899.xyz/mg/bjwy
-北京生活,http://m.061899.xyz/mg/bjsh
-北京少儿,http://m.061899.xyz/mg/bjkk
-北京影视,http://m.061899.xyz/mg/bjys
-北京纪实科教,http://m.061899.xyz/mg/bjjs
 北京新闻,http://m.061899.xyz/mg/bjxw
 北京财经,http://m.061899.xyz/mg/bjcj
 北京文艺,http://m.061899.xyz/mg/bjwy
